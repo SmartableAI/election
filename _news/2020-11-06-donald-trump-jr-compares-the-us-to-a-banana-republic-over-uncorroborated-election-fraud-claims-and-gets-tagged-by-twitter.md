@@ -47,37 +47,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
+    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
+    publishedDateTime: 2020-11-09T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 994
-        isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
+        height: 960
         isCached: true
   - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
     excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
@@ -111,17 +95,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
-    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
 
 secured: "XKB65XNdR/JitYX8fT6W7cJPoeN2UwtOPAK6Z2ZQIW2U5Pa+CDZMJbRM6dEWC/v5+GBZQLNScKNb6BRLKHjYK/+UfFr6p2vGyxxUnp7bKLpMBLYitLsxLBo0mTm9+NpjXzc21+x1dpjurYedv8pCEqNA0Wr4q+EN0g4/vhasLygYkjCN4A2iwWPTbzc6zic3J3k6w6M4SFs6XyKm1yGJypvhaNS2z0OZfBtaspPmNoGwdk5+4x5xz5eAZoouO8KXju1kJQ2PGlq5/NMyaHRs+4Up341HWxePSGtuQA+IjlKXDIzzbeqM5LpSHh+Wn7rRJO4ok7Y3A8FkhDZXzV2Er0QMlcHhpSR1wzDzvU21xfrgHYXEonReBlxF+1Idbc3Z3PdkKsiEVxxfUbO3D1dTivCYsJvqeuwUfD9gubZMHLIEF7pWJMXJCdmwx1DUidTAvUD3dNz0TNJpqS9HYZRjJtlAq7IAMfca0hr37zqOf9/5DJc0SYXhsUE/VlDOiQkcQvsv6K9bgND7noUZv0edNg==;yVnKoKBooZqo4kAM6yasZg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-pho
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
 type: article
 quality: 188
-heat: 688
+heat: 708
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Will Biden consider adding Republicans to his administration?"
+    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
+    publishedDateTime: 2020-11-13T23:37:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
     excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."

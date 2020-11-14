@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris: No parliamentary sanction for peer over tweet"
+    excerpt: "Lord Kilclooney, will not face any sanctions for calling US vice-president-elect Kamala Harris \"the Indian\". The standards commissioner said that as the comment was made on Twitter, it was outside her power to investigate,"
+    publishedDateTime: 2020-11-13T13:53:00Z
+    webUrl: "https://www.bbc.com/news/uk-northern-ireland-54928478"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-northern-ireland-54928478"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-northern-ireland-54928478"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
     excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
     publishedDateTime: 2020-11-07T16:51:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/6ac6595/2147483647/strip/true/crop/2048x1430+0+0/resize/840x587!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F57%2F3e257e5f130c40ac25e6a9b9078e%2Fla-1518827091-m3b6svi2yw-snap-image"
         width: 840
         height: 587
-        isCached: true
-  - title: "Kamala Harris: No parliamentary sanction for peer over tweet"
-    excerpt: "Lord Kilclooney, will not face any sanctions for calling US Kamala Harris \"the Indian\", The standards commissioner said that as the comment was made on Twitter, it was outside her power to investigate,"
-    publishedDateTime: 2020-11-13T14:06:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54928478"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "How ‘SNL' Perfectly Recreated Kamala Harris' White Pantsuit With Just Minutes to Spare"
     excerpt: "After more than 30 years on air, “Saturday Night Live” has accumulated quite the wardrobe, with nearly every piece of clothing one could need."

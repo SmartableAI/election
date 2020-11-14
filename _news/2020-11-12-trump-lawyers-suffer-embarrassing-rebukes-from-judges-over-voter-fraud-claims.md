@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suf
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
 type: article
 quality: 122
-heat: 242
+heat: 202
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
+    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
+    publishedDateTime: 2020-11-09T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
     excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
     publishedDateTime: 2020-11-06T14:38:00Z
@@ -46,38 +62,6 @@ related:
       - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
-        isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
         isCached: true
   - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
     excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
@@ -111,17 +95,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
-    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
 
 secured: "BR/KcxmRha8GYzFzUvA73RcJ5idckAO/kyLR2jKJD6t1ezk1Bw+KYl2v6Em8XF+5QBthgtM2wd6+EEbUA/XfHAsPtdT98t1GDKBG0HeblwP3Z+2Aycoyp0vkgs1n9tM3+KT2De7LWlj/azM3AGgcYlsoyeJX1NgmP29cz15SPfgMD4YXKELdDGAdlcwacDrLWW02GF+u5wk47KlRmgVxI8Kf2/pa6jEzQAnLILoDsDIMHlm6DoptktwexYHm7gRdgLr88Sp3whRNtwT7TGWiYpgK+yPNox354xGjofIhv82KbMoSzNs2S7/5tHnBCEGQ9QQ8O/4KsfzjCX/Gd/fwL1zZbno20CEXEqjDVomMDzYmohAnsN9u05z8bZDf00u0FVnjpDXTlXDAdLKNqSe6RO7t3QyR533d+s+3g5XMBo8dNBjLjWMrM5cjXXzeWPVUl4UV01jeOYyyUEXqkMmQ4REvEBhwN8DIg2IeWEm3+yQDU5igzcl4ls9tntHCvRRNJWOGKHKIqjYpJ0QPdyL2Qg==;PpHECpokVHAEa88xlcfgGA=="
 ---

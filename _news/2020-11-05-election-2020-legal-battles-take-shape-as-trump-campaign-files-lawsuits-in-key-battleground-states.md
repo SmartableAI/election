@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Geraldo talks to Trump on election results, says president is 'frustrated' but still 'strong'"
+    excerpt: "Fox News’ Geraldo Rivera said that after speaking with the president by phone, he has “no doubt” President Trump will run again in 2024 if his election lawsuits don’t alter the results of the 2020 election."
+    publishedDateTime: 2020-11-13T23:15:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7DlaqPV4bRc/geraldo-rivera-trump-election-results-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/geraldo-rivera-trump-election-results-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/geraldo-rivera-trump-election-results-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dadeef8-00dd-4344-9303-20e8d973abad/e2e98bd2-2fba-4d9c-bc38-2e90bae5a34b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Giuliani says Trump won't concede amid legal challenges"
     excerpt: "President Trump wouldn’t concede the election at this point and the race is “far from over,” Rudy Guiliani said Saturday at a news conference in Philadelphia."
     publishedDateTime: 2020-11-08T10:59:03Z

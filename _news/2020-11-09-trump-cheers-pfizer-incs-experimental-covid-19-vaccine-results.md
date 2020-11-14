@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump: Pfizer misrepresented deal on vaccine"
+    excerpt: "President Donald Trump said on Friday the pharmaceutical giant Pfizer misrepresented a deal it struck with the US government over a vaccine to combat the coronavirus pandemic. (Nov. 13)"
+    publishedDateTime: 2020-11-13T23:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/13/trump-pfizer-misrepresented-deal-vaccine/6286279002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/341f3d48-7173-4b66-a0d3-1c4d5ac33da7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
     excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."

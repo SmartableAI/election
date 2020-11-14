@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
     excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
     publishedDateTime: 2020-10-22T14:44:00Z

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
+    excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
+    publishedDateTime: 2020-11-14T00:49:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k155O0Qypks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110092511-ballot-counting-pennsylvania-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
     excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
     publishedDateTime: 2020-10-27T00:43:24Z

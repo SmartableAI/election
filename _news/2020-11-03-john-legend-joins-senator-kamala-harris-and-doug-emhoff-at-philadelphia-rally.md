@@ -28,6 +28,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 34
+  - title: "Senator Kamala Harris Holds Drive-In Rally in Pennsylvania's Lehigh Valley"
+    excerpt: "T13:05:00-05:00 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley."
+    publishedDateTime: 2020-11-02T14:31:00Z
+    webUrl: "https://www.c-span.org/video/?477691-1/senator-kamala-harris-holds-drive-rally-pennsylvanias-lehigh-valley"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
   - title: "Senator Kamala Harris Holds Canvas Kick Off Event in Luzerne County, Pennsylvania"
     excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County, Pennsylvania. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) hosts a canvas kick-off event in Luzerne County,"
     publishedDateTime: 2020-11-02T17:36:00Z

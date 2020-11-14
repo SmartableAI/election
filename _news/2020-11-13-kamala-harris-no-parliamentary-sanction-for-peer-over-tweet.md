@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Kamala Harris: No parliamentary sanction for peer over tweet"
-excerpt: "Lord Kilclooney, will not face any sanctions for calling US Kamala Harris \"the Indian\", The standards commissioner said that as the comment was made on Twitter, it was outside her power to investigate,"
-publishedDateTime: 2020-11-13T14:06:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54928478"
-webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54928478"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54928478"
+excerpt: "Lord Kilclooney, will not face any sanctions for calling US vice-president-elect Kamala Harris \"the Indian\". The standards commissioner said that as the comment was made on Twitter, it was outside her power to investigate,"
+publishedDateTime: 2020-11-13T13:53:00Z
+originalUrl: "https://www.bbc.com/news/uk-northern-ireland-54928478"
+webUrl: "https://www.bbc.com/news/uk-northern-ireland-54928478"
+ampWebUrl: "https://www.bbc.com/news/amp/uk-northern-ireland-54928478"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-northern-ireland-54928478"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -141,6 +145,6 @@ related:
       domain: charlotteobserver.com
     quality: 50
 
-secured: "jO6t31lJf6Hlbah4Al9Wzhk/52gGF3SBtyj+L9LLOIpwf6CcvROUApfmqY6yU0haLUM7MurJ+hXGGqU6CiDr4Mh/WxaUbwNaLv0gjFlTuPW1NdB9MNNy/d8rw2m9FkYgRHFR3TkjGwjmjWiS1VGIr1izuHZafC3r8DouAXMexZx1H7NU3TppLIqZGapJI3geqvUOOCA4YGffjC4tkAiZFzfCgtyS3dlzIPOoEsUEsi3UHFscXOrxBEYA2G2NcdHMi4VNGOnhi+7iYzrRDt0ObezpTQHFgMV3IuhzNGJ2k4URjLn6m9TPUq+tSodrceAGyUL4Mth9nIQ6GxUJJpntYedEUB3lD15vTlEOmn2jTLk5sQBPzOH8zhX+PRjE2J5p47NWsJ8Kql8RLHnak2eRFyFCf23LergpRdKb3fruDm+M9PjCVDjOB5Jc2uv5xBn4gP498mcpxB++zJvPLXdoX43lxXsPoGBvMhfdGhXY9kYCJoC52Z/uzY+04G6LijqECylRQGTFACl7NxMFcVeuDQ==;frdXQa7ccqksp3vXroC91Q=="
+secured: "UinAtfItfT8tPlB5w4utPgc18WTkvnOgrS7MErJ9FkOVlwTpqY0QTarrbjjI83Mexg332zc1hVoiN/0BM4nJxZLyJYvGpxDM54A4f2B/sJwJmfUsUU+MpRpf0lp2eUokjOYwGAEDX8+eBqO1rv/yvm3EYK+KcW2lKHq+Q+VYKCLrIoRYgNbnaQE2BLIEZqOhZJJXeOksdxUHm8lnHUaV9Kb6wqdJCOqa1arVXZpmD8/53njJVqiK2cJem5WwacvYgtyQupALcj+iafsBgfqeSpceRivSCOlvOb/KauYf6erIAjON/vzeXCQBXy/TVHNsRrWlGnFnCRgnPLoB4a07oErpME9qHrlX/riEd9d7OLs=;DgAIkVD2a89RjFSOFuPfFw=="
 ---
 

@@ -25,101 +25,108 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims"
-    excerpt: "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well."
-    publishedDateTime: 2020-11-11T16:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
+  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
+    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
+    publishedDateTime: 2020-11-03T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
-    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
-    publishedDateTime: 2020-11-06T14:38:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
+  - title: "Trump's attacks on mail-in ballots rankle some military vets"
+    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
         isCached: true
-  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
-    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
-    publishedDateTime: 2020-11-13T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
-    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
-    publishedDateTime: 2020-11-09T03:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: Reuters
+      domain: reuters.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "VScqjCf0pw5AJU7W+wXgvbtnbZaYwBOx55ghDse6l5RnL++lmcRC52Oj4duysbPx8aXsVOiu9NTwxArYMs2WL3hfQ8f+sdpvs3Jle/KfEAT/MnJ12PNDiSBXInlkv3C+G7BTRFZ/ick+mBhW2b9B1DVHr6pdR91Mz+y5gB995QkmBY+qHNyn1XTpZyQ38RO7f+hEMRjMfQyR7mj4gQ3lzqR/zT+iaPm/rcDm42jpNT9TzBor7vFVnmTWExJHFbXXso0YrCEDFKwIg5KR02ZGuBY55TA+EcVencREqJZlLDcyT+KEksDt302iPXIBHnVj8WXi0AJpxQKAvZJQCYY9SFKLcmFu8McdOnt0CKsd/uNYTnSLkeySc2oomO3jTaH8NAgjrac0vLc0bk42x/7k3OcYcy1BBIiMNCBGJfBhnhPSmpn1YdF7484njdqxl5/wHLF04NxkEUJXvNbWSUPk19UpksixOPleTbnIyM8x3ETiDiui/SsKehXokg83fBvTO9rbMFl6sCHisS/fbBxRuQ==;7kYziaSY8Rr4q2tpaQsaXQ=="

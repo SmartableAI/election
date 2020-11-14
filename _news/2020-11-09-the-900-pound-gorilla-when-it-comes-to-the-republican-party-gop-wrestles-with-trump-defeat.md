@@ -47,22 +47,6 @@ related:
         width: 3256
         height: 2163
         isCached: true
-  - title: "MAGA mean kids want you to be nice to them about Trump losing"
-    excerpt: "Trump's media bullies delighted in \"Leftist Tears.\" Now that Trump lost, they demand we be sensitive to their feelings and entertain wild fantasies."
-    publishedDateTime: 2020-11-10T16:15:00Z
-    webUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5faaaa471df1d50018219d0d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
     excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."
     publishedDateTime: 2020-11-10T22:17:00Z

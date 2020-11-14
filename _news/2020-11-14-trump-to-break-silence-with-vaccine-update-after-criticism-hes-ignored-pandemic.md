@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 558
     isCached: true
 
-secured: "lPQK3sz3R83htzV3WTqyTQ2WeJJnoKvsrkajJ6Z2piaPXK96LMhDScofMWFW9ssSVCjK2MHBJFm73F13F8qzHW09u8tOZSBWHwDoy/9fhQ+QpRJTi2Z1vKiN4l/SmkRH/MVT5c4J6H1AlJEt7m+qnz5jD6w5JnS8WXCc6WCdyZU3tzlPJU/ueVYpmWY2TQY6bAaEgHDhCp9LxmI5vGuQkiqet6RAYHvHR9/NRPQm+zeswJBV7sRCHwCvK7KYPvLU5yRI7VF9iwFpEibZqLVtF+n6t5x/vSbFAsAPdp+YjfgCT5S2K2pMrI6z9Pr2nB8sflPHpUqMyw040h+Ewm7Wzx06KfoHjXf9YY9DnzDMcq0=;745hwqLvilAgZVcHVgf5mA=="
+related:
+  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
+    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
+    publishedDateTime: 2020-11-13T10:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "2w2kJB/j0hLSAIy33jFlHn0eXhfcDc7PbPV8ZHBEGS8QKvhkeKP2+n9h0+VmUleaZgLacbSA6CLb5lzU5JVxZ9ph6wN/AMZWIM/9KWlV8dl5+ZRsp7clUthH6lPSNoXhkmHAXDwN/WYGEDDDyKvUwHGJxt4N1mLTFyfz8ZR2Wa1F98psz8ErOzP1XTakNkwYdwEQh42+CjPtOWx32dAdOy+TUcZ6uyTh29QiFt/3FhRO9bxcg9DTgLO7PVWuyEyrIVo2czjy3DgwAf42pew33DBZ97ecPL33zL9QESCj4bISFi/4qCWAfA2GoZNLawZidLSdGH0OhY7qxrHcVyZX/m0kgxJvjGk5GvcQgcivt/k=;DeUaxZNIdU9cSMWitZ3cKg=="
 ---
 

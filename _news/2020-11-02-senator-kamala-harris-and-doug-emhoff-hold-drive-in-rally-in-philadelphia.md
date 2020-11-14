@@ -19,6 +19,15 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Senator Kamala Harris Holds Drive-In Rally in Pennsylvania's Lehigh Valley"
+    excerpt: "T13:05:00-05:00 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley. 2020 Democratic vice presidential candidate Senator Kamala Harris (D-CA) holds a drive-in rally in Pennsylvania’s Lehigh Valley."
+    publishedDateTime: 2020-11-02T14:31:00Z
+    webUrl: "https://www.c-span.org/video/?477691-1/senator-kamala-harris-holds-drive-rally-pennsylvanias-lehigh-valley"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 33
   - title: "John Legend Joins Senator Kamala Harris and Doug Emhoff at Philadelphia Rally"
     excerpt: "Vice Presidential candidate Sen. Kamala Harris (D-CA) was joined by singer John Legend at a drive-in campaign rally in Philadelphia. It was the third and final event on the eve of Election Day."
     publishedDateTime: 2020-11-02T18:26:00Z

@@ -294,6 +294,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+        width: 1200
+        height: 832
+        isCached: true
   - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
     excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
     publishedDateTime: 2020-10-22T06:25:00Z

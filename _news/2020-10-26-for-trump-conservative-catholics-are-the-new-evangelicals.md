@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Trump demolished the walls between politics and sports. He might not like the result."
+    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Donald Trump Wins Wyoming"
     excerpt: "Donald Trump wins Wyoming."
     publishedDateTime: 2020-11-04T02:54:00Z

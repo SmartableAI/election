@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pence in Michigan says 'road to victory' runs through state"
-    excerpt: "Vice President Mike Pence told a Michigan crowd Wednesday that enthusiasm on the campaign trial doesn't match polls that have Joe Biden ahead of President Donald Trump. Pence spoke outdoors to about 300 people at Lacks Enterprises in Cascade Township,"
-    publishedDateTime: 2020-10-14T21:26:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
+    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
+    publishedDateTime: 2020-11-06T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
     excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
@@ -59,6 +73,47 @@ related:
         width: 1200
         height: 823
         isCached: true
+  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-07T14:16:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
+        width: 5620
+        height: 3747
+        isCached: true
+  - title: "To some Pennsylvania voters, Donald Trump is a threat to democracy. To others, he’s a regular guy for the regular people"
+    excerpt: "“One thing, they’re really reviving venues,” one guy said. “When Donald Trump Jr. was here last week at the bandshell — when’s the last time anyone saw anything at the bandshel"
+    publishedDateTime: 2020-10-11T16:20:00Z
+    webUrl: "https://www.thestar.com/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 50
+    images:
+      - url: "https://images.thestar.com/MgAz5co6DApdGYXA3KsO0uMu8IA=/1200x1071/smart/filters:cb(1602622737940)/https://www.thestar.com/content/dam/thestar/news/world/2020/10/11/to-some-pennsylvania-voters-donald-trump-is-a-threat-to-democracy-to-others-hes-a-regular-guy-for-the-regular-people/keenan1.jpg"
+        width: 1200
+        height: 1071
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "gTzeAN3PduNxOS7b4cf3cktX2FYyzhCc35bWqzgfFFDLZ3AT/y55/eEfgt7R+rPnoLYTwfqVxpwrpd4CtnCHNHz7v4PRDGKmdPWCQlXY1HInCD2ZqCc3krZIMWSNRm2M3k1mbCCHbGLkUUlatQCijOdoW0v5AnBsBYhuuDIULTvehEC7j88PTEjmrNIcFT7xGo4A3oac6YnKWRfi5B/DQ6gkQnOU0Z/AIxUR8bghxM6PXo13nykKt2DgIfBfst3kgsdNUKRrpLFZ/cKrQAYooKuJjJTa7tqkPDL4q7MOBZ5q1NDxqk16Wq1PlKviZ1Sp0QolV7jw0+HCOcDBgJiORnLTnGICW+mWX5BgP6tU8Cm9du4w4PIvbIPejFjA8eUJaWJurSXg8wneGox1nRZc7H8JmJUgTv1+GPHhW0R9E+8PIN+TRG2K8yz7oC7zATR/i4hxG2KnoNuO843Uf4YqRJwwMtQnn8x0iDj2MdHO8UWFO3YdPrnKzVwykwfuxfL6zGvoLIP6XtVRf0SCc3d2iw==;t0zCSAVA5cnLI6QARixskQ=="
 ---

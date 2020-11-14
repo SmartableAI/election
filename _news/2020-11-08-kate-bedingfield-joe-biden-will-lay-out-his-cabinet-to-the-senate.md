@@ -760,6 +760,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: John Kelly statement on Trump not helping with the transition to a Biden administration"
+    excerpt: "Former White House chief of staff John Kelly issued an on-the-record statement Friday night lambasting President Donald Trump for not helping with the transition to a Biden administration.\n    \n"
+    publishedDateTime: 2020-11-13T23:35:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UTvyOx-QRSg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/john-kelly-statement-trump-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/john-kelly-statement-trump-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605155857-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign adviser claims Biden's mask is a 'prop' as President hospitalized with Covid-19"
     excerpt: "A senior adviser to President Donald Trump's reelection campaign claimed that Democratic presidential nominee Joe Biden uses face masks as a \"prop,\" two days after the President was hospitalized after contracting the coronavirus.\n    \n"
     publishedDateTime: 2020-10-04T14:34:33Z
@@ -2829,6 +2845,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 142
+  - title: "Ivanka Trump and Jared Kushner's children withdrawn from school after administrators raised concerns about adherence to Covid precautions"
+    excerpt: "Administrators at the posh Washington private school that the three young children of Ivanka Trump and Jared Kushner attended for the last three years expressed concern about the couple's public flouting of Covid-19 guidelines, ultimately resulting in President Donald Trump's daughter and son-in-law"
+    publishedDateTime: 2020-11-14T00:16:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XmWteWqM7XQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/jared-kushner-ivanka-trump-children-school-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/jared-kushner-ivanka-trump-children-school-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113080842-jared-kushner-ivanka-trump-pennsylvania-0922-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Deceptively Edited Video of Biden Proliferates on Social Media"
     excerpt: "Tech companies had a haphazard response to the post, which was shared on the feeds of President Trump and other conservative figures."
     publishedDateTime: 2020-11-03T15:22:00Z

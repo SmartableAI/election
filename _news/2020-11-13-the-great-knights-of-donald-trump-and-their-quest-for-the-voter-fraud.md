@@ -2127,6 +2127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump appears to acknowledge for first time that Biden could succeed him"
+    excerpt: "President Donald Trump insisted on Friday he would never put the United States into a coronavirus lockdown but said \"time will tell\" if another administration takes office in January and does so, the closest he has come to acknowledging that President-elect Joe Biden"
+    publishedDateTime: 2020-11-13T23:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-vaccine-idINKBN27T2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27T2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27T2XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541173908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1QF"
+        width: 812
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
     publishedDateTime: 2020-11-02T09:12:00Z
@@ -4691,6 +4707,22 @@ related:
         width: 785
         height: 545
         isCached: true
+  - title: "Biden adviser walks back earlier proposal calling for lockdown"
+    excerpt: "Dr. Michael Osterholm -- an adviser to President-elect Joe Biden -- walks back his earlier suggestion that the nation consider another four- to six-week lockdown."
+    publishedDateTime: 2020-11-13T10:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-covid-19-advisory-board-member-suggests-week/story?id=74173793"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-covid-19-advisory-board-member-suggests-week/story?id=74173793"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-covid-19-advisory-board-member-suggests-week/story?id=74173793"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/covid-michael-osterholm-03-ap-llr-201112_1605219365856_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden has room on health care, though limited by Congress"
     excerpt: "President-elect Joe Biden is unlikely to get sweeping health care changes through a closely divided Congress, but there’s a menu of narrower actions he can choose from to make a tangible difference on"
     publishedDateTime: 2020-11-13T05:38:00Z
@@ -4786,6 +4818,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EVPORYBFFAI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "China congratulates Biden, but few US policy changes seen"
+    excerpt: "China has become one of the last major countries to congratulate U.S. President-elect Joe Biden, who is expected to make few changes to U.S. policy toward Beijing on trade, technology and other confli"
+    publishedDateTime: 2020-11-13T16:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/china-congratulates-biden-elected-us-president-74186277"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/china-congratulates-biden-elected-us-president-74186277"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/china-congratulates-biden-elected-us-president-74186277"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_3d4196e5700d4eb3975f13e738777bca_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "It goes from bad to worse for the Trump legal team"
     excerpt: "Prominent law firms have sought to withdraw from representing the Trump legal effort in both Arizona and Pennsylvania, while other efforts fizzle in court."
@@ -6358,19 +6406,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "As Trump refuses to concede defeat, far right groups plan show of support in Washington"
-    excerpt: "Far right groups and other backers of U.S. President Donald Trump plan to rally in Washington on Saturday in a public show of support for his unsubstantiated claim of widespread voting fraud in the Nov."
-    publishedDateTime: 2020-11-13T21:23:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27T2VV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2VV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2VV"
+  - title: "As Trump refuses to concede defeat, far-right groups plan show of support in Washington"
+    excerpt: "Far-right groups and other backers of U.S. President Donald Trump plan to rally in Washington on Saturday in a public show of support for his unsubstantiated claim of widespread voting fraud in the Nov."
+    publishedDateTime: 2020-11-14T00:27:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-protest-idUKKBN27T2VZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2VZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2VZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OV"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541177799&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OZ"
         width: 817
         height: 545
         isCached: true

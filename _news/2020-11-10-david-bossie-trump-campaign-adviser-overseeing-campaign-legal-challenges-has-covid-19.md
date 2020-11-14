@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump: Pfizer misrepresented deal on vaccine"
+    excerpt: "President Donald Trump said on Friday the pharmaceutical giant Pfizer misrepresented a deal it struck with the US government over a vaccine to combat the coronavirus pandemic. (Nov. 13)"
+    publishedDateTime: 2020-11-13T23:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/13/trump-pfizer-misrepresented-deal-vaccine/6286279002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/341f3d48-7173-4b66-a0d3-1c4d5ac33da7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
     excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
     publishedDateTime: 2020-11-04T08:06:00Z

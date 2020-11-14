@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MAGA mean kids want you to be nice to them about Trump losing"
-    excerpt: "Trump's media bullies delighted in \"Leftist Tears.\" Now that Trump lost, they demand we be sensitive to their feelings and entertain wild fantasies."
-    publishedDateTime: 2020-11-10T16:15:00Z
-    webUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5faaaa471df1d50018219d0d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
     excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
     publishedDateTime: 2020-11-08T16:58:00Z

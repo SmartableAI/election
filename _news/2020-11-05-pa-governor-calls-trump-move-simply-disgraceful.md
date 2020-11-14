@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/11/05/pa-governor
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/05/pa-governor-calls-trump-move-simply-disgraceful/6168743002/"
 type: article
 quality: 105
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -27,6 +27,88 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'"
+    excerpt: "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots."
+    publishedDateTime: 2020-11-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
+    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
+    publishedDateTime: 2020-11-07T00:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
+        width: 846
+        height: 545
+        isCached: true
+  - title: "Fact check: Partly false claim about discarded ballots in Pennsylvania amplified by Eric Trump"
+    excerpt: "Viral posts are partly false about less than a dozen discarded ballots in Pennsylvania. They weren't found in a ditch and aren't evidence of fraud."
+    publishedDateTime: 2020-11-10T14:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-partly-false-claim-discarded-ballots-pennsylvania/6213556002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6213556002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213556002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/NPPP/60eeaa8e-35d4-429c-be95-1e820b641547-APTOPIX_Election_2020_Pennsylvania_Vote_Counting.jpg?auto=webp&crop=4355,2450,x0,y220&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "We asked nine legal experts about Trump's latest lawsuit challenging election results in Pennsylvania. Their verdict: Dead on arrival."
+    excerpt: "President Donald Trump's campaign has sued Pennsylvania elections officials over mail balloting. Legal experts say the case is baseless."
+    publishedDateTime: 2020-11-10T04:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/legal-experts-say-trumps-election-lawsuit-pennsylvania-baseless/6228914002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228914002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228914002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "YNv738XyZbJAXLDabbT20iTsdDWRLOnLsNx1NItQ+cAaAWOivYJbUiPimEbpMqHBGS4d4UvsmUNSmitRccumkgVhm0+61dRbDTYtx2sdzYpUmA7kiSWypGFXL65Cv/6/XcUMj/YeCeDjdOWiovzgSuwBelZLpOwm0pIHxiZNvu7TvfLu4amyF2HDyoMtJgyOT0lOO5+arSeAoUQRKxSdvt6ZdISFEp+e62ENnZR/9koPpQ42N4guUnF8w7swjDJKyYM3gDfPcDtcaOOG+ol2YtrvCiWtNdzOw/YfThv4Wu4Jrq2Dh98aDipDJBETRwhs5XeLDvr6D+eeeTFMc2dCp5PoZhhjhuHiyfYPDVuGnxs=;Mq+JqRQ7GyMUYBJXOEXT4w=="
 ---

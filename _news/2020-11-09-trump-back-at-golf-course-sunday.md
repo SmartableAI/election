@@ -1540,6 +1540,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Groups Supporting Trump Expected to Rally Near White House"
+    excerpt: "Supporters of President Trump including some far-right groups say they plan to march near the White House on Saturday in support of the president, who hasn’t conceded the election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-13T23:54:00Z
+    webUrl: "https://www.wsj.com/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
+    ampWebUrl: "https://www.wsj.com/amp/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259769/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Jason Aldean's wife Brittany stands up for fellow Republicans, Trump after backlash from Biden supporters"
     excerpt: "Brittany Aldean, the wife of country singer Jason Aldean, shared her continued support for Donald Trump after facing criticism for lamenting Joe Biden’s win in the election."
     publishedDateTime: 2020-11-08T16:21:00Z
@@ -1597,6 +1613,20 @@ related:
       - url: "https://images.wsj.net/im-258521?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "President Trump Signals Possibility of Losing the Election"
+    excerpt: "President Trump on Friday appeared to acknowledge the possibility of losing the election to President-elect Joe Biden, after weeks of alleging election fraud without providing evidence. He has not conceded to Biden."
+    publishedDateTime: 2020-11-14T00:51:00Z
+    webUrl: "https://www.wsj.com/video/president-trump-signals-possibility-of-losing-the-election/5DBD494B-4763-434D-848F-7CAC25211DA3.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201113/111320.trump.lockdown.remarks/111320.trump.lockdown.remarks_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Weighs Legal Action to Force Trump Administration to Recognize Win"
     excerpt: "President-elect Joe Biden’s transition team is considering legal action if the Trump administration doesn’t formalize Mr. Biden’s win and give him access to crucial government resources. The General Services Administration,"

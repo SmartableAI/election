@@ -79,17 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump books will continue after Trump leaves office"
-    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
-    publishedDateTime: 2020-11-09T22:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "LLx5GFnVHr+104r64/SY+frMnUGOHG03D+fVXMCStYopCjc4a0PpclSFnVizIPK8/jCoVsc3Z3KE63OvzXbKkIAMEZkNH2N8O7F/GSg0nfiP+5uBC4+xsvr+dcVKf91x1nQQk5gVDbSFlfiOISUpxhcAP8pvLzyNgPfs8aiz75XbMEdXO1JfgE92+Q2+77QOiu26Re2nQwcAgPaN1VlzqKl5SeVh+KJ8uMbvC/bIL09/g4fuDLPgoPARr3yZ1wLQmx7LNG2qHx4P04HV1X1kMI769aUZHDFcd6Acj2FGoD9erWojCZzj3azfPV19EfInXJ88av5nyWql3dr8Zv1ynph3VxTVHp1+HKRVxaMTCM8=;T3Y0LuNhmhTdbhFqklFgWQ=="
 ---

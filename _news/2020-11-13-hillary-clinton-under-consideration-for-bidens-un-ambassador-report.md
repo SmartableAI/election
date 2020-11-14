@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Will Biden consider adding Republicans to his administration?"
+    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
+    publishedDateTime: 2020-11-13T23:37:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
     excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
     publishedDateTime: 2020-11-10T01:24:04Z

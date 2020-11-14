@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
+    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
+    publishedDateTime: 2020-11-03T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump's attacks on mail-in ballots rankle some military vets"
+    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "How and when will Trump leave office?"
     excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
     publishedDateTime: 2020-11-09T14:24:00Z
@@ -47,206 +79,56 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump's aides are increasingly gloomy – and mad at other GOP officials"
-    excerpt: "Some aides to President Donald Trump said they're not giving up on the election, but they're also bracing for the worst. They're also upset with other Republicans who have not spoken out against the ongoing election count as forcefully as Trump has."
-    publishedDateTime: 2020-11-05T23:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6181186002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002"
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/8e6c2ca7-73ee-4a93-b47f-7fc5415e3f65-AFP_AFP_8UJ3N7.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories"
-    excerpt: "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground."
-    publishedDateTime: 2020-11-08T20:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6149084002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
-    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
-    publishedDateTime: 2020-11-09T16:35:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "New York Gov. Cuomo predicts scientists will speak 'unmuzzled' now that 'Trump is out of office'"
-    excerpt: "Cuomo said \"the political pressure of denying COVID is gone\" after Joe Biden's victory was called in the 2020 presidential election."
-    publishedDateTime: 2020-11-08T17:31:00Z
-    webUrl: "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5fa813571df1d500182197a8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "We asked nine legal experts about Trump's latest lawsuit challenging election results in Pennsylvania. Their verdict: Dead on arrival."
-    excerpt: "President Donald Trump's campaign has sued Pennsylvania elections officials over mail balloting. Legal experts say the case is baseless."
-    publishedDateTime: 2020-11-10T04:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/legal-experts-say-trumps-election-lawsuit-pennsylvania-baseless/6228914002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6228914002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228914002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "HUD Secretary Ben Carson joins list of Trump administration officials who have tested positive for COVID-19"
-    excerpt: "Ben Carson joins a growing list of Trump administration officials, including President Donald Trump, who have contracted the highly contagious virus."
-    publishedDateTime: 2020-11-10T04:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/09/ben-carson-tests-positive-covid-19-joining-list-trump-allies/6221912002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6221912002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6221912002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/20/USAT/9006256c-99c3-4cfa-9c9a-572f4d9c2f1d-GTY_1167233837.JPG?auto=webp&crop=4153,2337,x0,y211&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is there any chance Trump will concede?"
-    excerpt: "Watch \"Is there any chance President Trump will concede the election?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-13T00:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201113000632-is-there-any-chance-president-trump-will-concede-the-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07673587_1605226015.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Mitch McConnell insists there will 'of course' be a peaceful transfer of power, breaking with Trump who would not commit to one"
-    excerpt: "The Senate Republican leader and other GOP figures have previously brushed off Trump's remarks about not conceding to a Biden administration."
-    publishedDateTime: 2020-11-07T14:09:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-insists-peaceful-transfer-of-power-2020-11?amp"
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
     images:
-      - url: "https://i.insider.com/5f9058b4212113001873fe95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
-    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
-    publishedDateTime: 2020-11-08T11:19:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
+      name: Reuters
+      domain: reuters.com
+    quality: 100
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
+  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
+    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
+    publishedDateTime: 2020-11-06T03:09:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 88
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
-    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
-    publishedDateTime: 2020-11-13T10:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
-    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
-    publishedDateTime: 2020-11-09T20:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "QVsp+FULSqiK5zqD5jutkDtv2Y09XBMJGySP/xrkfTJ47Ug+EEfgRIKHDcVUdYFTFRnBbwKJ7JAxKlWRnsWpOS663EDketHZ83uweN+ilZ2dG5HqvE4hpc1yO/l3pvS+EiP6Xdr2Ys1CpB+Tj0pXy909sBAP6vWh330pm1iJP4ZZj5wflCPPaGRqYXKYvU+RlrG7xFR1k9ZsKZrYJHl1d1nOoIJAE7uJHmz7CMFNEPeBC1i6Bg4zw63cKJ4WF5gB35uzU24sh+ElhUp5b3ohG90x3weMzbndtHNamPlTPDlCNAjyVThK/vPBAxCwq50L3fgJcO3iZWbtGHtsgOmBnz6d78wRXDthewjKDMD/ic4=;Fe8ho6La816QUfn2jXeoxg=="
 ---

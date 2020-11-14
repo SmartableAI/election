@@ -31,107 +31,188 @@ images:
     isCached: true
 
 related:
-  - title: "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail"
-    excerpt: "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday."
-    publishedDateTime: 2020-11-05T18:35:00Z
-    webUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225"
-    ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+  - title: "Donald Trump projected to win South Carolina"
+    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg"
-        width: 3256
-        height: 2163
-        isCached: true
-  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
-    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
-    publishedDateTime: 2020-11-08T16:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
-    excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."
-    publishedDateTime: 2020-11-10T22:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
+  - title: "EXPLAINER: Why AP called North Carolina for Trump"
+    excerpt: "The Associated Press declared Donald Trump the winner in North Carolina after concluding there were not enough ballots left to be counted that would allow Joe Biden to overtake his lead"
+    publishedDateTime: 2020-11-13T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 106
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BABJHWE75EI6VPQGV5KRJ3QDQU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The Health 202: Obamacare marketplaces survived Trump's term better than expected"
+    excerpt: "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected."
+    publishedDateTime: 2020-11-02T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMYV2VXGGEI6PK2QMIP6AWEDIA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Clyburn to Trump: 'The campaign is over'"
-    excerpt: "The highest-ranking Black member of Congress is urging President Donald Trump to stop challenging the results of the 2020 general election and start finding ways to work with the incoming administration."
-    publishedDateTime: 2020-11-09T20:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/09/clyburn-trump-the-campaign-over/6225991002/"
+  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
+        width: 870
+        height: 545
+        isCached: true
+  - title: "Dr. Ben Carson: I knew Donald Trump before politics. I urge America to reelect my friend."
+    excerpt: "When I stepped aside during the 2016 presidential primary season, I knew I was stepping aside for Donald Trump. I'm proud to support him again."
+    publishedDateTime: 2020-11-02T10:23:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/11/02/ben-carson-donald-trump-vote-election-2020-column/6075169002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6075169002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6075169002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/745c6da7-56ff-4258-841e-bdf763751241_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/-mm-/b6ff9508113af043b3879982ab1a0d41814aecfa/c=211-140-3001-1716/local/-/media/2018/05/07/USATODAY/USATODAY/636613284811814278-AP-Rental-Assistance-99433763.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
-  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
-    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
-    publishedDateTime: 2020-11-12T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
+  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
+    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
+    publishedDateTime: 2020-11-10T17:28:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump adviser on FBI's Clinton email probe"
+    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
+    publishedDateTime: 2020-11-03T06:52:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
-    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
-    publishedDateTime: 2020-10-30T02:03:00Z
-    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
-    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
+  - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
+    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
+    publishedDateTime: 2020-10-31T17:39:00Z
+    webUrl: "https://abc11.com/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
+    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
     type: article
     provider:
-      name: People
-      domain: people.com
-    quality: 63
+      name: WTVD
+      domain: abc11.com
+    quality: 73
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
-        width: 1500
-        height: 781
+      - url: "https://cdn.abcotvs.com/dip/images/7516195_103120-wtvd-pence-open-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "'They Deserve Any Mockery They Get.' Prank Callers Flood Trump's Voter Fraud Hotline, Forcing the President's Campaign to Create New Ones"
-    excerpt: "In response, prank callers have been flooding the number—as well as additional numbers the campaign has set up—with spam calls. Despite the fact that there have been no legitimate allegations of widespread voter fraud,"
-    publishedDateTime: 2020-11-09T23:19:00Z
-    webUrl: "https://time.com/5909443/trump-hotline-prank-calls-voter-fraud-election-tiktok/?linkId=104031968"
+  - title: "Mike Pence making 2 more campaign stops in North Carolina | Charlotte Observer"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump’s reelection bid."
+    publishedDateTime: 2020-10-27T08:17:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246741486.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246741486.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246741486.html"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 52
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
+    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
+    publishedDateTime: 2020-10-15T18:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Donald Trump Wins Kentucky"
+    excerpt: "Donald Trump wins Kentucky."
+    publishedDateTime: 2020-11-04T00:10:00Z
+    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-11-03/republican-eric-holcomb-wins-reelection-for-governor-in-indiana"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Al6uiCYe9t52jDpEQFKmZCOrNk/Vf9qv4m60yOB1Jl3gCbwp8pEiPNuGH3dAcfV8l1SXEXecQtwQ6OkNdg2UByindHJL3jfd+Coe06Vl+VJl5O25A7+GHwmt1NchSW2c7kmXYoQCDY05HfeiIFy6lThtqbK7m+BhIfxuOJlE2iiaJQ1CoA1i7bLe+WfNeqFGUp5yuz9fKJWvD1uUZ/AJilckKXXi2mr5OtFfktKoQJj+H8DF/0tGQ1Xd9guoY9w69wDO0IJviWmLJw14392rhKNC+UEuOiI/m8+yzhhl/1dOp/rCmA22miUtZl+yRTjd7/SqZpm9uNeEYy7F3wyXAoBI9DRvdreRP/auo32NJes=;OyfBFVAnCNTrBmDpHoI1JA=="
 ---
