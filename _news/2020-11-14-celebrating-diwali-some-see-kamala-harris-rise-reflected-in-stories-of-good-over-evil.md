@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2020-11-14/california-hindus-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true"
 type: article
 quality: 117
-heat: 377
+heat: 397
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Diwali Came Early This Year: Hindus Celebrate Kamala Harris Victory"
+    excerpt: "American vice president comes as Indians around the world celebrate Diwali — an annual festival commemorating the triumph of light over darkness."
+    publishedDateTime: 2020-11-14T21:21:00Z
+    webUrl: "https://www.npr.org/2020/11/14/935018319/diwali-came-early-this-year-hindus-celebrate-kamala-harris-victory"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains"
     excerpt: "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories."

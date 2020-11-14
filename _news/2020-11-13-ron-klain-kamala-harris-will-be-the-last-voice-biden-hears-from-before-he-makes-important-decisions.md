@@ -3,8 +3,8 @@ category: news
 title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
 excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
 publishedDateTime: 2020-11-13T06:57:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
 type: article
 quality: 64
 heat: -1
@@ -86,6 +86,6 @@ related:
       domain: washingtonexaminer.com
     quality: 55
 
-secured: "lbA90UNuo0XB1HdPVORlbWa1vAsWlHOeXw5wnF9DNKHoDJ5FBq8oFSTg1RvHlf/2fTkkbY2SQSDpcVV/uWxMi2RvB6ECshRD3tLKGYN/8H/O5lL/9m2oEQNs5PCc6c26SJYwiCs8r/C9X6DsNLwyN3BSmJsdAv2NOsUwDVBOBs6I/a/ItImqk1xDYwA12Eep3uNwPCmNnsZ7yXDS49Fv9UZJocYOTD5+aZr/K/CpWv4KQifDAFNB2m3aJJjEea7SFsWlD9lCJag7PxKQXfWPNWqWFtadbRSBPerfNeu6L7qKRncnfJoGtEOFMA5DEJPqBpMrAXeZH3Q53Y+mfSt64ao1KkpLHW+BlLJOAb7FVlI=;ZC7sw8JH8hvtmvtz2sxrIA=="
+secured: "E4SosOs+6u1dIRCSWmgDlIw0mfczANhk/u97dzSvP0jdiLTgLf6slF78jArYhb8jXOhYx7P8PFYDtMg0xmyqLPfzOiAHsGBLgVt5tPA8rC98xBSY/OuLxa+alt5VfI5MWmqZe9CAjF17voXOpfoKjnxC0L/xMcP6bQJKEbu0QVzf8Ags+tjxQrBWCgWg51LMNJ1b4XM/81h4xYOdY6FbSD1rsyyFi5SbrLpkMU7egOzIaQCRroMVpGDQMkbJ6w4Kg4PC3sK9oLVR8f2MHWM1IzUyPrGdO3yzzN8mU8QegI2kCaRhtdfRRV3d8QOYkVKneYfUt3thCiuKmsPAQ3DFtGfM8Cp1Dffpuh4vexLPT4Q=;yVTdZInOiHPiYq2jtkgR6Q=="
 ---
 

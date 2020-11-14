@@ -2015,6 +2015,22 @@ related:
         width: 783
         height: 545
         isCached: true
+  - title: "As legal blitz flounders, Trump protesters back false election claims"
+    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with long-shot legal challenges to overturn President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-14T22:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/as-legal-blitz-flounders-trump-protesters-back-false-election-claims-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541215473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD0EK"
+        width: 836
+        height: 545
+        isCached: true
   - title: "Top CEOs met to plan response to Trump's election denial"
     excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
     publishedDateTime: 2020-11-14T16:15:00Z
@@ -2253,6 +2269,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541173908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1QF"
         width: 812
+        height: 545
+        isCached: true
+  - title: "Trump supporters gather in Washington as he pushes false election claims"
+    excerpt: "President Donald Trump's supporters began gathering in Washington on Saturday for a protest to back his unsubstantiated claims of election fraud as he pushes ahead with a flurry of longshot legal challenges to overturn President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-14T21:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-win-in-arizona-puts-trumps-long-shot-legal-hopes-further-out-of-reach-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541139441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
         height: 545
         isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
@@ -5171,9 +5203,25 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump thrills protesting supporters with motorcade drive-by"
-    excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
-    publishedDateTime: 2020-11-14T19:14:00Z
+  - title: "Professor causes uproar asking Biden voters to unfriend him"
+    excerpt: "A Facebook post by a dean at Virginia Wesleyan University in which he asked people who voted for Democrat Joe Biden to unfriend him has caused an uproar at the private liberal arts school in Virginia"
+    publishedDateTime: 2020-11-14T20:12:00Z
+    webUrl: "https://www.washingtonpost.com/local/professor-causes-uproar-asking-biden-voters-to-unfriend-him/2020/11/14/af54cd74-26b5-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/professor-causes-uproar-asking-biden-voters-to-unfriend-him/2020/11/14/af54cd74-26b5-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/professor-causes-uproar-asking-biden-voters-to-unfriend-him/2020/11/14/af54cd74-26b5-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Thousands rally behind Trump, believing he won race he lost"
+    excerpt: "Fervent supporters of President Donald Trump have rallied and marched in Washington behind his spurious claim of a stolen election"
+    publishedDateTime: 2020-11-14T21:45:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
@@ -5186,6 +5234,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump thrills protesting supporters with motorcade drive-by"
+    excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
+    publishedDateTime: 2020-11-14T17:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -7152,6 +7216,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UPDATE 1-Biden aide sees localized COVID-19 restrictions, not national lockdown, after inauguration"
+    excerpt: "With cities and states across the United States reimposing restrictions to tame alarming surges in coronavirus infections and hospitalizations, a senior adviser to President-elect Joe Biden said on Friday there were no plans for nationwide lockdowns next year."
+    publishedDateTime: 2020-11-13T23:29:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-idUSL1N2HZ1Z6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2GL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2GL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541214570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Exclusive: Republicans seeking to raise at least $60 million to fund Trump legal challenges - sources"
     excerpt: "Republicans are trying to raise at least $60 million to fund legal challenges brought by President Donald Trump over the U.S. presidential election’s results, three sources familiar with the matter said on Friday."
     publishedDateTime: 2020-11-07T07:31:00Z
@@ -8013,14 +8093,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201114181524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201114221524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07697421_1605377944.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07698753_1605392344.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -8270,6 +8350,20 @@ related:
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-13T19:47:00Z
     webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0uxQXzYMTDfimHOuZBMT626KXdboIJHeU1Mk5oKBn4PoqiAWcyUbsFg14page%2F7page%2F2page%2F6page%2F7page/2"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 99
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/trump-concede-biden-01.jpg?quality=85&w=550"
+        width: 550
+        height: 367
+        isCached: true
+  - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
+    excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
+    publishedDateTime: 2020-11-14T18:35:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F2page%2F24page%2F24page%2F3page%2F4page%2F11page/2"
     type: article
     provider:
       name: Time

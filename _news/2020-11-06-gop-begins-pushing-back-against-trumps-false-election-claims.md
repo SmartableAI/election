@@ -2750,6 +2750,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Implores Trump to Confront a Surging Pandemic"
+    excerpt: "President Trump broke his near-total silence on the coronavirus on Friday with an appearance in the Rose Garden in which he threatened to deny New York access to a vaccine."
+    publishedDateTime: 2020-11-14T19:57:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/politics/biden-trump-coronavirus-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/politics/biden-trump-coronavirus-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/politics/biden-trump-coronavirus-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-virus-trump-1/merlin_179910804_172a860f-45e7-4865-bc73-b5870003559d-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z

@@ -59,6 +59,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Diwali Came Early This Year: Hindus Celebrate Kamala Harris Victory"
+    excerpt: "American vice president comes as Indians around the world celebrate Diwali — an annual festival commemorating the triumph of light over darkness."
+    publishedDateTime: 2020-11-14T21:21:00Z
+    webUrl: "https://www.npr.org/2020/11/14/935018319/diwali-came-early-this-year-hindus-celebrate-kamala-harris-victory"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
     excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
     publishedDateTime: 2020-11-12T19:00:00Z
