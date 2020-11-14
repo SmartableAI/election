@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama says there is 'no legal basis' for Trump election challenges"
+    excerpt: "Former President Barack Obama blasted President Trump and members of the Republican Party on Friday for claiming that there was widespread voter fraud during the 2020 presidential election. "
+    publishedDateTime: 2020-11-14T18:11:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SglJqXzlA_g/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20298774467167-e1603820180581.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -2001,19 +2001,35 @@ related:
         isCached: true
   - title: "Trump supporters head to the streets as he pushes false election claims"
     excerpt: "President Donald Trump's supporters will take to the streets on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with a flurry of longshot legal challenges to overturn President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-14T12:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/trump-supporters-head-to-the-streets-as-he-pushes-false-election-claims-idUSKBN27U08Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U08Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U08Z"
+    publishedDateTime: 2020-11-14T11:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27U08A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27U08A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27U08A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541192310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD05M"
-        width: 818
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541190059&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD05D"
+        width: 783
         height: 545
+        isCached: true
+  - title: "Top CEOs met to plan response to Trump's election denial"
+    excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
+    publishedDateTime: 2020-11-14T16:15:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
@@ -3134,6 +3150,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Election 2020 live updates: COVID-19 cases eise in wake Trump visits, Biden celebrations; Dems change dinner plans"
+    excerpt: "Spikes in coronavirus cases in Pennsylvania could be attributed to the days leading up to and following the 2020 Election."
+    publishedDateTime: 2020-11-14T15:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/election-updates-campaigns-tied-covid-spikes-dem-dinner-upended/6294392002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6294392002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6294392002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/0c9f0644-fe65-4031-9a4d-35d1e3463cfb-AP_Election_2020_Protests_Philadelphia.jpg?auto=webp&crop=2399,1349,x0,y153&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump-Biden transition live updates: Biden reaches 306 electoral votes, Trump at 232"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-14T03:25:00Z
@@ -3286,6 +3318,22 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/06/NOBD/975e3876-bff8-4543-bb1a-fb5fb9acae56-Trump.jpg?auto=webp&crop=2075,1168,x0,y127&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Dominion voting machines didn't delete votes from Trump, switch them to Biden"
+    excerpt: "Some news sources claimed vote counting software from Dominion Voting Systems deleted votes for Trump or switched votes to Biden. That's false."
+    publishedDateTime: 2020-11-14T16:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/14/fact-check-dominion-voting-machines-didnt-delete-switch-votes/6282157002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6282157002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282157002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/244956e7-384b-4c9d-8625-0c4956d064f5-GTY_1280198343.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -5139,6 +5187,22 @@ related:
         width: 787
         height: 545
         isCached: true
+  - title: "Trump thrills protesting supporters with motorcade drive-by"
+    excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
+    publishedDateTime: 2020-11-14T17:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -5597,6 +5661,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540770459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA922T"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump says the battleground states saw election fraud. Republican officials running those states disagree."
+    excerpt: "President Donald Trump has claimed, without offering evidence, that the election was overrun by fraud and his campaign filed a number of lawsuits attacking the voting process in several battleground states he went on to lose."
+    publishedDateTime: 2020-11-14T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/election-2020-gop-officials-swing-states-shoot-down-trump-fraud-claims/6271421002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6271421002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6271421002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/0e4f739a-63ae-45f9-87ec-01d6b918ecbc-VPC_TRUMP_ON_HUSBANDS_BACK_TO_WORK_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Boris Johnson calls Trump the 'previous president' after an 'extremely exciting' conversation with Joe Biden"
     excerpt: "The UK prime minister on Wednesday said it was \"refreshing\" to hear Joe Biden \"stick up for NATO\" in their phone call on Tuesday."
@@ -7914,6 +7994,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden works on transition to White House"
+    excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-14T18:06:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201114171528-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07697351_1605374344.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -8158,8 +8252,8 @@ related:
         isCached: true
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
-    publishedDateTime: 2020-11-14T02:17:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F24page%2F24page%2F3page%2F5page/2"
+    publishedDateTime: 2020-11-13T19:47:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0uxQXzYMTDfimHOuZBMT626KXdboIJHeU1Mk5oKBn4PoqiAWcyUbsFg14page%2F7page%2F2page%2F6page%2F7page/2"
     type: article
     provider:
       name: Time

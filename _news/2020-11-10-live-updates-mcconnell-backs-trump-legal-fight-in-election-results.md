@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama says there is 'no legal basis' for Trump election challenges"
+    excerpt: "Former President Barack Obama blasted President Trump and members of the Republican Party on Friday for claiming that there was widespread voter fraud during the 2020 presidential election. "
+    publishedDateTime: 2020-11-14T18:11:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SglJqXzlA_g/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20298774467167-e1603820180581.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McCarthy expects four more years for Trump after 'a very strong' election night"
     excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected."
     publishedDateTime: 2020-11-04T18:52:45Z

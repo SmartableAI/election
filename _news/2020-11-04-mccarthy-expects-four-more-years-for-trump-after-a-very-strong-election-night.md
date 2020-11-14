@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Obama says there is 'no legal basis' for Trump election challenges"
+    excerpt: "Former President Barack Obama blasted President Trump and members of the Republican Party on Friday for claiming that there was widespread voter fraud during the 2020 presidential election. "
+    publishedDateTime: 2020-11-14T18:11:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SglJqXzlA_g/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20298774467167-e1603820180581.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rips pre-election Wisconsin poll showing him down 17 points as 'suppression'"
     excerpt: "President Trump on Wednesday ripped a pre-election poll in the key battleground state of Wisconsin, which showed him trailing Joe Biden by a whopping 17 points, slamming it as \"illegal suppression.\""
     publishedDateTime: 2020-11-11T15:04:17Z
