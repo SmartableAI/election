@@ -839,6 +839,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump refuses to concede, his agencies awkwardly prepare what they can for a Biden transition"
+    excerpt: "Bulky briefing books and budgets are unopened. Office spaces dedicated to the transition sit vacant. And planning conversations between incoming and outgoing administrations have been silenced for now.\n    \n"
+    publishedDateTime: 2020-11-14T01:34:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_6zLnSWSRtY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/transition-agencies-wait-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/transition-agencies-wait-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bolton: Trump trying to set up con on his own supporters"
     excerpt: "CNN's Jake Tapper speaks with former national security adviser John Bolton about President Donald Trump's rhetoric around when mail-in ballots should be counted and Trump's threats of legal action after polls close on Election Day.\n    \n"
     publishedDateTime: 2020-11-02T22:49:54Z

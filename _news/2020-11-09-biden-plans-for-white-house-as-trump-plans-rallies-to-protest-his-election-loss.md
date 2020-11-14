@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 12341
+heat: 12381
 published: true
 
 provider:
@@ -4870,8 +4870,8 @@ related:
         isCached: true
   - title: "Trump mulls a future outside the White House as 2020 options fade"
     excerpt: "With his long-shot efforts to hang on for a second term dwindling, U.S. President Donald Trump is discussing with advisers several media ventures and appearances that would keep him in the spotlight ahead of a potential 2024 White House bid."
-    publishedDateTime: 2020-11-13T20:43:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-future-idUSL1N2HZ1YR"
+    publishedDateTime: 2020-11-14T01:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-future-idUSKBN27T2TX"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2TX"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2TX"
     type: article
@@ -5011,6 +5011,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/09/24/USAT/88d25c16-f7c7-44aa-9390-378b74589df2-AP_Trump.JPG?auto=webp&crop=5259,2958,x0,y163&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Supreme Court goes idle on Trump-related disputes and time is running out"
+    excerpt: "Has the Supreme Court hit the pause button on all things President Trump? The justices for more than three weeks have been holding on to the president’s last-ditch plea to shield his private financial records from Manhattan’s district attorney."
+    publishedDateTime: 2020-11-14T00:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-tax-returns-election-dispute/2020/11/13/2fc25b5a-252d-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/supreme-court-trump-tax-returns-election-dispute/2020/11/13/2fc25b5a-252d-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/supreme-court-trump-tax-returns-election-dispute/2020/11/13/2fc25b5a-252d-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XM5KMVRFXEI6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
@@ -6407,19 +6423,19 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "As Trump refuses to concede defeat, far-right groups plan show of support in Washington"
-    excerpt: "Far-right groups and other backers of U.S. President Donald Trump plan to rally in Washington on Saturday in a public show of support for his unsubstantiated claim of widespread voting fraud in the Nov."
-    publishedDateTime: 2020-11-14T00:27:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-protest-idUKKBN27T2VZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2VZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2VZ"
+  - title: "As Trump refuses to concede defeat, far right groups plan show of support in Washington"
+    excerpt: "Far right groups and other backers of U.S. President Donald Trump plan to rally in Washington on Saturday in a public show of support for his unsubstantiated claim of widespread voting fraud in the Nov."
+    publishedDateTime: 2020-11-14T02:07:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN27T2VV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2VV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2VV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541177799&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OZ"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OV"
         width: 817
         height: 545
         isCached: true
@@ -7552,6 +7568,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07687030_1605294724.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump rules out COVID 'lockdown' for his term"
+    excerpt: "President Donald Trump says he refuses to have another lockdown as COVID cases surge across the U.S., but suggested one could be in the offing should he lose his legal challenges to overcome his election loss to President-elect Joe Biden."
+    publishedDateTime: 2020-11-14T01:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/13/trump-rules-out-covid-lockdown-his-term/6286361002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3298cd8d-6033-4b58-a9cd-a19d16cb24b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."

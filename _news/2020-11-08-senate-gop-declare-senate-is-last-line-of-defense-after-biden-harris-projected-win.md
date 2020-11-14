@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 943
+heat: 963
 published: true
 
 provider:
@@ -335,6 +335,20 @@ related:
       - url: "https://s.hdnux.com/photos/76/55/53/16440015/5/rawImage.jpg"
         width: 2048
         height: 1396
+        isCached: true
+  - title: "Debunking the absurd conspiracy theory that Kamala Harris will take over as president"
+    excerpt: "Vice President-elect Kamala Harris has been the subject of a number of conspiracy theories by far-right agitators and meme-makers. But one of the most widespread — and likely to gain momentum as Joe Biden’s inauguration nears — is the false claim that Harris will soon take over as president."
+    publishedDateTime: 2020-11-13T20:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/36/20232080/3/rawImage.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Kamala Harris to spend part of Election Day in Detroit"
     excerpt: "The last-minute swing through Michigan signifies the importance of the state in deciding the ultimate outcome of the presidential election."

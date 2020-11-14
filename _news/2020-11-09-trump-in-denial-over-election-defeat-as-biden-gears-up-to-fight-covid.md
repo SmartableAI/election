@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5005
+heat: 5025
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106115842-02-election-counting-pennsylvania-1106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Trump refuses to concede, his agencies awkwardly prepare what they can for a Biden transition"
+    excerpt: "Bulky briefing books and budgets are unopened. Office spaces dedicated to the transition sit vacant. And planning conversations between incoming and outgoing administrations have been silenced for now.\n    \n"
+    publishedDateTime: 2020-11-14T01:34:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_6zLnSWSRtY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/transition-agencies-wait-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/transition-agencies-wait-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -347,6 +347,20 @@ related:
         width: 2048
         height: 1396
         isCached: true
+  - title: "Debunking the absurd conspiracy theory that Kamala Harris will take over as president"
+    excerpt: "Vice President-elect Kamala Harris has been the subject of a number of conspiracy theories by far-right agitators and meme-makers. But one of the most widespread — and likely to gain momentum as Joe Biden’s inauguration nears — is the false claim that Harris will soon take over as president."
+    publishedDateTime: 2020-11-13T20:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/36/20232080/3/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Kamala Harris to visit Detroit on Election Day"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Detroit during a final campaign swing through Michigan on Election Day. Harris is returning to Michigan, a key battleground state, a day after President Donald Trump scheduled rallies in Traverse City and Grand Rapids."
     publishedDateTime: 2020-11-02T19:53:00Z

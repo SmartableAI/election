@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-09-karen-pences-office-defends-her-appearing-without-a-mask-at-debate.md",
+      "title": "Karen Pence's office defends her appearing without a mask at debate",
+      "excerpt": "Second lady Karen Pence’s office defended her appearance on the debate stage Wednesday night without wearing a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "originalUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencekaren_10082020_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "publishedDateTime": "2020-10-08T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-smoothing-chaos-to-dullness-was-pences-point.md",
       "title": "Smoothing chaos to dullness was Pence's point",
       "excerpt": "Before we get to his defense of the Trump administration, let's discuss Mike Pence's opposition to a wall. There was something deeply pathetic about the vice president protesting a panel of ...",
@@ -1576,49 +1628,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake.md",
-      "title": "VP Mike Pence comes to Omaha area for campaign event in Carter Lake",
-      "excerpt": "Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, October 01, 2020. The vice president is scheduled to speak at PVS Structures, a metal fabricator, in Carter Lake ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.html",
-      "originalUrl": "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png",
-          "width": 699,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html",
-      "cdnAmpWebUrl": "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html",
-      "publishedDateTime": "2020-10-01T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

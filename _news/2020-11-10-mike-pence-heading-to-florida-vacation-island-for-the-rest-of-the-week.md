@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mike Pence is already on vacation"
-    excerpt: "Like many Americans, Vice President Mike Pence needed a vacation after the year that was last week. And so he's making like a man who isn't partially embroiled in a complicated but ultimately doomed legal battle to try to wrench back an election victory from the legitimate winners,"
-    publishedDateTime: 2020-11-09T21:50:00Z
-    webUrl: "https://theweek.com/speedreads/948953/mike-pence-already-vacation"
-    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
-    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/948953/mike-pence-already-vacation"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 75
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1158244766.jpg?itok=sy8XlQ2y&resize=450x300"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Mike Pence plans trip to Florida for 'time off'"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
     publishedDateTime: 2020-11-09T22:33:00Z
