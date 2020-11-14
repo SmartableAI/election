@@ -527,6 +527,22 @@ related:
         width: 797
         height: 545
         isCached: true
+  - title: "Biden solidifies U.S. election win, Trump says 'time will tell' if he stays in power"
+    excerpt: "U.S. President-elect Joe Biden solidified his election victory on Friday by winning the state of Georgia, and President Donald Trump said \"time will tell\" if another administration takes over soon, the closest he has come to acknowledging Biden could succeed him."
+    publishedDateTime: 2020-11-14T06:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27T0IS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27T0IS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27T0IS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541139441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "2020 Election Live Updates: Trump and Biden make last-minute appeals on eve of election"
     excerpt: "The CBS News Battleground Tracker on November 1 found that Biden holds an Electoral College lead heading into Election Day, with Mr. Trump needing a surge of in-person voters to win. While U.S. intelligence and national security officials have warned voters to be aware of efforts by foreign actors to interfere in the general election through disinformation campaigns,"
     publishedDateTime: 2020-11-02T21:53:00Z
@@ -590,6 +606,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541070214&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
         width: 817
         height: 545
+        isCached: true
+  - title: "COVID-19 cases surged in Pennsylvania after Trump visits, Biden celebrations"
+    excerpt: "As Pennsylvania grapples with a record number of positive COVID-19 cases, concerns are mounting that some of the infections could be blamed on the 2020 presidential election. President Donald Trump's campaign rallies attracted tens of thousands of supporters in the waning days of his re-election bid in Pennsylvania."
+    publishedDateTime: 2020-11-14T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/pa-covid-19-cases-surge-following-donald-trump-rally-joe-biden-celebrations/6293988002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6293988002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6293988002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/54946d6d-9fc2-40c9-92bc-757823ae6d21-AFP_AFP_8T26QB.jpg?auto=webp&crop=5402,3039,x0,y379&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
     excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
@@ -1921,10 +1953,10 @@ related:
         isCached: true
   - title: "Trump supporters head to the streets as he pushes false election claims"
     excerpt: "President Donald Trump's supporters will take to the streets on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with a flurry of longshot legal challenges to overturn President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-14T06:34:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27U08A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27U08A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27U08A"
+    publishedDateTime: 2020-11-14T12:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/trump-supporters-head-to-the-streets-as-he-pushes-false-election-claims-idUSKBN27U08Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U08Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U08Z"
     type: article
     provider:
       name: Reuters
@@ -2590,6 +2622,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/31/USAT/01de4803-719f-48f8-ac3c-873cfe894844-AFP_AFP_1WO5H1.jpg?auto=webp&crop=3474,1955,x0,y192&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "D.C. braces for rallies by Trump supporters who falsely claim he won election"
+    excerpt: "The demonstrators, who include white nationalists, conspiracy theorists and far-right protesters from across the country, will face anti-Trump counterprotesters and police trying to keep the groups separated."
+    publishedDateTime: 2020-11-14T12:03:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/14/million-maga-march-dc-protests/"
+    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/14/million-maga-march-dc-protests/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/14/million-maga-march-dc-protests/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/75MIJLBF7II6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 985
         isCached: true
   - title: "President Trump taps Rudy Giuliani to take over election legal fight: Sources"
     excerpt: "President Donald Trump has installed Rudy Giuliani to lead the legal efforts he has mounted to resuscitate his failed bid for a second term in office, a move that comes after a series of court defeats Friday,"
@@ -4899,6 +4947,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Biden faces tough choice of whether to back virus lockdowns"
+    excerpt: "President-elect Joe Biden’s advisers are already signaling that a nationwide lockdown is not under consideration for combating the coronavirus pandemic"
+    publishedDateTime: 2020-11-14T05:58:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_9335e7537a0941dda8ff8453dcde4f85_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden gives boost to retiring senator's climate change plan"
     excerpt: "A plan championed by retiring Democratic Sen. Tom Udall of New Mexico to harness the nation’s lands and ocean waters to fight climate change is getting a boost from Joe Biden"
     publishedDateTime: 2020-11-14T05:34:00Z
@@ -6261,6 +6325,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden's team says he will get daily briefings from his COVID-19 coordinator, unlike Trump who often blanks his task force for weeks"
+    excerpt: "Incoming chief of staff Ron Klain said Biden will have a \"COVID coordinator\" with direct daily access to him, as Trump continues not to engage."
+    publishedDateTime: 2020-11-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fae6be34652d400197442d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CBS News projects Biden wins Georgia, Trump wins North Carolina"
     excerpt: "CBS News projects that President-elect Joe Biden will win Georgia and President Trump will win in North Carolina, the final two states to be called in the 2020 race. CBSN breaks down the latest developments with political contributor and Washington Post national politics reporter Sean Sullivan."
     publishedDateTime: 2020-11-13T22:11:00Z
@@ -6347,6 +6427,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RCA4TYRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "As Trump Pushes Election Falsehoods, His Cybersecurity Agency Pushes Back"
+    excerpt: "Led by one of President Trump's nominees, the agency has been actively trying to correct misinformation spread by all sorts of actors, including Trump, about the election."
+    publishedDateTime: 2020-11-14T11:00:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/14/934220380/as-trump-pushes-election-falsehoods-his-cybersecurity-agency-pushes-back"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 119
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/12/gettyimages-1149090321_wide-468ad52e7d25dbe161f383d69197fce46e4fbd70.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
@@ -6802,6 +6896,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden aide says no U.S.-wide COVID lockdown planned as West Coast states advise against travel"
+    excerpt: "President-elect Joe Biden's top coronavirus adviser said on Friday there were no plans for a wholesale nationwide lockdown to curb the surging coronavirus as three U.S. West Coast states jointly called for a halt in non-essential travel."
+    publishedDateTime: 2020-11-14T06:51:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN27T2GL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2GL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2GL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541178222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PI"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "President-elect Biden, denied classified intel briefings, to bring in national security experts"
+    excerpt: "U.S. President-elect Joe Biden will be briefed by national security experts next week, Biden transition official Jen Psaki said on Friday, amid concerns that being out of the loop due to delays to the transition could be a national security risk."
+    publishedDateTime: 2020-11-14T06:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-transition-idCAKBN27T2KX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27T2KX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27T2KX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541156069&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1GV"
+        width: 853
+        height: 545
+        isCached: true
   - title: "President-elect Joe Biden: What Biden means for workers' wages, child care and diversity training"
     excerpt: "A Joe Biden presidency may reshape the workplace. From raising minimum wage to encouraging diversity, Biden may restore protections Trump eliminated,"
     publishedDateTime: 2020-11-08T12:04:00Z
@@ -6913,22 +7039,6 @@ related:
       - url: "https://i.insider.com/5fab08b9f7d1cb0019e3afea?width=1200&format=jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Biden's team says he will get daily briefings from his COVID-19 coordinator, unlike Trump who often blanks his task force for weeks"
-    excerpt: "Incoming chief of staff Ron Klain said Biden will have a \"COVID coordinator\" with direct daily access to him, as Trump continues not to engage."
-    publishedDateTime: 2020-11-14T09:20:00Z
-    webUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fae6be34652d400197442d8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
     excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."
@@ -7997,6 +8107,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/760005f2-a91e-459f-a175-ed64c8f45728/thumbnail/1200x630/838d00cf7ee0ce50578969ce1c77a844/cbsn-fusion-new-jobless-claims-economy-facing-biden-administration-thumbnail-586864-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
+    excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
+    publishedDateTime: 2020-11-14T02:17:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F24page%2F24page%2F3page%2F5page/2"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 99
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/trump-concede-biden-01.jpg?quality=85&w=550"
+        width: 550
+        height: 367
         isCached: true
   - title: "President Trump, Joe Biden hold rallies in battleground states ahead of Election Day"
     excerpt: "President Trump and Joe Biden focused on key battleground states as election day approaches. The president held rallies in Iowa, North Carolina, Georgia and Florida. He began the day in Michigan, where he made an appeal to suburban women,"
