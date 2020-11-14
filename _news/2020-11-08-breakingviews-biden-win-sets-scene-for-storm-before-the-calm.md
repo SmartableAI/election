@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
         width: 828
+        height: 545
+        isCached: true
+  - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
+    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
+    publishedDateTime: 2020-11-14T02:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
+        width: 817
         height: 545
         isCached: true
   - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"

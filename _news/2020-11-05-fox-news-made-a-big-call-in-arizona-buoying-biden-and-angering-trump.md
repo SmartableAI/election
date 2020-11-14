@@ -2796,6 +2796,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Loses String of Election Lawsuits, Leaving Few Vehicles to Fight His Defeat"
+    excerpt: "The president’s efforts to use the courts to delay or block President-elect Joseph R. Biden Jr.’s victory were turned aside in cases in Pennsylvania, Michigan and Arizona."
+    publishedDateTime: 2020-11-14T04:33:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/politics/trump-loses-election-lawsuits.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/politics/trump-loses-election-lawsuits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/politics/trump-loses-election-lawsuits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 145
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-trump-legal/merlin_179571423_4dda0049-5d00-48ce-9e90-7c244ee8236b-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "In midnight vote, Biden wins Dixville Notch. Trump takes other New Hampshire town."
     excerpt: "In Dixville Notch, where a handful of masked residents voted shortly after midnight on Tuesday, all five votes for president went to Joseph R. Biden Jr., the Democratic nominee. He is the first presidential candidate to sweep the general election vote in Dixville Notch since the midnight voting tradition began there in 1960,"
     publishedDateTime: 2020-11-03T08:44:00Z
@@ -3501,6 +3517,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/11/nyregion/13nytrump-vance11/13nytrump-vance11-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "John King: If Trump thinks 2016 was a landslide, 2020 is as well"
+    excerpt: "CNN's John King breaks down President-elect Joe Biden's winning margin over outgoing President Donald Trump and notes that Trump declared in 2016 that the same electoral vote count was a \"landslide\" victory."
+    publishedDateTime: 2020-11-14T02:12:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/11/14/magic-wall-how-biden-beat-trump-2020-election-ac360-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/14/magic-wall-how-biden-beat-trump-2020-election-ac360-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/14/magic-wall-how-biden-beat-trump-2020-election-ac360-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113205939-john-king-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "NBC News projects Biden will win Nebraska's Second Congressional District"
     excerpt: "NBC News projects that Joe Biden will win an electoral vote from Nebraska's Second Congressional District in the 2020 presidential race."

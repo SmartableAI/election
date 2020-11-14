@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-09-now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election.md",
+      "title": "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election",
+      "excerpt": "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/",
+      "originalUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715",
+          "width": 1024,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/",
+      "publishedDateTime": "2020-11-08T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-you-cant-be-what-you-cant-see-female-politicians-of-color-discuss-what-harris-win-means-to-them.md",
       "title": "'You can't be what you can't see': Female politicians of color discuss what Harris' win means to them",
       "excerpt": "The ascension of Kamala Harris as the first female, first Black and first South Asian vice president-elect is both symbolic and important to many women across the United States, and several female politicians of color expressed on CNN Sunday morning what it meant to them.\n    \n",
@@ -1136,7 +1179,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1281,58 +1324,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-democrat-in-greenwich-ecstatic-kamala-harris-on-cusp-of-being-vp.md",
-      "title": "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP",
-      "excerpt": "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
-      "originalUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-07T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

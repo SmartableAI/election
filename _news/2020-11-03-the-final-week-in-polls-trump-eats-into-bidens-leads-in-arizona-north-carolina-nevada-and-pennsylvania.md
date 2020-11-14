@@ -2111,6 +2111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: ABC News projects Biden wins Arizona"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-13T09:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 139
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-wilmington-01-gty-jc-201112_1605219129611_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Election updates: Trump to deliver first public remarks in a week; Biden projected to win GA, Trump NC"
     excerpt: "The president has spent most of the week inside the White House, except for a Veteran's Day visit to Arlington National Cemetery on Wednesday."
     publishedDateTime: 2020-11-13T20:04:00Z
@@ -2574,6 +2590,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/31/USAT/01de4803-719f-48f8-ac3c-873cfe894844-AFP_AFP_1WO5H1.jpg?auto=webp&crop=3474,1955,x0,y192&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump taps Rudy Giuliani to take over election legal fight: Sources"
+    excerpt: "President Donald Trump has installed Rudy Giuliani to lead the legal efforts he has mounted to resuscitate his failed bid for a second term in office, a move that comes after a series of court defeats Friday,"
+    publishedDateTime: 2020-11-14T04:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-taps-rudy-giuliani-election-legal-fight/story?id=74204120"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-taps-rudy-giuliani-election-legal-fight/story?id=74204120"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-taps-rudy-giuliani-election-legal-fight/story?id=74204120"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rudy-giuliani_hpMain_20201113-220134_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."

@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-13-kamala-harris-questions-supreme-court-nominee-us-election-news.md",
+      "title": "Kamala Harris questions Supreme Court nominee: US election news",
+      "excerpt": "Donald Trump began his rally in Johnstown, Pennsylvania, a bit late but he had a good excuse: He was watching Kamala Harris question his Supreme Court nominee Amy Coney Barrett. “That’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 420,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20287836163811.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/13/amy-coney-barrett-faces-senate-questioning-us-election-live-news",
+      "publishedDateTime": "2020-10-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-mike-pence-rallies-gop-supporters-in-waukesha-takes-a-jab-at-milwaukee-mayor-tom-barrett.md",
       "title": "Mike Pence rallies GOP supporters in Waukesha, takes a jab at Milwaukee Mayor Tom Barrett",
       "excerpt": "WAUKESHA – Vice President Mike Pence resumed his Wisconsin roadshow Tuesday with some tough words on law and order and a jab at Milwaukee Mayor Tom Barrett during a campaign rally at Weldall ...",
@@ -1224,63 +1276,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-those-waiting-for-trumps-middle-income-tax-cut-should-give-up.md",
-      "title": "Those waiting for Trump's 'middle-income tax cut' should give up",
-      "excerpt": "Shortly before the 2018 elections, Trump made up a tax-cut idea that didn't exist in reality. Shortly before the 2020 elections, he's doing it again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
