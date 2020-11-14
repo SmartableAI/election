@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-14-let-mike-pence-handle-the-transition.md",
+      "title": "Let Mike Pence handle the transition",
+      "excerpt": "The period between an incumbent's defeat and the new president's inauguration is always awkward. At the end of this lame duck-ship, the outgoing president",
+      "sourceUrl": null,
+      "webUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
+      "originalUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201114&Category=OPINION&ArtNo=201119553&Ref=AR",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
+      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
+      "publishedDateTime": "2020-11-14T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Monroe News",
+        "domain": "monroenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-celebrating-diwali-some-see-kamala-harris-rise-reflected-in-stories-of-good-over-evil.md",
+      "title": "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil",
+      "excerpt": "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
+      "originalUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 377,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/2ea26bf/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F97%2F0ca9ccd241cebcb660b4b9382a40%2Findian-american-voter-sanslogo.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
+      "publishedDateTime": "2020-11-14T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-porter-county-write-in-ballots-give-nod-to-kanye-west-mike-pence-gets-two-votes-for-president-in-lake.md",
       "title": "Porter County write-in ballots give nod to Kanye West; Mike Pence gets two votes for president in Lake",
       "excerpt": "If impromptu write-in candidates in Porter County could have been elected president, Kanye West would have been the big winner.",
@@ -386,7 +481,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -1236,114 +1331,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-mississipi-police-officer-fired-for-racist-misogynistic-kamala-harris-social-media-post.md",
-      "title": "Mississipi Police Officer Fired For 'Racist, Misogynistic' Kamala Harris Social Media Post",
-      "excerpt": "Byhalia Police officer David Pannell's post mocked Harris' \"Cindarella story\" ascension to the second-highest political office in the nation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126",
-      "originalUrl": "https://www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1669651/kamala-harris-victory-speech-delaware.jpg",
-          "width": 1024,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126?amp=1",
-      "publishedDateTime": "2020-11-13T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.md",
-      "title": "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position",
-      "excerpt": "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp",
-      "publishedDateTime": "2020-11-12T21:10:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

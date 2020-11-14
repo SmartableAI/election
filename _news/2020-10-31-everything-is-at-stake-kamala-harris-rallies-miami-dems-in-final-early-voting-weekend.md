@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP"
-    excerpt: "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts."
-    publishedDateTime: 2020-11-07T08:08:00Z
-    webUrl: "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php"
+  - title: "Ayesha Curry and Kamala Harris Stress the Importance of Voting: \"Everything's at Stake\""
+    excerpt: "With just a few days until Election Day, Ayesha Curry and Kamala Harris are stressing the importance of voting. On Oct. 28, the Full Plate author had a virtual"
+    publishedDateTime: 2020-10-29T18:22:00Z
+    webUrl: "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212"
+    ampWebUrl: "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: PopSugar
+      domain: popsugar.com
+    quality: 67
     images:
-      - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://media1.popsugar-assets.com/files/thumbor/REFx-CUgJrFrnCRSww0rHppkA7w/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/29/735/n/1922398/0e95199d5f9af012a2d3a0.84227808_.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Everything is at stake,’ Democratic VP candidate Kamala Harris tells supporters at Lehigh Valley drive-in rally"
     excerpt: "Democratic vice presidential nominee Kamala Harris vowed Monday in Northampton County that she and Joe Biden would unite a polarized country, expand healthcare access and invest in working families if Pennsylvania voters help oust Donald Trump on Tuesday."

@@ -27,21 +27,143 @@ images:
     isCached: true
 
 related:
-  - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
-    excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
-    publishedDateTime: 2020-11-12T20:42:00Z
-    webUrl: "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696"
-    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+  - title: "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil"
+    excerpt: "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris."
+    publishedDateTime: 2020-11-14T13:07:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 107
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
     images:
-      - url: "https://s.abcnews.com/images/GMA/kamala-harris-grandnieces-ht-rc-201111_1605122335553_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2ea26bf/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F97%2F0ca9ccd241cebcb660b4b9382a40%2Findian-american-voter-sanslogo.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP"
+    excerpt: "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts."
+    publishedDateTime: 2020-11-07T08:08:00Z
+    webUrl: "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains"
+    excerpt: "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories."
+    publishedDateTime: 2020-11-11T06:33:00Z
+    webUrl: "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 99
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg"
+        width: 2048
+        height: 1355
+        isCached: true
+  - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
+    excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
+    publishedDateTime: 2020-11-12T19:00:00Z
+    webUrl: "https://www.npr.org/2020/11/12/934158680/shell-look-like-a-boss-vice-president-elect-kamala-harris-inspires-young-girls"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/12/isiserettes---kamala-harris_wide-1c66a342a6413be9e84f593667a776860e9902cd.jpg?s=1400"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
+  - title: "5 Howard University Women on Kamala Harris' Historic Election and the Impact of HBCUs"
+    excerpt: "Norwood attended a basketball game at her alma mater, Howard University, when Sen. Kamala Harris, who at the time had just launched her 2020 presidential campaign, greeted the crowd. \"It was so exciting to see her there,"
+    publishedDateTime: 2020-11-13T15:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/5-howard-university-women-on-kamala-harris-historic-election-and-the-impact-of-hbcus/2723374/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 83
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/106785969-1604799679242-106785969-16047995722020-11-08t013633z_969478698_hp1egb804gxkc_rtrmadp_0_usa-election-biden.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What Kamala Harris’ historic win means to Indian Americans"
+    excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
+    publishedDateTime: 2020-11-11T12:14:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/15/47/20240890/7/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
+    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
+    publishedDateTime: 2020-11-11T16:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/money/2020/11/11/kamala-harris-effect-black-women-corporate-america/6227172002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6227172002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6227172002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
+    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
+    publishedDateTime: 2020-11-14T14:11:00Z
+    webUrl: "https://www.freep.com/story/money/2020/11/11/kamala-harris-effect-black-women-corporate-america/6227172002/"
+    ampWebUrl: "https://amp.freep.com/amp/6227172002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6227172002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
@@ -59,21 +181,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
-    excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
-    publishedDateTime: 2020-11-12T12:51:00Z
-    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
+  - title: "Kamala Harris is the main event for millions of women in America and around the world"
+    excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
+    publishedDateTime: 2020-11-11T10:13:00Z
+    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/11/09/harris-breaks-glass-ceiling-women-black-asian-americans-column/6215430002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6215430002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6215430002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 677
         isCached: true
   - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
     excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."

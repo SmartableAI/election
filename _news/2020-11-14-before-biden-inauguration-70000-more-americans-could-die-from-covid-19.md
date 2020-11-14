@@ -2,9 +2,9 @@
 category: news
 title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
 excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-publishedDateTime: 2020-11-14T03:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
-webUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
+publishedDateTime: 2020-11-14T02:11:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
+webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
 type: article
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
+    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
+    publishedDateTime: 2020-11-14T03:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-economy-coronavirus-idUKKBN27T2W9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
+        width: 817
+        height: 545
         isCached: true
   - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
     excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
@@ -170,6 +186,6 @@ related:
         height: 485
         isCached: true
 
-secured: "hsrqIxtIeVaBQRGNo5DfmlHcCohCffj/if2Y0wdtJrhKoPoI249Erki68kCoLtQcu/0eT9fbA7wK1egigVXyjKmLbzUFel2zs+kpsobQF1hkA1+lVuzj3VrhF+SuQNEi+X9zQEMkoV9dpx22MNAlK8SEJ3a2zoTEs/XGT399ZRqsWY3HnBNRtF8QtJcockOxZpZrB7MxDqw8UniOqY/TRcQL0b5ByZhJfDjS/h7Gg0T5JiZOdeXWUxO9rqr3V+MQFQFQpaipdtDozf0tsv6t7PVXyoMztCHXgSWhxq2Sbe9Vp7t7phsvref0is5cfc1vocxm/MyzKRYknVKg0TzuZmSG861/vKd7O9dIQL4QJKk=;W/5CDoa/GK9WDNkZ4Qfzlg=="
+secured: "YbLZSis/cHIQ++v/k7kKurYeAy1M9UgcCEVnqoYeYwbKcLvvheCDa1SxQvT7wnJe9+LNSXCh8Dg5cWgrUTIYf3+GWmcG+wkVNecMw2q2baPukRY5GaNT71aOQhvMq22YQ4QFORGz4DNa7p+b2yHIyXxNBIiXlMQPMvNtbUN7XN4tz3KqDs1FYboZLtXD//YBsxtISI9DuNrcLaQejROgQKSiqoFqyEpmxgc7dBdL/oLlvqO1nPJxIrZ27Wv5WBZqPe4cqMW4DYnD3HlS8bJQcLSw2+e0aSSaIO97ImoKXzp/5ZSVPcAXwXjeVisYTS0/xJl+IiJ4A/5bBlFftSnM29EUEhW6QKXvLszrZbS5iuw=;whPRjXEiG2TqL66yKAJRaQ=="
 ---
 

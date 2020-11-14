@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-10-kamala-harris-ni-peer-lord-kilclooney-told-to-apologise-for-offensive-tweet.md",
+      "title": "Kamala Harris: NI peer Lord Kilclooney told to apologise for 'offensive' tweet",
+      "excerpt": "A member of the House of Lords, Lord Kilclooney, has been told to apologise for referring to US vice-president-elect Kamala Harris as \"the Indian\". \"What happens if Biden moves on and the Indian becomes President.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/uk-northern-ireland-54874541",
+      "originalUrl": "https://www.bbc.com/news/amp/uk-northern-ireland-54874541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-northern-ireland-54874541",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-northern-ireland-54874541",
+      "publishedDateTime": "2020-11-09T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-aoc-others-pushing-for-apparent-blacklist-of-people-who-worked-with-trump.md",
+      "title": "AOC, others pushing for apparent blacklist of people who worked with Trump",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez and others have encouraged the creation of an apparent blacklist of people who helped President Trump during his time in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwGgoelybYM/aoc-blacklist-trump-supporters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwGgoelybYM/aoc-blacklist-trump-supporters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5aacad1b-b0c8-4767-a254-2dabd28652d0/cc0ff55e-314b-496d-ac6b-875de189991a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp",
+      "publishedDateTime": "2020-11-09T15:55:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.md",
       "title": "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'",
       "excerpt": "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”",
@@ -994,7 +1102,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 12781,
+      "heat": 12841,
       "tags": null,
       "images": [
         {
@@ -1107,7 +1215,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 5065,
+      "heat": 5125,
       "tags": null,
       "images": [
         {
@@ -1260,119 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-campaign-holds-protest-in-las-vegas-to-decry-irregularities-claim-dead-people-non-nevadans-voted.md",
-      "title": "Trump campaign holds protest in Las Vegas to decry irregularities, claim ‘dead people,’ non-Nevadans voted",
-      "excerpt": "The Trump campaign held a Sunday afternoon press conference outside the Clark County Elections Department in Las Vegas to denounce alleged irregularities in last week’s election.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzj9joR7Go8/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313858920634.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-holds-protest-las-vegas-irregularities-nevada-election.amp",
-      "publishedDateTime": "2020-11-08T17:05:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-trump-presidency-is-ending-so-is-maggie-habermans-wild-ride.md",
-      "title": "The Trump Presidency Is Ending. So Is Maggie Haberman’s Wild Ride.",
-      "excerpt": "Maggie Haberman has consistently painted a portrait of a man who is both smarter and less competent than his enemies believe.Credit...Benjamin Norman for The New York Times By Ben Smith Maggie Haberman lives rent-free in Donald Trump’s head,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/business/08BENSMITH/merlin_179662959_c80bd3d0-f89e-4712-8d81-4ab62bb9c0b2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "publishedDateTime": "2020-11-08T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

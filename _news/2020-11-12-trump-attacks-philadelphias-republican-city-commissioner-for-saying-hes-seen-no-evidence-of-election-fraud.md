@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump wants to run the Republican party even he leaves office. Can he?"
+    excerpt: "From creating a political action committee to suggesting he might run again in 2024, Trump is working to keep control of the GOP after his term ends."
+    publishedDateTime: 2020-11-14T11:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/donald-trump-tries-remain-nations-top-republican-if-he-can/6259193002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6259193002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6259193002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/13/USAT/73dbd8f7-f11e-4518-ad46-4d2a8121b775-Trump_AF1.jpg?auto=webp&crop=3737,2103,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Some electoral maps show Trump leading with 232 votes. They're wrong."
     excerpt: "A few electoral maps that show President Donald Trump in the lead at 232 electoral votes have spread around Facebook. They are wrong."
     publishedDateTime: 2020-11-12T22:08:00Z

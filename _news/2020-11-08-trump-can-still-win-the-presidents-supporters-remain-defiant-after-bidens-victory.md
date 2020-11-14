@@ -1383,6 +1383,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The promise of LGBTQ equality under the Biden administration"
+    excerpt: "Last week, many celebrated Joe Biden for embracing transgender Americans in his victory address -- the first president-elect to do so.\n    \n"
+    publishedDateTime: 2020-11-14T14:09:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xSw0zE9Cj0E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/lgbtq-biden-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/lgbtq-biden-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107205627-joe-biden-victory-speech-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's loss is the mirror image of his win"
+    excerpt: "CNN has projected that President-elect Joe Biden will win Georgia and President Donald Trump will win North Carolina.\n    \n"
+    publishedDateTime: 2020-11-14T14:42:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/izXQpTz8nrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/what-matters-november-13/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/what-matters-november-13/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top congressional Republicans still haven't acknowledged Biden's victory"
     excerpt: "President-elect Joe Biden urged the country \"to lower the temperature\" in his victory speech on Saturday night, but Republican leaders he'll have to work with in Congress have either urged President Donald Trump to not concede or stayed silent despite no widespread evidence of fraud in the election.\n"
     publishedDateTime: 2020-11-08T22:24:55Z
@@ -1428,6 +1460,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112041647-06-joe-biden-1110-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's toughest foreign policy challenge may be regaining allies' trust"
+    excerpt: "President Donald Trump may be refusing to concede his defeat, but governments around the world are congratulating President-elect Joe Biden -- and anticipating that he will adopt a more traditional foreign policy approach.\n    \n"
+    publishedDateTime: 2020-11-14T14:45:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cQ8pwFAQnck/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/biden-foreign-policy-challenges-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/biden-foreign-policy-challenges-ahead/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110163403-01-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

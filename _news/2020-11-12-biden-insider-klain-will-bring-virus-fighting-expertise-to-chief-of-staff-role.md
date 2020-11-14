@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-    publishedDateTime: 2020-11-14T03:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
+    publishedDateTime: 2020-11-14T02:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
     type: article
@@ -90,6 +90,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
+    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
+    publishedDateTime: 2020-11-14T03:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-economy-coronavirus-idUKKBN27T2W9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
         width: 817

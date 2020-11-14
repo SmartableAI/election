@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
+    excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
+    publishedDateTime: 2020-11-14T14:19:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jffFsOp1XrI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/trump-election-cases-status/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/trump-election-cases-status/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113164926-04-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and GOP lawsuits thus far challenging few ballots with no proof of fraud"
     excerpt: "President Donald Trump and the Republican National Committee's vows to challenge the election results and win through the courts appear unlikely to be successful with so few ballots at issue in litigation to make any difference in enough states to matter.\n    \n"
     publishedDateTime: 2020-11-06T20:45:59Z

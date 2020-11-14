@@ -530,10 +530,10 @@ related:
         isCached: true
   - title: "Biden solidifies U.S. election win, Trump says 'time will tell' if he stays in power"
     excerpt: "U.S. President-elect Joe Biden solidified his election victory on Friday by winning the state of Georgia, and President Donald Trump said \"time will tell\" if another administration takes over soon, the closest he has come to acknowledging Biden could succeed him."
-    publishedDateTime: 2020-11-14T06:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN27T0IS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN27T0IS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN27T0IS"
+    publishedDateTime: 2020-11-14T11:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27Q0L2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q0L2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q0L2"
     type: article
     provider:
       name: Reuters
@@ -1968,6 +1968,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Inside what a post-election Trump Tower might look like"
+    excerpt: "One apartment owner said that when President Donald Trump's political star began to rise, it was \"terrible\" in the building."
+    publishedDateTime: 2020-11-14T14:47:00Z
+    webUrl: "https://www.businessinsider.com/inside-what-a-post-election-trump-tower-might-look-like-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/inside-what-a-post-election-trump-tower-might-look-like-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inside-what-a-post-election-trump-tower-might-look-like-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump putting democracy to the test after his loss to Biden"
+    excerpt: "It has been said that democracy is the worst form of government, except for all those other forms that have been tried.” Follow the latest on Election 2020 President Donald Trump, who has professed admiration for,"
+    publishedDateTime: 2020-11-14T13:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-putting-democracy-to-the-test-after-his-loss-to-biden/2020/11/14/0505524e-267e-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-putting-democracy-to-the-test-after-his-loss-to-biden/2020/11/14/0505524e-267e-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-putting-democracy-to-the-test-after-his-loss-to-biden/2020/11/14/0505524e-267e-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump supporters head to the streets as he pushes false election claims"
     excerpt: "President Donald Trump's supporters will take to the streets on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with a flurry of longshot legal challenges to overturn President-elect Joe Biden's victory."
     publishedDateTime: 2020-11-14T12:34:00Z
@@ -2813,6 +2845,22 @@ related:
     quality: 136
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540757430&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91UX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Fauci not advising Biden, sees no reason to quit Trump now - Reuters interview"
+    excerpt: "Dr. Anthony Fauci, the top U.S. infectious disease expert, said he has had no contact with President-elect Joe Biden's coronavirus transition team and sees no reason to quit to join that effort when there is so much to do now to fight the surging pandemic."
+    publishedDateTime: 2020-11-14T09:49:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-fauci-idINKBN27T1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27T1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27T1L0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541106569&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0W0"
         width: 817
         height: 545
         isCached: true
@@ -4950,19 +4998,19 @@ related:
         isCached: true
   - title: "Biden faces tough choice of whether to back virus lockdowns"
     excerpt: "President-elect Joe Biden’s advisers are already signaling that a nationwide lockdown is not under consideration for combating the coronavirus pandemic"
-    publishedDateTime: 2020-11-14T05:58:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    publishedDateTime: 2020-11-14T05:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_9335e7537a0941dda8ff8453dcde4f85_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden gives boost to retiring senator's climate change plan"
     excerpt: "A plan championed by retiring Democratic Sen. Tom Udall of New Mexico to harness the nation’s lands and ocean waters to fight climate change is getting a boost from Joe Biden"

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
+    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
+    publishedDateTime: 2020-11-14T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
     publishedDateTime: 2020-11-04T02:05:00Z

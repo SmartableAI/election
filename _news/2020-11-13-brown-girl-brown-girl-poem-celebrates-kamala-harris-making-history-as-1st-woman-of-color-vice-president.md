@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-gir
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
 type: article
 quality: 107
-heat: 207
+heat: 127
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Discussing Kamala Harris' Historic Vice Presidential Election and What It Means to Women in America"
-    excerpt: "A diverse group of women joined LX News host Ashley Holt to discuss the historic election of Kamala Harris to the vice presidency and what it means to them, and all women in America."
-    publishedDateTime: 2020-11-11T15:10:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/discussing-kamala-harris-historic-vice-presidential-election-and-what-it-means-to-women-in-america/2717163/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 76
-    images:
-      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1229519794-1.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
-    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
-    publishedDateTime: 2020-11-10T02:38:00Z
-    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 68
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
     excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
     publishedDateTime: 2020-11-12T12:51:00Z
@@ -78,38 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-09T15:37:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 54
-    images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-07T18:15:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 52
-    images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "yVz+weiaeL3Vfr3EQtH5MG6FISSb2B4UPormD9uPLIJV9qRjd4y5INfS8AWKNJeuA7p7yHwXNJPfbm2wi3X1h8kCdK8usS1AamNnOc/x3qpBMx2vNDq9N09PANFz2/LshQ8DhBjpREYDatvEmWbK1qXKenri9KdHVSPanDR4yZYht4UunTTIrrEhXCwlzYP+f3Ehzmoa3DbJzarOvDF9dQ9XV4hjgCUwe9/RQPDrhhGotjSRwK3o47fXAeGa1qlqPWFy7Q0GyqLQftPnoxNpNHKb2ygjUETzopPKpVtO6FuSE2EDdOGuODFyx312WQKntZn7NNivgZE+AXH8dUxmFiJFYJkhe6/ZM0eVDnEQkE8=;ESiRM3ETCZEJPLxc2UWF3Q=="
