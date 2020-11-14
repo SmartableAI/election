@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
+    excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
+    publishedDateTime: 2020-11-14T10:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
     excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."

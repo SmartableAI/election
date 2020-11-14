@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 12601
+heat: 12621
 published: true
 
 provider:
@@ -6914,6 +6914,22 @@ related:
       - url: "https://i.insider.com/5fab08b9f7d1cb0019e3afea?width=1200&format=jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Biden's team says he will get daily briefings from his COVID-19 coordinator, unlike Trump who often blanks his task force for weeks"
+    excerpt: "Incoming chief of staff Ron Klain said Biden will have a \"COVID coordinator\" with direct daily access to him, as Trump continues not to engage."
+    publishedDateTime: 2020-11-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fae6be34652d400197442d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
     excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."

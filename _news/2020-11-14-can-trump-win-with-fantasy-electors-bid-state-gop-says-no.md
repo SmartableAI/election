@@ -6914,6 +6914,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Biden's team says he will get daily briefings from his COVID-19 coordinator, unlike Trump who often blanks his task force for weeks"
+    excerpt: "Incoming chief of staff Ron Klain said Biden will have a \"COVID coordinator\" with direct daily access to him, as Trump continues not to engage."
+    publishedDateTime: 2020-11-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fae6be34652d400197442d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
     excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."
     publishedDateTime: 2020-11-06T02:27:00Z
@@ -9393,6 +9409,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3MCrQ6xCQyVojjXcyhDI+SnwhdCikbSoV0AKKoGUtrSF516JDZifxBjKDSJ432r7lXKM/CGaLpQLII/2/3UuxilUUvJSC8fyoJJ5RkjnxTZIRHbYpG8rA3kUTunC0xXC3wNc4TgpAxkXNh5kwVFL5KomIX0DekSmWUESpAElQoRkV74nit5ouhHbKrchQP/xXywsc81qSmow9cOuPruFmvEyYjqIRcJAUbPeS7MQenTJfDL92bAhuX0565AukrLEqWv3WvJ4PtaXHZ8hMNczx7noEQK8z99q9Xr7toMN27J726ktk5kCwBbvqfK7AAngFOy50lCsXymv5j2MYQme8AC3S0W/OvSrWGeQlTDGCBQ=;Mz0JqLtdvt7ohF3albuRjg=="
+secured: "6wQImwO3g0IvwDasnUmYLahm+VgqZuK4AQQWxEcS2rapcsaJaiQ6DVT2fIF5TkV8M/hv9k8WkTl2dy5mLn3i0b53A1jhHVrlwSV/+1qnmu7HwoCAAm62bvheg2IYm1XkOdoCBBHB1px7ktOC8pEPxpLp68s4vhp8gXIuyMk3KxAVCEkoMY/kVIftNve6gLbXI9aMPOj/thsSFNYmraqrEgJj1UMoRDThOLgdeF9fshebiCtJypT0kMrtiscHQpiGw1f8V7UcYDCccFPkAwEE6tqv4/RCu55EN+dsCPPNCMbn8jKuF/qqLhRqLgODjtDU2dkIVWsuC8474/frFnMDF1YCqZlQKupltpJpziyRwBVEHB/yFOx5z59FC7LdQUBirztxrTnm90TcpUqgNpzBJmQDrBRnWLIBHkPnnrxQxIxbsnIAYCykHAbae8+k8pkCTZPBevP3foedSyP8LnGnhI6td/UnPAbYP3um57T9JjFihTVZaB629W9FFo1Ac0cXJsChLWeA/uBcE08o5X++Cg==;ZgUyZzjjEFVxgzR6LPcSTg=="
 ---
 

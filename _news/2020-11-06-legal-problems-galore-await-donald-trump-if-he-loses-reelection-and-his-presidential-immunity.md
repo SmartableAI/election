@@ -6928,6 +6928,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Biden's team says he will get daily briefings from his COVID-19 coordinator, unlike Trump who often blanks his task force for weeks"
+    excerpt: "Incoming chief of staff Ron Klain said Biden will have a \"COVID coordinator\" with direct daily access to him, as Trump continues not to engage."
+    publishedDateTime: 2020-11-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plans-regular-virus-briefings-contrast-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fae6be34652d400197442d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Concede or fight? What Trump's lawyers, family, and allies in Congress and the media are telling him to do after losing to Joe Biden"
     excerpt: "From Melania Trump to his most loyal news outlets, some of Trump's staunchest allies are reportedly advising him to concede. Others tell him to fight."
     publishedDateTime: 2020-11-09T14:24:00Z

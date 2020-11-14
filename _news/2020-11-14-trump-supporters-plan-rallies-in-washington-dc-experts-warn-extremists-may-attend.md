@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6265591002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6265591002"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
+    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
+    publishedDateTime: 2020-11-14T10:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "K/pko4nYlDbgWOXOwSJANTw5kFu0+CtjbxIUWhcfKJrqbLBPMxRk5sD5fXWzvS+J5LiPIpyTH+fFh4XPUnc1YypWRC4crUAbKevxma2iguk1JhbsMGyEntSUzhAWcD2T4ROQId2hjg32NSzubUh8xc8dJB1n0308EgsXhR+QrvW40KDBdfL5uQ2BLZMlpzBEyDLe/YQq4jY/BcrGA9hfJ6WnBZvM9UUggs/8zJtFVUCEiXplfvaL9B3FWkM8RFh5+MhvoYC7szAV87wHWY0iv3ijp2Y8TAiMYMBfYqHxTc9R5QdmcY7ZldEVEKvZv1110Gl7/TOdTLdPSOR96QNaFyGN81puReoi/pHRODoYd+g=;01irb+HCn9T7zPKcX+b7gA=="
 ---

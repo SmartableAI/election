@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
+    excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
+    publishedDateTime: 2020-11-14T10:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump: Pfizer misrepresented deal on vaccine"
     excerpt: "President Donald Trump said on Friday the pharmaceutical giant Pfizer misrepresented a deal it struck with the US government over a vaccine to combat the coronavirus pandemic. (Nov. 13)"
     publishedDateTime: 2020-11-13T23:53:00Z
