@@ -1548,6 +1548,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Donald Trump, the President His Detractors Loved to Hate"
+    excerpt: "A friend reported that I disappointed his wife with the insufficient intensity of my dislike."
+    publishedDateTime: 2020-11-14T03:43:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258590/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Jason Aldean's wife Brittany stands up for fellow Republicans, Trump after backlash from Biden supporters"
     excerpt: "Brittany Aldean, the wife of country singer Jason Aldean, shared her continued support for Donald Trump after facing criticism for lamenting Joe Biden’s win in the election."
     publishedDateTime: 2020-11-08T16:21:00Z

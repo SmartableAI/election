@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-anal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
 type: article
 quality: 190
-heat: 1830
+heat: 1850
 published: true
 
 provider:
@@ -1288,6 +1288,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04elections-briefing-protests/04elections-briefing-protests-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump, Choker in Chief"
+    excerpt: "Donald Trump mocks choking at a rally. (Michael Ciaglo / Getty Images) Join the Nation Festival for four days of essential conversation and commentary in the wake of the 2020 election. The Nation ..."
+    publishedDateTime: 2020-10-30T15:22:00Z
+    webUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/"
+    ampWebUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2020/11/cover1130.jpg"
+        width: 385
+        height: 505
         isCached: true
   - title: "Jim Crow Wins Florida for Donald Trump"
     excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."

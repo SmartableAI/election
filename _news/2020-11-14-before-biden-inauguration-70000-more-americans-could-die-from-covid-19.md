@@ -2,9 +2,9 @@
 category: news
 title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
 excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-publishedDateTime: 2020-11-14T02:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
-webUrl: "https://www.reuters.com/article/us-usa-economy-coronavirus-idUSKBN27T2W3"
+publishedDateTime: 2020-11-14T02:04:00Z
+originalUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
+webUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
 type: article
@@ -186,6 +186,6 @@ related:
         height: 485
         isCached: true
 
-secured: "YbLZSis/cHIQ++v/k7kKurYeAy1M9UgcCEVnqoYeYwbKcLvvheCDa1SxQvT7wnJe9+LNSXCh8Dg5cWgrUTIYf3+GWmcG+wkVNecMw2q2baPukRY5GaNT71aOQhvMq22YQ4QFORGz4DNa7p+b2yHIyXxNBIiXlMQPMvNtbUN7XN4tz3KqDs1FYboZLtXD//YBsxtISI9DuNrcLaQejROgQKSiqoFqyEpmxgc7dBdL/oLlvqO1nPJxIrZ27Wv5WBZqPe4cqMW4DYnD3HlS8bJQcLSw2+e0aSSaIO97ImoKXzp/5ZSVPcAXwXjeVisYTS0/xJl+IiJ4A/5bBlFftSnM29EUEhW6QKXvLszrZbS5iuw=;whPRjXEiG2TqL66yKAJRaQ=="
+secured: "zY0EEiFjC3HX8HStGr5vgGdhoPcYe51j19mlMR9pSwNtVqmJZwTU4GYr/iNQfx+0HvJYXvXqVWDBWIx6lO7mXHD5ETLnDS2sbzro809gBpjfIf6CHiVDzrEHjGhTb9vqacSbnIZpdbZn0/VQEZoSPUDsC0anqBfxYcJmOPgjsk4SfleWWY+jAqQ0e1t7OBJ3fcHAUGmjgpbKC07SKTJV0gxDOy7T4rV2cSfogBIKQTjc27Y+jO4H1LKCl3ELoxsiLr+Z3NLcqSXHx7+lkaTLJ4MZxrnqZanSd6tAYpNIHBoPPe56xiNVQ/b4Vi/W0pbG99jxALijLDjLeOCd5VOree08AGmWuRhcbWBxf+2FB7g=;fUUH9gejsNDCIVuTrSAeeA=="
 ---
 

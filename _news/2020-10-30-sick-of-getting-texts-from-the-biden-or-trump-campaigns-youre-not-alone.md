@@ -1104,6 +1104,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden battle for the Midwest as virus surges"
+    excerpt: "(CNN)Former Vice President Joe Biden and President Donald Trump moved their battle to the critical region of the Midwest on the final Friday before the election, crossing paths in Wisconsin and ..."
+    publishedDateTime: 2020-10-30T08:01:00Z
+    webUrl: "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."
     publishedDateTime: 2020-10-30T00:56:00Z

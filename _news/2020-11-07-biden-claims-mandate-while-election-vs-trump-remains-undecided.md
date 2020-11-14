@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecide
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
 type: article
 quality: 205
-heat: 2385
+heat: 2405
 published: true
 
 provider:
@@ -1530,6 +1530,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Donald Trump, the President His Detractors Loved to Hate"
+    excerpt: "A friend reported that I disappointed his wife with the insufficient intensity of my dislike."
+    publishedDateTime: 2020-11-14T03:43:00Z
+    webUrl: "https://www.wsj.com/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-258590/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Groups Supporting Trump Expected to Rally Near White House"
     excerpt: "Supporters of President Trump including some far-right groups say they plan to march near the White House on Saturday in support of the president, who hasn’t conceded the election to President-elect Joe Biden."

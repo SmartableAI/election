@@ -111,6 +111,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
+    excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."
+    publishedDateTime: 2020-11-14T18:31:00Z
+    webUrl: "https://www.cbsnews.com/video/iran-expands-stockpile-enriched-uranium-joe-biden-challenge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 93
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fpHt7ZPpilyLhDaRaZwSBLNVkMsIf0DrldMtT8H3pRpx7AoUq389EBnJ/jNtQ2231ss7RulxHVYdztBmIMFrKK241+qS++OW98DZkpnmthSORQlQgv1Ndbxh18dP52vMjqSWXZvSkWRktwtw/TGFH3oG9ScltzPKhOwaPuDuJP21gLCTXneVahhEk2Ty6VMXJALFWRfuNStTMHMUOrUKeQ/C8sYhavd/+FNjb2kI9xZNIn/eN/4rHJkHduFX3F3DG0gweHloYPPAK5Sz3vAGsxcXOBO8VRiVHWREwj+gvE5SUyavjj2Yq9hM4ECCgwIEYvbHc/3qIzci4VPwce8lEnKsl06vvufAlUNzj6hgLDs=;lZaHoOAs5/QHdwUSYVN/FQ=="
 ---

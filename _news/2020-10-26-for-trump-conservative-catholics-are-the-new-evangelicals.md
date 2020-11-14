@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump is center stage for N.J. Republican candidates, whether they like him or not"
+    excerpt: "Republicans running for the House in New Jersey have a problem: They can’t win without President Donald Trump, but they may not be able to win with him either. In a state where only 35% of likel ..."
+    publishedDateTime: 2020-10-27T23:15:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/trump-is-center-stage-for-nj-republican-candidates-whether-they-like-him-or-not.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/trump-is-center-stage-for-nj-republican-candidates-whether-they-like-him-or-not.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/trump-is-center-stage-for-nj-republican-candidates-whether-they-like-him-or-not.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZXVKMOO54RHJBMKCYDJ6KX7VPA.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Donald Trump Wins Wyoming"
     excerpt: "Donald Trump wins Wyoming."
     publishedDateTime: 2020-11-04T02:54:00Z

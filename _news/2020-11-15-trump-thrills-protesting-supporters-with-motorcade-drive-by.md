@@ -2,21 +2,21 @@
 category: news
 title: "Trump thrills protesting supporters with motorcade drive-by"
 excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
-publishedDateTime: 2020-11-14T17:49:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+publishedDateTime: 2020-11-14T19:14:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -6497,6 +6497,22 @@ related:
         width: 810
         height: 550
         isCached: true
+  - title: "Trump supporters rallied in DC to echo the president's baseless claims and protest the results of the election"
+    excerpt: "President Donald Trump's supporters have rallied behind his baseless claims, with many organizing \"stop the steal\" demonstrations."
+    publishedDateTime: 2020-11-14T20:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-rally-dc-protest-election-results-echo-baseless-claims-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-rally-dc-protest-election-results-echo-baseless-claims-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rally-dc-protest-election-results-echo-baseless-claims-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fb0310a402d49001924f000?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -7997,14 +8013,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201114171528-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201114181524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07697351_1605374344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07697421_1605377944.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -9675,6 +9691,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RywklPtXD7A2p4yZBY3MNlWj6TNp7ahdzX92i5ISbzLNGsq7geDZ7rodUI1lIbtpf4flI8FKGQL6P7EGfNx3O1SBRk6NbF7ufnwgAmDCZrHbIuVgb7DlMO01d0Putp1PoAukyFd3vH3BvP3AZVJXiDcNH5fUhZApjKXz5oreAO6e8FndBy6jjIDb4Gr7JwK20ok31kzW/h+iRsWrdZArWYVvFm9hA+7FFAqxJrBfF3VA30PkzxFcC+xkKJDie653MFd4B/wcQXQBjuEgQGBLGLjdfii6flWYzXlIGrpAhuEV76tAYvcxq9DtwdCbl83TNoDinTnzs3qlqpw0/9N/9P9d3oz/GFo5D0FKF8uhrUY=;vpSr4Uo53wqiLQiaDoBLPQ=="
+secured: "GlDO2giXD0nPI4SZdx0+5ZXP2ADMmrOXBchwZF1F+J3QQ9rGAlPYCYHv0XWB1i3pDTLCZJf6rXKiuOvohU93/IxZvalXWjJkjD73DD4uBmHfm0hNG3OVUVnS/SguCNKp+aGf0eWe+F9PrOAlxwERMQq1jDNIpLq9Mbacagq5q4rg84c6hXgX66EuwasJGbMuL6D3ZysNzX9QsIsxhWgO80ENAUQdink6YYLNABypa5TpHBX09Zp+/tpETuB7P9u3wiFfm5UnlqZ3268G+ZXiyYxv3OmkukIcaBfFIoeMuEcC9UmpveUbLOvFIBzDnGmB1bYeo41AnAPAQNRSo84Cn4lIHrZu0i7A3QfzN0Kin18=;x7NbRdgjHvez8K6GrUbpbg=="
 ---
 

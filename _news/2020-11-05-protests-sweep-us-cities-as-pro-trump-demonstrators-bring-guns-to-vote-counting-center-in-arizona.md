@@ -1290,6 +1290,22 @@ related:
         width: 600
         height: 325
         isCached: true
+  - title: "Donald Trump, Choker in Chief"
+    excerpt: "Donald Trump mocks choking at a rally. (Michael Ciaglo / Getty Images) Join the Nation Festival for four days of essential conversation and commentary in the wake of the 2020 election. The Nation ..."
+    publishedDateTime: 2020-10-30T15:22:00Z
+    webUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/"
+    ampWebUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2020/11/cover1130.jpg"
+        width: 385
+        height: 505
+        isCached: true
   - title: "Jim Crow Wins Florida for Donald Trump"
     excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."
     publishedDateTime: 2020-11-04T09:37:00Z
