@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-14-porter-county-write-in-ballots-give-nod-to-kanye-west-mike-pence-gets-two-votes-for-president-in-lake.md",
+      "title": "Porter County write-in ballots give nod to Kanye West; Mike Pence gets two votes for president in Lake",
+      "excerpt": "If impromptu write-in candidates in Porter County could have been elected president, Kanye West would have been the big winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/l9batxu9btSTpAMzBBxz4fWbH7I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z5FC7Y3IES7BNL35P3UK52CJJE.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-13T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-this-is-mike-pences-moment.md",
       "title": "This is Mike Pence’s moment",
       "excerpt": "President Trump will not step up to address the covid-19 surge. Maybe his vice president can.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -1422,58 +1474,6 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/26/mike-pence-tests-negative-covid-surge",
       "publishedDateTime": "2020-10-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-mike-pence-running-and-typhoon-molave-mondays-best-photos.md",
-      "title": "Mike Pence running and Typhoon Molave – Monday's best photos",
-      "excerpt": "The Guardian’s picture editors select photo highlights from around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos",
-      "originalUrl": "https://www.theguardian.com/news/gallery/2020/oct/26/mike-pence-running-and-typhoon-molave-mondays-best-photos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/27fe2d7b425f2cbeafb45ca28589c0356b43e2cc/0_132_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=059e8b43da7aa82fd9c5d7d3585cc117",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T06:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

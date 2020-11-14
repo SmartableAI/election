@@ -3,8 +3,8 @@ category: news
 title: "'Biden needs to hit the ground running'"
 excerpt: "Watch \"NY Senator Kirsten Gillibrand explains why President-elect Joe Biden needs to hit the ground running and have a comprehensive plan to combat the coron\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
 publishedDateTime: 2020-11-13T23:32:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201114021309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/"
-webUrl: "https://www.cbsnews.com/live/video/20201114021309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/"
+originalUrl: "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/"
+webUrl: "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/"
 type: article
 quality: 105
 heat: 105
@@ -23,11 +23,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07693304_1605320704.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07694294_1605331505.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "dacNFfuEO5DlQfO8Gr+qOXVt3YSDFYFS25dxbQFUEwWqjadGC8sFlgJro5yus97Gf8iVi7TQNMtiWjetbsO2AfItM1Fp3N5lXuYdXhyiq1aDhv1LZlRvbW9YTYB6OyKB5I8oAVkc+TuyoPyNOYwCwQ/b3+o9hegZQoSRfhl0gnIEjJr/gwKr9jnWEKN7TQnwpRcIqP+FKivCuuNM+McSbM7L2JVfK0c01g7hJo2Qi9V84TxNekJuVVmP4B+PXN9BBrBudI0d0fb/V3KS87ONBCWlG8WfTdUEvOcCWPGIZdLs0V3xiQDYNxgUVg/mjVjk7FQmqX0Sf68lweu73/aLgHLA/DA1WF43l0cJiazKn5U=;1I/WM8Kqo4JmXXDsZB8Q4g=="
+secured: "gsmmcZp+ToGWbxS5vTQ+2EkPKlaGPgogrTAwsD4Qmp5yLegqgnuWCqaRgNax2L5+VvlbBJGPvsbcTnMhomZYu8b8Qbq8Q6l73NOvi2xasFttvuzy2uTZy+ImTo42LLZ+qFMZw5poQYI+d+isfdyo9HVWPbRpQs/6yGFxphcCxuQ5zGvLXWidz2LyxoTHJCUeiUDj2pZqKLPaaZIIHKjpdGWBJNJJhgi5yCZYxKz/YboxR221PerDE6FVzTYziAuMP35HTOq3O2oFQxJKR3/F5ChZbULxV9mgjzSpPQ2AmgwxaKYesbuHt0oDAO+mB4R/29AAej418EahlY3/jTZiHItAPTjTuJ1J6dH0nLuE3ESx9YAHECPj7X8a+FFe/ChQp26DRLxxe4ibk+I4Tt6w7OlW10LvGAFqy7Nu2IBws9qrOC3ARtHv6rh+ClscyHOhNA4EP8/+hKybBJ70e0yloT0HmoU3aH1FFo0pvd6Tz9dqsglD3GZTR4lfzZih2vUEAxjF3Dd7cB1R9Aqk0TqDJg==;cltO+FdPfT7c9DPfyQ7hCA=="
 ---
 

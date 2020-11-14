@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 690
+heat: 710
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
     quality: 130
     images:
       - url: "https://images.wsj.net/im-257625?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Trump Taps Giuliani to Oversee Post-Election Legal Offensive"
+    excerpt: "President Trump has tasked Rudy Giuliani, his personal lawyer, with overseeing legal challenges to the election results, according to a person with knowledge of the matter. The decision came as the legal challenges waged by Mr."
+    publishedDateTime: 2020-11-14T06:09:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/pjDqoMTacFOITVz31vLk"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-260095?size=1.5"
         width: 1280
         height: 853
         isCached: true

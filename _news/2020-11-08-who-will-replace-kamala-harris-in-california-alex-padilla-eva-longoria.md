@@ -69,6 +69,22 @@ related:
         width: 840
         height: 587
         isCached: true
+  - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
+    excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat. In this race, only one vote matters,"
+    publishedDateTime: 2020-11-12T14:09:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/72/20250303/7/375x250.jpg"
+        width: 367
+        height: 250
+        isCached: true
   - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
     excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."
     publishedDateTime: 2020-11-10T15:19:00Z
@@ -117,17 +133,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "California Senate Sweepstakes: Who Gets Kamala Harris' Job?"
-    excerpt: "Sen. Kamala Harris' ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
-    publishedDateTime: 2020-11-12T14:19:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "California Senate sweepstakes: Who gets Kamala Harris’ job? | Charlotte Observer"
     excerpt: "Sen. Kamala Harris’ ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
     publishedDateTime: 2020-11-12T14:35:00Z

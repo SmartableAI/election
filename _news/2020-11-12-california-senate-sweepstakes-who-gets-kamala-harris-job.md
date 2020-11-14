@@ -1,28 +1,30 @@
 ---
 category: news
-title: "California Senate Sweepstakes: Who Gets Kamala Harris' Job?"
-excerpt: "Sen. Kamala Harris' ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate."
-publishedDateTime: 2020-11-12T14:19:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-12/california-senate-sweepstakes-who-gets-kamala-harris-job?context=amp"
+title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
+excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat. In this race, only one vote matters,"
+publishedDateTime: 2020-11-12T14:09:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+webUrl: "https://www.sfchronicle.com/news/article/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/California-Senate-sweepstakes-Who-gets-Kamala-15721793.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://s.hdnux.com/photos/01/15/17/72/20250303/7/375x250.jpg"
+    width: 367
+    height: 250
+    isCached: true
 
 related:
   - title: "California Senate sweepstakes: Who gets Kamala Harris' job?"
@@ -144,6 +146,6 @@ related:
       domain: charlotteobserver.com
     quality: 50
 
-secured: "LE9aaZP8XFiVqPVPMNOyjtU2t/zytRHsq8hRoWU2EjwQgU5PfqZgZY/Bw7AoPsQ+msU67eVJUMLnK3uM6u+AVNI1s3roIfS3KQRZq8sQugrRUF6QokPhgjWaWSe82YCUrr/8GJONm/TECsN4VIzImcFqr9YxselGHwgAt+2lui5yPCS2AOEqYKhY2XtT4JLbajQ8EeYXm0W8SVOTPL2nfp98eUw+QbeR4TC4vfDTZu3zmjmUB3Qlu2RSu9WeVjU1mmw6fPDORuSoVyaMGAwprBZ3zoQTMyteFTSD9erbOJjXY7dvVWH0aqJT6wTjyOotxMDdeTyr6mDrJ2ptA8YUlb38Q5aXg8VHDHepXWviOOYSJniJ3kOmz5bkZ67AJl2DBAygK6ZEYfQnByNZ6K0adpjAHd8nZgUuE+b4OGb4FYXhvLqACzZ/C/8XMBgHK7T4alHZ/RSByq5plqSEVn2fcDdfu+Kw/fFWhDjYjw/YtygepMdPnJw1OceMJDU4Yqalj9YRzozPBivzRu9P65yENw==;sv8xsJDpk1Q1Xv1yRWCNJA=="
+secured: "leBKrvyw3FAWlYwx2kKQUrCiQWBELnrMln/TmRZpon4uY0jqpw3gfEW4d4LNOkoH+q3AhxKeeUZVhr+jXsH7jr22n5AU4sFVw97/upG3mzv87xcWvzKALHNZf+u9sEVnqfIUDA3hXnbGgtbl8FEYdO/gOUPzSqE0nxAt34Q1dQs1KUdEWFwv9jRsx6CYlSOKp066BMHLjXGgWoBpJpJ9HmgKtDHkKKo1HT2u5fEPsG3JPE8yWvJbxLjMf9kyGZ7FEao04zUUL5M/ka8rQcRl6Qe9cQSJKEjxowJCNhLcAzkcBrlw0eiQCB0ppqzcDv6OMWBodkcZmh9YijYuRReP43hi1n+zMqwAbCibLtKazFeh7CDee9qqNDxBydjJIYCodmSWZjOJvYcoQRpICnOLOeRbi9kto8yZ8q+GHcA1woyIhggFxKFnasCU3F59NCSqbkSD4PtKHvpMJUxJHWoG60WtBSGx+Bzn4Bc+sGmLCVfanYpenjmKAAU3gLtmnujMjFhTxIYFK1SOeglDHthd9w==;5kngPC5oe2ByY86mW8ot7A=="
 ---
 

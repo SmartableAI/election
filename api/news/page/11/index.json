@@ -2,6 +2,118 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-01-joe-biden-is-last-shot-for-establishment-democrats-says-lawrence-jones.md",
+      "title": "Joe Biden is ‘last shot’ for establishment Democrats, says Lawrence Jones",
+      "excerpt": "Progressivism will gain momentum in the Democratic Party if Joe Biden loses the election, Fox Nation host Lawrence Jones said on Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
+      "publishedDateTime": "2020-11-01T09:24:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-hunter-bidens-business-was-industrial-scale-corruption-graham.md",
+      "title": "Hunter Biden's business was 'industrial-scale' corruption: Graham",
+      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Sunday that he plans on holding a hearing where he will ask the FBI why they sat on the laptop believed to have belonged to Hunter Biden for almost a year without taking action.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff940e5b-abfd-4f83-a643-516042790627/644bed36-8304-4ae7-92cf-2c5809b22a97/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
+      "publishedDateTime": "2020-11-01T09:07:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
       "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
       "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
@@ -1222,105 +1334,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish.md",
-      "title": "Kamala Harris Says Political Figures Mispronouncing Her Name Are \"Predictable and Childish\"",
-      "excerpt": "Kamala Harris joined Trevor Noah on The Daily Social Distancing Show Thursday night where she addressed those who mispronounce her name. \"Why does it seem like it becomes harder to pronounce your name the more conservative a person is?",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
-      "originalUrl": "https://www.hollywoodreporter.com/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Oct29_DailyShowKamalaHarris-1604031696-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
-      "publishedDateTime": "2020-10-29T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-sean-hannity-biden-depicting-scary-image-of-america-despite-surging-economy.md",
-      "title": "Sean Hannity: Biden depicting ‘scary’ image of America despite surging economy",
-      "excerpt": "Joe Biden is making America out to be a country besieged by doom and gloom with five days left until the election, but “Hannity” host Sean Hannity argued Thursday the nation is actually on an upswing.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6f1nW8Ae14k/sean-hannity-biden-scary-image-america-economy-surge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6f1nW8Ae14k/sean-hannity-biden-scary-image-america-economy-surge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7db7e772-dce2-4517-a262-a44c6851edc8/70157bed-10cb-4dd7-a8aa-65deb9ad5c57/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
-      "publishedDateTime": "2020-10-29T21:04:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

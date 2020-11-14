@@ -47,6 +47,22 @@ related:
         width: 990
         height: 545
         isCached: true
+  - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
+    excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
+    publishedDateTime: 2020-11-14T08:00:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
     publishedDateTime: 2020-11-14T02:11:00Z

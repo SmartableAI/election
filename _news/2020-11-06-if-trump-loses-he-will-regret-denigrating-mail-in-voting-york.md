@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
+    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
+    publishedDateTime: 2020-11-13T03:54:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

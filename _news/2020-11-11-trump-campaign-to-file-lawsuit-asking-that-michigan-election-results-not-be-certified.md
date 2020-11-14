@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Election week, Trump, and the chaos of 2020 prove that cable news has outlived its worth"
+    excerpt: "The stress of election week didn't have to be this bad, but it's the cost of a cable news structure stuck in the past."
+    publishedDateTime: 2020-11-14T08:05:00Z
+    webUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5faee0991c741f0019ac9bce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Donald Trump isn't Al Gore: How 2020 legal challenges to the election differ from 2000"
     excerpt: "What happened two decades ago in Florida in the race between George Bush and Al Gore is far from what's happening in 2020, legal experts say."
     publishedDateTime: 2020-11-09T21:44:00Z

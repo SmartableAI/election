@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
 type: article
 quality: 140
-heat: 320
+heat: 360
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
+    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
+    publishedDateTime: 2020-11-14T05:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump's Pentagon shake-up has the military worried about its future"
     excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
@@ -149,6 +165,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Political future complicated for Pence"
+    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the vice president is contending with"
+    publishedDateTime: 2020-11-14T06:19:00Z
+    webUrl: "https://www.fairmontsentinel.com/news/national-news-apwire/2020/11/14/political-future-complicated-for-pence/"
+    type: article
+    provider:
+      name: Fairmont Sentinel
+      domain: fairmontsentinel.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.fairmontsentinel.com/images/2016/11/28181950/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+eari7Mhe/byqY3ETb9yIbY6462EeoL2AkxFcGNWOf9qSEGJDrKU2yG2dsU2Wh4ccEEsGKvn44YnB6xrxeOGcil8KukRGRj8MEBR/j+Vc6v+Dwnbs+UAEjrC3cZ9W9vve6qQrCFf6/Gh9SG8F6GrSiNXxPc0rBbaDYzISmv3ikkis1BozEwD0JkjhBaE7ulLX+jEL1rzgR5QS30vSKYKFELcxYTAnImFVyvu/rFm8EanNXzAypDJNppXJQhhxzipbq4bpLI1+A/ZtNxQ8bb6c4SxiYZjpO2gBZXVUcUnGPFC+pPAObHa5IlWdG2NB804EwQWOkA6aZnXNv1YSzRGp+gYOwYXdl4qvgBHs6WSwAPidH4vuhg7j0ilh+expu1RNC8R96+bkG/iiMWndEGWjmCBOMrUSuttCCjrYdRVp67vwOYWF6zDzq+BhkIWM8lxl4vP/v1D2AuPSkn+fqhi9sLNqeHhxQYenRjVmH6OLNLK99LmzXkGRQ1HoW3NiQ+GC2VDcUEzk2SHhtubj54Lsw==;FfnWy5asmTZsS81yDlc0pw=="

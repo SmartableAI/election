@@ -332,6 +332,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Taps Giuliani to Oversee Post-Election Legal Offensive"
+    excerpt: "President Trump has tasked Rudy Giuliani, his personal lawyer, with overseeing legal challenges to the election results, according to a person with knowledge of the matter. The decision came as the legal challenges waged by Mr."
+    publishedDateTime: 2020-11-14T06:09:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/pjDqoMTacFOITVz31vLk"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-260095?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Trump Campaign to Request a Recount in Wisconsin"
     excerpt: "Trump campaign manager Bill Stepien said Wednesday afternoon the campaign would request a recount in Wisconsin, calling it a “razor thin race.” The margin to request a recount in the state is 1% or less and President Trump is currently within that margin,"
     publishedDateTime: 2020-11-04T18:30:00Z

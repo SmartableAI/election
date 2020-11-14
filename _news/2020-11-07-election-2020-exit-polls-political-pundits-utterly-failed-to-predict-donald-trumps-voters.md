@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
+    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
+    publishedDateTime: 2020-11-14T05:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's Pentagon shake-up has the military worried about its future"
     excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
     publishedDateTime: 2020-11-13T16:10:00Z
@@ -149,6 +165,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Political future complicated for Pence"
+    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the vice president is contending with"
+    publishedDateTime: 2020-11-14T06:19:00Z
+    webUrl: "https://www.fairmontsentinel.com/news/national-news-apwire/2020/11/14/political-future-complicated-for-pence/"
+    type: article
+    provider:
+      name: Fairmont Sentinel
+      domain: fairmontsentinel.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.fairmontsentinel.com/images/2016/11/28181950/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EEwsM67dr4PAETGH1f5/tQm7UCrIh+GlI8gR31s8bSmxHuZX0FgbVmLKDZx6J2pN4d6i1EvXzAIqncVYk3oxy5fUvV1YBrI4ceb6nxu/Qpl4WIkup8QdgNPdn9EAiyBx/Y8/YAgf5KQ6VjT/3uQwACBBPnKSYBs0LMboC3WijlZ994zi1U2qNaYja+zSyTfpY2BqcnBclWoDwt+RDCY6+h3ZeEiLXosY8AK9avAx190KpPzhN360itQBn5aR0z0pAKOop/vZKV4Us9WC9R24haJvVzHgk77AZXgAx69t2pXaQHS6icvla6WDrrkHVW5Zi0b4ynQw1XpkmVB7AAxmPo65fHpJrf1JasDILvUCDBehKHWV+ls4ycrXI4+fX3kZmuo/Ts4nAJduYHVqvImthcxMhTCGgyCtYanKX6qkBLl9t3WZ0GESn+EZy6ElrCv0u7fbt+ZX2qrmqO4Gp5VH6mOiGhlvE3XqPffFYQ7GRWJbUG9iozmT9i47tKe1wnF18iOR3D1RTo0russNXqgj6g==;Kt8s93BZbkHjkBaAqoClhQ=="

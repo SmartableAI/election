@@ -1935,6 +1935,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump supporters head to the streets as he pushes false election claims"
+    excerpt: "President Donald Trump's supporters will take to the streets on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with a flurry of longshot legal challenges to overturn President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-14T06:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27U08A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27U08A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27U08A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541192310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD05M"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2129,10 +2145,10 @@ related:
         isCached: true
   - title: "Trump appears to acknowledge for first time that Biden could succeed him"
     excerpt: "President Donald Trump insisted on Friday he would never put the United States into a coronavirus lockdown but said \"time will tell\" if another administration takes office in January and does so, the closest he has come to acknowledging that President-elect Joe Biden"
-    publishedDateTime: 2020-11-13T23:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-vaccine-idINKBN27T2XX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27T2XX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27T2XX"
+    publishedDateTime: 2020-11-14T06:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-vaccine-idUSKBN27T2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2XX"
     type: article
     provider:
       name: Reuters
@@ -2591,6 +2607,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's efforts to dispute election results face setbacks in multiple states"
+    excerpt: "The Trump campaign or Republican surrogates have filed more than 15 legal challenges in Pennsylvania."
+    publishedDateTime: 2020-11-14T06:14:00Z
+    webUrl: "https://www.businessinsider.com/trumps-efforts-dispute-election-results-set-back-multiple-states-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-efforts-dispute-election-results-set-back-multiple-states-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-efforts-dispute-election-results-set-back-multiple-states-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 137
+    images:
+      - url: "https://i.insider.com/5faf70f81c741f0019ac9d61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
     publishedDateTime: 2020-11-03T15:11:00Z
@@ -2989,6 +3021,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540689619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90W6"
         width: 796
         height: 545
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden reaches 306 electoral votes, Trump at 232"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-14T03:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-wilmington-01-gty-jc-201112_1605219129611_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
@@ -4851,6 +4899,38 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Biden gives boost to retiring senator's climate change plan"
+    excerpt: "A plan championed by retiring Democratic Sen. Tom Udall of New Mexico to harness the nation’s lands and ocean waters to fight climate change is getting a boost from Joe Biden"
+    publishedDateTime: 2020-11-14T05:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-boost-retiring-senators-climate-change-plan-74196355"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-boost-retiring-senators-climate-change-plan-74196355"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-boost-retiring-senators-climate-change-plan-74196355"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7a89affb4f534d9b91a12217ce016405_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Can Trump win with 'fantasy' electors bid? State GOP says no"
+    excerpt: "Republican leaders in four critical states won by President-elect Joe Biden say they won’t participate in a legally dubious scheme to flip their state’s electors to vote for President Donald Trump"
+    publishedDateTime: 2020-11-14T06:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-win-fantasy-electors-bid-state-gop-74204990"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-win-fantasy-electors-bid-state-gop-74204990"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-win-fantasy-electors-bid-state-gop-74204990"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_23216b0e460f4b4fa11bf48a4c9f1f94_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "China congratulates Biden, but few US policy changes seen"
     excerpt: "China has become one of the last major countries to congratulate U.S. President-elect Joe Biden, who is expected to make few changes to U.S. policy toward Beijing on trade, technology and other confli"
     publishedDateTime: 2020-11-13T16:01:00Z
@@ -4882,6 +4962,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U2FKSUBF5II6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 930
+        isCached: true
+  - title: "Meet the faith leaders President-elect Biden is likely to consult"
+    excerpt: "President Trump’s White House tweaked that a bit, not appointing an official faith adviser until late in his term and relying mostly on an informal circle of evangelical advisers who pushed a conservative Christian agenda of justice reform,"
+    publishedDateTime: 2020-11-14T00:28:00Z
+    webUrl: "https://www.washingtonpost.com/religion/meet-the-faith-leaders-president-elect-biden-is-likely-to-consult/2020/11/13/6e6ac0ec-25b2-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/meet-the-faith-leaders-president-elect-biden-is-likely-to-consult/2020/11/13/6e6ac0ec-25b2-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/meet-the-faith-leaders-president-elect-biden-is-likely-to-consult/2020/11/13/6e6ac0ec-25b2-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CTMJZJBFWUI6XBTSYKA4PIWJNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Republicans face court setbacks, Trump law firm steps down"
     excerpt: "Republicans suffered setbacks to court challenges over the presidential election in three battleground states on Friday as a national law firm that came under fire for its work for President Trump’s c"
@@ -6179,6 +6275,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump supporters rally around the president after election"
+    excerpt: "A counter-demonstrator and supporter of President Donald Trump clashes with a protester during an anti-Trump rally in the aftermath of the 2020 U.S. presidential election, at Black Lives Matter Plaza"
+    publishedDateTime: 2020-11-14T03:27:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-supporters-rally-around-the-presid-idUSRTX89C12"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170217&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-13T222710Z_37482_MRPRC2L2K9YRQ2R_RTRMADP_0_USA-ELECTION-PROTESTS"
+        width: 810
+        height: 550
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -6502,6 +6612,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden aide casts doubt on U.S. COVID lockdown as West Coast states advise against travel"
+    excerpt: "A senior adviser to President-elect Joe Biden said on Friday there were no plans for nationwide lockdowns on commerce or social life to curb the surging coronavirus pandemic, even as three U.S. West Coast states jointly called for a halt in non-essential travel."
+    publishedDateTime: 2020-11-14T02:34:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-idINKBN27T2H7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27T2H7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27T2H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541178222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden breaks Obama's record for most votes ever cast for a U.S. presidential candidate"
     excerpt: "Barack Obama earned 69,498,516 votes in the presidential election, the most ever. Now, Mr. Obama's former vice president, Democratic nominee Joe Biden, has surpassed that tally, with a record 69,589,840 votes (50."
     publishedDateTime: 2020-11-04T18:01:00Z
@@ -6584,17 +6710,17 @@ related:
         isCached: true
   - title: "Biden aide sees localized COVID-19 restrictions, not national lockdown, after inauguration"
     excerpt: "With cities and states across the United States reimposing restrictions this week to tame alarming surges in coronavirus infections and hospitalizations, a senior adviser to President-elect Joe Biden said on Friday there were no plans for nationwide lockdowns next year."
-    publishedDateTime: 2020-11-13T17:13:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-idUKKBN27T2GL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2GL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2GL"
+    publishedDateTime: 2020-11-13T21:59:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/biden-aide-sees-localized-covid-19-restrictions-not-national-lockdown-after-inauguration-idUSL1N2HZ1SO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2GL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2GL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 115
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541147753&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1E7"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541178222&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PI"
         width: 817
         height: 545
         isCached: true
@@ -8563,6 +8689,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 85
+  - title: "Netanyahu Said Trump Was Israel's 'Greatest Friend.' How Will He Cope with Biden in the White House?"
+    excerpt: "We will never forget this and we will always remain thankful.” In the four years since Bennet declared “the era of the Palestinian State” over upon Donald Trump’s poll-defying win in 2016, Bennet’s views—on the White House,"
+    publishedDateTime: 2020-11-14T05:56:00Z
+    webUrl: "https://time.com/5910588/joe-biden-netanyahu/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "President Donald Trump & Vice President Mike Pence Election Night Remarks"
     excerpt: "This is a fraud on the American public. This is an embarrassment to our country. We were getting ready to win this election. Frankly, we did win this"
     publishedDateTime: 2020-11-04T10:20:00Z
@@ -9258,6 +9393,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fobROuowJmNI/FMqVzLCFmyGiilZz7jBkjgeNUAciEhZmppPAgyVmSGjdaUOwjGxL54u0pcPaK5eg/FjUUJ9P4y+yYzcloD0CHYC5w2PDe1Wxf+yfiM8dD+V5MXSb/SkdaZh0kWMhYLvgA7ZrcU8fC4U6J9LSdd8igt5Y3aSMoAelEAATFo8qrayXqXueiiYbE7ewHoiPPpJtXw/FINMhrunWftW1G0pAILlwtrVM7iy1WmEqVqZmG7a9aSx78d2Z1Kj5xsF4LIAgJZIP6hvQgu6rvrfLZOApEDo16TI8jtMyksUQHgXeOWU3ruOpA9n+M8We7Ngrc8hcoGuyX5jETXeN6i449O6BiLBWClpr0w=;Cl1LdEx+tq2B175RQGPZdw=="
+secured: "jqfNjEZ0LAApaTp6IuzFuQKyyYd9kTNR2zccRN0AXwL9eqEQEXfHQL67n7g3DeJinUdWkwI9TaC4Bu908bgY3OMSBPf9rh0Gn+qoISPJe7UsLgvvOFeI9WVxLpnGvdqUnEYDtGsgZzR9Wr07HHfbgOjcWK2G2dLoHzY7Y5tmYl5D69UcyfkvJbgpHUWGl2pUhERv4bs0k6rSWRi0upOP+3JLDLvP2R8LourRmvYkeHkIDbMVczEFOX0fa4KzxGaEA2ASEP0lTrPseF/h0QygspmS+QmJAu29mfGMqofpe6cAhSuDDkI9570QKG8NJGCs1bK4SiDcyLeJ+G8wA2Bk9hlBtQpm9cWyF/ICVkOlsoHadzXbAYu/ypNnSwlCOg4qCg3OLe8sj6/h14Wd+kKvcKVVnMbaaEvMryOf27WzQrpOtvnzyMDni6O8297iY6VMXTeLa6DDROnAZ7DsDwFEmTHyrss9OZoiP6Nl2cypSdtKN1IcbWkERO9/av72Psxe4phukjVnzmjKK4DEFkO60w==;Xt8CQNpA0JqegUAPcHmTnA=="
 ---
 

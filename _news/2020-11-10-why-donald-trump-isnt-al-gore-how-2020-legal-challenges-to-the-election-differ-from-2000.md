@@ -95,6 +95,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Election week, Trump, and the chaos of 2020 prove that cable news has outlived its worth"
+    excerpt: "The stress of election week didn't have to be this bad, but it's the cost of a cable news structure stuck in the past."
+    publishedDateTime: 2020-11-14T08:05:00Z
+    webUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cable-news-coverage-election-week-analysis-outdated-format-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5faee0991c741f0019ac9bce?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republicans: Unshackle yourselves from the Trump craziness"
     excerpt: "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,"
     publishedDateTime: 2020-11-10T06:00:00Z

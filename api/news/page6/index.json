@@ -2,6 +2,106 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-09-campaign-leaders-agree-ohio-still-a-battleground-despite-donald-trumps-two-victories.md",
+      "title": "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories",
+      "excerpt": "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6149084002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002",
+      "publishedDateTime": "2020-11-08T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-wonder-woman-star-lynda-carter-celebrates-kamala-harris-win-on-45th-anniversary-of-the-show.md",
+      "title": "'Wonder Woman' star Lynda Carter celebrates Kamala Harris' win on 45th anniversary of the show",
+      "excerpt": "Wonder Woman” actress Lynda Carter shared a congratulatory note to Vice President-elect Kamala Harris on a special day for fans of the superhero TV series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "originalUrl": "https://www.foxnews.com/entertainment/wonder-woman-lynda-carter-kamala-harris-45-anniversary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election.md",
       "title": "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election",
       "excerpt": "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president.",
@@ -1179,7 +1279,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1203,110 +1303,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-biden-says-hes-honored-and-humbled-and-calls-for-unity-after-major-networks-declare-him-the-46th-president.md",
-      "title": "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president",
-      "excerpt": "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa6d755f7d1cb0019e3a60f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp",
-      "publishedDateTime": "2020-11-07T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-us-election-live-democracy-works-says-joe-biden-as-he-urges-patience-with-count-showing-him-on-verge-of-win.md",
-      "title": "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win",
-      "excerpt": "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7",
-          "width": 600,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates",
-      "publishedDateTime": "2020-11-07T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
