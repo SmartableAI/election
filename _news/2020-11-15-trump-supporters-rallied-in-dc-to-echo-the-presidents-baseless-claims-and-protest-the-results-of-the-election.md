@@ -6687,6 +6687,20 @@ related:
         width: 810
         height: 550
         isCached: true
+  - title: "Trump Refuses To Concede, Biden Transition Team Forges Ahead"
+    excerpt: "President Trump addressed the surging pandemic yesterday in the Rose Garden. It was the first time he's spoken publicly since Joe Biden was declared the winner."
+    publishedDateTime: 2020-11-14T21:21:00Z
+    webUrl: "https://www.npr.org/2020/11/14/935018291/trump-refuses-to-concede-biden-transition-team-forges-ahead"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump supporters rally in Washington to dispute election results"
     excerpt: "Thousands of Trump supporters gathered in the nation's capital Saturday to protest the election results. Like the president, the attendees alleged without evidence that the election was stolen due to widespread voter fraud."
     publishedDateTime: 2020-11-15T02:18:00Z
@@ -8233,14 +8247,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115061524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700014_1605421144.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
         width: 1280
         height: 720
         isCached: true

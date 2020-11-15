@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
+    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
+    publishedDateTime: 2020-11-15T08:05:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RcSIm9VMk/N2L5fOR4CH6kmkPAdX9kwyd5U8yvjq6xal+obwb/FcpTu4jTq0KapiOHYJRRxt9d1N4k/e3J1bxEKrSnxEZ1P6Ipzbg9B2yflwobtjJeUFfGvrULtMFCx4L3Aqq96FtdrMFXzNNFrjZ+DFStouF6ydwOaPqf5K+C5D5CNZJxG/vzmJn0HrbokVzzIgz+b99JBnDpHdQKZLZKnH3z8lMEkZ3KQ80ZST+XPpoAlomD5QhIXQmNYCcyA3/Y8u6MIBuDN4jdwVE3CyspyNOyNVSNm75oME7dBqu3Pc542j2eE/Ns3b0pwbdmyFRmkszCJRgtcCLjqi8Lr5Fg2vZI7/kWEbhZtiIkEjmto=;PFagsDm9pJ3NVReeDirz0A=="
 ---

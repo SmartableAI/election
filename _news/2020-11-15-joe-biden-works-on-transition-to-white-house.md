@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden works on transition to White House"
 excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-11-14T18:06:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201115061524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
-webUrl: "https://www.cbsnews.com/live/video/20201115061524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+originalUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700014_1605421144.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -6685,6 +6685,20 @@ related:
         width: 810
         height: 550
         isCached: true
+  - title: "Trump Refuses To Concede, Biden Transition Team Forges Ahead"
+    excerpt: "President Trump addressed the surging pandemic yesterday in the Rose Garden. It was the first time he's spoken publicly since Joe Biden was declared the winner."
+    publishedDateTime: 2020-11-14T21:21:00Z
+    webUrl: "https://www.npr.org/2020/11/14/935018291/trump-refuses-to-concede-biden-transition-team-forges-ahead"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump supporters rallied in DC to echo the president's baseless claims and protest the results of the election"
     excerpt: "President Donald Trump's supporters have rallied behind his baseless claims, with many organizing \"stop the steal\" demonstrations."
     publishedDateTime: 2020-11-14T20:55:00Z
@@ -9969,6 +9983,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "U6neJmCfVEoSS6YX0PMPeIFFOT1Ok9c+lNvqRuhRbR6qx0fjAd/hf+LQDVs7HyXB5KCOFP4AyUKb/mvyb0aA0S+x45IaQfEFk9PfxxB8ivfUa6zB87A6ddzXyYdswu61nhIei77hjdZRlyR3sQEnnwZ7NBo1TgS2lBO/nRnFxj5+RJNhv5biHyN7Rrbn1E2742CeScijBkqWsCj31agHp7knuNhoVLKc7UvRcSQtfl5CSxeTQO6IhiVsK5f9J7BBBs9uzTiHzsVffCLI3zJJEYEx6GsTpoLHwcjSKd6NEV1e9zryIa/gEPEfhAi9yZoecoQoplHuSGSv5fRSbThkFr2lVTfCkfGIVqNuJUHdCVQ=;rsUs7km0x6ynH88PDMtGiA=="
+secured: "S8MfI4r8nU7/Vvf4mqAZMDQK0D21eNryY6fhBT6i2gB08V49bT82W8unvFGQF0ka1We89AnteRW6a/KUNFR3eXWXZp5f5br9EDKwYHPWWjt7c8+awV6PnXyw3b/9c4CDY21UYy5/m2BVJcTQ2NnU9ZzJwR+6xDoX+zej/MteboYklaskOLNdRGR3gYzCcYVxrhX7JViAAL0HF02Q0k6htYU/UfIPNCCNy5AUaJQTIiw8GbDYCbMfl4gspBrqxgS5kaPXBs+xIqk9ngfl+OOA7ZRCvUEj0Rc2yRmCON36YyQz1zDu2J4k9zPQ3+ph+vDD2TYCZ1io52jKVjMNHEdIijazeZyhac8LnoJBa+QDtK0=;LnlXJ825t+KGotBdsyLbhg=="
 ---
 
