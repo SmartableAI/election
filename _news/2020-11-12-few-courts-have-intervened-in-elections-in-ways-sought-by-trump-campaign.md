@@ -272,6 +272,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pro-Trump Demonstrators in Washington Protest Election Results"
+    excerpt: "Thousands of supporters of the president gathered in the capital to protest the results of the election. They were greeted by counterdemonstrations, and skirmishes between the two sides attracted police attention."
+    publishedDateTime: 2020-11-15T07:29:00Z
+    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-260118/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Campaign, Allies Face Legal Setbacks in Michigan, Arizona, Pennsylvania Election Suits"
     excerpt: "A state judge in Michigan denied a bid by a conservative legal group to block the certification of election results and force an independent audit of votes in Detroit, calling the allegations of misconduct and voter fraud “incorrect and not credible."
     publishedDateTime: 2020-11-13T22:57:00Z

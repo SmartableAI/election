@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5185
+heat: 5205
 published: true
 
 provider:
@@ -2796,6 +2796,22 @@ related:
     quality: 149
     images:
       - url: "https://static01.nyt.com/images/2020/11/09/world/09china-us-1/09china-us-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Faces Early Test With Immigration and Homeland Security After Trump"
+    excerpt: "The Department of Homeland Security was molded in President Trump’s image, and not just on immigration policy. President-elect Joseph R. Biden Jr. will have work to do to remake it."
+    publishedDateTime: 2020-11-15T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15dc-dhs2/merlin_179254878_1e3f072b-b4a4-4ea8-bc10-6f166a22b20b-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

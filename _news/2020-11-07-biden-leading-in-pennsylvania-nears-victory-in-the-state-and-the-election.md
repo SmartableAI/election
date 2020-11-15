@@ -2816,6 +2816,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Faces Early Test With Immigration and Homeland Security After Trump"
+    excerpt: "The Department of Homeland Security was molded in President Trump’s image, and not just on immigration policy. President-elect Joseph R. Biden Jr. will have work to do to remake it."
+    publishedDateTime: 2020-11-15T10:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/us/politics/biden-immigration-homeland-security.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15dc-dhs2/merlin_179254878_1e3f072b-b4a4-4ea8-bc10-6f166a22b20b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Top Republicans Decline to Acknowledge Biden Win as Trump Refuses to Concede"
     excerpt: "Former President George W. Bush and a handful of other Republicans congratulated the president-elect, but most party leaders stayed quiet or urged President Trump to fight."
     publishedDateTime: 2020-11-08T22:03:00Z

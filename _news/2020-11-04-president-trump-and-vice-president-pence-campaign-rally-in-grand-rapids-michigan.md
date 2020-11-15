@@ -2021,10 +2021,10 @@ related:
         isCached: true
   - title: "Top CEOs met to plan response to Trump's election denial"
     excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
-    publishedDateTime: 2020-11-14T16:15:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/top-ceos-largely-silent-trump-election-denial-now-74185026"
+    publishedDateTime: 2020-11-15T00:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/top-ceos-largely-silent-trump-election-denial-now-74184419"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-ceos-largely-silent-trump-election-denial-now-74184419"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-ceos-largely-silent-trump-election-denial-now-74184419"
     type: article
     provider:
       name: ABC
@@ -3106,6 +3106,22 @@ related:
         width: 748
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: At least 20 arrested, 1 stabbed at DC protests"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-15T09:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/police-arrest-protest_hpMain_20201114-232944_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -3276,6 +3292,22 @@ related:
       - url: "https://i.insider.com/5faeb8b71c741f0019ac9aa6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump still refusing to concede to Biden, inflaming supporters and delaying transition"
+    excerpt: "The transition to President-elect Joe Biden's administration remained in political limbo on Sunday, a day after tens of thousands of President Donald Trump's supporters poured into the nation's capital to echo his false claims of election fraud."
+    publishedDateTime: 2020-11-15T06:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/trump-still-refusing-to-concede-to-biden-inflaming-supporters-and-delaying-transition-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
+        height: 545
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
@@ -5349,6 +5381,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump supporters morning protests turn into violent clashes"
+    excerpt: "Several thousand supporters of President Donald Trump in Washington protested election results and then hailed Trump’s passing motorcade before nighttime clashes with counterdemonstrators sparked fistfights,"
+    publishedDateTime: 2020-11-15T00:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump thrills protesting supporters with motorcade drive-by"
     excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
     publishedDateTime: 2020-11-14T17:49:00Z
@@ -5695,6 +5743,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/11/PDEM/adc86d92-0f81-4e29-8a39-a7952ca2222a-AP20315761861175.jpg?auto=webp&crop=5555,3125,x0,y282&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump lost at the ballot box. His legal challenges aren’t going any better."
+    excerpt: "President Trump lost his reelection bid at the ballot box. But he said he could win it back in court. In five key states, Trump and his allies filed lawsuits that — according to Trump — would reveal widespread electoral fraud,"
+    publishedDateTime: 2020-11-15T08:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-legal-challenges/2020/11/14/904fbd04-25e2-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-legal-challenges/2020/11/14/904fbd04-25e2-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-legal-challenges/2020/11/14/904fbd04-25e2-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PIJZQVRGBQI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
@@ -8251,14 +8315,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115101524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701073_1605435544.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -9950,6 +10014,15 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 45
+  - title: "Mike Pence's future as a presidential candidate is murky as Trump refuses to concede"
+    excerpt: "Vice President Mike Pence's political future is growing murkier as President Donald Trump refuses to concede the election while also floating the idea of running again in four years. Pence, 61, has been positioning himself for a White House run since his days after the turn of the century as a conservative firebrand Congressman from Indiana."
+    publishedDateTime: 2020-11-15T10:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/11/15/mike-pence-political-future-trump-refuses-concede/3760715001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 43
   - title: "Lady Gaga Joins Joe & Jill Biden at Final Drive-In Rally in Pittsburgh"
     excerpt: "Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh, their final campaign event on the eve of Election Day. Also featured is singer Lady Gaga. 2020 Democratic presidential candidate Joe Biden and his wife Jill speak at a drive-in rally in Pittsburgh,"
     publishedDateTime: 2020-11-02T10:21:00Z
