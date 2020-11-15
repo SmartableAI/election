@@ -113,6 +113,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump says for the first time Biden won the election but later insists he's not conceding"
+    excerpt: "President Donald Trump for the first time Sunday morning acknowledged President-elect Joe Biden's victory while falsely blaming his loss on a string of baseless conspiracy theories.\n    \n"
+    publishedDateTime: 2020-11-15T16:52:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0pcwWcK_diw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/trump-biden-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/trump-biden-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 196
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden defeats Trump in an election he made about character of the nation and the President"
     excerpt: "America has chosen Democrat Joe Biden as its 46th president, CNN projects, turning to a veteran voice who has projected calm and compassion, promised a more empathetic and scientific approach to the pandemic, and pledged to stabilize American politics after four years of Donald Trump's White House chaos.\n"
     publishedDateTime: 2020-11-07T16:49:36Z
@@ -1454,6 +1470,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci: 'It would be better' if government health officials could start working with incoming Biden-Harris administration"
+    excerpt: "Dr. Anthony Fauci said Sunday that \"it would be better\" if government health officials could start working with President-elect Joe Biden's transition team, underscoring the importance of a smooth transition process as the country grapples with the worsening coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-11-15T16:14:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0RHU756wI1Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/anthony-fauci-coronavirus-biden-trump-transition-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/anthony-fauci-coronavirus-biden-trump-transition-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103174213-anthony-fauci-0731-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

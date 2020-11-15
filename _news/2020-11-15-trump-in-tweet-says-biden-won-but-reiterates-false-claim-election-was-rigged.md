@@ -2127,6 +2127,54 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump seems to acknowledge Biden win, but he won’t concede"
+    excerpt: "President Donald Trump appears to have acknowledged for the first time that Joe Biden won the White House election"
+    publishedDateTime: 2020-11-15T15:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-seems-to-acknowledge-biden-win-but-he-wont-concede/2020/11/15/6e3d8660-2754-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seems-to-acknowledge-biden-win-but-he-wont-concede/2020/11/15/6e3d8660-2754-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seems-to-acknowledge-biden-win-but-he-wont-concede/2020/11/15/6e3d8660-2754-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Violent clashes in DC after Trump backers' election protest"
+    excerpt: "After several thousand supporters of President Donald Trump protested the election results and marched to the Supreme Court, nighttime clashes with counterdemonstrators led to fistfights, at least one"
+    publishedDateTime: 2020-11-15T15:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-supporters-morning-protests-turn-violent-clashes-74216020"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-supporters-morning-protests-turn-violent-clashes-74216020"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-supporters-morning-protests-turn-violent-clashes-74216020"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden advisers to meet vaccine firms as Trump stalls handoff"
+    excerpt: "Joe Biden’s scientific advisers will meet with vaccine makers in coming days as the presidential transition remains stalled because of President Donald Trump’s refusal to acknowledge that he lost the"
+    publishedDateTime: 2020-11-15T16:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -2349,6 +2397,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541173908&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1QF"
         width: 812
+        height: 545
+        isCached: true
+  - title: "Trump cites Biden victory on Twitter, still presses false rigging claims"
+    excerpt: "President Donald Trump appeared on Sunday to publicly acknowledge for the first time that his Democratic rival Joe Biden won the Nov. 3 U.S. presidential election, but reiterated his false claims that the vote was rigged."
+    publishedDateTime: 2020-11-15T15:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN27V0EG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0EG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0EG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541267065&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0ED"
+        width: 771
         height: 545
         isCached: true
   - title: "Trump supporters gather in Washington as he pushes false election claims"
@@ -3984,6 +4048,22 @@ related:
       - url: "https://i.insider.com/5fa53ba61df1d500182193b2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Barack Obama to Gayle King: 'There is no legal basis' for Donald Trump's claim of election fraud"
+    excerpt: "Barack Obama reflected on his presidency, President Trump's administration and the Joe Biden White House on \"CBS Sunday Morning\" with Gayle King."
+    publishedDateTime: 2020-11-15T16:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/11/15/barack-obama-talks-biden-trump-election-fraud-claims-new-memoir/6302441002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6302441002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6302441002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/30/USAT/1d55068c-ee2c-457c-8cbf-7e4f4de6e25f-AP_Election_2020_Biden_Obama.jpg?auto=webp&crop=1023,575,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
@@ -5995,6 +6075,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/0e4f739a-63ae-45f9-87ec-01d6b918ecbc-VPC_TRUMP_ON_HUSBANDS_BACK_TO_WORK_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "REFILE-Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T16:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-idINL1N2I10BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINL1N2I10BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL1N2I10BI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
+        width: 849
+        height: 545
         isCached: true
   - title: "Here are the GOP and Trump campaign’s allegations of election irregularities. So far, none have been proved."
     excerpt: "Republicans have made claims of election irregularities in five states where President-elect Joe Biden leads in the vote count, alleging in lawsuits and public statements that election officials did not follow proper procedures while counting ballots in Tuesday’s election."
@@ -10198,6 +10294,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sxuDiDaVRWJ+UaFB31dVhvYVieO6gX3Qbn2hEgvrhEVe0o1Hjcko9vHnUyyRvIQWt5I1JweMu2HLWoJtvuwnUXPgalsJk+XNOcjIuEfWRjouippIRQGZtpjZNUpSZUCNJ5VDJoGAiSNw9ztYvSbytWKF6ZXbCO9xlN+VJnXomNL6G49Y5rNacdw2Ryx5pzZwYjSzWJt/y542OQlsgSlLDoD4a6/QdKg9HT+2ZhbjqdEMgCgjaKFeGqb9TlMBIgJppEOLMJ1kDPa1LfmE3b+9BrgXNp1ilYYYobDU9naFJR2uP3YbggT0bTU/GAIl39pw+fITsBsiUdFlLdU/4eDgHheXe0YMAvhXiFy9tcB3dRg=;l+r3nuV+FKGRRfWRrJ2CzQ=="
+secured: "HfPGH0b5jyj9cMI7fi97rFHM/GVqlt62znoLVVeJQ+421wejsZghel5Nl6NyIit5YveIx1v4EHr3zn5wVzvc/FkqsVQtGawJFuKSClkC6GkgHxiR1H8k4Ih3BAQIHrGIzDjdhC4tAyeyEE0fypeAgVjCqIvP78905P7C1Lj5wAMlL72vwLK7Xj701WEX9KId6XSYvokeSdswhGFzFagHnbLBgtAxh/4BaUS1ldRk9u3flYF9ExLOQLfshKDfU6Z3MwO9pIhakW9RCtA+s1Qkj7ucjPCSe9iifyPjmhMcbmSnOMjcYG9LtV4teTfZXCVwheF3nokJ/HUFCLMq/UgMypXz3mPg9giaqRr04ARxldJ8hrdDMTJHafrVRjJpPkDfSlwHBKU2jLWiFnU6tCjpp9peayw17LOqkv/+ohQ12oVC3DHeh9MmXKZt1e41mEJCI4jUr+ppmO50G+tNxjMDZAydPcusVU2KFikBzc+Ovs41q4cdwwwyja5cz0Yz60duDj5rLDiNtPoogBBR3p4Zcg==;HTpIM86i6atGZl9kRd9DAg=="
 ---
 
