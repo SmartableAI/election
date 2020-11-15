@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Westmoreland County in final day before election"
-    excerpt: "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning."
-    publishedDateTime: 2020-11-02T12:59:00Z
-    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
-    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-to-visit-westmoreland-county-in-final-day-before-election/34547220"
-    type: article
-    provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 84
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/a8ca6ef5-8b65-45e5-a083-461eccaede15/a8ca6ef5-8b65-45e5-a083-461eccaede15_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
     excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
     publishedDateTime: 2020-10-26T23:30:00Z
@@ -59,106 +43,36 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Mike Pence rallies in Latrobe on final day of campaigning"
-    excerpt: "BUT FOR THOSE WHO WERE HERE, THEY WERE VERY ENTHUSIASTIC. CHANTS OF \"FOUR MORE YEARS \" AND \"USA\" FILLING THE AIR DURING VICE PRESIDENT MIKE PENCE’S VISIT TO LATROBE. THE VICE PRESIDENT, INTRODUCED BY HIS WIFE, KAREN PENCE, ADDRESSING THE CROWD OF A ..."
-    publishedDateTime: 2020-11-02T22:32:00Z
-    webUrl: "https://www.wtae.com/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
-    ampWebUrl: "https://www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/vice-president-mike-pence-latrobe-erie-pennsylvania-rallies-monday/34540406"
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
     type: article
     provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 74
+      name: WTVD
+      domain: abc11.com
+    quality: 60
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1604359887.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
-    excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-    publishedDateTime: 2020-11-03T22:50:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 68
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/05/14/20206348/3/rawImage.jpg"
-        width: 2048
-        height: 1337
-        isCached: true
-  - title: "Vice President Mike Pence Campaigns in Mosinee"
-    excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
-    publishedDateTime: 2020-10-29T01:09:00Z
-    webUrl: "https://waow.com/2020/10/28/vice-president-mike-pence-campaigns-in-mosinee/"
-    type: article
-    provider:
-      name: WAOW
-      domain: waow.com
+      name: Lancaster Online
+      domain: lancasteronline.com
     quality: 55
     images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/9/2020/10/pence.jpg"
-        width: 505
-        height: 317
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
-  - title: "Vice President Mike Pence welcomed by crowd of 500 in Flint"
-    excerpt: "Tonight as the sun went down, Air Force Two touched down at Flint Bishop Airport. Pence hustled up to the podium, highlighting the importance of Michigan in this election."
-    publishedDateTime: 2020-10-29T04:28:00Z
-    webUrl: "https://www.fox2detroit.com/video/865403"
-    ampWebUrl: "https://www.fox2detroit.com/video/865403.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/video/865403.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 55
-  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
-    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
-    publishedDateTime: 2020-10-29T12:50:00Z
-    webUrl: "https://www.fox10phoenix.com/video/865477"
-    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 55
-  - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
-    excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
-    publishedDateTime: 2020-10-28T19:54:00Z
-    webUrl: "https://www.wistv.com/2020/10/27/live-pm-vice-president-mike-pence-holds-campaign-rally-upstate/"
-    type: article
-    provider:
-      name: WIS TV
-      domain: wistv.com
-    quality: 55
-    images:
-      - url: "https://www.wistv.com/resizer/nhz_ERntBjIWp5Tw3f3MtEDqSRA=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/2BZ6FRGNN5DKRIITPK63APIRAM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Vice President Mike Pence Speaks At Rally In Latrobe"
-    excerpt: "With one day left until Election Day, Vice President Mike Pence is speaking at a rally at the Arnold Palmer Regional Airport; KDKA's Ross Guidotti reports."
-    publishedDateTime: 2020-11-02T17:27:00Z
-    webUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/"
-    ampWebUrl: "https://cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
-    cdnAmpWebUrl: "https://cleveland-cbslocal-com.cdn.ampproject.org/c/s/cleveland.cbslocal.com/video/4838712-vice-president-mike-pence-speaks-at-rally-in-latrobe/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 55
-  - title: "Vice President Pence Campaigns in Latrobe, PA"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
-    publishedDateTime: 2020-11-02T08:03:00Z
-    webUrl: "https://www.c-span.org/video/?477688-1/vice-president-pence-campaigns-latrobe-pa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "b2bs4pDB4gtdke724HPwWUhGrCpTjELH/8mV15WCvEOcFp4hpRmhptYahoIJ65caVJ56qJKC/woKjCD1XKqSoCCqjK/o2yjnuo1Ik7TDhFW+85ihetHX26A8CmnvNLDJF6AG3SnjC31lhuJPCiwPIUuWl5LSuX2aOIZPvMNq0WKUp3DcTAGw94i2mBjr9BFxwOhIM7T3dyCYXujzVxeHX2oT/jeftw8r6TGTgXKoZuRP8bHUCT+cGIRep+8lRMu3/iRED/gaqEBLfaSAJcvkIROq23GEQIi2SDHzS1BOryujKv0iZmmaZASQ3+Aui5/yqcHvXjQhEerRPUu87ekb2X0O7QS5y0h3cuKgeQW90m8=;jv9hQ3edKZEc2lTUzmACnw=="
 ---

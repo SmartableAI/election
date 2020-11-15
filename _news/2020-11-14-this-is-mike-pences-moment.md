@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/13/mike-pence-leader
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/13/mike-pence-leadership-coronavirus/?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1158244766.jpg?itok=sy8XlQ2y&resize=450x300"
         width: 450
         height: 300
+        isCached: true
+  - title: "COMMENTARY: Is this Mike Pence's moment?"
+    excerpt: "The recent surge in Covid-19 cases is filling up hospitals across the United States. The problem is expected to get much worse, as hospitalizations usually increase several days after a"
+    publishedDateTime: 2020-11-13T21:15:00Z
+    webUrl: "https://www.berkshireeagle.com/opinion/commentary-is-this-mike-pences-moment/article_c18e47a8-25fd-11eb-96b7-9f00b58e72aa.html"
+    type: article
+    provider:
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/a92877a0-192e-11eb-a74c-37201dab4d4e.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "L/GlidLhRIFAMx0yhX3JIaiBURvOO5AG/FRFNZrQceUr35rOB5lQSfwmpaW5WHbqZoLdw4Byj0mOBeGo/RSbvDjhdyJGujDIfMEfvYsNeFe0fGpvS51Yu7r279H70BMS4rqvkSoQQH8F2GJWFd31zbZrhrEufaODeELEgt00C1AlS3xpvxHnKIllowFITclUbsp7/UQ8Xpz0Afh9zodC4eZ0PqyUvQkzeXEXLRPl5vMBIGAyXF1kxSskWafNq+r/D/5u//EwRFGosTR44SZUeH8mORNIUzFHDwYbkU7FIjZNSxJB7+JIsZZ/KsObRMwfAl4S9IFJE4czbmQRtUljUkvjKoxlTLn33aNK89H0kQlTDupGl6U3o/KRHGvGFTWOBmuBB3aWmUgyy2LzSL+Fg6iXC6EK5/CxQRvHI+//MXynBzPuqlHvZEB6I26tan4XtjGHUITc/d0IQSXR64tlJXmIFotbfBjX77Bv/iVdaRbrlxZvaADqm9rIB8wXMHFXsF1ABH48kg0soJ8d8eraqg==;qmBOhsRaOxwbeJwL7TP6PA=="

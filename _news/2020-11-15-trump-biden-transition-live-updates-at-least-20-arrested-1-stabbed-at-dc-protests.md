@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
 ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
 type: article
-quality: 134
+quality: 144
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s.abcnews.com/images/Politics/police-arrest-protest_hpMain_20201114-232944_16x9_1600.jpg"
@@ -2030,6 +2031,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541215473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD0EK"
         width: 836
         height: 545
+        isCached: true
+  - title: "Biden won places that are thriving. Trump won ones that are hurting."
+    excerpt: "Trump fared well among voters who said the economy was their top concern, and he even won votes in places that didn’t fare particularly well under his presidency. This is perhap"
+    publishedDateTime: 2020-11-15T11:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/15/biden-trump-economy/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/15/biden-trump-economy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/15/biden-trump-economy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7PMUD5BF4EI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Top CEOs met to plan response to Trump's election denial"
     excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
@@ -7450,6 +7467,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden is expected to make history by appointing a woman to head the Pentagon for the first time"
+    excerpt: "Michele Flournoy, a politically moderate Pentagon veteran, is regarded by US officials as a top choice for the defense secretary position."
+    publishedDateTime: 2020-11-15T12:06:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fb0f135402d49001924f026?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Exclusive: Republicans seeking to raise at least $60 million to fund Trump legal challenges - sources"
     excerpt: "Republicans are trying to raise at least $60 million to fund legal challenges brought by President Donald Trump over the U.S. presidential election’s results, three sources familiar with the matter said on Friday."
     publishedDateTime: 2020-11-07T07:31:00Z
@@ -8311,14 +8344,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115101524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701073_1605435544.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -8753,6 +8786,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "There were scuffles when public health officials arrived to close down a Trump rally in Milwaukee for breaching coronavirus rule"
+    excerpt: "Trump supporters gathered outside the city's Serb Hall, Milwaukee, on Saturday, demanding a recount of the state's presidential election votes."
+    publishedDateTime: 2020-11-15T12:35:00Z
+    webUrl: "https://www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fb112421c741f0019ac9dd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
     excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."
     publishedDateTime: 2020-11-06T16:01:00Z
@@ -10056,6 +10105,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4h5FSx8EIIM4AcWue1aO93IcMVavbu30RuRQZrtiA130d49aiq1NNrt1JyEodp4AAQJXBmDSRvhwVENwlsNO5ki0lnuHtwShIlAKZ7zE0MOuyqQsChRk8b2oaY8FFg8nBQoogDsA8tw2MuRS7rx4ED0L79kLJz/CI/JvLM2UDQOnoY4gxFgwt9HeojX2tdTrT3ty0i6BoOWmF7x7Y5t97iVwD4tQguSAE1C5iuSIGF64Z0tMlb9EQMd9UUuyL1fplkmf6mt+TOkePK2JBKaVdTBAPpUKdqKADVjuDTN8Lhi/WhWjyGbI80jdJ6Tm9/c4Ds/t4ZxDhuhYKLnzNeonhSbjVhDky+WbcmHKJp2KFiM=;jkfzUilEdSFR/34TjLY0kg=="
+secured: "IBuzmzmcq86DkIkLgegSZAEmyatr6U0JhBXKwaNRsouG4VK5u+TW+b38MWjtyUH66NiTASX8Uxn6TvD+gkTXWUFIdBjRC/GBOHfeQ3mU5o2vZI7reb2emNZnDk9PsLJxMWXuDuwvnveLB4kTNsOnhMhJB6r9mHMZnBDQWQRO0mGfWQq8LFIKBlxdrc371C+YCfzzdnt4BPNJzzS7z6y0KLbOfx9ElpFs8Qlc6XrD+WXWnO+EjtF2WwRDFeKhyAmcqfsBjbD4hEdTGN81RqF9qT3AKutAVkv29yj3OGaDEBBvEtQqQznt0a2sWAoJk+v0omK7usEBoH8rCwpXOcHfow0bCKMtMKH/GzK9JLSq5lpoUFd3j73KPpNCpdRU3pylH16/+JFq3shqNjQWqFyJrsL3KoK46BN5E/LomRNpGyQcFO2O9UsrrE7mbwr4MBBCeFUKE0Ea75OTBaLBqQ98ly/hQ24csOniQFPKehAzCZXzoncdw7Gb0H91FoLKpqmapcpQB6rCI+xjO/zC/YSy9g==;w/VtSyWX+1hYEIIQhejwmA=="
 ---
 

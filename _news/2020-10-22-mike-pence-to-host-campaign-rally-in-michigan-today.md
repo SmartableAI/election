@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Vice President Mike Pence coming to Central Wisconsin Airport for campaign rally in Mosinee"
-    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
-    publishedDateTime: 2020-10-28T22:36:00Z
-    webUrl: "https://www.thenorthwestern.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
-    ampWebUrl: "https://amp.thenorthwestern.com/amp/6054485002"
-    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/6054485002"
-    type: article
-    provider:
-      name: Northwestern Media
-      domain: thenorthwestern.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Eoee3enI0/sohqQ3paYtdr2VCDIP4bhKEGvqM2ZDp32PM+8Zgg1xiHIhS35roY65J5AU/1wB/dXie8DtuUsTc3UsKLWip61mcpgDJlDDQfgqDLrT/pyc5XRdyQflYsMRRDlrMPpnDTjmznQo4g1CVj8GX/QlEhavajaPBufyyZKvLvBJrOMGU8Vfd2obuBSkqW52uML2S7lbC+pgteV64U3UIhAU8zy4e9M+4nN+zxAAQ9u7/hcStawTZGFbEYR1wN0OzUa1Xox5rsr9Ks3lF8deRabk71ULfDt/GxYD3dqybXVrCTSVRQhqay0bvhmw7AZEb7b/pVSBCeOxJZvIVJEN8dOZrPwg8YlsACNQiaW9wHqqoqPRMzjDXBLk/Sr6hiRXQAijdPtkLO/iDp7TPNtsRfsEmpYEOGKw+spR9CCpBrtzvZgOrWs+D0ZvAKxwrmCt9eL0Cbg/IR4IDYSXicjawSE16yN8NahGQ91p6Xoum2ZgCqgLHeVYNTFlvvpBhWh8OGa4zZ9U9V8laH4eBQ==;v7K7eMXBlK9LZMYXG9b99A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence"
 type: article
 quality: 121
-heat: 541
+heat: 561
 published: true
 
 provider:
@@ -200,6 +200,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris Once Dated Montel Williams And Twitter Is Shocked"
+    excerpt: "Vice president-elect Kamala Harris' past relationship with Montel Williams resurfaced after a photo circulated via Twitter of them at the Race to Erase Multiple Sclerosis gala in Los Angeles in May 2001."
+    publishedDateTime: 2020-11-15T11:24:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/soundbitesenator-kamala-harris-brands-the-response-to-the.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
     excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."

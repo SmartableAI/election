@@ -43,6 +43,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "COMMENTARY: Is this Mike Pence's moment?"
+    excerpt: "The recent surge in Covid-19 cases is filling up hospitals across the United States. The problem is expected to get much worse, as hospitalizations usually increase several days after a"
+    publishedDateTime: 2020-11-13T21:15:00Z
+    webUrl: "https://www.berkshireeagle.com/opinion/commentary-is-this-mike-pences-moment/article_c18e47a8-25fd-11eb-96b7-9f00b58e72aa.html"
+    type: article
+    provider:
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/custom/image/a92877a0-192e-11eb-a74c-37201dab4d4e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "E13LZUtwPLnUk4yFFWJgNifGWKQP945Si3fwvGF5J+dcQYRCgdsBayaXzmF95lKDuN89VNZFjhMuMWNysyvmpyV4udolEoUCW+hpuu0YJUBU6rwKiaUJ4+giYAoG6WCPleqvpuPrFp/1A68kdubcIllw/z420tlXQEhhYx/kvuoClBTeN8RhJbpx1SH53+sRgjq5Lp8BoQrDYUU4q2kqgpZOPFegDW123SHXKHSGouzAC5Rh+IqBQ06j5g0GiRsOZwUXk19RCz/zP1zD1/1muBWDDQV7xzp4aiPKtLBkzZXc6vKiZ/anUTg7vOLUIoWjtmabuIKO4X4QDUathzUz07CQtdpktzlHko6hVaH83mTYmf9mxeI+pGFb+1N6oW8WM+IXtNxEZ6gTZltxyiKgB58dF4om0A/qG72LGrpG6HMYdHuj8XD1iqLeMP/YpylINWqTMAgwMBCQd4PADWAzP0O5W55yt+V6OYExsfXcvXb+RNV3ZYQMoHs9g6b28U93A6bSRRGH/o6oqieoV41vZQ==;2M9fX/V3AxzhS4l96YcU0A=="
 ---

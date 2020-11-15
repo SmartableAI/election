@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-tw
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris, set to be first South Asian American VP, sends out wishes for happy Diwali"
+    excerpt: "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness."
+    publishedDateTime: 2020-11-14T23:58:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What Kamala Harris’ historic win means to Indian Americans"
     excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
     publishedDateTime: 2020-11-11T12:14:00Z

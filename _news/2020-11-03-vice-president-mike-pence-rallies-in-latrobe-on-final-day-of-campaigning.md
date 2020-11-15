@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "So, while we’re waiting . . . will Mike Pence ever be president?"
+    excerpt: "Olivia Troye remembers a time when she wished Mike Pence were president. Troye, a Department of Homeland Security official, had been working with the vice president on the coronavirus task force."
+    publishedDateTime: 2020-10-31T15:16:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T76AKOA22MI6XPX3RBSCLG6S3A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Pelosi: 'Confident' Biden to be elected President"
+    excerpt: "Speaker of the House Nancy Pelosi says she's confident the Democratic Presidential nominee Joe Biden will be elected president. She says while she doesn't want to be \"overconfident,\" she wants to be ready to \"go down a different path."
+    publishedDateTime: 2020-10-30T06:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/29/pelosi-confident-biden-elected-president/6074216002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/74c82bc6-1200-4500-92ad-131a2db60975_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Mike Pence to visit Westmoreland County in final day before election"
     excerpt: "With just one day to go before the 2020 presidential election, Vice President Mike Pence will appear on behalf of President Donald Trump’s reelection campaign in Westmoreland County. Pence will speak at a “Make America Great Again” rally in Latrobe on Monday morning."
     publishedDateTime: 2020-11-02T12:59:00Z
@@ -43,51 +73,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
-    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
-    publishedDateTime: 2020-10-26T23:30:00Z
-    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
-    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+  - title: "Vice President Mike Pence to hold Flagstaff rally Friday"
+    excerpt: "Just days before Election Day, Vice President Mike Pence is coming to Flagstaff for a rally at the Pulliam Airport on Friday. Doors to the event will open at 9:30 a.m. with remarks planned to ..."
+    publishedDateTime: 2020-10-29T02:01:00Z
+    webUrl: "https://azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.html"
+    ampWebUrl: "https://azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.amp.html"
+    cdnAmpWebUrl: "https://azdailysun-com.cdn.ampproject.org/c/s/azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.amp.html"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
+      name: Arizona Daily Sun
+      domain: azdailysun.com
     quality: 75
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/4/9d/49d33f85-4324-53c8-a86a-9c3aa4eb1581/5f9a20bac8ec9.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
-    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
-    publishedDateTime: 2020-10-29T05:16:00Z
-    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+  - title: "Pence continues Hoosier streak of one-term Republican vice presidents"
+    excerpt: "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term."
+    publishedDateTime: 2020-11-07T20:14:00Z
+    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html"
+    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
+    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
+      name: Northwest Indiana Times
+      domain: nwitimes.com
     quality: 75
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
-    excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-    publishedDateTime: 2020-11-03T22:50:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+  - title: "Vice President Mike Pence coming to Central Wisconsin Airport for campaign rally in Mosinee"
+    excerpt: "The vice president's visit comes while Wisconsin sees record high cases of COVID-19 and while members of his staff have been infected."
+    publishedDateTime: 2020-10-28T22:36:00Z
+    webUrl: "https://www.thenorthwestern.com/story/news/2020/10/28/mike-pence-mosinee-central-wisconsin-airport-rally-trump-set/6054485002/"
+    ampWebUrl: "https://amp.thenorthwestern.com/amp/6054485002"
+    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/6054485002"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 68
+      name: Northwestern Media
+      domain: thenorthwestern.com
+    quality: 65
     images:
-      - url: "https://s.hdnux.com/photos/01/15/05/14/20206348/3/rawImage.jpg"
-        width: 2048
-        height: 1337
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/PWAU/639b99c2-6b8d-4fe7-8529-232863157d65-SPJ_Mike_Pence_Mosinee_rally_102820_354_ttm.jpg?auto=webp&crop=2260,1272,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence Campaigns in Mosinee"
     excerpt: "Vice President Mike Pence made a campaign stop at the Central Airport in Mosinee on Wednesday. The stop is just one of several in Badger State for the Trump administration this week alone. About 150 people attended the rally."
@@ -114,17 +146,6 @@ related:
       name: WJBK
       domain: fox2detroit.com
     quality: 55
-  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
-    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
-    publishedDateTime: 2020-10-29T12:50:00Z
-    webUrl: "https://www.fox10phoenix.com/video/865477"
-    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 55
   - title: "WATCH: Vice President Mike Pence campaigns in the Upstate"
     excerpt: "Vice President Mike Pence was campaigning in the Upstate on Tuesday afternoon. Pence held a rally at Donaldson Jet Center in Greenville. Officials said a little more than 2,000 people attended the event held in a hangar."
     publishedDateTime: 2020-10-28T19:54:00Z
@@ -150,6 +171,34 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 55
+  - title: "Vice President Mike Pence appeals to Iron Rangers with focus on jobs, economy"
+    excerpt: "The rally exceeded state limits on the number of attendees after a weekend dust-up about Trump's Duluth rally. HIBBING, Minn. – A brisk wind blew across the runway and light snow greeted Vice President Mike Pence as he made his closing arguments to Iron ..."
+    publishedDateTime: 2020-10-26T21:20:00Z
+    webUrl: "https://www.startribune.com/pence-appeals-to-iron-rangers-with-focus-on-jobs-economy/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 52
+    images:
+      - url: "https://stmedia.stimg.co/pence+kormann+012.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Mike Pence heads to Iron Range despite outbreak among his staff"
+    excerpt: "A brisk wind blew across the runway hours ahead of Vice President Mike Pence’s campaign visit to the Range Regional Airport here Monday. About 250 chairs were spaced out as attendees slowly filed in after many waited in their cars,"
+    publishedDateTime: 2020-10-26T20:44:00Z
+    webUrl: "https://www.startribune.com/vice-president-mike-pence-heads-to-iron-range-despite-outbreak-among-his-staff/572872951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 51
+    images:
+      - url: "https://stmedia.stimg.co/1603746270_08+1011869285+23PENCE102720.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Pence Campaigns in Latrobe, PA"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Latrobe, PA. The Keystone State is getting visits from him and President Trump as well as their Democratic challengers, Joe Biden & Sen. Kamala Harris (CA),"
     publishedDateTime: 2020-11-02T08:03:00Z

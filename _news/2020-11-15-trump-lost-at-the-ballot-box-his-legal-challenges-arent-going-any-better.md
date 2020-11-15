@@ -783,6 +783,22 @@ related:
         width: 1020
         height: 510
         isCached: true
+  - title: "Trump-Biden transition live updates: At least 20 arrested, 1 stabbed at DC protests"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-15T09:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 144
+    images:
+      - url: "https://s.abcnews.com/images/Politics/police-arrest-protest_hpMain_20201114-232944_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
     publishedDateTime: 2020-11-06T13:14:00Z
@@ -2031,6 +2047,22 @@ related:
         width: 836
         height: 545
         isCached: true
+  - title: "Biden won places that are thriving. Trump won ones that are hurting."
+    excerpt: "Trump fared well among voters who said the economy was their top concern, and he even won votes in places that didn’t fare particularly well under his presidency. This is perhap"
+    publishedDateTime: 2020-11-15T11:08:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/15/biden-trump-economy/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/15/biden-trump-economy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/15/biden-trump-economy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7PMUD5BF4EI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Top CEOs met to plan response to Trump's election denial"
     excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
     publishedDateTime: 2020-11-15T00:54:00Z
@@ -3117,22 +3149,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541099450&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0QC"
         width: 748
         height: 545
-        isCached: true
-  - title: "Trump-Biden transition live updates: At least 20 arrested, 1 stabbed at DC protests"
-    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
-    publishedDateTime: 2020-11-15T09:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=74125618"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=74125618"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=74125618"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 134
-    images:
-      - url: "https://s.abcnews.com/images/Politics/police-arrest-protest_hpMain_20201114-232944_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
@@ -7450,6 +7466,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden is expected to make history by appointing a woman to head the Pentagon for the first time"
+    excerpt: "Michele Flournoy, a politically moderate Pentagon veteran, is regarded by US officials as a top choice for the defense secretary position."
+    publishedDateTime: 2020-11-15T12:06:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tipped-to-appoint-first-woman-as-pentagon-chief-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fb0f135402d49001924f026?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Exclusive: Republicans seeking to raise at least $60 million to fund Trump legal challenges - sources"
     excerpt: "Republicans are trying to raise at least $60 million to fund legal challenges brought by President Donald Trump over the U.S. presidential election’s results, three sources familiar with the matter said on Friday."
     publishedDateTime: 2020-11-07T07:31:00Z
@@ -8311,14 +8343,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115101524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701073_1605435544.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -8753,6 +8785,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "There were scuffles when public health officials arrived to close down a Trump rally in Milwaukee for breaching coronavirus rule"
+    excerpt: "Trump supporters gathered outside the city's Serb Hall, Milwaukee, on Saturday, demanding a recount of the state's presidential election votes."
+    publishedDateTime: 2020-11-15T12:35:00Z
+    webUrl: "https://www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wisconsin-trump-supporters-scuffle-with-public-health-officials-at-rally-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fb112421c741f0019ac9dd8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
     excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."
     publishedDateTime: 2020-11-06T16:01:00Z
@@ -10056,6 +10104,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "sws53b/DDgr+JRsTUtdeMIuXm5nM8DCEDXUaK+8LyqqRoD2RR5klKioCxhh5sOaMAsFCsTxu+HbbCVIiZ/oQK7IAdRK4d8H7z5bXx+ym/rIiGD8FGidewe8TVoMRSQmnCaQrU90bCT3qwcNfk0WQG1luP2HG/u8wusMJ3IEt9UPGwAXGnyx2pvB2b19kCCfIrCPa5RW5Z71qkzRTLT6dOLqXTX+U1hXCph6ZBer3YbkpyVJcoUVx6XYIASKGvqIqjityPHWC9khBY2eIkK1k2W6417pfUU3DlXsMeJQuOL4VAd0GMWFeU+jgnGv7I9ksvMcxvc3e675XsrXrhlwHn/2NB7b2y04ZwyRx1kXUvqo=;Xpq2QfGgRf/CdO6RzyGT6g=="
+secured: "q5AmMLHWmdU5+/m8piGtstFk6THmgkWiWz5K0jC6amq8lWPl6nJYZvfSDM/A8EiBhHNZfr7XIk79qj2BTCjrNb3FtiiwigTtXB3Qjjja0HbT1t+DZ0qDwJt7uQAnBShpc5zWkzdCEVvqBZaBUDN/qapBjD3Os98diufREiq5GC06v1r/ZqiUrIhtG39ERTfqL+cmu3qFK4n38LAgPlRBP3muOne3pTguD5Ih1WQE775kqswz4hudrqfL2IRcvO1B4T3j8U6ksxNpQ7z76x81Da61ewQ57QFb7reIbyQNVJup378QwYaTVIaLJD89Y+8+SDl13x55Z/0OroTgT2treEHupFL6vT7toQdpwlf/FSVMJpGC5U6HbvBiyt8wFQHi9+GubjD9iO2ZiLRrXKkfkg+OQNC/Yy2wApQqeL49oUU8rikAepVpzDbe4EswhDJfunXh2yIzuizOkwmu5oxF1FMQr4bVbKAfrahQS/HpE1HwTM5zvOVBQl6C1YiGIP7bEEbla7WLWJyE8ENCXT/XPw==;sCoLpx6mBwP1AB4U9+TdAg=="
 ---
 

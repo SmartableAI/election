@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Once Dated Montel Williams And Twitter Is Shocked"
+    excerpt: "Vice president-elect Kamala Harris' past relationship with Montel Williams resurfaced after a photo circulated via Twitter of them at the Race to Erase Multiple Sclerosis gala in Los Angeles in May 2001."
+    publishedDateTime: 2020-11-15T11:24:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-once-dated-montel-williams-twitter-shocked-3082562?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/soundbitesenator-kamala-harris-brands-the-response-to-the.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
     excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
     publishedDateTime: 2020-11-11T16:28:00Z
