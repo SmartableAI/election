@@ -521,6 +521,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Debunking the absurd conspiracy theory that Kamala Harris will take over as president"
+    excerpt: "Politics Vice President-elect Kamala Harris has been the subject of a number of conspiracy theories by far-right agitators and meme-makers. But one of the most widespread — and likely to gain momentum as Joe Biden’s inauguration nears — is the false claim that Harris will soon take over as president."
+    publishedDateTime: 2020-11-13T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/36/20232080/3/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Enthusiasm for Kamala Harris is strong among Black women voters"
     excerpt: "LesleyAnne Crosby of Minneapolis gathered with a small group of Black women in St. Paul to witness the possibility of Kamala Harris becoming the first Black woman to become vice president. Sondra Samuels raced out the morning of Election Day to buy Chuck Taylor shoes."
     publishedDateTime: 2020-11-04T05:47:00Z

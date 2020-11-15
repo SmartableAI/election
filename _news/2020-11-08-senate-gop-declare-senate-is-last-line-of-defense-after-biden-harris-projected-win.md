@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-senate-runoff-elections-per
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/"
 type: article
 quality: 143
-heat: 963
+heat: 983
 published: true
 
 provider:
@@ -509,6 +509,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/07/Election_2020_Harris_58071.jpg-ecfc6_c0-171-6000-3671_s1200x700.jpg?fa0b039bd51c287ce8f31137928db7f290d4a4bb"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Debunking the absurd conspiracy theory that Kamala Harris will take over as president"
+    excerpt: "Politics Vice President-elect Kamala Harris has been the subject of a number of conspiracy theories by far-right agitators and meme-makers. But one of the most widespread — and likely to gain momentum as Joe Biden’s inauguration nears — is the false claim that Harris will soon take over as president."
+    publishedDateTime: 2020-11-13T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Debunking-the-absurd-conspiracy-theory-that-15723340.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/13/36/20232080/3/rawImage.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Kamala Harris breaks glass ceiling as first female vice president, first woman VP of color"
     excerpt: "Harris will make history as not only the first woman vice president but also the first African American and Asian American person to hold the office."

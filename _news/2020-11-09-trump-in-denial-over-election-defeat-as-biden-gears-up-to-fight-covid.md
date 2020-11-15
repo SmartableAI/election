@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5165
+heat: 5185
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103034642-01-donald-trump-pennsylvania-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As Trump ignores deepening coronavirus crisis, Biden calls for urgent response"
+    excerpt: "Joe Biden has spent these early days as President-elect pleading with Americans to pay attention to the relentless surge of Covid-19 -- with deaths averaging more than 1,000 a day in the past week -- as President Donald Trump continues to ignore the deepening crisis and touts the promises of yet-to-be-approved"
+    publishedDateTime: 2020-11-15T05:24:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8Fhst-Vt9s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/joe-biden-donald-trump-coronavirus-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/joe-biden-donald-trump-coronavirus-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

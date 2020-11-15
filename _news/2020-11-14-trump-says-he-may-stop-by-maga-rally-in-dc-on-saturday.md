@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump blasts 'ANTIFA SCUM,' media after violence mars MAGA marches in DC"
+    excerpt: "President Trump lashed out against \"ANTIFA SCUM\" and the media Saturday night as violence continued in Washington, D.C., where pro-Trump supporters gathered for the “Million MAGA March.”"
+    publishedDateTime: 2020-11-15T00:09:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5lgNX0kQSc/violence-maga-march-dc-antifa-blm-counterprotesters"
+    ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/counterprotester-burns-trump-flag.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
     excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
     publishedDateTime: 2020-11-14T16:22:48Z

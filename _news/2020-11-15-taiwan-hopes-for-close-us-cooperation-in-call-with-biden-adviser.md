@@ -5330,20 +5330,20 @@ related:
         height: 779
         isCached: true
   - title: "Thousands rally behind Trump, insisting he won race he lost"
-    excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. A broad coalition of top government and industry officials has declared that the Nov."
-    publishedDateTime: 2020-11-15T00:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. “I just want to keep up his spirits and let him know we support him,"
+    publishedDateTime: 2020-11-15T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump thrills protesting supporters with motorcade drive-by"
     excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
@@ -8233,14 +8233,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115041524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115061524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699654_1605413944.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700014_1605421144.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -9969,6 +9969,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1Re2C70z1UtqBS+V2BBtwDRXBy8yxYzy++ZPCtsGBbNBrBe4A+OrBN7aLmZFE93tukjCbULWJq6LnqodUifjnXcLQFamXpX6GnuX4GQ/SFKRaNwmnnAWw+g0FFammjNJdkXeBk1Hen4z43G0+/ifGfAdXruHhtGG/MgzUnWIiXg5CgwdVb8rYjvEw5CP3MpeXZ1D6aTaEsrrZ/eCP7CF+7hsfWnN1v0+l/o2NrymtUr0izWpzbZGK7aTvZgkPBgwG3sqorWtUGu0WecU5+A+cZ53Dw8k3ZRmynSecFK9PPTgkmL4ncFZ8tYYPxrWr+GT8N2FKCavRvVDm5zDH5KAnPXlIOdrn4n1KvWUzdbfQg8=;Wcm19DCb6X1b4zNTcQRwmA=="
+secured: "Rv+lXSUl4FoUa/FgcnrzuAJ3wwwR4PW3rRN/dCKrpsRSEdmexwBAj89WRqiPRfpG5LkhgM1IBZSLLm4qQxNSBUXpXALzdRNsTW4QlC8EhFPmDEyJo+VKUwoaFvpxj7eZ6PYjdqgIRChkTyXfYqTXZG6IGValciy8hr1jrD8j608HAAgcpxkCs5hlq+BJZ4E9q90TE3HlNtRaYrzmiezcG9cFPfrppGGexaMyAGa7/uK+GBgHY8A+Otrh/bpi687V8b6rVLHDvkRMY5tEmszY3KJiEuOQos+XylX2IWidc+NXP9G1IQEUYqiW15himShqcTY9iVVoLesnYvVwvC6W9wUbVsH2cHBmbAizOLhKZUhiAfQM16hFuq1Rurc3b+iF34zS7BX5cRnjrkcj0bEX7PMRRv5j5hkp+rL+5C+bINtRhXXK70pPi66KLx53nlpTvtL+0xOlyYQ5OV3XF2csPlLi0CxmukWO2wH+TYsuiwKFZd9rzGV77DIPxk17QfTg5xW0CnypPglWQq+Efzx8lQ==;PibXeHe38sFMpmgCmQM+mw=="
 ---
 

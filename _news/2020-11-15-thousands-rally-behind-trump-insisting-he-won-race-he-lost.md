@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Thousands rally behind Trump, insisting he won race he lost"
-excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. A broad coalition of top government and industry officials has declared that the Nov."
-publishedDateTime: 2020-11-15T00:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html"
-webUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. “I just want to keep up his spirits and let him know we support him,"
+publishedDateTime: 2020-11-15T04:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -8233,14 +8233,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115041524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115061524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699654_1605413944.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700014_1605421144.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -9969,6 +9969,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0RysiV1MOwlZ5bWLLhLANzkCUpMQfDiAkLTq0db+Xa5jt33TLvkQ0dE4lTKQnIlyO5o7r4FC3ZBo6szDV62a+JzX0SP+a9fCqUPFbM+y4z+bBMXKqdbIx0QZTla4u0WVTBQgUUdbtBZA1HvcAV3wh7Z0dxdoHSM/l8u7Sn3xNs/IJFm+ysab1aHW9cEyBAdH+JNQ5nm/sOs0PyFRuZBJnE4W5NjPvh9rvaP7LogtYt32Js9TpCzdhP4CMOM5eyY+HU1QyXNBWc/o0FE4IafJW2NscRNxO20Xln/uVlby0iJXuyiUyYWRNHIi8iRpr4Xg7MLCHcOWT881A158NvOpgw5b69iQ5MgiwIhAUaKSLSY=;Dp5rOLLjbnpOmut0t/soBg=="
+secured: "M5VlLzth3P8ztCabSfQvKuXyNcyOn4k9Flt8+8ex2FwRoJhGZlKgD9OT6OIc5H8lDecNLcNQC39N2euPFDbV9BUoTOn+0MjEjMk708wkpqfnRJOVhW3Tj+4XJ43p+GiRlnX+p9TH89N+ODwpSxKN42X6a/oaxHo8c3KTAH8jBc0DD80T+2vDBocFm6rnU3zSibtJzcoAMfcBeUu1JPx9HNE/DpiQ8qHaB7JTtEH9PvQRliGv16bKEnp5JQFQL2DQvJIhr8jnBrt4b93Rianiy07dfun4v5eCTh1noQPKaNYXNzbYFJBa6oEZsIExZFvvyI24VM+9SfdFaVJDtWoQ5OWIF1mNxdPrZxheF9oDlog=;BSOS+dyIg4hy9qVAL+N4Tg=="
 ---
 

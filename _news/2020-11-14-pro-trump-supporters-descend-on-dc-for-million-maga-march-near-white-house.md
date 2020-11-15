@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump blasts 'ANTIFA SCUM,' media after violence mars MAGA marches in DC"
+    excerpt: "President Trump lashed out against \"ANTIFA SCUM\" and the media Saturday night as violence continued in Washington, D.C., where pro-Trump supporters gathered for the “Million MAGA March.”"
+    publishedDateTime: 2020-11-15T00:09:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5lgNX0kQSc/violence-maga-march-dc-antifa-blm-counterprotesters"
+    ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/counterprotester-burns-trump-flag.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "dM4qcVj2tsIXI3szVdvWvqt8T4qxF830meOeO5c5U69fD9LkwHxTK4tVJag3B9xj/0x3mrf+Ib+tSFGz+QQ8x6lD/niheVtTiXMPVVa9xXR5CF++nzX1ELM1phl4g84okSiRGplWc83bOS0RaFbj+riganDeTf4M4AuxIC2jMbwpFCnm0/xtOyPy6xMGFDM1y+FRm8T63HJmHQoTGyMdkDgr+ukO8+zK3a5rH4iI1lg3gaJaPI0NvUycxDITMciEmRZoyQAfGvHtC7c+cKxAqRp+ehROyvjkbIEuhwARjtDtzrgZi3/yJUem39adMpugctcv2AIR44PQpshwA8sMI+nNyCGPdUTwog0e2yBkqIM=;QQ8FqWJCiUAw3hu1mcpwcA=="
 ---

@@ -545,6 +545,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump ignores deepening coronavirus crisis, Biden calls for urgent response"
+    excerpt: "Joe Biden has spent these early days as President-elect pleading with Americans to pay attention to the relentless surge of Covid-19 -- with deaths averaging more than 1,000 a day in the past week -- as President Donald Trump continues to ignore the deepening crisis and touts the promises of yet-to-be-approved"
+    publishedDateTime: 2020-11-15T05:24:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8Fhst-Vt9s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/joe-biden-donald-trump-coronavirus-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/joe-biden-donald-trump-coronavirus-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump makes series of egregious false claims in Election Night address"
     excerpt: "President Donald Trump made a series of egregious false claims in his Election Night address at the White House -- falsely claiming he had already won re-election, that he had already won states that were actually still up in the air at the time, and that his opponents were perpetuating a fraud.\n   "
     publishedDateTime: 2020-11-04T09:33:09Z
