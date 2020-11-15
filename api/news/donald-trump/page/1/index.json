@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-16-trump-allies-are-reportedly-considering-buying-out-newsmax-to-build-a-strong-competitor-to-fox-news.md",
+      "title": "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News",
+      "excerpt": "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp",
+      "publishedDateTime": "2020-11-15T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
+      "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
+      "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "originalUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-260269/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "publishedDateTime": "2020-11-15T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
       "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
       "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
@@ -743,7 +852,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -994,7 +1103,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 420,
+      "heat": 440,
       "tags": null,
       "images": [
         {
@@ -1098,7 +1207,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1451,115 +1560,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
-      "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
-      "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
-      "publishedDateTime": "2020-11-10T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-trump-launches-save-america-political-action-committee.md",
-      "title": "Trump Launches 'Save America' Political Action Committee",
-      "excerpt": "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
-      "originalUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-257919?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

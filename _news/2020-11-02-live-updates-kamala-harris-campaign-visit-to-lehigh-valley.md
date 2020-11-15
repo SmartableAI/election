@@ -375,6 +375,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "During Texas visit, Kamala Harris urges Democrats to turn out as election approaches and races remain tight"
+    excerpt: "by Alex Samuels Oct. 30, 2020 Updated: 8 PM Democratic vice presidential candidate Kamala Harris spoke during a campaign event in Edinburg on Friday. Credit: REUTERS/ Verónica G. Cárdenas FORT ..."
+    publishedDateTime: 2020-10-30T20:59:00Z
+    webUrl: "https://www.texastribune.org/2020/10/30/kamala-harris-texas/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/30/kamala-harris-texas/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/30/kamala-harris-texas/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 72
+    images:
+      - url: "https://thumbnails.texastribune.org/hTtKSZIxuEHL0Bofd6ZA2MC0FtM=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/998ea95feaba49efecdfff3d94105fc9/Kamala%20Harris%20at%20Edingburg%20TT%20REUTERS.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Pride at Kamala Harris’ childhood elementary school as Bay Area native makes history"
     excerpt: "Berkeley’s Kamala Harris was “that little girl” bused in the late 1960s from her flatlands neighborhood on Bancroft Way to help integrate this school in Berkeley’s upscale foothills."
     publishedDateTime: 2020-11-07T15:49:00Z

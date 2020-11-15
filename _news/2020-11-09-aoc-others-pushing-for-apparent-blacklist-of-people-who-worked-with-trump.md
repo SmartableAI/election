@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp"
 type: article
 quality: 173
-heat: 233
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "With backing from Trump, RNC chair McDaniel expected to run for another term"
-    excerpt: "With the backing of President Trump, Ronna McDaniel’s expected to run for a second 4-year term as chair of the Republican National Committee (RNC)."
-    publishedDateTime: 2020-11-12T02:22:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term"
-    ampWebUrl: "https://www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp"
+  - title: "Trump trashes 'real dope' John Bolton for pushing election loss, calls him 'one of the dumbest people'"
+    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him a \"real dope\" and \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
+    publishedDateTime: 2020-11-15T20:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4meASSgZu4/trump-john-bolton-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-john-bolton-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-john-bolton-election-loss.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Karl Rove: 'Reprehensible' for AOC, others on left to call for 'blacklist' of Trump staffers"
-    excerpt: "Fox News contributor Karl Rove on Wednesday criticized the people who called for consequences against Trump administration staffers."
-    publishedDateTime: 2020-11-11T19:32:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/enZCK-5KoaY/karl-rove-aoc-left-blacklist-trump-staffers"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office"
-    excerpt: "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office."
-    publishedDateTime: 2020-11-03T22:17:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
 type: article
 quality: 126
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
         width: 641
         height: 545
+        isCached: true
+  - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
+    excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
+    publishedDateTime: 2020-11-15T20:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "eQCKBKoGkV9OL4g5XbMfl9ybCObINcq4v8wjm4NVrU5L7tlpglfoJDUgo+eJpy7hyLb+tg9rTxN89GM1Mk2QZiF+3QIIqnMNsm8ccZhRirSse9UuhC/gOaMqBHfF8XifdNBhiPpyuMbAexAa9SsjkNynRhlf0o/VypG8c4kw+kLwEd7nAFHW1cQaFzPvrFgWtjMElzehiZwhoF84szYw4IyUiN7cvFUguAmopEjp8q2WZ8H/jdRFuAwZnLFjQjsQP9ysH+cSxF9JKA0ez/+SnduZ2zTbWtpUK7hIqKyzvQHCpJ+ccRxylhimn2R8HlWGbkFOgMTcBw94fIYWLW4IIgY5tNnQYs5b5ERRLNfDLHT+NVNJcukL8jaV+4vDfrA/gZggpLvdGaq2zsifYqXhOJ3k81aDjRm268fuqUG+zkVKX0G8QKue0ar4eigczFFGHAU3Gd0knP3567l3wKkl+JSVLbUM0oRHkpAz1VStkb1bkvNo09Qa8wwZqqQv29Qj0YHOuAyUGLS2BtLxGGywlQ==;rbHpg4WKHdiVMlTH7O+tqw=="

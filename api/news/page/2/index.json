@@ -2,6 +2,278 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-14-gov-cuomo-responds-to-trumps-threat-to-not-send-vaccine-to-new-york-he-tries-to-bully-people.md",
+      "title": "Gov. Cuomo responds to Trump's threat to not send vaccine to New York: 'He tries to bully people'",
+      "excerpt": "New York Gov. Andrew Cuomo on Friday accused President Donald Trump of trying to use a potential coronavirus vaccine to intimidate him following Trump's assertion that Cuomo would hold up vaccine distribution in the state for political reasons.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zFM0atMw7RU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zFM0atMw7RU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113182033-donald-trump-andrew-cuomo-split-for-video-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
+      "publishedDateTime": "2020-11-13T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-tight-spot-trump-loss-complicates-pences-political-future.md",
+      "title": "Tight spot: Trump loss complicates Pence's political future",
+      "excerpt": "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 400,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
+      "publishedDateTime": "2020-11-13T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-biden-needs-to-hit-the-ground-running.md",
+      "title": "'Biden needs to hit the ground running'",
+      "excerpt": "Watch \"NY Senator Kirsten Gillibrand explains why President-elect Joe Biden needs to hit the ground running and have a comprehensive plan to combat the coron\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201114051309-ny-senator-kirsten-gillibrand-explains-why-president-elect-joe-biden-needs-to-hit-the-ground-running-and-have-a-comprehensive-plan-to-c/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07694294_1605331505.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-trump-says-no-new-lockdowns-under-this-administration-only-time-will-tell-whos-in-charge-come-january.md",
+      "title": "Trump says no new lockdowns 'under this administration,' 'only time will tell' who's in charge come January",
+      "excerpt": "As President Trump provided promising updates regarding a coronavirus vaccine, he promised no new lockdowns under “this administration,” but added only “time will tell” who would be in charge come January.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGa3HmsZy4s/trump-no-new-lockdowns-under-this-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGa3HmsZy4s/trump-no-new-lockdowns-under-this-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0291c418-5ba7-46b0-a980-1f29b19bef2f/b078e7a9-9e76-458f-a4ac-1da1e4d5b559/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-no-new-lockdowns-under-this-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-no-new-lockdowns-under-this-administration.amp",
+      "publishedDateTime": "2020-11-13T15:24:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-watch-trump-refuse-to-acknowledge-reality-at-press-conference.md",
+      "title": "Watch Trump refuse to acknowledge reality at press conference",
+      "excerpt": "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "publishedDateTime": "2020-11-13T14:42:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-trump-to-break-silence-with-vaccine-update-after-criticism-hes-ignored-pandemic.md",
       "title": "Trump to break silence with vaccine update after criticism he's ignored pandemic",
       "excerpt": "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic.",
@@ -334,7 +606,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -754,7 +1026,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1303,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-fed-nominees/senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news-idUSL1N2HY2Q5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1046,274 +1318,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
-      "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
-      "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "publishedDateTime": "2020-11-12T15:28:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-biden-received-congratulations-from-pope-francis-transition-statement.md",
-      "title": "Biden received 'congratulations' from Pope Francis: transition statement",
-      "excerpt": "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO",
-          "width": 733,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ",
-      "publishedDateTime": "2020-11-12T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-biden-education-secretary-frontrunners-have-been-critical-of-charter-schools-back-teacher-unions.md",
-      "title": "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions",
-      "excerpt": "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp",
-      "publishedDateTime": "2020-11-12T15:04:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
-      "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
-      "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad9cdf1e8d500019813396?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-mccain-trump-accept-the-results-cindy-2020-11?amp",
-      "publishedDateTime": "2020-11-12T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-nikki-haley-a-high-profile-republican-and-possible-2024-presidential-hopeful-has-remained-silent-about-trumps-unfounded-election-fraud-claims.md",
-      "title": "Nikki Haley, a high-profile Republican and possible 2024 presidential hopeful, has remained silent about Trump's unfounded election fraud claims",
-      "excerpt": "UN ambassador hasn't commented on Trump's refusal to concede the election, sticking instead to tweets about GOP victories down ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11",
-      "originalUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad69b4df90d000183781b4?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp",
-      "publishedDateTime": "2020-11-12T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

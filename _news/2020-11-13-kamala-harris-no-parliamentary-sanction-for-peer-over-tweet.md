@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Editorial: Let California voters have a real say in Kamala Harris’ replacement"
+    excerpt: "Three dissenting editorial board members argue that Newsom should appoint a caretaker senator rather than picking someone who will run as the incumbent in 2022."
+    publishedDateTime: 2020-11-15T19:00:00Z
+    webUrl: "https://www.latimes.com/opinion/story/2020-11-15/kamala-harris-replacement-special-election"
+    ampWebUrl: "https://www.latimes.com/opinion/story/2020-11-15/kamala-harris-replacement-special-election?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/opinion/story/2020-11-15/kamala-harris-replacement-special-election?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/883e309/2147483647/strip/true/crop/2861x1869+0+19/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F2c%2Fdcf5e43742cca5a9ed04a360e563%2Felection-2020-trump-83635.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "One of these people could be VP-elect Kamala Harris’ successor and California’s next senator"
     excerpt: "The Times asked political strategists for a list of the most likely contenders from whom Newsom might choose to replace Harris for the final two years of her Senate term."
     publishedDateTime: 2020-11-07T16:51:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/17/72/20250303/7/375x250.jpg"
         width: 367
         height: 250
+        isCached: true
+  - title: "A Black woman should fill Kamala Harris’ Senate seat, California caucus says"
+    excerpt: "Legislators say the governor should appoint U.S. Reps. Karen Bass or Barbara Lee to succeed the vice president-elect."
+    publishedDateTime: 2020-11-15T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/capitol-alert/article247171506.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/capitol-alert/article247171506.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/capitol-alert/article247171506.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "California school trustee quits over wife’s ‘reprehensible’ tweet about Kamala Harris"
     excerpt: "I almost vomited, then I cried a little bit and then I was just shaking and I was so angry,” said one parent about the Twitter post."

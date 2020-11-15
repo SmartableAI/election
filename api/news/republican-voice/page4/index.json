@@ -2,6 +2,286 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-02-conway-makes-case-for-trump-reelection-the-antidote-to-uncertainty-is-not-more-uncertainty.md",
+      "title": "Conway makes case for Trump reelection: 'The antidote to uncertainty is not more uncertainty'",
+      "excerpt": "Reelecting President Trump is in the best interest of the American people, former counselor to the president Kellyanne Conway told Fox News' \"Democracy 2020 Election Preview\" Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oG6FXJDDS1M/kellyanne-conway-trump-reelection-antidote-uncertainty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b045d9c2-5e4d-489e-9daa-1841a74800a9/976fc1ea-2106-43f2-aaa9-c2fcafcfb438/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kellyanne-conway-trump-reelection-antidote-uncertainty.amp",
+      "publishedDateTime": "2020-11-01T19:37:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-trump-says-votes-should-be-counted-by-election-day-at-georgia-rally.md",
+      "title": "Trump says votes should be counted by Election Day at Georgia rally",
+      "excerpt": "Trump said extensions could allow “bad things happen in places like Pennsylvania and Nevada.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKGR4VJWOW8/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 710,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d334b5c-f30e-4ae8-86a8-55791119d24c/ce3f607c-3472-47bf-9211-aa6a55c75a42/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp",
+      "publishedDateTime": "2020-11-01T19:32:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-biden-campaign-pushing-voters-to-be-a-part-of-the-political-process-ex-obama-aide-says.md",
+      "title": "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says",
+      "excerpt": "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp",
+      "publishedDateTime": "2020-11-01T16:06:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-angel-families-react-to-president-trumps-national-day-of-remembrance-for-americans-killed-by-illegal-aliens.md",
+      "title": "‘Angel Families’ react to President Trump’s National Day of Remembrance for Americans killed by illegal aliens",
+      "excerpt": "Family members whose loved ones have been killed by illegal immigrants praised President Trump’s declaration to make Nov. 1 a National Day of Remembrance while bemoaning the fact that too many Americans still remain unaware of the problem.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_GddTdSpXXM/angel-families-react-president-trumps-national-day-remembrance-americans-killed-illegal-aliens",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_GddTdSpXXM/angel-families-react-president-trumps-national-day-remembrance-americans-killed-illegal-aliens",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20290660713972.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/angel-families-react-president-trumps-national-day-remembrance-americans-killed-illegal-aliens.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-families-react-president-trumps-national-day-remembrance-americans-killed-illegal-aliens.amp",
+      "publishedDateTime": "2020-11-01T15:00:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-01-biden-banks-on-hollywood-support-in-final-days-before-2020-election.md",
+      "title": "Biden banks on Hollywood support in final days before 2020 election",
+      "excerpt": "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 390,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "publishedDateTime": "2020-11-01T14:07:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.md",
       "title": "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls",
       "excerpt": "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. ",
@@ -1377,287 +1657,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp",
       "publishedDateTime": "2020-10-28T18:49:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-buttigieg-defends-biden-claims-dems-would-have-chosen-somebody-else-if-they-wanted-fracking-ban.md",
-      "title": "Buttigieg defends Biden, claims Dems 'would have chosen somebody else' if they wanted fracking ban",
-      "excerpt": "\"The Story\" host Martha MacCallum pressed Joe Biden campaign surrogate Pete Buttigieg Wednesday over the 2020 Democratic nominee's position on fracking and the oil industry following repeated attempts to clarify earlier comments on the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0cb2aca-19a3-4646-bc5d-0063433e4f4a/f7d5a14f-7792-4ac9-82b6-499d188861d6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "publishedDateTime": "2020-10-28T17:57:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
-      "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
-      "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
-      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201028/102820opvidwonderland/102820opvidwonderland_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-aoc-appears-in-vanity-fair-in-outfits-worth-14000-to-curse-trump-out.md",
-      "title": "AOC appears in Vanity Fair in outfits worth $14,000 to curse Trump out",
-      "excerpt": "Freshman Democratic congresswoman Alexandria Ocasio Cortez wore thousands of dollars worth of outfits and jewelry for her spread in Vanity Fair magazine's December issue while attacking President Trump for not paying his taxes. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rIBCa9NSqM/aoc-vanity-fair-outfits-14000-curse-trump-out",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rIBCa9NSqM/aoc-vanity-fair-outfits-14000-curse-trump-out",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34f50180-ee67-479f-ae87-813eac9f7a29/38af5f53-6445-4c6c-add9-7556a2a2adc2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp",
-      "publishedDateTime": "2020-10-28T17:23:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-says-miles-taylor-should-be-prosecuted-after-reveal-as-anonymous-administration-critic.md",
-      "title": "Trump says Miles Taylor 'should be prosecuted' after reveal as 'Anonymous' administration critic",
-      "excerpt": "President Trump called Wednesday night for former Department of Homeland Security chief of staff Miles Taylor to face prosecution after he revealed himself as “Anonymous,” the former senior administration official who authored a New York Times op-ed criticizing the presidency in 2018.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wfeou8M_b6E/trump-miles-taylor-prosecuted-anonymous-reveal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wfeou8M_b6E/trump-miles-taylor-prosecuted-anonymous-reveal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb39650-9836-4a92-bd37-131f281931a1/b6d1095f-0a69-4927-bcd9-d064fdae3b93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-miles-taylor-prosecuted-anonymous-reveal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miles-taylor-prosecuted-anonymous-reveal.amp",
-      "publishedDateTime": "2020-10-28T16:45:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-administration-moves-to-change-h-1b-guest-worker-program-to-prioritize-higher-wage-applicants.md",
-      "title": "Trump administration moves to change H-1B guest worker program to prioritize higher-wage applicants",
-      "excerpt": "The Department of Homeland Security moved to make a significant change to the controversial guest worker program that would prioritize higher-paid applicants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yiNVTjDJetI/trump-dhs-h1b-guest-worker-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yiNVTjDJetI/trump-dhs-h1b-guest-worker-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89e0be-ca89-4feb-92e9-50c0498d22ce/78ae422c-3438-47c6-9791-096f72831c10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp",
-      "publishedDateTime": "2020-10-28T15:37:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

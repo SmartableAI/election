@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-repu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp"
 type: article
 quality: 140
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43AIRZRC3YI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
+    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
+    publishedDateTime: 2020-11-15T17:29:00Z
+    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."

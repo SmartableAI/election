@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articl
 type: article
 quality: 135
 heat: 135
+published: true
 
 provider:
   name: Wall Street Journal

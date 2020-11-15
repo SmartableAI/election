@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6226614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226614002"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/06/02/PFTM/b0ded584-03ed-4b97-b26a-18363eead202-pence.jpg?auto=webp&crop=599,337,x1,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence expected to attend SpaceX Crew-1 launch"
+    excerpt: "After a one-day delay, liftoff is now scheduled for 7:27 p.m. from Launch Complex 39A at NASA's Kennedy Space Center on Sunday, November 15th."
+    publishedDateTime: 2020-11-15T13:51:00Z
+    webUrl: "https://www.fox35orlando.com/news/vice-president-mike-pence-expected-to-attend-spacex-crew-1-launch"
+    ampWebUrl: "https://www.fox35orlando.com/news/vice-president-mike-pence-expected-to-attend-spacex-crew-1-launch.amp"
+    cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/vice-president-mike-pence-expected-to-attend-spacex-crew-1-launch.amp"
+    type: article
+    provider:
+      name: WOFL
+      domain: fox35orlando.com
+    quality: 75
+    images:
+      - url: "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2020/11/932/470/GettyImages-1216287332.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Vice President Mike Pence Attends Republican Luncheon"
     excerpt: "United States Vice President Mike Pence (R) walks in the halls of the Hart Senate building to attend the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10, 2020. President Donald Trump is not conceding the election blocking the transition of President-elect Joe Biden's."

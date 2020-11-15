@@ -7,7 +7,7 @@ originalUrl: "https://www.jacobinmag.com/2020/10/mike-pence-vp-vice-presidential
 webUrl: "https://www.jacobinmag.com/2020/10/mike-pence-vp-vice-presidential-debate-trump"
 type: article
 quality: 46
-heat: 66
+heat: 46
 published: false
 
 provider:

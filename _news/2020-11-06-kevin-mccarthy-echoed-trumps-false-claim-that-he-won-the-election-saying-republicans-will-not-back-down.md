@@ -143,6 +143,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
+    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
+    publishedDateTime: 2020-11-15T17:29:00Z
+    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump wants to run the Republican party even he leaves office. Can he?"
     excerpt: "From creating a political action committee to suggesting he might run again in 2024, Trump is working to keep control of the GOP after his term ends."
     publishedDateTime: 2020-11-14T11:14:00Z

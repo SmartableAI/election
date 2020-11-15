@@ -249,6 +249,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump backtracks on acknowledging Biden won election, concedes 'nothing'"
+    excerpt: "President Donald Trump backtracked after appearing on Sunday to acknowledge for the first time that Joe Biden won the Nov. 3 election, saying he conceded \"nothing\" and repeating his unfounded claims of widespread voting fraud."
+    publishedDateTime: 2020-11-15T20:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-solidifies-u-s-victory-over-trump-306-232-electoral-votes-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 154
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541139441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Election 2020 live updates: Trump, Biden blitz swing states on election eve"
     excerpt: "With one day until Nov. 3, President Donald Trump and former Vice President Joe Biden are crisscrossing battleground states, with the contest overshadowed by COVID-19."
     publishedDateTime: 2020-11-02T16:27:00Z
@@ -2441,6 +2457,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump cites Biden victory on Twitter, still presses false rigging claims"
+    excerpt: "President Donald Trump appeared on Sunday to publicly acknowledge for the first time that his Democratic rival Joe Biden won the Nov. 3 U.S. presidential election, but reiterated his false claims that the vote was rigged."
+    publishedDateTime: 2020-11-15T18:49:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idINKBN27V0EE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27V0EE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27V0EE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541267065&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0ED"
+        width: 771
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
     publishedDateTime: 2020-11-02T09:12:00Z
@@ -2920,6 +2952,22 @@ related:
       - url: "https://i.insider.com/5faf70f81c741f0019ac9d61?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump asserts he will soon file 'big cases' challenging 2020 election results"
+    excerpt: "U.S. President Donald Trump asserted on Twitter on Sunday he would soon file \"big cases\" challenging the 2020 election results in which Joe Biden defeated him, even after his campaign has lost numerous court battles over the results."
+    publishedDateTime: 2020-11-15T22:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-results-idUSKBN27V0S1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0S1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0S1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541285811&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0MN"
+        width: 825
+        height: 545
         isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
@@ -4010,6 +4058,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac36d7ebaf6cb0c9f9a43a%2F0x0.jpg%3FcropX1%3D1474%26cropX2%3D4235%26cropY1%3D198%26cropY2%3D1751"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2 more GOP governors push Trump to start the formal presidential transition process with Biden"
+    excerpt: "Govs. Mike DeWine of Ohio and Asa Hutchinson of Arkansas both said that a proper transition needs to be in place for the president-elect."
+    publishedDateTime: 2020-11-15T22:25:00Z
+    webUrl: "https://www.businessinsider.com/republican-governors-dewine-hutchinson-trump-presidential-transition-joe-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republican-governors-dewine-hutchinson-trump-presidential-transition-joe-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republican-governors-dewine-hutchinson-trump-presidential-transition-joe-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fb19c28402d49001924f078?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."
@@ -5942,6 +6006,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "A lawyer for Trump's campaign claims without evidence the president won reelection by 'millions of votes'"
+    excerpt: "Sidney Powell repeated a baseless conspiracy theory on Fox News and claimed Trump's camp had \"lots of ways to prove\" debunked widespread voter fraud."
+    publishedDateTime: 2020-11-15T20:45:00Z
+    webUrl: "https://www.businessinsider.com/trumps-lawyer-claims-without-evidence-won-millions-of-votes-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-lawyer-claims-without-evidence-won-millions-of-votes-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-lawyer-claims-without-evidence-won-millions-of-votes-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5fb17dcb1c741f0019ac9e11?width=1200&format=jpeg"
+        width: 876
+        height: 438
+        isCached: true
   - title: "The final week in polls: Trump eats into Biden's leads in Arizona, North Carolina, Nevada and Pennsylvania"
     excerpt: "The final polls show the race between Trump and Biden has tightened since mid-October, both nationally and in the critical battleground states."
     publishedDateTime: 2020-11-02T22:53:00Z
@@ -7334,6 +7414,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Fauci says it's 'obvious' that it would be 'better' for public health if Trump facilitated a smooth transition to Biden"
+    excerpt: "Dr. Anthony Fauci told CNN a smooth presidential transition is \"like passing the baton in a race,\" and officials should aim to \"keep things going.\""
+    publishedDateTime: 2020-11-15T17:02:00Z
+    webUrl: "https://www.businessinsider.com/facui-trump-transition-public-health-work-with-biden-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/facui-trump-transition-public-health-work-with-biden-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facui-trump-transition-public-health-work-with-biden-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fb154bd1c741f0019ac9df7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden breaks Obama's record for most votes ever cast for a U.S. presidential candidate"
     excerpt: "Barack Obama earned 69,498,516 votes in the presidential election, the most ever. Now, Mr. Obama's former vice president, Democratic nominee Joe Biden, has surpassed that tally, with a record 69,589,840 votes (50."
     publishedDateTime: 2020-11-04T18:01:00Z
@@ -8540,6 +8636,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z

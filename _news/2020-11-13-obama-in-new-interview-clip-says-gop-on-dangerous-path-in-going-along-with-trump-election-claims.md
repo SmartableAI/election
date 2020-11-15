@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-60-minutes-gop-dangerous-path
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-60-minutes-gop-dangerous-path-trump-election-claims.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'"
+    excerpt: "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday."
+    publishedDateTime: 2020-11-15T19:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Obama-Biden-Flint-Michigan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
     excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
     publishedDateTime: 2020-11-14T16:22:48Z

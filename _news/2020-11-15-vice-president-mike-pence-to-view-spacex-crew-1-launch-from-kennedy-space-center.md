@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.floridatoday.com/amp/6300689002"
 cdnAmpWebUrl: "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6300689002"
 type: article
 quality: 70
-heat: 90
+heat: 110
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Mike Pence to view SpaceX Crew-1 launch from Kennedy Space Center"
+    excerpt: "Vice President Mike Pence will attend Sunday’s attempted launch of Crew-1 mission to the International Space Station, News 6 partner Florida Today reported."
+    publishedDateTime: 2020-11-15T17:53:00Z
+    webUrl: "https://www.clickorlando.com/news/2020/11/15/vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center/"
+    ampWebUrl: "https://www.clickorlando.com/news/2020/11/15/vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/2020/11/15/vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 70
+    images:
+      - url: "https://www.clickorlando.com/resizer/m8fcKoWorhzPJMfbmZTDiFFtKwY=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/BVMRFCABEBGGHI2MVRA2MKK4EI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Mike Pence, second lady to view Crew-1 launch at Kennedy Space Center"
     excerpt: "Last-minute preparations are underway on the Space Coast as NASA and SpaceX get ready to send four Crew-1 astronauts into orbit."
     publishedDateTime: 2020-11-15T04:31:00Z

@@ -2,6 +2,279 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-11-pence-dumps-florida-vacation-to-stay-in-washington-amid-election-challenge.md",
+      "title": "Pence dumps Florida vacation to stay in Washington amid election challenge",
+      "excerpt": "Vice President Mike Pence canceled plans for a Florida getaway this week to stay in Washington as President Trump continues to challenge election results, according to a report. Pence, who",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
+      "originalUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/201111-pence-cancels-florida-vacation.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/11/pence-dumps-vacation-to-stay-in-dc-amid-election-challenge/amp/",
+      "publishedDateTime": "2020-11-11T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
+      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
+      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "publishedDateTime": "2020-11-10T14:18:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-launches-save-america-political-action-committee.md",
+      "title": "Trump Launches 'Save America' Political Action Committee",
+      "excerpt": "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
+      "originalUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-257919?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-defiant-pompeo-predicts-smooth-transition-to-a-2nd-trump-administration.md",
+      "title": "Defiant Pompeo predicts 'smooth transition' to a 2nd Trump administration",
+      "excerpt": "A defiant Secretary of State Mike Pompeo on Tuesday predicted a “smooth transition” to a second Trump administration, as members of the administration continued to express doubt that President-elect Joe Biden won the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/myBrIa-VGtA/pompeo-smooth-transition-second-trump-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/myBrIa-VGtA/pompeo-smooth-transition-second-trump-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp",
+      "publishedDateTime": "2020-11-10T11:42:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.md",
+      "title": "Democrats are struggling to extinguish the ‘Trump effect’ once and for all",
+      "excerpt": "Democrats harbored aspirations of a Democratic House, Democratic Senate and Joe Biden in the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
+      "publishedDateTime": "2020-11-10T09:03:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.md",
       "title": "Trump slams McCabe as ex-FBI official testifies virtually",
       "excerpt": "President Trump on Tuesday slammed ex-FBI deputy director Andrew McCabe, urging Republicans not to let him “get away with totally criminal activity” as the former official testified virtually before the Senate Judiciary Committee.",
@@ -171,62 +444,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-aoc-others-pushing-for-apparent-blacklist-of-people-who-worked-with-trump.md",
-      "title": "AOC, others pushing for apparent blacklist of people who worked with Trump",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez and others have encouraged the creation of an apparent blacklist of people who helped President Trump during his time in office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwGgoelybYM/aoc-blacklist-trump-supporters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwGgoelybYM/aoc-blacklist-trump-supporters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5aacad1b-b0c8-4767-a254-2dabd28652d0/cc0ff55e-314b-496d-ac6b-875de189991a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blacklist-trump-supporters.amp",
-      "publishedDateTime": "2020-11-09T15:55:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-david-bossie-head-of-trump-post-election-legal-effort-tests-positive-for-covid-19.md",
       "title": "David Bossie, Head of Trump Post-Election Legal Effort, Tests Positive for Covid-19",
       "excerpt": "David Bossie, a longtime confidant of President Trump whom the campaign tapped last week to lead its post-election legal efforts, tested positive for Covid-19 on Sunday, according to a person familiar with the matter.",
@@ -296,7 +513,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 830,
+      "heat": 850,
       "tags": null,
       "images": [
         {
@@ -1451,230 +1668,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-likely-to-run-again-in-2024-if-he-loses-mick-mulvaney.md",
-      "title": "Trump 'likely' to run again in 2024 if he loses: Mick Mulvaney",
-      "excerpt": "Trump's former acting White House chief of staff Mick Mulvaney says the president isn't ready to bow out of politics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdNWRORgN_Y/trump-2024-mick-mulvaney",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-Mick-Mulvaney.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T09:54:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.md",
-      "title": "If Trump loses, he will regret 'denigrating mail-in voting': York",
-      "excerpt": "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp",
-      "publishedDateTime": "2020-11-06T08:25:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-jr-calls-out-2024-gop-hopefuls-for-total-lack-of-action-in-ballot-counting-fight.md",
-      "title": "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight",
-      "excerpt": "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "publishedDateTime": "2020-11-06T07:44:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.md",
-      "title": "Trump's voter-fraud remarks draw criticism from some Republicans",
-      "excerpt": "President Trump faced some pushback from his own party Thursday after warning about illegal voting and an attempt to \"steal\" the presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/486e3da4-419d-4817-bbf0-ac663dd0aa73/4489e600-3283-425c-92a8-9780baffc963/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp",
-      "publishedDateTime": "2020-11-05T20:31:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

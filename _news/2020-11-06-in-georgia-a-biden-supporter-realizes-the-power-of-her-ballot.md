@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What mandate? Biden's agenda faces a divided Congress"
+    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
+    publishedDateTime: 2020-11-15T18:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
     excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
     publishedDateTime: 2020-11-08T18:01:00Z

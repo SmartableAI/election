@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
+    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
+    publishedDateTime: 2020-11-15T18:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

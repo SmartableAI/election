@@ -415,6 +415,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are 7 Trump health care measures that Biden will likely overturn"
+    excerpt: "When it comes to health policy, President Donald Trump made it his mission to undo many measures his predecessor put in place.\n    \n"
+    publishedDateTime: 2020-11-15T19:22:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OVO82VA1apo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/biden-overturn-trump-health-care-policies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/biden-overturn-trump-health-care-policies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
     excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
     publishedDateTime: 2020-10-07T01:01:06Z
@@ -1484,6 +1500,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103174213-anthony-fauci-0731-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "People of color make up nearly half of Biden transition team"
+    excerpt: "As President-elect Joe Biden prepares to take office in January, nearly half of the transition team laying the groundwork for his administration is made up of people of color, and women are in the majority.\n    \n"
+    publishedDateTime: 2020-11-15T18:02:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_Yea-xkMhZk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/biden-transition-team-diversity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/biden-transition-team-diversity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2815,6 +2847,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Here are 7 Trump health care measures that Biden will likely overturn"
+    excerpt: "When it comes to health policy, President Donald Trump made it his mission to undo many measures his predecessor put in place."
+    publishedDateTime: 2020-11-15T19:22:00Z
+    webUrl: "https://www.cnn.com/2020/11/15/politics/biden-overturn-trump-health-care-policies/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/biden-overturn-trump-health-care-policies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/biden-overturn-trump-health-care-policies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Buffeted by Trump, China Has Little Hope for Warmer Relations With Biden"
     excerpt: "Many in Beijing believe that the United States will remain hostile to the country’s rise, regardless of who is president."
     publishedDateTime: 2020-11-09T10:40:00Z
@@ -3924,6 +3972,22 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_44/3423727/201028-election-congressional-control-main-cover-cs_dd0b7f149f02138bb8501c19637175af.fit-1240w.jpg"
         width: 1240
         height: 620
+        isCached: true
+  - title: "Presidential Transition Live Updates: Choreographing Policy Steps, Biden and Team Look Ahead"
+    excerpt: "Vice President-elect Kamala Harris has kept a low public profile since her acceptance speech last weekend. The election raises the question of whether the Republican strategy of voter restrictions served the party’s interests as it once did."
+    publishedDateTime: 2020-11-15T14:12:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/15/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/15/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/15/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15transition-briefing-bolton-repubs/merlin_158170743_0e4c307e-3fb3-428f-933f-48f939bdebb7-articleLarge.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Trump defends Texas drivers who surrounded Biden bus, while the president’s supporters block traffic in New York and New Jersey."
     excerpt: "In several instances over the last few days, supporters of President Trump have disrupted traffic. In Texas on Friday, Trump supporters surrounded a Biden campaign bus, and in New York and New Jersey on Sunday,"

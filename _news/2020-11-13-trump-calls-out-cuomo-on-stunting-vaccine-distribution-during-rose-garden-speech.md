@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "FLASHBACK: All the times Cuomo expressed skepticism of Trump coronavirus vaccine"
+    excerpt: "New York Gov. Andrew Cuomo has repeatedly questioned President Trump’s political motives regarding a coronavirus vaccine and its credibility under his leadership."
+    publishedDateTime: 2020-11-15T20:20:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A2exSWSdfGU/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "yvWSgfY0KTsm1dFy5FsnAIOvbMb76Mn9hhz+zdTBTsNTauTO4i6N5pekHKR9lU9f7DOPLUdLa2mO0XqU5S2rQYqqtRfyo4cqsKm91h5S0S7cP0vx6exKuG6SSyQGZrcuP6CLUmnRZG5mbTEuyojhyLg3y0WEKpF/N0dDsR/tRXVS0BoxNHPwBnxIJYw3gxEyi1tny2EhoN3Tjs/nAAIiE23VjY+IJtsHvotddsy/OYCrylHUiHDemrcawSB32d9Yyut4vdulgpwGZ/oXGCk+bET/e1QIpMHcbTCPQDqV7i7aZ37+3ucQmmAnncKJPqShR/4o9aEWw6z0LV9dXWv8ySBgg9+CAi7gPqBQC+VCDpQ=;B6039mpevdxZZehJc80oow=="
 ---
