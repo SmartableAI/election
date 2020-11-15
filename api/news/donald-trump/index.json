@@ -626,63 +626,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-trump-floats-improbable-survival-scenarios-as-he-ponders-his-future.md",
-      "title": "Trump Floats Improbable Survival Scenarios as He Ponders His Future",
-      "excerpt": "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "publishedDateTime": "2020-11-13T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
       "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
       "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
@@ -1459,25 +1402,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
-      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
-      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
+      "path": "_news/2020-11-11-fact-check-video-shows-police-collecting-discarded-amazon-packages-not-thousands-of-trump-ballots.md",
+      "title": "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots",
+      "excerpt": "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
-          "width": 865,
-          "height": 453,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3",
+          "width": 818,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1485,16 +1424,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "publishedDateTime": "2020-11-10T23:19:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC",
+      "publishedDateTime": "2020-11-10T13:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1511,30 +1450,25 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
-      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
-      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
+      "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
+      "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
+      "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "webUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
+      "highlight": null,
+      "heat": 138,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1542,16 +1476,72 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "publishedDateTime": "2020-11-10T18:58:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp",
+      "publishedDateTime": "2020-11-10T12:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-launches-save-america-political-action-committee.md",
+      "title": "Trump Launches 'Save America' Political Action Committee",
+      "excerpt": "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
+      "originalUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-257919?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1569,7 +1559,7 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Republican Voice"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-20
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
 type: article
 quality: 178
-heat: 238
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,51 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
-    excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
-    publishedDateTime: 2020-11-11T23:50:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-15T03:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Win or Lose, Trump Will Remain a Powerful and Disruptive Force"
-    excerpt: "If President Trump loses his bid for re-election, as looked increasingly likely on Wednesday, it would be the first defeat of an incumbent president in 28 years. But one thing seemed certain: Win or lose,"
-    publishedDateTime: 2020-11-05T10:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+  - title: "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-14T16:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 178
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04dc-trump-1/04dc-trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "For Trump voters, shock, disappointment and disbelief."
-    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
-    publishedDateTime: 2020-11-07T22:53:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+  - title: "CIA Director Haspel's fate uncertain after Trump fires Esper"
+    excerpt: "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama"
+    publishedDateTime: 2020-11-09T22:29:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top Pentagon policy official resigns day after Trump fires defense secretary"
+    excerpt: "The Pentagon's top policy official, James Anderson, resigned Tuesday, according to two US defense officials, a day after President Donald Trump fired Secretary of Defense Mark Esper.\n    \n"
+    publishedDateTime: 2020-11-10T16:14:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3nC7iUGiB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110110527-james-h-anderson-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
+    excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
+    publishedDateTime: 2020-11-10T08:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

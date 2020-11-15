@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/brad-pitt-narrator-joe-biden-ad-world-series/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden’s Caution: Wise Campaign Tactic or Misguided Gamble?"
+    excerpt: "Joe Biden is counting on voters to view him as a safe and steady alternative to a president who regularly dismisses virus precautions. But his measured campaign pace may be scrutinized if he loses."
+    publishedDateTime: 2020-10-29T13:22:00Z
+    webUrl: "https://www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/us/politics/28biden-campaign1/28biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Hopes to Fight Autocracy Abroad. He’ll Have to Start at Home."
     excerpt: "It was her job to help coordinate administration efforts to support democracy, encourage free and fair elections, and oppose authoritarianism abroad. Among America’s most important tools in this regard,"

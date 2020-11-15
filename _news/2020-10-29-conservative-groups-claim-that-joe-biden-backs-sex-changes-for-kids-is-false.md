@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden’s long political career features several policy shifts"
+    excerpt: "On issues including criminal justice reform, foreign wars and the economy, Biden’s views have evolved over time. Joe Biden's views on various issues have evolved over his 50-year political ..."
+    publishedDateTime: 2020-10-31T12:39:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/31/bidens-career-evolution"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/09/AP_20271593726889-1.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Warren has expressed interest in being Biden's Treasury secretary: report"
     excerpt: "Sen. Elizabeth Warren (D-Mass.) has expressed interest in serving as Democratic presidential nominee Joe Biden’s Treasury secretary if he defeats President Trump in next week’s race for the White House,"
     publishedDateTime: 2020-10-30T00:59:00Z
@@ -86,6 +102,36 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
         width: 810
         height: 467
+        isCached: true
+  - title: "The Top 5 Richest Backers Of Joe Biden"
+    excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/denizcam/2020/10/31/the-top-5-richest-backers-of-joe-biden/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c6c2fd8fc934e427cc4d3%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "'Joe Biden is a pathological liar'"
+    excerpt: "This coming Tuesday, as you head off to the polls to cast your vote, remember this: Joe Biden is a pathological liar. Donald Trump may be rude and crude. He may be abrasive and off-putting."
+    publishedDateTime: 2020-10-31T15:24:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/30/election_2020_biden_10535_c0-462-5540-3693_s1200x700.jpg?e91805f964fdadf5aa64424b61ee83dd151a855b"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
     excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."

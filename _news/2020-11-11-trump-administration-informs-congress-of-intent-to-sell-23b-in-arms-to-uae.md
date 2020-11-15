@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-no
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
 type: article
 quality: 173
-heat: 273
+heat: 193
 published: true
 
 provider:
@@ -46,70 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
-    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
-    publishedDateTime: 2020-11-06T21:06:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
-    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-11-13T13:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
-    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
-    publishedDateTime: 2020-11-10T16:44:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Administration Gives TikTok More Time to Reach Deal"
-    excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
-    publishedDateTime: 2020-11-13T22:36:00Z
-    webUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "WHhqSGWCnOf8GXJ0eD+sCYtB3qYp5b6kPZceKvdpXRW1c7vi5qq3vIL9yjyGVbfNwCUv+ZroT2h5C02xmqoTKp3Ud79U+Y0KQkwN6rUV3R8/7EFqrLc1ARWvYsFoU2dFK+zuTTk/+kF2b/UK/VV0crSrlE0Z5uJA2DC9k/A4O++e+7Fwlps2MJW3SKi2U2cmSz8BrHS3EKvajKQPJFhQtE930Zk6kbxEtYio2MnRBubo9PgAW2Yu287EUoWbZroue0LPMurPBj3F2rBTVfplz7hRJb4r2nsHQ7HxoK2V7qPwCQFD7I4Y/7r7Yxcep5Y7MPgFG+tfW+yPIYTNekZ3taDqTF9di3tvjtQPexYfT/Y=;+ldbtZy8X0d3CDElfED4Rg=="

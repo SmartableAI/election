@@ -75,6 +75,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Joe Biden’s roots could run from a Scranton kitchen table to the presidency"
+    excerpt: "SCRANTON – This is where Joe Biden said he learned everything he needed to know about politics. The general election on Tuesday will determine if North Washington Avenue is just the leafy street ..."
+    publishedDateTime: 2020-10-31T15:24:00Z
+    webUrl: "https://www.goerie.com/story/news/politics/elections/2020/10/31/joe-biden-pa-scranton-pennsylvania-white-house/6084943002/"
+    ampWebUrl: "https://amp.goerie.com/amp/6084943002"
+    cdnAmpWebUrl: "https://amp-goerie-com.cdn.ampproject.org/c/s/amp.goerie.com/amp/6084943002"
+    type: article
+    provider:
+      name: Erie Times-News
+      domain: goerie.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/PPYR/b096941f-08b7-402c-bef2-164059312d2f-HES-DR-101420-scranton-07.jpg?auto=webp&crop=3507,1973,x0,y116&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6oxXt3yBREYbXJ9QizNIOsPozDn+K9rXxjN1CrvPLsQUB1eURk7MR1/iUighS3YdxpV0D9kxNBSa9wxvQP4Vo50fbGbA/CABZeBjDx1VoFBtHll/zGZjgs45+yCi9FJYpclnI+sCzFDOwoaSMJ1zmeI6RXK95Z/aiM0qh/4M+IAPX4O/qplb9dkEXctdq7RcF4Qf46G5v34Y07Uw4KH1d8lCOi+qwrGOfyGMnt8QwNtg/8vk0xnv75AQT4EroaNXbR3C6irHiISs5ph67A0tsO1hthM6w1IAyGmMi9lcYsfQN2U3ffb9WKlAy/nxBpxbJ1Y8dBRMipfNIcbZR7Lj2vHlzUNAm0RN/1gYgoBr79KH/zMZ2A2ozDXMoxhekI++bQLx0rFXApje/3JCd1JGswGqJHE5Q98GIBq52ZkBVdNNOZwck+4wVYAHDETvjfHi5pg7kL+9Img7zapGKCA7Pe5cSw2BHpD1OdbtwKXwpJGzV8YkAQ6i+vdAnBekZctiz+YNrqGu8icuT9CVizCWow==;yu7l5pxMkG2AlqVUNnNVmQ=="
 ---

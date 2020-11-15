@@ -2,8 +2,8 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-14-new-york-times-rudy-giuliani-put-in-charge-of-trumps-election-lawsuits-after-series-of-losses.md",
-      "title": "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses",
+      "path": "_news/2020-11-15-trump-puts-giuliani-in-charge-of-post-election-legal-fight-after-series-of-losses.md",
+      "title": "Trump puts Giuliani in charge of post-election legal fight after series of losses",
       "excerpt": "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n",
       "sourceUrl": null,
       "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html",
@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 178,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -30,7 +30,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html",
-      "publishedDateTime": "2020-11-14T08:04:31-08:00",
+      "publishedDateTime": "2020-11-14T19:43:32-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -114,6 +114,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-watch-trump-refuse-to-acknowledge-reality-at-press-conference.md",
+      "title": "Watch Trump refuse to acknowledge reality at press conference",
+      "excerpt": "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
+      "publishedDateTime": "2020-11-13T14:42:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-federal-election-official-blasts-trumps-false-election-claims-as-laughable-baffling-and-insulting.md",
       "title": "Federal election official blasts Trump's false election claims as 'laughable,' 'baffling' and 'insulting'",
       "excerpt": "A senior federal election security official who was appointed by President Donald Trump has blasted the President's false post-election claims, calling them \"baffling\", \"laughable\" and \"insulting\".\n    \n",
@@ -166,63 +222,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-trump-floats-improbable-survival-scenarios-as-he-ponders-his-future.md",
-      "title": "Trump Floats Improbable Survival Scenarios as He Ponders His Future",
-      "excerpt": "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "publishedDateTime": "2020-11-13T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -284,6 +283,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-gop-lawmakers-defend-cia-director-gina-haspel-as-trump-weighs-firing-her.md",
+      "title": "GOP lawmakers defend CIA Director Gina Haspel as Trump weighs firing her",
+      "excerpt": "Several GOP lawmakers have publicly defended CIA Director Gina Haspel in recent days as it has become increasingly clear that President Donald Trump is considering firing her as part of his post-election government purge.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYiwh2BamfM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYiwh2BamfM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180520165612-gina-haspel-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html",
+      "publishedDateTime": "2020-11-12T16:23:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-chicago-mayor-hails-new-day-for-science-in-playful-video-swiping-at-trumps-coronavirus-response.md",
       "title": "Chicago mayor hails 'new day for science' in playful video swiping at Trump's coronavirus response",
       "excerpt": "Chicago Mayor Lori Lightfoot hailed a \"new day for science\" in the wake of President-elect Joe Biden's announcement of a new coronavirus task force, recording a mocking video to take a swipe at President Donald Trump, who has downplayed the virus and frequently disregarded his own health officials.\n",
@@ -313,62 +368,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/12/politics/lori-lightfoot-science-is-back-video/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/lori-lightfoot-science-is-back-video/index.html",
       "publishedDateTime": "2020-11-12T09:39:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-officials-mocked-democrats-in-2016-as-sore-losers-for-not-accepting-election-results.md",
-      "title": "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   ",
-      "excerpt": "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html",
-      "publishedDateTime": "2020-11-11T18:05:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -452,6 +451,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-trump-allies-clash-with-top-intelligence-officials-in-quest-to-declassify-more-russia-documents.md",
+      "title": "Trump allies clash with top intelligence officials in quest to declassify more Russia documents ",
+      "excerpt": "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html",
+      "publishedDateTime": "2020-11-11T15:50:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-trump-administration-informs-congress-of-intent-to-sell-23b-in-arms-to-uae.md",
       "title": "Trump administration informs Congress of intent to sell $23B in arms to UAE",
       "excerpt": "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n",
@@ -464,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 273,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -564,120 +619,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
-      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
-      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
-          "width": 865,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
-      "publishedDateTime": "2020-11-10T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
-      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
-      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
-      "publishedDateTime": "2020-11-10T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-bernie-sanders-seeks-support-from-allies-in-push-to-lead-bidens-labor-department.md",
       "title": "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department",
       "excerpt": "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n",
@@ -707,62 +648,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
       "publishedDateTime": "2020-11-10T18:08:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-the-point-heres-the-real-reason-mitch-mcconnell-wont-say-trump-should-concede.md",
-      "title": "The Point: Here's the real reason Mitch McConnell won't say Trump should concede",
-      "excerpt": "Mitch McConnell doesn't think Donald Trump needs to concede the 2020 election -- even days after the race has been called for former Vice President Joe Biden.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
-      "publishedDateTime": "2020-11-10T07:41:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -846,62 +731,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-10-trump-plans-to-launch-pac-to-maintain-influence-in-gop-circles.md",
-      "title": "Trump plans to launch PAC to maintain influence in GOP circles",
-      "excerpt": "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "publishedDateTime": "2020-11-10T05:45:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-what-can-joe-biden-do-to-save-obamacare-in-the-supreme-court-not-much.md",
       "title": "What can Joe Biden do to save Obamacare in the Supreme Court? Not much.",
       "excerpt": "The fate of the Affordable Care Act lies in the Supreme Court's hands, and there's not much President-elect Joe Biden can do about it.\n    \n",
@@ -958,23 +787,23 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-cia-director-haspels-fate-uncertain-after-trump-fires-esper.md",
-      "title": "CIA Director Haspel's fate uncertain after Trump fires Esper",
-      "excerpt": "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama",
+      "path": "_news/2020-11-10-trump-taps-former-special-forces-officer-to-take-over-from-esper-at-pentagon.md",
+      "title": "Trump taps former Special Forces officer to take over from Esper at Pentagon",
+      "excerpt": "After firing his second Senate-confirmed secretary of defense, President Donald Trump tapped Christopher Miller, the director of the National Counterterrorism Center, to lead the Pentagon for what will likely be the remainder of his administration.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ktcw3-k9xjI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ktcw3-k9xjI/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109130804-christopher-miller-sept-24-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -984,9 +813,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html",
-      "publishedDateTime": "2020-11-09T14:29:56-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/who-is-christopher-miller/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/who-is-christopher-miller/index.html",
+      "publishedDateTime": "2020-11-09T16:01:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
+      "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
+      "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
+      "publishedDateTime": "2020-11-09T15:56:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1128,25 +1013,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-how-to-protect-america-from-the-next-donald-trump.md",
-      "title": "How to Protect America From the Next Donald Trump",
-      "excerpt": "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,",
+      "path": "_news/2020-11-09-trump-campaign-charts-uncertain-path-forward-as-tensions-bubble-up.md",
+      "title": "Trump campaign charts uncertain path forward as tensions bubble up",
+      "excerpt": "President Donald Trump's campaign team huddled in their Virginia headquarters on Monday to discuss their ongoing efforts to contest the election results but tension remains high as the staff faces an uncertain future.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMBAJpSP8i4/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 375,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201103164319-donald-trump-election-day-campaign-staff-0311-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1154,16 +1039,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html",
-      "publishedDateTime": "2020-11-09T06:00:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-campaign-future/index.html",
+      "publishedDateTime": "2020-11-09T10:52:34-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1180,7 +1065,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1690,6 +1574,120 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-mike-pence-sen-collins-apparently-deny-systemic-racism-exists.md",
+      "title": "Mike Pence, Sen. Collins apparently deny systemic racism exists",
+      "excerpt": "Mike Pence and Sen. Susan Collins have apparently denied that systemic racism exists while on the 2020 campaign trail, Pence also implying that 2020 Democratic presidential candidate Vice President Joe Biden is in error for acknowledging racism in America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
+      "originalUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_joy_goprace_201031_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo95071813913",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo95071813913",
+      "publishedDateTime": "2020-11-04T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.md",
+      "title": "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted.",
+      "excerpt": "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/reader-center/04blog-wisco-graphic/04blog-wisco-graphic-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
+      "publishedDateTime": "2020-11-04T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Democratic Voice"
       ]
     }

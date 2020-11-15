@@ -192,6 +192,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden’s Caution: Wise Campaign Tactic or Misguided Gamble?"
+    excerpt: "Joe Biden is counting on voters to view him as a safe and steady alternative to a president who regularly dismisses virus precautions. But his measured campaign pace may be scrutinized if he loses."
+    publishedDateTime: 2020-10-29T13:22:00Z
+    webUrl: "https://www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/us/politics/joe-biden-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/us/politics/28biden-campaign1/28biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
     excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
     publishedDateTime: 2020-10-18T23:09:00Z

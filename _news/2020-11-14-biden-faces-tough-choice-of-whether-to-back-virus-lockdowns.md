@@ -2,21 +2,21 @@
 category: news
 title: "Biden faces tough choice of whether to back virus lockdowns"
 excerpt: "President-elect Joe Biden’s advisers are already signaling that a nationwide lockdown is not under consideration for combating the coronavirus pandemic"
-publishedDateTime: 2020-11-14T05:58:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+publishedDateTime: 2020-11-14T05:47:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_9335e7537a0941dda8ff8453dcde4f85_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -5297,21 +5297,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Thousands rally behind Trump, believing he won race he lost"
-    excerpt: "Fervent supporters of President Donald Trump have rallied and marched in Washington behind his spurious claim of a stolen election"
-    publishedDateTime: 2020-11-14T21:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-thrills-protesting-supporters-motorcade-drive-74209888"
+  - title: "Taiwan hopes for close U.S. cooperation in call with Biden adviser"
+    excerpt: "Taiwan hopes to continue its close cooperation with the United States, the island's de facto U.S. ambassador told Antony Blinken, a longtime confidant of President-elect Joe Biden, as Taiwan moves to shore up ties with the new administration."
+    publishedDateTime: 2020-11-15T03:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-taiwan-idUSKBN27V030"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V030"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V030"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541236472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE022"
+        width: 884
+        height: 545
+        isCached: true
+  - title: "Thousands rally behind Trump, believing he won race he lost"
+    excerpt: "A week after the presidential race was called for Democrat Joe Biden, hundreds of Trump loyalists converged on the nation’s capital to protest the election results and falsely assert the vote was stolen."
+    publishedDateTime: 2020-11-14T17:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Thousands rally behind Trump, insisting he won race he lost"
     excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. A broad coalition of top government and industry officials has declared that the Nov."
@@ -8217,14 +8233,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115001524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115041524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07698892_1605399544.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699654_1605413944.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -9953,6 +9969,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "niEnVvCuWMXfKwoSWRfrptaBfSmisZ7lBD1D1zlnyroosRYDdREXU/eKZ4zJfI5qLEUkP+cC9JOh+H4nl1oLG0imK5el4YWljX1xNkkqhreaWFreB1hahSyYAaywY3De/EbXjdkW19f7HzE8TxEAHAmJf392JiuZXXpKgmQ1wCVYiBsZhYfu3BWcst0ippnCzT5NSJkHgV/hVbzvHiuHtJLtyO3TSYEcUatWF5UI/lwkw94sG4hVWDIfdABlCOXmUAU7F4w9FcS4abZjE0JPOBsRzE9P0dkI9vRFl5k0jEZqNQ2JoU+APWtiXipy2H7EQC5WGS6rbGAlue/yJeHcKAxoAWOs6/3oHOmmGnu3fBI=;dWvkU6dPVrAPSotgxgRwmA=="
+secured: "NLh0mfQR+HTTuuzb+RcCicOEZyviBSd6v+MeVCFC6qQp4ohkW7eGIQiTyBkYxXQNphnQmvUiuDlRiEWrPKCIXiT5OTuaharPZutJn2QyF0r6OsO17aH2US6vCf46KVBoBVongJUYvufzg8b7J6EzBBJsbY3gwYBM8BiAcVKYzkyn2y4NY67Xjh2jj9DOtWWwTYgzYgrDCM23hgQfTN5y49Z+w+9Ss+wl/ekvkN0Nj2Et1jNZGSYW8Dfc/5jfxfai0P6ZO1mzHB3ATy6fJgVNqRaq2ZZ7jQQheioghEi5k2Sxp1NcbfSSnGhMvrvx6VafK5H+0VsHVrP6jwr44xFxiu7ubvOgp0fmNeZMNF5I6WU=;a/yJc33qOVKHAuFe3NOW9Q=="
 ---
 

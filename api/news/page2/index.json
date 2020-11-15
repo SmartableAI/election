@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-14-rebuking-trump-dhs-cybersecurity-agency-says-no-evidence-of-deleted-changed-votes.md",
+      "title": "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes",
+      "excerpt": "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202",
+      "originalUrl": "https://abcnews.go.com/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/DHS-gty-er-201020_1603231692954_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202",
+      "publishedDateTime": "2020-11-13T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-chinas-hong-kong-crackdown-poses-an-immediate-challenge-for-biden.md",
       "title": "China’s Hong Kong crackdown poses an immediate challenge for Biden",
       "excerpt": "Follow the latest on Election 2020 China keeps tightening its grip on Hong Kong. On Wednesday, Beijing forced the ouster of four lawmakers in the semiautonomous city’s local government who, under a new directive,",
@@ -315,63 +367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-trump-floats-improbable-survival-scenarios-as-he-ponders-his-future.md",
-      "title": "Trump Floats Improbable Survival Scenarios as He Ponders His Future",
-      "excerpt": "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html",
-      "publishedDateTime": "2020-11-13T00:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -864,6 +859,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-gop-lawmakers-defend-cia-director-gina-haspel-as-trump-weighs-firing-her.md",
+      "title": "GOP lawmakers defend CIA Director Gina Haspel as Trump weighs firing her",
+      "excerpt": "Several GOP lawmakers have publicly defended CIA Director Gina Haspel in recent days as it has become increasingly clear that President Donald Trump is considering firing her as part of his post-election government purge.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYiwh2BamfM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYiwh2BamfM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180520165612-gina-haspel-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/gop-defend-haspel-trump/index.html",
+      "publishedDateTime": "2020-11-12T16:23:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-senate-could-vote-on-trumps-fed-nominees-next-week-bloomberg-news.md",
       "title": "Senate could vote on Trump's Fed nominees next week: Bloomberg News",
       "excerpt": "The Republican leadership at the U.S. Senate has discussed holding a vote on U.S. President Donald Trump’s nominees to the Federal Reserve as early as next week, Bloomberg News reported Thursday, citing Republican Senator John Cornyn.",
@@ -1276,62 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-chicago-mayor-hails-new-day-for-science-in-playful-video-swiping-at-trumps-coronavirus-response.md",
-      "title": "Chicago mayor hails 'new day for science' in playful video swiping at Trump's coronavirus response",
-      "excerpt": "Chicago Mayor Lori Lightfoot hailed a \"new day for science\" in the wake of President-elect Joe Biden's announcement of a new coronavirus task force, recording a mocking video to take a swipe at President Donald Trump, who has downplayed the virus and frequently disregarded his own health officials.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/94soxujsNcs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/94soxujsNcs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112103342-lightfoot-twitter-video-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/12/politics/lori-lightfoot-science-is-back-video/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/lori-lightfoot-science-is-back-video/index.html",
-      "publishedDateTime": "2020-11-12T09:39:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

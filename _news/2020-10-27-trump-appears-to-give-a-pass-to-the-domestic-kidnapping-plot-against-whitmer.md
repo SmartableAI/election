@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-k
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-gretchen-whitmer-kidnapping-michigan/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/02/upshot/02up-what-trump-needs-sub/02up-what-trump-needs-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
+    publishedDateTime: 2020-10-29T02:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "ubDlVwT7usqojbNZCrxIN+rdQJ5tOko1Ul9fzsZicFnXD9iEoHOrBFafDmn9sLahX6Kpe+mYI6xI3UixrGOUmH8dOhOLPOg7Zwt7jOaO9/IWIbCu1Rgd2zv8ix6DdSbat1u6kNEznB4oDMfxr9SUdE0A/f7y/7x9Fmk/GgqW7DGmcP/86nZnAbqCou4g9apmol1VHEzZ04lutOW3XOpDgvOsfxniFQgSthAIRbtTQrQfc42f000EcW0ou4lUTBGVx8woxtANgZSM4KGZL15JdgLIG7saoSqjRKE1B2nI3/c1gYwie7EzNFnHt9BIKGd0hTU7fDae4sUZ/3ldYUb1zB2dbGIV4ljcHBZ9L7/jkS8=;rAiJtmH8pZ+qGISg5VbE7A=="

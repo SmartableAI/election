@@ -31,69 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
-    excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
-    publishedDateTime: 2020-11-11T17:40:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
+  - title: "Watch Trump refuse to acknowledge reality at press conference"
+    excerpt: "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n"
+    publishedDateTime: 2020-11-13T22:42:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
-    excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
-    publishedDateTime: 2020-11-11T20:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
+  - title: "The Point: Here's the real reason Mitch McConnell won't say Trump should concede"
+    excerpt: "Mitch McConnell doesn't think Donald Trump needs to concede the 2020 election -- even days after the race has been called for former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-10T15:41:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
-    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
-    publishedDateTime: 2020-11-06T21:06:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+  - title: "How to Protect America From the Next Donald Trump"
+    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
+    publishedDateTime: 2020-11-09T14:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
-    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
-    publishedDateTime: 2020-11-10T16:44:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+  - title: "Authoritarians From Mussolini to Trump"
+    excerpt: "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,"
+    publishedDateTime: 2020-11-10T18:06:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality"
+    excerpt: "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden."
+    publishedDateTime: 2020-11-11T07:19:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png"
+        width: 865
+        height: 453
+        isCached: true
+  - title: "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik"
+    excerpt: "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive."
+    publishedDateTime: 2020-11-11T02:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
+    excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
+    publishedDateTime: 2020-11-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/arts/11reagans2/11reagans2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Administration Gives TikTok More Time to Reach Deal"
     excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
@@ -110,6 +158,36 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
+    excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
+    publishedDateTime: 2020-11-13T17:35:00Z
+    webUrl: "https://www.nytimes.com/article/electors-vote.html"
+    ampWebUrl: "https://www.nytimes.com/article/electors-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/electors-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
+    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
+    publishedDateTime: 2020-11-10T17:07:00Z
+    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "nVEi7/zFvAAM5W27qTr6ESC1hMHZTRwVIfnzd7M8N3XH6HKxz7nUGrazV+W709G9Q9GCL13iECVv2JXgmNTnjgwpvJsB6sBm9mIHyZFxKITVcj/Q/FNEwRY1vqgy04f1+D2A4iM5uA5n9yQIBugsDc5MDePyeRyX9XLGxdOUjKC1e9TgQpAGwz8/lBr0EnSuugfBYitQU6AQro7UlFhbTt705BMiWE/UOgPWm5pYdqZi0RjUCZixHc0Y1weDZfj4b/LxzJO0xwmStXBM5cm5ZLWgvuSs+Ra0o9vBMqVZ3cWKhQXNDsTx2djb+4vIHKeJD5bBEMlir7QQqPaVWpEM18K5w11AcZ9giU7sp4tdO20=;opjx0RPawOuFH+Bhzn81YA=="

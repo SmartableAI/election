@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 182
+published: true
 
 provider:
   name: CNN
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   "
-    excerpt: "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n"
-    publishedDateTime: 2020-11-12T02:05:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Win or Lose, Trump Will Remain a Powerful and Disruptive Force"
-    excerpt: "If President Trump loses his bid for re-election, as looked increasingly likely on Wednesday, it would be the first defeat of an incumbent president in 28 years. But one thing seemed certain: Win or lose,"
-    publishedDateTime: 2020-11-05T10:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+  - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
+    excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
+    publishedDateTime: 2020-11-12T01:39:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04dc-trump-1/04dc-trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "For Trump voters, shock, disappointment and disbelief."
-    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
-    publishedDateTime: 2020-11-07T22:53:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11dc-military-sub1/11dc-military-sub1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

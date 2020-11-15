@@ -8,7 +8,7 @@ webUrl: "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
