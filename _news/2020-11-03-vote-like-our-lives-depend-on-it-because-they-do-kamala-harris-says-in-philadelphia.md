@@ -464,6 +464,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Padma Lakshmi: Vice President-Elect Kamala Harris Moved Me to Tears"
+    excerpt: "Imagine how wide the ripples of impact can be when a woman of color is vice president. By Padma Lakshmi Ms. Lakshmi is the host and executive producer of “Taste the Nation” and “Top Chef.” I was on a hike in Garrison,"
+    publishedDateTime: 2020-11-13T23:10:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/opinion/padma-lakshmi-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/14/opinion/13lakshmi-01-sub/13lakshmi-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Largely Out of Sight in Washington, Kamala Harris Preps for White House"
+    excerpt: "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”"
+    publishedDateTime: 2020-11-15T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
     excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
     publishedDateTime: 2020-11-03T02:30:00Z

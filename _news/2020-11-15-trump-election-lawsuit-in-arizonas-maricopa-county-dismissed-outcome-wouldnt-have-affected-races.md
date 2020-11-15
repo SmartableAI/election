@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6296977002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6296977002"
 type: article
 quality: 126
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 108
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
+    excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
+    publishedDateTime: 2020-11-14T23:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/ploy-flip-electors-trump-rejected-republican-leaders-4-key-states/6298966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6298966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6298966002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/PDTF/bb6e1ae0-d323-4fb5-affe-938c5d4faa75-AP20318849667174.jpg?auto=webp&crop=5703,3208,x0,y244&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

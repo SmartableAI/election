@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5145
+heat: 5165
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
     quality: 189
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump wavers between reality and election fiction with eye on his legacy "
+    excerpt: "President Donald Trump had an eye on his legacy as he strode to the microphone in the White House Rose Garden Friday and touted the administration's \"unequaled and unrivaled\" efforts to help produce a coronavirus vaccine through Operation Warp Speed. Then, for a brief moment, he seemed close to acknowledging"
+    publishedDateTime: 2020-11-14T22:02:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xVpfze6xcFE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

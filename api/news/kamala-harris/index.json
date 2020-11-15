@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-14-celebrating-diwali-some-see-kamala-harris-rise-reflected-in-stories-of-good-over-evil.md",
-      "title": "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil",
-      "excerpt": "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris.",
+      "path": "_news/2020-11-14-kamala-harris-didnt-become-vice-president-elect-by-saying-no-worries-if-not.md",
+      "title": "Kamala Harris didn't become vice-president-elect by saying 'no worries if not'",
+      "excerpt": "For a demonstration of a woman who is unafraid to speak with confidence, look no further than Harris’s victory speech, says Guardian columnist Emma Brockes",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
+      "webUrl": "https://www.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 397,
+      "heat": 541,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/2ea26bf/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F97%2F0ca9ccd241cebcb660b4b9382a40%2Findian-american-voter-sanslogo.jpg",
-          "width": 320,
-          "height": 209,
+          "url": "https://i.guim.co.uk/img/media/0b181b21095bc3a796911dd26901369361851cd7/0_34_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=be3e6c728f6dd90cfe4eeee23cba9186",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
-      "publishedDateTime": "2020-11-14T05:07:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "publishedDateTime": "2020-11-13T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,58 +158,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-brown-girl-brown-girl-poem-celebrates-kamala-harris-making-history-as-1st-woman-of-color-vice-president.md",
-      "title": "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president",
-      "excerpt": "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696",
-      "originalUrl": "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/kamala-harris-grandnieces-ht-rc-201111_1605122335553_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696",
-      "publishedDateTime": "2020-11-12T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.md",
       "title": "The race is on to succeed Kamala Harris in the Senate: Who the favorites are",
       "excerpt": "The race is on to succeed Vice President-elect Kamala Harris in the Senate.",
@@ -263,101 +211,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-kamala-harris-blm-protests-put-a-new-spotlight-on-hbcus-many-now-hope-for-a-financial-reckoning.md",
-      "title": "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning.",
-      "excerpt": "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
-      "originalUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp",
-      "publishedDateTime": "2020-11-11T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-menlo-park-school-board-president-resigns-after-wifes-reprehensible-tweet-about-kamala-harris.md",
-      "title": "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris",
-      "excerpt": "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/education/article/Venverloh-tweet-Kamala-Harris-school-board-15714613.php",
-      "originalUrl": "https://www.houstonchronicle.com/education/article/Venverloh-tweet-Kamala-Harris-school-board-15714613.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -426,7 +279,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 977,
+      "heat": 1017,
       "tags": null,
       "images": [
         {
@@ -686,6 +539,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-07-democrat-in-greenwich-ecstatic-kamala-harris-on-cusp-of-being-vp.md",
+      "title": "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP",
+      "excerpt": "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "originalUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-kamala-harris-in-detroit-on-election-day-to-rally-support-have-faith-in-the-american-people.md",
       "title": "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'",
       "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
@@ -694,7 +599,7 @@
       "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1256,49 +1161,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-30-ayesha-curry-and-kamala-harris-stress-the-importance-of-voting-everythings-at-stake.md",
-      "title": "Ayesha Curry and Kamala Harris Stress the Importance of Voting: \"Everything's at Stake\"",
-      "excerpt": "With just a few days until Election Day, Ayesha Curry and Kamala Harris are stressing the importance of voting. On Oct. 28, the Full Plate author had a virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212",
-      "originalUrl": "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.popsugar-assets.com/files/thumbor/REFx-CUgJrFrnCRSww0rHppkA7w/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/29/735/n/1922398/0e95199d5f9af012a2d3a0.84227808_.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp",
-      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/celebrity/ayesha-curry-kamala-harris-talk-about-voting-video-47927212/amp",
-      "publishedDateTime": "2020-10-29T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PopSugar",
-        "domain": "popsugar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-maya-rudolph-on-potential-for-4-years-of-kamala-harris-impression-lets-go-im-ready.md",
       "title": "Maya Rudolph on potential for 4 years of Kamala Harris impression: 'Let's go. I'm ready'",
       "excerpt": "If Joe Biden and Kamala Harris win the presidential election next week, Maya Rudolph says she's more than ready for four years of regular work on \"Saturday Night Live.\" (Oct. 28)",
@@ -1549,6 +1411,158 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
+      "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
+      "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
+      "originalUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
+      "publishedDateTime": "2020-10-23T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-fact-check-is-kamala-harris-more-liberal-than-bernie-sanders-charlotte-observer.md",
+      "title": "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer",
+      "excerpt": "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html",
+      "publishedDateTime": "2020-10-22T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-fact-check-where-does-kamala-harris-stand-on-health-care.md",
+      "title": "Fact check: Where does Kamala Harris stand on health care?",
+      "excerpt": "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1244210",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210",
+      "publishedDateTime": "2020-10-22T19:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
       ]
     }
   ],

@@ -113,6 +113,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
+    excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
+    publishedDateTime: 2020-11-14T16:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/13/look-joe-bidens-family/6272780002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
     excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
     publishedDateTime: 2020-11-03T21:44:00Z

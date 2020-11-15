@@ -2905,6 +2905,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Final states called: Biden projected to win 306 electoral votes to Trump's 232"
+    excerpt: "CBS News projected on Friday that President-elect Biden will win Georgia and President Trump will win North Carolina, the final two states left to be called. With those two states, Mr. Biden is set to receive 306 Electoral College votes to Mr."
+    publishedDateTime: 2020-11-14T23:22:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/2020-election-live-updates-2020-11-13/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/2020-election-live-updates-2020-11-13/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/2020-election-live-updates-2020-11-13/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 136
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/04/38aa1fc0-436f-44a8-9046-cf8902811d06/thumbnail/1200x630g2/eae5bef5bef5050eb350410d166b84f3/gettyimages-1229449473.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Factbox: Trump, Biden's paths to victory in U.S. presidential election"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden on Wednesday each faced narrow paths to potential victory in a close-fought U.S. presidential election that will be determined by a razor-thin margin."
     publishedDateTime: 2020-11-04T12:44:00Z
@@ -3352,6 +3368,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump and his White House minimize pandemic surge as he focuses on denying election loss"
+    excerpt: "The defeated president shrugs off expert advice and ignores his potential leadership role on the coronavirus as the nation heads into a grim winter."
+    publishedDateTime: 2020-11-15T00:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-coronavirus-response/2020/11/14/61137f4c-25cb-11eb-8599-406466ad1b8e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-coronavirus-response/2020/11/14/61137f4c-25cb-11eb-8599-406466ad1b8e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-coronavirus-response/2020/11/14/61137f4c-25cb-11eb-8599-406466ad1b8e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FC7EKZBGBQI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
     publishedDateTime: 2020-10-30T07:47:00Z
@@ -3633,6 +3665,20 @@ related:
       - url: "https://i.insider.com/5f4cd3667ffa48002894d16f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump continues to deny election defeat as Biden prepares to take office"
+    excerpt: "President Trump still refuses to accept the results of the election, as he spent Saturday golfing, waving to supporters and tweeting unverified conspiracy theories about widespread voter fraud. President-elect Biden meanwhile is pushing ahead with preparations to assume the office in January."
+    publishedDateTime: 2020-11-15T00:30:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-continues-to-deny-election-defeat-as-biden-prepares-to-take-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/14/c360ecc5-d822-42aa-bbe2-24e4743f5ef8/thumbnail/1200x630/61f7a14764bf119531ff4d3eba960d5f/cbsn-fusion-president-trump-continues-to-deny-election-defeat-as-biden-prepares-to-take-office-thumbnail-588255-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden is planning to declare victory if news organizations say he won the presidential election — even if Trump won't concede"
     excerpt: "The Democrat is planning to address the nation on Tuesday night, regardless of what the results show."
@@ -7135,6 +7181,22 @@ related:
         width: 853
         height: 545
         isCached: true
+  - title: "Biden aide says no U.S.-wide COVID lockdown planned as West Coast states advise against travel"
+    excerpt: "President-elect Joe Biden's top coronavirus adviser said on Friday there were no plans for a wholesale nationwide lockdown to curb the surging COVID-19 pandemic, while three U.S. West Coast states jointly called for a halt in non-essential travel."
+    publishedDateTime: 2020-11-14T22:31:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa/biden-aide-says-no-u-s-wide-covid-lockdown-planned-as-west-coast-states-advise-against-travel-idUSKBN27T2H7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2H7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541214570&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1PI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President-elect Joe Biden: What Biden means for workers' wages, child care and diversity training"
     excerpt: "A Joe Biden presidency may reshape the workplace. From raising minimum wage to encouraging diversity, Biden may restore protections Trump eliminated,"
     publishedDateTime: 2020-11-08T12:04:00Z
@@ -8092,14 +8154,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201114221524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115001524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07698753_1605392344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07698892_1605399544.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -8160,6 +8222,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Joe Biden's presidency could affect the U.S.'s relationship with China"
+    excerpt: "China congratulated Joe Biden for winning the 2020 election on Friday, seemingly signaling an acceptance of the results. But tensions between the two countries continue to rise. Ramy Inocencio has more."
+    publishedDateTime: 2020-11-15T00:12:00Z
+    webUrl: "https://www.cbsnews.com/video/how-joe-bidens-presidency-could-affect-the-uss-relationship-with-china/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/1d323f41-a4fe-4e04-ad6e-1ca1818e6199/thumbnail/1200x630/4970c838fe919532c60f62d5ddfcd136/cbsn-fusion-how-joe-bidens-presidency-could-affect-the-uss-relationship-with-china-thumbnail-588271-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Iowa live election results for president in Iowa: Donald Trump vs. Joe Biden"
     excerpt: "Find live reporting of election results by county in Iowa for the race for president between Donald Trump and Joe Biden."
     publishedDateTime: 2020-11-04T08:17:00Z
@@ -8216,6 +8292,20 @@ related:
       - url: "https://i.insider.com/5faa7186f7d1cb0019e3ab9a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Sore loser or victim? Trump voters struggle with president’s role in defeat."
+    excerpt: "It is a lost cause,” she said. Yet she excuses Trump’s false protestations of victory and welcomes his many lawsuits as a laudable campaign to defend American democracy, not the desperate acts of a sore loser."
+    publishedDateTime: 2020-11-15T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-sore-loser/2020/11/14/b6c58500-2375-11eb-a688-5298ad5d580a_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQSLZQBGBEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 986
         isCached: true
   - title: "Election Results: Biden Has 'No Doubt' He Will Beat Trump, Become US President"
     excerpt: "Joe Biden's optimism comes as the Trump campaign files multiple lawsuits in swing states where the Democratic challenger is leading or projected to win."

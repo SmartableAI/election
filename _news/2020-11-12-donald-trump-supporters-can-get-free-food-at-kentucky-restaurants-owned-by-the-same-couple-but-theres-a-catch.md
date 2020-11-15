@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6261164002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002"
 type: article
 quality: 104
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Beware Trump supporters: Kamala Harris and the Democrats have a list, and that's a fact"
+    excerpt: "The “quote” I posted concerning Kamala Harris may not have been accurate. But all these other comments are. And here’s something else that is entirely true, Sen. Harris’ silence."
+    publishedDateTime: 2020-11-14T18:02:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 82
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "AthW2SatL77zD1MEXoCKiu098VZRv0nT82Uqj9MxLN7fRVyXnqwPYGwHyN7RLXr6n6T5qkrr2BId9FI+LSmaPii4nBKeZV6bSEMT8j23s5urc5Qbf9JatCVY2+o5OcbUJ8DgbFQOyBpylZHq6Dm6Y6h/jCuXM/3e0xC+/tFDYzIBWYnv8xhhIRqYkRJYz+0p+WvJm+sR7cvnQo+jVxcL9b9bhGjwunmuLxEi47O2231yRnF1U476HDo9sVLb1ZSClIKsyRG95jkccH2FoNoB2aQllczRoBT1cOvhecRVreaM6KDF9xCVTgtCal9ZqLnMXBOr9g5wZhJWavz/8faCMJYMuoAjtaWLw/d00JPuJUh9egDLPw2Mbtugx2uhEA4f+ZyA5RFfvnMaW7mZWE9hwVfcVXDrcrb+MkifoHdeTuf3f0b7c+b+7NgKm4oy0Qq0La3jffXiAds+RZwzjx8eouHOhukm59QPet2lsmMRzKPu9KLhmkWTZTPnA85s8MlZKGgSvJTGecjxfQN6osPXfQ==;bCDHdFVd50hxCCg+p3YSoA=="
 ---

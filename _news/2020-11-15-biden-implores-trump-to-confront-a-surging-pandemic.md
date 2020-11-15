@@ -464,6 +464,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump wavers between reality and election fiction with eye on his legacy "
+    excerpt: "President Donald Trump had an eye on his legacy as he strode to the microphone in the White House Rose Garden Friday and touted the administration's \"unequaled and unrivaled\" efforts to help produce a coronavirus vaccine through Operation Warp Speed. Then, for a brief moment, he seemed close to acknowledging"
+    publishedDateTime: 2020-11-14T22:02:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xVpfze6xcFE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Few congressional Republicans publicly back Trump's charges of election fraud"
     excerpt: "Only a handful of congressional Republicans have spoken out in defense of President Donald Trump's cries of election fraud and calls to stop the counting in his race for reelection, which has drawn the wrath of the President's sons, who tweeted their frustration and anger about that lack of vocal support"
     publishedDateTime: 2020-11-06T00:44:46Z
@@ -3932,6 +3948,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "C8PBpilMB4Cbz8C38W8MWRrNfmQk+wSkq2xEnqhuqwV1TefjuVOt8J927zRU2G1tIJupIiMC8OxCJgaLRCgTRWy0w3QaKdSmP4s9+hGj18dOrWmSLbUw2At7JAljh1RohYfa93UnhmjWzHBMjpCQqqz4+gBjVxGPjhBuCWYxOK/rnybAL3r35vbutvlk7/zAPuOGgiRLeH9GiCSCB3vnTqCnISeHb8qavptnW0BvxkZIg14fLltH8IJxTwWqvYFvi8nz+lVkOrebEudelTv1KG6bFGr8QUwMGVYhsrVTqMXM+DyyzaZ66TrcMT6wECiqmJNS0flCGvtwOf662s61N51x5HC88jnrAs7OhX3xm4o=;y7OY2Vs7BO2sLTToPOGO3w=="
+secured: "BRjyiqcqsNB5nTrdGbtW7U/GcKquJoAFT/OQvHtCxl+yCsjQcIaehRyHIjhFnMNlJLBw8U9XmR67GlMzEuY7W7j0D6/8EjPXgNHILFRhUCbv41VqZFj+lt/oZLKDNMQHW5dzTqY805bf4uT4HLOXWsYKzWbjM5CYSb5CpUMbn+D8hw3YLNFFPILPlU90xAfa4dOX1p5Z4lARCTrcofRgDAa022gtNXH35eig2eSDH2iqACNQ5MYAPtmy3ZuwjikidNJ7apTibPJkEGqbA3wCiOYscg+L+9y3lUx7yVaRjicuKCDfpjg9t3LfPYtmRE60GGfpBDTByo9BuSA4RuJ0eoaS+T372S8XmesdMNdclLgzdF4zOJ34VYB7VV7ugEIuAqqzpe1s836UlRo2Ois4cu212KmPmz50VQtonDa/oKuQEVJQHX5lzg2nXCE+bRrRA5P1iVq2xsLbzBO1HNtmyZYBZwcSc5W4JQxYe+nXxRKI6I5dkNj/6ZPkVz609KeD7L63H02n1EuK/OPbD5m4NA==;5LwTzhSRCiKrQMxwoD1MTw=="
 ---
 

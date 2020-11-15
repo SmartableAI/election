@@ -463,6 +463,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump wavers between reality and election fiction with eye on his legacy "
+    excerpt: "President Donald Trump had an eye on his legacy as he strode to the microphone in the White House Rose Garden Friday and touted the administration's \"unequaled and unrivaled\" efforts to help produce a coronavirus vaccine through Operation Warp Speed. Then, for a brief moment, he seemed close to acknowledging"
+    publishedDateTime: 2020-11-14T22:02:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xVpfze6xcFE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/donald-trump-election-falsehoods-vaccine-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump is dragging his whole administration into election rejection"
     excerpt: "If you read all of those pre-election stories about the potential for President Donald Trump to deny the election results and muck up the government before he left office and thought there's no way he would actually do such a thing, prepare to be disappointed.\n    \n"
     publishedDateTime: 2020-11-11T03:11:34Z

@@ -66,7 +66,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -313,58 +313,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-14-celebrating-diwali-some-see-kamala-harris-rise-reflected-in-stories-of-good-over-evil.md",
-      "title": "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil",
-      "excerpt": "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
-      "originalUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 397,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/2ea26bf/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F97%2F0ca9ccd241cebcb660b4b9382a40%2Findian-american-voter-sanslogo.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-14/california-hindus-diwali-festival-kamala-harris-biden?_amp=true",
-      "publishedDateTime": "2020-11-14T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-11-14-rudy-giuliani-is-reportedly-taking-charge-in-trumps-election-legal-battles-and-twitter-is-having-a-field-day-with-it.md",
       "title": "Rudy Giuliani is reportedly taking charge in Trump's election legal battles — and Twitter is having a field day with it",
       "excerpt": "\"Rudy will soon be appealing all of these adverse rulings to the Supreme Courtyard by Marriott,\" one person tweeted.",
@@ -414,6 +362,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-kamala-harris-didnt-become-vice-president-elect-by-saying-no-worries-if-not.md",
+      "title": "Kamala Harris didn't become vice-president-elect by saying 'no worries if not'",
+      "excerpt": "For a demonstration of a woman who is unafraid to speak with confidence, look no further than Harris’s victory speech, says Guardian columnist Emma Brockes",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 541,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0b181b21095bc3a796911dd26901369361851cd7/0_34_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=be3e6c728f6dd90cfe4eeee23cba9186",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence",
+      "publishedDateTime": "2020-11-13T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris didn't become vice-president-elect by saying 'no worries if not'"
+    excerpt: "For a demonstration of a woman who is unafraid to speak with confidence, look no further than Harris’s victory speech, says Guardian columnist Emma Brockes"
+    publishedDateTime: 2020-11-14T07:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/nov/14/kamala-harris-vice-president-woman-speak-with-confidence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/0b181b21095bc3a796911dd26901369361851cd7/0_34_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=be3e6c728f6dd90cfe4eeee23cba9186"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil"
     excerpt: "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris."
     publishedDateTime: 2020-11-14T13:07:00Z
@@ -43,19 +59,37 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP"
-    excerpt: "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts."
-    publishedDateTime: 2020-11-07T08:08:00Z
-    webUrl: "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php"
+  - title: "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning."
+    excerpt: "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?"
+    publishedDateTime: 2020-11-11T13:20:00Z
+    webUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg"
-        width: 1800
-        height: 1200
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
+    excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
+    publishedDateTime: 2020-11-12T20:42:00Z
+    webUrl: "https://abcnews.go.com/GMA/Living/brown-girl-brown-girl-poem-celebrates-kamala-harris/story?id=74154696"
+    ampWebUrl: "https://goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/brown-girl-brown-girl-poem-celebrates-kamala-harris-74154696"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 107
+    images:
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-grandnieces-ht-rc-201111_1605122335553_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Diwali Came Early This Year: Hindus Celebrate Kamala Harris Victory"
     excerpt: "American vice president comes as Indians around the world celebrate Diwali — an annual festival commemorating the triumph of light over darkness."
@@ -147,22 +181,47 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What Kamala Harris’ historic win means to Indian Americans"
-    excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
-    publishedDateTime: 2020-11-11T12:14:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+  - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
+    excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
+    publishedDateTime: 2020-11-12T22:54:00Z
+    webUrl: "https://www.freep.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
+    ampWebUrl: "https://amp.freep.com/amp/6254489002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6254489002"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/15/15/47/20240890/7/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
+    excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
+    publishedDateTime: 2020-11-13T18:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
+    excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."
+    publishedDateTime: 2020-11-10T08:15:00Z
+    webUrl: "https://www.houstonchronicle.com/education/article/Venverloh-tweet-Kamala-Harris-school-board-15714613.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 72
   - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
     excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
     publishedDateTime: 2020-11-11T16:28:00Z
@@ -211,37 +270,85 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "‘It’s our time’: Women of color around Connecticut celebrate the significance of Kamala Harris’s historic VP win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-09T15:37:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+  - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
+    excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."
+    publishedDateTime: 2020-11-12T02:25:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 54
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 62
     images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+      - url: "https://s.hdnux.com/photos/01/15/15/51/20240964/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
+    excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
+    publishedDateTime: 2020-11-12T12:51:00Z
+    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President-elect Kamala Harris inspires Black women in Prince George’s, highlights HBCU pride"
+    excerpt: "Vice President-elect Kamala Harris and Prince George's State's Attorney Aisha Braveboy are Howard University alumnae, Braveboy wore her Howard sweatshirt all day Saturday because she was so proud."
+    publishedDateTime: 2020-11-11T20:07:00Z
+    webUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/ac-cn-biden-election-black-women-prince-georges-county-20201111-walbbttal5f6rbqwhqtj3lek6a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/m9ABc9St61I5DnQ0gdvGTey1lNE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FJPZBQM6XBH57G6UURSQQJNMF4.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
-    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
-    publishedDateTime: 2020-11-07T18:15:00Z
-    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
-    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+  - title: "‘Put Some Respect on Her Name': Army Vet and Comedian Rita Brent Performs Her Viral Rap About Kamala Harris"
+    excerpt: "Comedian Rita Brent’s rap video about Kamala Harris making history as the first Black woman Vice President-elect has gone viral. The rapper and Army veteran joined LX News to talk about the message behind her viral rap and drop some bars of “solidarity magic."
+    publishedDateTime: 2020-11-11T21:42:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/put-some-respect-on-her-name-army-vet-and-comedian-rita-brent-performs-her-viral-rap-about-kamala-harris/2717847/?amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 52
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 57
     images:
-      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+      - url: "https://media.nbcnewyork.com/2020/11/LXNewsRita-Brent20201111.jpg?resize=1200%2C675"
         width: 1200
-        height: 800
+        height: 675
+        isCached: true
+  - title: "Kamala Harris Elementary? Berkeley vice mayor urges school wants school renamed to honor vice president-elect"
+    excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the city council on Monday to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris. Harris grew up in Ber"
+    publishedDateTime: 2020-11-10T20:32:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Kamala-Harris-Elementary-Berkeley-vice-mayor-15716915.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 56
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/15/51/20240964/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
 
 secured: "MsdLGmtGsbuejCNRKsmgygHHgv8p06yxORfvWt1uJBXfmqeOYxlU9wAbNJm4IiT+PkbmRGW82xq7jqFHhVI2LrxxUKYlPHlIqLU62DB8kaWNpr1VvJrfY3dimOf8/gDKhUXo4/Nsk/zymZgVmzhq0N6DZSijPvKM+1gqVLzTGGIBu1OcH2OVSh/sEFpFZ/Yj3k3n7zhkZTOXWRtmgspx7wni3MAQFU2TyN4ab38kfFRJicvNwobL1OLYs6hRnCkpUmMRdI9FziFxXZHnX8Dx0iHHihPkDXfC8tdSdq0iCq6LINNKND2XXJQwPX/HWQwndhMQIGnfvk0RcqvESrzG1s+6G1HQFUprZXVzFNgZb60=;J7FAZk/9j7lhjLOjST8veg=="

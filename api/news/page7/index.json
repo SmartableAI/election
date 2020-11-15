@@ -2,161 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-11-07-schumer-sings-god-bless-america-after-biden-projected-winner.md",
-      "title": "Schumer sings 'God Bless America' after Biden projected winner",
-      "excerpt": "Sen. Chuck Schumer celebrated President Trump's projected defeat by singing a rendition of \"God Bless America,\" and telling the former Manhattan resident it's time to pack up and go home to his new home state of Florida. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pz2Z5kTo-qk/schumer-god-bless-america-biden-projected-winner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdefe646-10ca-45c5-be99-a9396a62ed53/07e6210c-520f-4b83-8fa9-f4057d386bb5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp",
-      "publishedDateTime": "2020-11-07T13:57:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-flashback-trump-in-october-said-could-you-imagine-if-i-lose.md",
-      "title": "Flashback: Trump in October said, 'Could you imagine if I lose?'",
-      "excerpt": "President Trump mocked the idea of losing to former Vice President Joe Biden during a campaign rally less than a month before Election Day, pointing to rival Joe Biden as the \"worst candidate in the history of presidential politics.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3PDf4AQ6o2g/flashback-trump-in-october-could-you-imagine-if-i-lose",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/894e4893-60bc-44d1-9a2a-992bc507bd03/a6a063e7-81ee-4639-9a91-04cee56bee22/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-in-october-could-you-imagine-if-i-lose.amp",
-      "publishedDateTime": "2020-11-07T12:17:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-pence-continues-hoosier-streak-of-one-term-republican-vice-presidents.md",
-      "title": "Pence continues Hoosier streak of one-term Republican vice presidents",
-      "excerpt": "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html",
-      "originalUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html",
-      "cdnAmpWebUrl": "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-republican-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html",
-      "publishedDateTime": "2020-11-07T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northwest Indiana Times",
-        "domain": "nwitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-11-07-photos-after-biden-declared-president-crowds-take-to-streets-in-nyc-washington-dc.md",
       "title": "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC",
       "excerpt": "",
@@ -419,6 +264,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-democrat-in-greenwich-ecstatic-kamala-harris-on-cusp-of-being-vp.md",
+      "title": "Democrat in Greenwich 'ecstatic' Kamala Harris on cusp of being VP",
+      "excerpt": "Joe Biden seemed poised on Friday to take Pennsylvania and, most likely, the presidency. The victory, if and when it comes, was applauded by local experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "originalUrl": "https://www.houstonchronicle.com/elections/article/The-writing-is-on-the-wall-Greenwich-and-15708337.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/11/41/20224098/13/rawImage.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T00:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -708,7 +605,7 @@
       "originalUrl": "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1337,6 +1234,114 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-greta-thunberg-mocks-donald-trump-with-his-own-words-in-twitter-revenge-chill-donald-chill.md",
+      "title": "Greta Thunberg mocks Donald Trump with his own words in Twitter revenge: 'Chill, Donald, Chill!'",
+      "excerpt": "Within four hours on her Twitter post, Thunberg's tweet had surpassed Trump's in both likes and retweets, and \"Greta\" was trending in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/05/greta-thunberg-mocks-donald-trump-twitter-his-own-words/6182026002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/03/25/USAT/507f08a0-4b8d-4dff-a61a-1757fbcabf31-AFP_AFP_1PO044.JPG?auto=webp&crop=5388,3031,x0,y284&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6182026002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182026002",
+      "publishedDateTime": "2020-11-05T17:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
+      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
+      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
+      "publishedDateTime": "2020-11-05T16:56:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

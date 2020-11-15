@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "PA court rejects Trump camp's effort to block 9,000 absentee ballots after Election Day"
+    excerpt: "A Pennsylvania court has rejected the Trump campaign's efforts to block more than 9,300 mail-in ballots that arrived after Election Day."
+    publishedDateTime: 2020-11-15T00:32:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4KaA7bVy10/pa-court-trump-campaign-9000-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-court-trump-campaign-9000-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-court-trump-campaign-9000-ballots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310005725772.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z
@@ -316,6 +332,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-258466/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Federal Judge Invalidates Trump Administration's DACA Rollback"
+    excerpt: "A federal judge in New York invalidated Trump administration rules narrowing the program that protects immigrants living in the U.S. since childhood without legal permission, ruling the restrictions were improperly issued."
+    publishedDateTime: 2020-11-15T00:34:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-invalidates-trump-administration-s-daca-rollback-11605400169"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-invalidates-trump-administration-s-daca-rollback-11605400169"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-invalidates-trump-administration-s-daca-rollback-11605400169"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260183/social"
         width: 1280
         height: 640
         isCached: true
