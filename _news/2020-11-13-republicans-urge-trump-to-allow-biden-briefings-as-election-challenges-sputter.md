@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump in tweet says Biden 'won' but reiterates false claim election was rigged"
+    excerpt: "President Donald Trump appeared on Sunday to publicly acknowledge for the first time that his Democratic rival Joe Biden won the Nov. 3 U.S. presidential election, but reiterated his false claims that the vote was rigged."
+    publishedDateTime: 2020-11-15T13:52:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN27V0EG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0EG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0EG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 151
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541259966&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
     excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
     publishedDateTime: 2020-11-05T13:33:00Z
@@ -767,6 +783,22 @@ related:
         width: 1020
         height: 510
         isCached: true
+  - title: "‘I concede NOTHING!’ Trump says shortly after appearing to acknowledge Biden won the election"
+    excerpt: "The president has refused to concede, and his administration is working actively to hinder the transition process."
+    publishedDateTime: 2020-11-15T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/15/i-concede-nothing-trump-says-shortly-after-appearing-acknowledge-biden-won-election/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/15/i-concede-nothing-trump-says-shortly-after-appearing-acknowledge-biden-won-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/15/i-concede-nothing-trump-says-shortly-after-appearing-acknowledge-biden-won-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 144
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZTCIJ3RGPYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump-Biden transition live updates: At least 20 arrested, 1 stabbed at DC protests"
     excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
     publishedDateTime: 2020-11-15T09:44:00Z
@@ -894,6 +926,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RCA4TYRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump still refusing to concede to Biden, inflaming supporters and delaying transition"
+    excerpt: "The transition to President-elect Joe Biden's administration remained in political limbo on Sunday, a day after tens of thousands of President Donald Trump's supporters poured into the nation's capital to echo his false claims of election fraud."
+    publishedDateTime: 2020-11-15T11:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 142
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
+        height: 545
         isCached: true
   - title: "Live Election Day coverage: Trump, Biden will both spend election night at home as results roll in"
     excerpt: "The polls are open. We have live updates of Election Day 2020 news from across the U.S. as the nation awaits the results of Trump vs Biden."
@@ -2047,6 +2095,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden won the 2020 presidential election with this coalition"
+    excerpt: "President-elect Joe Biden won his race by performing strongly in suburbs, building large margins among Black voters and chipping into Trump territory."
+    publishedDateTime: 2020-11-15T14:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-15/biden-coalition-election-victory"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-15/biden-coalition-election-victory?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-15/biden-coalition-election-victory?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cb79d56/2147483647/strip/true/crop/5070x3311+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F47%2F9c%2Ffffe40834878a77b659035205ca2%2Fap20306774062018.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Top CEOs met to plan response to Trump's election denial"
     excerpt: "Only a few of America's CEOs have made public statements about President Donald Trump's refusal to accept his election loss"
     publishedDateTime: 2020-11-15T00:54:00Z
@@ -3134,6 +3198,22 @@ related:
         width: 748
         height: 545
         isCached: true
+  - title: "Trump indirectly admits he lost the presidential election by tweeting Biden 'won because the election was rigged'"
+    excerpt: "The president had not previously admitted defeat to the president-elect, instead choosing to ignore the results of the election for over a week."
+    publishedDateTime: 2020-11-15T13:54:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-admits-loss-joe-biden-presidential-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-admits-loss-joe-biden-presidential-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-admits-loss-joe-biden-presidential-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -3304,22 +3384,6 @@ related:
       - url: "https://i.insider.com/5faeb8b71c741f0019ac9aa6?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump still refusing to concede to Biden, inflaming supporters and delaying transition"
-    excerpt: "The transition to President-elect Joe Biden's administration remained in political limbo on Sunday, a day after tens of thousands of President Donald Trump's supporters poured into the nation's capital to echo his false claims of election fraud."
-    publishedDateTime: 2020-11-15T06:31:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/trump-still-refusing-to-concede-to-biden-inflaming-supporters-and-delaying-transition-idUSKBN27V05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
-        width: 818
-        height: 545
         isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
@@ -5328,6 +5392,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541159842&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1N4"
         width: 787
         height: 545
+        isCached: true
+  - title: "Barack Obama speaks out on politics, the presidency, and Donald Trump"
+    excerpt: "In his first TV interview since Joe Biden's election, the former president sits down with \"CBS This Morning\" co-host Gayle King to discuss his memoir, \"A Promised Land\"; life in and after the White House;"
+    publishedDateTime: 2020-11-15T14:11:00Z
+    webUrl: "https://www.cbsnews.com/news/barack-obama-speaks-out-on-politics-the-presidency-and-donald-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/barack-obama-speaks-out-on-politics-the-presidency-and-donald-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/barack-obama-speaks-out-on-politics-the-presidency-and-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/98e5ef34-9763-40dd-9b9f-807f7392702f/thumbnail/1200x630/9f7d3ac1dd0dc5af5f2a9ea024f83437/barack-obama-b-1280.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Professor causes uproar asking Biden voters to unfriend him"
     excerpt: "A Facebook post by a dean at Virginia Wesleyan University in which he asked people who voted for Democrat Joe Biden to unfriend him has caused an uproar at the private liberal arts school in Virginia"
@@ -8343,14 +8423,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -8571,6 +8651,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 101
+  - title: "Barack Obama speaks out on politics, life in the White House, and Donald Trump"
+    excerpt: "In his first television interview since the election of Joe Biden as the 46th President, former President Barack Obama sits down with \"CBS This Morning\" co-host Gayle King to discuss the first volume of his memoirs,"
+    publishedDateTime: 2020-11-15T14:10:00Z
+    webUrl: "https://www.cbsnews.com/video/barack-obama-speaks-out-on-politics-life-in-the-white-house-and-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/dca2106c-3a63-49bc-b603-118fd7c56e21/thumbnail/1200x630g1/3279733527c0b15579dd370f5c9d5ad9/barackobamab1920-588435-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
     excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
     publishedDateTime: 2020-11-04T13:59:00Z

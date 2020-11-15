@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
-    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
-    publishedDateTime: 2020-11-11T02:24:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Durbin, Pressley, Leahy, Booker to Trump administration: Suspend federal executions during transition period"
     excerpt: "A group of congressional Democrats is urging the Trump administration to halt federal executions until the incoming administration of President-elect Joe Biden can \"evaluate and determine\" the future of the death penalty. "
     publishedDateTime: 2020-11-13T22:47:13Z

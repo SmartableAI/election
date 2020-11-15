@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
-    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
-    publishedDateTime: 2020-11-09T17:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
     excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
     publishedDateTime: 2020-11-09T21:54:25Z

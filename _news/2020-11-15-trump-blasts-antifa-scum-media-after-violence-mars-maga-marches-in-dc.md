@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
-    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
-    publishedDateTime: 2020-11-14T00:16:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+  - title: "Media takes heat for ignoring violent attacks on Trump supporters at MAGA rally"
+    excerpt: "Conservatives criticized members of the media for failing to cover violence against President Trump's supporters at the so-called Million MAGA March."
+    publishedDateTime: 2020-11-15T14:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVGfi1PuI9k/media-coverage-million-maga-march-trump-conservatives-violent-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
-    excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
-    publishedDateTime: 2020-11-14T16:22:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GfiyOhLQZb8/pro-trump-supporters-planning-million-maga-march-near-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Rally-DC-AP-6.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

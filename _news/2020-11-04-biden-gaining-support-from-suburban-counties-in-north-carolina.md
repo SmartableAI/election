@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden has a better shot at riding the economy up now than Obama did"
+    excerpt: "Like Barack Obama twelve years ago, Joe Biden will inherit an economic mess from an outgoing Republican president.\n    \n"
+    publishedDateTime: 2020-11-15T13:32:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yrLPeWl7kIM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/15/politics/biden-presidency-economy-recovery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/biden-presidency-economy-recovery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109110740-us-job-market-recovery-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tells supporters, 'We're on track to win'"
     excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""
     publishedDateTime: 2020-11-04T07:34:00Z

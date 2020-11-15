@@ -29,207 +29,255 @@ images:
     isCached: true
 
 related:
-  - title: "AOC sounds alarm over Latino turnout for Biden"
-    excerpt: "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening."
-    publishedDateTime: 2020-11-04T08:47:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
+  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
+    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
+    publishedDateTime: 2020-11-15T13:52:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 189
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "AOC asks Twitter followers for their 'dream cabinet' for Biden"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is taking suggestions as to who should be in the cabinet of the future Biden administration."
-    publishedDateTime: 2020-11-10T07:15:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIA2u1Q4Vrw/aoc-dream-cabinet-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-dream-cabinet-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-dream-cabinet-biden.amp"
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T20:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 188
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b007bf0-e4ce-4b61-8672-1fe9c812070d/76e85282-71ca-4e69-870b-03b2e26d0eee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AOC says Biden picking Rahm Emanuel for cabinet would be ‘divisive’"
-    excerpt: "Progressive Democrats and activists will be warily watching Joe Biden’s cabinet choices, US Rep. Alexandria-Ocasio Cortez said Monday — while publicly weighing in against former White House chief of staff Rahm Emanuel."
-    publishedDateTime: 2020-11-10T02:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NVuNTYbCqG8/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308808092420.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden team delays releasing readouts of calls with foreign leaders"
-    excerpt: "President-elect Joe Biden’s transition team has only been in action for a few days but is already sparking concerns about transparency with the way it is handling putting out details of calls to foreign leaders -- releasing them long after other governments have done so."
-    publishedDateTime: 2020-11-11T19:55:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TpfTq1_dqoo/biden-team-delays-releasing-readouts-calls-foreign-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Turner_Gillian.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Warren credits Biden win to ‘most progressive economic’ platform ever"
-    excerpt: "Joe Biden denied President Trump a second term in the White House last week in part because he ran on “the most progressive economic and racial justice platform” ever, a prominent Democrat wrote Wednesday."
-    publishedDateTime: 2020-11-12T06:10:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmFBOC-SLs0/warren-credits-biden-win-to-most-progressive-economic-platform-ever"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
+    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
+    publishedDateTime: 2020-11-09T17:13:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/gettyimages-warren.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "NASA chief says he does not plan to serve in Biden administration"
+    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
+    publishedDateTime: 2020-11-10T00:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
+    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
+    publishedDateTime: 2020-11-14T00:16:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Progressive groups push Biden to tap Warren, Sanders, Tlaib for Cabinet spots"
-    excerpt: "The President-elect may face a growing ideological split within the Democratic Party."
-    publishedDateTime: 2020-11-11T21:05:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcidXvazWg/progressive-groups-push-biden-cabinet-spots"
-    ampWebUrl: "https://www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
+  - title: "Clyburn claims Trump not conceding yet means 'this democracy is teetering'"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\""
+    publishedDateTime: 2020-11-08T16:02:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede"
+    ampWebUrl: "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
+    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
+    publishedDateTime: 2020-11-09T02:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61246049-bb06-4ffe-a863-6d8fc55fd19a/64b0c1c5-010e-4a16-87b7-5d7dc3b2d4fb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "How Sanders, AOC and 'The Squad' plan to make Biden the most liberal president ever"
-    excerpt: "Progressive Democrats like \"Squad\" member Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, D-Vt., are already gearing up to lobby a Biden-Harris administration for policies like the Green New Deal and Medicare for all."
-    publishedDateTime: 2020-11-10T11:25:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcDqqNBqmlc/biden-lobby-progressive-bernie-sanders-squad-aoc"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
+    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
+    publishedDateTime: 2020-11-11T19:27:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Squad-GETTY-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
-    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
-    publishedDateTime: 2020-10-30T00:04:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
+    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
+    publishedDateTime: 2020-11-08T23:45:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
-    excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
-    publishedDateTime: 2020-10-29T14:07:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3yXagjFAAQ/mcenany-biden-not-denied-family-business-venture-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
+  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
+    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
+    publishedDateTime: 2020-11-13T03:54:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden cabinet favorite vouched for domestic abuser's character -- then he murdered his ex-wife"
-    excerpt: "Democratic Ohio Rep. Marcia Fudge, a frontrunner for a position in President-elect Joe Biden's cabinet, vouched for a man accused of domestic abuse, who then went on to murder his ex-wife after he got out of prison. "
-    publishedDateTime: 2020-11-12T01:37:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-9esCLufXv8/joe-biden-cabinet-secretary-marcia-fudge-murder"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
+  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
+    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
+    publishedDateTime: 2020-11-09T17:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c15bac-b08b-4c27-ab09-f212508be9ca/4feba043-abda-40b4-a4c6-8931f9eb1eb8/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
+    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
+    publishedDateTime: 2020-11-10T23:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Vote for Joe Biden? Seriously?"
-    excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."
-    publishedDateTime: 2020-10-29T04:14:00Z
-    webUrl: "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854"
-    ampWebUrl: "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T21:09:00Z
+    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-251110/social"
+      - url: "https://images.wsj.net/im-259713/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-11-03T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
-    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
-    publishedDateTime: 2020-10-29T16:54:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 61
+    quality: 45
 
 secured: "X/+FXzX5MfNa3qeX6pCSxrT3is6r3+QwMUo5kUkg5nDmXFMhfv8XfSBj/1UbAE+ubmCLxRGm7lHz/Damw8Ft1xjoj71G3KpPVTOl6bwFzx0L92A3w9R8P/X43qoyHcfHGrV9mIQhbeK0OuZVkEU819Vpza2/PQ1yiL/U0joM/NX2d4Wv3c8Goah5J7m8y2vUkL0q+LORqFpn3oS6ilS4/9mxJ1YbyMLIsOwAmZXcohlZiARJYquElI+LCCNmT+4RFnu1K2S8sE4/uRSwRr/MQaboAavnnTmV8V7UYN9ekh1qACEUi8fJTsa1/9DgL56xq/byP2sGNBgfEKLQduAGL8mdcok7uppoJ5vmr4TcPsM=;jRxSrBEggO05+gir0EXdYw=="
 ---

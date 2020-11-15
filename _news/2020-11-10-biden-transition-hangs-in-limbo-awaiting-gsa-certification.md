@@ -31,197 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+  - title: "AOC sounds alarm over Latino turnout for Biden"
+    excerpt: "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening."
+    publishedDateTime: 2020-11-04T08:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Hill Dems jockeying for Biden Cabinet posts see hopes shrink after lackluster election results"
-    excerpt: "Congressional Democrats advocating for a spot in President-elect Joe Biden’s Cabinet saw their odds diminish last week after a disappointing showing for down-ballot candidates in the election.  "
-    publishedDateTime: 2020-11-12T15:20:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp"
+  - title: "AOC says Biden picking Rahm Emanuel for cabinet would be ‘divisive’"
+    excerpt: "Progressive Democrats and activists will be warily watching Joe Biden’s cabinet choices, US Rep. Alexandria-Ocasio Cortez said Monday — while publicly weighing in against former White House chief of staff Rahm Emanuel."
+    publishedDateTime: 2020-11-10T02:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NVuNTYbCqG8/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-picking-rahm-emanuel-for-cabinet-would-be-divisive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308808092420.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Cindy McCain joins Joe Biden transition team advisory board"
-    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
-    publishedDateTime: 2020-11-10T16:02:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+  - title: "Warren credits Biden win to ‘most progressive economic’ platform ever"
+    excerpt: "Joe Biden denied President Trump a second term in the White House last week in part because he ran on “the most progressive economic and racial justice platform” ever, a prominent Democrat wrote Wednesday."
+    publishedDateTime: 2020-11-12T06:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JmFBOC-SLs0/warren-credits-biden-win-to-most-progressive-economic-platform-ever"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-credits-biden-win-to-most-progressive-economic-platform-ever.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "NASA chief says he does not plan to serve in Biden administration"
-    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
-    publishedDateTime: 2020-11-10T00:06:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Romney refutes rumors he will serve in Biden administration"
-    excerpt: "Sen. Mitt Romney, R-Utah, denied he's been contacted by President-elect Joe Biden to serve in his incoming administration, despite speculation that Biden will attempt to reach across the aisle and choose a prominent Republican to serve in his Cabinet in the spirit of bipartisanship. "
-    publishedDateTime: 2020-11-11T21:31:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T3DzveQwWyo/romney-refutes-rumors-he-will-serve-in-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efc78f-3851-47fe-8b98-54e57206d4c1/f47a57b8-5ad9-4cfc-b30b-578e99b72491/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Who will Biden's Cabinet picks be? Here are some leading contenders"
-    excerpt: "With Inauguration Day on Jan. 20, President-elect Joe Biden has just over two months to chose a team that will help him steer the country and deal with the worst pandemic in a century and an economy deflated by the coronavirus."
-    publishedDateTime: 2020-11-11T11:57:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cf8kp4qVGwQ/biden-cabinet-picks-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
-    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
-    publishedDateTime: 2020-11-13T03:28:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Will Biden consider adding Republicans to his administration?"
-    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
-    publishedDateTime: 2020-11-13T23:37:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
-    excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
-    publishedDateTime: 2020-11-10T01:24:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epwnhudD93A/joe-biden-economic-lockdowns-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Is Biden open to appointing socialists to high administration positions?"
-    excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
-    publishedDateTime: 2020-11-13T10:00:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BitPTrwGFeU/biden-appointing-socialists-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden's inauguration during COVID-19: What the January event could look like"
-    excerpt: "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment."
-    publishedDateTime: 2020-11-07T20:40:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january"
-    ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/SS-Chap001_fig001_9780063011243.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/gettyimages-warren.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
-    excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
-    publishedDateTime: 2020-11-12T02:48:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxNaIm84qMs/us-china-relationship-challenge-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-china-relationship-challenge-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Romney is first GOP senator to congratulate Biden on winning presidential race"
     excerpt: "Utah Sen. Mitt Romney became the first GOP senator to congratulate Joe Biden on his win. "
@@ -239,214 +95,95 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
-    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
-    publishedDateTime: 2020-11-13T17:29:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden silent on lack of social distancing, possible 'super spreader' celebrations"
-    excerpt: "Democratic President-elect Joe Biden has not addressed concerns that some celebrations of his projected victory may contribute to the spread of coronavirus after his transition team declared Biden will always \"listen to science.\""
-    publishedDateTime: 2020-11-08T19:53:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lpDfsUnpz0/biden-celebrations-coronavirus-lack-of-social-distancing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-celebrations-coronavirus-lack-of-social-distancing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrations-coronavirus-lack-of-social-distancing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20782a6c-a3cd-4440-be3d-89910408bdca/c0cd0e3a-f7f4-4aeb-92e0-b68f52198646/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Michigan Gov. Whitmer congratulates Biden, pledges to beat 'common enemy' COVID-19"
-    excerpt: "“Now, with the election behind us, it is time for the American people to unite against our common enemy: COVID-19,” Whitmer said."
-    publishedDateTime: 2020-11-07T18:39:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbV_RtR7axU/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
+  - title: "How Sanders, AOC and 'The Squad' plan to make Biden the most liberal president ever"
+    excerpt: "Progressive Democrats like \"Squad\" member Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, D-Vt., are already gearing up to lobby a Biden-Harris administration for policies like the Green New Deal and Medicare for all."
+    publishedDateTime: 2020-11-10T11:25:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gcDqqNBqmlc/biden-lobby-progressive-bernie-sanders-squad-aoc"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lobby-progressive-bernie-sanders-squad-aoc.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bernie Sanders confirms interest in Labor Secretary job under Biden administration"
-    excerpt: "Sanders was routinely critical of Biden's policy record on the campaign trail, but ultimately endorsed him for president."
-    publishedDateTime: 2020-11-12T02:28:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RmU2xvYx31Y/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-confirms-interest-labor-secretary-job-under-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b76b2b0f-fcb9-48aa-b2b1-a51905a51954/44349009-d613-4890-9a79-b7cf9e14182a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
-    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
-    publishedDateTime: 2020-11-08T23:45:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Squad-GETTY-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York"
-    excerpt: "New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up."
-    publishedDateTime: 2020-11-09T03:08:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6rfbHRDKI8/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave"
-    ampWebUrl: "https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
+  - title: "If elected, Biden plans task force to reunite 545 children separated from parents at border"
+    excerpt: "Democratic nominee Joe Biden pledges that his campaign will create a task force to reunite 545 migrant children who were separated from their parents at the border if he is elected president. "
+    publishedDateTime: 2020-10-30T00:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L029DB7Jg1Y/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reportedly-to-create-task-force-to-reunite-545-children-separated-from-their-parents-at-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2997629b-2b98-4b64-9e18-914a71bf9f87/39f3d7bb-e234-49df-b1ce-c519ede703ac/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20841433-8cf5-42b2-bc68-6f0c39c9878d/c038f8ba-c56a-45ec-b60d-97c6353aae15/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
-    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
-    publishedDateTime: 2020-11-09T21:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+  - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
+    excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
+    publishedDateTime: 2020-10-29T14:07:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3yXagjFAAQ/mcenany-biden-not-denied-family-business-venture-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-not-denied-family-business-venture-allegations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
-    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
-    publishedDateTime: 2020-11-12T23:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1007850e-cc8b-4cc6-8339-50eda9a4041a/a8864c36-fcdf-4412-a2e3-2e6356478ae5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
-    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
-    publishedDateTime: 2020-11-13T19:38:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Battle brewing over Biden Cabinet picks, priorities, as far left and moderates launch opening salvos"
-    excerpt: "The brewing battle over Cabinet appointments and administration priorities will take shape as Joe Biden and his close advisers seek to placate the base while also putting together an administration that reflects the Biden campaign's tone of unity."
-    publishedDateTime: 2020-11-07T22:14:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WuoSFUvpp1o/biden-cabinet-picks-moderate-far-left-battle-74-days"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-moderate-far-left-battle-74-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-moderate-far-left-battle-74-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T21:09:00Z
-    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+  - title: "Vote for Joe Biden? Seriously?"
+    excerpt: "Biden is Bernie Sanders’s grim party in sheep's clothing."
+    publishedDateTime: 2020-10-29T04:14:00Z
+    webUrl: "https://www.wsj.com/articles/vote-for-joe-biden-seriously-11603926854"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vote-for-joe-biden-seriously-11603926854"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-259713/social"
+      - url: "https://images.wsj.net/im-251110/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
-    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
-    publishedDateTime: 2020-11-13T17:32:00Z
-    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
+  - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
+    excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."
+    publishedDateTime: 2020-10-29T16:54:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ups-found-tucker-carlsons-documents-relating-to-biden-that-vanished-in-system?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
 
 secured: "erqW8LjZLOBRp6ZBduAZBhfyIc0uCrk/5LPK0YK250K/WV5Bd25iCLRLD2gp52wrbImLWSONArPQi1Cb0Vb0y+DWEFojqIK098nTSv76HDqhD9cTjjcBdfmakanYgQLSik3gjA6QiWg0X+PSDOTH/KcXteSFKQ4EegFKaaROwJK2JIa4JO/zzZRgzQ+cHsfvWiGiDp+pGF7gJS35tATMN4vCaIkTDBGYdwIUt3i42Hw3HYG0IDgJtgNVaeaK5ZCfaGo9wzt2zG+MzLA14utfxxGfUnbN8xI6pqoOgQhBgtoRkZ9S6fCHLk5eghj4t8O36w1/ObyYi51l/1ja9bbIBdemYGuVBVO9LSodA2mOXEg=;7w3p2SOf61mkzLFivdyOGg=="
 ---

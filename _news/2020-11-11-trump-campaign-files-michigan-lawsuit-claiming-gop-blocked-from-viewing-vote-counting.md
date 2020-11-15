@@ -47,38 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
-    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
-    publishedDateTime: 2020-11-11T19:27:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
-    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
-    publishedDateTime: 2020-11-13T03:54:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
     excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
     publishedDateTime: 2020-11-06T19:03:58Z

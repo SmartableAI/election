@@ -95,6 +95,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
+    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
+    publishedDateTime: 2020-11-09T21:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yOMFdlaeE1E33QR94DtSZ1qgkCB7vk+ULW4ieIYo4axYlz8u5WCp2h+1iv7pmGw9gZvXi8R/7x2YWrQPTK+PDZpc3e2NTZsbDNkSsOYshkrHqvxxmYtnQ821ilRiys63MYeFeopGqemwJ2D6yNyEf4y2pmdWVFp0uO51z8WUdX9TuX2IwyNsXdMT3LI3LfBu7iIlHbpSa6MKhd6diAeQ4Qen4YJsR+y72l+Zs/obYbZCqPxjgAXQaakvTgjbSh+DtaC8ZU7t5tK4tY27UX20FtXCT+7NbdF354ed3Coh22XV2lnD6bNhdH9qNIyHje/3xblQ7dM/NLEGo1b2NsQb7sD9iJ5sKYb25BfRbHrNN0A=;9HxojtWsS/dtxK3+gO4PDQ=="
 ---

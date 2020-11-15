@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-god-bless-america-biden-pro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-god-bless-america-biden-projected-winner.amp"
 type: article
 quality: 175
-heat: 275
+heat: 235
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
-    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
-    publishedDateTime: 2020-11-10T21:58:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Ingraham: Biden 'ordering' Americans around with COVID mandates could 'backfire'"
     excerpt: "In her \"Ingraham Angle\" monologue on Monday, host Laura Ingraham responded to President-elect Joe Biden's call to unite the country by way of a potential national mask mandate -- as well as his announcement of a coronavirus response task force similar to the one President Trump has utilized."
     publishedDateTime: 2020-11-10T04:10:07Z
@@ -94,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
-    excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
-    publishedDateTime: 2020-11-07T18:20:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MO6PqlJ_eCU/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7fce3aa-0eeb-48d7-b2f8-85720c30bafc/d2b3158d-d70e-492c-ab7f-789f4116989e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "T4ufLe1bgNmPgj+c0o+8BKPTT1NdUY+2OjRJ7q8fhPhb0bod54Xbjj/dgJJklZ53MFYNZyKpm7ktOftrzYAXJfBe23vvvypaxBf/bHysGjVVVHMDCAs6ROW6o6C4vFP3lRx+MmFDuSB27r0duad2EvD1l9LOKAGNxZ3Q6TdvgBVvSG8Se1HryIPYpaS/J9WiOdd6lNyk/VAgNeJmt1H+CIelnzM5Nnk6szfts6AtzsmWSwyNWbqu8eLjrqTfFGXqVlrrE5CjW3p8sEz5OtvOC6sevaiGjo6EkjAYfBPc8Q8eSzXFk/p+Qzx/TDC4qtReiRY9R5UmnsceeZWHtDrQTuhAQ7TgnDEekIeN+Y5Q5w4=;9K3XyaF+vr0ATcio0HesSQ=="

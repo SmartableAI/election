@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Hill Dems jockeying for Biden Cabinet posts see hopes shrink after lackluster election results"
     excerpt: "Congressional Democrats advocating for a spot in President-elect Joe Biden’s Cabinet saw their odds diminish last week after a disappointing showing for down-ballot candidates in the election.  "
     publishedDateTime: 2020-11-12T15:20:21Z
@@ -63,53 +47,37 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden transition hangs in limbo, awaiting GSA certification"
-    excerpt: "The Biden transition is hanging in limbo, awaiting the General Services Administration’s certification, which will give President-elect Joe Biden and his team the power to make decisions about the future of the federal government-- but the incoming administration is \"moving forward\" anyway, urging the"
-    publishedDateTime: 2020-11-10T19:46:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNjrYfCb_hc/biden-transition-in-limbo-awaiting-gsa-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
+  - title: "AOC asks Twitter followers for their 'dream cabinet' for Biden"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is taking suggestions as to who should be in the cabinet of the future Biden administration."
+    publishedDateTime: 2020-11-10T07:15:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JIA2u1Q4Vrw/aoc-dream-cabinet-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-dream-cabinet-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-dream-cabinet-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cindy McCain joins Joe Biden transition team advisory board"
-    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
-    publishedDateTime: 2020-11-10T16:02:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "NASA chief says he does not plan to serve in Biden administration"
-    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
-    publishedDateTime: 2020-11-10T00:06:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b007bf0-e4ce-4b61-8672-1fe9c812070d/76e85282-71ca-4e69-870b-03b2e26d0eee/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden team delays releasing readouts of calls with foreign leaders"
+    excerpt: "President-elect Joe Biden’s transition team has only been in action for a few days but is already sparking concerns about transparency with the way it is handling putting out details of calls to foreign leaders -- releasing them long after other governments have done so."
+    publishedDateTime: 2020-11-11T19:55:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TpfTq1_dqoo/biden-team-delays-releasing-readouts-calls-foreign-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Turner_Gillian.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Romney refutes rumors he will serve in Biden administration"
     excerpt: "Sen. Mitt Romney, R-Utah, denied he's been contacted by President-elect Joe Biden to serve in his incoming administration, despite speculation that Biden will attempt to reach across the aisle and choose a prominent Republican to serve in his Cabinet in the spirit of bipartisanship. "
@@ -143,38 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
-    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
-    publishedDateTime: 2020-11-13T03:28:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Will Biden consider adding Republicans to his administration?"
-    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
-    publishedDateTime: 2020-11-13T23:37:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Is Biden open to appointing socialists to high administration positions?"
     excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
     publishedDateTime: 2020-11-13T10:00:07Z
@@ -191,21 +127,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden's inauguration during COVID-19: What the January event could look like"
-    excerpt: "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment."
-    publishedDateTime: 2020-11-07T20:40:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january"
-    ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
+  - title: "Progressive groups push Biden to tap Warren, Sanders, Tlaib for Cabinet spots"
+    excerpt: "The President-elect may face a growing ideological split within the Democratic Party."
+    publishedDateTime: 2020-11-11T21:05:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcidXvazWg/progressive-groups-push-biden-cabinet-spots"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-push-biden-cabinet-spots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/SS-Chap001_fig001_9780063011243.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61246049-bb06-4ffe-a863-6d8fc55fd19a/64b0c1c5-010e-4a16-87b7-5d7dc3b2d4fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "US-China relationship remains a challenge for Biden amid Hong Kong struggles"
     excerpt: "Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations."
@@ -220,22 +156,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Romney is first GOP senator to congratulate Biden on winning presidential race"
-    excerpt: "Utah Sen. Mitt Romney became the first GOP senator to congratulate Joe Biden on his win. "
-    publishedDateTime: 2020-11-07T21:05:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cuUxUFXF6h0/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race"
-    ampWebUrl: "https://www.foxnews.com/politics/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-is-first-gop-senator-to-congratulate-biden-on-winning-presidential-race.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88e0d269-4e91-494c-900e-19aeafdf304c/00f19cd3-db29-413f-82f6-4071fcca4347/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -271,21 +191,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Michigan Gov. Whitmer congratulates Biden, pledges to beat 'common enemy' COVID-19"
-    excerpt: "“Now, with the election behind us, it is time for the American people to unite against our common enemy: COVID-19,” Whitmer said."
-    publishedDateTime: 2020-11-07T18:39:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbV_RtR7axU/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
+  - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
+    excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
+    publishedDateTime: 2020-11-13T05:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Bernie Sanders confirms interest in Labor Secretary job under Biden administration"
     excerpt: "Sanders was routinely critical of Biden's policy record on the campaign trail, but ultimately endorsed him for president."
@@ -303,21 +223,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
-    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
-    publishedDateTime: 2020-11-08T23:45:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+  - title: "Mississippi lawmaker apologizes after calling for state to leave US over Biden win"
+    excerpt: "The prospect of a Joe Biden presidency was a deal breaker, one Republican state lawmaker in Mississippi appeared to say last week."
+    publishedDateTime: 2020-11-12T08:02:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qhBo0ep2WUo/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mississippi-lawmaker-apologizes-after-calling-for-state-to-leave-us-over-biden-win.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8419c359-d988-43d2-a50c-f30f8e478624/000564f8-cd7e-46c0-a921-27cb7fc5fc8c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Chicago mayor defends celebrating in the streets for Biden, then shutting down city"
+    excerpt: "Chicago Mayor Lori Lightfoot has come under fire for enforcing new stay-at-home orders just days after she was seen in a crowded street applauding the win of President-elect Joe Biden."
+    publishedDateTime: 2020-11-13T21:37:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBtIKgIOOCY/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city"
+    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eacc5f4d-eb22-4134-8c7e-3343a7501950/751d890a-3ea5-415e-8dd1-6d100419e22a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PHOTOS: After Biden declared president, crowds take to streets in NYC, Washington, DC"
+    excerpt: ""
+    publishedDateTime: 2020-11-07T18:51:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ZzzTp6WJ30/photos-election-reaction-crowds"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-election-reaction-crowds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-election-reaction-crowds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/918/516/Election-Crowds-New-York-DC-SS-5.jpg?ve=1&tl=1"
+        width: 918
+        height: 516
         isCached: true
   - title: "NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York"
     excerpt: "New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up."
@@ -335,51 +287,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "De Blasio dismisses coronavirus risks during Biden victory celebrations, contrary to CDC guidelines"
-    excerpt: "New York City Mayor Bill De Blasio on Monday appeared to brush off concerns that weekend celebrations over Joe Biden’s presidential victory could contribute to the further spread of the coronavirus."
-    publishedDateTime: 2020-11-09T21:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0P3NXwKIs/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines"
-    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-dismisses-coronavirus-risks-during-biden-victory-celebrations-contrary-to-cdc-guidelines.amp"
+  - title: "Pelosi celebrates 'dawning of a new day of hope' after Joe Biden projected to win presidency"
+    excerpt: "House Speaker Nancy Pelosi, D-Calif., released a statement following Joe Biden’s projected win of the presidency celebrating the “dawning of a new day of hope for America.” "
+    publishedDateTime: 2020-11-07T18:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MO6PqlJ_eCU/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-reacts-biden-election-victory-dawning-of-a-new-day-of-hope.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
-    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
-    publishedDateTime: 2020-11-12T23:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7fce3aa-0eeb-48d7-b2f8-85720c30bafc/d2b3158d-d70e-492c-ab7f-789f4116989e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
-    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
-    publishedDateTime: 2020-11-13T19:38:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+  - title: "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors"
+    excerpt: "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. "
+    publishedDateTime: 2020-11-12T23:05:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ngXipgv4QY/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8584a22-9b2b-40cf-ac7a-4bf9f5a394fe/111f8dad-4350-4347-b837-4e0d7316d4ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden cabinet favorite vouched for domestic abuser's character -- then he murdered his ex-wife"
+    excerpt: "Democratic Ohio Rep. Marcia Fudge, a frontrunner for a position in President-elect Joe Biden's cabinet, vouched for a man accused of domestic abuse, who then went on to murder his ex-wife after he got out of prison. "
+    publishedDateTime: 2020-11-12T01:37:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-9esCLufXv8/joe-biden-cabinet-secretary-marcia-fudge-murder"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-cabinet-secretary-marcia-fudge-murder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c15bac-b08b-4c27-ab09-f212508be9ca/4feba043-abda-40b4-a4c6-8931f9eb1eb8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -399,37 +351,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T21:09:00Z
-    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+  - title: "Chicago mayor defends appearing at large Biden celebration days before issuing Thanksgiving lockdown"
+    excerpt: "Chicago Mayor Lori Lightfoot on Friday defended her decision to implement a new round of lockdown orders days after she joined large crowds celebrating Joe Biden's election victory, saying that sometimes people need “relief” despite her recent calls to cancel traditional Thanksgiving plans."
+    publishedDateTime: 2020-11-13T17:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l03FIEyOSLs/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lori-lightfoot-chicago-thanksgiving-lockdown-biden-celebration-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 148
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+  - title: "De Blasio breaks social distancing, poses for Biden win selfies as thousands gather shoulder-to-shoulder"
+    excerpt: "In New York City, outspoken Trump critic Mayor Bill de Blasio shared selfies of himself and other New Yorkers, wearing masks but standing without social distancing with a crowd of people in the background."
+    publishedDateTime: 2020-11-08T03:13:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Y8Vy-3yZjg/de-blasio-social-distancing-selfies-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/de-blasio-social-distancing-selfies-coronavirus.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://images.wsj.net/im-259713/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313091963041.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
     excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
@@ -447,6 +399,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "It Would Be Madness for Biden to Return to Iran Nuclear Deal"
+    excerpt: "This week's news that Iran has amassed a huge stockpile of enriched uranium beyond the limits it agreed to makes it all the more absurd that President-elect Joe Biden wishes to return the United States to the disastrous Iran nuclear deal."
+    publishedDateTime: 2020-11-13T12:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/13/it_would_be_madness_for_biden_to_return_to_iran_nuclear_deal_529178.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "eUuduzHc3tNlNFyaPR39dMuiGo4LZOH+EPp9xgwidRd0iCetoNcyomjoGiuUtMeA96COoR5tQBNgBcotIMo9thbqkoNvZTutQQY5rkWS3lkYONLk65sOXHTzJD5Ar1dkdUz8r03wMgsAPiqbIWhidQEMAjgl3phulR4Ohd5NKGidFMFy3aQCjYpiXC4F8mqW4u+wY6T6G80RFqAUcEEeWgzWEyHeameQwth6tLIcmEA7fO9FNkMfjojBrxkNHm3BRk+yH+tOPUU44GzOKzDS2Hd3OS/lQP4uAGCU80S8JcoZaAgv5oC6zAAwrG/1q+I9WcwCqh99chxHLUeqUyuvOb4Pvr75b7fIweOfP/Xxbw8=;5o9BA3NsJeiqAnifFCEoDg=="
 ---

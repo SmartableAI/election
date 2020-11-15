@@ -31,37 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "If Trump loses, he will regret 'denigrating mail-in voting': York"
-    excerpt: "If President Trump loses the election to Joe Biden as current vote tallies indicate, he could regret warning against mail-in voting, Fox News contributor Byron York argued Friday."
-    publishedDateTime: 2020-11-06T16:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXbwsZjBN0s/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york"
-    ampWebUrl: "https://www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/if-trump-loses-he-will-regret-denigrating-mail-in-voting-york.amp"
+  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
+    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
+    publishedDateTime: 2020-11-15T13:52:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T20:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
+    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
+    publishedDateTime: 2020-11-09T17:13:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
-    excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
-    publishedDateTime: 2020-11-11T16:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp"
+  - title: "NASA chief says he does not plan to serve in Biden administration"
+    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
+    publishedDateTime: 2020-11-10T00:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
+    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
+    publishedDateTime: 2020-11-14T00:16:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Clyburn claims Trump not conceding yet means 'this democracy is teetering'"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\""
+    publishedDateTime: 2020-11-08T16:02:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede"
+    ampWebUrl: "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
+    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
+    publishedDateTime: 2020-11-09T02:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
+    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
+    publishedDateTime: 2020-11-08T23:45:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
     excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
@@ -79,54 +191,93 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
-    excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
-    publishedDateTime: 2020-11-06T19:03:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZvHPT2-nI5E/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
+  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
+    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
+    publishedDateTime: 2020-11-09T17:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
-    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
-    publishedDateTime: 2020-11-12T13:05:00Z
-    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
+    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
+    publishedDateTime: 2020-11-10T23:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House minority leader says he did not speak with Biden"
+    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-11-10T22:21:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
+        width: 1280
+        height: 675
+        isCached: true
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T21:09:00Z
+    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-258710/social"
+      - url: "https://images.wsj.net/im-259713/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Ice Cube lashes out at 'SNL' for implying he's voting for Trump out of 'greed'"
-    excerpt: "Ice Cube lashed out at “Saturday Night Live” for mocking him during its Halloween episode cold open about working with Donald Trump."
-    publishedDateTime: 2020-11-03T20:20:00Z
-    webUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce"
-    ampWebUrl: "https://www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ice-cube-snl-voting-trump-taxes-low-reduce.amp"
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ice-Cube1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "XArNMF/eEI+pQaGWzfnfbq0AjV4RTLIBUkDsF4xhDk9PeY6VgfbS1y8v5YOlrLe1Oln+BzuiZtLHbvGmz4TttEe81NwWXdjMCxLJ/nlbmV+8nEMiTjQB85qBV8j+mU1935jC8axOwEVtLjMjPT0wvqcUau/o/s1CXTLihbz1yARE2cZ3eOxmjpOh+4xu8uAXxJwdlPp276cPOfkrYTiRyVYPXfwmSQGKvznU73ykJD+FMjHY3mirCcFOoJiM8VxxvTzAskmKnCPKgwzniWQmTfJlGuxAx34qEhGKnQP/eO5PP+cna6fFyum/tCvkY/VXOdkefAcXCbbzeGvHgJ8407MV6Q48FdokNQBkkhvHoXE=;EkP92bYq0fZp10SVdKPuvw=="
 ---

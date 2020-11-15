@@ -191,22 +191,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
-    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
-    publishedDateTime: 2020-11-10T23:29:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Top two pro-Trump super PACs make final $20 million ad push"
     excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
     publishedDateTime: 2020-10-30T23:11:39Z

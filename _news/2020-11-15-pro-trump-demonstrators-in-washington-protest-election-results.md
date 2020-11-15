@@ -272,6 +272,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘He Won,’ Trump Tweets in a Post About the Election"
+    excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"
+    publishedDateTime: 2020-11-15T14:55:00Z
+    webUrl: "https://www.wsj.com/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    ampWebUrl: "https://www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-260247/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Family Business Faces Post-Election Reckoning"
     excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
     publishedDateTime: 2020-11-15T12:30:00Z

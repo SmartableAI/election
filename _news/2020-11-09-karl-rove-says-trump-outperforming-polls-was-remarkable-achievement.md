@@ -31,148 +31,253 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Rick Scott says Hispanics will help Trump win Florida"
-    excerpt: "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday."
-    publishedDateTime: 2020-11-02T19:16:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
+  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
+    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
+    publishedDateTime: 2020-11-15T13:52:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 189
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T20:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump rally in Florida lasts until nearly 1AM despite area curfew"
-    excerpt: "President Donald Trump held a late-night rally in Florida on Sunday night, which appeared to last until about 1 a.m., despite a midnight curfew in place for the area."
-    publishedDateTime: 2020-11-02T09:25:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wd1Mdg41Lqg/florida-trump-rally-goes-past-midnight-despite-curfew"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
+  - title: "NASA chief says he does not plan to serve in Biden administration"
+    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
+    publishedDateTime: 2020-11-10T00:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307224661221.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
+    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
+    publishedDateTime: 2020-11-14T00:16:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
+    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
+    publishedDateTime: 2020-11-10T21:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump campaign claims historic GOP turnout in Florida"
-    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
-    publishedDateTime: 2020-11-03T23:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+  - title: "Clyburn claims Trump not conceding yet means 'this democracy is teetering'"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\""
+    publishedDateTime: 2020-11-08T16:02:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede"
+    ampWebUrl: "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
-    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
-    publishedDateTime: 2020-11-04T18:47:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
+  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
+    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
+    publishedDateTime: 2020-11-09T02:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
+    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
+    publishedDateTime: 2020-11-11T19:27:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
-    excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
-    publishedDateTime: 2020-11-09T21:54:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jbXG97U6KZ0/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
+  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
+    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
+    publishedDateTime: 2020-11-08T23:45:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
-    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
-    publishedDateTime: 2020-11-04T07:06:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
+    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
+    publishedDateTime: 2020-11-13T03:54:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
+    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
+    publishedDateTime: 2020-11-09T17:17:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's support from Black, Hispanic voters grows from 2016"
-    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
-    publishedDateTime: 2020-11-05T18:28:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
+  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
+    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
+    publishedDateTime: 2020-11-10T23:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House minority leader says he did not speak with Biden"
+    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-11-10T22:21:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
         width: 1280
-        height: 720
+        height: 675
         isCached: true
-  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
-    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
-    publishedDateTime: 2020-11-03T20:23:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+  - title: "Pope Francis congratulates Biden on election win during phone conversation"
+    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
+    publishedDateTime: 2020-11-12T21:09:00Z
+    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
+    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-259713/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "LMo5iOWXTc91JnaSQHftFwxXzND10KOj7EIYqlihL/1bf/Q33lGD+G1IlNhKsRoSQMSM/2W4vOXMsxvDUtvXMphA7ounMnFe7FrhGcYMIImrKefp3ar+HvLntPO5A5pP18pif7EXGBD1Y1MOO75a6pt1nbn4j7jD6SxO3KqPF7tNgxfkFuor0vfIo98jdnWatL47MO4j01Fva8P9VtUZfaGJgh/e6Y/erHjP015ZbJdMa5Pfs35D83ZpdBOVh0lpk+T1jwPDDQZ7RdPnz2GFAOJ1uQ/t4pgrZNi2VEUOVsfZ+e2Cw8r/S6Dj4H9PcIhfwLd13HSeReC2bOR5+LO7g6eoTmOC+ZNJgJXtrsXHv0o=;pQdlSgJiC1lfqxnHiAzaGA=="
 ---

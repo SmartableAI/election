@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
-    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
-    publishedDateTime: 2020-11-14T00:16:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump blasts 'ANTIFA SCUM,' media after violence mars MAGA marches in DC"
-    excerpt: "President Trump lashed out against \"ANTIFA SCUM\" and the media Saturday night as violence continued in Washington, D.C., where pro-Trump supporters gathered for the “Million MAGA March.”"
-    publishedDateTime: 2020-11-15T00:09:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5lgNX0kQSc/violence-maga-march-dc-antifa-blm-counterprotesters"
-    ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+  - title: "Obama, in new interview clip, says GOP on 'dangerous path' in 'going along with' Trump election claims"
+    excerpt: "In a \"60 Minutes\" interview set to air Sunday, former President Barack Obama said Republicans who are backing President Trump's fraud claims and refusal to concede the election are on \"a dangerous path,\" as pressure mounts on him to concede to President-elect Joe Biden. "
+    publishedDateTime: 2020-11-13T13:51:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sMW8Ovzig8Y/obama-60-minutes-gop-dangerous-path-trump-election-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-60-minutes-gop-dangerous-path-trump-election-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-60-minutes-gop-dangerous-path-trump-election-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/counterprotester-burns-trump-flag.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "dM4qcVj2tsIXI3szVdvWvqt8T4qxF830meOeO5c5U69fD9LkwHxTK4tVJag3B9xj/0x3mrf+Ib+tSFGz+QQ8x6lD/niheVtTiXMPVVa9xXR5CF++nzX1ELM1phl4g84okSiRGplWc83bOS0RaFbj+riganDeTf4M4AuxIC2jMbwpFCnm0/xtOyPy6xMGFDM1y+FRm8T63HJmHQoTGyMdkDgr+ukO8+zK3a5rH4iI1lg3gaJaPI0NvUycxDITMciEmRZoyQAfGvHtC7c+cKxAqRp+ehROyvjkbIEuhwARjtDtzrgZi3/yJUem39adMpugctcv2AIR44PQpshwA8sMI+nNyCGPdUTwog0e2yBkqIM=;QQ8FqWJCiUAw3hu1mcpwcA=="
