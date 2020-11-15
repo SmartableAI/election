@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pro-Trump groups gather in Washington to protest election"
+    excerpt: "CNN's Sara Sidner reports from Washington, DC, where pro-Trump groups have converged to protest the results of the election.\n    \n"
+    publishedDateTime: 2020-11-14T18:09:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxBrxxP6fkw/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/14/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/14/pro-trump-groups-gather-in-washington-to-protest-election-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114124716-pro-trump-groups-gather-in-washington-to-protest-election-vpx-00045628-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ivanka Trump, Jared Kushner threaten to sue over billboard"
     excerpt: "Ivanka Trump and Jared Kushner are threatening to sue The Lincoln Project over billboards the organization erected in New York City's Times Square. CNN's Brianna Keilar and Alexandra Field report.\n    \n"
     publishedDateTime: 2020-10-26T21:42:53Z

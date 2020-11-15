@@ -3365,6 +3365,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A week after loss, Trump supporters march in Washington to support false election claims"
+    excerpt: "Thousands of President Donald Trump's supporters marched through downtown Washington on Saturday to back his unsubstantiated claims of election fraud as he pushes ahead with long-shot legal challenges to overturn President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-15T01:50:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27U08Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27U08Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U08Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541236724&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE02B"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Fact check: Dominion voting machines didn't delete votes from Trump, switch them to Biden"
     excerpt: "Some news sources claimed vote counting software from Dominion Voting Systems deleted votes for Trump or switched votes to Biden. That's false."
     publishedDateTime: 2020-11-14T16:52:00Z
@@ -3580,6 +3596,22 @@ related:
     quality: 130
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/06/01/USAT/195abe67-14bf-4792-8ec0-a292567ea8d6-AFP_AFP_1RL4N1.JPG?auto=webp&crop=4499,2531,x1,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Election unlikely to be decided in the House, even if Trump refuses to concede"
+    excerpt: "Even if the election results were contested and Trump doesn't concede, experts have agreed that it is unlikely for Trump to win the election this way."
+    publishedDateTime: 2020-11-15T02:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/14/fact-check-house-unlikely-decide-election-even-minus-concession/6285881002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6285881002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6285881002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/02/USAT/1834bba6-46d4-4a74-b509-1c4d3061c36c-AP_Electoral_College-Mississippi.JPG?auto=webp&crop=5075,2855,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -5135,19 +5167,19 @@ related:
         isCached: true
   - title: "Biden faces tough choice of whether to back virus lockdowns"
     excerpt: "President-elect Joe Biden’s advisers are already signaling that a nationwide lockdown is not under consideration for combating the coronavirus pandemic"
-    publishedDateTime: 2020-11-14T05:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-faces-tough-choice-of-whether-to-back-virus-lockdowns/2020/11/14/df2a8e4a-263c-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    publishedDateTime: 2020-11-14T05:58:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-faces-tough-choice-back-virus-lockdowns-74205091"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_9335e7537a0941dda8ff8453dcde4f85_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden gives boost to retiring senator's climate change plan"
     excerpt: "A plan championed by retiring Democratic Sen. Tom Udall of New Mexico to harness the nation’s lands and ocean waters to fight climate change is getting a boost from Joe Biden"
@@ -5292,6 +5324,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b152d0c552fa4d13a0d400b630aea9b5_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Thousands rally behind Trump, insisting he won race he lost"
+    excerpt: "Fury at the prospect of a transfer of executive power showed no signs of abating, taking a cue the president’s unrelenting assertion of victory in a race he actually lost. A broad coalition of top government and industry officials has declared that the Nov."
+    publishedDateTime: 2020-11-15T00:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/thousands-rally-behind-trump-insisting-he-won-race-he-lost/2020/11/14/31a67af2-26d9-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump thrills protesting supporters with motorcade drive-by"
     excerpt: "President Donald Trump has delighted supporters gathered near the White House with a slow motorcade drive-by through downtown Washington on the way to his Virginia golf club"
@@ -6634,6 +6682,20 @@ related:
       - url: "https://i.insider.com/5fb0310a402d49001924f000?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump supporters rally in Washington to dispute election results"
+    excerpt: "Thousands of Trump supporters gathered in the nation's capital Saturday to protest the election results. Like the president, the attendees alleged without evidence that the election was stolen due to widespread voter fraud."
+    publishedDateTime: 2020-11-15T02:18:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-supporters-rally-in-washington-to-dispute-election-results/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/1b56d20a-2853-4e83-bc8f-ce4232dff77c/thumbnail/1200x630/9c6f4e5cc1172b418a282cc8f7b8ea70/cbsn-fusion-trump-supporters-rally-in-washington-to-dispute-election-results-thumbnail-588263-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
@@ -8464,8 +8526,8 @@ related:
         isCached: true
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
-    publishedDateTime: 2020-11-14T18:35:00Z
-    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR3uwJnz4rx9ZJya1Vh03kolVQNbCkGdbF2ffCpqQFTEQt_uDRNDKC39zd4page%2F5page%2F2page%2F24page%2F24page%2F3page%2F4page%2F11page/2"
+    publishedDateTime: 2020-11-15T02:28:00Z
+    webUrl: "https://time.com/magazine/south-pacific/?fbclid=IwAR0OhWIplKoGzoYXNqWUj8_sDm_Umxelq-r4h4QC6ylD_v6uDiDsBmbCao4page%2F24page%2F5page%2F6page%2F6page/2"
     type: article
     provider:
       name: Time
@@ -8475,6 +8537,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/11/trump-concede-biden-01.jpg?quality=85&w=550"
         width: 550
         height: 367
+        isCached: true
+  - title: "Tens of thousands rally in DC to support outgoing President Trump; arrests made as protesters clash with counter-protesters"
+    excerpt: "Thousands of people gathered in support of outgoing President Donald Trump in Washington, D.C., on Saturday to protest supposed \"voter fraud\"."
+    publishedDateTime: 2020-11-15T02:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/14/trump-rally-washington-dc-million-maga-march-updates/6283411002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6283411002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6283411002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/1a076786-2b84-4d5b-8161-a52cf64520b2-USP_News__Million_MAGA_March_Demonstration_1.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Stephen Colbert broke down in tears and called Trump a fascist after the president's conspiracy-laden rant at the White House"
     excerpt: "\"I didn't expect this to break my heart,\" Colbert said, before demanding that Republicans speak up against Trump's unprecedented behavior."

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris in Detroit on Election Day to rally support: 'Have faith in the American people'"
-    excerpt: "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit."
-    publishedDateTime: 2020-11-06T23:15:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6129769002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6129769002"
+  - title: "Kamala Harris, set to first South Asian American VP, sends out wishes for happy Diwali"
+    excerpt: "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness."
+    publishedDateTime: 2020-11-14T23:58:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 78
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "What Kamala Harris’ historic win means to Indian Americans"
     excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
