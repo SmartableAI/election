@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, the Absolute Worst Loser"
+    excerpt: "They are all too afraid to tell the loser that he lost. And, if Trump declares soon that he will run again in 2024, as some have speculated, it will further cow other 2024 contenders. Any suggestion that they would run would put them immediately in a fight with the man who just received a record number of Republican votes."
+    publishedDateTime: 2020-11-16T00:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/15/opinion/15Blow/15Blow-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "How the Suburbs Moved Away From Trump"
     excerpt: "Suburban counties across the country turned away from President Trump in this election. That includes suburbs in the Midwest and the Sun Belt, in inner-ring counties and those farther out, in predominantly white communities and more diverse ones."
     publishedDateTime: 2020-11-06T18:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
+    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
+    publishedDateTime: 2020-11-16T01:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

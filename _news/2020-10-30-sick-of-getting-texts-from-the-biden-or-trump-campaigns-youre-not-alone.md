@@ -928,22 +928,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Biden battle for the Midwest as virus surges"
-    excerpt: "(CNN)Former Vice President Joe Biden and President Donald Trump moved their battle to the critical region of the Midwest on the final Friday before the election, crossing paths in Wisconsin and ..."
-    publishedDateTime: 2020-10-30T08:01:00Z
-    webUrl: "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "2020 Election Live Updates: Trump to Travel to 3 States as Biden Focuses on Pennsylvania"
     excerpt: "President Trump and Joe Biden prepare for their closing arguments in the final stretch, taking them to some of the country’s top battlegrounds. An order allowing multiple drop boxes per county in Texas is upheld."
     publishedDateTime: 2020-10-24T14:46:00Z
@@ -1119,6 +1103,22 @@ related:
       - url: "https://static.politico.com/da/0c/28bd820a4e40a63f5f8c06ff5a3f/20201028-christopher-wray-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump and Biden battle for the Midwest as virus surges"
+    excerpt: "(CNN)Former Vice President Joe Biden and President Donald Trump moved their battle to the critical region of the Midwest on the final Friday before the election, crossing paths in Wisconsin and ..."
+    publishedDateTime: 2020-10-30T08:01:00Z
+    webUrl: "https://edition.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump and Biden Converge in Florida, an Elusive Prize Still Up for Grabs"
     excerpt: "The presidential rivals both appeared in Tampa, confronting their vulnerabilities and courting a range of voters, a clear sign that both see their political fortunes tied to the state."

@@ -2,6 +2,105 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
+      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
+      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "publishedDateTime": "2020-11-03T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-says-us-is-most-difficult-country-to-deal-with-reflecting-on-battles-with-pelosi-schiff.md",
+      "title": "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff",
+      "excerpt": "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec03f86-02b3-4b65-89ad-e4aff3f20e30/d731488c-0cb8-4a01-89ae-e4fefa2ac3a5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-us-most-difficult-country.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-us-most-difficult-country.amp",
+      "publishedDateTime": "2020-11-03T06:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-washington-post-birx-disputes-trump-in-calling-for-much-more-aggressive-action-to-combat-pandemic.md",
       "title": "Washington Post: Birx disputes Trump in calling for 'much more aggressive action' to combat pandemic",
       "excerpt": "Dr. Deborah Birx sounded an alarming note about the state of the coronavirus in an internal White House report, saying the US is entering its \"most deadly phase\" yet, one that requires \"much more aggressive action,\" according to The Washington Post.\n    \n",
@@ -1249,114 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-donald-trump-threatens-to-fire-anthony-fauci-after-us-election.md",
-      "title": "Donald Trump threatens to fire Anthony Fauci after US election",
-      "excerpt": "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 500,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "publishedDateTime": "2020-11-01T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-herschel-walker-tells-james-clyburn-he-took-trump-out-of-context-with-latest-criticism.md",
-      "title": "Herschel Walker tells James Clyburn he took Trump out of context with latest criticism",
-      "excerpt": "Former NFL star Herschel Walker pushed back on House Majority Whip James Clyburn, D-S.C., on Sunday after the latter said that President Trump called a Black woman a dog.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a449154-1c52-4b5f-b68d-3448968888f8/b900a9eb-b048-4194-baef-a3e0d6db74e7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
-      "publishedDateTime": "2020-11-01T19:42:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

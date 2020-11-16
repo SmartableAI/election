@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump Suggests He Will Fire Dr. Fauci After the Election"
+    excerpt: "(OPA-LOCKA, Fla.) — President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens ..."
+    publishedDateTime: 2020-11-01T00:00:00Z
+    webUrl: "https://time.com/5906362/trump-fire-fauci-covid-19/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/trump-fire-fauci.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "'Unfair' Donald Trump can't complain: Imagine if another candidate acted like he does"
     excerpt: "Have voters finally reached their limit and are prepared to bring down the curtain on the Trump show? Tune in."
     publishedDateTime: 2020-11-02T20:07:00Z

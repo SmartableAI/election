@@ -1070,6 +1070,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump’s chances hinge on a polling screw-up way worse than 2016"
+    excerpt: "President Donald Trump still has a path to a second term. But it would take a polling debacle that would make 2016 look like a banner year. According to a series of battleground state polls ..."
+    publishedDateTime: 2020-11-01T16:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/30/trump-chances-polling-433657"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/30/trump-chances-polling-433657"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/30/trump-chances-polling-433657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/70/81/d88b43364c9ebd2a0d1f061afb18/gettyimages-1229349105-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump won in Oklahoma."
     excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T01:39:00Z
@@ -1117,6 +1133,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump makes baseless claims about pandemic in final stretch as Covid cases rise"
+    excerpt: "(CNN)With less than three days to go in a campaign that's been dominated by the pandemic, President Donald Trump is still making baseless statements about the pandemic, including the politically ..."
+    publishedDateTime: 2020-10-31T20:01:00Z
+    webUrl: "https://edition.cnn.com/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Wisconsin GOP says hackers stole $2.3M from Trump reelection fund"
     excerpt: "Hackers stole $2.3 million from the Wisconsin Republican Party's account that was being used to help reelect President Donald Trump in the key battleground state, the party's chairman told The Associated Press on Thursday."

@@ -2,6 +2,114 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-04-twitter-flags-trump-tweets-complaining-of-ballot-dumps.md",
+      "title": "Twitter flags Trump tweets complaining of 'ballot dumps'",
+      "excerpt": "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "publishedDateTime": "2020-11-04T08:32:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-totals-from-milwaukee-kenosha-and-green-bay-push-biden-to-a-20000-vote-lead-in-wisconsin.md",
+      "title": "Totals from Milwaukee, Kenosha and Green Bay push Biden to a 20,000 vote lead in Wisconsin",
+      "excerpt": "Trump did worse in much of Milwaukee and Madison than he did four years ago, but did a little better in much of northern and central Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/31/PMJS/0e752870-0d26-4580-9909-c7f3251023cd-biden_trump_friday.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6123344002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6123344002",
+      "publishedDateTime": "2020-11-04T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-media-and-polls-hyper-judgmental-of-trump-supporters-candace-owens.md",
       "title": "Media and polls 'hyper-judgmental' of Trump supporters: Candace Owens",
       "excerpt": "Conservative activist Candace Owens slammed the media and pollsters for once again failing to accurately predict the presidential election.",
@@ -122,7 +230,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1230,105 +1338,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
-      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
-      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "publishedDateTime": "2020-11-03T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBR",
-        "domain": "cbr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-says-us-is-most-difficult-country-to-deal-with-reflecting-on-battles-with-pelosi-schiff.md",
-      "title": "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff",
-      "excerpt": "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec03f86-02b3-4b65-89ad-e4aff3f20e30/d731488c-0cb8-4a01-89ae-e4fefa2ac3a5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-us-most-difficult-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-us-most-difficult-country.amp",
-      "publishedDateTime": "2020-11-03T06:45:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

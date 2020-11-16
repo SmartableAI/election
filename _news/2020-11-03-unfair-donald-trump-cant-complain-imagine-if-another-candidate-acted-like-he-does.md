@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump Suggests He Will Fire Dr. Fauci After the Election"
+    excerpt: "(OPA-LOCKA, Fla.) — President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens ..."
+    publishedDateTime: 2020-11-01T00:00:00Z
+    webUrl: "https://time.com/5906362/trump-fire-fauci-covid-19/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/trump-fire-fauci.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "Justice Department can't represent President Trump in E. Jean Carroll defamation case, judge rules"
     excerpt: "E. Jean Carroll accused Trump of rape. He denied it. She sued him for defamation. Then the Justice Department got involved."
     publishedDateTime: 2020-10-28T02:08:00Z

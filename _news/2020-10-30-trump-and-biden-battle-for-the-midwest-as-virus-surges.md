@@ -3,12 +3,12 @@ category: news
 title: "Trump and Biden battle for the Midwest as virus surges"
 excerpt: "(CNN)Former Vice President Joe Biden and President Donald Trump moved their battle to the critical region of the Midwest on the final Friday before the election, crossing paths in Wisconsin and ..."
 publishedDateTime: 2020-10-30T08:01:00Z
-originalUrl: "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
-webUrl: "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+originalUrl: "https://edition.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+webUrl: "https://edition.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
 type: article
-quality: 160
+quality: 150
 heat: -1
 published: false
 
@@ -24,7 +24,6 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
-  - Joe Biden
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
@@ -1957,6 +1956,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "wEYCLzxgcGD+fH6FcKhZNWa0JxvuNBqRTHhL8Aa7xdBbKETZZJOivIin/Jgr640jy4pHBkYWzpQcr+Iu2LrOq7E3foLDlF+crNPUag66jBBABvA0QXRrURzNDEKiW7RTq+e99F7s8oFHdJjLFN3PlBoOxYfsK2LoU24uXpEaN0GUjjuQ3KORm70DffcVY5Wl3/loFQqMvNDdkwoBq4SMHoUbFu/3mtt1I3Rp2DSqhN2urdWMVXWVuLeW7XnsPNi4UQz0FFIHkJj2D18/A28MYtBg4DaMXv4njgUGT4Ra9HH51/LYPoajyVIXK9QdATDCrJRTUQ8+sgJio4SPQpVkdi/T/qxAbJK2P9MBuHFina8=;6ZQtVPuPioeiGKuJWfofag=="
+secured: "nTUV9cqI7U/nI3+jEZoB5SxZTuMUD9MW3SEdC5nAr2mIrx14MOom9Y2sPrerFNn6ZP/jqyQa9Sowkhsv4aMPPigoZhYI1SwSRsxHh+2g5dPHVQvg3k/1lKvDCXrAkfJ/LHN+pgL5neU/d2LIIOWYf/v+isxwwERapHzpoQ4d1+Mivz2XObPMvhCXMb/zmdTAbn6lXg4fa0Z5PQOJDmvusUWWLz9bybxa+RElCwOrieBaYPbewWwVDLhlFBXCWRP4QR25PO78HuyLdSzmyNR7aMb+VDIvz81KwnlLKWCVqSvu1MOAw08ASQJyR4tz2MxqyJ1gKgAfEmnkVJtN2rfAvfVzaT9vkqL3jdsc+9znNsw=;qDf05RPZ7mylA0DhJ/k+oQ=="
 ---
 

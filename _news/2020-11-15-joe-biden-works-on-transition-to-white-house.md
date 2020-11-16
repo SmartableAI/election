@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden works on transition to White House"
 excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-11-14T18:06:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
-webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+originalUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -300,6 +300,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-trump-04-ap-jef-201101_1604267207507_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Donald Trump says Joe Biden 'won' election; but also says he won't concede"
+    excerpt: "Trump acknowledged for the first time that Biden won the presidential race, even as he repeated false claims that Democrats \"rigged\" the balloting"
+    publishedDateTime: 2020-11-15T16:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/15/donald-trump-says-joe-biden-won-election-but-no-concession/6302589002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6302589002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6302589002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 153
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/5ef664d9-20fb-4e4e-be16-0c91448feb47-Trump_motorcade.jpg?auto=webp&crop=3233,1819,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden to launch COVID-19 task force, Trump plans rallies to protest election"
     excerpt: "President-elect Joe Biden will convene a coronavirus task force on Monday to examine the No. 1 problem confronting him when he takes office in January, while President Donald Trump pursues several long-shot gambits to hold on to his job."
@@ -5711,6 +5727,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "President Donald Trump shouldn't be able to pardon himself"
+    excerpt: "Today, in the aftermath of his electoral defeat, we are confronted with the possibility President Donald Trump might pardon himself. No other president, not even Richard Nixon, ha"
+    publishedDateTime: 2020-11-15T18:15:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/15/presidential-pardon-donald-trump-not-good-idea-column/6269871002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6269871002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6269871002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/4025d1ce-ab82-4e7b-a4f5-1b05c8738ec1-XXX_FORD_122606_11.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -7495,6 +7527,20 @@ related:
     quality: 116
     images:
       - url: "https://i.insider.com/5fb154bd1c741f0019ac9df7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden's election could give Elon Musk the carbon tax he's wanted for years"
+    excerpt: "A Biden administration should put the green economy back in play for the US — and with it, the possibility of a tax on emissions."
+    publishedDateTime: 2020-11-16T02:19:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-might-get-a-carbon-tax-from-president-biden-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -10465,6 +10511,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9P14SWfqq/GnFTlRmvr+CAITXW5oMDkUZy46vVz566vNFgx3jyjuCM7kIIUoF2r9WCtcAYUpeVaSkGg+Oh0kxvb3Kg87m7xCMMpo8qj5lNPzOG3asSvCcgt+IARNda2GLMDivbag8jMTqqWsMzGKLi9j3AX4/5bgew5V1b4lIRa/8evli/DtL4mKlHEIPhc1yaQXzRgtFMb4t8bk++cHfdZOe9Dz+lMz71Fxeh1P3vEW3dqhipcxbWZSpftBbtb5Q5lpXV6AzHltuf8Wjqa9nieCx+jBwqksYE2vvcENeU/HwfJRyBliGEPI5nooF4jOnCXVJVmUpgXvAP/xtUSV7A0PB3AACMcg4B/0Wk+C/SXcD4Q89SZJXnLcMI4tYp+bazPtjWyZovNF/zF35C3OdUwO9Mvbbbbm2HIjEjmEkl1RobbjK/jwzsnr+5J7ARcHz/IGr39AC2j7nw+zWWgydpIDPbQtOROcRXF2wazMWFcabie3z5u9M4KIckNj3JoU9hR7vuttLSvg9P2aC5BgbQ==;R0TlD+z2FDlkAWwRxys0XA=="
+secured: "XxX9bK8ilunOOtQZgX7DxbSGsCMzTA31HctkcxuwGD8LkPpCZLts/6r9KJPcrKf6DehKul33svMyO9XEhIrmiaULw7rdaypOafvDgJ5TerjofJiufxoZ33d0D1kirQ/Vdi6tMF8x4C/iPT9TI+nQVMr8JWJWueHlVJgsOJulVBpLOfQ+YlYPNd97FN1TvF7Rd5zMXi62qu0KfJV3svt9sW7LVYCnRGt/PyNUq4NrML25pLEsug00oauqcs2n43HsWM3sR1SkYlxvxWwQ76+cUjCl5PqaBGbY+Vnpevh7WYpLIUWBVs3wGDyucd5vNN4AythvvmCGLGYD6fOxGhI5YFAXR29heG/fkkM5LJj8B3w=;RLr06FI3j19GdtoTbcetsA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trum
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "House Democrats will keep some of their Trump investigations and court fights active once the lame-duck president leaves the White House"
-    excerpt: "House Democrats plan to continue their high-profile investigations into President Donald Trump even after he leaves the White House. It's still unclear how each probe will look come next year when the new Congress gets sworn in,"
-    publishedDateTime: 2020-11-09T20:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-financial-probes-to-continue-in-democrat-led-house-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5fa999ac1df1d50018219a83?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "DzxEygZ0X6u5mevPOF97GoU6FrfqEPIXzscttw36v24Kma1AZnfKqgUnvJuqq2gfBB+mQl8wT8uUgXcohvujljJwPFYDAazzhCcK+9e9L364ryoqmNYNXSktlRpjJ2m899LqaZbbEaiWMTfBrYJaYsmREFeXKYuuyi1Km1aRNPDjlb7aralnUbp3bXQqXq8IkW0eTFZqAQRc1ruYncDD2ZHK5GYf1sOIQyz0Gfwhy7AvsasUJybgs75ON9PFjhqDKyflp7BScgUXlVYIJaVettSkdBiudgtB71GOfdQ9jJESiWtZAvXz6agPWT7UX0e/d3U8OkCU0K2IoD7NbL3opFMa+puvHwVPkm1zUX8s/dpj+JFVhRjeXmc+E0vlNPU6DTkORc0CuHRQkuiBntz5g3R6uNEMd1ABOjYmAa9RNRP4oeFFMgnVT6WsihjLaw5mMzS9Xa9P4JmML51orYUV4iy6YJgUK/nw0+U+KONtWvYU77COaOnBfI+q6odXsq6DGdfo4MXkIj5iNDwIt/7akA==;05sod2eWnOFd7Dh+4orJ5g=="
 ---

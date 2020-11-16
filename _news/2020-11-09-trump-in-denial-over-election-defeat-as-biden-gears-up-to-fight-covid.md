@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5325
+heat: 5365
 published: true
 
 provider:
@@ -1500,6 +1500,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP lawmaker: Trump refusal to concede could create long-term damage"
+    excerpt: "Illinois Republican Rep. Adam Kinzinger tells CNN's Wolf Blitzer that President Donald Trump's refusal to begin the transition process to the incoming Biden administration could have lasting effects on the US.\n    \n"
+    publishedDateTime: 2020-11-16T02:06:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d602hKh3tdo/adam-kinzinger-trump-refusal-to-concede-gop-bts-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/16/adam-kinzinger-trump-refusal-to-concede-gop-bts-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/16/adam-kinzinger-trump-refusal-to-concede-gop-bts-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201115205437-rep-adam-kinzinger-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -3075,6 +3091,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113080842-jared-kushner-ivanka-trump-pennsylvania-0922-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump says he's sending in his lawyers as soon as the election ends to review swing state votes"
+    excerpt: "President Donald Trump said Sunday that he's sending in his lawyers as soon as the election ends Tuesday, his latest attack on the legitimacy of this week's unprecedented vote count. After landing ..."
+    publishedDateTime: 2020-11-02T00:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-begins-rally-blitz-playing-hits-lamenting-cold-n1245691"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245691"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245691"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3424902/201101-Trumprally1-kf-737p_c1915577b0de0356f31eb921990d93ed.JPG"
+        width: 7529
+        height: 5022
         isCached: true
   - title: "Deceptively Edited Video of Biden Proliferates on Social Media"
     excerpt: "Tech companies had a haphazard response to the post, which was shared on the feeds of President Trump and other conservative figures."

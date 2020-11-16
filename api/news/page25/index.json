@@ -2,6 +2,105 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-10-16-biden-blames-trumps-liberate-michigan-tweet-for-plot-to-kidnap-michigan-governor.md",
+      "title": "Biden blames Trump's 'liberate Michigan' tweet for plot to kidnap Michigan governor",
+      "excerpt": "Joe Biden said President Donald Trump bears blame for the alleged domestic terrorist plot to kidnap Michigan Gov. Gretchen Whitmer, pointing in a speech Friday to Trump's calls on Twitter to \"liberate Michigan\" in the wake of the Democratic governor's coronavirus-related restrictions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html",
+      "publishedDateTime": "2020-10-16T15:53:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo.md",
+      "title": "Barbra Streisand shades Donald Trump at event for Gov. Andrew Cuomo",
+      "excerpt": "Barbra Streisand got back to her New York roots while introducing Gov. Andrew Cuomo at a virtual event for his new book, “American Crisis: Leadership Lessons from the COVID-19 Pandemic,” on Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "originalUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pagesix.com/wp-content/uploads/sites/3/2020/10/barbra-streisand-donald-trump-andrew-cuomo.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "cdnAmpWebUrl": "https://pagesix-com.cdn.ampproject.org/c/s/pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/",
+      "publishedDateTime": "2020-10-16T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Page Six",
+        "domain": "pagesix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-joe-bidens-animal-crossing-island-was-definitely-made-by-a-pro-gamer.md",
       "title": "Joe Biden’s ‘Animal Crossing’ island was definitely made by a pro gamer",
       "excerpt": "Whoever worked on Joe Biden’s “Animal Crossing” island is a real professional. That was probably the most surprising takeaway from the surreal 2020 presidential campaign promotion, which debuted Friday afternoon on KindaFunnyGames,",
@@ -1172,114 +1271,6 @@
         "name": "The Daytona Beach News-Journal",
         "domain": "news-journalonline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
-      "title": "Savannah Guthrie grills Trump at NBC's town hall",
-      "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
-      "publishedDateTime": "2020-10-15T20:07:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump.md",
-      "title": "The Justice Department lets itself be used to bully critics of Donald and Melania Trump",
-      "excerpt": "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-15T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -190,6 +190,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, the Absolute Worst Loser"
+    excerpt: "They are all too afraid to tell the loser that he lost. And, if Trump declares soon that he will run again in 2024, as some have speculated, it will further cow other 2024 contenders. Any suggestion that they would run would put them immediately in a fight with the man who just received a record number of Republican votes."
+    publishedDateTime: 2020-11-16T00:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/opinion/trump-2020-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/15/opinion/15Blow/15Blow-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "96xQ7bPfOU/S3Ww3yrCc+8LQH2CjIVS3cDxxsIp04MsL8LRmn4XPGFCMUHWqizO8XkTXjKorMeKoMYjGIdFA6cOcRHAZpwLWG0Hd/ay2A7I6Gzd0Wc7IduzScuUW9qb0bUAvcdote/QI07SkflxMkRvDhB5pB30nKNNHAGXHbvlA/qmBSRksurKeM6GLCgIRNmw1MXSnAmtiObN9ObwdGcgzD3Ih5Cc/4mlxe0vhFFODgA623opz5CusgQa+JfSac0GRyyUJI0l4nj/0uV8TK7y35YooEOBltXPOwFIM22tVaBG+GirikztCeKhsEKyJSgf9XkXDOg9MhqgHWrLRvJil4yepi97Ws9vunE+8HQY=;PvHeapy5KLXvZYjqM7Jt5w=="
 ---
