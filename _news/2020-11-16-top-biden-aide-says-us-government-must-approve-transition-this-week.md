@@ -2,13 +2,13 @@
 category: news
 title: "Top Biden aide says U.S. government must approve transition this week"
 excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-publishedDateTime: 2020-11-15T20:54:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
+publishedDateTime: 2020-11-15T19:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
+webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
+    width: 849
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -2280,6 +2286,38 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541260971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BS"
         width: 771
         height: 545
+        isCached: true
+  - title: "Trump campaign abandons parts of Pennsylvania election lawsuit"
+    excerpt: "U.S. President Donald Trump's campaign on Sunday dropped a major part of a lawsuit it brought seeking to halt Pennsylvania from certifying its results in the presidential election, narrowing the case to a small number of ballots."
+    publishedDateTime: 2020-11-16T07:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-pennsylvania-idAFKBN27W07P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27W07P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27W07P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541299487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF047"
+        width: 759
+        height: 545
+        isCached: true
+  - title: "Trump claims he won the election; Twitter flags the tweet"
+    excerpt: "The tweet came at the very end of a day in which Trump worked to rescind an apparent acknowledgement that Biden had won."
+    publishedDateTime: 2020-11-16T07:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-claims-he-won-election-twitter-flags-tweet/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-won-election-twitter-flags-tweet/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-won-election-twitter-flags-tweet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/13/ec2e4457-992b-426c-8f7c-bd97a307b430/thumbnail/1200x630/738bd34dff635a1f56ed4c521709e8e7/trump.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump seems to acknowledge Biden win, but he won't concede"
     excerpt: "President Donald Trump appears to have acknowledged for the first time that Joe Biden won the White House election"
@@ -5777,6 +5815,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-thrills-protesting-supporters-with-motorcade-drive-by/2020/11/14/b925a5b2-26a1-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "After Trump, will the presidency recede a bit for Americans?"
+    excerpt: "Even people who like him feel that way, I think.” Now, as another administration prepares to take the reins of American power, have the Trump years forever changed the place that the presidency occupies in American life and Americans’ lives?"
+    publishedDateTime: 2020-11-16T08:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/after-trump-will-the-presidency-recede-a-bit-for-americans/2020/11/16/5e7db720-27e2-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/after-trump-will-the-presidency-recede-a-bit-for-americans/2020/11/16/5e7db720-27e2-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/after-trump-will-the-presidency-recede-a-bit-for-americans/2020/11/16/5e7db720-27e2-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -10604,6 +10658,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pFuQyaBgSGYsfnyZ7GFm2yHQp9EAvObw7FujYzMSxxmZeerQV098MPb7AQygQDUZtsWnyzzTjdl5Cx7mzfksaIAGbUZfA1iD+TDkmKMTgb1FvX9hquHVNKca8bWSKDeG92vMnU2/5adC7hi7bGI99eX73uKJbctdY/aUpE18gQ6iStX7lR5zc5bgu1PDT6e2LxMye85cTKSkZeoSVUarPVSHxh9YRjI54N7TOKNsrW+QZBKEw10banlQL3KQ/hr1ErohvAhXC3SldynddBkk95so1yIBs4RDN7yOe0W+WoPW1r6Tidf/YobJGl695CVncyLUPPk4A7/qzcvWt8lMGHOnMwX/SHJPA3MUlQBWYos=;/zRRYja8tJkL6kPI7mbKNw=="
+secured: "BEb3oerJyp2NEaUmmCnRcmcrrAYYnoHZCSqs4Jwh3sfT33jdV7OP62FEnne/th2edCSXtTQu+fpF7NFn89drrTsbEiJAZmhpCN6bKWnmkL/BV72DQUjTo2pz0zHHhjQYVWfoGLlJRXbYJrIx8rkodxRpXz1aOWlfLd+i7UhHLVkJ4nJZEUTZscOYqMQ0Ayhtec2sKFprH75zK+B2WvTsafiUz6FKYp4HIOfe1hpZ2/pcFWWM1p50uoEv+Gl6jcZ4DC5lVdKkrqfXfcsMx2ditnwN6Hu3UaBTETgL/HbRx3Ry0qozlq/xj9e7XCy/VS9NU75net1xeGzAXnmiJ3ZF9yGtP/nLH9MpgiAhRldDus8=;iG//XzPIUDqOpK3resgV1Q=="
 ---
 
