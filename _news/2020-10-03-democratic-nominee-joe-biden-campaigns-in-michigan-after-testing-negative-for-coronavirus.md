@@ -127,22 +127,6 @@ related:
         width: 2965
         height: 1977
         isCached: true
-  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
-    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Mike Pence's Top Aide Tested Positive For The Coronavirus And Pence Will Keep Campaigning"
     excerpt: "The vice president tested negative on Saturday, his office said. By Matt Berman and Kadia Goba Last updated on October 24, 2020, at 11:52 p.m. ET Posted on October 24, 2020, at 11:16 p.m. ET Vice President Mike Pence walks on stage at a campaign event in Michigan on October 22."
     publishedDateTime: 2020-10-25T10:43:00Z

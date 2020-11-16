@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 1077
+heat: 1097
 published: true
 
 provider:
@@ -621,6 +621,22 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Joe Biden speaks about the economy as the virus surges and vaccine hopes rise."
+    excerpt: "Biden Jr. addressed the slowing American economic recovery on Monday, amid the crosswinds of rising coronavirus deaths and soaring optimism over a vaccine. His speech comes at a perilous moment for the recovery from the pandemic recession."
+    publishedDateTime: 2020-11-16T19:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/business/16markets-brf-biden2/merlin_180108033_2dd4beda-c70d-42ea-9e07-179ef37099f9-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis"
-    excerpt: "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”"
-    publishedDateTime: 2020-11-10T20:45:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
+  - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
+    excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
+    publishedDateTime: 2020-11-15T20:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 118
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "FCWIjPq8FMpvWjW7owo/UhWauHy4oAl1kYZP8gZ5Ow1/3EvqoXXoCZkTPeOOdK2ES/Hsw6OkLQXOE2N2GAnMAWSTLxDIOis+tTjsRTVXTn7XoG+fqNDVi8u5AmKizYdCBeLlA5IwqGxCtP4rkTDmJq1x8XSjr6YFPO1LzjXUU25H9RkHu4+sLH2cdZNQjVVmXC1rhfSW2r+X43PR4KqXIsRKR3B9tcvsFaw/jB2tzggik2DGDMcAFpPpemKQInkZg79wxyBUYHBktt+b34yCU7Ok7iZEFZsylhRNRLRA5FQ+EmkhIlKIPPkRSJHTRrrsOLKFahPhGT0o6blNvNesXIpE5357Cn8qzK0N/1G8FrY=;EjC/Zfs33f5PoZYcnPUaHg=="

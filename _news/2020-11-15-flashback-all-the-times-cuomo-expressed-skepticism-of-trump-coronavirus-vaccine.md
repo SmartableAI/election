@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "'Trump vaccine'-trashing Cuomo snubbed Azar, skipped 17 White House meetings"
-    excerpt: "New York Gov. Andrew Cuomo has skipped more than a dozen White House meetings."
-    publishedDateTime: 2020-11-12T17:03:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp"
+  - title: "Trump supporters march past New York homes of Cuomo, Clintons"
+    excerpt: "Carrying signs that read \"Cuomo sucks,\" \"Expose the corruption,\" and \"Dead people don't vote!\", the supporters of President Trump made a scene in New York state protesting by the homes of his chief liberal rivals: New York Gov. Andrew Cuomo and former Secretary of State Hillary Clinton."
+    publishedDateTime: 2020-11-16T22:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbc3a34-e906-4c30-a8c2-d1beb6a03f9e/9ec6b368-4889-404c-bf5a-e3c01a768c45/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
+    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
+    publishedDateTime: 2020-11-14T20:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
     excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
@@ -62,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
+    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
+    publishedDateTime: 2020-11-16T01:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "I3kMFEqJ5G/8BHnvywzwfAoEf2aAII3EMWeR9Hi3jLkqqINqoQoadZvsIDoonSnrSpXqbcXVwbOI0gIUVneyznnHUZ7vBzq1ZuC1kwBJJcr56PtV9lGJwG2/ouHRujzNeLscLyde7xx7JTUzxngxZg7ii48NCM0RNd1UMO87RKq2tW1Nc2jEigTcvYG73P3u6WC4MSVLcd2YWAOe2XEDjYXn32ZFgMIoihS/ZEQbjo/qHsOhHZeA3+IXH5IIX409t+abMSz7rUaimgn4vdqQXy0AbeQuuadIkDQvsLhoDFMhu90jKNl3XoK3WTWb3+VTEBYK+xk4PeB1hpQfbclF5MgO2D6JbdAdU/G/Mv8FBv0=;QrtYCo7CbjryNlLRjhqyOg=="

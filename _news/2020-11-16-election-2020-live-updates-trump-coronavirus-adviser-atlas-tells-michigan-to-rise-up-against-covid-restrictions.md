@@ -8,9 +8,9 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/elect
 ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
 type: article
-quality: 118
-heat: -1
-published: false
+quality: 128
+heat: 348
+published: true
 
 provider:
   name: USA Today
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
@@ -47,53 +48,163 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
+  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
+    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
+    publishedDateTime: 2020-11-09T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
+        width: 818
         height: 545
         isCached: true
-  - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
-    excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
-    publishedDateTime: 2020-11-15T20:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
+    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
+    publishedDateTime: 2020-11-14T20:08:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
+        width: 1200
+        height: 690
         isCached: true
-  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
-    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
-    publishedDateTime: 2020-11-16T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
+    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
+    publishedDateTime: 2020-11-14T10:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
+    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
+    publishedDateTime: 2020-11-09T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
+    excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
+    publishedDateTime: 2020-11-09T14:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/donald-trump-rallies-spread-covid-19-stanford-study/6103779002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6103779002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6103779002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/PDTF/09dd4367-9c40-4198-bdbe-3f832d561107-AP_Pictures_of_the_Week_in_N.jpg?auto=webp&crop=2369,1333,x0,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
+    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
+    publishedDateTime: 2020-11-15T11:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "VUSQDjKAiOPUEsH8KTgDNhca2D6+nPXsErEFcx/NGLmMrJFQ8fNlPce2IVemjXmwcn49jZ2RvmRilW9YYpS36zYawhZh52I7zD2d+HBX7k1uAvmpUYYN9vZURqZz5Hzdu7I3zyjwRyF0LSwuvVT/CGnUeMxsZFYdpKCEtmJQuSlS2Ax9iUFQfA9c9xw/GhPC5SZM5HhyCRM9x/nwSY6hWDkc88uhT8D7nnd7fAvTk7nEk1Vph/H3hiqJCgbwuEV1r66zLVxp+DfTRYt7GcH55hEAwVXozQ3sPp5rKL2QSe8uDpxZEcZXxKhIk7WMdKSgLCUY70PGICopf8ruk1mYjIj8guDFWRiraKy3cqYUJsg=;pFp4/JFi3BFM1M8RXHKDfQ=="

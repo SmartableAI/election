@@ -31,69 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
-    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
-    publishedDateTime: 2020-11-12T04:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
-    type: article
-    provider:
-      name: The Clarion-Ledger
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
-    excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
-    publishedDateTime: 2020-11-15T20:51:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
-    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
-    publishedDateTime: 2020-11-16T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+  - title: "Michigan secretary of state calls Trump lawsuit 'frivolous'"
+    excerpt: "Michigan's secretary of state said on Wednesday that a lawsuit by U.S. President Donald Trump seeking to halt counting of votes was \"frivolous.\""
+    publishedDateTime: 2020-11-05T02:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-michigan-lawsuit-idUSKBN27L065"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L065"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L065"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540057550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA403F"
+        width: 846
+        height: 545
+        isCached: true
+  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
+    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
+    publishedDateTime: 2020-11-06T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
         width: 817
         height: 545
         isCached: true
-  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
-    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
-    publishedDateTime: 2020-11-16T12:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
+  - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
+    excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."
+    publishedDateTime: 2020-11-05T00:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tries-to-stop-vote-count-in-michigan-pennsylvania-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fa307d869331a0011bc752d?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "EE6TKd4gwUx6Jejy0OL8k9QfP+IGhy6XiXsohMNk3dwMFld1891gV6FUbTsB8PHSJ/NrinEZ2D9w6zCJLwSNATCRHYSeGXDyIkHdB17l07pen966QSrVQAvZQ8lnFIocV4s1kieGsY/Zu+jXuQsT5L5ESB7jbk//icN67nY+GMQaMOPOaYtF+Vug/3OH48UeOXhpJ7dISYdWGxPJ3ZzSjx6IVeyNeI1ruDspA05KmYZNRa/FXIi3BQrsW/fZrvCUfvrYhMDPFui+lGgO3m724GqMezk3gNROrcGhDgZgnnQLQIx9vR7SsEdI91AflOsetyb4pFO8HHEI5KcYYzQ+FtpGuYNwB4oOc7bgcoDHoEU=;TRdLSMcR9sVBYa7chq2+WA=="

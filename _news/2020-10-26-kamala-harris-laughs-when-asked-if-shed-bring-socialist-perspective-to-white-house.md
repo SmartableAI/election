@@ -348,6 +348,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Full Replay: Joe Biden And Kamala Harris Press Conference, Remarks On The Economy"
+    excerpt: "President-elect Joe Biden outlined his plan for building the American economy \"back better\" during a speech Monday in Delaware. \"It's time to reward work, not just wealth in America. We're going to have a fair tax structure that makes sure the wealthiest among us and corporations pay their fair share,"
+    publishedDateTime: 2020-11-16T21:27:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/527269.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
     excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."
     publishedDateTime: 2020-10-19T21:47:00Z

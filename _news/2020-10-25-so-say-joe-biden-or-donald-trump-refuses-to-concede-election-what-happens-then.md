@@ -6069,6 +6069,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Wisconsin presidential recount would cost Trump $7.9 million"
+    excerpt: "President Donald Trump will have to pay $7.9 million if he wants a statewide recount of unofficial results showing him losing to Democratic Joe Biden by about 20,500 votes"
+    publishedDateTime: 2020-11-16T21:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-presidential-recount-would-cost-trump-79-million/2020/11/16/01cccb2a-284f-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-presidential-recount-would-cost-trump-79-million/2020/11/16/01cccb2a-284f-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-presidential-recount-would-cost-trump-79-million/2020/11/16/01cccb2a-284f-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -7665,6 +7681,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540776317&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA923Y"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden says 'more people may die' if Trump continues to delay the transition and there's no coordination on COVID-19"
+    excerpt: "COVID-19 has led to nearly 247,000 confirmed deaths in the US so far, per Johns Hopkins University, more than any other country in the world."
+    publishedDateTime: 2020-11-16T21:24:00Z
+    webUrl: "https://www.businessinsider.com/biden-more-people-may-die-trump-continues-to-delay-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-more-people-may-die-trump-continues-to-delay-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-more-people-may-die-trump-continues-to-delay-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
@@ -9637,6 +9669,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/1a076786-2b84-4d5b-8161-a52cf64520b2-USP_News__Million_MAGA_March_Demonstration_1.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President-Elect Biden Urges Trump to Aid Transition, Citing National Security and COVID-19 Vaccine Distribution Challenges"
+    excerpt: "President-elect Joe Biden on Monday warned of dire consequences if President Donald Trump and his administration continue to refuse to coordinate with his transition team on the coronavirus pandemic and block briefings on national security,"
+    publishedDateTime: 2020-11-16T22:52:00Z
+    webUrl: "https://time.com/5912523/biden-urges-trump-transition-vaccine-covid-19/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 94
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20321759184676.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
     excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."

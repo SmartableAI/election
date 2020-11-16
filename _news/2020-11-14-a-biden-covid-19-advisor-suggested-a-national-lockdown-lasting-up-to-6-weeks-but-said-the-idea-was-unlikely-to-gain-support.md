@@ -79,6 +79,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-16T22:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
     publishedDateTime: 2020-11-04T02:05:00Z

@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Maxine Waters promises to retighten banking rules eased under Trump"
-    excerpt: "House Financial Services Chair Maxine Waters said Thursday she plans to retighten financial regulations that were loosened under President Trump's administration, but House Democrats could have an uphill battle as their majority slips in the chamber."
-    publishedDateTime: 2020-11-13T00:54:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5VZU7sLllg0/maxine-waters-vows-to-undo-trump-banking-rules"
-    ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
+  - title: "Trump supporters march past New York homes of Cuomo, Clintons"
+    excerpt: "Carrying signs that read \"Cuomo sucks,\" \"Expose the corruption,\" and \"Dead people don't vote!\", the supporters of President Trump made a scene in New York state protesting by the homes of his chief liberal rivals: New York Gov. Andrew Cuomo and former Secretary of State Hillary Clinton."
+    publishedDateTime: 2020-11-16T22:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
+    excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
+    publishedDateTime: 2020-11-13T22:42:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZtJjpUBiWE/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "FLASHBACK: All the times Cuomo expressed skepticism of Trump coronavirus vaccine"
+    excerpt: "New York Gov. Andrew Cuomo has repeatedly questioned President Trump’s political motives regarding a coronavirus vaccine and its credibility under his leadership."
+    publishedDateTime: 2020-11-15T20:20:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A2exSWSdfGU/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
+    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
+    publishedDateTime: 2020-11-16T01:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "prujkDqt5BqlTJk/mkICs9MViYFTzbCo7zcimheeGnkZlqdYAbzJeYrhsSO+GyjwPzoR+I5z7U6z20tkMDZjWc95cIfrLJAxTfnCXWYP4gPL+rtHK34wxyW4E1yiUDxu+eyGa7rSG5h8aWIHhaHjTBc7iBlM0RoYyPke666Xmb8BGvpRjFiO8NPhct4slZn/3vx03UjBURwubAO6OWiKTmsqt25pBc5Eg0pJD+9W/DPpt27UKf95eVDNGN29xg1J8CGgE0jpH3IYZMJh5FJtyhDa2/Xk1HK9CNkcg8lamSb1nZvyp/ItFaGJ+ttCjKhrsf60uKQW4CBy/YPziFrFhWLJh9qXEqUvquPCqtOCQY0=;rLOpIbmT684h6DwN6zMz8w=="

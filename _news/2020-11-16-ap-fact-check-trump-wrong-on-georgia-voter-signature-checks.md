@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: Washington Post
@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
-    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
-    publishedDateTime: 2020-11-12T04:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
-    type: article
-    provider:
-      name: The Clarion-Ledger
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
-    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
-    publishedDateTime: 2020-11-05T03:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
-        width: 641
-        height: 545
-        isCached: true
-  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
-    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
-    publishedDateTime: 2020-11-16T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
-    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
-    publishedDateTime: 2020-11-16T12:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
+  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
+    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
 
 secured: "ZqVwt96eVUR7ZmxjByOkOf1TqF9AwVpJZIlhylvjhCGiwWMy5+TFPe8uXYqMhM2ZQxOnWg6MT9t/Jy8vFWMfCxjtyBMREhFvX9IOT7UW5JD1lYADuwgZTYfkey4FOJoSXoOsQvtQ/AImh+qdjuCgmh+j0b6+3HNRYJiuFuXIjdswONasV+KsBH6/If9IL/8s9JfKnvD5IoWYOSXGKx9w5TN6Yvj5/8e67yLtEmnilld7W5SkzVdOJIrIfm3iDEqoH6+KsEHyhOjAOXcqKFwl9Ga3pkIHQKrYOlkDERAn7RSbl8Pj7e1JzO/95bUUc1uqmlN6O+j+1m7DjntzqdMl618c33h7Fh1B6EpXRBMATrY=;0bbUm5olAWfXKc/X93bIFg=="

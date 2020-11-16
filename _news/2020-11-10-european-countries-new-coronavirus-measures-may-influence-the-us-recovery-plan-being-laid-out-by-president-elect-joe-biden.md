@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "l8Fbyni77aH6tWjR6IXiQ9wKxfHGDKcP6uopewaDIvSFiJgPUba+LTeJcwja+ry4wkbZMiD9v8Q0P/jHH/WP1mW+ihjgH7TOStXLl1UFWOm4lvTikoOqNAqbsCb02TvB3Fejltn98rvsIqcoQlYVPEk+5Nx8lzGm5HRH4LHj3x55FfD+SeJPkj0xdHWXC+2XJpoYujJia9xy5C9fzTtYIWPBr71lH3KkqZUSW9S0Ql8mMNpvCRYTpJ94Yk9tBIrtXG3DenWh+cjLTPR4AVvM+QGYruy43Hv0WVflWUe4p+FUCdr7qves7oYI+sauH1PwAqmmGd3UUqL+3zmKOILrOcXuSeKGQLD909VjIu3MGDfhJRg2WCaUjlT+3fQ+8n2SizxoEm0qMA+QLwNVHuahshiCrVck+XpF3lAPJ6+RujwNAgA77EF/sh6wqFoKwqAuBmjd0kF2l3+zZfFZJ4wlkBKwW9jh1fX8nz/WldmV39rAUNFz5tbcdatdRJ72pNtm4fnugDV/Jcn3EzxRT2KwzA==;/CuBcF3CD4Z2Vr+k+BEJ4A=="
 ---

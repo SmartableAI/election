@@ -200,6 +200,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Wisconsin recount would cost Trump campaign about $7.9 million, state officials say"
+    excerpt: "The Wisconsin Elections Commission said on Monday that a statewide vote recount would cost an estimated $7.9 million, money that President Donald Trump's campaign would have to pay in advance should it request one."
+    publishedDateTime: 2020-11-16T22:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN27W2W7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541418792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1MH"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Trump campaign has requested a recount in Wisconsin. Here's how that would happen."
     excerpt: "Because the state's counties have not certified their vote totals, Mr. Trump cannot yet ask for a recount. But if Mr. Trump does eventually request one, here's how it would work: When the polls close on Election Day and all the ballots have been fed into the voting equipment,"
     publishedDateTime: 2020-11-05T12:43:00Z

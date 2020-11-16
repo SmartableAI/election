@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-ba
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
-    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
-    publishedDateTime: 2020-11-14T20:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "THCVUFy5mki7vqxBHQA1rluUGk5atQW8Esc1v2EVAhAFsbzIWNu2VG+coIH5x9BrLffiRdDGYjPF7n9Gp7YVwR7iQxygpaIHrilaWEihj25uLHuRRNx1on4CvjtqPfczcd5rSZRXJBeWbqgWmDyhTgN4ecYjGaTnPmsY0e1tMj/qKpqbdHrXaWJWKj7YUd0ZTYUKA5For2NbC1Qj0aC3UpyO558q5kmiP7I4rGkwkDGzuwDnHVwjzi100/L828sGbQbFvvEo+g9E8EFqQPpEMmPnZ84BCxCABHbxRMSzoO328/myRhtABiFePOr+gvdzGtCBE55uBwDqZ3/xqpIKl5EDUmmb/GtBGZzvzm71DJs=;rCVoPLM5rYTG+2u5u41Bcw=="
 ---

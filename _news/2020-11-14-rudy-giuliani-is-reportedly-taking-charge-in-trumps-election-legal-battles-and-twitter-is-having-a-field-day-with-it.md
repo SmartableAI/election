@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taki
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
 type: article
 quality: 116
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 96
     images:
       - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
-    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
-    publishedDateTime: 2020-11-15T11:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -1551,6 +1551,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."
+    publishedDateTime: 2020-11-16T21:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.freep.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6308427002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/f735d0ac-917f-4b02-9a8c-a85244c63864-AP20321743256252.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
     publishedDateTime: 2020-10-15T07:14:00Z

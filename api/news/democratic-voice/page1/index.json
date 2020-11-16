@@ -114,6 +114,63 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-joe-bidens-first-economic-test-the-size-and-urgency-of-stimulus-efforts.md",
+      "title": "Joe Biden’s first economic test: the size and urgency of stimulus efforts.",
+      "excerpt": "The incoming administration’s first economic test is coming months before Inauguration Day. President-elect Joseph R. Biden Jr. must decide whether to push Democratic leaders to cut a quick deal on a package much smaller than they say is needed or to hold out hope for a larger one after he takes office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/16/business/joe-bidens-first-economic-test-the-size-and-urgency-of-stimulus-efforts.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/16/business/joe-bidens-first-economic-test-the-size-and-urgency-of-stimulus-efforts.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/15/business/14econ-transition/14econ-transition-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/16/business/joe-bidens-first-economic-test-the-size-and-urgency-of-stimulus-efforts.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/business/joe-bidens-first-economic-test-the-size-and-urgency-of-stimulus-efforts.amp.html",
+      "publishedDateTime": "2020-11-16T10:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-trump-coronavirus-adviser-scott-atlas-urges-michigan-to-rise-up-against-new-covid-19-measures.md",
       "title": "Trump coronavirus adviser Scott Atlas urges Michigan to 'rise up' against new Covid-19 measures",
       "excerpt": "White House coronavirus task force member Dr. Scott Atlas criticized Michigan's new Covid-19 restrictions in a tweet shortly after they were announced Sunday evening, urging people to \"rise up\" against the new public health measures.\n    \n",
@@ -238,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 182,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1138,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1077,
+      "heat": 1097,
       "tags": null,
       "images": [
         {
@@ -1631,63 +1688,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-where-is-mike-pence.md",
-      "title": "Where is Mike Pence?",
-      "excerpt": "Vice President Mike Pence hasn’t been seen publicly for three days. Pence, who heads the coronavirus task force and serves as president of the Senate, was not with the president in the briefing room Thursday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/live-blog/2020-11-06-trump-biden-election-results-n1246707/ncrd1246885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_45/3425842/201104-post-election-live-blog-main-cover-cs_677f87a787c5da5efad0d320bdbc0748.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1246707",
-      "publishedDateTime": "2020-11-06T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-16T22:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
   - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
     excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
     publishedDateTime: 2020-11-13T20:41:00Z

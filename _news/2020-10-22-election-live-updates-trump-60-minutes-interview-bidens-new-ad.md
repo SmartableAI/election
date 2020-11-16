@@ -752,6 +752,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden urges Congress to pass coronavirus package with state and local government funding"
+    excerpt: "President-elect Joe Biden urged Congress to pass a coronavirus relief package that includes funding to help state and local governments with payrolls for public workers like teachers and first responders.\n    \n"
+    publishedDateTime: 2020-11-16T22:31:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjKXZuqLk80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116153257-04-biden-harris-economy-remarks-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "2 people who attended Trump's rally in North Carolina have tested positive for coronavirus"
     excerpt: "Two people who attended one of President Donald Trump's recent rallies in North Carolina have tested positive for the coronavirus.\n    \n"
     publishedDateTime: 2020-10-29T21:36:42Z

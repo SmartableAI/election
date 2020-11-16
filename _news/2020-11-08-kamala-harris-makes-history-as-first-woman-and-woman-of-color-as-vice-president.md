@@ -624,6 +624,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Joe Biden speaks about the economy as the virus surges and vaccine hopes rise."
+    excerpt: "Biden Jr. addressed the slowing American economic recovery on Monday, amid the crosswinds of rising coronavirus deaths and soaring optimism over a vaccine. His speech comes at a perilous moment for the recovery from the pandemic recession."
+    publishedDateTime: 2020-11-16T19:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/business/16markets-brf-biden2/merlin_180108033_2dd4beda-c70d-42ea-9e07-179ef37099f9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "‘Vote like our lives depend on it because they do,’ Kamala Harris says in Philadelphia."
     excerpt: "Senator Kamala Harris on Monday evening made an impassioned final pitch before Election Day, casting the race as “the most consequential election of our lifetimes” as she urged Americans to turn out to the polls."
     publishedDateTime: 2020-11-03T07:54:00Z
