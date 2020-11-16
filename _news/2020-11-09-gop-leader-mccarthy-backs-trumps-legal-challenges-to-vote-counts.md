@@ -498,6 +498,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Trump Administration Takes Final Steps to Auction Drilling Rights in Arctic Wildlife Refuge"
+    excerpt: "The Interior Department is taking final steps to secure oil development in the 19-million-acre Alaskan wilderness by initiating a leasing process to strike deals with drillers before President-elect Joe Biden can stop it."
+    publishedDateTime: 2020-11-16T18:40:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-260604/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
     publishedDateTime: 2020-11-10T14:28:00Z

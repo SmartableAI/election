@@ -2679,6 +2679,22 @@ related:
         width: 771
         height: 545
         isCached: true
+  - title: "Trump national security adviser O'Brien says looks now that Biden has won"
+    excerpt: "U.S. President Donald Trump's national security adviser, Robert O'Brien, said on Monday he will ensure a professional transition to the team led by Democrat Joe Biden if Biden is deemed the winner of the 2020 presidential election and \"obviously things look like that now."
+    publishedDateTime: 2020-11-16T17:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-o-brien-idUSKBN27W28O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W28O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W28O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541384320&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF17L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Live election updates: Biden campaign to 'barnstorm Pennsylvania'; Trump vows to go 'in with our lawyers'"
     excerpt: "Election Day is nearly upon us, but not before voters in several states get one more day to add to the already record-shattering early vote totals."
     publishedDateTime: 2020-11-02T09:12:00Z
@@ -3539,6 +3555,22 @@ related:
     quality: 134
     images:
       - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter slaps new label on Trump's tweets falsely claiming to have won the election"
+    excerpt: "Since Friday, the platform has also flagged over 25 of Trump's tweets about election fraud as \"disputed.\""
+    publishedDateTime: 2020-11-16T18:47:00Z
+    webUrl: "https://www.businessinsider.com/twitter-2020-election-label-trump-false-i-won-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twitter-2020-election-label-trump-false-i-won-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-2020-election-label-trump-false-i-won-the-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5fb2a74f402d49001924f1e6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -5961,6 +5993,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T19:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden/top-biden-aid-says-u-s-government-must-approve-transition-this-week-idUSL1N2I10BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
+        width: 849
+        height: 545
+        isCached: true
   - title: "What will happen to border wall construction under a Biden presidency?"
     excerpt: "Border advocates and conservationists said they would like to see a Joe Biden administration tear down portions of the wall on the U.S.-Mexico border."
     publishedDateTime: 2020-11-16T14:55:00Z
@@ -5976,6 +6024,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/fd0323a2-0a23-4a96-a32d-b7fd540ef44c-01Z_6358.jpg?auto=webp&crop=5471,3078,x0,y364&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AP FACT CHECK: Trump conclusively lost, denies the evidence"
+    excerpt: "In the face of conclusive evidence that he lost, President Donald Trump is claiming “I won.” His tweet Monday sought to perpetuate the mathematically impossible and thoroughly debunked myth that he pulled out a victory from the election that definitively chose Democrat Joe Biden as the next president."
+    publishedDateTime: 2020-11-16T17:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-conclusively-lost-denies-the-evidence/2020/11/16/e4b36a14-282e-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-conclusively-lost-denies-the-evidence/2020/11/16/e4b36a14-282e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-conclusively-lost-denies-the-evidence/2020/11/16/e4b36a14-282e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden set to address plans for economy as pandemic rages"
+    excerpt: "President-elect Joe Biden is set to outline his plans to revive the nation’s economy in the midst of a global health crisis"
+    publishedDateTime: 2020-11-16T17:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -8984,17 +9064,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top Biden aide says U.S. government must approve transition this week"
-    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-    publishedDateTime: 2020-11-15T20:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -9230,6 +9299,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/dca2106c-3a63-49bc-b603-118fd7c56e21/thumbnail/1200x630g1/3279733527c0b15579dd370f5c9d5ad9/barackobamab1920-588435-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Election 2020 live updates: Joe Biden, Kamala Harris to speak on economic plans"
+    excerpt: "S coverage of the 2020 election continues this week as states prepare to finish certifying their vote counts after Joe Biden's victory in the hard-fought presidential race. President Donald Trump has yet to concede the race as Biden and Vice President-elect Kamala Harris meet with transition advisers and prepare to take office in January."
+    publishedDateTime: 2020-11-16T18:42:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6308427002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
     excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."

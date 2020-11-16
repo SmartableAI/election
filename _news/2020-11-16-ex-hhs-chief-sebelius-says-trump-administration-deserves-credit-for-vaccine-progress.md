@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration begins last-minute leasing process for arctic drilling"
+    excerpt: "The Trump administration on Monday started a leasing process for oil and gas drilling sites off the Arctic National Wildlife Refuge, something environmental groups feel is a potential last-minute giveaway to the energy industry before the Biden administration takes over.\n    \n"
+    publishedDateTime: 2020-11-16T18:24:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D1SM2YouQZs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720120229-weir-alaska-anwr-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
     excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
     publishedDateTime: 2020-11-11T20:24:51Z
@@ -62,6 +78,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
+    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-11-13T13:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Administration Gives TikTok More Time to Reach Deal"
+    excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
+    publishedDateTime: 2020-11-13T22:36:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "85i0yZQkp4o9QIWZEk/AO9f9+5F7r6fHF4ZbKY/rKQeZkI+hpfCZWzCRTVGXJ2Kf1mHMZPVRVZgxwet/kEgJoxygFsIzuhcN79hLcDpgrjByVH2WmklzWchYPD8dg7rXxPu2QawCKGhZ98pIypGNOZ5vUdmxoNUDQSnD7kaX7LEwS8RP3mISJgq4PsQwPD6OUrprsza8RfvSlRavWRNKEZ+oqq170PN5wqcHP/M5VsYPvnb5qBVhVyQpOKxz4kMf5uTQfX+/sCFSKJ4PsG5mqLpBTCCmJ1HelDLsmz8WQ7oBHYeUnvyc1SpOQJMfNxjLfEqLPJPZsg7coYpyAbCkVvRlH934ZamW8fpieRHcnXs=;yzB5UcLPPNf2BLfhSivo5Q=="

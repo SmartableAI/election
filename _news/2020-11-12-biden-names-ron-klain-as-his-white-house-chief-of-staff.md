@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111221512-conclu-ron-klain-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden poised to announce his chief of staff as early as Thursday, with Ron Klain the leading finalist"
-    excerpt: "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-11-11T22:53:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110150927-02-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

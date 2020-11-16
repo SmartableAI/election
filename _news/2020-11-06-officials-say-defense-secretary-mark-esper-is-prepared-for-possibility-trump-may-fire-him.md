@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Maryland Gov. Larry Hogan urges Trump to concede as he calls for a less divisive GOP "
+    excerpt: "Maryland Gov. Larry Hogan on Monday urged his fellow Republicans to reject the extremes of his party and for President Donald Trump to accept the results of the election.\n    \n"
+    publishedDateTime: 2020-11-16T18:38:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I0UB9iw6IpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423112707-02-larry-hogan-nh-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "P/NF+ecCp7krkJeDVnX6HZ4U1ekSiIQkg1gE28ie02hACjLLzqLBqtPSwCOsTjuYc+3kIvzfwIMHldBxUf6u7TTNb/5nnfJEqz/qGYTkXAdDSDEvxY/oSyAQGao6HWuf8I3HXRl5YBR9Psk2Z6uxVoHMDSahYtovmbjMZlQy7SFwoad6XSGOoKAcs58ZTdm9hScuF2b6qxS0KXmsRLqTZmGJ4zBnvcTPAAP6qL1dhhVsqUYOQIO6yLL4FBNvY1xQ9z5gpEjQofMh/jm5t6tn087rTS2/t7QvBbbLUaTZa8b5qrMPpZsCPqOgoM+5LSE6s9RwaB4Uk/KfCHPArJLbSYANODMy1pOO7+HtE1WYuzY=;/o5cTH3f/OypYim3selauA=="
 ---

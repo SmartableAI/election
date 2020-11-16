@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact checking Trump's barrage of lies over the weekend"
+    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
+    publishedDateTime: 2020-11-16T18:35:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Pentagon policy official resigns day after Trump fires defense secretary"
     excerpt: "The Pentagon's top policy official, James Anderson, resigned Tuesday, according to two US defense officials, a day after President Donald Trump fired Secretary of Defense Mark Esper.\n    \n"
     publishedDateTime: 2020-11-10T16:14:39Z

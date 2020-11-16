@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-16-top-trump-adviser-moves-closer-to-accepting-biden-win-obviously-things-look-that-way-now.md",
+      "title": "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' ",
+      "excerpt": "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html",
+      "publishedDateTime": "2020-11-16T10:18:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-trump-coronavirus-adviser-scott-atlas-urges-michigan-to-rise-up-against-new-covid-19-measures.md",
       "title": "Trump coronavirus adviser Scott Atlas urges Michigan to 'rise up' against new Covid-19 measures",
       "excerpt": "White House coronavirus task force member Dr. Scott Atlas criticized Michigan's new Covid-19 restrictions in a tweet shortly after they were announced Sunday evening, urging people to \"rise up\" against the new public health measures.\n    \n",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -143,62 +199,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html",
       "publishedDateTime": "2020-11-13T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-watch-trump-refuse-to-acknowledge-reality-at-press-conference.md",
-      "title": "Watch Trump refuse to acknowledge reality at press conference",
-      "excerpt": "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn",
-      "publishedDateTime": "2020-11-13T14:42:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -351,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 214,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -407,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -519,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 213,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -619,6 +619,120 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
+      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
+      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
+          "width": 865,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "publishedDateTime": "2020-11-10T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
+      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
+      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "publishedDateTime": "2020-11-10T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-bernie-sanders-seeks-support-from-allies-in-push-to-lead-bidens-labor-department.md",
       "title": "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department",
       "excerpt": "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n",
@@ -648,6 +762,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html",
       "publishedDateTime": "2020-11-10T18:08:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-point-heres-the-real-reason-mitch-mcconnell-wont-say-trump-should-concede.md",
+      "title": "The Point: Here's the real reason Mitch McConnell won't say Trump should concede",
+      "excerpt": "Mitch McConnell doesn't think Donald Trump needs to concede the 2020 election -- even days after the race has been called for former Vice President Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
+      "publishedDateTime": "2020-11-10T07:41:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -843,62 +1013,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
-      "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
-      "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
-      "publishedDateTime": "2020-11-09T15:56:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-biden-and-harris-share-the-spotlight-with-their-families-to-celebrate-victory.md",
       "title": "Biden and Harris share the spotlight with their families to celebrate victory",
       "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n",
@@ -1065,6 +1179,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-how-to-protect-america-from-the-next-donald-trump.md",
+      "title": "How to Protect America From the Next Donald Trump",
+      "excerpt": "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html",
+      "publishedDateTime": "2020-11-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1501,176 +1672,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-young-americans-and-white-college-educated-voters-flock-to-biden-in-several-battleground-states-cnn-exit-polls-show.md",
-      "title": "Young Americans and White college-educated voters flock to Biden in several battleground states, CNN exit polls show",
-      "excerpt": "Young Americans and White voters with college degrees flocked to former Vice President Joe Biden in several key swing states, according to results of a nationwide CNN exit poll, moving him closer to capturing the electoral votes necessary to win the White House.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4bSdHGoZdY0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4bSdHGoZdY0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201104120509-03-america-votes-1104-michigan-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/04/politics/exit-polls-2020-update/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/04/politics/exit-polls-2020-update/index.html",
-      "publishedDateTime": "2020-11-04T16:53:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-mike-pence-sen-collins-apparently-deny-systemic-racism-exists.md",
-      "title": "Mike Pence, Sen. Collins apparently deny systemic racism exists",
-      "excerpt": "Mike Pence and Sen. Susan Collins have apparently denied that systemic racism exists while on the 2020 campaign trail, Pence also implying that 2020 Democratic presidential candidate Vice President Joe Biden is in error for acknowledging racism in America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
-      "originalUrl": "https://www.msnbc.com/am-joy/watch/mike-pence-sen-collins-apparently-deny-systemic-racism-exists-95071813913",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_joy_goprace_201031_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo95071813913",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo95071813913",
-      "publishedDateTime": "2020-11-04T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.md",
-      "title": "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted.",
-      "excerpt": "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/04/reader-center/04blog-wisco-graphic/04blog-wisco-graphic-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
-      "publishedDateTime": "2020-11-04T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

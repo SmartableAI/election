@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-laws
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
 type: article
 quality: 185
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact checking Trump's barrage of lies over the weekend"
+    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
+    publishedDateTime: 2020-11-16T18:35:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

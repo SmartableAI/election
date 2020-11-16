@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-16-top-trump-adviser-moves-closer-to-accepting-biden-win-obviously-things-look-that-way-now.md",
+      "title": "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' ",
+      "excerpt": "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html",
+      "publishedDateTime": "2020-11-16T10:18:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-hes-in-vengeance-mode-intelligence-veterans-sound-the-alarm-over-trumps-post-election-bloodlust-and-decapitation-strike-at-the-pentagon.md",
+      "title": "'He's in vengeance mode': Intelligence veterans sound the alarm over Trump's post-election 'bloodlust' and 'decapitation strike' at the Pentagon",
+      "excerpt": "\"Trump seems to wake up every day with a kind of anxiety or hatred,\" said one former official. \"He didn't get reelected, so he's in vengeance mode.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11",
+      "originalUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5e81b05e2ff839113e6aac63?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
+      "publishedDateTime": "2020-11-16T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-obama-said-he-was-surprised-at-top-republicans-who-did-a-complete-180-on-everything-they-claimed-to-believe-to-align-with-trump.md",
       "title": "Obama said he was surprised at top Republicans who did a 'complete 180 on everything they claimed to believe' to align with Trump",
       "excerpt": "Obama told The Atlantic he was not shocked by Trump's \"character and behavior\" while in office, but at top Republicans who emerged as his allies.",
@@ -230,7 +338,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -654,7 +762,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 569,
+      "heat": 589,
       "tags": null,
       "images": [
         {
@@ -857,7 +965,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1208,101 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-philadelphia-suburbs-return-with-a-vengeance-to-oust-trump.md",
-      "title": "Philadelphia suburbs return with a vengeance to oust Trump",
-      "excerpt": "Voters in Philadelphia’s suburbs hurled perhaps their biggest rebuke yet this month to President Donald Trump and the Republican Party overall",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-14T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-let-mike-pence-handle-the-transition.md",
-      "title": "Let Mike Pence handle the transition",
-      "excerpt": "The period between an incumbent's defeat and the new president's inauguration is always awkward. At the end of this lame duck-ship, the outgoing president",
-      "sourceUrl": null,
-      "webUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "originalUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201114&Category=OPINION&ArtNo=201119553&Ref=AR",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "publishedDateTime": "2020-11-14T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Monroe News",
-        "domain": "monroenews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

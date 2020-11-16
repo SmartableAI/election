@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-election-manual-recount-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Biden likely to campaign in Georgia for runoffs that will shape the Senate, top aide says"
+    excerpt: "President-elect Joe Biden will likely travel to Georgia to campaign for the two Democratic Senate candidates ahead of two January runoffs, according to his new chief of staff. "
+    publishedDateTime: 2020-11-16T17:06:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Or2GBTYrBfg/biden-campaign-georgia-senate-runoffs-aide"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765555451.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ZPqdY3FXcqvQfc7lNGNSDBLeU6FcaB8KqpULvZ6zVQPUgjbkFYKbjA6QhFLZtEeV9ValHQ+sA96xuUt11iI6nOtKvLdgQCtbUzsdPLCicxYi8/35sCnOHVSyOXgwypFbc2Y/Wjw9Dd4ef+K5Hnw9vTXIhTGVIZV6381VHMYiXRvAj2m3zMji1sPN/KYP2cdbx9ctJcbESk1u/7/mEwbdRGUvSdWflcqIXbrmD4Gr+KzdAH/vR9RLlDbT2nk6T2nrdGus+v5zqnKHvVTu2J4tVuy6tOIS6OhSRzjM3Pyn2U1hXvdUDiFttPqPzn9Ip9sKIWxJCWB+4NOoBpgTNqspxNojty/GUpgPnz/0ssqEK6s=;JFC2V558uexdBntC1j+KgA=="
 ---

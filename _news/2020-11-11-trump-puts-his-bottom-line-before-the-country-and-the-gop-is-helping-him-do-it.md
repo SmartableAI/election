@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Maryland Gov. Larry Hogan urges Trump to concede as he calls for a less divisive GOP "
+    excerpt: "Maryland Gov. Larry Hogan on Monday urged his fellow Republicans to reject the extremes of his party and for President Donald Trump to accept the results of the election.\n    \n"
+    publishedDateTime: 2020-11-16T18:38:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I0UB9iw6IpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423112707-02-larry-hogan-nh-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Officials say Defense Secretary Mark Esper is prepared for possibility Trump may fire him"
     excerpt: "Defense Secretary Mark Esper is attempting to fashion a graceful exit from office if President Donald Trump decides to fire him regardless of the result of the presidential election, according to several defense sources, including one senior defense official.\n    \n"
     publishedDateTime: 2020-11-06T01:55:42Z
