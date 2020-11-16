@@ -303,6 +303,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden to spotlight economy as Trump vows more court challenges to election"
+    excerpt: "President-elect Joe Biden on Monday will focus on reviving a pandemic-battered U.S. economy as he prepares to take office, while outgoing President Donald Trump has promised more lawsuits of the type that so far have failed to alter his election defeat."
+    publishedDateTime: 2020-11-16T14:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 153
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541365510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF0YW"
+        width: 838
+        height: 545
+        isCached: true
   - title: "Donald Trump says Joe Biden 'won' election; but also says he won't concede"
     excerpt: "Trump acknowledged for the first time that Biden won the presidential race, even as he repeated false claims that Democrats \"rigged\" the balloting"
     publishedDateTime: 2020-11-15T16:18:00Z
@@ -4369,6 +4385,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump hints at primary challenge for Ohio Gov. DeWine, who acknowledged Biden as president-elect"
+    excerpt: "DeWine was a co-chair of Trump's reelection campaign in Ohio, but he was also among the few Republicans to acknowledge Joe Biden as president-elect."
+    publishedDateTime: 2020-11-16T15:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-ohio-gov-mike-dewine-tweet/6310251002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6310251002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6310251002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
     publishedDateTime: 2020-11-07T20:34:00Z
@@ -5936,22 +5968,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/4025d1ce-ab82-4e7b-a4f5-1b05c8738ec1-XXX_FORD_122606_11.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Top Biden aide says U.S. government must approve transition this week"
-    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-    publishedDateTime: 2020-11-15T19:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
-        width: 849
-        height: 545
         isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
@@ -8960,6 +8976,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -10779,6 +10806,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "2x6iSxzNrJFFHs4gK8fnIgZjXRfGNbmfaOFlnVTX39/Iwhy6D0YuTi11nAqIjl4S2KpozeNDFHoeqF7+G612GoAiSrOYuj9YUC3FzJife/yFJRq6avRjYghzcclUBlyOYuJ3nDsQ/wPPex6dLq/YsyEBF/9CWB8dy07EubMT+WtxpetM2hPybQ1sNmkHGS+rODnN9gniZOVAYGettDyZ/pl8JibD54nfbbXF/zN0dGpx4cifHvxIwKmPZghfmMok/ZHHOyEkN1G/x9ddEy0wW0OlSR5fJMpizpuslWUHGSyvWarnqz5LY6a3YYgfTWs5E3He6J69k56mXhRanoOHlK7xOe+dICqmZCDrOc4EM90=;ftch8QIGAH9I9EpdIboe5A=="
+secured: "UWTbtfaHdjqB9vAa8ntHAjn4qJW7dW44/NuJzgEOJDJCjPyhvGXEJ8URkfrpbn5MwtFRBmjDFC/6ssITQxNc27dmW5g4vdS94fzwKoj2CS4vYED0rplg2OwrqS3IAF7PohXE3hT0130TVKXUhtwJsxCIdVjpcensBco6tr2Fg9/3mKCO0W9v3kWGOL9nuqfEFK5kuRkho7qXx/LPOtQx0D+WbGOss+4/QvRfC8dk6daKCorN5Q0IT5L35gZe31aa0LOjBQeH+SdtzekR/pd5cH0Uj+EJACUxKT+FP9k6j/26Blrl8+Fqef8YfbAOCOUUPwoWYoB9V/yXp7wVPRLwF+ADJLPmXlck70h9mIQ7/bPh+JC4mwtJwJtvOf6kTGPB06B7c2Cy9RcKKLxA1f2TPHNcfVI8diS0q9McT3TOS5tUeE+5Sxh3P0ZcSyy7026V4xAhu4c4+GStJlOrCnKKsTL/qaNN0SLnSafvEtwQHbqMs8Q0Rtd+6zHlpL/Nk6LZrtZ3LFOiYHdxJZsTptBwgw==;XWlxlIALge7fVvYcbAQppA=="
 ---
 

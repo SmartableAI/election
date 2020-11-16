@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-no
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ex-HHS chief Sebelius says Trump administration deserves credit for vaccine progress"
+    excerpt: "Kathleen Sebelius, a former United States Secretary of Health and Human Services administrator under President Barack Obama, offered some praise for the Trump administration's vaccine efforts on Monday but said the administration has shirked other critical responsibilities in mitigating the spread of"
+    publishedDateTime: 2020-11-16T16:40:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jBqJ4MQY140/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116102135-kathleen-sebelius-11162020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
+    excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
+    publishedDateTime: 2020-11-16T16:43:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CMIOj2nRiG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After years of unrelenting attacks, many immigrants breathe a sigh of relief with Biden victory"
     excerpt: "For nearly four years, the Trump administration gradually, and swiftly, choked off immigration to the United States, making it exceedingly difficult for people to come to the country to study, work, and seek refuge.\n    \n"
     publishedDateTime: 2020-11-07T18:55:12Z
@@ -693,6 +709,6 @@ related:
       domain: cnn.com
     quality: 105
 
-secured: "QMg2Mr3N5ZfElELUjnxCtb7mu8gqS0KPzPuGcllHXmy4AM57/uToR1/jIyw62hqdTxN1KcDyfQpwsnHRl78vBIdC0MsH7abw46OfbTbBqyMk/OWKzXBlQA1oh3lZBud0g3WB48Kv4wlLFv+0CPdXCHhY+RyUIEesicD4oIEVao+wbIH29wc9LyxzJxypbTQ6tVv8qKPWQBYX4nbwYeFnwa2RI2QRSEAJpWVn6c5SGJtidD8KbQSv/lAUgVjVhdRBva1t3EPLufpYXqkMl/77cTildYmq1qUsLdvPRy/rakDIvPfBooOVbl9/RsIKexa0iwunGrDmTzepN572AMQ04gwOmHDhrrjRTwJDwFrQP2U=;tn8WfpPxgcbJf04HiOaZJA=="
+secured: "G6x15g6dTTygdYDDDHOtegk7DsztBLzSDmNMiP3jktYm8b6ECNPGZ2Tq95NESebL8gtH69IbMu3cPce4UnYU3VbhrJRjmsMYMekk7Fy2JmWr9TMhNG9sTrfJf55azX8RZ8dOhnOmZUlNXtGlzLdiIWITpp+9l43xN+8Igmc5Zs1rDTit8/1xSZMMJ38H3SB6cP+Owa1KZ7zdsCF4q4ONlRB4BxNGhmNTy0CT7MmhOib8uHxu4RFkXqRVkCdN/vi4OJ64eWFrAnRPzLu0I4K+irmgqLruYvrGY3Oa2LAxosFi9hjT0g++9R67wrtK9jZqRp+h7dSRpvTkgIHnFPbnXKo1Tz6j6YzcHXtg317oauMFVE32Jt6oFRDDUb5cxvijbIUI4CSFZC7pp8PRcx5foPk/GVu+rZIDF+g5u005wWqQqndh3xKJv7CYhsm0zZwI3jNp9r2/IIQPqMR6ggKHMq9Le9TK9cn7dLMp3jCA4ZOjeJFYGqRjBbPFBKCaETVhJcc+JUOSfeFOkQ9v4Azp2w==;HIXrRJeo2qtEP414kNEHHQ=="
 ---
 

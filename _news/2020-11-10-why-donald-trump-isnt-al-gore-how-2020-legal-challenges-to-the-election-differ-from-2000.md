@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
+    excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
+    publishedDateTime: 2020-11-16T15:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
     excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
     publishedDateTime: 2020-11-10T23:46:00Z

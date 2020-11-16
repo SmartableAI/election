@@ -2,13 +2,13 @@
 category: news
 title: "Top Biden aide says U.S. government must approve transition this week"
 excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-publishedDateTime: 2020-11-15T19:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
-webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
+publishedDateTime: 2020-11-15T20:54:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
+webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
-    width: 849
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -302,6 +296,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-trump-04-ap-jef-201101_1604267207507_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Biden to spotlight economy as Trump vows more court challenges to election"
+    excerpt: "President-elect Joe Biden on Monday will focus on reviving a pandemic-battered U.S. economy as he prepares to take office, while outgoing President Donald Trump has promised more lawsuits of the type that so far have failed to alter his election defeat."
+    publishedDateTime: 2020-11-16T14:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 153
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541365510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF0YW"
+        width: 838
+        height: 545
         isCached: true
   - title: "Donald Trump says Joe Biden 'won' election; but also says he won't concede"
     excerpt: "Trump acknowledged for the first time that Biden won the presidential race, even as he repeated false claims that Democrats \"rigged\" the balloting"
@@ -4368,6 +4378,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/jeh-bolton-gty-rc-201114_1605387507325_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump hints at primary challenge for Ohio Gov. DeWine, who acknowledged Biden as president-elect"
+    excerpt: "DeWine was a co-chair of Trump's reelection campaign in Ohio, but he was also among the few Republicans to acknowledge Joe Biden as president-elect."
+    publishedDateTime: 2020-11-16T15:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-ohio-gov-mike-dewine-tweet/6310251002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6310251002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6310251002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
@@ -10779,6 +10805,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "M2C/uDpKO2kTFdQKC57xoWH/6wMzqVnCaUW5XDDnJBohj/PHTY+zZ3sHBvWk0uki9/bzI0kBsbMSvGmfAyBlXzu7hDWBfk2Cp6bVCu/PAZln7STuLkpQih+a0HU9FrrAv7wEgsDhqfdW2MhSey3bnT/HZXqNOx/8eIX8I+BxTGCD8JBvkcV6CyyCPqTD/unnvKf/LkTMORvXQd56PibLD2XLNTiZKeRlhnzBHMnwHi2gGSgtV29+9C48CEAPsRucTkX4W0JHd6UC1GSocsktE0DjxCxRum7m3rnKrsZnF63R4MtsIg0UBlwz3gkoK8TvScptkhdjaY70SQnjQNNnyYTQrZDgNfWhvw0VNh9wxsQ=;k25Z4OlUEYN0fdxxXW6ljg=="
+secured: "firx5CG9g34hxyMM1DwprkYqyQipDH5wuiw336Dxg2h3Xo68i3pmXfK7lI7yfyHrVZqnKani7zDTIoUwVvQHenPvTgSfSCnqPC4yuQB/OeOdqM/SwfesahYBgJEmTACAufezlpmikDFDpTDt2i9xjko8l0SjkYz/Elj8CT2/rWeFUmRZrKl/sHiCNUcOc5jpBpiRbCFh5uDX2IJbuOLMDZ57euzWmp19CGubBzJjQy1WCa0MllD2NOjIxMrD0tlBYRNuAhZMiaiN9Am6kRcmG40R3UeVTVrnBUa9nX+mHUGTANCWhz12fOPe/S75edvjim7a6TErpjJ3Un/gCVym2LxZz4045rZTL5zly2h3xgk=;wEuus4WLEqiFzSSLdnNh+w=="
 ---
 

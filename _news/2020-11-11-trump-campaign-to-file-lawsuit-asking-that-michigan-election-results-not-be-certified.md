@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
+    excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
+    publishedDateTime: 2020-11-16T15:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/judges-increasingly-frustrated-trumps-legal-claims-2020-election/story?id=74211479"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election week, Trump, and the chaos of 2020 prove that cable news has outlived its worth"
     excerpt: "The stress of election week didn't have to be this bad, but it's the cost of a cable news structure stuck in the past."
     publishedDateTime: 2020-11-14T08:05:00Z

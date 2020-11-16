@@ -138,6 +138,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
+    excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
+    publishedDateTime: 2020-11-16T16:43:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CMIOj2nRiG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After years of unrelenting attacks, many immigrants breathe a sigh of relief with Biden victory"
     excerpt: "For nearly four years, the Trump administration gradually, and swiftly, choked off immigration to the United States, making it exceedingly difficult for people to come to the country to study, work, and seek refuge.\n    \n"
     publishedDateTime: 2020-11-07T18:55:12Z

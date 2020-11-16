@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
+    excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
+    publishedDateTime: 2020-11-16T16:43:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CMIOj2nRiG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris bursts through another barrier, becoming the first female, first Black and first South Asian vice president-elect"
     excerpt: "Kamala Harris, who on Saturday became America's first female, first Black and first South Asian vice president-elect, represents a new face of political power after an election all about who wields power and how they use it.\n    \n"
     publishedDateTime: 2020-11-07T16:28:35Z

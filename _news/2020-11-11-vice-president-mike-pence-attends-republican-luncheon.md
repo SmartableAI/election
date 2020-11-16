@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice President Mike Pence Attends Republican Luncheon"
-excerpt: "United States Vice President Mike Pence (L) walks in the halls of the Hart Senate building to attend the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10, 2020. President Donald Trump is not conceding the election blocking the transition of President-elect Joe Biden's."
+excerpt: "United States Vice President Mike Pence (R) walks in the halls of the Hart Senate building to attend the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10, 2020. President Donald Trump is not conceding the election blocking the transition of President-elect Joe Biden's."
 publishedDateTime: 2020-11-10T20:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9f29f63996d06b0b285897ab66dba742/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9f29f63996d06b0b285897ab66dba742/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a712969414b6d6c5abdaa08e1bb95f42/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a712969414b6d6c5abdaa08e1bb95f42/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9f29f63996d06b0b285897ab66dba742/REBUBLICAN-POLICY-LUNCH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a712969414b6d6c5abdaa08e1bb95f42/REBUBLICAN-POLICY-LUNCH.jpg"
     width: 650
     height: 433
     isCached: true
@@ -124,6 +124,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "b/YukYEQl827z5T3RsIm3CM/oecxrTdKh0S6qMGiCS1ybKRQ8PHpU6r7cR178faC4h7Q+KjYnuRrquhd1YrYe98XUOhL0xONU90K1rgFqeB6wwAjayeoBRP0JZXTVBNKkk5Fdqf6qThNv+EGfq2mOTbRH5S68DuYtC5r+Q8YK6VChogr+ecFFxOixbBWaxkhFdqJFIJRDSTylahGVhAGCb8oPAYHStALuaytedqeaKupCvUKdHgCMsTopRQcVvwY027ivYii+kGCDYV/zV8bAe7yYU+8D1YnZS68XbeB/XMJyi5eOcFrQmCFM+NbpPHE5ix2vh3NvrAFQL+Osr2rzG2k8CB/I9wCfu2D54XzNRFVpp/Ul2ASNkWgVMgdhho2CWy+QiOSAg8CPE2OPKh17hVwBfUGPEkqrEgwTCyW0T5XhwlL0/UkMNW1ghfePCxUqqSRBFE1G19/I/vHVQPGsgeuOllH2ZFaGwIfPqiEQwdEQZmKAB611HjV3OJD3+NyloSmezkV1vnZcsh+qkBO1g==;9n9tbu/wKwsph+8vr6/ARg=="
+secured: "2yidCuroWwlqrSN4Ir5RoNlqfkQdvHWkMBSpzKzKUC+rlaCU+usY478JRKF+XtacXvI03Kl1OyCXXUlSACiU+M2Qo4x/wgqD1e31EtAq5aj57+rMDVwc+z23hByFu2hQ8zHQvKwST9r9VisWbiXePXi8dWSqz87n/5/vkEglqk/l4qbYqY6aEEbZ2+gFq7W/P/RXrJisSmXoektN09VY0sSoOgXzFumN8ifBP1FRYg9EyfEvTNWV0n1vySj/QuXWV89nZgEywwIsQIajd+s9KMinYeRPUPcDGE9vXUUk2TlCAK3+CkCBD33jHdyFb80Bq8STqpRlopIYM1y431YIJBzDPSXKPec4ijzwBkuOAuY=;u23Zi9c4cqdxopKDCPF04A=="
 ---
 
