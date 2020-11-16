@@ -464,6 +464,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Biden turns focus to U.S. economy as Trump vows more legal challenges to election"
+    excerpt: "President-elect Joe Biden on Monday will focus on reviving a pandemic-battered U.S. economy as he prepares to take office, while outgoing President Donald Trump has promised more lawsuits of the type that so far have failed to alter his election defeat."
+    publishedDateTime: 2020-11-16T12:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUKKBN27W0ID"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27W0II"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27W0II"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541350261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF09R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden on the cusp of U.S. election victory as Trump presses unfounded fraud claims"
     excerpt: "Democrat Joe Biden edged closer to winning the White House on Friday, expanding his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia even as Republicans sought to raise $60 million to fund lawsuits challenging the results."
     publishedDateTime: 2020-11-07T00:15:00Z
@@ -2256,6 +2272,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden seeks window on vaccine plans as Trump stalls handoff"
+    excerpt: "President-elect Joe Biden’s scientific advisers plan to meet with vaccine makers in coming days even as a stalled presidential transition keeps them out of the loop on government plans to inoculate al"
+    publishedDateTime: 2020-11-16T10:42:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-seeks-window-vaccine-plans-trump-stalls-handoff-74227584"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-seeks-window-vaccine-plans-trump-stalls-handoff-74227584"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-seeks-window-vaccine-plans-trump-stalls-handoff-74227584"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_0f96c27c2d5a4b35bc55f2c96ebcf718_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Obama’s advice to Trump? ‘It’s time for you’ to concede to Biden."
+    excerpt: "When your time is up, then it is your job to put the country first and think beyond your own ego,\" Obama said during the interview."
+    publishedDateTime: 2020-11-16T11:42:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/16/obama-60-minutes-election-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/16/obama-60-minutes-election-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/16/obama-60-minutes-election-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-16-2020/t_2f650b32174348d7bbd4a4c0e216cbe4_name_Screen_Shot_2020_11_15_at_9_55_59_PM.png&w=1440"
+        width: 1440
+        height: 808
+        isCached: true
   - title: "Trump acknowledges Biden victory before clarifying he's not conceding"
     excerpt: "Mr. Trump continues to claim there was widespread fraud in the election, though there is no evidence to support his allegations."
     publishedDateTime: 2020-11-16T03:10:00Z
@@ -2273,19 +2321,19 @@ related:
         height: 630
         isCached: true
   - title: "Trump briefly admits election defeat, clings to flailing legal strategy"
-    excerpt: "President Donald Trump on Sunday briefly acknowledged losing the U.S. election in a morning Twitter post but then backtracked, saying he concedes \"nothing,\" and vowing to keep up a court fight that election-law experts say is unlikely to succeed."
-    publishedDateTime: 2020-11-16T00:23:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/wrapup-7-trump-briefly-admits-election-defeat-clings-to-flailing-legal-strategy-idUSL1N2I100Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V04W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V04W"
+    excerpt: "President Donald Trump on Sunday briefly acknowledged losing the U.S. election in a morning Twitter post but then backtracked, saying he concedes \"nothing\" and vowing to keep up a court fight that election-law experts say is unlikely to succeed."
+    publishedDateTime: 2020-11-16T07:33:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27V050"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27V050"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27V050"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541260971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BS"
-        width: 771
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541277202&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0J5"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump campaign abandons parts of Pennsylvania election lawsuit"
@@ -2307,9 +2355,9 @@ related:
   - title: "Trump claims he won the election; Twitter flags the tweet"
     excerpt: "The tweet came at the very end of a day in which Trump worked to rescind an apparent acknowledgement that Biden had won."
     publishedDateTime: 2020-11-16T07:20:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-claims-he-won-election-twitter-flags-tweet/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-won-election-twitter-flags-tweet/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-won-election-twitter-flags-tweet/"
+    webUrl: "https://www.cbsnews.com/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
     type: article
     provider:
       name: CBS News
@@ -5858,22 +5906,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top Biden aide says U.S. government must approve transition this week"
-    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-    publishedDateTime: 2020-11-15T19:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
-        width: 849
-        height: 545
-        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -8870,17 +8902,28 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T20:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -9270,6 +9313,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/a349b66f-b575-418c-9419-c5d45885e888-GTY_1284481276.jpg?auto=webp&crop=2950,1660,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump has been struggling to walk back his tweet where he appeared to admit Biden won, undermining his baseless case that the election was stolen"
+    excerpt: "Trump in a message Sunday apparently conceded the election result, albeit indirectly — an admission which has dogged him since."
+    publishedDateTime: 2020-11-16T11:22:00Z
+    webUrl: "https://www.businessinsider.com/trump-struggles-walk-back-tweet-admititng-biden-won-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb00420402d49001924efe8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Insiders at Fox News wonder what's next as they try to acknowledge Biden's victory without turning away Trump voters"
     excerpt: "Insiders at Fox News and the New York Post are wondering what's next for the most vocal pro-Trump personalities inside Rupert Murdoch's media empire."

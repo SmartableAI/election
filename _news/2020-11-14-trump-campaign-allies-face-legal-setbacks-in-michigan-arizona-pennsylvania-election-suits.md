@@ -368,6 +368,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Byron Donalds, new Florida congressman, says Trump’s ‘swag’ netted him Black votes"
+    excerpt: "Byron Donalds, the incoming congressman from Florida's 19th Congressional District, credits President Trump's gains with Black voters to his \"swag\" and said Republican House members will need to channel that attitude to effectively take on the House Democratic Squad."
+    publishedDateTime: 2020-11-16T11:44:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8zSI8Zxa74/byron-donalds-florida-trump-swag"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Byron-Donalds-FOX.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Blacks and Latinos for Trump"
     excerpt: "The president lost, but he did a good deal better with minorities in 2020 than he did in 2016."
     publishedDateTime: 2020-11-11T03:56:00Z

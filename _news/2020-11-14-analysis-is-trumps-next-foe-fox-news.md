@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The CEO of Newsmax says the channel will never become 'Trump TV' — but he's open to giving the president a weekly show"
+    excerpt: "Newsmax \"would be open to talking to [Trump] about a weekly show\" once he has left the White House, its CEO Christopher Ruddy said."
+    publishedDateTime: 2020-11-16T11:25:00Z
+    webUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fb24ec4402d49001924f0d2?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 509
+        isCached: true
 
 secured: "MhfhXR4rL/CfpgBXTZGX/Psd0cWRcdzP3RtAyL/4dx3n4/S9BEYeT4CHcrO0H3Apa7t8vNy0S0YXCNvBdjIZrgOMozDokkD1ma5fgxzK3Hdewa3YLNEJB/Fze3pU7+2sW/ZsG+9R9XBIjb92LyGxSl4m+1P8NDwFQV2ixr3N1aALtQ0WTTvKdiwtNshGRDIuJDy1hrOzeOUowHJxNzlqetUawxHzqOS5N6IoEyNKrfZzmce5i0gODOCebPZCAeVZJwQpsh+tWhVE2XOcfQ/bhz22BQsGhjKwVkxPFefR2pngzwGZNMCORgP56qrflatOO4gnwD0W3de19SokLTqRm7SxZle1Rm8/epSzEC2IaY6fQ2H39gOJi5uPAprQeV9Pr4Kr6u/TAwffCj4xdDYCo6imd85kRPvbCl+dMTdHlTMWeGqjtWdG/2XydSWjPg+s2WARVEcNIQtG2VjccjxTwLHHfPdIFtH/J9V+derS/qmj0BbJomAuLiCoiclep3w/G+2tRDcnxG8zEZ6gunZvGw==;+GqaiTwlwk67mvYpcK/p7Q=="
 ---
