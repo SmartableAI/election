@@ -63,6 +63,22 @@ related:
         width: 641
         height: 545
         isCached: true
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZqVwt96eVUR7ZmxjByOkOf1TqF9AwVpJZIlhylvjhCGiwWMy5+TFPe8uXYqMhM2ZQxOnWg6MT9t/Jy8vFWMfCxjtyBMREhFvX9IOT7UW5JD1lYADuwgZTYfkey4FOJoSXoOsQvtQ/AImh+qdjuCgmh+j0b6+3HNRYJiuFuXIjdswONasV+KsBH6/If9IL/8s9JfKnvD5IoWYOSXGKx9w5TN6Yvj5/8e67yLtEmnilld7W5SkzVdOJIrIfm3iDEqoH6+KsEHyhOjAOXcqKFwl9Ga3pkIHQKrYOlkDERAn7RSbl8Pj7e1JzO/95bUUc1uqmlN6O+j+1m7DjntzqdMl618c33h7Fh1B6EpXRBMATrY=;0bbUm5olAWfXKc/X93bIFg=="
 ---

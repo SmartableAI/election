@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
 type: article
 quality: 126
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eQCKBKoGkV9OL4g5XbMfl9ybCObINcq4v8wjm4NVrU5L7tlpglfoJDUgo+eJpy7hyLb+tg9rTxN89GM1Mk2QZiF+3QIIqnMNsm8ccZhRirSse9UuhC/gOaMqBHfF8XifdNBhiPpyuMbAexAa9SsjkNynRhlf0o/VypG8c4kw+kLwEd7nAFHW1cQaFzPvrFgWtjMElzehiZwhoF84szYw4IyUiN7cvFUguAmopEjp8q2WZ8H/jdRFuAwZnLFjQjsQP9ysH+cSxF9JKA0ez/+SnduZ2zTbWtpUK7hIqKyzvQHCpJ+ccRxylhimn2R8HlWGbkFOgMTcBw94fIYWLW4IIgY5tNnQYs5b5ERRLNfDLHT+NVNJcukL8jaV+4vDfrA/gZggpLvdGaq2zsifYqXhOJ3k81aDjRm268fuqUG+zkVKX0G8QKue0ar4eigczFFGHAU3Gd0knP3567l3wKkl+JSVLbUM0oRHkpAz1VStkb1bkvNo09Qa8wwZqqQv29Qj0YHOuAyUGLS2BtLxGGywlQ==;rbHpg4WKHdiVMlTH7O+tqw=="

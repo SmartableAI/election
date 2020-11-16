@@ -2321,10 +2321,10 @@ related:
         isCached: true
   - title: "Trump campaign abandons parts of Pennsylvania election lawsuit"
     excerpt: "U.S. President Donald Trump's campaign on Sunday dropped a major part of a lawsuit it brought seeking to halt Pennsylvania from certifying its results in the presidential election, narrowing the case to a small number of ballots."
-    publishedDateTime: 2020-11-16T07:33:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-pennsylvania-idAFKBN27W07P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27W07P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27W07P"
+    publishedDateTime: 2020-11-16T07:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-idUSKBN27W07T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W07T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W07T"
     type: article
     provider:
       name: Reuters
@@ -2341,6 +2341,22 @@ related:
     webUrl: "https://www.cbsnews.com/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/13/ec2e4457-992b-426c-8f7c-bd97a307b430/thumbnail/1200x630/738bd34dff635a1f56ed4c521709e8e7/trump.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump falsely claims he won the election; Twitter flags the tweet"
+    excerpt: "The tweet came at the very end of a day in which Trump worked to rescind an apparent acknowledgement that Biden had won."
+    publishedDateTime: 2020-11-16T13:37:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tweet-claims-he-won-election-twitter-flags/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tweet-claims-he-won-election-twitter-flags/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tweet-claims-he-won-election-twitter-flags/"
     type: article
     provider:
       name: CBS News
@@ -5905,6 +5921,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top Biden aide says U.S. government must approve transition this week"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
+    publishedDateTime: 2020-11-15T19:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
+        width: 849
+        height: 545
+        isCached: true
+  - title: "What will happen to border wall construction under a Biden presidency?"
+    excerpt: "Border advocates and conservationists said they would like to see a Joe Biden administration tear down portions of the wall on the U.S.-Mexico border."
+    publishedDateTime: 2020-11-16T14:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/border-issues/2020/11/16/what-happen-border-wall-construction-under-biden-presidency/6271979002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6271979002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6271979002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/fd0323a2-0a23-4a96-a32d-b7fd540ef44c-01Z_6358.jpg?auto=webp&crop=5471,3078,x0,y364&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Voting 2020 updates: Missouri polling place covers noose; Texas event canceled after Biden bus swarmed by Trump supporters"
     excerpt: "There was a six-hour wait time for voters in one South Carolina city Saturday. Native voters are facing voting challenges. News you need to know."
     publishedDateTime: 2020-11-02T08:20:00Z
@@ -8912,17 +8960,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Top Biden aide says U.S. government must approve transition this week"
-    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-    publishedDateTime: 2020-11-15T20:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -10492,6 +10529,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "After Congratulating Biden, France's Macron Sees Trump Envoy"
+    excerpt: "French President Emmanuel Macron is facing the potentially uncomfortable position of meeting U.S. President Donald Trump’s top diplomat, having already congratulated President-elect Joe Biden for his election victory."
+    publishedDateTime: 2020-11-16T10:52:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Mike Pence takes Florida vacation as Joe Biden formulates virus strategy"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
     publishedDateTime: 2020-11-09T17:46:00Z
@@ -10731,6 +10779,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wKfqRvQu1Kz/jQQ3zkeH9X4VN92SmoLc9FeQNTxv5sQibyJwgKs2zewdFKwo1dsMHPsB2MFxciOQjHIaTzeJHznaqZfx/Is0l3uAMjvOgOAMNz6i2M82CzR3RbCsRzbq8flLABVqJEgh/DgjnrJOOiDJwuPXwVZFRZG32X90eIg+qNLWheiG3NqZBby9cFWFvVfRdKF4hERYVyVNAmiL2G9dY0f/dJZ/x6iwYvIHrOu3CbwcyTF2HXY8eZna8H0hNwAmU9kUtAhA6UMuG/dLVcyWDpOsVVXxXCO/V+0M8LNBGk3w3zJNKk+xY4bHifVZK65Kpp8mUZccZGU0xGdO4urWooMYnvGeNLDON3CKBjk=;bLh6Tb5UI7rDQi1GqXaa5A=="
+secured: "MgB4K7lW+LaVHKACq3FcP5fOq/dQbcUe3l2n4/7oFKf7jgyxndMHejccK7d3rZ+j4q8JaISviJQeStOx1KFn659drGZ8vQqJlEMw8QAWtfBXTYso/EfAH8nKSze43/KXXh7PZNjoNrrmsPfVaX0snHZQAYvCKJjHnryt/759IQjNUvaHB39DFWBOqNqn0e28lsA02XXpV8mI15d8iwNpp5XJUXUgjzBTaV6PUqrjr9WOa4VvJ50uH5XCHqp985nL+J7ntGqvooMEC5QrBiMrSiEpabMdsjLEXaYDFr89/ScG6zBcu6kVGODSfTDa/sc5qjzthkVORpQNz+t0+V8Bi7TjnHk5M61NXjNGS38saIdcVkKuoZT3cjb+rqfhJ2wtUKy3gdxelBMEyktq8bT1jY6y5q50B3/IhxqbGOXrGux4g2xGhhdTGTTqcck3R5cEsMALDphWoztal8iq6VaqF0DHHFm+xphZsKRhLQsoPKzw/0NcWmKgS7JSNic4U6rAPdIB5rYnRL8BcPZwAuUUdQ==;PlViSzbCGt7pmMUx4n2vWA=="
 ---
 

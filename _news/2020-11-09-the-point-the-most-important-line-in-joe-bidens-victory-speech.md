@@ -543,6 +543,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
+    excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
+    publishedDateTime: 2020-11-16T13:00:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16transition-briefing-promo1/16transition-briefing-monday-lede-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
     excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
     publishedDateTime: 2020-11-04T05:11:00Z

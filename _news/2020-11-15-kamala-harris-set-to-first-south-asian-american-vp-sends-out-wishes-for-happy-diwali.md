@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-tw
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
 type: article
 quality: 117
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meet Connie Chan, Kamala Harris' right-hand-woman turned SF supervisor"
+    excerpt: "Newly elected District 1 Supervisor Connie Chan’s San Francisco story began in a rent-controlled Chinatown apartment. After arriving from Hong Kong at age 13 and attending the public high school Galileo Academy of Science and Technology,"
+    publishedDateTime: 2020-11-16T14:01:00Z
+    webUrl: "https://www.chron.com/news/article/Connie-Chan-Kamala-Harris-sf-supervisor-15717445.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 35
 
 secured: "N+/HGpIxbnoKDYPgNnCeyvt3PfZdYS976HI7lblDkKP2Ie3/ZnQA5/eIpKtOFusR2YjdjUveO3Q6iPlblC3zDMycYL7EK6V4/yjAHvfxTbwairBY/sj7MyY1Bx3KTcqHaSbYEZ7hrNJpKu3Yvx7bb4AGNw3kCe84fiMjP41T2KXcTfk2TEc9ZdlBgN8DAB3LL8w1jB2O/46hWncz13FtxRbTziQBdt9mwD+SPWbaSXtu0t3qRLWveZJldFOkoUvJWnyy+a7oot/LIJ2ugAmud4TJqBiaGCJ0nELWmo401/iVRrCXlrnuUYFWlU3wZ3iki0LtYkkSKjPMEivsLmNIbiz8u8W96Frrx7aqx/nPYqLxvRMJeoLs6KG/P8JGQQg2NHyOq2SFR1WUi5A4dC4+JpMFeI+wjFH/K6AKUsHNK96hpaoEl6hOG8pquCnwu+ptalI7FBJ9+bRbJnYU0q6bRYnsZZQsILV1Bmlg9OKz7xjaMh7NGx+TxLo96k2ZrYGvmvW9n+tu+0xFI7/z4QGUFg==;Ha7xix+9JOV08kXoq0Ovbw=="
 ---

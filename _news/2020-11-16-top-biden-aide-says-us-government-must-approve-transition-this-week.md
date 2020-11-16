@@ -2,13 +2,13 @@
 category: news
 title: "Top Biden aide says U.S. government must approve transition this week"
 excerpt: "U.S. President-elect Joe Biden's incoming chief of staff on Sunday said the federal government needs to sign off on transition team efforts this week so that Biden's team can receive national security briefings and address COVID-19."
-publishedDateTime: 2020-11-15T20:54:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-webUrl: "https://www.reuters.com/article/uk-usa-election-biden-idUKKBN27V0FW"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27V0FW"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27V0FW"
+publishedDateTime: 2020-11-15T19:51:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
+webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27V0FU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0FU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0FU"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541263608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0D1"
+    width: 849
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -2331,10 +2337,10 @@ related:
         isCached: true
   - title: "Trump campaign abandons parts of Pennsylvania election lawsuit"
     excerpt: "U.S. President Donald Trump's campaign on Sunday dropped a major part of a lawsuit it brought seeking to halt Pennsylvania from certifying its results in the presidential election, narrowing the case to a small number of ballots."
-    publishedDateTime: 2020-11-16T07:33:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-pennsylvania-idAFKBN27W07P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27W07P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27W07P"
+    publishedDateTime: 2020-11-16T07:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-idUSKBN27W07T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W07T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W07T"
     type: article
     provider:
       name: Reuters
@@ -2351,6 +2357,22 @@ related:
     webUrl: "https://www.cbsnews.com/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-claims-he-won-the-election-twitter-flags-the-tweet/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/13/ec2e4457-992b-426c-8f7c-bd97a307b430/thumbnail/1200x630/738bd34dff635a1f56ed4c521709e8e7/trump.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump falsely claims he won the election; Twitter flags the tweet"
+    excerpt: "The tweet came at the very end of a day in which Trump worked to rescind an apparent acknowledgement that Biden had won."
+    publishedDateTime: 2020-11-16T13:37:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tweet-claims-he-won-election-twitter-flags/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tweet-claims-he-won-election-twitter-flags/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tweet-claims-he-won-election-twitter-flags/"
     type: article
     provider:
       name: CBS News
@@ -5912,6 +5934,22 @@ related:
     quality: 125
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/4025d1ce-ab82-4e7b-a4f5-1b05c8738ec1-XXX_FORD_122606_11.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What will happen to border wall construction under a Biden presidency?"
+    excerpt: "Border advocates and conservationists said they would like to see a Joe Biden administration tear down portions of the wall on the U.S.-Mexico border."
+    publishedDateTime: 2020-11-16T14:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/border-issues/2020/11/16/what-happen-border-wall-construction-under-biden-presidency/6271979002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6271979002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6271979002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/fd0323a2-0a23-4a96-a32d-b7fd540ef44c-01Z_6358.jpg?auto=webp&crop=5471,3078,x0,y364&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -10491,6 +10529,17 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "After Congratulating Biden, France's Macron Sees Trump Envoy"
+    excerpt: "French President Emmanuel Macron is facing the potentially uncomfortable position of meeting U.S. President Donald Trump’s top diplomat, having already congratulated President-elect Joe Biden for his election victory."
+    publishedDateTime: 2020-11-16T10:52:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-16/after-congratulating-biden-frances-macron-sees-trump-envoy?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Mike Pence takes Florida vacation as Joe Biden formulates virus strategy"
     excerpt: "One week after Election Day, Vice President Mike Pence appears ready to take some time off. According to the Federal Aviation Administration, Pence is scheduled to travel to Sanibel, Florida, Tuesday through Saturday."
     publishedDateTime: 2020-11-09T17:46:00Z
@@ -10730,6 +10779,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "M6wPi5Il/1kXkoqqw5h/3aCiIp277UGEoZ3bSDL4WQYXbwnrVq1kkFRyUK4GST0L/2b7tWY0HDsRYTpbISx0kg0Ir/1FL8eH5Hu4IysJ2t+djmYnqKkbOINuiA4CLlrBSUFdAHpn+eCRhek8RSrjaJn/25EcNEFDUGmK3UtSsQHCMd5SZcHxjtuEbITKCaocP2PS9ez5B41HSI5o2Te6JU5x9LqzzNJvKvy+9enHkh7y6QStFqDqHUV4+02iBoIp/H5XNu4Mumwt1ww3q8eQONR4aXCi4d2nWqIy+0AQgb4aazOKZe1SoJkXHKTXk/xSmNqu150Lcw/9XDrPcgWZs5saQBrYfX7CVU1h8eGNCPY=;ccNajqp8EozIl1JEyEqlNg=="
+secured: "M2C/uDpKO2kTFdQKC57xoWH/6wMzqVnCaUW5XDDnJBohj/PHTY+zZ3sHBvWk0uki9/bzI0kBsbMSvGmfAyBlXzu7hDWBfk2Cp6bVCu/PAZln7STuLkpQih+a0HU9FrrAv7wEgsDhqfdW2MhSey3bnT/HZXqNOx/8eIX8I+BxTGCD8JBvkcV6CyyCPqTD/unnvKf/LkTMORvXQd56PibLD2XLNTiZKeRlhnzBHMnwHi2gGSgtV29+9C48CEAPsRucTkX4W0JHd6UC1GSocsktE0DjxCxRum7m3rnKrsZnF63R4MtsIg0UBlwz3gkoK8TvScptkhdjaY70SQnjQNNnyYTQrZDgNfWhvw0VNh9wxsQ=;k25Z4OlUEYN0fdxxXW6ljg=="
 ---
 

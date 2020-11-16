@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meet Connie Chan, Kamala Harris' right-hand-woman turned SF supervisor"
+    excerpt: "Newly elected District 1 Supervisor Connie Chan’s San Francisco story began in a rent-controlled Chinatown apartment. After arriving from Hong Kong at age 13 and attending the public high school Galileo Academy of Science and Technology,"
+    publishedDateTime: 2020-11-16T14:01:00Z
+    webUrl: "https://www.chron.com/news/article/Connie-Chan-Kamala-Harris-sf-supervisor-15717445.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 35
 
 secured: "QtPKF7MyCLaiojqKeiAhtIzGwi9ZiWpjlFSLKHGWZzXISfHT76pgSM1yyBI8iff/7W4MZiyuA9thjdv1GYGzHw9Rc/kBIxEiFHbLvDFPiVR72uZVrE5kilOXScG5Vu/Z09Mz58JeMe8UfbR9T5FBVdiYVrf6akl4CJT0oM/LK1tgH81qR+Su+mVoq9/mtvg9/fKFcjzFgUfi5o/KJ9SkVflkX8Hk7rcMB7TmcjuxHRrgnD9X1WQ1ecukmx5vMT5dMoV39DGHbvtVTV66hNHgH7UYQ4aX54XBEqk54W+7DtVcirC+CWX7OwYHn4bfUtsSvNkyYz00HxpSzJZcwzdGADEW7o9X/3EqJy3kB82eLd8=;7ERBUF+MsRJo2uAKoMiNEQ=="
 ---
