@@ -2223,21 +2223,53 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden advisers to meet vaccine firms as Trump stalls handoff"
-    excerpt: "Joe Biden’s scientific advisers will meet with vaccine makers in coming days as the presidential transition remains stalled because of President Donald Trump’s refusal to acknowledge that he lost the"
-    publishedDateTime: 2020-11-15T16:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-advisers-to-meet-vaccine-firms-as-trump-stalls-handoff/2020/11/15/9b43a006-275c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "AP FACT CHECK: Trump falsehoods on Biden win, vaccine myths"
+    excerpt: "President Donald Trump is rebelling against Democrat Joe Biden's win in the presidential election with a litany of falsehoods"
+    publishedDateTime: 2020-11-16T03:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-relies-falsehoods-deny-biden-74206537"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relies-falsehoods-deny-biden-74206537"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-relies-falsehoods-deny-biden-74206537"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5237732d1db140c69842121aea7183b0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden advisers to meet vaccine firms as Trump stalls handoff"
+    excerpt: "Joe Biden’s scientific advisers will meet with vaccine makers in coming days as the presidential transition remains stalled because of President Donald Trump’s refusal to acknowledge that he lost the"
+    publishedDateTime: 2020-11-15T23:50:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-advisers-meet-vaccine-firms-trump-stalls-handoff-74220464"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-advisers-meet-vaccine-firms-trump-stalls-handoff-74220464"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-advisers-meet-vaccine-firms-trump-stalls-handoff-74220464"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_0f96c27c2d5a4b35bc55f2c96ebcf718_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump acknowledges Biden victory before clarifying he's not conceding"
+    excerpt: "Mr. Trump continues to claim there was widespread fraud in the election, though there is no evidence to support his allegations."
+    publishedDateTime: 2020-11-16T03:10:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-biden-he-won-tweet-not-conceding-election/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-he-won-tweet-not-conceding-election/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-he-won-tweet-not-conceding-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/35ba7297-3195-43a3-8c93-15c7f34fb951/thumbnail/1200x630/7977ac5aaa1ca9af2fd171beff45c1d2/gettyimages-1285529800.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump briefly admits election defeat, clings to flailing legal strategy"
     excerpt: "President Donald Trump on Sunday briefly acknowledged losing the U.S. election in a morning Twitter post but then backtracked, saying he concedes \"nothing,\" and vowing to keep up a court fight that election-law experts say is unlikely to succeed."
@@ -8763,6 +8795,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Joe Biden's presidency could affect the U.S.' relationship with China"
+    excerpt: "China congratulated Joe Biden for winning the 2020 election on Friday, seemingly signaling an acceptance of the results. But tensions between the two countries continue to rise. Ramy Inocencio has more."
+    publishedDateTime: 2020-11-16T03:17:00Z
+    webUrl: "https://www.cbsnews.com/video/how-joe-biden-presidency-could-affect-us-china-relations/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/1d323f41-a4fe-4e04-ad6e-1ca1818e6199/thumbnail/1200x630/4970c838fe919532c60f62d5ddfcd136/cbsn-fusion-how-joe-bidens-presidency-could-affect-the-uss-relationship-with-china-thumbnail-588271-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden moves ahead in Georgia and Pennsylvania, moving closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden took a narrow lead over President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to winning the White House in a nail-biting contest as a handful of undecided states continue to"
     publishedDateTime: 2020-11-06T14:54:00Z
@@ -9207,6 +9253,22 @@ related:
       - url: "https://i.insider.com/5fb112421c741f0019ac9dd8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tens of thousands rally in DC to support outgoing President Trump; at least 20 arrested as protesters clash with counterprotesters"
+    excerpt: "Thousands of people gathered Saturday in support of outgoing President Donald Trump in Washington to protest supposed \"voter fraud.\""
+    publishedDateTime: 2020-11-16T03:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/14/trump-rally-washington-dc-million-maga-march-updates/6283411002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6283411002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6283411002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/1a076786-2b84-4d5b-8161-a52cf64520b2-USP_News__Million_MAGA_March_Demonstration_1.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fox News reportedly told on-air talent not to refer to Joe Biden as the 'president-elect' even if the network calls the 2020 race for him"
     excerpt: "Many of Fox News' primetime stars have fallen in line with President Donald Trump and amplified his lies about election-rigging and voter fraud."

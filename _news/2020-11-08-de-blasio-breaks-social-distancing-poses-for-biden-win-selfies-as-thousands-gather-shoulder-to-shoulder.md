@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "House leaders urge Democrats not to join team Biden to maintain majority"
+    excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
+    publishedDateTime: 2020-11-16T03:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lWR5vS904kI/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority"
+    ampWebUrl: "https://www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315617426290.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Progressive groups push Biden to tap Warren, Sanders, Tlaib for Cabinet spots"
     excerpt: "The President-elect may face a growing ideological split within the Democratic Party."
     publishedDateTime: 2020-11-11T21:05:32Z
@@ -382,6 +398,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
+    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
+    publishedDateTime: 2020-11-15T21:00:00Z
+    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260065/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
     excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
