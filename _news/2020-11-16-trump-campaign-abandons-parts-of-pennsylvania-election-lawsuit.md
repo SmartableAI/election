@@ -5825,6 +5825,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "In Georgia, Trump's shadow looms over pair of Senate runoffs"
+    excerpt: "President Donald Trump won’t be on the ballot in January as Georgia voters settle two Senate runoffs that will determine who controls the chamber at the start of Democratic President-elect Joe Biden’s"
+    publishedDateTime: 2020-11-16T04:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0feb020d30074f7d96279f87dc821dde_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Donald Trump shouldn't be able to pardon himself"
     excerpt: "Today, in the aftermath of his electoral defeat, we are confronted with the possibility President Donald Trump might pardon himself. No other president, not even Richard Nixon, ha"
     publishedDateTime: 2020-11-15T18:15:00Z
@@ -8853,14 +8869,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -10658,6 +10674,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fsjaS0J7aMcE76vATPmhJqXNctRWFpRa6yU7RfqR2g2o5w2qEqcJMUhi5Fi0KPz+pFZAWhuwB9+iMXXPlbRMf4h2rPKeGOIKHA28HfiXloBg9xJMvdLhAjiACXqvzre1ZQAj412WwRbNwImUai5R04TK6hRcgQ5aGb5RrOAOwY5ifnAXYgCpBOk99kT22V7eg10lACbyw5nK5y9GwZDNdLO7pniKCKbOOxLVJ7YD5o00cTnS4JwVGyT0JlfM7UheF5/i65dIPF/eidqOs70JPI16alPwvY9uwaM5qERgj3DM0DL41DQnB7L2u5p8VBzrJ0DypOEzVF0I0moONlnTvUrBgNBemQXuotXsXCjHWsg=;Imn8lj6xQlKSgCZaygXpWQ=="
+secured: "0ZKFuzm1RMQHmNAVnCwwOtt11CDsswv1NEdmfbxOtVJF+9SXqsN5axdP9lkpWB4ufKZ9m/Uj/org3FstxQORWfBGZBvCVyS+sroAtbMAcGcgxk6mCAojI2Srp9t3dF4BUcCVRQslRsL9C1/0BSisEuOBKarBl/Rt8nH+ojo8Q/7Wt8Py0WOIQPMcPizK01GIjfacBPeHJggL/JCsbYfO4SzMP6CHoDMv/fJBJgbvNhf2Z3w6yQY+09r45aP56LliNniVlTnOScvvoVEMrOYC2tkvZ63mWoneLR0Qz4eCXMYY7g2HCN8nN6A6ofrTs/VHGy99Bd9AsdP/wsDpbLp/hEZpqs3XLYBIDxsl++EkrcWRi7D9AfF8o6BHiSAHqE0ZBNpwDeuURBhiQaWgO/B0DFvHvuTp52cUoJnLqmkVFgoj4Wpt8AsyFWF9gRLheK4vtxq1zPC0KgvnOTfkrHUSEAZxs9FrxCRvEN1x6Cz4pbf62iXKJg/9cA/pS3MeswcRimqoroIZqi1qkZmIoJjWvw==;n7oRdHEa1PjtX4LyfTF2NQ=="
 ---
 

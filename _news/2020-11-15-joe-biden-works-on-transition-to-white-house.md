@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden works on transition to White House"
 excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-11-14T18:06:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
-webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+originalUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -5839,6 +5839,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "In Georgia, Trump's shadow looms over pair of Senate runoffs"
+    excerpt: "President Donald Trump won’t be on the ballot in January as Georgia voters settle two Senate runoffs that will determine who controls the chamber at the start of Democratic President-elect Joe Biden’s"
+    publishedDateTime: 2020-11-16T04:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-trumps-shadow-looms-pair-senate-runoffs-74185025"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0feb020d30074f7d96279f87dc821dde_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Donald Trump shouldn't be able to pardon himself"
     excerpt: "Today, in the aftermath of his electoral defeat, we are confronted with the possibility President Donald Trump might pardon himself. No other president, not even Richard Nixon, ha"
     publishedDateTime: 2020-11-15T18:15:00Z
@@ -10658,6 +10674,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3sDuXqAPxmbOJdcLJSaSCc8FAQJwlypzwRsdztM+bs4dDGEiwk99Kruk2CGGQXedxvf+R2mN9H00SgYj/nEuOv+xazw5/DQ6Sj8F7qqo5nFnFlW6Grj511cq+a3ne5YxGuWbEPTFOrQT/VttEkfUyryulb0fEv7FunAvY9zK8Cf5J7H2pDrIfvVQM/558giQvoBZp0bahY51GWaVsKgIr4Fny8Jr5g98gxFaAF+ALW+zmjOdr0lKrkdHgRE1yi3tVzXJCeyay53ZmZ0faifPIgEDs0IX2QUAeOzXDqo/HIIvoPowEuoPEQZXs6hlPv4RNZePCOUR2/ziXJdoXbcoqLWHwBLReeroQjVCJnuK5U5Irzk6HYDXtzQ92o7BSAW9Ncsj+e2dk2YiprMamWUvmi9Y/7EehCLLHp4f2xmY4p/H8gQI0zLLD/0WyakLU0PTxMd2U4czAiEgmng23ynSqc0ODJypA1dIxaH+rrzTm7two0W/CCdKECXxfgrHFsdnZ/7+rkLpBidvKj+5R0iwBA==;LQ4hnX7mpesm3BBBZPx4Rw=="
+secured: "cMD4LKs2xTLRh53yk3M7MJ4bnIAjXlDKQmIdWC+2HQnezq5nb7DW6jY4k5Y6PhiuI5BS15Q5UX8wrpG7+tojSGgiK8HqVqlqvpRkc34RU4EQNLXRg4TgnRpxYMwScjs5W81KHmy7xaQILYo0gs5XdUrnE/eswA7qh1N1X5A6/uFUowJNUkmCJz+wHMj/+BZ0rK1/m5TAg37+akG2wYQkc9feZzy7pnxd90Fs12AvhTtOnLxDQlsjRfWGtApsJm4hKl1Td7+DfI9JOVs7SjhYt3VccHOPnsP8hFxGDtn24irjVN5U90qW233sSPw00xTsc+JYnPi69ZgmNKzgmZU0WNcJLC+ArGfI5xZnNIY+QFI=;2QUwAmM3VHsf5lxmJnkcKw=="
 ---
 

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
+    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
+    publishedDateTime: 2020-11-16T10:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "iTM0ClImlW+Tf4mdKL704vwG5iqbBky0fLV7aSkam/0EMCax36EShvcnpY75gNG/1Y8vKzExcLucpkt7oqWAL3dmPo3SXU3NRyndy4X85eoA8RKqxa7gfDGb57N195rYb3TMeM7pmu63Mj89Lkei2YrGZN9ZwtuxQiCdvW48BMI+n1scS+mmTHlvI5abq37lso9hfEOojh3JatV7iRPKaeYciEZv7IcYtQBa/qDk1UF8Y5ERYeRfgd0pT5qCvn8YCGfFS6e0b6IW3UF6fcsnD1HpuEiX/mLHtrn6ZTB2n64bsKJTNdZFo6cXstYKxokafQYYFqsh8EZujGNmUGIM4RjN9dVcdzm5N6beztkvD9U=;1mO2gSCWPl0b8mbv9Jt/qg=="
 ---
