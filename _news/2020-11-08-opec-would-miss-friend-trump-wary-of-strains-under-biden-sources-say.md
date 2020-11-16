@@ -217,6 +217,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump concedes 'nothing' on election; Biden team to meet vaccine makers"
+    excerpt: "President Donald Trump appeared on Sunday to acknowledge losing the U.S. election but then backtracked and said he concedes \"nothing\", while President-elect Joe Biden focused on tackling the coronavirus pandemic and set meetings with pharmaceutical companies developing"
+    publishedDateTime: 2020-11-15T23:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/trump-concedes-nothing-on-election-biden-team-says-smooth-transition-essential-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541260971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BS"
+        width: 771
+        height: 545
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -2201,6 +2217,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump briefly admits election defeat, clings to flailing legal strategy"
+    excerpt: "President Donald Trump on Sunday briefly acknowledged losing the U.S. election in a morning Twitter post but then backtracked, saying he concedes \"nothing,\" and vowing to keep up a court fight that election-law experts say is unlikely to succeed."
+    publishedDateTime: 2020-11-16T00:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-7-trump-briefly-admits-election-defeat-clings-to-flailing-legal-strategy-idUSL1N2I100Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V04W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V04W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541260971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BS"
+        width: 771
+        height: 545
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -4138,6 +4170,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/30/USAT/1d55068c-ee2c-457c-8cbf-7e4f4de6e25f-AP_Election_2020_Biden_Obama.jpg?auto=webp&crop=1023,575,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "'It's critical' for Republican leaders to explain to voters Trump lost the election: John Bolton"
+    excerpt: "Former Trump national security adviser John Bolton and former Obama Homeland Security Secretary Jeh Johnson appeared on ABC's \"This Week.\""
+    publishedDateTime: 2020-11-15T21:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/critical-republican-leaders-explain-voters-trump-lost-election/story?id=74210290"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/critical-republican-leaders-explain-voters-trump-lost-election/story?id=74210290"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/critical-republican-leaders-explain-voters-trump-lost-election/story?id=74210290"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jeh-bolton-gty-rc-201114_1605387507325_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
@@ -7353,6 +7401,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541163297&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1OV"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden advisers urge immediate COVID-19 action as U.S. infections close in on 11 million"
+    excerpt: "U.S. President-elect Joe Biden's top advisers called for urgent action to address the nation's \"deeply alarming\" COVID-19 epidemic on Sunday, a day when total U.S. infections are likely to cross the 11 million mark just eight days after hitting 10 million."
+    publishedDateTime: 2020-11-16T00:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-idUSKBN27V0GK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0GK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0GK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541278863&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0K4"
+        width: 815
         height: 545
         isCached: true
   - title: "ABC, CBS, and NBC cut away from Trump's White House address riddled with unfounded accusations about the 2020 election"

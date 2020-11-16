@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-electio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -412,6 +412,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-260183/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Violence Led to Arrests, Injuries in Wake of Pro-Trump Demonstrations"
+    excerpt: "At least 21 people were arrested and numerous people injured, authorities said, as left- and right-wing activists clashed in Washington, D.C., over the results of the U.S. election."
+    publishedDateTime: 2020-11-16T00:11:00Z
+    webUrl: "https://www.wsj.com/articles/violence-led-to-arrests-injuries-in-wake-of-pro-trump-demonstrations-11605480338"
+    ampWebUrl: "https://www.wsj.com/amp/articles/violence-led-to-arrests-injuries-in-wake-of-pro-trump-demonstrations-11605480338"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/violence-led-to-arrests-injuries-in-wake-of-pro-trump-demonstrations-11605480338"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260266/social"
         width: 1280
         height: 640
         isCached: true
