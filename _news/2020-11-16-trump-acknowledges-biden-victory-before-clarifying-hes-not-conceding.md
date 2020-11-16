@@ -2271,6 +2271,22 @@ related:
         width: 771
         height: 545
         isCached: true
+  - title: "Trump seems to acknowledge Biden win, but he won't concede"
+    excerpt: "President Donald Trump appears to have acknowledged for the first time that Joe Biden won the White House election"
+    publishedDateTime: 2020-11-16T01:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-acknowledge-biden-win-concede-74219414"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-acknowledge-biden-win-concede-74219414"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-acknowledge-biden-win-concede-74219414"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f88f60cca8e94d99abcbb2dc44aaf4fc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -3704,6 +3720,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FC7EKZBGBQI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "WRAPUP 1-Biden to focus on plans for U.S. economy as Trump presses long-shot legal claims"
+    excerpt: "P resident-elect Joe Biden on Monday will focus on plans for reviving a pandemic-battered U.S. economy as he prepares for his new administration, while President Donald Trump vowed to press ahead with long-shot court challenges to the election results."
+    publishedDateTime: 2020-11-16T06:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSL1N2I10M4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541267276&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0EF"
+        width: 818
+        height: 545
         isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
@@ -8757,14 +8789,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -10573,6 +10605,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "m6N7rFgSLV698JrdCYBeJMXTD66TmzHeq4sgmtj4Jaz00cA0cal+JORNLsg3c/1ejSCKrR0lB2XJqIaUUAjIRO+V9dUAuQjkFqOXesz1CGPlZ/vyQeRj5pDfhhAp94sGT7iII+fE3756stbkv1MkIbiFTkxo7Dixa2f9ewPnlb3wN7G0kVjHHOfrFL3K1ip8bSZHg6EY3OI9kxlSv1E34VIYAHiTNQVplcsyTwvm0y5p2Whv+Il53jhpXZgJxhowCbt5GHF5MpN8vimmuzvO4nFuEjxcsTdjANG32lIPFNI9HMm1X1sYhXGhIHH2zs2ZaBxtQQZeVd/7BYzBqdWH0EgWVBVNkXaUXJ6dGmf2y9Y=;LWlXWg2LtDdUa4fa+EE7Hw=="
+secured: "sRkjzAPn7GPpP5naTa6qb2IPtsSn8nrFJdTbMEMhjfZchxtercB2b9vO5Z5Qk9VWf43KMQv8NmBuFdkIHHIbiDUi8runT3cV3ZoEz8XHSP3O08KVCvMYl2a3Vs7Cp+o7VCoZ03GljhlcAiu81W4uco/Zbu5fs42CfQU1hmZP6PMZn55ScQOD0PBJWxMttvj6c9qUzU8RECqb3Voj8N8chgXdzlC+eQzdA4KtS8zIV0iUHJHqtZVcIuoG9gmYv1XlzlceVnjre2iw9uVt8HlQgh/q9tfLQ8xkHj/Ov5558q4rEzkGh6NAWuSkxgYBdy8hxIIu0pzeVmi3zxlvY8g6WDVHzg50xUhglIPRj1vjiwQlyPslzNRSr9uN9QWXv8dVCQXtSGaqItNyVSdxmlWGYJ4nbcgCer7UtbdV8QFJVd/MZXqWsY871d0FolKiKu+GSI8+QNp9bvmfRTs71Yg8L4mNo3BRxRUMi2TYfKKUWhGQ2g9b5TkpC2BGK0CBxvSE7Dlo+UtFNud24/geM4o1/Q==;BTe6dMILelQVXbQ89cU1sQ=="
 ---
 

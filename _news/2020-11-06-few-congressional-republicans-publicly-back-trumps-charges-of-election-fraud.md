@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's failure to work with Biden is becoming more urgent as Covid spreads"
+    excerpt: "President Donald Trump is facing a barrage of calls to permit potentially life-saving transition talks between his health officials and incoming President-elect Joe Biden's aides on a fast-worsening pandemic he is continuing to ignore in his obsessive effort to discredit an election that he clearly lost.\n"
+    publishedDateTime: 2020-11-16T05:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o3aQCHsJsBY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/election-2020-donald-trump-joe-biden-transition-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/election-2020-donald-trump-joe-biden-transition-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113163942-03-trump-rose-garden-presser-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump is dragging his whole administration into election rejection"
     excerpt: "If you read all of those pre-election stories about the potential for President Donald Trump to deny the election results and muck up the government before he left office and thought there's no way he would actually do such a thing, prepare to be disappointed.\n    \n"
     publishedDateTime: 2020-11-11T03:11:34Z
@@ -2172,6 +2188,20 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration will attempt to box Biden administration in on China policies"
+    excerpt: "The Trump administration plans to continue carrying out its hardline China policies in the next two months before a Biden administration takes over, administration officials tell CNN.\n    \n"
+    publishedDateTime: 2020-11-16T04:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-ndNUWn-hY/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108102810-white-house-morning-1108-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
