@@ -2413,6 +2413,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden cites need for Trump to share virus plans"
+    excerpt: "President-elect Joe Biden says the outgoing Trump administration’s failure to share specific plans on combating the coronavirus pandemic is stymying American businesses’ abilities to find ways to grow"
+    publishedDateTime: 2020-11-16T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -7451,6 +7467,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump blocks Biden's team from White House COVID-19 task force"
+    excerpt: "Members of the White House coronavirus task force are coming forward saying they should be able to meet with the Biden transition team to stop the pandemic. The president is doubling down on his refusal to concede and riling up his base,"
+    publishedDateTime: 2020-11-16T20:44:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-blocks-bidens-team-from-white-house-covid-19-task-force/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/16/a18a24b3-edf0-4c41-b3b8-098f34776609/thumbnail/1200x630/7746fb407ba6dd1749d0dff2777e2fe7/1116-ctm-trumpbiden-mw-jiang-588790-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -7523,6 +7553,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/12/gettyimages-1149090321_wide-468ad52e7d25dbe161f383d69197fce46e4fbd70.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "The Trump official blocking Biden's transition is apparently looking for her next job, according to a new report"
+    excerpt: "General Services Administration chief Emily Murphy won't formally declare Biden as the election winner, but is exploring career options after Trump."
+    publishedDateTime: 2020-11-16T20:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-official-emily-murphy-blocking-biden-transition-looks-for-new-job-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-official-emily-murphy-blocking-biden-transition-looks-for-new-job-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-official-emily-murphy-blocking-biden-transition-looks-for-new-job-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fb2d033402d49001924f338?width=1200&format=jpeg"
+        width: 945
+        height: 472
         isCached: true
   - title: "Some Americans dance, others wield guns at vote-counting sites as Biden's lead widens"
     excerpt: "Joe Biden supporters danced in Philadelphia's streets on Friday, while armed backers of President Donald Trump in Phoenix shouted, \"Stop the steal\" as a third day of post-election ballot counting brought the Democratic former vice president closer to winning the White House."
@@ -9342,6 +9388,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden campaign says Georgia's U.S. presidential recount reveals no irregularities"
+    excerpt: "Georgia's presidential election recount has shifted vote totals “almost imperceptibly,” offering no evidence of widespread irregularities in the battleground state for which Democrat Joe Biden has been projected to win,"
+    publishedDateTime: 2020-11-15T23:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-biden/biden-campaign-says-georgias-u-s-presidential-recount-reveals-no-irregularities-idUSKBN27V0MB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V0MB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V0MB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "As Donald Trump Refuses to Concede, America Is Caught Between Crisis and Confusion"
     excerpt: "Donald Trump to overcome his vote deficit in enough states to change the Electoral College result. But Trump has refused to concede, and has conjured fantasies of widespread fraud for which he has provided no proof."
     publishedDateTime: 2020-11-12T12:42:00Z

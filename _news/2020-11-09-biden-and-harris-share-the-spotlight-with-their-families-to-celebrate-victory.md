@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
 type: article
 quality: 197
-heat: 1057
+heat: 1077
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats seek to avoid scorched-earth fight with White House over transition to Biden administration"
+    excerpt: "House Speaker Nancy Pelosi and President-elect Joe Biden's team are arguing that it makes the most strategic sense for now to let public pressure build on President Donald Trump for preventing the transition from officially taking place, rather than using the power of the House Democrats' majority to"
+    publishedDateTime: 2020-11-16T20:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MM5mORpkGOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 11000
+heat: 11020
 published: true
 
 provider:
@@ -2284,6 +2284,20 @@ related:
       - url: "https://i.insider.com/5f89c9cf9e9fe40019009c9b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden & Kamala Harris address the economy..."
+    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-16T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
     excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."

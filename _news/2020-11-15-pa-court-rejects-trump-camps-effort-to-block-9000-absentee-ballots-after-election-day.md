@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
+    excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
+    publishedDateTime: 2020-11-16T20:14:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/syhQIuAl_-s/trump-election-challenges-allegations-short-evidence-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell blasts Dems for accepting Biden win after questioning validity of 2016 election"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., told reporters Tuesday that there is “no reason for alarm” as to why Republican leadership has not called to congratulate President-elect Joe Biden as they wait for the Electoral College to officially vote."
     publishedDateTime: 2020-11-10T21:46:26Z

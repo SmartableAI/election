@@ -2299,6 +2299,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden & Kamala Harris address the economy..."
+    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-16T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence and Harris defend their running mates, evade questions at VP debate"
     excerpt: "The first and only vice presidential debate of 2020 marked a return to a somewhat more traditional event filled with policy disputes and party-line attacks. CBS News correspondent Nikole Killion joined CBSN to discuss key points made by Vice President Mike Pence and Democratic nominee Senator Kamala Harris at the debate."
     publishedDateTime: 2020-10-08T15:49:00Z

@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-06-fox-cnn-carry-president-trumps-falsehood-laden-speech-as-msnbc-abc-cut-away-for-fact-checks.md",
-      "title": "Fox, CNN carry President Trump's falsehood-laden speech, as MSNBC, ABC cut away for fact checks",
-      "excerpt": "As Fox News and CNN covered President Trump's falsehood-laden speech about the election Thursday, MSNBC pulled away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/11/05/fox-cnn-covered-trumps-falsehood-laden-speech-msnbc-pulled-away/6182029002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6182029002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6182029002",
-      "publishedDateTime": "2020-11-05T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-greta-thunberg-mocks-donald-trump-with-his-own-words-in-twitter-revenge-chill-donald-chill.md",
       "title": "Greta Thunberg mocks Donald Trump with his own words in Twitter revenge: 'Chill, Donald, Chill!'",
       "excerpt": "Within four hours on her Twitter post, Thunberg's tweet had surpassed Trump's in both likes and retweets, and \"Greta\" was trending in the U.S.",
@@ -1572,6 +1520,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court.md",
+      "title": "Trump Threatens Supreme Court To Prevent ‘Ridiculous Win’ For Biden, Claims Dems Will Pack Court",
+      "excerpt": "In a flurry of tweets in the early hours of Friday Trump attacked Biden claiming he’ll destroy the Supreme Court",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9be814380371914e539a1e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D0%26cropY2%3D3077",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/amp/",
+      "publishedDateTime": "2020-10-30T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

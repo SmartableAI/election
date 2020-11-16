@@ -2,6 +2,119 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-09-biden-and-harris-share-the-spotlight-with-their-families-to-celebrate-victory.md",
+      "title": "Biden and Harris share the spotlight with their families to celebrate victory",
+      "excerpt": "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1077,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html",
+      "publishedDateTime": "2020-11-09T14:04:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mcconnell-backs-trump-legal-fight-in-election-results.md",
+      "title": "McConnell backs Trump legal fight in election results",
+      "excerpt": "The Trump campaign has mounted legal challenges and alleged voting irregularities or outright fraud in several states.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eq3rdDcR1No/mcconnell-trump-legal-fight-election-voter-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eq3rdDcR1No/mcconnell-trump-legal-fight-election-voter-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 950,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6057d5f-dd82-42f4-8fe6-9d5d8da50365/fd86e58d-8190-42a5-98f1-d3e7f3fdd002/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
+      "publishedDateTime": "2020-11-09T13:47:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-mike-pence-heading-to-florida-for-some-time-off.md",
       "title": "Mike Pence heading to Florida for some time off",
       "excerpt": "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week.",
@@ -712,7 +825,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 14521,
+      "heat": 14601,
       "tags": null,
       "images": [
         {
@@ -1244,114 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-president-elect-joe-biden-seeks-diverse-cabinet-to-look-like-america-in-leading-federal-departments.md",
-      "title": "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments",
-      "excerpt": "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3748535001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001",
-      "publishedDateTime": "2020-11-08T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-romney-says-trump-should-follow-every-legal-option-he-has-but-choose-words-carefully.md",
-      "title": "Romney says Trump should 'follow every legal option he has,' but choose words 'carefully'",
-      "excerpt": "Sen. Mitt Romney, R-Utah, has no problem with President Trump challenging the 2020 election results in court, but said that he should tone down his public rhetoric.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3aIPzEJwJ4M/romney-trump-election-legal-options-choose-words-carefully",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2afb325-628d-4555-9f91-0f96e2a4c747/64e456b4-b4e1-4314-8170-0a961286f86f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-trump-election-legal-options-choose-words-carefully.amp",
-      "publishedDateTime": "2020-11-08T07:10:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

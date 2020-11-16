@@ -239,6 +239,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
+    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
+    publishedDateTime: 2020-11-16T19:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
     excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
     publishedDateTime: 2020-11-13T03:54:23Z

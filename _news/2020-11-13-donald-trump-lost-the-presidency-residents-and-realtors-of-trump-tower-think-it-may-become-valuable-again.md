@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trum
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
-    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
-    publishedDateTime: 2020-11-16T16:39:00Z
-    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "DzxEygZ0X6u5mevPOF97GoU6FrfqEPIXzscttw36v24Kma1AZnfKqgUnvJuqq2gfBB+mQl8wT8uUgXcohvujljJwPFYDAazzhCcK+9e9L364ryoqmNYNXSktlRpjJ2m899LqaZbbEaiWMTfBrYJaYsmREFeXKYuuyi1Km1aRNPDjlb7aralnUbp3bXQqXq8IkW0eTFZqAQRc1ruYncDD2ZHK5GYf1sOIQyz0Gfwhy7AvsasUJybgs75ON9PFjhqDKyflp7BScgUXlVYIJaVettSkdBiudgtB71GOfdQ9jJESiWtZAvXz6agPWT7UX0e/d3U8OkCU0K2IoD7NbL3opFMa+puvHwVPkm1zUX8s/dpj+JFVhRjeXmc+E0vlNPU6DTkORc0CuHRQkuiBntz5g3R6uNEMd1ABOjYmAa9RNRP4oeFFMgnVT6WsihjLaw5mMzS9Xa9P4JmML51orYUV4iy6YJgUK/nw0+U+KONtWvYU77COaOnBfI+q6odXsq6DGdfo4MXkIj5iNDwIt/7akA==;05sod2eWnOFd7Dh+4orJ5g=="
 ---

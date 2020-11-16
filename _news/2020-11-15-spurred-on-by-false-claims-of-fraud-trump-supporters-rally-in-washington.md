@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
+    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 107
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
     excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
     publishedDateTime: 2020-11-14T00:21:00Z

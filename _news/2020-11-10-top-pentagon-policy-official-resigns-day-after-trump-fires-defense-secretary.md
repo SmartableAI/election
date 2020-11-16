@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
+    excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
+    publishedDateTime: 2020-11-16T20:59:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/merlin_160070196_ab2086c5-d116-41af-b545-332fc32dddc3-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "UPnWl6yAkGQLfZ3NsdbmVpb0hNEliB8a7ju2i9ysNys5VN4hNNPME/KMo723TIVdsm6RnO9RGWbLoZHWlvZ7h69wzMEWdsfLxrlUx7GMu+z+E0ewBpVI6e+Ky+JFWiWCrDG+qxojYfFOfd0rvdM+5nZIT316uYYRzBeMK4RH3raFpTp9ohRpMgTs83/QDT8W/tSVdJAXrs/I/qvLHdC8iP6ofxOi/w93pw2xSiIBzyKlP/Ta4da1bN4EVu8Gn1OinaEqX7bGjRM/wj39siMO7tGdH3IHELSgr4rT4ijZuJk3SZfTIdXxBmG6Dww8gqL1HAI+hE08zML4E8pHb9jydZi5xlxEInAv+qLq7qklFI8=;hEP2P4OVVF36RG8yt+9TYg=="
 ---

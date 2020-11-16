@@ -27,21 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump supporters can get free food at Kentucky restaurants owned by the same couple. But there's a catch."
-    excerpt: "Louisville restaurant owners Troy King and Selena Johnson are offering free food to anyone who trades in Donald Trump merchandise."
-    publishedDateTime: 2020-11-12T04:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/kentucky-restaurant-free-meal-donald-trump-maga-supporters/6261164002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6261164002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6261164002"
+  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
+    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PLOU/959e4d35-d555-469a-98b0-632ce95f5d86-0116DINE_6ForksBurgerCo02_DRL.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Barack Obama on Trump: \"This is not normal\""
+    excerpt: "In his interview with CBS News' Gayle King, former President Barack Obama comments on Election 2020, and President Donald Trump's allegations, without evidence, that his election loss was due to fraud."
+    publishedDateTime: 2020-11-16T00:14:00Z
+    webUrl: "https://www.cbsnews.com/video/barack-obama-on-trump-this-is-not-normal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/a95c601d-ee80-4f64-a4fb-a5f7e5d7ba46/thumbnail/1200x630/339301e5a15b8b557ecccc191db80c77/1115-sunmo-obama-normal-588504-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
+    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
+    publishedDateTime: 2020-11-16T16:39:00Z
+    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'"
+    excerpt: "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump."
+    publishedDateTime: 2020-11-12T15:57:00Z
+    webUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ZKYBVV4iG+ZqJv8KNcl2Kn0fiIEm68rE3H3MdU4G5cGqeP/pfAsLAu7VoayCehuqlroF8cvqh5pOJ1IdaTMadMVVb9DRj9oOlVkV2z1sS+YCqcnOjILJYzbw48wKuzGVWCLdg9w07/rb/I+7uNuIP5QtISPmr3wABHijgc+jETvXhlyNEuO+uoXV9/0NtllTWY38uMSpNCL6fPsgES2aJh+WeG3KmsZBDpjfUasSQb7AuHz+4UEXj9SxTdT4XumnYWGkZdC98PP/wWrs9TGTuj5/iMp8c8ZIXV0AwotkZ/Wml4JrOqh775k1LhrdVSLsrFd+zBBML8dKKGMKQLd6JWFDircX5/6TwAnrG9H71S8=;M9k4aUPWKrvm0APxOEfVNw=="
