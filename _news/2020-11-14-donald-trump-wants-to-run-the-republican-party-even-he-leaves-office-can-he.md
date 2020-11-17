@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans leaders privately described Trump as a political liability and warned they face losing Senate runoffs"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
+    publishedDateTime: 2020-11-17T12:38:00Z
+    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "C2ueJ3HH+x2wx8c48E9Eme2x9ZlLB+K32IEOCVjjzb6drcZjGnZZuEh591AkDl4JUlPqQoaxyN/9esthPcV/Ro/NQFnMeICrDQDTj+TM+bPgpNl9GNNdoDO9zqGyK3J7gy+aGp2Qqn9G8gDFTfDuXDbtx82wYHjf3QauvVAuYlI7VboUMO7mT0AkjZkpwSUChnTBVUJTZhnTmufCejw5/XJUv2vLLkqfE6/cYYkbgT1HgVzxhBqo5N7eyEn9tqd+VQBaiF3MPWU6Mpp3bgIRgIO65hzFTxGrFnPyBO+0BtUuW+r3/GJCi9wPYpwB/KDFybV2WBxRFtNb4ij0Fnn+oDa9/LBguovM1e434fpaHe12idhrYciH9P7DIuXCJyYGmkpBvq7zDg+k5kG0d95wxjCRyRV4cgBiyfSzIttMns3bL/fWsVYLepmaUh4iV98bANrE+2T8sIBGDB5Y2Bh4kcTjikpOJj8B7JWdLUgY9B2Jz+RHLAod175jbvli5zfg2b12Gr+cG9f8uTX7bAw7gw==;kCAdt2IRIWPymkTJ8ga9gw=="
 ---

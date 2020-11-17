@@ -720,6 +720,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's fraud accusations make no sense. The suburbs, not the cities, are why he lost."
+    excerpt: "President Donald Trump continues to carry on with his unfounded charade claiming the election was wide-scale fraud. At the heart of many of his campaign's complaints is that the big cities in the Great Lakes (Rust Belt) battleground states, such as Detroit and Philadelphia, helped to \"engineer\" a certain"
+    publishedDateTime: 2020-11-17T12:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2HjSGheax8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men."
     excerpt: "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n"
     publishedDateTime: 2020-10-23T13:34:21Z

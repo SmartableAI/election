@@ -78,7 +78,7 @@ related:
   - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
     excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
     publishedDateTime: 2020-11-17T02:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-canada-idUST5N2FK01W"
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
     type: article
@@ -101,6 +101,22 @@ related:
       - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
         isCached: true
 
 secured: "4lx/0g4YOuTpUqB2uJQlVwHKolFEXvMrvPSDMdu+J71DarZeoxOtFKPt1Gczxz2KxoL/YbhCiRtzTySC6GP1BVOiip+GuO2h8ZUuntN7ZV/1DSI7L19lhSzqn8mbuwH3JRfJ9wlSRAanx/aewX+gQya0tjMlDlrua0Gy6kaH+HwNOjyDF5pQ6RWRvI0Ms+59gGwIaQQ5JBUsNCkfz/pf+7EsLKzh+vvq8fkSoyvk7uXZWLlHzSX52PrB/EHHIQ1GpQzkZHC1PJuVtIvWx7LK8ZFvAkkWno5dYK1gAeQXDZN8Gvz8+Qm10DRZwjBW0gjuXXljshoxIYoVq2BuYx5dItBcZggg2P6Rf7Iu1dE+QQ4=;JBfg99NZzO8HfhPCXBrNJQ=="

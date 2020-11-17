@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
+    excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
+    publishedDateTime: 2020-11-17T13:26:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'"
     excerpt: "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\""
     publishedDateTime: 2020-11-11T00:08:48Z

@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-22-mcconnell-on-bidens-court-commission-plan-court-packing-ought-to-be-completely-unacceptable.md",
+      "title": "McConnell on Biden’s court commission plan: ‘Court packing ought to be completely unacceptable’",
+      "excerpt": "Sen. Majority Leader Mitch McConnell said that Joe Biden’s plan to form a commission to “reform” the court system meant that he was “open to” court packing. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eFbqic80cbE/mcconnell-bidens-court-commission-plan-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19899717-32ae-4f23-b506-19f2a7bb297e/e55fec0a-f492-4aee-b8b3-6cccdd79288b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-court-commission-plan-court-packing.amp",
+      "publishedDateTime": "2020-10-22T14:50:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-lambasts-lesley-stahl-for-pressing-him-on-tough-questions-thats-no-way-to-talk.md",
       "title": "Trump lambasts Lesley Stahl for pressing him on 'tough questions': 'That's no way to talk'",
       "excerpt": "President Trump, in a testy interview with CBS's Lesly Stahl, chastized the veteran reporter telling her \"that's no way to talk\" when she ribbed him about his ability to take \"tough questions\" during an interview meant to air on 60 Minutes on Sunday. ",
@@ -1611,62 +1667,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.md",
-      "title": "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate",
-      "excerpt": "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "publishedDateTime": "2020-10-19T11:24:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

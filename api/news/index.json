@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-the-energy-202-trumps-last-minute-environmental-rules-changes-may-make-things-hard-for-biden.md",
+      "title": "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden",
+      "excerpt": "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp",
+      "publishedDateTime": "2020-11-17T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.md",
+      "title": "Darrell Issa, 'recycled' congressman from California, doubts Kamala Harris' bipartisanship capability",
+      "excerpt": "Darrell Issa, the former thorn in the Obama administration's side, is back on Capitol Hill after a brief exit from public office, and the Republican is casting serious doubt on whether fellow Californian Kamala Harris can work effectively with Congress as vice president. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312675503727-e1604845329811.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
+      "publishedDateTime": "2020-11-17T04:16:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-trump-asked-for-options-for-attacking-iran-last-week-but-held-off-source.md",
+      "title": "Trump asked for options for attacking Iran last week, but held off: source",
+      "excerpt": "President Donald Trump, with two months left in office, last week asked for options on attacking Iran's main nuclear site, but ultimately decided against taking the dramatic step, a U.S. official said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-iran-trump-idUSKBN27X061",
+      "originalUrl": "https://www.reuters.com/article/usa-iran-trump-idUSKBN27X061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541431012&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG019",
+          "width": 771,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X061",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X061",
+      "publishedDateTime": "2020-11-17T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-trump-counts-crowds-size-using-maga-math-says-stephen-colbert.md",
       "title": "Trump Counts Crowd’s Size Using ‘MAGA Math,’ Says Stephen Colbert",
       "excerpt": "Ten thousand, a million — it’s just how they count,” Colbert said of Saturday’s Million MAGA March. “You round up for marches, you round down for Covid deaths.”",
@@ -167,6 +328,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-can-bidens-green-agenda-break-the-brown-blockade.md",
+      "title": "Can Biden's green agenda break the 'brown blockade'?",
+      "excerpt": "President-elect Joe Biden has committed more explicitly than any nominee before him to dramatic steps against the climate crisis, but he faces the same geographic puzzle that has precluded congressional action on the challenge for years.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKl03CefNJ0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKl03CefNJ0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116175425-01-biden-climate-change-states-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/biden-climate-change-agenda-senate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-climate-change-agenda-senate/index.html",
+      "publishedDateTime": "2020-11-16T21:06:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-details-released-for-vp-mike-pence-bus-tour-this-friday-in-georgia.md",
       "title": "Details released for VP Mike Pence 'bus tour' this Friday in Georgia",
       "excerpt": "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,",
@@ -279,7 +496,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 388,
+      "heat": 428,
       "tags": null,
       "images": [
         {
@@ -919,6 +1136,63 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-biden-team-taps-justice-department-veterans-to-circumvent-transition-standoff.md",
+      "title": "Biden team taps Justice Department veterans to circumvent transition standoff",
+      "excerpt": "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-team-taps-justice-veterans-circumvent-transition-standoff-n1247912",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-team-taps-justice-veterans-circumvent-transition-standoff-n1247912",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_47/3428717/201116-joe-biden-mn-1210_128cc64b80faa45854d5b0786f080e3d.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1247912",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247912",
+      "publishedDateTime": "2020-11-16T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-fact-checking-trumps-barrage-of-lies-over-the-weekend.md",
       "title": "Fact checking Trump's barrage of lies over the weekend",
       "excerpt": "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n",
@@ -931,7 +1205,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1081,274 +1355,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-kamala-harris-facebook-removes-racist-posts-about-us-vice-president-elect.md",
-      "title": "Kamala Harris: Facebook removes racist posts about US vice-president-elect",
-      "excerpt": "Facebook has taken down a string of racist and misogynistic posts, memes and comments about US Vice-President-Elect Kamala Harris. The social network removed the content after BBC News alerted it to three groups that regularly hosted hateful material on their pages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 463,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EA2/production/_114801604_p08tk9j9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571",
-      "publishedDateTime": "2020-11-16T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental-mandate.md",
-      "title": "Sunrise Movement leader: 'It's on us' to make sure Biden embraces environmental 'mandate'",
-      "excerpt": "A leader in the environmental advocacy group the Sunrise Movement expressed optimism that activists would be able to hold President-elect Joe Biden’s “feet to the fire” on climate issues.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental",
-      "originalUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/biden11162020.jpg",
-          "width": 791,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp",
-      "publishedDateTime": "2020-11-16T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-obama-said-he-was-surprised-at-top-republicans-who-did-a-complete-180-on-everything-they-claimed-to-believe-to-align-with-trump.md",
-      "title": "Obama said he was surprised at top Republicans who did a 'complete 180 on everything they claimed to believe' to align with Trump",
-      "excerpt": "Obama told The Atlantic he was not shocked by Trump's \"character and behavior\" while in office, but at top Republicans who emerged as his allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "originalUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb29149402d49001924f150?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "publishedDateTime": "2020-11-16T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-hits-back-at-wapo-over-report-saying-campaign-scrapping-key-part-of-pennsylvania-lawsuit.md",
-      "title": "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit",
-      "excerpt": "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp",
-      "publishedDateTime": "2020-11-16T07:28:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-touts-coronavirus-vaccine-announcements-on-my-watch-great-discoveries.md",
-      "title": "Trump touts coronavirus vaccine announcements 'on my watch': 'Great discoveries'",
-      "excerpt": "President Trump praised the coronavirus vaccine from Massachusetts-based biotech company Moderna as one of two recent \"great discoveries\" after it announced Monday the vaccine is 94.5% effective according to interim analysis from a late-stage clinical trial.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/814C5hrpuMw/trump-coronavirus-vaccine-moderna-operation-warp-speed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/814C5hrpuMw/trump-coronavirus-vaccine-moderna-operation-warp-speed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1228062636.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp",
-      "publishedDateTime": "2020-11-16T06:59:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

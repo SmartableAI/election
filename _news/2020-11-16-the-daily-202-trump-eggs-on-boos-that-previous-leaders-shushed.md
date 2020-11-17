@@ -31,83 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Why did the polls undercount Trump voters?"
-    excerpt: "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,"
-    publishedDateTime: 2020-11-13T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
+  - title: "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden"
+    excerpt: "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions."
+    publishedDateTime: 2020-11-17T13:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 128
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
-    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
-    publishedDateTime: 2020-11-12T14:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
+  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
+    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
+    publishedDateTime: 2020-11-17T08:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
+        width: 824
         height: 545
         isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+  - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
+    excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 961
+        height: 960
         isCached: true
-  - title: "Pollster: Some Trump voters not reflected in polls"
-    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
-    publishedDateTime: 2020-11-11T21:55:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
+    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
+    publishedDateTime: 2020-11-11T15:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "qZcrnvk7/OVR5LXAHMKHwVWFFOtdk9o/nEfMjTud9fp+DkLB8o1hhXkgZt5TWI/bADKssH3oNeiZEB4AK+8EYM2GEOD0n+AHkTLNn17wJsul6J+x3R94HChvfK8ckxvcP90bRe1YAEgQBHYSlgndCp8hiZVZqVu6ooVArfXJp5MmTNn2nUEEB51UkBhLHEQmTgNER3nax2Bil+U9L56aBMJAzl2IYSkA5FiTss+u46fKiqPzs4B88hbLVAk67TtGuY14ReJQg4GsCOs32jL1m8NpYHQ5miDLkLktV+RfCkUEV2IXNM3mnFngF6LvmDULGpozquTxGTrHdfbf/tcAwx2e4bfUGNDxvnOUuOwmd5Y=;FvmA9MhOvloS+LgVOZcRVw=="

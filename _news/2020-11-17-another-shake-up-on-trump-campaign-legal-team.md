@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Trump's legal team is coming up short"
+    excerpt: "CNN's John Avlon fact-checks President Trump's lawsuits in key states that played a critical role determining the outcome of the 2020 US election.\n    \n"
+    publishedDateTime: 2020-11-17T13:27:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYn9Z3pUYzY/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117081500-avlon-reality-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
     excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
     publishedDateTime: 2020-11-11T02:08:06Z
@@ -125,6 +141,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Progressives turned out for Joe Biden. Now they want a big role in his administration."
+    excerpt: "Joe Biden won't be sworn in for another 64 days, but the President-elect is already under pressure from activist groups to bring progressive leaders into his administration -- and close its doors to establishment figures with cozy relationships to Wall Street, defense contractors and the fossil fuel"
+    publishedDateTime: 2020-11-17T11:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ojIKpT3guqA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-transition-progressives-pressure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-transition-progressives-pressure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200202165516-04-iowa-candidates-warren-biden-sanders-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1974,6 +1974,22 @@ related:
       name: Time
       domain: time.com
     quality: 82
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Racism, sexism and a victory. How Kamala Harris made history as Joe Biden’s vice president"
     excerpt: "Kamala Harris will become the nation’s 49th vice president, making her the first woman of color to hold the second highest office in an increasingly diverse nation."
     publishedDateTime: 2020-11-07T15:58:00Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.md",
+      "title": "Darrell Issa, 'recycled' congressman from California, doubts Kamala Harris' bipartisanship capability",
+      "excerpt": "Darrell Issa, the former thorn in the Obama administration's side, is back on Capitol Hill after a brief exit from public office, and the Republican is casting serious doubt on whether fellow Californian Kamala Harris can work effectively with Congress as vice president. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312675503727-e1604845329811.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
+      "publishedDateTime": "2020-11-17T04:16:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-kamala-harris-facebook-removes-racist-posts-about-us-vice-president-elect.md",
       "title": "Kamala Harris: Facebook removes racist posts about US vice-president-elect",
       "excerpt": "Facebook has taken down a string of racist and misogynistic posts, memes and comments about US Vice-President-Elect Kamala Harris. The social network removed the content after BBC News alerted it to three groups that regularly hosted hateful material on their pages.",
@@ -10,7 +67,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 463,
+      "heat": 523,
       "tags": null,
       "images": [
         {
@@ -274,7 +331,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 262,
+      "heat": 282,
       "tags": null,
       "images": [
         {
@@ -1505,58 +1562,6 @@
         "name": "Bangor Daily News",
         "domain": "bangordailynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
-      "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
-      "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "originalUrl": "https://www.cbsnews.com/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/021f18e6-a586-49c0-9a21-c58e187d4dc3/thumbnail/1200x630/5002ee90f26625444a995cd674070d36/gettyimages-1229173896.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/watch-live-trump-rallies-florida-the-villages-pensacola-watch-live-stream-today-2020-10-23/",
-      "publishedDateTime": "2020-10-23T19:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

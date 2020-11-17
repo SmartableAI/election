@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat"
+    excerpt: "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-17T13:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "California governor quiet on Kamala Harris replacement: 'No timeline has been established'"
     excerpt: "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders."
     publishedDateTime: 2020-11-11T14:51:43Z

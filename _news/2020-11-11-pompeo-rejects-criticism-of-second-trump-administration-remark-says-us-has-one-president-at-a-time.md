@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
+    excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
+    publishedDateTime: 2020-11-17T13:26:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Durbin, Pressley, Leahy, Booker to Trump administration: Suspend federal executions during transition period"
     excerpt: "A group of congressional Democrats is urging the Trump administration to halt federal executions until the incoming administration of President-elect Joe Biden can \"evaluate and determine\" the future of the death penalty. "
     publishedDateTime: 2020-11-13T22:47:13Z

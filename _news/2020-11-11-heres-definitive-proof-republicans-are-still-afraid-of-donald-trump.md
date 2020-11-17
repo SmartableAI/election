@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's transition sabotage threatens vaccine rollout"
+    excerpt: "President Donald Trump's refusal to coordinate with President-elect Joe Biden on the critical Covid-19 vaccine is bringing a staggering possibility into clearer view: that an outgoing US commander in chief is actively working to sabotage his successor.\n    \n"
+    publishedDateTime: 2020-11-17T11:32:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_x6GjyLOJ_Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/election-2020-transition-coronavirus-donald-trump-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/election-2020-transition-coronavirus-donald-trump-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116160516-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration begins last-minute leasing process for arctic drilling"
     excerpt: "The Trump administration on Monday started a leasing process for oil and gas drilling sites off the Arctic National Wildlife Refuge, something environmental groups feel is a potential last-minute giveaway to the energy industry before the Biden administration takes over.\n    \n"
     publishedDateTime: 2020-11-16T18:24:17Z
@@ -189,6 +205,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Can America Restore the Rule of Law Without Prosecuting Trump?"
+    excerpt: "Donald Trump’s potential criminal liability is the key to understanding his presidency. When he leaves office, it will present the country with a historic dilemma."
+    publishedDateTime: 2020-11-17T14:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "jKajqpcLCvdH6lLKRmFQ3OZj2dRQ9BbxqPHVkicBrtOxbT55U3o/P/eDZxNPn2xChd1MMqOBM7X7EfdVSoo9WIOTTXKRb3kM49hDeTzUzdfIJXUW/fyb0xZEM9Hixe5potphAJ5WlVcguOuRlxDXwE++JypQNoo4SzUlxvJDLK07VoJTJ21OQFAIi+FkIEPezFX2qlYiXqejhIciT8ptMsbgUGv2V4xPMfcVSX0853sERba9nKHDaC25IvWevqktsNgJ61lbm5AqE7Zrm/65wG+MbBxqoY0tlXvnAIDMp4ZMCa1eNI73qJvzrgpslIhlhWuBJ8x7Lcx2k8+kFcCqib2ud6p1Z3VdQD44xEMXEyOKjVsYGRf4in65Sb2s/Ma/ZuRmjnKP38LD2dnLynypstv7/5mvuCeegvmC3wCZ+tOgtwuGFdXF576wcme6dMGMWt3ZBs+MOSQEI/YZ+ixHftuTPP9qF8p09LboLToiiVeYuYgkq+SW0n25GRZymFUL2HX2ogSxRdiDJuB40SCsag==;QP/xYgWOKFYTETh9JYqA+A=="

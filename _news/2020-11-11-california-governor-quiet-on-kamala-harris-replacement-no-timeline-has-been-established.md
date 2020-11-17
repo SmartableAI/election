@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat"
+    excerpt: "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-17T13:25:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
     excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
     publishedDateTime: 2020-11-12T03:10:00Z

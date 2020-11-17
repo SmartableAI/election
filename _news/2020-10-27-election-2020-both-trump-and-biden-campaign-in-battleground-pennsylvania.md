@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 4894
+heat: 4914
 published: true
 
 provider:
@@ -894,6 +894,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/5ef8c7fd-4183-4634-8d21-f7566ea9c780-AP_Election_2020_Debate.jpg?auto=webp&crop=5464,3074,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
+    excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
+    publishedDateTime: 2020-11-17T08:18:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania/trump-lawyers-withdraw-on-eve-of-key-hearing-in-pennsylvania-election-case-idUKKBN27X04C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X04C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X04C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541475421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG02D"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
     excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."

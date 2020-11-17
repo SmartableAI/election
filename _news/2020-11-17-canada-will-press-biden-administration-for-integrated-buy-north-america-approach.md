@@ -3,8 +3,8 @@ category: news
 title: "Canada will press Biden administration for integrated 'Buy North America' approach"
 excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
 publishedDateTime: 2020-11-17T02:27:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-biden-canada-idUST5N2FK01W"
-webUrl: "https://www.reuters.com/article/usa-election-biden-canada-idUST5N2FK01W"
+originalUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
 type: article
@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
   - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
     excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
     publishedDateTime: 2020-11-04T02:05:00Z
@@ -106,6 +122,6 @@ related:
         height: 1047
         isCached: true
 
-secured: "Ieo6nUVUN2Dp6D6ZUiN+xnh4FkHDnyrHA85azIjtul6+vBlAt1c+474/HGzbsF7C7/VK50hKLeGo49Ahr8Qs1hX8AlAEch3ewKPwgFXDt7VmUXAICSKZChR7fdN2m4DhiTk2TjJIxPg0jJqc1hvOJcjo+SdoVi6enFKVef/C/p4ePVyh4a0IEtCKIjL2eXxYQTMXWhFR5qVB8FBhtCi+CV5tvvIo9arKj+l302+5zPMH4HwoOFGuc3GvrDu27/rPnoONzXNZfPucWMLFnSSm+6zdxhDZzx7jx0P8guNl7oq6Ju5HwTzSdMOPUSS7XzQfx7Ze6R/ojJRnQDeytiZoqxC4Lsd9jWLf9DOofWVgms0=;NZAeA9av1ZhGmgT5ZBJkUg=="
+secured: "ElTvJrIt9fXQvnay6QrXhuw2b6OxP8UJ5S85vqXASnSEluRiEbS4cQ6v7hFdnuaR2Tb+1fUSnbsijIIZzSOSSEj5eF6sx4d6C3bJ5tODSrVhZd6Ct2NoC+MU528tdGP6u1Dm/yh1H7Qd6bpumWKZ6bKP9BD73I1KvQn9x4JKVHopVPRNGk0IhJkHUmEjiYeF7XN72l2+Pni93CaZ+Dg4SrI1PSG/tsgzwSynxF4RhyMSumDRq2t9OX/ujARvRyYcM7a7jvecAlnZCm9/2B9ar+8D7Ho0wTgx83GXLA7taUvWxrLLeSpb8nMjyaeggAzm/8FTCqk5L0ZlZNz3NwlqVvh67z1GPzqTilH9twmsK9w=;4dhHNANSbGNK+RI4x7chzw=="
 ---
 

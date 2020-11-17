@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://i.insider.com/5fa2ab8369331a0011bc7341?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
+    excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
+    publishedDateTime: 2020-11-17T11:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-trump-campaign-would-pay-8-m-wisconsin-recount/6322184002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6322184002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6322184002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/PMJS/563b8b6b-13ba-4d95-bca6-41993bb833e6-trump_biden_mupoll.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Slovenian premier endorses Trump's reelection, joins others"
     excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."

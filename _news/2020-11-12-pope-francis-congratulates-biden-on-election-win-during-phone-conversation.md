@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden campaign manager heads to White House as Trump hails 'bit victory'"
+    excerpt: "Follow for the latest developments on the 2020 election."
+    publishedDateTime: 2020-11-17T11:07:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmV4kHqi73o/live-updates-elections-2020-trump-biden-nov-17-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-trump-biden-nov-17-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-trump-biden-nov-17-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2b8b04-0c67-4cfb-960f-b3be13dc1faf/47643ade-707a-4c8e-8d2c-c7e293275276/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
     excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
     publishedDateTime: 2020-11-09T17:13:59Z

@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "dJkOyyH87prSbs+KPnt0NqJAoMpyjK7NphXdeI0dw8Z3n1C0RDC95WFD90WSiAtLcEZ/JUzyWvsTbIYfdrNh64/gaFpzLfLibf9Fy5Qi0/IqWHPWW7+4JxBNDJAh59iILRiZtyr3kPNnle8RLMUHVR4Zb84QXjyg4nE9CVw5uZnblXOQmlZNinuIvtQObtNIvYTP8g0jGf/DgBJtOZRqkoho3r+ujrTWc7IdF2w9VtrmaN6Atn8ptU12+QTccWAaOrzZzR31ehnLZVFLsQfKIf/x4ChAhGsVjPAuQitTKmnnTamiyXOyzPFHGUG1eouLNq1oZB6kIYyAMnUSnjaavYBtHETanEUu91yw6kyS8hJm7dgXzpDhkfWyKXcw+YFru9hgx3RK2vD2QKV9tF/dwHdMnK+wNOIJotQSyTWcp9Ik4Y3QE+4i3yLbI1/K15MiJYwT9p+Gff1MKIn711resDhBHjRx2FYm95HDJgVIM1sHoqDsgpin+DK/+Qmcx7bbTNFFiK+tWj4FJPltyrYtUw==;nSygjaS3s9N/1Rls3E858w=="
 ---

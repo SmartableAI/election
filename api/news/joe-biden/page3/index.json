@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-24-andrew-mccarthy-joe-and-hunter-biden-should-not-be-investigated-by-special-counsel.md",
+      "title": "Andrew McCarthy: Joe and Hunter Biden should not be investigated by special counsel",
+      "excerpt": "It is rational to suspect that there is criminality by the Bidens, but there is no good reason to appoint a special counsel to investigate them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/biden-william-barr-investigation-trump-andrew-mccarthy",
+      "originalUrl": "https://www.foxnews.com/opinion/biden-william-barr-investigation-trump-andrew-mccarthy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b7e19920-b833-49ed-9574-7dc78461ce26/938078d1-cb21-4eba-ade0-74b306486e6b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/biden-william-barr-investigation-trump-andrew-mccarthy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-william-barr-investigation-trump-andrew-mccarthy.amp",
+      "publishedDateTime": "2020-10-24T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-fact-check-post-claiming-joe-biden-wants-to-put-farms-in-land-banks-is-missing-context.md",
       "title": "Fact check: Post claiming Joe Biden wants to put farms in 'land banks' is missing context",
       "excerpt": "At a September town hall, Biden said he wants to put farms into \"land banks.\" Some have taken this to mean he wants a government takeover of farmland.",
@@ -479,7 +536,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4990,
+      "heat": 5010,
       "tags": null,
       "images": [
         {
@@ -1502,58 +1559,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-joe-biden-has-74-percent-chance-of-winning-pennsylvania-according-to-bookmakers.md",
-      "title": "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers",
-      "excerpt": "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101",
-      "originalUrl": "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1",
-      "publishedDateTime": "2020-10-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

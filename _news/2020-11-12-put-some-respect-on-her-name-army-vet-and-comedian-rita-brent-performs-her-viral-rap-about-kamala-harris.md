@@ -199,6 +199,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "'Kamala Pecan': Kentucky shop names ice cream after Harris"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala Pecan."
+    publishedDateTime: 2020-11-17T13:44:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
     excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."
     publishedDateTime: 2020-11-10T08:15:00Z
@@ -208,6 +224,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 72
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Charlotte Observer"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
     publishedDateTime: 2020-11-10T02:38:00Z
@@ -288,6 +320,17 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris | Charlotte Observer"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-17T10:35:00Z
+    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article247232364.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article247232364.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article247232364.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "ZGwXhZ7d7a2Fs1KgeH+K91pXIfkmudoEDE5sflLV++vOPg16FwPogeOmDTzBWPwgy6DFFIdjtGLgKsMmuJ9qf8hDHVV70BIEvRLJQz3+66Ii3p+YX1Uz/nTV9ODRqS6PZNCXSFjI7O3w9h0Q4ftwXzsdtg6XjsqgfIz2R9IpMiwOTN4F92ErYqN9cuxUEcGl9h7BEGDVPXQGP7P1I8PUMJiM/cADttxyVsE9PTTLflAKq231U87c34iMDf0evKMDBhNZXOoysLBzmI72/+6v1nqeKg/kg2Zn7nHMWd9bqdACxTS4IFojg6v/NY1uFTjO2ZdPQ70JrYJ9KaWcZFylEmx5QrvILWgSDTeh1ZZccHv2GyQ7v1S/p5ruyelJmxRl3vJ99RzQ/IBEQWz5yGPal/SPeqq+ArwXxupzid545Av3QjC7KKWSo5a9lrScAUB8F+5VyFWEC88cVc6gk1qVlZTiRXGh+J6ut7cADFLy/D8vss76arEe0iINJ5zZ9xDLt3WkVRg0O0QXDHF0zCzDqg==;bjSFDv1tc4iTGoJK+yPUyg=="
 ---

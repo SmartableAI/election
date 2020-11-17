@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden warns 'more people may die' in pandemic..."
+    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2020-11-17T01:29:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201117110610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07725217_1605611404.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
     excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."

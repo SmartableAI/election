@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
+    excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
+    publishedDateTime: 2020-11-17T11:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-trump-campaign-would-pay-8-m-wisconsin-recount/6322184002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6322184002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6322184002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/PMJS/563b8b6b-13ba-4d95-bca6-41993bb833e6-trump_biden_mupoll.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
     excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
     publishedDateTime: 2020-11-03T14:06:00Z

@@ -2,6 +2,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-10-state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-in-georgia.md",
+      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?",
+      "excerpt": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T04:28:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-cenk-uygur-awesome-to-listen-donald-trump-and-rush-limbaugh-cry-about-fox-news.md",
       "title": "Cenk Uygur: \"Awesome\" To Listen Donald Trump And Rush Limbaugh Cry About FOX News",
       "excerpt": "\"The Young Turks\" host Cenk Uygur spoke Friday about the schadenfreude of listening to Donald Trump complain about FOX News during an interview with Rush Limbaugh. \"He complains about everything, he will not stop crying,",
@@ -1604,62 +1660,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp",
       "publishedDateTime": "2020-10-06T12:38:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-nabs-endorsement-from-major-nevada-newspaper.md",
-      "title": "Trump nabs endorsement from major Nevada newspaper",
-      "excerpt": "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg",
-          "width": 4088,
-          "height": 2297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp",
-      "publishedDateTime": "2020-10-06T12:15:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

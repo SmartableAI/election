@@ -2431,6 +2431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden could name cabinet picks amid Trump efforts to block transition"
+    excerpt: "President-elect Joe Biden will focus on shaping his core White House team on Tuesday while outgoing President Donald Trump presses on with his increasingly tenuous legal fight to reverse his loss in the U."
+    publishedDateTime: 2020-11-17T11:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27X0HC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X0HC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X0HC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541453588&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0AA"
+        width: 806
+        height: 545
+        isCached: true
   - title: "Georgia elections chief fights fellow Republicans, Trump"
     excerpt: "Georgia’s top elections official is under attack from President Donald Trump and other fellow Republicans in the aftermath of the heated election season"
     publishedDateTime: 2020-11-17T05:12:00Z
@@ -2958,22 +2974,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
-    excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
-    publishedDateTime: 2020-11-17T02:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X04Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X04Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X04Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 138
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541435184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG02D"
-        width: 817
-        height: 545
         isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
@@ -7611,6 +7611,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden criticizes Trump's refusal to concede"
+    excerpt: "Watch \"President-elect Biden criticizes President Trump's refusal to concede\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-17T12:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201117123906-president-elect-biden-criticizes-president-trumps-refusal-to-concede/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07726376_1605617224.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump blocks Biden's team from White House COVID-19 task force"
     excerpt: "Members of the White House coronavirus task force are coming forward saying they should be able to meet with the Biden transition team to stop the pandemic. The president is doubling down on his refusal to concede and riling up his base,"
     publishedDateTime: 2020-11-16T20:44:00Z
@@ -7697,22 +7711,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/12/gettyimages-1149090321_wide-468ad52e7d25dbe161f383d69197fce46e4fbd70.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
-    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
-    publishedDateTime: 2020-11-17T05:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUKKBN27X00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X00U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
-        width: 824
-        height: 545
         isCached: true
   - title: "The Trump official blocking Biden's transition is apparently looking for her next job, according to a new report"
     excerpt: "General Services Administration chief Emily Murphy won't formally declare Biden as the election winner, but is exploring career options after Trump."
@@ -9297,14 +9295,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201114191524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/14/story_07698090_1605381544.jpg"
         width: 1280
         height: 720
         isCached: true
