@@ -208,16 +208,16 @@ related:
         height: 630
         isCached: true
   - title: "Biden warns 'more people may die' in pandemic..."
-    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring ..."
     publishedDateTime: 2020-11-17T01:29:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201117110610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+    webUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07725217_1605611404.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07721490_1605593404.jpg"
         width: 1280
         height: 720
         isCached: true

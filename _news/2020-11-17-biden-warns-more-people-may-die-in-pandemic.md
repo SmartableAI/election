@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden warns 'more people may die' in pandemic..."
-excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring ..."
 publishedDateTime: 2020-11-17T01:29:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201117110610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
-webUrl: "https://www.cbsnews.com/live/video/20201117110610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+originalUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+webUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07725217_1605611404.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07721490_1605593404.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -254,6 +254,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ggQ0WmsaxrrugDlt6p3xOFP/k5R3aBWsV79NMN1mLzxBMuZOHyeXFhZccJLVlbFn1KAFwu3T+eEnX9cC1K0rvrJDqJr4v9cYWK6aymyMCwXHTKkhNwMr4yD5rBa7Vqu7IQ6deOFeUDIcZUODCQhMn+iy4mbKzAiFNyiz5zHuDlAhxnspgkCQGh9XNirIcpEBkTpifZoIRtjdapgtXlHqPBYyNAWhwG31MMQtZFHqEeW/2Bd+y4ulCSoo8mtv1FhMfb26Qnq6AE74TMi4oxkk4v1rMymV8cHEC6u/NFgaAgFwun1D0YZU4vL3M8pg+NAs51e029F8Zv4LRtp3ebTrgYyzRKy8virCQShhonZT+fFJy0XEkiZBU7q+PBqETDCJXn1SHiA5o9QqZZehFQzC4YfvnTnpP2aIjWaunoptV2yUa1ycOi/Dnl5D3pm14v2mX2Z4kjq4WVfLxltTG9uYSmPcI01XCaeZcA2TCX7apHksr8MLVrnqJcuPttFjmc3t1tDrzjWhQ1UQmLpm2HSVLA==;Ia6wmbEWv81M4PEi7IQKzg=="
+secured: "6cZTdHidG7GjPh702QzRLjTBuWa7iVtK9Pgguez9Yi9eil18Ao8IQvNBJGgb1VkN80zM+OoSVSJo8rCDuozsKOEHyhB+8H4eZ9HpMbgsbRfvKAZHeXT4TysE586kNJFO3FD4BOHmg7GUi57saAfvVh4iVuAE7R4wQOgi1d5ZWl/k0HZ6Z5kXeypLIpxb9HBjKsLLPoCo3AW9XwX7A6KQ2KUQjRNAnIaQpNfgpg2CrmNp6tBJ0I6IC0NQJgp7wv0QEavUp3TY/mOGqAK6tc222dHy6/uFly+ydmWYcmWBpyIVwdsomOJ9Yuv47PJIRh/cJawZ3V0VbGuvKoGMHBD2QPc5t8C3T2hEqHm8V+ILLsA=;PuIpSITfwirF+/uoH7Qr/A=="
 ---
 

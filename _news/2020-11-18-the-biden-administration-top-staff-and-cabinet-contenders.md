@@ -1,0 +1,122 @@
+---
+category: news
+title: "The Biden administration: Top staff and Cabinet contenders"
+excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+publishedDateTime: 2020-11-17T17:36:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox/who-are-the-top-contenders-for-the-biden-administration-idUSKBN27X1OD"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox/who-are-the-top-contenders-for-the-biden-administration-idUSKBN27X1OD"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+type: article
+quality: 125
+heat: -1
+published: false
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+    width: 817
+    height: 545
+    isCached: true
+
+related:
+  - title: "Biden chooses longtime adviser Ron Klain as chief of staff"
+    excerpt: "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House."
+    publishedDateTime: 2020-11-12T04:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Cindy McCain explains why she voted for Joe Biden — and not that other guy"
+    excerpt: "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,"
+    publishedDateTime: 2020-11-17T11:08:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXZ45QBIEQI6XGYUVWDSCV7LZE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden chooses Ron Klain as chief of staff"
+    excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
+    publishedDateTime: 2020-11-12T02:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/biden-chooses-ron-klain-chief-staff/6260565002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden taps Ron Klain as chief of staff"
+    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T12:10:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden names Chief of Staff as Ron Klain"
+    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T18:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+
+secured: "ddCqzt/hg7lSSR3Buv5JVBsdvRyPBxSdnzVcPp+gGuUT+kAfg4Ga6Wzj07jYiQLwWAlGw2mzSuKDC3Sfx60nRLA5FVefm9++/1s1tZr+CI/3/nGikKKiGZGIaxV8UN+15pFNLgo+Dueabdx73KtDgHXZ1iRlGwANTH5Vo9gnNaKnHxqAzGfxK0rDTOqa4IIelK1RF34JXf7I3kBeUHzi4+h9BeaxS71w83zjqOUFm6kO6FvRjZ2+/QuXyoQtlhx67X8HMfefAbmQUMfeojAbMuWUP8gYTfSF/4qS+EpM2neemd3aa/UQIAnFTeIcpoJFEoQXX1a9cib9y8H+u5G29A8Daxp21G3ylxOlgTqeZUw=;pR+MSLu0PRVoHIC0W3IO3A=="
+---
+

@@ -2487,6 +2487,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign lawsuit in Pennsylvania vote heads to court"
+    excerpt: "A hearing on the Trump campaign's federal lawsuit seeking to prevent Pennsylvania officials from certifying the vote results remains on track for Tuesday after a judge quickly denied the campaign's new lawyer's request for a delay."
+    publishedDateTime: 2020-11-17T16:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
     excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
     publishedDateTime: 2020-10-07T13:42:00Z

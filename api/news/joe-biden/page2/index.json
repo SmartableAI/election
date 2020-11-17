@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
+      "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
+      "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
+      "originalUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
+      "publishedDateTime": "2020-11-06T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-bidens-1-electoral-vote-from-nebraska-district-could-prove-pivotal-to-his-white-house-bid.md",
       "title": "Biden's 1 electoral vote from Nebraska district could prove pivotal to his White House bid",
       "excerpt": "Omaha, Neb., became “Jomaha” as Democratic nominee Joe Biden won a single electoral vote from the state’s 2nd Congressional District.",
@@ -1537,63 +1589,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-jennifer-aniston-discourages-voters-from-supporting-kanye-west-casts-her-ballot-for-joe-biden.md",
-      "title": "Jennifer Aniston discourages voters from supporting Kanye West, casts her ballot for Joe Biden",
-      "excerpt": "Jennifer Aniston officially voted in the 2020 presidential election. In addition to revealing who she voted for, she also discouraged voters from supporting Kanye West.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Jennifer-Aniston_Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-aniston-kanye-west-vote-joe-biden-2020-presidential-election-trump.amp",
-      "publishedDateTime": "2020-10-24T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -2486,6 +2486,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign lawsuit in Pennsylvania vote heads to court"
+    excerpt: "A hearing on the Trump campaign's federal lawsuit seeking to prevent Pennsylvania officials from certifying the vote results remains on track for Tuesday after a judge quickly denied the campaign's new lawyer's request for a delay."
+    publishedDateTime: 2020-11-17T16:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuit-in-pennsylvania-vote-heads-to-court-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biography Traces Political Mistakes And Personal Scars That Shaped Joe Biden"
     excerpt: "In Joe Biden, New Yorker writer Evan Osnos writes about the candidate's enduring quest to become president. He says Biden has a different mindset today than he once had: \"He's a man who is at peace.\""
     publishedDateTime: 2020-10-27T17:27:00Z

@@ -80,6 +80,22 @@ related:
         width: 1024
         height: 712
         isCached: true
+  - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
+    excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
+    publishedDateTime: 2020-11-17T17:44:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dtGIuijslg/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
     excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
     publishedDateTime: 2020-11-13T06:57:00Z

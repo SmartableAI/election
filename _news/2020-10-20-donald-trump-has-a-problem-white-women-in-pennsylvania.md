@@ -256,6 +256,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work"
+    excerpt: "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks."
+    publishedDateTime: 2020-11-17T18:37:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
     excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
     publishedDateTime: 2020-11-13T20:16:00Z

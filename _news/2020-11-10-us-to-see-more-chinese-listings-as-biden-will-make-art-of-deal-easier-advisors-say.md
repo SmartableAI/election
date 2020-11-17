@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Biden administration: Top staff and Cabinet contenders"
+    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T17:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox/who-are-the-top-contenders-for-the-biden-administration-idUSKBN27X1OD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Cindy McCain explains why she voted for Joe Biden — and not that other guy"
     excerpt: "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,"
     publishedDateTime: 2020-11-17T11:08:00Z

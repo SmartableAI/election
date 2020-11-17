@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 712
         isCached: true
+  - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
+    excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
+    publishedDateTime: 2020-11-17T17:44:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dtGIuijslg/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
     excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
     publishedDateTime: 2020-11-12T03:10:00Z

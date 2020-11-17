@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "'Free speech' social media platform Parler is a hit among Trump supporters, but experts say it won't last"
+    excerpt: "Social media platform Parler has gained popularity among President Donald Trump's supporters and right-wing conservatives, but experts don't think the platform will grow."
+    publishedDateTime: 2020-11-17T15:02:00Z
+    webUrl: "https://abcnews.go.com/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
+    ampWebUrl: "https://abcnews.go.com/amp/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 108
+    images:
+      - url: "https://s.abcnews.com/images/Politics/parler-gty-er-201116_1605563513325_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "sLqcYis7xU/S1Q0kytznTqyc+5TpoI77334caPDyNNtowCUO45shuBcrf9d+Z4uNgcbI2I6ThYQrS+BkujgkXrrIk0IuHKu1CEIjBLmPfx0wwaFhz1OtFxcedzq8zRed76LUXyfGtgyOkORHhvi+nqMElEAVHnR35FAZifoiwDVoaK+D6PWlba+x1bbRNJ+vzWxQzaEyo7tLZZo7SPPVDZx8RqFXYjiTIeVHIrbYoQPzMaSBUqYNh31PwTWx9j/B77rwJRvI0hKshb6bVb8fI/UvbiNrPhtcRU3PEyASuL2ssa7Kgmdtai0xsaoLbGttUTk8yV3Ub9iDMrNo4vEBWN2SfpVwKixeZy7EfQl1DYw=;1WNtYA1jtnuCHJyBgqxhrg=="
 ---

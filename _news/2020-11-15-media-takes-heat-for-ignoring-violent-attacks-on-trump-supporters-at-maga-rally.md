@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lee responds to Feinstein on armed Trump supporters: 'Only violence that I'm aware of' was from Antifa"
+    excerpt: "Sen. Mike Lee, R-Utah, pointed out violence by Antifa when Sen. Dianne Feinstein, D-Calif., implied that President Trump's tweets incite violence and seemed to advocate for more censorship of the president on social media during a hearing with big tech CEOs."
+    publishedDateTime: 2020-11-17T18:09:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LUwCsFsTKCs/mike-lee-feinstein-violence-antifa-trump-tech-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-feinstein-violence-antifa-trump-tech-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-feinstein-violence-antifa-trump-tech-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/25d31656-AP20322568207291.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "iZr/zNXT0eLRDe1bw0tmafd+p6D05VR8rYLyDiXc4sivz4GV9thwkZ+mxA+3ceSXF1FcaWuH2PJR6XU1BHrHsZmbnmNQxzK5HlomrBmIgp/QtpgRuLO55F4Ce7GAsAr5LX7A1dKRSbAFM9G7lql/JHPpYH4Y/FLDkxRdhzLP1EPgXrLcpD/h0cBCM5N8hXRaOAz/kBLHm7mcsE7GnLYOuCbTt8bXLP7Qv/sdqDaeTkja1vE2yEL/AgxpvDac2ULAdZBqxt40nJ2cjkbDoPAWwp7C3ZVgVwfpsdHIGfej7FwWy0uA6i/JKwU5Ws2v887UtaRf/dhfQpMpTOp739hE/z2qtDMlyH7DWStwL5TSufc=;cs9J96afl2mya/J2uM5BUQ=="
 ---

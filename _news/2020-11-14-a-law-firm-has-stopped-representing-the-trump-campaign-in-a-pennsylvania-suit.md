@@ -272,6 +272,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work"
+    excerpt: "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks."
+    publishedDateTime: 2020-11-17T18:37:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/giuliani-trump-election-pay.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "BWsnUDak0jSQtaM3+Eqiq+roHxhdqnTfDoKVTnjXWp/HzffPwHiB0uZFFap28vyRo/XusUtOF5hQ5LRs9aXbwqKL98FFS9t/rqQYO1A1ENC5ltxipgeCMikjnu3CkUu0WJFazNXuSxSrBgFpBryBurdXMeypzTRgxf5WaMOlcoFXQXAaKxG3m0LrAnnkkGYkgENS20VcIsDewmjyY96D5j3Khv1SDwMNhsxURh22XK6WCLFZrNcMFSpPsRyPOR5T1ySKh7JHaHCz+TNOaYSdIEs6QR42XHZmApYHVGdRzn456DALnHB7GjxGvdEIZNen/TQHLIIrJZVjBbWsDkFU4jYm0ykBWh5wtg6/I/NSajI=;jFX8CQyL/hztnjwgTFSzpg=="
 ---
