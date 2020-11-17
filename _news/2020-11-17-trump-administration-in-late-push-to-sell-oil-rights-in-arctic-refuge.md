@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence faces a new test after 4 years of fealty to Trump"
+    excerpt: "The VP is staring at a deadlier phase of a pandemic and a Senate race that could reverse years of his work. He’ll have to get through Trump first."
+    publishedDateTime: 2020-11-17T09:46:00Z
+    webUrl: "https://www.politico.com/news/2020/11/17/pence-four-years-trump-test-436956"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
     excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
     publishedDateTime: 2020-11-09T09:32:00Z

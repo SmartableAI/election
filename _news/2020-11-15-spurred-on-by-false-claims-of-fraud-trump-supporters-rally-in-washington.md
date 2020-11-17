@@ -98,9 +98,9 @@ related:
   - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
     excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
     publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUKKBN27W2P7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27W2P7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27W2P7"
+    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
     type: article
     provider:
       name: Reuters

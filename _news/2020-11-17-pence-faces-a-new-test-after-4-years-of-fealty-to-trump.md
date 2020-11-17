@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
-excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
-publishedDateTime: 2020-11-09T09:32:00Z
-originalUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
-webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
-ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+title: "Pence faces a new test after 4 years of fealty to Trump"
+excerpt: "The VP is staring at a deadlier phase of a pandemic and a Senate race that could reverse years of his work. He’ll have to get through Trump first."
+publishedDateTime: 2020-11-17T09:46:00Z
+originalUrl: "https://www.politico.com/news/2020/11/17/pence-four-years-trump-test-436956"
+webUrl: "https://www.politico.com/news/2020/11/17/pence-four-years-trump-test-436956"
+ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
 type: article
-quality: 135
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -96,21 +96,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence faces a new test after 4 years of fealty to Trump"
-    excerpt: "The VP is staring at a deadlier phase of a pandemic and a Senate race that could reverse years of his work. He’ll have to get through Trump first."
-    publishedDateTime: 2020-11-17T09:46:00Z
-    webUrl: "https://www.politico.com/news/2020/11/17/pence-four-years-trump-test-436956"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/pence-four-years-trump-test-436956"
+  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
+    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
+    publishedDateTime: 2020-11-09T09:32:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
     excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
@@ -145,6 +145,6 @@ related:
         height: 550
         isCached: true
 
-secured: "pv/+0GYoS7Av+ITCnM5gUIxK1dfyGXMtvI5+6nw73aeUCX4Ts/oK4tbxXfUIMtBoiJM68egS1zt43gWigEkQD4876i4rSO5FqcrXdhT7SSAleE9RrDrTHNiL0s6eLVhOIggRyZO6xO+vHBVBL3jHCxsx6JhzZigpo+Oy1PsUtVGFMwMzmy6UgiNo9iRJ1aI97EHJsVhUxevDNxjGKhbPbxopwu95+gCmdANSrrMh01EsRsCvkYpop7CRbJkxr0xZUdwlZFH4pGV9cr2SVF+FeWUVcd3E01IkzFx/VchgYmQWIDivHhi2liM0v4B5rCoKhqX9fn+OA/Qsice3qbMz988d9lzOtNhWev4zeTtUMSc=;VJmgoWb/mXMR8oRGszV6Ag=="
+secured: "lx04fER4UYHZWxE5Qfgtfld4euCWgFY4W5m+XEM7ZIJg6MfOThjz2/vlKtvUsCtHeRs4TFHdILOcI8+vgeYtlbIDpUnJPh/d7JjMJVMKHFeTGRYyQEaBzKp5TYszMCm5Jsit3t61OjAl0wilTgrhnfHdTW0GXWxstqP0EyDn5krTD0s4K0lU+ilDzXYgRHgjjXFSWzb8repowd+Rz2o00he1zhA9dGBJNxq1Ijsq5wZeentS6p5ZtlDq+frRnl7zsxNm0sfBmjYD3FlDELsXFKN+ffzpRHkpYrOyhOQUYrckLy+7qRqTar+U0fVGLyl3d7GE+LZTOqlSm4v478VZsGsqpX5MSo45DNlEcWNP1rU=;kD3ug80123Nbd3gx83xxTg=="
 ---
 

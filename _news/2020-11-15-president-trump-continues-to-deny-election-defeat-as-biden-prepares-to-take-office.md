@@ -3692,6 +3692,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden pressures Trump to cooperate, citing risk of additional coronavirus deaths if handoff is delayed"
+    excerpt: "The president-elect continued to assemble his team, with Rep. Cedric L. Richmond (D-La.) expected to join the administration."
+    publishedDateTime: 2020-11-17T00:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEGIHZBILEI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Twitter slaps new label on Trump's tweets falsely claiming to have won the election"
     excerpt: "Since Friday, the platform has also flagged over 25 of Trump's tweets about election fraud as \"disputed.\""
     publishedDateTime: 2020-11-16T18:47:00Z
@@ -6336,22 +6352,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XM5KMVRFXEI6XJUIKKMK2XKYBI.jpg&w=1440"
         width: 1440
         height: 959
-        isCached: true
-  - title: "Biden pressures Trump to cooperate, citing risk of additional coronavirus deaths if handoff is delayed"
-    excerpt: "The president-elect continued to assemble his team, with Rep. Cedric L. Richmond (D-La.) expected to join the administration."
-    publishedDateTime: 2020-11-17T00:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEGIHZBILEI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
@@ -9297,14 +9297,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/
 ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
 type: article
-quality: 124
+quality: 134
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEGIHZBILEI6XHBBHTCQDUEYD4.jpg&w=1440"
@@ -9297,14 +9298,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115081524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700347_1605428344.jpg"
         width: 1280
         height: 720
         isCached: true
