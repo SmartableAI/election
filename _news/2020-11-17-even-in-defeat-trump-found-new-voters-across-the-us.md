@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Another shake-up on Trump campaign legal team"
+    excerpt: "The campaign has apparently tried to replace the entire team handling its federal lawsuit seeking to block certification of Pennsylvania’s election results."
+    publishedDateTime: 2020-11-17T02:17:00Z
+    webUrl: "https://www.politico.com/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/15/bf/209cb7ae463b9edb8d0a91fc2be8/gettyimages-1227657113-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "For a preview of President Biden, look to his past."
     excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
     publishedDateTime: 2020-11-16T18:00:00Z

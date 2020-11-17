@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-this-isnt-a-game-michelle-obama-rips-into-trump-for-refusing-to-concede-and-says-he-put-her-family-in-danger-with-racist-lies.md",
+      "title": "'This isn't a game': Michelle Obama rips into Trump for refusing to concede and says he put her family in danger with 'racist lies'",
+      "excerpt": "The former first lady emphasized the need for a peaceful transfer of power, writing \"our democracy is so much bigger than anybody's ego.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11",
+      "originalUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb2d660402d49001924f369?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michelle-obama-instagram-post-trump-refusing-to-concede-racist-lies2020-11?amp",
+      "publishedDateTime": "2020-11-16T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-details-released-for-vp-mike-pence-bus-tour-this-friday-in-georgia.md",
       "title": "Details released for VP Mike Pence 'bus tour' this Friday in Georgia",
       "excerpt": "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,",
@@ -114,7 +166,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 368,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -1293,58 +1345,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-campaign-jettisons-major-parts-of-its-legal-challenge-against-pennsylvanias-election-results.md",
-      "title": "Trump campaign jettisons major parts of its legal challenge against Pennsylvania’s election results",
-      "excerpt": "The campaign removed an allegation that more than 600,000 votes should be invalidated, capitulating on one of its most aggressive legal claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHR53PBHU4I6XGYUVWDSCV7LZE.jpg&w=1440",
-          "width": 1440,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-15T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

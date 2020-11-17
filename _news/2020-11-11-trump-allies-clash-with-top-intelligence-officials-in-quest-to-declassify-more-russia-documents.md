@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Scaramucci predicts three pieces of Trump's endgame"
+    excerpt: "Former White House communications director, Anthony Scaramucci, predicts what President Trump's endgame might be as he continues to deny the results of the 2020 presidential election.\n    \n"
+    publishedDateTime: 2020-11-17T05:41:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j6amaLg0Bjw/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117000111-anthony-scaramucci-ctn-intv-11162020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators shrug off Trump's conspiracies over election results: 'He can say whatever he wants'"
     excerpt: "Top Senate Republicans seemed unmoved Monday by President Donald Trump's baseless charges that the election was \"rigged\" and his false assertions that he actually won the election, even though the results show he lost the race despite his efforts to sow distrust over a cornerstone of US democracy.\n "
     publishedDateTime: 2020-11-16T22:50:49Z

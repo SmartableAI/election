@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, Trying to Cling to Power, Fans Unrest and Conspiracy Theories"
+    excerpt: "The president’s refusal to concede has entered a more dangerous phase as he blocks his successor’s transition, withholding intelligence briefings, pandemic information and access to the government."
+    publishedDateTime: 2020-11-17T04:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/15/us/politics/trump-biden-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/15/us/politics/trump-biden-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/us/politics/trump-biden-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15dc-trump/15dc-trump-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "i4J79hkcfxXcqbNvCy65aDyCiJENZMlXqpock+qup0ZInK51KCH3kaQW+ZFb+w5u1UBCfD5/sOGw0af+j4q5yTinHGUGdzWp92H8rutMnyrQVJZ3zbvkLUrl3GcOK36VDd0NwOlWyMf0OJT9OefWmgEiPzdKW2+Wet7yx9jLwDOCo8ENYgebZU+sbWtByr04x60VtBBsh94ww7Xct6oURWPh9kpdp+Gb5tp5MpKtY/MTeM5EQdQYo4qmeGvfkxE81klIsXQFYEGsocoIc02baWrCnPJ4Wp0MCOuPISrtCeeZfHEBK1EHH82lcDgyhS8IjnojIhQUDmFkn6bhxTUR9H1ubeMNbHMeoJiMh2JmEXQ=;v+WPPZGPnaFDkDGz1or+ug=="
 ---

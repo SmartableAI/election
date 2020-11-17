@@ -2415,6 +2415,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Georgia elections chief fights fellow Republicans, Trump"
+    excerpt: "Georgia’s top elections official is under attack from President Donald Trump and other fellow Republicans in the aftermath of the heated election season"
+    publishedDateTime: 2020-11-17T05:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/georgia-elections-chief-fights-fellow-republicans-trump/2020/11/17/81b2d9bc-2893-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-elections-chief-fights-fellow-republicans-trump/2020/11/17/81b2d9bc-2893-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-elections-chief-fights-fellow-republicans-trump/2020/11/17/81b2d9bc-2893-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "‘More people may die’: Biden urges Trump to aid transition"
     excerpt: "President-elect Joe Biden is warning of dire consequences if President Donald Trump and his administration continue to refuse to coordinate with his transition team on the coronavirus pandemic and block briefings on national security,"
     publishedDateTime: 2020-11-16T17:40:00Z
@@ -3438,6 +3454,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/04/38aa1fc0-436f-44a8-9046-cf8902811d06/thumbnail/1200x630g2/eae5bef5bef5050eb350410d166b84f3/gettyimages-1229449473.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden turns focus to building White House team as Trump legal efforts flounder"
+    excerpt: "President-elect Joe Biden will focus on shaping his core White House team on Tuesday while outgoing President Donald Trump presses on with his increasingly tenuous legal fight to reverse his loss in the U."
+    publishedDateTime: 2020-11-17T06:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27X0HR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X0HR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X0HR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541453588&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0AA"
+        width: 806
+        height: 545
         isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"
     excerpt: "Their final debate behind them, President Donald Trump and Democrat Joe Biden are packaging their divergent personal styles and policy prescriptions into closing messages for the final sprint to Election Day."
@@ -7666,6 +7698,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
+    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
+    publishedDateTime: 2020-11-17T05:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUKKBN27X00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X00U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
+        width: 824
+        height: 545
+        isCached: true
   - title: "The Trump official blocking Biden's transition is apparently looking for her next job, according to a new report"
     excerpt: "General Services Administration chief Emily Murphy won't formally declare Biden as the election winner, but is exploring career options after Trump."
     publishedDateTime: 2020-11-16T20:36:00Z
@@ -9249,14 +9297,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115131524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115091524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07699721_1605446344.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700383_1605431944.jpg"
         width: 1280
         height: 720
         isCached: true

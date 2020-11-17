@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Another shake-up on Trump campaign legal team"
+    excerpt: "The campaign has apparently tried to replace the entire team handling its federal lawsuit seeking to block certification of Pennsylvania’s election results."
+    publishedDateTime: 2020-11-17T02:17:00Z
+    webUrl: "https://www.politico.com/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/15/bf/209cb7ae463b9edb8d0a91fc2be8/gettyimages-1227657113-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden leads Trump by 5 points in Iowa poll"
     excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
     publishedDateTime: 2020-10-07T20:16:00Z
