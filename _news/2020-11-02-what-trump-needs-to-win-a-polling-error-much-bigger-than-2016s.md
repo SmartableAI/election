@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
-    excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
-    publishedDateTime: 2020-10-29T02:49:00Z
-    webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 125
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "enYm0qDqNua3IqZMtIQe1csq5heljC8LQykXw8RRZjMIA5S3FYzn1Dssb6FB7g9wQ0/vDQB/f3MV8whBhr9pemkVH0u6Tv3RX21G0H9nqECPORjCeheSEw0rodJbOD5141qSTnSGrywkjNsNOOhwMLUqh2k0hmOVZ2LT6N1kqJXbwWWsHZPU9pP/ggOoiFfyvPPI4LiB0lICh4AfRT2tA+PTBAvIkh9O8BvR6G47oDUwIigBoB1y31NUAH9j8CRm69CrRGqEWrHMTnwmDmWQD/RHm6juXem7nAQy9htqz/DXlwUrK4w+m3f1qNonYdoXfg2VSiOonYED6fPR0Dw/M8VY06cykT+TwWX+IVuFQIg=;9tXVV2PlKE+irx7lbTOOXA=="
 ---

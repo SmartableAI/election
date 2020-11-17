@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
-    excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
-    publishedDateTime: 2020-11-11T17:40:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
+  - title: "Fact checking Trump's barrage of lies over the weekend"
+    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
+    publishedDateTime: 2020-11-16T18:35:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
-    excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
-    publishedDateTime: 2020-11-11T20:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ex-HHS chief Sebelius says Trump administration deserves credit for vaccine progress"
-    excerpt: "Kathleen Sebelius, a former United States Secretary of Health and Human Services administrator under President Barack Obama, offered some praise for the Trump administration's vaccine efforts on Monday but said the administration has shirked other critical responsibilities in mitigating the spread of"
-    publishedDateTime: 2020-11-16T16:40:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jBqJ4MQY140/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116102135-kathleen-sebelius-11162020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,21 +63,131 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Administration Gives TikTok More Time to Reach Deal"
-    excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
-    publishedDateTime: 2020-11-13T22:36:00Z
-    webUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/technology/trump-tiktok.amp.html"
+  - title: "Fact-checking Trump's dishonest weekend: The President made at least 66 false or misleading claims in three days"
+    excerpt: "President Donald Trump's dishonesty is getting worse.\n    \n"
+    publishedDateTime: 2020-10-19T21:40:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K2H5w7bD2Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
+    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
+    publishedDateTime: 2020-11-10T16:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How to Protect America From the Next Donald Trump"
+    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
+    publishedDateTime: 2020-11-09T14:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Authoritarians From Mussolini to Trump"
+    excerpt: "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,"
+    publishedDateTime: 2020-11-10T18:06:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
+    excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
+    publishedDateTime: 2020-11-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/arts/11reagans2/11reagans2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Obama: Trump's fraud claims delegitimizing democracy"
+    excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-11-13T00:39:00Z
+    webUrl: "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
+    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
+    publishedDateTime: 2020-11-13T08:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
+    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
+    publishedDateTime: 2020-11-10T17:07:00Z
+    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "22029GK++IqNddwNymG0kX1/A1OnP7JKEoLkBbjqqa7DPfPKVK3Iy8iRRm6mKEEyrsPlCQVH6SMV06ntYGf6K/SAmFe5QpRyUGk3aooGpoV0A9KnVAU2ActFDGmcFaPj2dXbzcLV2BBop6LGZuj3czXrIANsOcb8wCtRVjvF4C52Slu3WM9pXP/rVJPxvERAMmsW1U6ABjKXkXdBDveDY4Nt1M14mjuE/Gft8ezWLFWkpnWcDWMIQi1IqWaGSXZtYePYzvfbn4s5AGwUqbWTn1jAfEGVDXPOvnfR0ivsKCHscKNSNcMvp/YVO/5QqirpEDl0VsRbF7IRnWCM7WXnPDIZvTLiZeYMMSelK0Gq2yg=;RIoKjuBKcERIkWj+Nio5oA=="

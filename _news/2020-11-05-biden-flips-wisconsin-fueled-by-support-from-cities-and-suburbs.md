@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
-    excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
-    publishedDateTime: 2020-11-11T02:08:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+  - title: "Biden Gets an Endorsement From Silicon Valley: Live Business Updates"
+    excerpt: "A group of 11 founders, investors and business leaders from the technology industry endorsed Democratic presidential nominee Joseph R. Biden Jr. in a letter published on Monday, s"
+    publishedDateTime: 2020-11-02T18:50:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/30/business/30markets-brf-markets/merlin_179245557_12422739-1663-479d-9813-613dc9789fb3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "okcY+47WN9vDVERTkxjh6ewhW7pT5wdmpKYx+TSEQsLQW3G1CaZGj+lS4h2nBdW6S08ISxgfAMzs0DDhMWXsYYTmvf1RAJiTXxF261GSVb/tW9QNnzckyo4lbtjJWrn5u8ohKAMWWvF78BIhPl41knIexE/QUyZKl0kAWDWrVKlCPv17M0HRWhx+AYts9fHr0IHnKyKPz4ca7QQQvsFRWD/kF4LZl99x0MLkUWr8UwL1gYYFPC6I3wloYdOY4K2AlZAJgFSsL4F8tDB3sJ1FWM9JUFSdMdD6XpqPfp6T7usE7FzqCdhaLeEi1JqOHAljS0+YmuXtgkRshITGEziZRLOCK0hUrvLbOzqmtprtY1I=;SRzSFQnNZy2r4spyTqnfrA=="

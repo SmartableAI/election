@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris: Facebook removes racist posts about US vice-president-elect"
+    excerpt: "Facebook has taken down a string of racist and misogynistic posts, memes and comments about US Vice-President-Elect Kamala Harris. The social network removed the content after BBC News alerted it to three groups that regularly hosted hateful material on their pages."
+    publishedDateTime: 2020-11-16T17:43:00Z
+    webUrl: "https://www.bbc.com/news/amp/technology-54941571"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-54941571"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EA2/production/_114801604_p08tk9j9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Kamala Harris: NI peer Lord Kilclooney told to apologise for 'offensive' tweet"
+    excerpt: "A member of the House of Lords, Lord Kilclooney, has been told to apologise for referring to US vice-president-elect Kamala Harris as \"the Indian\". \"What happens if Biden moves on and the Indian becomes President."
+    publishedDateTime: 2020-11-10T00:22:00Z
+    webUrl: "https://www.bbc.com/news/amp/uk-northern-ireland-54874541"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-northern-ireland-54874541"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-northern-ireland-54874541"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 121
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1EEE/production/_113881970_gettyimages-1197732327.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris didn't become vice-president-elect by saying 'no worries if not'"
     excerpt: "For a demonstration of a woman who is unafraid to speak with confidence, look no further than Harris’s victory speech, says Guardian columnist Emma Brockes"
     publishedDateTime: 2020-11-14T07:00:00Z
@@ -59,21 +91,21 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning."
-    excerpt: "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?"
-    publishedDateTime: 2020-11-11T13:20:00Z
-    webUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
+  - title: "Tears and inspiration: Naperville’s Indian community reacts to Kamala Harris' rise to VP-elect"
+    excerpt: "\"I feel one of my family member is elected and representing all of us in the U.S,” said Naperville resident and native of India Asfaq Syed about vice president-elect Kamala Harris."
+    publishedDateTime: 2020-11-13T17:55:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-indian-community-reaction-harris-vp-st-1113-20201113-nrz64ynidza6vpasaftfl6hcwy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-indian-community-reaction-harris-vp-st-1113-20201113-nrz64ynidza6vpasaftfl6hcwy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/naperville-sun/ct-nvs-indian-community-reaction-harris-vp-st-1113-20201113-nrz64ynidza6vpasaftfl6hcwy-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.chicagotribune.com/resizer/DZ04q9AYHCuI94R4FC5NzJGQB08=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZH234KO7L5D7VGXLLS5ZEJVD2U.jpg"
+        width: 1200
+        height: 888
         isCached: true
   - title: "'Brown girl, brown girl' poem celebrates Kamala Harris making history as 1st woman of color vice president"
     excerpt: "Honoré was in the car with her 20-year-old daughter and as they celebrated the victory that will make Harris the first woman and woman of color vice president, Honoré also began to pen an update to a poem she originally wrote in 2016 for her book of poetry,"
@@ -105,20 +137,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Ayala: ‘We did it’ — Kamala Harris shatters a glass ceiling, but a big one remains"
-    excerpt: "Major events, both tragic and uplifting, unite us in front of our TV screens. They create indelible shared memories."
-    publishedDateTime: 2020-11-11T06:33:00Z
-    webUrl: "https://www.houstonchronicle.com/news/news_columnists/elaine_ayala/article/Ayala-We-did-it-Kamala-Harris-shatters-15714523.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 99
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg"
-        width: 2048
-        height: 1355
-        isCached: true
   - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
     excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
     publishedDateTime: 2020-11-12T19:00:00Z
@@ -132,22 +150,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/12/isiserettes---kamala-harris_wide-1c66a342a6413be9e84f593667a776860e9902cd.jpg?s=1400"
         width: 720
         height: 405
-        isCached: true
-  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
-    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
-    publishedDateTime: 2020-11-08T19:32:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
-        width: 1024
-        height: 715
         isCached: true
   - title: "5 Howard University Women on Kamala Harris' Historic Election and the Impact of HBCUs"
     excerpt: "Norwood attended a basketball game at her alma mater, Howard University, when Sen. Kamala Harris, who at the time had just launched her 2020 presidential campaign, greeted the crowd. \"It was so exciting to see her there,"
@@ -181,38 +183,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
-    excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
-    publishedDateTime: 2020-11-12T22:54:00Z
-    webUrl: "https://www.freep.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
-    ampWebUrl: "https://amp.freep.com/amp/6254489002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6254489002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
-    excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
-    publishedDateTime: 2020-11-13T18:33:00Z
-    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris Once Dated Montel Williams And Twitter Is Shocked"
     excerpt: "Vice president-elect Kamala Harris' past relationship with Montel Williams resurfaced after a photo circulated via Twitter of them at the Race to Erase Multiple Sclerosis gala in Los Angeles in May 2001."
     publishedDateTime: 2020-11-15T11:24:00Z
@@ -238,38 +208,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 72
-  - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
-    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
-    publishedDateTime: 2020-11-11T16:28:00Z
-    webUrl: "https://www.desmoinesregister.com/story/money/2020/11/11/kamala-harris-effect-black-women-corporate-america/6227172002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6227172002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6227172002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris may finally change how corporate America sees and treats Black women"
-    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
-    publishedDateTime: 2020-11-14T14:11:00Z
-    webUrl: "https://www.freep.com/story/money/2020/11/11/kamala-harris-effect-black-women-corporate-america/6227172002/"
-    ampWebUrl: "https://amp.freep.com/amp/6227172002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6227172002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 69
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
     excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
     publishedDateTime: 2020-11-10T02:38:00Z
@@ -285,22 +223,6 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Kamala Harris is the main event for millions of women in America and around the world"
-    excerpt: "I predicted 10 years ago that Harris would be a force in national life. She is now inspiring many women to imagine new possibilities for themselves."
-    publishedDateTime: 2020-11-11T10:13:00Z
-    webUrl: "https://www.desmoinesregister.com/story/opinion/2020/11/09/harris-breaks-glass-ceiling-women-black-asian-americans-column/6215430002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6215430002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6215430002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 677
         isCached: true
   - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
     excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."

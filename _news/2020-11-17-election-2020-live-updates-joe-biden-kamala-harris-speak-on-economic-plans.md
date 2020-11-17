@@ -3175,6 +3175,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
+    excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
+    publishedDateTime: 2020-11-16T23:04:00Z
+    webUrl: "https://www.rollcall.com/2020/11/16/biden-says-its-a-good-thing-his-colleague-kamala-harris-is-still-on-the-senate-intelligence-committee/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 53
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/SENATE_VOTE_001_08042020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage"
     excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
     publishedDateTime: 2020-10-23T10:00:00Z
@@ -3529,6 +3543,6 @@ related:
       domain: c-span.org
     quality: 24
 
-secured: "HL3NpdI5T/Ya4sL8fls7RZCHCvyVPWrJmbJPQ2atxvD8Rxy+5/+cdW5b7XVy+Di0AU0WjSQl2mEtOnfYYkJCNyL0DOVMoEKy/vPmmXZnpwrDVO00jQqaAFuL42izaXVzS/19UVPg1GfyLMXpAdoU/jBTtMZdP+686YKLtc9OEjzW9hbAtJ3hB7X/o4wyFqk7YaMzpvyaVd3Lubs7alLDmih64nZlXSlgZv22ZmfQgezoEg9R9Fka8pWRtcyiJ8KdUtGqZHN6+lwApc8amenXa+/yNknDvMwjN8yNxwJakAZkjy3cbHe5fSlmyqJQ44kNFGsIyQPudKEV/9OFvH73y3gWoLAdhrezg0Yn1NT+JNY=;q5lJvSxJFaitGOynqs5vJw=="
+secured: "7gr1qu7KVmvRPprV0Nv0cjrOgGN/LUU+FQILUENqKpjqLgIimzggKUzKcHOpEWILqtCb08hsESQbjjHHvdtvx30FRxFA1Jvo3fCXn23f9fZ+S3Fr2kwsD/4CAyF6pwjyJWSuG/84Ndo+X57SvgEujjSFyVPuZZpEn6K5lRoCkI//pXP3Qxzgmvo/biOvCxmlxGibjgq2ycemuEwatDMM9Hnz9y6z9DGPwbVM/4KZTeUuyn0QxvVA6xn13c855dxWOhXIANZ37bO00kQ2Tt4BNyt4rIJtlYCYI3DlWLZkwupNqp6dVVpkLNOs1GTCJuyEcLKGXa3xPGnDywsxI1zqTavLnAP18VeWukOZxTkIxmWxio1AJjECgLDZdxKJ7LWRe6VnFv4RvYroMdxPErrD9dCRG7awJ9bbowblLEmPfUuAySwkajFuHp7rhjIiOyOiBZrRrWTfDlNC/EWWim+fsRwgM6HYAidvn7hy7UEh91o1o1cQcuYTWnOYQ7RSBiyK6Fqbf/z9c6qnRcYZqkkQaw==;HQqlAKs4LWIJtlQLpW+ajw=="
 ---
 

@@ -31,147 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump falsely claims 'illegal ballots' are changing the election"
-    excerpt: "In a tweet thread Saturday morning President Donald Trump threw out baseless claims suggesting that \"tens of thousands\" of illegal ballots are being used to change the results in key states.\n    \n"
-    publishedDateTime: 2020-11-07T22:47:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQlMie3LeZI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
+  - title: "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle"
+    excerpt: "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n"
+    publishedDateTime: 2020-11-17T02:46:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AmtOYIf1x9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 187
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106225744-donald-trump-rally-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114132847-02-stop-the-steal-protest-dc-1114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
-    excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
-    publishedDateTime: 2020-11-14T14:19:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jffFsOp1XrI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/trump-election-cases-status/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/trump-election-cases-status/index.html"
+  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-15T03:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113164926-04-trump-rose-garden-1113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: 7 kinds of dishonesty to expect at a late-campaign Trump rally"
-    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
-    publishedDateTime: 2020-10-31T13:56:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+  - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
+    excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
+    publishedDateTime: 2020-11-16T18:18:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and GOP lawsuits thus far challenging few ballots with no proof of fraud"
-    excerpt: "President Donald Trump and the Republican National Committee's vows to challenge the election results and win through the courts appear unlikely to be successful with so few ballots at issue in litigation to make any difference in enough states to matter.\n    \n"
-    publishedDateTime: 2020-11-06T20:45:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0fa9K_SCQQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/lawsuits-trump-gop-proof/index.html"
+  - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
+    excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
+    publishedDateTime: 2020-11-17T00:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DD3Hbq915g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021160327-early-vote-florida-octuber-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: In bid to win Michigan, Trump makes false claims about the state's auto industry"
-    excerpt: "Trying to win the critical swing state of Michigan, President Donald Trump is closing his campaign with a series of false claims about the state's famed auto industry.\n    \n"
-    publishedDateTime: 2020-11-02T22:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0f5ghFdA4x0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/fact-check-michigan-auto-jobs-trump-obama/index.html"
+  - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
+    excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
+    publishedDateTime: 2020-11-11T02:08:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031012444-trump-michigan-rally-1030-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: CNN breaks down the 7 kinds of dishonesty to expect in a late-campaign Trump rally"
-    excerpt: "President Donald Trump is closing his campaign with a torrent of lies. His October rally speeches have been notably dishonest even by Trump standards.\n    \n"
-    publishedDateTime: 2020-11-01T00:31:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwfBGrEPbJY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/fact-check-trump-rallies-dishonesty/index.html"
+  - title: "For a preview of President Biden, look to his past."
+    excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
+    publishedDateTime: 2020-11-16T18:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029162343-trump-arizona-1028-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15transition-briefing-biden-transition/13biden-govern1-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump calls for ballot counting scenario where votes legally cast by military would be thrown out "
-    excerpt: "As President Donald Trump baselessly claimed that all votes received after Election Day are illegal, he attacked the absentee ballots of military members and their spouses that, by law, must be counted.\n    \n"
-    publishedDateTime: 2020-11-07T00:29:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sgcUq2qFSx8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/homefront-trump-military-ballots/index.html"
+  - title: "Biden leads Trump by 5 points in Iowa poll"
+    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
+    publishedDateTime: 2020-10-07T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: Politico
+      domain: politico.com
+    quality: 130
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200213150327-pentagon-building-aerial-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
-    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
-    publishedDateTime: 2020-11-05T15:37:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+  - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
+    excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."
+    publishedDateTime: 2020-11-16T18:53:00Z
+    webUrl: "https://www.cnn.com/2020/11/15/asia/biden-china-policy-trump-us-intl-hnk/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 111
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
-    excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
-    publishedDateTime: 2020-11-06T23:01:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RgBF3hSC02s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/fact-check-trump-poll-watchers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106131352-06-ballt-counting-1106-allentown-pa-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116084655-xi-jinping-joe-biden-2015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

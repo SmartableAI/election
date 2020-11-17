@@ -47,20 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP senators shrug off Trump's conspiracies over election results: 'He can say whatever he wants'"
-    excerpt: "Top Senate Republicans seemed unmoved Monday by President Donald Trump's baseless charges that the election was \"rigged\" and his false assertions that he actually won the election, even though the results show he lost the race despite his efforts to sow distrust over a cornerstone of US democracy.\n "
-    publishedDateTime: 2020-11-16T22:50:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5jYYtovKOyY/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181026133036-01-deb-fischer-file-1026-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "4kZ1BKdliJ2OaUlIevjtGnGkm7jsxTEnmoSzDEjJTXH9YjYQWND/qVJraFQ/iDej6wCGfHJQ0BwcqsDIW59dD8vmm4dXSyCIfJ7YajLTkxv0JJniA0ZsAsDuOlEZ0gxInzigjPxCEN1wTnaibbKZfeGIl2dCr0YYDFzy8RdygUotM3BYmSgxwcuzJZJjeMEUWik1Wa97Dz2hfUsq5pA0j4+t7Hvpaji7O7HCv6yUVWDswRy61ppNpaHOgM0gOrg5qDGJhjG/zvtF8jbzEQ081VBACoCsdzC8P4Swe1mPDHpdi2+YRQfg1+qAQS2EQfhGW75A/gXKWDydR7nN3f18+/ZY5B0tNVD6GLkZpcElsaU=;F8COKMkxmD5ZILKwp/1Wrg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 4874
+heat: 4894
 published: true
 
 provider:
@@ -1637,6 +1637,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-retreats-from-key-claim-in-pennsylvania-suit/2020/11/15/ec7ed05e-27ba-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump campaign drops key request in Pennsylvania lawsuit"
+    excerpt: "President Donald Trump’s campaign is withdrawing a central request in its lawsuit seeking to stop the certification of the election results in Pennsylvania"
+    publishedDateTime: 2020-11-17T01:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-drops-key-request-in-pennsylvania-lawsuit/2020/11/16/37a400b0-2872-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

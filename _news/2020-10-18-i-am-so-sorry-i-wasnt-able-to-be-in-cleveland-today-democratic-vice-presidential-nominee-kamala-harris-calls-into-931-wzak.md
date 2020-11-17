@@ -3191,6 +3191,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
+    excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
+    publishedDateTime: 2020-11-16T23:04:00Z
+    webUrl: "https://www.rollcall.com/2020/11/16/biden-says-its-a-good-thing-his-colleague-kamala-harris-is-still-on-the-senate-intelligence-committee/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 53
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/SENATE_VOTE_001_08042020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage"
     excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
     publishedDateTime: 2020-10-23T10:00:00Z

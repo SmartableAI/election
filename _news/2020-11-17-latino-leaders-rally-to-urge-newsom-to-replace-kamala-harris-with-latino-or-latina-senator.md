@@ -33,6 +33,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
 
 secured: "aayQXqm8moh80pg0W9E1MmYeZUWKwJKqHkn1xbLaZVbNf4csZaDVKfKOq7iRj7+MkaXIV4qgO0/k+toHR8ZTgsoHkuMLSrvFW5IDTs84TMQQU5n9bXXrHTlZnOywsZdVni6amfXo+n8qgSuiibMkc5AD2qjcxdR1Ynt00pSLXR2A+zwMH5hKgewtJSCkwBLioqza5zHb+qL0ARyfKmPB4gIFGRnuHiNFZoQ5Wf8c9++nYZEgtEnu+kf0Vl0Tak24zmFzI0TlnzfsRj6Jcui1dzrvueh6K96G1d62b839kxdyT3x/94azR7gino06kphnQouiidj6oZvasbJHg7YYrT9c/EScYht1xynCQvx50oVV0lih0CTBnG/vgwuZgYysUY3dd6B3Butpf5a4HsXEWLq4CugI2MDIw/O3IyxfVP+S8jvN+k2yFnqW8IfWa9lOy1+lvF6IEJ0/KWI8y2OqoGW/pgiiWDZMkg/YBDOJHdeJ4HT9qWsDN88dld3kAcp58xAj5RymD1gaoPCSBl4VKg==;Jz2ZrrjJg0B57idBrp34Xg=="
 ---

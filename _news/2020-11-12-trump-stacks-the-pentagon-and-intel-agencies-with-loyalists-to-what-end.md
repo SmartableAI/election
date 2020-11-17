@@ -32,21 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
-    excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
-    publishedDateTime: 2020-11-11T23:50:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+  - title: "Trump plans to launch PAC to maintain influence in GOP circles"
+    excerpt: "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n"
+    publishedDateTime: 2020-11-10T13:45:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Watch Trump refuse to acknowledge reality at press conference"
+    excerpt: "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n"
+    publishedDateTime: 2020-11-13T22:42:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
+    excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
+    publishedDateTime: 2020-11-11T18:22:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YO7po5GJkdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140343-02-trump-nc-1101-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Maryland Gov. Larry Hogan urges Trump to concede as he calls for a less divisive GOP "
+    excerpt: "Maryland Gov. Larry Hogan on Monday urged his fellow Republicans to reject the extremes of his party and for President Donald Trump to accept the results of the election.\n    \n"
+    publishedDateTime: 2020-11-16T18:38:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I0UB9iw6IpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423112707-02-larry-hogan-nh-0423-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
+    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
+    publishedDateTime: 2020-11-09T09:32:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
+    excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
+    publishedDateTime: 2020-11-16T20:59:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/merlin_160070196_ab2086c5-d116-41af-b545-332fc32dddc3-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "zl44yxPAduxtJi3csU1O8nvcJG2mNmlWIOzo656dDMk4+sg/xSlUYcu1sMA/UKr/hTjGjXB1nPWz0xoqqPtHwq5vgOf0W94NAd2lsrQsiI0pPA2K0QbEMctdUKP6rI1ZqwM56pRp/QHfeP42A9UrTOTWqBFLaKmhg8p+ICWCN8d23K9zZlgDcDH0Dt2PpZXjLljNjLBLyf0U/6vJusMGk5pfve9zMmlzZmk+dhAPs6CEqFz9uMJ6ounyhThdH9wyXFw25AZ66hn51VySXw8SLwE5LmjpMaJsrNq+yq2LpG7fnM8ryQWYKpU7NDAhmoWXNX8U8z/zy/aB/LgS6UWuf+ue8viIbW9G1SKaClceSPkjM/KjMA1UWyKD2SO6VSp7TsAZW8plVBXa+Kt42g7OCH2XB55YNNPdDJkfECQ6C+EgHYzrEuJ2qstA6GZkFADa3Guz/Ir+unUE8V85ez7+xODrSsxHRYWp5fQCpZlVPAOgvTPqseIJgq2huZg048MMD5/8QXsEIQtL+KHaSW9C4A==;bZaOcpVykM57/QbDfMqgjw=="

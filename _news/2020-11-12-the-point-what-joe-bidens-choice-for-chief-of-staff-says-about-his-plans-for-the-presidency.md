@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cedric Richmond expected to leave Congress and join Biden's White House in senior role "
+    excerpt: "Louisiana Rep. Cedric Richmond is expected to join President-elect Joe Biden's White House staff in a senior role, departing the New Orleans-area House of Representatives seat he has held since 2011, sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-17T00:16:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C7NVNNlnKp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/cedric-richmond-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/cedric-richmond-biden-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110103859-10-biden-admin-possibilities-richmond-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden poised to announce his chief of staff as early as Thursday, with Ron Klain the leading finalist"
+    excerpt: "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2020-11-11T22:53:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110150927-02-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'He knows how to work inside this government': How Ron Klain's experience prepares him to lead Biden's staff"
     excerpt: "In selecting Ron Klain as his White House chief of staff, President-elect Joe Biden has tapped a veteran of some of the biggest moments in modern American political history.\n    \n"
     publishedDateTime: 2020-11-12T22:47:26Z

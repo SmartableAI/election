@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-bal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/donald-trump-illegal-ballots-fact-check/index.html"
 type: article
 quality: 187
-heat: 367
+heat: 347
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
-    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
-    publishedDateTime: 2020-11-13T18:36:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z

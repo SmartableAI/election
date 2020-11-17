@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-laws
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
 type: article
 quality: 185
-heat: 345
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,133 +31,129 @@ images:
     isCached: true
 
 related:
-  - title: "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   "
-    excerpt: "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n"
-    publishedDateTime: 2020-11-12T02:05:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
+  - title: "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle"
+    excerpt: "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n"
+    publishedDateTime: 2020-11-17T02:46:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AmtOYIf1x9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114132847-02-stop-the-steal-protest-dc-1114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses"
-    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
-    publishedDateTime: 2020-11-14T16:04:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+  - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
+    excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
+    publishedDateTime: 2020-11-16T18:18:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "CIA Director Haspel's fate uncertain after Trump fires Esper"
-    excerpt: "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama"
-    publishedDateTime: 2020-11-09T22:29:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact checking Trump's barrage of lies over the weekend"
-    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
-    publishedDateTime: 2020-11-16T18:35:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
+    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
+    publishedDateTime: 2020-11-13T18:36:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Top Pentagon policy official resigns day after Trump fires defense secretary"
-    excerpt: "The Pentagon's top policy official, James Anderson, resigned Tuesday, according to two US defense officials, a day after President Donald Trump fired Secretary of Defense Mark Esper.\n    \n"
-    publishedDateTime: 2020-11-10T16:14:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3nC7iUGiB4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+  - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
+    excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
+    publishedDateTime: 2020-11-17T00:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DD3Hbq915g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110110527-james-h-anderson-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
-    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
-    publishedDateTime: 2020-11-16T10:03:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
+  - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
+    excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
+    publishedDateTime: 2020-11-11T02:08:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
-      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
-    excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
-    publishedDateTime: 2020-11-10T08:56:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+  - title: "For a preview of President Biden, look to his past."
+    excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
+    publishedDateTime: 2020-11-16T18:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15transition-briefing-biden-transition/13biden-govern1-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
-    excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
-    publishedDateTime: 2020-11-16T20:59:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+  - title: "Biden leads Trump by 5 points in Iowa poll"
+    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
+    publishedDateTime: 2020-10-07T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 130
     images:
-      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/merlin_160070196_ab2086c5-d116-41af-b545-332fc32dddc3-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
+    excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."
+    publishedDateTime: 2020-11-16T18:53:00Z
+    webUrl: "https://www.cnn.com/2020/11/15/asia/biden-china-policy-trump-us-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 111
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116084655-xi-jinping-joe-biden-2015-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "vpitnH36NB20PjWX5US5n4Am8faQ6lOA0kb051NXYMuCF7ipE27D+GzS75SWiX3Iwri3pRwXmEMGv6TLJE00lBRLC4jquGbEt1DyxOE0TjnIjiSXwHfaMtcIgl7U36MSZKQkm7cy5SiWdS/XzlaHh1kT/J2/PkIf2W/q8Invvpd7JqSABZu9Ax625TwU0pJrCoprInzZHmUh2iI2RzGAIuB7GnuvUB3aouPQq9DZri5a8o50bcNNJdoN3iFCIQtCV8UVXeKDdf6YWOay0QlFdEvqCsnAhvzolUGJskhy4IuHqVu93dwTgWjl4OwFGqUY/aPRktUm/5UuhKxVu4y8tkxQdCPliry3IqyRvzqtYpY=;8E2w8/MQd70mTc0RQ4eGZA=="

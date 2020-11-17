@@ -223,6 +223,22 @@ related:
         width: 771
         height: 545
         isCached: true
+  - title: "Trump attacks Vegas-area certification of Biden election win"
+    excerpt: "As officials in Nevada certified results of the Nov. 3 election, President Donald Trump took to Twitter on Monday with a new attack on the vote that gave Democratic candidate Joe Biden a 33,596-vote s"
+    publishedDateTime: 2020-11-17T01:00:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-attacks-vegas-area-certification-of-biden-election-win/2020/11/16/4ce24f06-2870-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-attacks-vegas-area-certification-of-biden-election-win/2020/11/16/4ce24f06-2870-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-attacks-vegas-area-certification-of-biden-election-win/2020/11/16/4ce24f06-2870-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -2399,6 +2415,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘More people may die’: Biden urges Trump to aid transition"
+    excerpt: "President-elect Joe Biden is warning of dire consequences if President Donald Trump and his administration continue to refuse to coordinate with his transition team on the coronavirus pandemic and block briefings on national security,"
+    publishedDateTime: 2020-11-16T17:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Latest: Biden cites need for Trump to share virus plans"
     excerpt: "President-elect Joe Biden says the outgoing Trump administration’s failure to share specific plans on combating the coronavirus pandemic is stymying American businesses’ abilities to find ways to grow"
     publishedDateTime: 2020-11-16T20:40:00Z
@@ -2878,6 +2910,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GSA official blocking Biden's transition privately plans post-Trump career"
+    excerpt: "Emily Murphy has the power to decide when a transfer of power begins, and although she hasn't green-lighted Joe Biden's transition, she is looking for a new job."
+    publishedDateTime: 2020-11-16T23:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/gsa-official-blocking-bidens-transition-privately-plans-post/story?id=74234794"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gsa-official-blocking-bidens-transition-privately-plans-post/story?id=74234794"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gsa-official-blocking-bidens-transition-privately-plans-post/story?id=74234794"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/emily-murphy-01-gty-iwb-201106_1604694727551_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
+    excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
+    publishedDateTime: 2020-11-17T02:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X04Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X04Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X04Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541435184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG02D"
+        width: 817
+        height: 545
         isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
@@ -6225,6 +6289,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Biden pressures Trump to cooperate, citing risk of additional coronavirus deaths if handoff is delayed"
+    excerpt: "The president-elect continued to assemble his team, with Rep. Cedric L. Richmond (D-La.) expected to join the administration."
+    publishedDateTime: 2020-11-17T00:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump/2020/11/16/d7fb10f2-2828-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEGIHZBILEI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "With two days to go, Trump casts doubt on integrity of prolonged vote count"
     excerpt: "President Donald Trump cast doubt on the integrity of the U.S. election again on Sunday, saying a vote count that stretched past Election Day would be a \"terrible thing\" and suggesting his lawyers might get involved."
     publishedDateTime: 2020-11-03T03:04:00Z
@@ -7694,6 +7774,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden says Trump blocking Covid plans will lead to more deaths – video"
+    excerpt: "More people may die, if we don’t coordinate' says US president-elect Joe Biden"
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.theguardian.com/world/video/2020/nov/17/joe-biden-says-trump-blocking-covid-plans-will-lead-to-more-deaths-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/4ebe2e1f9323fbf4f216fd38406c349c0248e536/0_86_6048_3628/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b04d9c7d91a3f9bbca8da39b93371c3"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Ultimate Donald Trump Mystery That Couldn’t Be Solved Before Election Day"
     excerpt: "A s Americans vote today, they do so with a limited view of Donald Trump’s finances—especially at one project, the Trump International Hotel & Tower in Chicago, which offers the prospect of shedding light on many questions: who the president owes money to,"
     publishedDateTime: 2020-11-03T13:48:00Z
@@ -8197,6 +8291,22 @@ related:
       - url: "https://i.insider.com/5fad24b67f8f4200182a673e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump's border wall is a 'monument to racism,' advocacy groups say. What happens to it when Joe Biden becomes president?"
+    excerpt: "Border advocates and conservationists said they would like to see a Joe Biden administration tear down portions of the wall on the U.S.-Mexico border."
+    publishedDateTime: 2020-11-17T02:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/16/donald-trump-border-wall-joe-biden-presidency/6319597002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6319597002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6319597002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/fd0323a2-0a23-4a96-a32d-b7fd540ef44c-01Z_6358.jpg?auto=webp&crop=5471,3078,x0,y364&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Erasing Trump policies on climate, immigration, and healthcare: Here's what Biden promised for his first day in the White House."
     excerpt: "Joe Biden promised to roll back major Trump policies on Day 1 of his administration. Even his supporters concede it'll be tough to do it all."
@@ -9134,6 +9244,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden urges Americans to limit Thanksgiving plans"
+    excerpt: "President-elect Joe Biden is urging all Americans to follow the advice of health and medical professionals when making their Thanksgiving plans amid the ongoing pandemic. Biden says he and his wife Jill are having the same discussions."
+    publishedDateTime: 2020-11-16T23:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/16/biden-urges-americans-limit-thanksgiving-plans/6319127002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/68d27c5c-5639-4f47-9ff1-63eb0dcab59e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pompeo says there will be a 'smooth transition' into a 2nd Trump administration as the president continues to reject the 2020 election results"
     excerpt: "Pompeo's comments sparked outrage on social media, and many did not appear to interpret his reference to a \"second Trump administration\" as a joke."
     publishedDateTime: 2020-11-10T20:21:00Z
@@ -9564,6 +9688,20 @@ related:
       - url: "https://i.insider.com/5fb00420402d49001924efe8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President-elect Joe Biden says COVID must be under control for the economy to recover"
+    excerpt: "Washington Post economics correspondent Heather Long joined \"Red and Blue\" to break down the plans President-elect Joe Biden outlined in his economic address Monday, including a potential COVID-19 aid package from Congress."
+    publishedDateTime: 2020-11-17T00:19:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-economic-recovery-plans-covid-relief/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/355e99df-c1c3-44db-933e-539e6b30eb04/thumbnail/1200x630/e6546d2dd9ff11bb177311e927c77472/cbsn-fusion-president-elect-joe-biden-speaks-on-how-his-economic-recovery-plans-at-an-event-on-monday-thumbnail-589270-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Insiders at Fox News wonder what's next as they try to acknowledge Biden's victory without turning away Trump voters"
     excerpt: "Insiders at Fox News and the New York Post are wondering what's next for the most vocal pro-Trump personalities inside Rupert Murdoch's media empire."

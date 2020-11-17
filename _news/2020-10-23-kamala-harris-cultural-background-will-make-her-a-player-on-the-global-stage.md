@@ -3185,6 +3185,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
+    excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
+    publishedDateTime: 2020-11-16T23:04:00Z
+    webUrl: "https://www.rollcall.com/2020/11/16/biden-says-its-a-good-thing-his-colleague-kamala-harris-is-still-on-the-senate-intelligence-committee/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 53
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/SENATE_VOTE_001_08042020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
     excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
     publishedDateTime: 2020-10-14T20:00:00Z

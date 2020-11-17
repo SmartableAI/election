@@ -96,16 +96,16 @@ related:
         height: 470
         isCached: true
   - title: "Vice President Mike Pence Attends Republican Luncheon"
-    excerpt: "United States Vice President Mike Pence (R) walks in the halls of the Hart Senate building to attend the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10, 2020. President Donald Trump is not conceding the election blocking the transition of President-elect Joe Biden's."
+    excerpt: "United States Vice President Mike Pence walks with Becky Schaaf, Protocol Officer U.S. Senate Sergeant of Arms out of the Republican Policy lunch on Capitol Hill in Washington, DC on Tuesday, November 10,"
     publishedDateTime: 2020-11-10T20:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/983795474abd1412a8979ad4d2bf6816/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8cc7194d3a31d11d7aa74677c657a354/Vice-President-Mike-Pence-Attends-Republican-Luncheon/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/983795474abd1412a8979ad4d2bf6816/REBUBLICAN-POLICY-LUNCH.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8cc7194d3a31d11d7aa74677c657a354/REBUBLICAN-POLICY-LUNCH.jpg"
         width: 650
         height: 433
         isCached: true

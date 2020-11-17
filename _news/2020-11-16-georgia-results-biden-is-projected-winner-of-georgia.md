@@ -147,6 +147,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "2020 Daily Trail Markers: Biden pleads with Democrats and Republicans to come together for COVID-19 relief bill"
+    excerpt: "\"The idea the president is still playing golf and not doing anything about it is beyond my comprehension,\" the president-elect said. \"What is he doing?\""
+    publishedDateTime: 2020-11-16T23:53:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
     excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
     publishedDateTime: 2020-11-14T16:08:00Z

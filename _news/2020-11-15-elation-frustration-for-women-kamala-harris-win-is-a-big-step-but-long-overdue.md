@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-w
 webUrl: "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue"
 type: article
 quality: 99
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Now we’re uplifted’: Kamala Harris’ Bay Area friends exhale, extol historic election"
+    excerpt: "Tears, cheers as Harris breaks another barrier with election as the first woman and the first person of color to become vice president."
+    publishedDateTime: 2020-11-08T19:32:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
+        width: 1024
+        height: 715
+        isCached: true
   - title: "Latino leaders rally to urge Newsom to replace Kamala Harris with Latino or Latina senator"
     excerpt: "California Latino leaders held rallies across the state, including one in Sacramento's Cesar Chavez Plaza, on Monday, Nov. 16, 2020, to urge Gov. Gavin Newsom to appoint a Latino or Latina senator to replace of Vice President-elect Kamala Harris."
     publishedDateTime: 2020-11-16T21:27:00Z

@@ -32,76 +32,28 @@ images:
     isCached: true
 
 related:
-  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
-    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
-    publishedDateTime: 2020-11-15T03:43:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   "
-    excerpt: "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n"
-    publishedDateTime: 2020-11-12T02:05:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses"
-    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
-    publishedDateTime: 2020-11-14T16:04:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 178
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CIA Director Haspel's fate uncertain after Trump fires Esper"
-    excerpt: "President Donald Trump and some of his conservative allies have become increasingly frustrated with CIA Director Gina Haspel in recent weeks, accusing her of delaying the release of documents they believe would expose so-called \"deep state\" plots against Trump's campaign and transition during the Obama"
-    publishedDateTime: 2020-11-09T22:29:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MHl8ztqV71U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/trump-frustrated-cia-director-haspel/index.html"
+  - title: "Trump plans to launch PAC to maintain influence in GOP circles"
+    excerpt: "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n"
+    publishedDateTime: 2020-11-10T13:45:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180514170841-getty-gina-haspel-senate-hearing-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact checking Trump's barrage of lies over the weekend"
-    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
-    publishedDateTime: 2020-11-16T18:35:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+  - title: "Watch Trump refuse to acknowledge reality at press conference"
+    excerpt: "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n"
+    publishedDateTime: 2020-11-13T22:42:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
     type: article
     provider:
       name: CNN
@@ -112,55 +64,71 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Top Pentagon policy official resigns day after Trump fires defense secretary"
-    excerpt: "The Pentagon's top policy official, James Anderson, resigned Tuesday, according to two US defense officials, a day after President Donald Trump fired Secretary of Defense Mark Esper.\n    \n"
-    publishedDateTime: 2020-11-10T16:14:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3nC7iUGiB4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/pentagon-policy-official-resigns/index.html"
+  - title: "Trump puts his bottom line before the country. And the GOP is helping him do it."
+    excerpt: "Given what we know about Donald Trump, his refusal to accept loss as he begins a revenge purge of his perceived enemies should not surprise us. He is a tiny man, devoid of moral fiber and character, defined only by his self-interest.\n    \n"
+    publishedDateTime: 2020-11-11T18:22:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YO7po5GJkdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/borger-analysis-trump-bottom-line/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110110527-james-h-anderson-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102140343-02-trump-nc-1101-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
-    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
-    publishedDateTime: 2020-11-16T10:03:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
+  - title: "Maryland Gov. Larry Hogan urges Trump to concede as he calls for a less divisive GOP "
+    excerpt: "Maryland Gov. Larry Hogan on Monday urged his fellow Republicans to reject the extremes of his party and for President Donald Trump to accept the results of the election.\n    \n"
+    publishedDateTime: 2020-11-16T18:38:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I0UB9iw6IpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/larry-hogan-trump-republicans/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: CNN
+      domain: cnn.com
+    quality: 168
     images:
-      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423112707-02-larry-hogan-nh-0423-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Plans PAC in Hopes of Keeping Hold on G.O.P."
-    excerpt: "The PAC could accept donations from an unlimited number of people and spend to benefit other candidates, allowing the president to retain influence in a party remade largely in his image."
-    publishedDateTime: 2020-11-10T08:56:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/trump-pac.amp.html"
+  - title: "Trump Lost the Race. But Republicans Know It’s Still His Party."
+    excerpt: "Inside the Zoom salons, Senate-office conversations and 2024 jockeying that will shape the future of the G.O.P."
+    publishedDateTime: 2020-11-09T09:32:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/us/politics/republican-party-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-trump1/09dc-trump1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
+    excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
+    publishedDateTime: 2020-11-12T01:39:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11dc-military-sub1/11dc-military-sub1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
 
-secured: "5LezxxEQgK0XY24AGbH3BW/gKwvMlRas3AJj63CQBZdVcLrxZrI1kLRYHTPCWE4lbgOdQnzQWY3zWq8xQ0JEhzoO/q8BN1TrSO+0QfLSQfv8ofW8Xw55O4oN586qWwmWHJcZSPhomfHpNmVBEWLXyHX9ADolvG/fPZB39lS4kVg3e+HQCiBKjR6FeVvYmvWG+45KvrmfMWW2vDL6238dktX8vY2wEuLaFPCdr3YONo5X73VJ7Ho7ppRIvOtY+6MWXrkzKIraCBR0UWVO91/k5fiEBpOnlE4CiR+zgypQhfDWfWdlKjwGvwzUr97ufdv9g0tiK9XI+EY7hC1ys0YOo+nXEJI3YquPybcw/87xngc=;fsZ+oQL63wo+u0kY7MPkyw=="
+secured: "h45cmlVR2GbfvDV5LnzpvPqwgElzy/baZfAcA1N7ly8piUOk6//OhRCCo3QphJfxOcC2+BJUQrkUtDX5AkDmYzud4FpHVqTzb3m4+IFgUDoYukS6FiD0xBI2iktNCzDVZ3coRLk7L1UFkC3GC8PFJPp3ExxDkBzJ8b/S+YOf5oJMa6K+4BwCnLERLB6gqjFilP3wrsWQ5XXcrxc2S5RDIUYKyGxDg1D9WyBnXiyvUMGdnJJGvh3nkdQFPLKzW41gyXod+OWWZddfI0XyjkJFIEQJonAjT7Go5jk+MhyLkTG1Xb5hdK2za5X+N6kSje36Y9UMNLTq9ve92QCurl/0mu+ITOQycdx8j+OoxjBo4LWJfom+ZVFdjEFF5PHf4bP1G2jRYtboiwVKC7rn93BJkuiJ9uRIp2NpY30n4+Hi2UEtnFuGyQZElAtLTD7vOhMaj4UrDIYgII3JV2wiLOTZNGdr+eMVxgZHnKApOVH7auokB1TxqDDn8knkJxu7rpKB4RK2zeYCeWXQ3fmXERxyWA==;YQu8QWAFs7qrA/PuqgEQkg=="
 ---
 

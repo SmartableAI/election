@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-tran
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
 type: article
 quality: 179
-heat: 239
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,53 +31,129 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Trump refuse to acknowledge reality at press conference"
-    excerpt: "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n"
-    publishedDateTime: 2020-11-13T22:42:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GtmqhksXXBI/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/13/donald-trump-refuses-to-concede-van-jones-john-kasich-wolf-blitzer-tsr-vpx.cnn"
+  - title: "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle"
+    excerpt: "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n"
+    publishedDateTime: 2020-11-17T02:46:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AmtOYIf1x9A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114132847-02-stop-the-steal-protest-dc-1114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-15T03:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
+    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
+    publishedDateTime: 2020-11-13T18:36:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden poised to announce his chief of staff as early as Thursday, with Ron Klain the leading finalist"
-    excerpt: "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2020-11-11T22:53:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html"
+  - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
+    excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
+    publishedDateTime: 2020-11-17T00:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DD3Hbq915g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110150927-02-biden-1110-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "More Republicans call for a smooth transition as Trump continues spreading baseless fraud claims."
-    excerpt: "Even as more top Republicans urged President Trump on Sunday to allow for an orderly presidential transition, the president himself, after briefly appearing to acknowledge his election loss, resumed spreading the kinds of baseless accusations of election fraud that his supporters have embraced."
-    publishedDateTime: 2020-11-16T18:36:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.amp.html"
+  - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
+    excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
+    publishedDateTime: 2020-11-11T02:08:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "For a preview of President Biden, look to his past."
+    excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
+    publishedDateTime: 2020-11-16T18:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 122
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15transition-briefing-bolton-repubs/15transition-briefing-bolton-repubs-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15transition-briefing-biden-transition/13biden-govern1-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden leads Trump by 5 points in Iowa poll"
+    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
+    publishedDateTime: 2020-10-07T20:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
+    excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."
+    publishedDateTime: 2020-11-16T18:53:00Z
+    webUrl: "https://www.cnn.com/2020/11/15/asia/biden-china-policy-trump-us-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 111
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116084655-xi-jinping-joe-biden-2015-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "aiHoFC/szwP6PgDUTZYwDX8GGx3LsQTPRoRZgpHCtbLIli0aww0fQ8htMZwK58r3+lr7xQRjZvMb5Kj+oJwyvGvztPjY4Tqqw0l5Yi93TOygo9oStTZZ4eF/8ec48CM26FG9hQ7+8wJDnrqIJisFBeNm4gzeEc9IMOnFXDwTAqr9FmqMZT+xUPHChalrl5Nbb2v34EvIln6QFR0UfquUbdXSn5gzE5sflK95eSF38CHbgAIthg9zNBPa+Z6lDkua9HuZyh3sg36vs3GSSRZtizWjaKFo0WZmk7M2k9m+krbtiKqxB83BAbtCcGaeDupu2+i0xqZtczPjFBzkzda3OyuURyMrelsjoWUSINUC1wY=;0/GhXTIbP0tSI7sWkf/Ytg=="

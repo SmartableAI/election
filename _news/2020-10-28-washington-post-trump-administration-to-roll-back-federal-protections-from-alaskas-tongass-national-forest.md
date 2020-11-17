@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
-    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
-    publishedDateTime: 2020-10-26T14:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "ACWdY3Str4A2zcarb8RG83KqPvp/O+1zWYEz/Cf5/bCwj5x2WuiWPnH2mSDwrKW7RUl/ggN+Z1U1VhH3ZNlJX5sYOt+6ericpLrTZ+5friaLxFXLMPeBs3gGiYztmoJi6wzolicp6RF5zh9r3pzFUSm7A0WsLeQsf+7t8YypGUMplzY0i6JWrai6iJF8yKDD9/Mxk8tw/ODfrAhBq1h0iYzHa/mFm9xO6AYfvvNvjbYDRFmaELyx8MRqrUzYvWRtuf8JfewZYdoTyap8AdXuTN3hhMoE0HOL8ug+Rb5lh+4g6/LV1+UzhbeRfYKW5ZeQKS7etOXKO50qshHGhCEQjp15N2j2lCmxukDxrAKHWcc=;GFoLQ8Gw+gvjpTsxz5QjPw=="
 ---

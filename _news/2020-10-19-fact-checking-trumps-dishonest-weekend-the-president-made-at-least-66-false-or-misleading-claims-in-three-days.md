@@ -31,166 +31,164 @@ images:
     isCached: true
 
 related:
-  - title: "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted"
-    excerpt: "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n"
-    publishedDateTime: 2020-10-15T19:28:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
+  - title: "Fact checking Trump's barrage of lies over the weekend"
+    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
+    publishedDateTime: 2020-11-16T18:35:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall"
-    excerpt: "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n"
-    publishedDateTime: 2020-10-15T01:35:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+  - title: "Trump administration begins last-minute leasing process for arctic drilling"
+    excerpt: "The Trump administration on Monday started a leasing process for oil and gas drilling sites off the Arctic National Wildlife Refuge, something environmental groups feel is a potential last-minute giveaway to the energy industry before the Biden administration takes over.\n    \n"
+    publishedDateTime: 2020-11-16T18:24:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D1SM2YouQZs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720120229-weir-alaska-anwr-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
-    excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
-    publishedDateTime: 2020-10-16T15:13:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
+  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
+    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-11-13T13:01:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
-    excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
-    publishedDateTime: 2020-10-16T21:32:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
+  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
+    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
+    publishedDateTime: 2020-11-10T16:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
-    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
-    publishedDateTime: 2020-10-16T16:22:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
-    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
-    publishedDateTime: 2020-10-10T15:05:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+  - title: "How to Protect America From the Next Donald Trump"
+    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
+    publishedDateTime: 2020-11-09T14:00:00Z
+    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
-    excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
-    publishedDateTime: 2020-10-17T04:50:00Z
-    webUrl: "https://www.cnn.com/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+  - title: "Authoritarians From Mussolini to Trump"
+    excerpt: "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,"
+    publishedDateTime: 2020-11-10T18:06:00Z
+    webUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
+    excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
+    publishedDateTime: 2020-11-11T21:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/arts/11reagans2/11reagans2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Obama: Trump's fraud claims delegitimizing democracy"
+    excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
+    publishedDateTime: 2020-11-13T00:39:00Z
+    webUrl: "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
-    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
-    publishedDateTime: 2020-10-15T10:12:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
+    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
+    publishedDateTime: 2020-11-13T08:51:00Z
+    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Trump is eyeing another corporate tax cut (for the wrong reason)"
-    excerpt: "The problem is not just the fact that Trump is eyeing yet another corporate tax cut; the problem is also why he wants it."
-    publishedDateTime: 2020-10-16T18:24:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-eyeing-another-corporate-tax-cut-wrong-reason-ncna1243751"
+  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
+    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
+    publishedDateTime: 2020-11-10T17:07:00Z
+    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
     quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420640/ss-201015-twip-09_8c7a2d780ff1265de9e5a51ce8401870.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
-    excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
-    publishedDateTime: 2020-10-13T23:30:00Z
-    webUrl: "https://www.thedailybeast.com/trump-touts-falconers-benghazi-blood-sacrifice-conspiracy-theory"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "CNN Anchor Shreds Fox News and Trump for Peddling ‘Bogus BS’ With ‘No Accountability’"
-    excerpt: "The president and his allies push and push conspiracy theories and misinformation. They repeat them ad nauseam so that millions of viewers just end up adopting it as fact.”"
-    publishedDateTime: 2020-10-15T18:51:00Z
-    webUrl: "https://www.thedailybeast.com/cnn-anchor-brianna-keilar-shreds-fox-news-and-trump-for-peddling-bogus-bs-with-no-accountability"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "Ub5mWGMjBpWlNfzViGSePmOUxbcwvs0WN8cltsnEGGoUBCB/IvG65lmM4Mv0qg5l62tl9soPr8saBSaW0ntBkOMl6sbkEUYjq0s4LaFhKv4mAtxLxhBOzo1+GNtAiLdYLeSbGJ8gna25n/f2K9x2cT7yl/QIH0A7R9eFTfsVhbW5pApE/HVj23z7+/oWwa6IzuL5nZlpG/VzrWKyzBBAoKZg/OYz6Jnlw9aACyzEay344ZTcyNfgaFVIElLYCbeckcLMoUrzcGgbgMm1SOsa4CgydH/HWtvbLfbomNU4KLMrLR+sttVzILrAkTaeSh/Pv4LayfN4LBT9ooyVDK6c1evSAxAa1690dTCzvZdW8wU=;09k9YR2DRnBUfLt0OcEcpg=="
 ---

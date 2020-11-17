@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump hints at primary challenge for DeWine in tweet"
+    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
+    publishedDateTime: 2020-11-16T23:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
     publishedDateTime: 2020-11-15T07:46:00Z
@@ -128,6 +144,6 @@ related:
         height: 632
         isCached: true
 
-secured: "AfMawkDA/NVPqDITh1nJTrBQPO12NEBaBdITH6wf0/inixSuymkWEk/jJo2wZ1OH/ETUai90j0oghM5YqApOu4t0CTUGFuXxI/6GXQrZWym3G5unTKpw7d/HvMz7bCiS1kWaQrCvzG1F0J1ixN5ooSTAGpXukh91PEyunwZAc7yZNtl3p5SNA8+CM5tKgttL+3HV3lYdyG1eXuzxhwH5PxaZLaXBLA9e7TI9vHvWRxzh1MfUxgS1rifHYsS68JevsAE9D8OARv2URxebFM+/RW88blHxtGTFtUvr0RXkAOEXtg66rkr/9hpqrlmBX0G1eRsMxLCaN0AjayO5eOTIiIV5Et3fm+Tgb/oCxEO47SY=;4RemFWhkklugny1iur64xw=="
+secured: "Juw7wNt+m/Oe3dyOohTRdw1GkSNJJ/8WE3mXIudILzks6Y1hMfbg7RK+VrBrUMZzH412vGO0+C8GZtFOpbHFhSXvGAYlbG+56i7Lo1LRmbLuuAIrg6UTv7lAKfSbqadky9hKkPMN1fOyO/WCGxgqSYReEpgkDs7E4IaUxnOGzuLKH/1YZZYVYPlV46mG4uNW1Hi77mOmt8kK9tJT4kM0eVcRTHMNo5dyZ6q6v/TPGBV/2YZMfNGJTzpHwYb8MTeLH1l+ao+Jc80Fip0cVhPXBB81LMr6Mx4mJq7k9wCyH0gVbRLafTS1/sTXhqUpjasEwveaChG97L7QZHKUw75r2O/6FzgC47UAp8cHmfHNfUmHYDIGgjhhBVQVrZi+aH+/dkfsM7+MQLWVE8fRGC6uaW4EcyJJMb8ei2p47k80hwP270TQk4Xfx6hilfijk/SjNfjAeaS88nvza8wewXzAsuH4BeH9Hkk+tqfGqYGOVSQVWj3UEKzFIbNGZvrKxMchLhrfBQ19SFRez31vOtmNig==;tfU8s5bBtA0ZEXoiWZ/qFQ=="
 ---
 
