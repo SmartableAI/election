@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
+    excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
+    publishedDateTime: 2020-11-17T19:35:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RTCDyXlNH70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170816201413-paul-mitchell-eb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
     excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
     publishedDateTime: 2020-11-16T18:18:21Z
@@ -127,6 +143,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200202165516-04-iowa-candidates-warren-biden-sanders-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
+    excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
+    publishedDateTime: 2020-11-17T20:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17distortions-brief-biden/17distortions-brief-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden leads Trump by 5 points in Iowa poll"
     excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."

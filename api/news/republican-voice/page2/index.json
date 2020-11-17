@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.md",
+      "title": "Hill Dems jockeying for Biden Cabinet posts see hopes shrink after lackluster election results",
+      "excerpt": "Congressional Democrats advocating for a spot in President-elect Joe Biden’s Cabinet saw their odds diminish last week after a disappointing showing for down-ballot candidates in the election.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 738,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp",
+      "publishedDateTime": "2020-11-12T07:20:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
+      "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
+      "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-11-12T07:14:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.md",
       "title": "GOP senator says he’ll ‘step in’ if Biden doesn’t receive intel briefings by Friday",
       "excerpt": "President-elect Joe Biden should be able to receive intelligence briefings by Friday, a Republican member of the U.S. Senate said in a radio interview that aired Wednesday.",
@@ -283,62 +395,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-trump-rips-gop-philadelphia-commissioner-al-schmidt-amid-election-fight-being-used-big-time.md",
-      "title": "Trump rips GOP Philadelphia Commissioner Al Schmidt amid election fight: 'Being used big time'",
-      "excerpt": "President Trump ripped Philadelphia City Commissioner Al Schmidt in a tweet on Wednesday, accusing the Republican official of ignoring his campaign’s claims of election fraud in Pennsylvania’s largest city.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 338,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/021c1b12-29a5-43a2-ba02-c9f46e99e2ff/e9356632-0b76-4548-af73-41573d380b5f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
-      "publishedDateTime": "2020-11-11T12:40:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-blm-co-founder-sends-message-to-biden-we-want-something-for-our-vote.md",
       "title": "BLM co-founder sends message to Biden: 'We want something for our vote'",
       "excerpt": "Black Lives Matter co-founder Patrisse Cullors requested a meeting with President-elect Joe Biden to discuss the movement's agenda and lay out expectations for the incoming administration. ",
@@ -451,62 +507,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-biden-honors-veterans-with-stop-at-philadelphia-memorial.md",
-      "title": "Biden honors veterans with stop at Philadelphia memorial",
-      "excerpt": "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp",
-      "publishedDateTime": "2020-11-11T09:18:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-georgia-to-manually-recount-every-ballot-as-biden-leads-by-14k-votes.md",
       "title": "Georgia to manually recount every ballot as Biden leads by 14K votes",
       "excerpt": "Georgia Secretary of State Brad Raffensperger on Wednesday announced that election officials will conduct a manual recount of all presidential ballots as President-elect Joe Biden leads in the state by just over 14,000 votes out of nearly 5 million counted.",
@@ -575,7 +575,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 302,
+      "heat": 342,
       "tags": null,
       "images": [
         {
@@ -793,7 +793,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -961,7 +961,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {

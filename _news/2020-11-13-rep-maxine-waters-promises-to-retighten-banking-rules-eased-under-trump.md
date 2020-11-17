@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-ba
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
-    excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
-    publishedDateTime: 2020-11-17T14:51:00Z
-    webUrl: "https://www.wsj.com/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-260465/social"
-        width: 1279
-        height: 640
-        isCached: true
 
 secured: "THCVUFy5mki7vqxBHQA1rluUGk5atQW8Esc1v2EVAhAFsbzIWNu2VG+coIH5x9BrLffiRdDGYjPF7n9Gp7YVwR7iQxygpaIHrilaWEihj25uLHuRRNx1on4CvjtqPfczcd5rSZRXJBeWbqgWmDyhTgN4ecYjGaTnPmsY0e1tMj/qKpqbdHrXaWJWKj7YUd0ZTYUKA5For2NbC1Qj0aC3UpyO558q5kmiP7I4rGkwkDGzuwDnHVwjzi100/L828sGbQbFvvEo+g9E8EFqQPpEMmPnZ84BCxCABHbxRMSzoO328/myRhtABiFePOr+gvdzGtCBE55uBwDqZ3/xqpIKl5EDUmmb/GtBGZzvzm71DJs=;rCVoPLM5rYTG+2u5u41Bcw=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 681
         isCached: true
+  - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
+    excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
+    publishedDateTime: 2020-11-17T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-alleged-pro-trump-rally-images-cleveland-london/6297978002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6297978002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6297978002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
     excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
     publishedDateTime: 2020-11-10T21:14:00Z

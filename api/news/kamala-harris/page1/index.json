@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
+      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
+      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 456,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
+      "publishedDateTime": "2020-11-17T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.md",
       "title": "Darrell Issa, 'recycled' congressman from California, doubts Kamala Harris' bipartisanship capability",
       "excerpt": "Darrell Issa, the former thorn in the Obama administration's side, is back on Capitol Hill after a brief exit from public office, and the Republican is casting serious doubt on whether fellow Californian Kamala Harris can work effectively with Congress as vice president. ",
@@ -67,7 +120,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 523,
+      "heat": 503,
       "tags": null,
       "images": [
         {
@@ -331,7 +384,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 302,
+      "heat": 342,
       "tags": null,
       "images": [
         {
@@ -655,7 +708,7 @@
       "originalUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 983,
+      "heat": 903,
       "tags": null,
       "images": [
         {
@@ -855,7 +908,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 423,
+      "heat": 403,
       "tags": null,
       "images": [
         {
@@ -1528,49 +1581,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county.md",
-      "title": "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County",
-      "excerpt": "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District.",
-      "sourceUrl": null,
-      "webUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
-      "originalUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

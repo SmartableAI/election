@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
 type: article
 quality: 155
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer"
-    excerpt: "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,"
-    publishedDateTime: 2020-10-08T10:13:00Z
-    webUrl: "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242590"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590"
+  - title: "US announces further drawdown of troops in Afghanistan and Iraq before Biden takes office"
+    excerpt: "Acting Secretary of Defense Christopher C. Miller announced Tuesday that the US will withdraw thousands more US troops from Afghanistan and Iraq by Jan 15, 2021 -- just days before President-elect Joe Biden takes office, confirming plans first reported by CNN on Monday.\n    \n"
+    publishedDateTime: 2020-11-17T20:11:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7d10S1Y4_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
+      name: CNN
+      domain: cnn.com
+    quality: 166
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117144605-us-soldiers-iraq-file-march-2020-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "RxNCx6iRJNqPRSD/bFWKFgtXVTdhfjo0DFL3t/lXSjizav/ob/W0SEXqRPBeatUF88q07KJPuCEnJIZy8S0zUTCHdxWkWMB1NzLVU0NHoHF5CjrXPaoccAeM1kJNQzpceHFgwMQpdow1dsOa1vUns7fY8ia77eu8wJNbqBKDOEafm6+xnFUEOT8WXYE27R4W5iKbp2Kv0aVLbs/FKeaZbS0ojl1Clf5sYCG7BQMNne8C7Mvtl8k0W6fvSBIzpPkNjEWT7xhREvrszgkV8vJ/C70ILfgXjUIbXkkjWDxi7cxCpKJDLoKeYrmj70tcCCLIzOeNymRQNrMwB2yK6glfZIi3ZWKzQRCGbSz+tqf1wNU=;Ib5NicP+hF6yMo+8WLN1xQ=="

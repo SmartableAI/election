@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taki
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts"
+    excerpt: "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight."
+    publishedDateTime: 2020-11-17T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
     excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
     publishedDateTime: 2020-11-10T22:15:00Z

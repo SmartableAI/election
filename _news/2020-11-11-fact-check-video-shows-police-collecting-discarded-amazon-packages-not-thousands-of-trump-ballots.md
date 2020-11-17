@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
+    excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
+    publishedDateTime: 2020-11-17T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-alleged-pro-trump-rally-images-cleveland-london/6297978002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6297978002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6297978002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "zQxniCp0ODnPlZ9fQTq8ZewJIs2Gn5JJhoXdjSnyh1ehOTJytsXP+CAsPztjjZWtx1jrzZmfTFO071MzQE9Fj9LmxzYy5QXf4LJThsFzgBm8UzVjSB9bUMwXXK8XEtZFk5+RUd6q8StC2O6ou1z2AfHrVlZbDwQee1IVE2y2PSGsIEe3kJCRo5PfzVi82FlAM4h77QYGdw8pM5blM8kYR1H5rw/MjYHM2olE1rs0z+LfYq6ZYu4zSxDDPLsIB7rrnf+TyMSt2wwbAMcMie9+vgCX2vbQ1iwUaWHybbqSbCYQU7jNq4eqhNSTTE5Xts3cUUUwugKxhah4Ibj7lUcUNC0ZzS9vMXCRCPhNGiSk9/4=;zFCieuON11PmXU4YsJ9Fcg=="
 ---

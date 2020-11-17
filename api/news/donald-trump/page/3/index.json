@@ -2,6 +2,224 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-08-saturday-night-live-sends-off-trump-with-a-ballad.md",
+      "title": "‘Saturday Night Live’ Sends Off Trump With a Ballad",
+      "excerpt": "The host Dave Chappelle, who also hosted the first episode after the 2016 election, urged Americans to “find a way to forgive each other.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/arts/08snl-2/08snl-2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/arts/television/saturday-night-live-dave-chappelle.amp.html",
+      "publishedDateTime": "2020-11-07T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-hispanic-voters-deliver-a-texas-win-for-trump.md",
+      "title": "Hispanic Voters Deliver a Texas Win for Trump",
+      "excerpt": "The Rio Grande Valley shifted decisively toward President Trump, cancelling out votes for Joseph R. Biden Jr. in urban and suburban areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "originalUrl": "https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/04/us/texas-election-battleground-state-counties-promo-1604498818927/texas-election-battleground-state-counties-promo-1604498818927-facebookJumbo-v17.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T18:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-rep-matt-gaetz-a-close-trump-ally-says-hes-tested-positive-for-coronavirus-antibodies.md",
+      "title": "Rep. Matt Gaetz, a close Trump ally, says he's tested positive for coronavirus antibodies",
+      "excerpt": "The Republican Florida lawmaker is one of Trump's staunchest defenders on Capitol Hill and is a fixture in conservative media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "originalUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa6b3caf7d1cb0019e3a5f6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-contracted-coronavirus-house-florida-trump-ally-2020-11?amp",
+      "publishedDateTime": "2020-11-07T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-fox-news-chris-wallace-says-there-doesnt-seem-to-be-much-reason-to-believe-trumps-election-lawsuits-will-succeed.md",
+      "title": "Fox News' Chris Wallace says there 'doesn't seem to be much reason to believe' Trump's election lawsuits will succeed",
+      "excerpt": "He added Republican leaders who see \"their fortunes and their futures are no longer so directly tied to Donald Trump are gonna begin to pull back.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11",
+      "originalUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa714d31df1d50018219764?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
+      "publishedDateTime": "2020-11-07T15:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
       "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
       "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
@@ -1362,214 +1580,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-03T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trumps-campaign-booked-out-youtubes-homepage-for-election-day-youtube-wont-let-that-happen-again-but-insists-its-nothing-to-do-with-trump.md",
-      "title": "Trump's campaign booked out YouTube's homepage for Election Day. YouTube won't let that happen again — but insists it's nothing to do with Trump.",
-      "excerpt": "YouTube will no longer allow advertisers to book out its main homepage slots for days at a time. The change had nothing to do with Trump, Google said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa13aa21df1d500182187d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-2020-campaign-spends-big-on-youtube-biden-facebook-2020-11?amp",
-      "publishedDateTime": "2020-11-03T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
-      "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
-      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L",
-          "width": 805,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
-      "publishedDateTime": "2020-11-02T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-army-of-poll-watchers-led-by-veteran-of-fraud-claims.md",
-      "title": "Trump 'army' of poll watchers led by veteran of fraud claims",
-      "excerpt": "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297",
-      "publishedDateTime": "2020-11-02T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-after-blocking-its-release-us-judge-lets-trump-policing-panel-publish-report.md",
-      "title": "After blocking its release, U.S. judge lets Trump policing panel publish report",
-      "excerpt": "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O",
-      "originalUrl": "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J01O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O",
-      "publishedDateTime": "2020-11-02T16:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

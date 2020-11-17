@@ -93,22 +93,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
-    excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
-    publishedDateTime: 2020-11-13T20:16:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWULUBF2QI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Kamala Harris shows women can thrive in politics doing things their own way"
     excerpt: "Kamala D. Harris shattered numerous glass ceilings with her historic election as vice president. In addition to becoming the first woman, the first Black American and the first Indian American elected to the second-highest office in the nation,"
     publishedDateTime: 2020-11-10T18:04:00Z
@@ -204,20 +188,6 @@ related:
       - url: "https://i.insider.com/5fa82e24f7d1cb0019e3a6cb?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "US election: Kamala Harris' ancestral Indian village celebrate vice-president-elect"
-    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
-    publishedDateTime: 2020-11-10T18:44:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54896643"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 114
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
-        width: 400
-        height: 224
         isCached: true
   - title: "Kamala Harris's husband tweets photo of couple after presidential race called: 'So proud of you'"
     excerpt: "Vice President-elect Kamala Harris’s husband, Doug Emhoff, went viral on Saturday after sharing a photo of the couple embracing after the race for the White House was called for President-elect Joe Biden."
@@ -429,22 +399,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "For some Bastrop residents, Kamala Harris inspires hope"
-    excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
-    publishedDateTime: 2020-11-12T23:17:00Z
-    webUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope"
-    ampWebUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 75
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201112&Category=NEWS&ArtNo=201119820&Ref=AR"
-        width: 3024
-        height: 4032
-        isCached: true
   - title: "Who gets Kamala Harris’ Senate seat?"
     excerpt: "Election Day is over, but California already is consumed with its next high-profile political contest — the competition to fill Kamala Harris’ soon-to-be-vacant U.S. Senate seat."
     publishedDateTime: 2020-11-13T10:29:00Z
@@ -577,17 +531,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
-  - title: "Vice President-Elect Kamala Harris' Husband Leaves Job at Powerhouse Law Firm DLA Piper"
-    excerpt: "Douglas Emhoff, the husband of U.S. Vice President-Elect Kamala Harris, will leave his job at one of the country's largest law firms by January to focus on supporting the incoming Biden administration,"
-    publishedDateTime: 2020-11-10T22:12:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "'In her destiny lies my destiny': Black female New York politicians reflect on Kamala Harris as VP"
     excerpt: "Three women, who broke barriers as Black female leaders at the city, county and state levels of New York government, spoke to the Times Union on Sunday afternoon about their reaction to the earthquake in national politics Saturday morning when Biden and Harris were declared the presumptive victors of the presidential election."
     publishedDateTime: 2020-11-10T02:59:00Z

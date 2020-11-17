@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-08-mary-trump-says-her-uncle-president-trump-will-spend-the-transition-period-breaking-stuff-with-vengeance.md",
+      "title": "Mary Trump says her uncle, President Trump, will spend the transition period 'breaking stuff' with 'vengeance'",
+      "excerpt": "Trump's niece wrote, in an opinion article for The Observer, that she fears the defeated president will \"lash out\" after losing the US election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
+      "publishedDateTime": "2020-11-08T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-explainer-can-trump-pardon-his-associates-or-himself.md",
+      "title": "Explainer: Can Trump pardon his associates — or himself?",
+      "excerpt": "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0FT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT",
+      "publishedDateTime": "2020-11-08T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-saturday-night-live-sends-off-trump-with-a-ballad.md",
       "title": "‘Saturday Night Live’ Sends Off Trump With a Ballad",
       "excerpt": "The host Dave Chappelle, who also hosted the first episode after the 2016 election, urged Americans to “find a way to forgive each other.”",
@@ -565,7 +669,7 @@
       "originalUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 983,
+      "heat": 903,
       "tags": null,
       "images": [
         {
@@ -815,6 +919,58 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-joe-biden-spoke-about-how-americans-chose-change-over-more-of-the-same.md",
+      "title": "Joe Biden spoke about how Americans 'chose change over more of the same'",
+      "excerpt": "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1188,166 +1344,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-minnesota-squad-member-says-trump-attack-on-her-during-campaign-was-a-mistake.md",
-      "title": "Minnesota 'Squad' member says Trump attack on her during campaign was a mistake",
-      "excerpt": "Rep. Ilhan Omar, D-Minn., on Thursday said Trump \"effed around\" in deciding to attack her as a way to win over Minnesota voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdNNITKehrY/ilhan-omar-trump-effed-around-minnesota",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308737052076.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota.amp",
-      "publishedDateTime": "2020-11-06T14:36:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-trump-campaign-hasnt-provided-evidence-to-back-up-claim-of-wisconsin-election-irregularities.md",
-      "title": "Trump campaign hasn't provided evidence to back up claim of Wisconsin election 'irregularities'",
-      "excerpt": "Trump and officials with his campaign have floated vague accusations with no evidence of election tampering in Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ffda0c65-205a-44d9-8c5b-8e952696d68b-TRUMP_KENOSHA_0550.JPG?auto=webp&crop=3899,2194,x0,y438&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6173694002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6173694002",
-      "publishedDateTime": "2020-11-06T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
-      "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
-      "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6191429002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002",
-      "publishedDateTime": "2020-11-06T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

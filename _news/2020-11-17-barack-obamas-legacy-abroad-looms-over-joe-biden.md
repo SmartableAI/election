@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: The Atlantic
@@ -27,98 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
-    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
-    publishedDateTime: 2020-11-11T00:29:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
+    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
+    publishedDateTime: 2020-10-17T17:44:00Z
+    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
+    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: 6abc News
+      domain: 6abc.com
+    quality: 69
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
-    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
-    publishedDateTime: 2020-11-14T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
-    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
-    publishedDateTime: 2020-11-17T02:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-  - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
-    excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
-    publishedDateTime: 2020-11-13T20:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
-    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
-    publishedDateTime: 2020-11-04T02:05:00Z
-    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
-    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 65
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
-        width: 2000
-        height: 1047
+      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "D+LAOuEP0lyGO0XWnHqe2A/o7OJnmpTi47+jxd2qX2Cl/FkdtDhn9Ui1hWDONxHHsVGXxsf94wjd0kgPiYxgMsaaE3wz3ldP1e/2lNRSRmUZMEKzmKze0GXgIxsXkjJ8sYNvFo+bUfDcaBVUfjNAOA7EnnvQoxejrvaChrMiYMZVAeRhQxh/rb35a3SoMZNtEFpjo1SjjP97mLFvzm650F7oYgTLDt9vYDoiSSYOfGeXlZpTfv7/3ka5hW+YYEWbDB6cFFWRySxn1YzKrBBQNyBz10yJFD5b/+R6rQArQp/KigUueAwZM/zUUt7gSoEq8LdhwKag4SuFvWaB6OmpCl2briY285hvFop/mslo4fs=;BpgmjVjVxVKp360ESh8jbQ=="
+secured: "hBtPZUTM8nxjoAoul652cqDkRKwKzt0R/WrChn3GM0Qm82v4PcB7RE4MXPXotwuqmsOR6CkwrMWFQYe93rIaNWKu+pJhUBw98BPekrywcvX4iKv/2uwpXp71ohZXziOzqfDF6EbZivzbMdbOgPUaUqAe3grtY9sZfGLnOZSXVh1yjt5lxkFBxTvi5reR7dd8Hix43NnRe939/0Ifh/NFYthgDuHEeGygi5c7ErM+84NO3cuksTbDieawasCJwoshv1KWFmueT9l8cWpCfrIDWUgo/mKrcTm93Iw4Bg+euZFUax2O18U/ldKLaUD06iH3abZ/nz+bpOepbD2GfvOme0Xcg2gMoCk0B7WbgX/all08GItMbnP6ocSw+0C+Vukl2AhoA2wHSLch3m3gKWPuq1WBRIwWtRBOWWM7y+4z4uhRb6SPqv/JK4ljxjYGDMLP6BA/vfo9oPxAI21qd2CG9cE23u3Z2S1tzxNcJE23DNNTGPLJuC7vEEzIVEQnoOPyad61at6W/Bhov5tHJa1Zcw==;reuMH1MYRazC3YjHYewC5g=="
 ---
 

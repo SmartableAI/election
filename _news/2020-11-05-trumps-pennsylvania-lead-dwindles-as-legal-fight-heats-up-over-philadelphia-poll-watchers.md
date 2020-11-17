@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign loses Pennsylvania Supreme Court challenge to Philadelphia election observers"
+    excerpt: "The Pennyslvania Supreme Court ruled Tuesday that the Philadelphia Board of Elections acted within its authority in regulating the positioning of election observers, striking another blow to the Trump campaign's post-election legal challenges."
+    publishedDateTime: 2020-11-17T22:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S03QHVqS180/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rips GOP Philadelphia Commissioner Al Schmidt amid election fight: 'Being used big time'"
     excerpt: "President Trump ripped Philadelphia City Commissioner Al Schmidt in a tweet on Wednesday, accusing the Republican official of ignoring his campaign’s claims of election fraud in Pennsylvania’s largest city."
     publishedDateTime: 2020-11-11T20:40:55Z
@@ -46,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/021c1b12-29a5-43a2-ba02-c9f46e99e2ff/e9356632-0b76-4548-af73-41573d380b5f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden honors veterans with stop at Philadelphia memorial"
+    excerpt: "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia."
+    publishedDateTime: 2020-11-11T17:18:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5sOc2gHoj_E/biden-veterans-day-philadelphia-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-veterans-day-philadelphia-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Federal judge dismisses Trump request to stop counting Philadelphia ballots"
     excerpt: "A federal judge reportedly dismissed an emergency injunction brought by the Trump campaign Thursday afternoon to stop the counting of votes in Philadelphia, claiming election workers were ignoring an earlier court ruling over election observers."
@@ -63,21 +95,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Giuliani ‘en route’ to Philadelphia with Trump legal team as ballot battle ramps up"
-    excerpt: "Rudy Giuliani, the personal attorney to President Trump, said he is \"en route\" to Phildelphia with the Trump campaign legal team, vowing to protect the vote and \"not let\" Democrats \"steal\" Pennsylvania in the 2020 presidential race as the ballot battle intensifies Wednesday. "
-    publishedDateTime: 2020-11-04T19:39:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8LrYUedURtg/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-en-route-to-philadelphia-with-trump-legal-team-as-ballot-battle-ramps-up.amp"
+  - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
+    excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
+    publishedDateTime: 2020-11-13T21:37:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reJAI5f7Rug/pennsylvania-law-firm-lincoln-project-withdraws-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Judge rules for Trump campaign, granting rep better view of Philadelphia vote count"
     excerpt: "A Pennsylvania appellate court handed the Trump campaign a victory Thursday by allowing it to have its representative as close as six feet away from the vote-counting process that is underway at the Philadelphia Convention Center."
@@ -111,37 +143,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Philadelphia mayor tells Trump to 'put his big boy pants on' and concede, even as key states remain uncalled"
-    excerpt: "Philadelphia Mayor Jim Kenney on Friday had some harsh words for President Trump, urging him to “put his big boy pants on” and “acknowledge the fact that he lost,” despite races not being called in key battleground states, including Pennsylvania, and neither he nor Democratic nominee Joe Biden having"
-    publishedDateTime: 2020-11-06T18:53:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eu9pati5u70/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede"
-    ampWebUrl: "https://www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philadelphia-mayor-trump-put-his-big-boy-pants-on-concede.amp"
+  - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
+    excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
+    publishedDateTime: 2020-11-16T15:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
-    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
-    publishedDateTime: 2020-11-06T21:49:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
-    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
+    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
+    publishedDateTime: 2020-11-13T02:04:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://images.wsj.net/im-258970/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
     excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
@@ -157,6 +189,31 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Pennsylvania High Court Rules Against Trump Campaign in Philadelphia Election Observer Case"
+    excerpt: "The Pennsylvania Supreme Court on Tuesday overturned an appeals court ruling that required close-up access for election observers, a win for Philadelphia officials who had argued for pandemic accommodations and voter privacy."
+    publishedDateTime: 2020-11-17T22:32:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/WEGeWApHA9GHa4l9YjyD"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-256627?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "bCdXlXOUfeT6olLyOZFVawvyqqZMjs9P7anBSX2h+R42EzTKpVN1RvMqdmLXkuTK/262YnfFyQv1/qF8/T2PW+ZbZippN1C/N+MZ1Av8h5J4ZCt+EtGo+iSbGLvMuI4ijmCAuE0s/HXb7orkxPLo0sgrUrVBPNAIhmYLWWdm2ggTkxyG4cbSnoxBGwnmpQlEnP0rEilBQ8U6Ml36dh/a2Vvs62azuymVFxO8y/WmoSyuvrA8qOUPpzPg5B03P3Wi3wpLkpceLjhVHMgMq9dIEk47blyQrmsojBENDHsJYPUOyLrRQsq3zfywFCnRn5rtlNA0Eiex4hZMFQ5OeO2yCkGRekhok8GcJDVbfl6HVQc=;RYQRJk7R4GORlQ/8c4rHNw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Media takes heat for ignoring violent attacks on Trump supporters at MAGA rally"
-    excerpt: "Conservatives criticized members of the media for failing to cover violence against President Trump's supporters at the so-called Million MAGA March."
-    publishedDateTime: 2020-11-15T14:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVGfi1PuI9k/media-coverage-million-maga-march-trump-conservatives-violent-antifa"
-    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "ZjxBsP/CWn4+Pn7rlWmtGEihhTEzT/hdvP3fx5af9RTcewpYhP8YDtkMAFvQgGuW6XKvYIhT1yHPEQvvWu2ahlxBzhYJ8UmPUTU/nCzQOpJivwwkuNvge8HKww4dKojyzOZ7LAhhffULkKcp+nA7XBn8kQ+myb6VmsMAOhuZidLCKmCjmPu9Y/gU+DYAaRCH9lTgp78e/sbQt9qKajHwh1meC08IXcjTApNJJc6YWR/jSsOHO+ZzhAlG4q54vHuD05pCwK3YQHw7D1OY4iL+gAEauRC1pEBMe4gGFtfrNgyEPyGBkPPdwDAFmW0x0MOhxbtkLzQyFWRvhnrf1zesrJeROBep+sb5x3AzootA8QI=;ENaZJ6RdB4f+P9CSAuIRWA=="
 ---

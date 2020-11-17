@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-17-progressive-group-slams-two-of-bidens-white-house-appointees-as-corporate-friendly-insiders.md",
-      "title": "Progressive group slams two of Biden's White House appointees as 'corporate-friendly insiders'",
-      "excerpt": "Progressive Democrats slammed President-elect Joe Biden’s appointments of Rep. Cedric Richmond and Steve Ricchetti to White House posts, calling them “unacceptable.”",
+      "path": "_news/2020-11-17-trump-campaign-loses-pennsylvania-supreme-court-challenge-to-philadelphia-election-observers.md",
+      "title": "Trump campaign loses Pennsylvania Supreme Court challenge to Philadelphia election observers",
+      "excerpt": "The Pennyslvania Supreme Court ruled Tuesday that the Philadelphia Board of Elections acted within its authority in regulating the positioning of election observers, striking another blow to the Trump campaign's post-election legal challenges.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUuUQlT4kmg/progressive-group-bidens-white-house-appointees-as-corporate-friendly",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUuUQlT4kmg/progressive-group-bidens-white-house-appointees-as-corporate-friendly",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S03QHVqS180/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S03QHVqS180/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 163,
+      "heat": 419,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,226 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp",
-      "publishedDateTime": "2020-11-17T09:50:30-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp",
+      "publishedDateTime": "2020-11-17T14:41:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-latino-voters-supported-trump-out-of-fear-of-democratic-socialists.md",
+      "title": "Latino voters supported Trump out of fear of Democratic socialists",
+      "excerpt": "Some Latino voters who themselves fled dictatorships in their home countries say they supported President Trump because the agenda of the Democratic party too closely resembled the socialist regimes they escaped. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TH2CV2oNTwg/latino-voters-escaped-dictatorships-trump-democratic-socialists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TH2CV2oNTwg/latino-voters-escaped-dictatorships-trump-democratic-socialists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/latino-voters-escaped-dictatorships-trump-democratic-socialists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/latino-voters-escaped-dictatorships-trump-democratic-socialists.amp",
+      "publishedDateTime": "2020-11-17T14:21:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
+      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
+      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
+      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
+      "publishedDateTime": "2020-11-17T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-giuliani-has-sought-20000-a-day-from-trump-campaign-for-post-election-work.md",
+      "title": "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work",
+      "excerpt": "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI",
+      "originalUrl": "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-261242?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-cedric-richmond-tapped-for-biden-white-house-role-has-history-of-controversies.md",
+      "title": "Cedric Richmond, tapped for Biden White House role, has history of controversies",
+      "excerpt": "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
+      "publishedDateTime": "2020-11-17T11:59:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -508,62 +725,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-16-trump-hits-back-at-wapo-over-report-saying-campaign-scrapping-key-part-of-pennsylvania-lawsuit.md",
-      "title": "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit",
-      "excerpt": "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp",
-      "publishedDateTime": "2020-11-16T07:28:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-trump-touts-coronavirus-vaccine-announcements-on-my-watch-great-discoveries.md",
       "title": "Trump touts coronavirus vaccine announcements 'on my watch': 'Great discoveries'",
       "excerpt": "President Trump praised the coronavirus vaccine from Massachusetts-based biotech company Moderna as one of two recent \"great discoveries\" after it announced Monday the vaccine is 94.5% effective according to interim analysis from a late-stage clinical trial.",
@@ -801,7 +962,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 689,
+      "heat": 729,
       "tags": null,
       "images": [
         {
@@ -857,7 +1018,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 214,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1249,7 +1410,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1322,62 +1483,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
       "publishedDateTime": "2020-11-12T16:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
-      "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
-      "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "publishedDateTime": "2020-11-12T15:28:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1546,118 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
       "publishedDateTime": "2020-11-12T09:03:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.md",
-      "title": "Hill Dems jockeying for Biden Cabinet posts see hopes shrink after lackluster election results",
-      "excerpt": "Congressional Democrats advocating for a spot in President-elect Joe Biden’s Cabinet saw their odds diminish last week after a disappointing showing for down-ballot candidates in the election.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 738,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp",
-      "publishedDateTime": "2020-11-12T07:20:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
-      "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
-      "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "publishedDateTime": "2020-11-12T07:14:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

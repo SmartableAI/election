@@ -2,6 +2,176 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-11-jimmy-kimmel-trump-is-a-reality-show-host-who-cant-accept-reality.md",
+      "title": "Jimmy Kimmel: Trump Is a Reality Show Host Who Can’t Accept Reality",
+      "excerpt": "Republicans are handling the president with kid gloves because those are the only gloves that fit him,” Kimmel joked of President Trump’s refusal to concede to Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/11/arts/11latenight/11latenight-facebookJumbo.png",
+          "width": 865,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/jimmy-kimmel-trump-biden-late-night.amp.html",
+      "publishedDateTime": "2020-11-10T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-why-a-trump-loss-may-be-no-match-for-rupert-murdochs-realpolitik.md",
+      "title": "Why a Trump Loss May Be No Match for Rupert Murdoch’s Realpolitik",
+      "excerpt": "Fox News has lasted through “multiple presidents, and they’re going to be around for multiple more,” said one right-wing media executive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/09/business/09murdoch-trump/09murdoch-trump-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/business/media/trump-murdoch-fox-news.amp.html",
+      "publishedDateTime": "2020-11-10T18:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
+      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
+      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "publishedDateTime": "2020-11-10T14:18:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-the-us-supreme-court-hinted-that-it-may-uphold-obamacare-despite-the-trump-administrations-latest-effort-to-strike-it-down.md",
       "title": "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down",
       "excerpt": "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act.",
@@ -227,7 +397,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 234,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -391,7 +561,7 @@
       "originalUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -447,7 +617,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -710,7 +880,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -766,7 +936,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1170,162 +1340,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-legal-fight-election-voter-fraud-claims.amp",
       "publishedDateTime": "2020-11-09T13:47:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-mike-pence-heading-to-florida-for-some-time-off.md",
-      "title": "Mike Pence heading to Florida for some time off",
-      "excerpt": "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-09T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-mogherini-difficult-4-years-with-trump.md",
-      "title": "Mogherini: 'Difficult 4 years' with Trump",
-      "excerpt": "Former EU Foreign Affairs head Federica Mogherini tells Amanpour she feels \"relief at seeing America back\" and says Europeans will feel \"less lonely\" come January.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109200508-federica-mogherini-amanpour-biden-foreign-policy-trump-00042509-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
-      "publishedDateTime": "2020-11-09T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ex-israeli-un-ambassador-danon-on-what-a-biden-presidency-means-for-middle-east-peace.md",
-      "title": "Ex-Israeli UN Ambassador Danon on what a Biden presidency means for Middle East peace",
-      "excerpt": "Israel's former ambassador to the United Nations Danny Danon provided insight on Monday into what a Biden presidency could mean for Middle East peace.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
-      "publishedDateTime": "2020-11-09T12:06:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

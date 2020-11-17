@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
-    excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
-    publishedDateTime: 2020-11-07T18:19:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 139
-    images:
-      - url: "https://www.chicagotribune.com/resizer/UXY6eBYAAt-E3aD3tY0DMKWQEB0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QGE35JUF4CRWD4FOHLCPJN56QA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris visit Friday marks latest sign of Biden’s commitment to Texas"
     excerpt: "Democratic vice presidential candidate Kamala Harris will visit Houston and two other Texas cities to round out the final day of early voting on Friday. The Houston leg of Harris’ trip will be her last of the day,"
     publishedDateTime: 2020-10-30T19:29:00Z
@@ -180,22 +164,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 130
-  - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
-    excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
-    publishedDateTime: 2020-11-10T12:25:00Z
-    webUrl: "https://www.houstonchronicle.com/life/article/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
-    ampWebUrl: "https://www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 128
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/14/21/20235374/3/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
     excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
     publishedDateTime: 2020-10-04T05:23:00Z
@@ -1555,22 +1523,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."
-    publishedDateTime: 2020-11-16T21:34:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
-    ampWebUrl: "https://amp.freep.com/amp/6308427002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6308427002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/f735d0ac-917f-4b02-9a8c-a85244c63864-AP20321743256252.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
     publishedDateTime: 2020-10-15T07:14:00Z
@@ -1729,22 +1681,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
         width: 1300
         height: 853
-        isCached: true
-  - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
-    excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
-    publishedDateTime: 2020-10-27T19:48:00Z
-    webUrl: "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 90
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Kamala Harris: 'Joe Biden is going to live a long life'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris says voters can rest assured that Joseph R. Biden, 77, will live a “long life” because he’s strong in both “spirit” and “body.”"
@@ -1972,22 +1908,6 @@ related:
       name: Time
       domain: time.com
     quality: 82
-  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
-    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
-    publishedDateTime: 2020-11-17T12:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article247147756.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article247147756.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article247147756.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 82
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "PHOTOS: Car rally celebrating Joe Biden and Kamala Harris’ victory streams through Denver"
     excerpt: "A car rally celebrating Joe Biden and Kamala Harris’ winning 2020 ticket drove through Denver on Sunday, Nov. 8, 2020."
     publishedDateTime: 2020-11-09T02:29:00Z
@@ -3191,20 +3111,6 @@ related:
       name: Arizona Daily Star
       domain: tucson.com
     quality: 55
-  - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
-    excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
-    publishedDateTime: 2020-11-16T23:04:00Z
-    webUrl: "https://www.rollcall.com/2020/11/16/biden-says-its-a-good-thing-his-colleague-kamala-harris-is-still-on-the-senate-intelligence-committee/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 53
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/SENATE_VOTE_001_08042020.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage"
     excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
     publishedDateTime: 2020-10-23T10:00:00Z

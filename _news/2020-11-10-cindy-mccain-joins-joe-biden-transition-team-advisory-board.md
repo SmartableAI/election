@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315762900391.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
+    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
+    publishedDateTime: 2020-11-17T21:22:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NZLz5MYBuOzNcPjcrW+NqC1DWjvpZCzIFBEYXojuckzPuJf4wS8M2TwqOD4X/XPBNJTJwB+K27lbVRlnJpv5xfQFurY6mzhT9O5oMBJa7Xo8Y2nA60H5S0JI2dwC58NgkXpLbuQsIJdN7g1Kg8QZ+8jpBIYTfxclS8knpfP0sWP79hFdHAMrfpdz+NzO0//UuxRS8AE1Yofnz7RKR/KB9gTycXlRI/u8ZeFNtKhq4webpyQTrXZSF56xjnvx/5OEh3H+y8CdNroiGKQg8CC7kZimaiqQz3XVX8IsecELQ0McgJGBZg5mONpfsY9Vg+yEkeXWh59sO7NsJG8G4Jd9znqEX+OETCynA28yD8kIdUQ=;RozxxKDh26PdtBb7I7bKSw=="

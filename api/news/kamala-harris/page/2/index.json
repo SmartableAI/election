@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-26-kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county.md",
+      "title": "Kamala Harris’ husband Doug Emhoff campaigns in Aroostook County",
+      "excerpt": "Emhoff toured the Lundeen Potato Facility in Mars Hill and spoke at a get-out-the-vote rally at Farm Park in Fort Fairfield to help the Biden-Harris ticket win Maine’s toss-up 2nd Congressional District.",
+      "sourceUrl": null,
+      "webUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
+      "originalUrl": "https://bangordailynews.com/2020/10/25/politics/kamala-harris-husband-doug-emhoff-campaigns-in-aroostook-county/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Douglas-Emhoff-8-Cropped.jpg?fit=2500%2C1563&#038;ssl=1",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-trump-on-kamala-harris-us-wont-have-socialist-president-especially-a-female-socialist.md",
       "title": "Trump on Kamala Harris: U.S. won't have socialist president, \"especially a female socialist\"",
       "excerpt": "President Trump was back on the campaign trail Friday in his \"home state\" of Florida after the second and final debate against Democratic nominee Joe Biden. Mr. Trump is trying to win over seniors and women,",
@@ -162,7 +205,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5010,
+      "heat": 4890,
       "tags": null,
       "images": [
         {
@@ -1354,7 +1397,7 @@
       "originalUrl": "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2186,
+      "heat": 2166,
       "tags": null,
       "images": [
         {

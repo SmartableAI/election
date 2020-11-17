@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
+      "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
+      "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
+      "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6191429002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002",
+      "publishedDateTime": "2020-11-06T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
       "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
       "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
@@ -1513,58 +1565,6 @@
       "ampWebUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
       "publishedDateTime": "2020-10-26T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall-street-journal-nyt.md",
-      "title": "White House lawyer helped shop controversial Hunter Biden story to Wall Street Journal: NYT",
-      "excerpt": "A controversial story alleging wrongdoing by former Vice President Joe Biden's family in foreign business dealings was pitched by Trump allies to the Wall Street Journal before it appeared in the New York Post,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "originalUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenhunter_101219getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522706-white-house-lawyer-helped-shop-controversial-hunter-biden-story-to-wall?amp",
-      "publishedDateTime": "2020-10-25T18:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

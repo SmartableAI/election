@@ -2,6 +2,163 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
+      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
+      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 456,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
+      "publishedDateTime": "2020-11-17T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-biden-covid-19-task-force-says-transition-delay-could-be-compromising-us-virus-response.md",
+      "title": "Biden COVID-19 task force says transition delay could be compromising U.S. virus response",
+      "excerpt": "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8",
+          "width": 781,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2WD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD",
+      "publishedDateTime": "2020-11-17T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-who-are-the-top-contenders-for-the-biden-administration.md",
+      "title": "Who are the top contenders for the Biden administration?",
+      "excerpt": "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X1NR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR",
+      "publishedDateTime": "2020-11-17T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-university-dean-resigns-over-statement-that-called-biden-voters-ignorant-anti-american-and-anti-christian.md",
       "title": "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\"",
       "excerpt": "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website.",
@@ -41,6 +198,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-barack-obamas-legacy-abroad-looms-over-joe-biden.md",
+      "title": "Barack Obama’s Legacy Abroad Looms Over Joe Biden",
+      "excerpt": "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/",
+      "originalUrl": "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg",
+          "width": 570,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617116/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/",
+      "publishedDateTime": "2020-11-17T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -533,58 +733,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-biden-received-congratulations-from-pope-francis-transition-statement.md",
-      "title": "Biden received 'congratulations' from Pope Francis: transition statement",
-      "excerpt": "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO",
-          "width": 733,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ",
-      "publishedDateTime": "2020-11-12T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory.md",
       "title": "Pelosi says Republicans are \"refusing to accept reality\" of Biden victory",
       "excerpt": "Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer condemned Republicans for not acting on coronavirus.",
@@ -617,58 +765,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
-      "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
-      "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "publishedDateTime": "2020-11-12T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -806,7 +902,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -850,58 +946,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-keep-the-tough-approach-or-seek-cooperation-china-looms-large-for-biden.md",
-      "title": "Keep the tough approach or seek cooperation? China looms large for Biden.",
-      "excerpt": "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp",
-      "publishedDateTime": "2020-11-10T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-pandemic-is-heading-into-its-darkest-days-biden-coronavirus-advisory-board-member-warns.md",
       "title": "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns",
       "excerpt": "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\"",
@@ -910,7 +954,7 @@
       "originalUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -962,7 +1006,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1058,58 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-putin-wont-congratulate-biden-before-official-results-and-legal-procedures-are-completed.md",
-      "title": "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed",
-      "excerpt": "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6218660002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002",
-      "publishedDateTime": "2020-11-09T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-09-biden-plans-for-white-house-as-trump-plans-rallies-to-protest-his-election-loss.md",
       "title": "Biden plans for White House as Trump plans rallies to protest his election loss",
       "excerpt": "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat.",
@@ -1163,21 +1155,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-president-elect-joe-biden-seeks-diverse-cabinet-to-look-like-america-in-leading-federal-departments.md",
-      "title": "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments",
-      "excerpt": "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration.",
+      "path": "_news/2020-11-09-former-president-george-w-bush-extends-warm-congratulations-to-president-elect-joe-biden.md",
+      "title": "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden",
+      "excerpt": "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200",
           "width": 1200,
-          "height": 676,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1185,9 +1177,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3748535001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001",
-      "publishedDateTime": "2020-11-08T08:28:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6204399002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002",
+      "publishedDateTime": "2020-11-08T09:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -1223,7 +1215,7 @@
       "originalUrl": "https://www.cbsnews.com/news/georgia-senate-runoff-elections-perdue-ossoff-leoffler-warnock-january/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 983,
+      "heat": 903,
       "tags": null,
       "images": [
         {
@@ -1424,6 +1416,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-07-joe-biden-spoke-about-how-americans-chose-change-over-more-of-the-same.md",
+      "title": "Joe Biden spoke about how Americans 'chose change over more of the same'",
+      "excerpt": "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
       "title": "Home vandalized after California man hangs effigy of Biden",
       "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",
@@ -1513,58 +1557,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
-      "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
-      "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6191429002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002",
-      "publishedDateTime": "2020-11-06T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

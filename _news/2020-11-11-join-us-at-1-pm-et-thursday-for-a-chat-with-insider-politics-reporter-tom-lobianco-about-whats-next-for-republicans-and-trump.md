@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts"
+    excerpt: "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight."
+    publishedDateTime: 2020-11-17T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "ItIV6WpSARHXXXrRFHAaMr9bZy3BG2z9IkSYGmNOsNlA4id0+pztLvz68FINQuQX8d7clro+sYUvHfVf9++52jcJDEc0OE0s9BV2H8zFawThIZjHWx3wo9CLZk/xKzpQvEEMOrX91hvaNhL9fcwdFs8Td8FFhLzTXRnk0HFj+GDcbEVw5gO3P+7cx45CYrGeRD5je3mClYiCV3RrGdFvUIU788g5GpDNAWS8J/9CeuVhw2prG1lW1DTeT8HA+1dtWD+4A6zYc1haty6eqK0F0uT8oJFSe7NFuSw6lZzsHjYQ2SFx4JJBGVo4/TFF9wz7hw/F4qXSKKlCLweirfNHyRl1UzEOuu7D+tT3Q4TqCe0=;X7Q3OwilbY+q1w1VthbufA=="
 ---

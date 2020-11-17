@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
         width: 749
         height: 545
+        isCached: true
+  - title: "Virginia Latino voters excited for Biden presidency"
+    excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
+    publishedDateTime: 2020-11-17T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
     excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."

@@ -2,6 +2,167 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-14-trump-heads-to-iowa-amy-coney-barrett-confirmation-hearings-billboard-music-awards-5-things-to-know-wednesday.md",
+      "title": "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday",
+      "excerpt": "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5937767002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002",
+      "publishedDateTime": "2020-10-14T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-hes-just-so-angry-all-the-time-trump-hemorrhaging-support-among-suburban-women.md",
+      "title": "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women",
+      "excerpt": "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "originalUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-us-election-2020-do-celebrity-endorsements-help-joe-biden.md",
       "title": "US election 2020: Do celebrity endorsements help Joe Biden?",
       "excerpt": "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris.",
@@ -1175,149 +1336,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-runs-retro-clip-of-mike-pence-honoring-veterans-on-memorial-day.md",
-      "title": "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day",
-      "excerpt": "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "originalUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "publishedDateTime": "2020-10-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-joe-bidens-support-for-lgbtq-rights-is-no-joke-whatever-saturday-night-live-says.md",
-      "title": "Joe Biden's support for LGBTQ rights is no joke, whatever 'Saturday Night Live' says",
-      "excerpt": "Biden pointed his finger at my heart, said 'trans rights are human rights,' and told me about his plans to ensure no LGBTQ person gets left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
-      "originalUrl": "https://www.tennessean.com/story/opinion/2020/10/13/biden-champion-lesbian-gay-bisexual-transgender-americans-column/5969757002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/2e284423-1388-4be5-b900-c2009cc463c8-Clymer_and_Biden.jpg?auto=webp&crop=959,539,x1,y86&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/5969757002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5969757002",
-      "publishedDateTime": "2020-10-13T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
-      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
-      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "publishedDateTime": "2020-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

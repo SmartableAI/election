@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://static.politico.com/15/bf/209cb7ae463b9edb8d0a91fc2be8/gettyimages-1227657113-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "A Vengeful President Trump"
+    excerpt: "The Constitution should be amended to remove the president from office no more than a month after losing the election,” a reader writes."
+    publishedDateTime: 2020-11-17T22:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work"
     excerpt: "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks."

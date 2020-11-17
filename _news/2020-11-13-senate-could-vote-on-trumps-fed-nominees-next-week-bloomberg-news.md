@@ -41,6 +41,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
+    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
+        width: 840
+        height: 545
+        isCached: true
   - title: "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve"
     excerpt: "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated."
     publishedDateTime: 2020-11-13T00:31:00Z

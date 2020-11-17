@@ -303,6 +303,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
+    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
+    publishedDateTime: 2020-11-17T22:54:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
+    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
+    publishedDateTime: 2020-11-17T19:51:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
     excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
     publishedDateTime: 2020-11-13T03:54:23Z

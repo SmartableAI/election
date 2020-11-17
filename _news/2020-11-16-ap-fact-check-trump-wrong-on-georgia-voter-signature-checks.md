@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 114
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
+    excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
+    publishedDateTime: 2020-11-17T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-alleged-pro-trump-rally-images-cleveland-london/6297978002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6297978002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6297978002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

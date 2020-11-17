@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-b
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
 type: article
 quality: 115
-heat: 155
+heat: 115
 published: true
 
 provider:
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "Sf69+PbwxJKVHUU+uZKFScwYBXtJG4VFxTDNuX8AZgzVF+iDF8pFxIcKLZXSUl/KXeznTFGloy1bJVQsFmhR+bh21/T6FGZSpuFoie8OEGFlTSWY3iPMN3zX2ny41Yr8Gj8Lqp1PPWozO/OniIegqpLQBNMLaWvsPlt7RmvwAp+vxdXUl0r8GXlnWtAwMJBWqYEEZHJgo3+L92W+mrnEFqmQSChwokSTeXS6YseDrLgcpfv742NoBjYqqeW9cwJjpcysk5TrAtEZb6SWuQ8wrHtZ6LbC3QPonxOLQ3sQT4eMoUMaYnj/Bu2H5QQM/D3d7gyljFvPXJ2PtLatLDSiKYdHLMj/eA3LEfCdOFtUCYlrwudguMZ4F5ftH3zG2w7bQsYy8phGqKAIYriyOdrlMCwzxaELkNnKMzsV2eXaXKEVkwjR1SOd3itZH/2XM3LrJMO7hcm5ebs2xmJJTEosOz9u8TkSMUxGZcpulxFmwsvmFMHGqFGX/SieVfVWtRVRwCazcbm/K/GTRQKF/hD4ow==;1wXzYbmLXB0SwYFQ5aeJYA=="
 ---

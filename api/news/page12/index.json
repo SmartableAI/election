@@ -2,6 +2,218 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-02-trump-supporters-at-rallies-continue-to-get-stranded-in-chilly-temperatures.md",
+      "title": "Trump supporters at rallies continue to get stranded in chilly temperatures",
+      "excerpt": "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 313,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html",
+      "publishedDateTime": "2020-11-02T10:16:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-domenech-joe-biden-would-be-doing-much-better-with-amy-klobuchar-as-running-mate.md",
+      "title": "Domenech: Joe Biden would be doing much better with Amy Klobuchar as running mate",
+      "excerpt": "Democratic presidential hopeful Joe Biden should have picked Sen. Amy Klobuchar of Minnesota as an election running mate over Sen. Kamala Harris of California, The Federalist publisher Ben Domenech said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aXf_QmjlGLk/ben-domenech-joe-biden-should-have-picked-amy-klobuchar-over-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aXf_QmjlGLk/ben-domenech-joe-biden-should-have-picked-amy-klobuchar-over-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ben-domenech-joe-biden-should-have-picked-amy-klobuchar-over-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-domenech-joe-biden-should-have-picked-amy-klobuchar-over-kamala-harris.amp",
+      "publishedDateTime": "2020-11-02T08:27:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-inside-the-evolution-of-tiffany-trump-12-insiders-chart-her-life-from-upenn-to-rich-kids-of-instagram-to-the-white-house-era.md",
+      "title": "Inside the evolution of Tiffany Trump: 12 insiders chart her life from UPenn to 'Rich Kids of Instagram' to the White House era",
+      "excerpt": "While Tiffany kept a low profile in college, she fell into the public eye after she hit the NYC socialite scene and her father became president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "originalUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f45be7942f43f001ddff0b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "publishedDateTime": "2020-11-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
+      "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
+      "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "originalUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-communist-pitch.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
+      "publishedDateTime": "2020-11-02T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski.md",
       "title": "NEWSOM, HARRIS hit trail for final weekend — GOOGLE ballot search issues — EDD head HILLIARD departing — KHANNA backs BOBULINSKI",
       "excerpt": "Trump conflict that spawned scores of lawsuits; after ballot initiative campaigns breaking records as they spent hu",
@@ -339,7 +551,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 730,
+      "heat": 750,
       "tags": null,
       "images": [
         {
@@ -1160,213 +1372,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-california-pastor-explains-trump-vote-with-clear-conscience.md",
-      "title": "California pastor explains Trump vote with 'clear conscience'",
-      "excerpt": "California pastor Bill Johnson of Bethel Church explains why he is voting for President Trump with 'confidence' after comparing his record to Joe Biden's.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNGxaKKpVLo/trump-vote-california-pastor-christian-election-2020-bill-johnson",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNGxaKKpVLo/trump-vote-california-pastor-christian-election-2020-bill-johnson",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
-      "publishedDateTime": "2020-10-31T12:04:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween.md",
-      "title": "Lizzo dresses as fly in Mike Pence's hair for Halloween",
-      "excerpt": "Lizzo used Halloween to troll Vice President Pence, dressing up as the highly buzzed-about fly that landed on his head during the vice presidential debate while encouraging her fans to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
-      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/lizzo_instagram_10312020.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
-      "publishedDateTime": "2020-10-31T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-kayleigh-mcenany-says-seals-rescue-of-american-hostage-is-story-of-trump-presidency-we-dont-stop.md",
-      "title": "Kayleigh McEnany says SEALs' rescue of American hostage is 'story of' Trump presidency: 'We don't stop'",
-      "excerpt": "The American hostage rescued in West Africa by SEAL Team 6 in a daring raid is part of President Trump's exceptional accomplishments, Kayleigh McEnany said Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
-      "publishedDateTime": "2020-10-31T09:21:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
-      "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
-      "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
-      "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
-      "publishedDateTime": "2020-10-31T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

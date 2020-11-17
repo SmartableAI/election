@@ -80,6 +80,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Presidential Transition Live Updates: ‘There’s No Time to Waste,’ Biden Health Adviser Says of Virus Response"
+    excerpt: "Georgia’s top election official said that fellow Republicans were pressuring him over the state’s presidential recount. The Trump campaign heads to court in Pennsylvania in a bid to halt the certification of President-elect Joe Biden’s victory there."
+    publishedDateTime: 2020-11-17T21:11:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/17/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/17/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/17/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 116
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17transition-briefing-biden-covid/merlin_180142863_c3f788c6-b65a-4bbf-8e8d-9b02e393a403-articleLarge.jpg"
+        width: 600
+        height: 389
+        isCached: true
 
 secured: "iNb6S0p7qYI7J7+8120d89F+d8ujPTZNKop49zhyAKFw2CEMzh6LUtLhCwOTYnfJDip+7viKCb59SfQiweS/gPU5+ISdb67kB+hgO5+BDI+IzLNRhnndhWkDBp+QBKwLYXu9rHFTMF01tGkesME3+P/0o76iFJ7+RnkYGeivOGPmGSF92yTM/pUtQTyl33ZGGmmJaL/EZSv5AtGZPFYsG7P//BTn4hpHZz8VGSO+jWcL7vGxV8c6LxyFXc7ZkcOOQXqzJJvjuoE7K/erzKn6U1h6nd6qautQeLSmMdrWd1nmMtMwImGMgGcd+pT28W9kM6yIJTN0ZyBe4YyntCprLXV2FLJPIBK/ZYkIndCKukE=;mQf2cR5whz2FVgzOqysLgw=="
 ---

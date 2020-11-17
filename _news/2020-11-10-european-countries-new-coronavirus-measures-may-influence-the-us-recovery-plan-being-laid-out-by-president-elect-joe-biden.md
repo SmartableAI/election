@@ -29,35 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns"
-    excerpt: "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\""
-    publishedDateTime: 2020-11-10T16:14:00Z
-    webUrl: "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/"
+  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
+    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
+    publishedDateTime: 2020-11-17T21:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/10/dff95b9c-2398-45be-a634-98f96d898e3d/thumbnail/1200x630/ed4590a58c3d8478fd41c70fc4bd63cb/1605022192600.png"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
+        width: 781
+        height: 545
         isCached: true
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+  - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
+    excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
+    publishedDateTime: 2020-11-13T20:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 97
+    quality: 98
     images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said."
+    excerpt: "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out."
+    publishedDateTime: 2020-11-12T11:32:00Z
+    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

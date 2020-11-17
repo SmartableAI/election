@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
-    excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
-    publishedDateTime: 2020-11-13T21:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reJAI5f7Rug/pennsylvania-law-firm-lincoln-project-withdraws-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
     excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
     publishedDateTime: 2020-10-21T03:53:06Z
@@ -109,22 +93,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/PA-Ballot-iStock.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
-    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
-    publishedDateTime: 2020-11-13T02:04:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-258970/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "9L0gqxChYrzNmpSd8UtSvjkofULblqccevb2DYlyV/FYOhX3ApMsTCwooCIZHTaurKui7mCnUTAYsFAh5fT6S4LaqRONI5PDvMy6Za0wpq+8UJc7/l3NOX8M/mSKZphuActYjkg9Zcf/UIN5U6bku5YyqeEXPmgMufBe2nxaAH6kvQ1uF5Dj2wYCTJvsL+eCjvUzZ5//7cc9iZFhIFXo/PffEnIJYHDSk5AIpvT1bFOeUMYWLpF+a4ImY6drbjiQRqtCiplRi96NspssazUvDnY/xnzAD5p9+/BRbwasveHoXqx1Fycq1lkA34zhFV8BOd0ayA2a78WqsoB1FbTszoy0o32O1kUph01r8rYOVsA=;W8bnYIy3aKLKDKpstGu16g=="

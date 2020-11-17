@@ -298,6 +298,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Frustrated Trump Voters in Rural Georgia Look to Runoff Elections"
+    excerpt: "In the small city of Nashville, Ga., many Trump supporters are angered and emboldened by the president’s apparent loss in their state. Engaging rural voters is critical for Republicans, and conservative political groups have ramped up their efforts to turn out these rural voters."
+    publishedDateTime: 2020-11-17T20:17:00Z
+    webUrl: "https://www.wsj.com/articles/frustrated-trump-voters-in-rural-georgia-look-to-runoff-elections-11605626223"
+    ampWebUrl: "https://www.wsj.com/amp/articles/frustrated-trump-voters-in-rural-georgia-look-to-runoff-elections-11605626223"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/frustrated-trump-voters-in-rural-georgia-look-to-runoff-elections-11605626223"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-260858/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Florida judge resigns from vote-counting board after at least a dozen Trump donations discovered"
     excerpt: "A Florida judge who was leading the Duval County's vote-counting board was forced to resign Thursday after it was uncovered that he had donated hundreds of dollars to President Trump's campaign and the Republican National Committee, and also has Trump-Pence signs covering his front lawn. "
     publishedDateTime: 2020-10-30T21:47:03Z

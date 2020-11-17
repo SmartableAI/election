@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-th
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
 type: article
 quality: 123
-heat: 423
+heat: 403
 published: true
 
 provider:
@@ -216,20 +216,6 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "US election: Kamala Harris' ancestral Indian village celebrates vice-president-elect"
-    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
-    publishedDateTime: 2020-11-11T03:27:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54896643"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 63
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
-        width: 400
-        height: 224
         isCached: true
   - title: "'People Are Going to Take My Daughters Seriously Too.' For Women of Color Who See Themselves in Kamala Harris, Her Historic Win Is Personal"
     excerpt: "Now, having helped push the ticket to victory, many of those voters say that bearing witness to Harris’ win was a moment they’ll always remember—and, they hope, that will shape generations to come. “As a mother and as an immigrant,"

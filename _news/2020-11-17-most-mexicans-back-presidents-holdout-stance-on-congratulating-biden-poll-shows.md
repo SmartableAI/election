@@ -111,6 +111,22 @@ related:
         width: 749
         height: 545
         isCached: true
+  - title: "Virginia Latino voters excited for Biden presidency"
+    excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
+    publishedDateTime: 2020-11-17T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
     excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
     publishedDateTime: 2020-11-08T18:01:00Z

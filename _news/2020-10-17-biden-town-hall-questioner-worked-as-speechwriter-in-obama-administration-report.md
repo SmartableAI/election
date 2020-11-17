@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,35 +31,112 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden snaps at CBS reporter for Hunter question: 'Another smear campaign, right up your alley'"
-    excerpt: "Democratic presidential nominee Joe Biden snapped at CBS News reporter Bo Erickson Friday night for asking about a New York Post report that the former vice president described as a “smear campaign.”"
-    publishedDateTime: 2020-10-19T14:28:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+  - title: "Who are the top contenders for the Biden administration?"
+    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T18:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 61
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/biden_cbs_c0-0-900-525_s1200x700.jpg?18fe2bf8ee3c941346c84a9d9287e8c0f15139e7"
-        width: 1200
-        height: 700
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
+        width: 819
+        height: 545
         isCached: true
-  - title: "Executive Dysfunction: A Clinical Evaluation of Joe Biden’s Cognitive-Linguistic Deficits."
-    excerpt: "As America’s day of decision draws near, the only person who believes Joe Biden’s cognitive-linguistic skills are within normal limits seems to be Joe Biden. Even Democrat media partisans like Andrea Mitchell,"
-    publishedDateTime: 2020-10-13T23:41:00Z
-    webUrl: "https://humanevents.com/2020/10/13/executive-dysfunction-a-clinical-evaluation-of-joe-bidens-cognitive-linguistic-deficits/"
+  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
+    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
+    publishedDateTime: 2020-11-11T00:29:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
     type: article
     provider:
-      name: Human Events
-      domain: humanevents.com
-    quality: 45
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://humanevents.com/wp-content/uploads/2020/10/construct.png"
-        width: 1920
-        height: 642
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
+    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
+    publishedDateTime: 2020-11-12T23:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
+        width: 733
+        height: 545
+        isCached: true
+  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
+    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
+    publishedDateTime: 2020-11-11T03:28:00Z
+    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
+    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
+    publishedDateTime: 2020-11-14T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
+    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
+    publishedDateTime: 2020-11-13T18:23:00Z
+    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3GB0adYOC52oQDor4D3EAwzr/Y6Z6AokUzlhsiBVN/6ePixYaa6mpkQQXeehpHVcWcjWKsBvU1ckXqq7OcQED+nLbMKkG5egzk9X4N9G1C9q7+O58ANHIWK9lfxaRb3A8hZA0kY2UgTpLqoZshqF+chsXmjzF48auZ6KTnOoaSQGukkrCDJx8rD28voX+73qMIeA80hw5exH8/sNqqbk+id3cf11QtsKaDU1FuNWYBEJpvHgDvyzx8RKHD1I9s3H1uvzPh9/umoWsduvaLjTc2I9INHd2NF1NHK8VVwLFc1mVpnTdglR806KoeWuVjYarcczUF4O0r+l5cXeMYfADnajHu+PF50q5ostJ8fo0TNQG0kgFMdhf9nXM84FdTdhP7D2muwKJEJRrRizO3dJQUX8D5/AeFK3JPd/KVIu+8/Fjg9nEM7xPRF8NQqnmecktgalF/FgQ3RgE819IYMoWIhd2RK1bNn4KKYHzj8E/Iq/VW8BqY4fDYb8lm4Gtx3ct4Z7uDdpYKUsuOdvxkzbZw==;dNtkJB+dtp/4T6CR+0Cxew=="

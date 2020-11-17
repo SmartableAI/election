@@ -925,6 +925,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Hearing begins in Trump's long-shot U.S. election challenge in Pennsylvania"
+    excerpt: "President Donald Trump on Tuesday took his long-shot bid to overturn President-elect Joe Biden's victory in the U.S. election to a court in Pennsylvania, where another legal setback would likely doom his already-remote prospects."
+    publishedDateTime: 2020-11-17T20:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X16O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X16O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X16O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541543305&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1P0"
+        width: 748
+        height: 545
+        isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
     excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
     publishedDateTime: 2020-10-22T00:28:00Z

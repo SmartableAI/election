@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-10-mike-pence-heading-to-florida-for-some-time-off.md",
+      "title": "Mike Pence heading to Florida for some time off",
+      "excerpt": "Vice President Mike Pence appears ready to take some time off a week after the election and is scheduled to travel to Sanibel this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
+      "originalUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/QdFXkmhBXzHQxxU8fmvKKjwxr2w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SEX4UHCYTJSBVUHFJBBID32F7M.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/politics/fl-ne-ap-pence-vacation-sanibel-20201109-ojdnkf7j35bahneuzzsvyeoile-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-09T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-mogherini-difficult-4-years-with-trump.md",
+      "title": "Mogherini: 'Difficult 4 years' with Trump",
+      "excerpt": "Former EU Foreign Affairs head Federica Mogherini tells Amanpour she feels \"relief at seeing America back\" and says Europeans will feel \"less lonely\" come January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "originalUrl": "https://www.cnn.com/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109200508-federica-mogherini-amanpour-biden-foreign-policy-trump-00042509-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2020/11/09/federica-mogherini-amanpour-biden-foreign-policy-trump.cnn",
+      "publishedDateTime": "2020-11-09T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-ex-israeli-un-ambassador-danon-on-what-a-biden-presidency-means-for-middle-east-peace.md",
+      "title": "Ex-Israeli UN Ambassador Danon on what a Biden presidency means for Middle East peace",
+      "excerpt": "Israel's former ambassador to the United Nations Danny Danon provided insight on Monday into what a Biden presidency could mean for Middle East peace.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_dPucYgxA6U/israeli-un-ambassador-danon-biden-presidency-middle-east-peace",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israeli-un-ambassador-danon-biden-presidency-middle-east-peace.amp",
+      "publishedDateTime": "2020-11-09T12:06:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-pence-on-2020-race-it-aint-over-til-its-overand-this-aint-over.md",
       "title": "Pence on 2020 race: ‘It ain’t over til it’s over...and this AIN’T over!’",
       "excerpt": "Vice President Mike Pence on Monday rallied his staff, saying the 2020 presidential race “ain’t over,” as the Trump campaign mounts legal battles in a number of key battleground states where President-elect Joe Biden is leading.",
@@ -272,58 +428,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-putin-wont-congratulate-biden-before-official-results-and-legal-procedures-are-completed.md",
-      "title": "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed",
-      "excerpt": "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6218660002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002",
-      "publishedDateTime": "2020-11-09T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -869,6 +973,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-09-former-president-george-w-bush-extends-warm-congratulations-to-president-elect-joe-biden.md",
+      "title": "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden",
+      "excerpt": "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6204399002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002",
+      "publishedDateTime": "2020-11-08T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-you-cant-be-what-you-cant-see-female-politicians-of-color-discuss-what-harris-win-means-to-them.md",
       "title": "'You can't be what you can't see': Female politicians of color discuss what Harris' win means to them",
       "excerpt": "The ascension of Kamala Harris as the first female, first Black and first South Asian vice president-elect is both symbolic and important to many women across the United States, and several female politicians of color expressed on CNN Sunday morning what it meant to them.\n    \n",
@@ -975,58 +1131,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-president-elect-joe-biden-seeks-diverse-cabinet-to-look-like-america-in-leading-federal-departments.md",
-      "title": "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments",
-      "excerpt": "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3748535001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001",
-      "publishedDateTime": "2020-11-08T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1238,110 +1342,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-mary-trump-says-her-uncle-president-trump-will-spend-the-transition-period-breaking-stuff-with-vengeance.md",
-      "title": "Mary Trump says her uncle, President Trump, will spend the transition period 'breaking stuff' with 'vengeance'",
-      "excerpt": "Trump's niece wrote, in an opinion article for The Observer, that she fears the defeated president will \"lash out\" after losing the US election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
-      "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11?amp",
-      "publishedDateTime": "2020-11-08T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-explainer-can-trump-pardon-his-associates-or-himself.md",
-      "title": "Explainer: Can Trump pardon his associates — or himself?",
-      "excerpt": "U.S. President Donald Trump could issue a flurry of pardons during his final days in power. Trump has granted clemency to supporters before, most notably earlier this year when he commuted the criminal sentence of Roger Stone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-pardon-explainer-idUSKBN27O0FT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540424251&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA70D3",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27O0FT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O0FT",
-      "publishedDateTime": "2020-11-08T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

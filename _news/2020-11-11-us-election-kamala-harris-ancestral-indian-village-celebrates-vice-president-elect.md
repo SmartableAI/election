@@ -25,231 +25,230 @@ images:
     isCached: true
 
 related:
-  - title: "Indian village where Kamala Harris' grandfather was born prays for her win"
-    excerpt: "People gathered Tuesday in a village in India that was once home to the forebears of D Kamala Harris to pray for her ticket's victory in the U.S. presidential election, Reuters news agency reported ."
-    publishedDateTime: 2020-11-03T23:10:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-india-village-pray-thulasendrapuram/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-india-village-pray-thulasendrapuram/"
+  - title: "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu"
+    excerpt: "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi."
+    publishedDateTime: 2020-11-17T22:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 123
+      name: USA Today
+      domain: usatoday.com
+    quality: 156
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/9a2dcf7c-b38e-4b38-8498-1312f8920fdb/thumbnail/1200x630/fa3363ef12a674571be1f09b90bea2fe/ap-20308325491643.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "How Kamala Harris' husband Doug stays fit and deals with stress on the campaign trail"
-    excerpt: "Since August, when Joe Biden chose Kamala Harris as his running mate in the presidential election, life for Harris' husband, Douglas Emhoff, has been nonstop."
-    publishedDateTime: 2020-11-02T21:19:00Z
-    webUrl: "https://www.cnbc.com/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/how-kamala-harris-husband-doug-emhoff-stays-healty-on-the-road.html"
+  - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
+    excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
+    publishedDateTime: 2020-11-07T18:19:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-election-reaction-live-updates-20201107-zephn7tqrjajbbgw2efrh6iphq-story.html?outputType=amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 118
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106774227-1604328366950-gettyimages-1228019575-AFP_1WG92Q.jpeg?v=1604328414"
-        width: 4000
-        height: 2830
-        isCached: true
-  - title: "Kamala Harris victory sparks celebration in south India for 'daughter of our village'"
-    excerpt: "Residents took to the streets in the vice president-elect’s ancestral village after hearing news of her victory."
-    publishedDateTime: 2020-11-09T16:18:00Z
-    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in"
-    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/525111-kamala-harris-victory-sparks-celebration-in?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_harrisindiacelebration_110920getty.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Kamala Harris makes history as the first ever female, Black, and Asian-American vice president-elect"
-    excerpt: "Harris is no stranger to making history. She is the second ever Black female senator and was California's first female and Black attorney general."
-    publishedDateTime: 2020-11-07T00:15:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-makes-history-first-woman-black-vice-president-elect-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fa592a01df1d50018219563?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/UXY6eBYAAt-E3aD3tY0DMKWQEB0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QGE35JUF4CRWD4FOHLCPJN56QA.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Kamala Harris’ sorority sisters speak out on her making history as 1st woman of color to be vice president"
-    excerpt: "As Kamala Harris prepares to make history as the first woman and woman of color to serve as vice president, her sorority sisters say they are not surprised that Harris is the woman shattering the nation's glass ceiling."
-    publishedDateTime: 2020-11-09T18:02:00Z
-    webUrl: "https://abcnews.go.com/GMA/News/kamala-harris-sorority-sisters-speak-making-history-1st/story?id=74103505&ref=upstract.com&curator=upstract.com"
-    ampWebUrl: "https://goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/news/story/kamala-harris-sorority-sisters-speak-making-history-1st-74103505"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 107
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-harris-06-rtr-jc-201107_1604799252174_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Kamala Harris' Indian ancestral village celebrates her victory as she becomes Vice President of the United States"
-    excerpt: "Thulasendrapuram, population 350, was the Indian home of Harris' maternal grandfather, P.V. Gopalan."
-    publishedDateTime: 2020-11-08T17:34:00Z
-    webUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/india-kamala-harris-ancestral-village-celebrates-her-victory-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fa821d11df1d500182197b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "‘Proud, ecstatic, happy’: For Black women in Bay Area, Kamala Harris’ election carries special meaning"
-    excerpt: "The victory of Harris, an Oakland native, gave Black women in the Bay Area hope for a broader range of possibilities for themselves and their families."
-    publishedDateTime: 2020-11-09T21:35:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-made-Black-women-feel-seen-Now-15711427.php"
+  - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
+    excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
+    publishedDateTime: 2020-11-10T12:25:00Z
+    webUrl: "https://www.houstonchronicle.com/life/article/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
+    ampWebUrl: "https://www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/life/amp/kamala-harris-suit-jill-biden-dress-immigrants-15713625.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
-    quality: 104
+    quality: 128
     images:
-      - url: "https://s.hdnux.com/photos/01/15/13/17/20231112/5/rawImage.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "Indian-Americans Rejoice As Kamala Harris Prepares To Become The Next Vice President"
-    excerpt: "Harris will not only be the first Black, and first female, vice president. She's also the first Indian American and the first Asian American elected to the office."
-    publishedDateTime: 2020-11-08T18:21:00Z
-    webUrl: "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/08/932824125/indian-americans-rejoice-as-kamala-harris-prepares-to-become-the-next-vice-presi"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 98
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/08/gettyimages-1229520920_wide-5986925f0c5feb3f27267ddfb075420cacb31e92.jpg?s=1400"
-        width: 1400
-        height: 786
-        isCached: true
-  - title: "The Historic Barriers Kamala Harris Overcame to Become the First Female, First Black and First Asian American Vice President-Elect"
-    excerpt: "For each of Harris' firsts, the history speaks to the breaking down of barriers that silenced the voices of people of color and women"
-    publishedDateTime: 2020-11-07T20:11:00Z
-    webUrl: "https://time.com/5908579/kamala-harris-historic-vice-president/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 75
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/kamala-harris-campaign.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Menlo Park school official resigns following wife’s vulgar tweet about Kamala Harris"
-    excerpt: "Jon Venverloh announced his immediate resignation in a statement to the Las Lomitas school community, in which he said that he needed to focus on and support his family during this time."
-    publishedDateTime: 2020-11-10T08:09:00Z
-    webUrl: "https://www.sfchronicle.com/bayarea/article/Menlo-Park-school-official-resigns-following-15714234.php"
-    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Menlo-Park-school-official-resigns-following-15714234.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 68
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/14/42/20236452/5/rawImage.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "‘Who would have thought?’: Kamala Harris’ win sparks joy in Bay Area Indian community"
-    excerpt: "Many Indian Americans couldn’t help but to feel giddy at how they recognized flickers of themselves in the new vice president. They were astonished to see a woman of Indian heritage ascend to the highest levels of the U."
-    publishedDateTime: 2020-11-10T00:57:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Who-would-have-thought-Kamala-Harris-15714433.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Who-would-have-thought-Kamala-Harris-15714433.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 68
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/14/47/20236766/5/375x250.jpg"
+      - url: "https://s.hdnux.com/photos/01/15/14/21/20235374/3/375x250.jpg"
         width: 375
         height: 249
         isCached: true
-  - title: "Kamala Harris' Full Speech: ‘You Chose Hope and Unity, Decency, Science and, Yes, Truth'"
-    excerpt: "Elect Kamala Harris delivered a victory address on Saturday night from Wilmington, Del., and introduced President-Elect Joe Biden. Read the full text of Harris’ speech here:"
-    publishedDateTime: 2020-11-08T02:33:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/kamala-harris-full-speech-you-chose-hope-and-unity-decency-science-and-yes-truth/2710985/?amp"
+  - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
+    excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/13/souvenirs-biden-harris-inauguration/?outputType=amp"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 66
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://media.nbcnewyork.com/2020/11/GettyImages-1284480397.jpg?resize=1200%2C675"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWULUBF2QI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-11-17T20:04:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Vice President-elect Kamala Harris’s husband, Doug, to give up job to help his wife"
+    excerpt: "Doug Emhoff, the 56-year-old husband of Vice President-elect Kamala Harris, will leave his private law practice by Inauguration Day to focus on his role at the White House, a spokesperson said Tuesday."
+    publishedDateTime: 2020-11-11T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/kamala-harriss-husband-doug-to-give-up-job-to-help-his-wife/2020/11/11/33c7b170-1e1e-11eb-b532-05c751cd5dc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDJGDOREGUI6XFJOBRDVS4WPYA.jpg&w=1440"
+        width: 1440
+        height: 963
+        isCached: true
+  - title: "US election: Kamala Harris' ancestral Indian village celebrate vice-president-elect"
+    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
+    publishedDateTime: 2020-11-10T18:44:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54896643"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 114
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."
+    publishedDateTime: 2020-11-16T21:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.freep.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6308427002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/f735d0ac-917f-4b02-9a8c-a85244c63864-AP20321743256252.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Dem VP nominee Kamala Harris’ Texas visit will include stops in Houston, Fort Worth and McAllen"
-    excerpt: "Kamala Harris, the Democratic nominee for vice president, will make campaign stops in Fort Worth, McAllen, and Houston on Friday. Harris’ visit is a major statement as her swing through Texas will come just four days before Election Day."
-    publishedDateTime: 2020-10-28T15:21:00Z
-    webUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/"
-    ampWebUrl: "https://www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/texas-politics/dem-vp-nominee-kamala-harris-texas-visit-will-include-stops-in-houston-fort-worth-and-mcallen/amp/"
+  - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
+    excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
+    publishedDateTime: 2020-10-27T19:48:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/article/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/2020-Election-Live-Updates-Biden-on-track-for-15678983.php"
     type: article
     provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 63
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
     images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/bd9ebfe10da443d2822a2f2d9dede8b4.jpg?w=1280"
+      - url: "https://s.hdnux.com/photos/01/14/56/42/20113594/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
-  - title: "'People Are Going to Take My Daughters Seriously Too.' For Women of Color Who See Themselves in Kamala Harris, Her Historic Win Is Personal"
-    excerpt: "Now, having helped push the ticket to victory, many of those voters say that bearing witness to Harris’ win was a moment they’ll always remember—and, they hope, that will shape generations to come. “As a mother and as an immigrant,"
-    publishedDateTime: 2020-11-10T22:47:00Z
-    webUrl: "https://time.com/5910084/kamala-harris-historic-win-women/"
+  - title: "For some Bastrop residents, Kamala Harris inspires hope"
+    excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
+    publishedDateTime: 2020-11-12T23:17:00Z
+    webUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope"
+    ampWebUrl: "https://www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201112/for-some-bastrop-residents-kamala-harris-inspires-hope?template=ampart"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 51
-  - title: "VP-elect Kamala Harris, first woman, black and Asian-American in role, delivers victory speech"
-    excerpt: "Addressing her historic win, she predicted, \"While I may be the first...I will not be the last.\""
-    publishedDateTime: 2020-11-08T02:34:11Z
-    webUrl: "https://www.independent.co.uk/news/world/americas/us-election-2020/kamala-harris-speech-vice-president-elect-b1685040.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 43
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
     images:
-      - url: "https://static.independent.co.uk/2020/11/08/01/kamala-harris-victory-speech.jpg"
-        width: 3493
-        height: 2454
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201112&Category=NEWS&ArtNo=201119820&Ref=AR"
+        width: 3024
+        height: 4032
         isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Charlotte Observer"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T12:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President-elect Kamala Harris on Capitol Hill"
+    excerpt: "Vice President-elect U.S Sen. Kamala Harris (D-CA) leaves the Intelligence Committee Room in the Senate Hart building at the U.S. Capitol in Washington, DC on Tuesday, November 17, 2020. Photo by Ken"
+    publishedDateTime: 2020-11-17T21:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/bd7c235e5dc1f46407054d389991ed58/Vice-President-elect-Kamala-Harris-on-Capitol-Hill/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/bd7c235e5dc1f46407054d389991ed58/VICE-PRESIDENT-ELECT.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
+    excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
+    publishedDateTime: 2020-11-16T23:04:00Z
+    webUrl: "https://www.rollcall.com/2020/11/16/biden-says-its-a-good-thing-his-colleague-kamala-harris-is-still-on-the-senate-intelligence-committee/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 53
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/SENATE_VOTE_001_08042020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President-Elect Kamala Harris' Husband Leaves Job at Powerhouse Law Firm DLA Piper"
+    excerpt: "Douglas Emhoff, the husband of U.S. Vice President-Elect Kamala Harris, will leave his job at one of the country's largest law firms by January to focus on supporting the incoming Biden administration,"
+    publishedDateTime: 2020-11-10T22:12:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-11-10/vice-president-elect-kamala-harris-husband-leaves-job-at-powerhouse-law-firm-dla-piper?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "sdR5O+Slr9oEzKsHWeNvv8dS3R4YP5r9odTtwsO7MXdx/od3TpnGr4V1nO5Hz0rqMeC9P+aagVZGL3fHZO+TpegsSXwHp0f6v1+HyP2M5a0K6Lb0rr7J5Iwyfz96usSDuEbg3eHrnDFLfJaERpJURxeyh0JJp68SODan27fKvR8Dv8RGUQ0m9o2JKGC3lzzVn2cmeC9kOCBCqkFDpw/CmT9YzZXpRisVCtezDU6G0CXKO9xoWasyUR5WMzH5zCBKc9hCdCuw7Sl6SE9zht9r7GBid2EmnwzwXi+wBt1d2stDXCGj27RtnoQ6I3EOLhIY77sPXSQns7YYp/aUDqIUTEIp7xa6kwRuOSnSyRjHkjU=;Br0T0bWyGJLlKypjvmlQdA=="
 ---

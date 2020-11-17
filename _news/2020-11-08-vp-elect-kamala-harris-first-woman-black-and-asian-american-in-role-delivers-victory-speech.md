@@ -227,20 +227,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "US election: Kamala Harris' ancestral Indian village celebrates vice-president-elect"
-    excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
-    publishedDateTime: 2020-11-11T03:27:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54896643"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 63
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
-        width: 400
-        height: 224
-        isCached: true
   - title: "'People Are Going to Take My Daughters Seriously Too.' For Women of Color Who See Themselves in Kamala Harris, Her Historic Win Is Personal"
     excerpt: "Now, having helped push the ticket to victory, many of those voters say that bearing witness to Harris’ win was a moment they’ll always remember—and, they hope, that will shape generations to come. “As a mother and as an immigrant,"
     publishedDateTime: 2020-11-10T22:47:00Z

@@ -272,6 +272,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "A Vengeful President Trump"
+    excerpt: "The Constitution should be amended to remove the president from office no more than a month after losing the election,” a reader writes."
+    publishedDateTime: 2020-11-17T22:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
     excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
     publishedDateTime: 2020-11-13T20:16:00Z

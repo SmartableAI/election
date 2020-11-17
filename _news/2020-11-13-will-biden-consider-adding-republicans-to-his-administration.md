@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
+    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
+    publishedDateTime: 2020-11-17T21:22:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fw3v+w/ZohXmslW1QP8toKuTAS9NoKGJNP19gIyXuCK3/r7SSi9ziFS6pXze340H4OmpuZQx1rQ1/84WUnifJKOEr40yqn/RW/uq7aK9xSOe8EJh0PbbGSVUzlC7fSZ+IG1xbcMD7G8eSm9UsomSLATQbiuFuCDWJdNztPnP5loVMBWCsFptLmZokG2gMJiQ75XBUpdHk1bXE92DxAak0efsWciEPOvrdVD0eSHRd7zZNzCNV4XoNepTMFYGYaXZ+bT2KdUpVclDOp68ohqSfe3D01BebAZvz4bb1aF7iMmtqYaxLJMQbannM8m4uaAdhIR2Wu0a3g2L6FuBNJzio5rPMQxYdL8wrb8mBaACDC8=;nsKychfsJnHFrAVgUUVHow=="
 ---

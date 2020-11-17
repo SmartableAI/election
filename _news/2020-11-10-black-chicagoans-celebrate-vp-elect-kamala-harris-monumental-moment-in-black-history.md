@@ -224,22 +224,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 72
-  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Charlotte Observer"
-    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
-    publishedDateTime: 2020-11-17T12:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article247147756.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article247147756.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article247147756.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
     excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."
     publishedDateTime: 2020-11-12T02:25:00Z
