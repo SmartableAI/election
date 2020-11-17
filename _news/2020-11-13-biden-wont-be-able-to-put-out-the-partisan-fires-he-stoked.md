@@ -402,6 +402,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden Names Senior White House Staff"
+    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-261059/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "9GbvGlAD6AdGQ6f8XDpD/eDw91JC5HWyKzGwc2rtH28grz5l872X/vMpCdPvVLm6xOyud0Rqtb5525dbWvgv06Q1L+BsCllb2np5M2oWtr0244X71hevuWpy36jk5K2U6dK2B0o0tu6StTh41o8WZVHKAuwt04bp66sid542O4/ku04mecWrmAWWSKXRpafoPD7t73j1vR0zWiGu/rtx1YyZw3/Bv+icQJo+jhn8LuHMyWCsnNOBlt8JfKJrXxxViTdX9HtyyV/U1xPUP856ivLAG8+h6qytj5N0jY/MeNlRW6/YCiCpqREQlhWf3hrYlAu9hCprYIBMEoxlDxTGZsAeZWtW160TA9gzVJpFLUc=;So2J7jExlPsgUk9XRuuOPw=="
 ---

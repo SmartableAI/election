@@ -2,58 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-10-17-joe-bidens-animal-crossing-island-was-definitely-made-by-a-pro-gamer.md",
-      "title": "Joe Biden’s ‘Animal Crossing’ island was definitely made by a pro gamer",
-      "excerpt": "Whoever worked on Joe Biden’s “Animal Crossing” island is a real professional. That was probably the most surprising takeaway from the surreal 2020 presidential campaign promotion, which debuted Friday afternoon on KindaFunnyGames,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
-      "originalUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KP7ZZ3CARDYRM2XJMLBXRCAWU.jpg&w=1440",
-          "width": 975,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/video-games/2020/10/16/biden-animal-crossing-island/?outputType=amp",
-      "publishedDateTime": "2020-10-16T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
       "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
       "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
@@ -94,6 +42,62 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-former-white-house-chief-of-staff-tells-friends-that-trump-is-the-most-flawed-person-hes-ever-met.md",
+      "title": "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met",
+      "excerpt": "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html",
+      "publishedDateTime": "2020-10-16T14:32:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -500,25 +504,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-mcconnell-not-pelosi-balks-at-trumps-demands-on-economic-aid.md",
-      "title": "McConnell, not Pelosi, balks at Trump's demands on economic aid",
-      "excerpt": "Trump wants the public to believe that Nancy Pelosi is standing in the way of an economic aid package, but it's actually Mitch McConnell who's ignoring him",
+      "path": "_news/2020-10-16-trumps-pursuit-of-coronavirus-vaccine-comes-at-the-expense-of-therapies-he-now-claims-as-a-cure.md",
+      "title": "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'",
+      "excerpt": "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 181,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2017_32/2116716/170811-trump-mcconnell-mn-1155_7675d005b66ad35c468bea532ccec283.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -526,16 +530,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T07:59:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html",
+      "publishedDateTime": "2020-10-16T08:13:29-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -552,7 +556,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },

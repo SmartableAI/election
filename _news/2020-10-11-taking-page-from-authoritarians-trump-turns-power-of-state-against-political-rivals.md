@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
 type: article
 quality: 128
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
+    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
+    publishedDateTime: 2020-10-15T10:12:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's latest political theatrics described as 'insanity'"
     excerpt: "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras."
     publishedDateTime: 2020-10-05T12:56:00Z

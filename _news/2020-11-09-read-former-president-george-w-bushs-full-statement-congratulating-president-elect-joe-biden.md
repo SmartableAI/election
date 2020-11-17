@@ -95,6 +95,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
+    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
+    publishedDateTime: 2020-11-17T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
+        width: 749
+        height: 545
+        isCached: true
+  - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
+    excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
+    publishedDateTime: 2020-11-17T15:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico-poll-idUSKBN27X200"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X200"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X200"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541505654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG15U"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
     excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
     publishedDateTime: 2020-11-03T20:31:00Z

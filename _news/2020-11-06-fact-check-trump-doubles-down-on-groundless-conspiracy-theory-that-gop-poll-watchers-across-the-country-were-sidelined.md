@@ -143,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
-    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
-    publishedDateTime: 2020-11-05T15:37:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "kqxI3QopEyF+0wxqNyQZRJNumHpF3luWUv7KmEvEZ3pYx+P1+qC2qwFrGKaUqwSfORX+sRSg4moCdmnb/T/S2BSrudfMPS1A/FsUHy8W8LCfFEG6Zat8hbslQZHs3S0VJFSh9OAV//5RPJn2hXt1tRu795aNKrktHv0CV6f21xA5gIn0oVPbPEmoYnmA48EdqRL7Ui06n8ZYZW4Ec5ZCRb5lHzE1DJzExsKMQjC4Sn6lT7A+0AZgK9aXelCrtKCpTDjM/xGd7UWCFIPhw2RCY9RdltJzh//Taai3r9ukMJd0gB8dOvMGTB+GZ2fhc7sxl7NUJyIg2QI5xN0zkM1zSJaRCc2xz3QVVWf4gGLN9ag=;WnB+kQ9ZznVdGNOGmo8LeQ=="
 ---

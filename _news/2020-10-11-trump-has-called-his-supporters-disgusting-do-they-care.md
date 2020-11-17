@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.am
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
+    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
+    publishedDateTime: 2020-10-10T15:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "North Carolina Voters Distrust Trump and Tillis, Poll Finds, Imperiling G.O.P."
     excerpt: "President Trump trails Joseph R. Biden Jr. by four points in the latest Times/Siena survey of North Carolina, and Senator Thom Tillis is lagging behind his Democratic challenger in a crucial Senate race."
     publishedDateTime: 2020-10-15T03:26:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
+    excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
+    publishedDateTime: 2020-10-17T04:50:00Z
+    webUrl: "https://www.cnn.com/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "dtW3Y1ag5HgUyaSlNODo0ly7Fl3ROoPLB6MqHpCZ5H4fBhZ8jTaHIEY4Dl2m1lxmUA/2jlSZSAt0aaq6XU0qZvbdeyzEZrWCCJw4gD6tmCbEvI7zr6VibtojoQFpp4JsUEvIBWRUfWQD20RLckStPTu3SVoJt8e+Lx27mCmHVK39dJ9+sxW8rpHIKOmILYAfMsLe2Y2KnTANzPGVmJhSEadCgfSPrppmP8sq2J2yhbyqpDgXs36xLd1Y0RAH6xlcrC39Ne2kbxRs7wZYNPZXNBubcd1v/0RuqhuTi9zM530UeUTkt9Xzkl+fKV9hCcLm02KRplTOQz9iOI7X8fdoea7DUmzsERptCLnh2mkiYi0=;4VxqzfAIt+KTlKpJvgqBUA=="
 ---

@@ -240,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 254,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -296,7 +296,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -728,119 +728,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-sacha-baron-cohen-explains-how-he-crashed-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump",
-      "excerpt": "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "publishedDateTime": "2020-10-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-birx-tells-friends-she-was-relieved-after-trump-adviser-scott-atlas-inaccurate-mask-tweet-was-removed.md",
-      "title": "Birx tells friends she was relieved after Trump adviser Scott Atlas' inaccurate mask tweet was removed",
-      "excerpt": "Members of the White House coronavirus task force are praising a move by Twitter removing a misleading tweet from top Trump adviser Dr. Scott Atlas that told Americans masks don't work.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717094414-01-dr-birx-profile-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "publishedDateTime": "2020-10-19T07:23:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-top-trump-administration-official-met-with-assad-regime-over-imprisoned-americans.md",
       "title": "Top Trump administration official met with Assad regime over imprisoned Americans",
       "excerpt": "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n",
@@ -909,7 +796,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1179,25 +1066,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-mcconnell-not-pelosi-balks-at-trumps-demands-on-economic-aid.md",
-      "title": "McConnell, not Pelosi, balks at Trump's demands on economic aid",
-      "excerpt": "Trump wants the public to believe that Nancy Pelosi is standing in the way of an economic aid package, but it's actually Mitch McConnell who's ignoring him",
+      "path": "_news/2020-10-16-former-white-house-chief-of-staff-tells-friends-that-trump-is-the-most-flawed-person-hes-ever-met.md",
+      "title": "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met",
+      "excerpt": "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcconnell-not-pelosi-balks-trump-s-demands-economic-aid-ncna1243726",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 180,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2017_32/2116716/170811-trump-mcconnell-mn-1155_7675d005b66ad35c468bea532ccec283.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1205,16 +1092,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T07:59:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html",
+      "publishedDateTime": "2020-10-16T14:32:13-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1231,7 +1118,62 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trumps-pursuit-of-coronavirus-vaccine-comes-at-the-expense-of-therapies-he-now-claims-as-a-cure.md",
+      "title": "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'",
+      "excerpt": "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html",
+      "publishedDateTime": "2020-10-16T08:13:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -1673,6 +1615,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-will-trump-win-again-watch-floridas-sumter-county-for-first-election-night-clue.md",
+      "title": "Will Trump win again? Watch Florida's Sumter County for first election night clue.",
+      "excerpt": "Will Trump win again? Watch Florida's Sumter County for first election night clue. Last week, Democrats took delight in the spectacle of a 500-golf cart flotilla of Joe Biden supporters parading through Florida's largest retirement community en route to turn in their vote-by-mail ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3420360/201015-the-villlages-al-0741_d3ce3f854b407fc2901767388f852caa.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243497",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497",
+      "publishedDateTime": "2020-10-15T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     }

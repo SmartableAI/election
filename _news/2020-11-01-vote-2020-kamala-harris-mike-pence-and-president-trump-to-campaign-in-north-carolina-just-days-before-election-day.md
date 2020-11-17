@@ -908,10 +908,10 @@ related:
         isCached: true
   - title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
     excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
-    publishedDateTime: 2020-11-17T08:18:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania/trump-lawyers-withdraw-on-eve-of-key-hearing-in-pennsylvania-election-case-idUKKBN27X04C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X04C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X04C"
+    publishedDateTime: 2020-11-17T15:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X04Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X04Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X04Q"
     type: article
     provider:
       name: Reuters

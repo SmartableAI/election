@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-another-term.md",
+      "title": "With backing from Trump, RNC chair McDaniel expected to run for another term",
+      "excerpt": "With the backing of President Trump, Ronna McDaniel’s expected to run for a second 4-year term as chair of the Republican National Committee (RNC).",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nxwKhzTgbBU/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-second-term.amp",
+      "publishedDateTime": "2020-11-11T18:22:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster-masquerading-as-diplomatic-triumph.md",
       "title": "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'",
       "excerpt": "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday.",
@@ -792,7 +848,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1612,63 +1668,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-harris-american-voters-chose-hope-unity-decency-and-yes-truth.md",
-      "title": "Harris: American voters chose 'hope, unity, decency and yes, truth'",
-      "excerpt": "Sen. Kamala Harris, in her victory speech as vice president-elect, said that in Tuesday’s election voters had chosen “hope, unity, decency and yes, truth.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7XZfNkLgmQ/harris-american-voters-chose-hope-unity-truth",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/364d08d0-de65-4f3d-ab82-703859584a3b/a91619d4-445b-4a57-b799-ab1ea134a81b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-american-voters-chose-hope-unity-truth.amp",
-      "publishedDateTime": "2020-11-07T18:21:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

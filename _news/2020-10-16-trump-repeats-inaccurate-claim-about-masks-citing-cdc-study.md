@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Birx tells friends she was relieved after Trump adviser Scott Atlas' inaccurate mask tweet was removed"
-    excerpt: "Members of the White House coronavirus task force are praising a move by Twitter removing a misleading tweet from top Trump adviser Dr. Scott Atlas that told Americans masks don't work.\n    \n"
-    publishedDateTime: 2020-10-19T14:23:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html"
+  - title: "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician"
+    excerpt: "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n"
+    publishedDateTime: 2020-10-11T03:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200717094414-01-dr-birx-profile-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump's physician walks back earlier statements, tries to clear up diagnosis timeline"
+    excerpt: "President Donald Trump's physician walks back earlier statements and tries to clear up the diagnosis timeline."
+    publishedDateTime: 2020-10-04T03:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241993"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump says U.S. economic recovery is faster than any other nation — but China is leaps and bounds ahead"
+    excerpt: "China is seeing double-digit economic growth, Japan's Nikkei index is doing better than the Dow and Korea's unemployment rate is almost back to pre-pandemic levels."
+    publishedDateTime: 2020-10-07T02:27:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-says-u-s-economic-recovery-faster-any-other-nation-n1242361"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242361"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242361"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_10/3259446/200306-port-workers-facemasks-china-ac-439p_f5177fc439d4d7e9d25940c0b647178f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "EKv7x0cRAxaLfTrAvL+dgYJlqS8wtAMAApX78n1I2GxMIEkSJkW2fLkqN4FR1mq4207BWXOrvnxL8Kf90Vg2Fcnfl4GOIjubzuFfltC+XRr3QscUx8G4ROSn+IC4VqE+zl6cik7p5NXGvYxARAn0hUBvcOPIFby2BxHJAqXEPI55USgRUvIviXiA3fJGD/mh9fwiiqEjMg6Y7WbZgt+GO1zvdRWvXnDtAfrTy4A/u1TMinxDzxdR78gcsA1HJXZWtx3qMxtmXem2Q9loTl3nan4NBEZkvKM98zvotrI0FcS2WoY7UkJAjguZkxw0gGR/YcjfHwmI0H8Pi2ZOa+xYHr2gZ8ZiZX62PAAuJVNdFr0=;/l37NcdTspR8uyFzDs44KQ=="

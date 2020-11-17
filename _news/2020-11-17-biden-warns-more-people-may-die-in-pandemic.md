@@ -93,6 +93,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
+    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
+    publishedDateTime: 2020-11-17T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
+        width: 749
+        height: 545
+        isCached: true
+  - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
+    excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
+    publishedDateTime: 2020-11-17T15:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico-poll-idUSKBN27X200"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X200"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X200"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541505654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG15U"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
     excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
     publishedDateTime: 2020-11-08T18:01:00Z
@@ -222,6 +254,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ARv6PLMrHPrlt2RZr7JK/8FRgA7gq+hxVYrd7qGryjfXOwpKSI2uF/bz6nnlaqei6bSjw2FqkXC1NUqNh6U+eaGoc1ES+vFPAEra0F8VE4hd8Vwe+u+RLSfjh7gL8HInoRw8NwzF4RnNi2S3ukDq/WorA9Cj9iU+IH4ESWlszFOM4ZVXW3WguFmz3hcapuRaHwrsPUGMP3Sb93QXvb5SBiYo22urJXSw2aIgrYAI+4wh8wWim2sUcltk6GY+WTQ1oL7jYUyqy2inDkE+lRuLJGhb0sPVm6uacsZTA4SWvVe96GhfiYbYr4Jp/N/jPFV9XP7AR6MbE179LcaQdIjAiaPc2UIxrEV30eplWmMWrOo=;CCvL/TJJSItESqGI1pCzLQ=="
+secured: "ggQ0WmsaxrrugDlt6p3xOFP/k5R3aBWsV79NMN1mLzxBMuZOHyeXFhZccJLVlbFn1KAFwu3T+eEnX9cC1K0rvrJDqJr4v9cYWK6aymyMCwXHTKkhNwMr4yD5rBa7Vqu7IQ6deOFeUDIcZUODCQhMn+iy4mbKzAiFNyiz5zHuDlAhxnspgkCQGh9XNirIcpEBkTpifZoIRtjdapgtXlHqPBYyNAWhwG31MMQtZFHqEeW/2Bd+y4ulCSoo8mtv1FhMfb26Qnq6AE74TMi4oxkk4v1rMymV8cHEC6u/NFgaAgFwun1D0YZU4vL3M8pg+NAs51e029F8Zv4LRtp3ebTrgYyzRKy8virCQShhonZT+fFJy0XEkiZBU7q+PBqETDCJXn1SHiA5o9QqZZehFQzC4YfvnTnpP2aIjWaunoptV2yUa1ycOi/Dnl5D3pm14v2mX2Z4kjq4WVfLxltTG9uYSmPcI01XCaeZcA2TCX7apHksr8MLVrnqJcuPttFjmc3t1tDrzjWhQ1UQmLpm2HSVLA==;Ia6wmbEWv81M4PEi7IQKzg=="
 ---
 

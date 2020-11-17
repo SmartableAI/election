@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
+    excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6312899002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6312899002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/USAT/b26dc9d8-45fe-49a9-9bb7-971307ca31eb-AP_Trump_Twitter_Warning_Labels.JPG?auto=webp&crop=4031,2288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 681
+        isCached: true
   - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
     excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
     publishedDateTime: 2020-11-10T21:14:00Z

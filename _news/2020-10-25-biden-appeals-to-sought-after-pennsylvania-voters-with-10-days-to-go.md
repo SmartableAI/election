@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Watch live: Biden holds campaign event in Pennsylvania"
+    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
+    publishedDateTime: 2020-10-10T20:46:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden shows continued strength in Pennsylvania and Wisconsin polls."
     excerpt: "Polls released by Ipsos on Monday found Mr. Biden ahead among likely voters by six points in Pennsylvania and nine points in Wisconsin — both states where Mr. Biden has led consistently and where victory is crucial to his chances of taking the White House."
     publishedDateTime: 2020-10-27T16:15:00Z

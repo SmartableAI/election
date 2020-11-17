@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
+    excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6312899002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6312899002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/USAT/b26dc9d8-45fe-49a9-9bb7-971307ca31eb-AP_Trump_Twitter_Warning_Labels.JPG?auto=webp&crop=4031,2288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 681
+        isCached: true
   - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
     excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
     publishedDateTime: 2020-11-10T20:55:00Z

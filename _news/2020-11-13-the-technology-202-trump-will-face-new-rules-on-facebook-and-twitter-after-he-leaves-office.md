@@ -79,6 +79,20 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
+    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
+    publishedDateTime: 2020-11-17T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
     excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
     publishedDateTime: 2020-11-11T12:30:00Z

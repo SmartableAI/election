@@ -2,62 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
-      "title": "Biden announces record $383 million fundraising haul for September",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "publishedDateTime": "2020-10-14T19:30:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
       "title": "Trump tries to shore up support from big business, Iowans",
       "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
@@ -107,6 +51,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-fact-check-trump-is-still-falsely-claiming-that-mexico-is-paying-for-his-border-wall.md",
+      "title": "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall",
+      "excerpt": "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html",
+      "publishedDateTime": "2020-10-14T18:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -731,7 +731,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 735,
+      "heat": 775,
       "tags": null,
       "images": [
         {
@@ -1039,6 +1039,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-hes-just-so-angry-all-the-time-trump-hemorrhaging-support-among-suburban-women.md",
+      "title": "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women",
+      "excerpt": "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "originalUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
       "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
       "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
@@ -1088,63 +1145,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
-      "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
-      "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243288",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243288",
-      "publishedDateTime": "2020-10-13T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

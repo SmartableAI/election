@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
-    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
-    publishedDateTime: 2020-11-05T15:37:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact check: Trump doubles down on groundless conspiracy\ntheory that GOP poll watchers across the country were sidelined"
     excerpt: "President Donald Trump has falsely claimed there were widespread abuses against his poll watchers across the country, and is using these false allegations to dispute the election results.\n    \n"
     publishedDateTime: 2020-11-06T23:01:58Z

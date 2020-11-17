@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
+    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
+    publishedDateTime: 2020-11-17T16:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden transition argues agency review teams represent 'diversity of ideology and background'"
     excerpt: "President-elect Joe Biden’s transition team is naming members to its agency review teams in an apparent effort to appeal to progressives – although they can't officially get to work until the General Services Administration under President Trump acknowledges the 2020 election results."
     publishedDateTime: 2020-11-11T01:51:04Z

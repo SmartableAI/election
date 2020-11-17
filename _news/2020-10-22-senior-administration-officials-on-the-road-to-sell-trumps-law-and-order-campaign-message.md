@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump continues dishonesty bombardment at Pennsylvania rally"
+    excerpt: "President Donald Trump has returned to the campaign trail with all of his usual campaign dishonesty.\n    \n"
+    publishedDateTime: 2020-10-14T13:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPtUa3640eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013201442-01-trump-rally-pa-1013-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump posts video that misleads on the President's LGBTQ policies"
     excerpt: "Melania Trump tweeted a video of herself posted Thursday discussing for three minutes the efforts the Trump administration has made to support the rights of the gay community, blaming sentiments that President Donald Trump opposes gay rights on his \"many enemies in the political establishment.\"\n    \n"
     publishedDateTime: 2020-10-30T21:05:30Z
@@ -143,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: At Pennsylvania rally, Trump makes four false claims about voting in the state"
+    excerpt: "President Donald Trump has made a habit of lying about the integrity of the election. And in the first of his three Monday events in Pennsylvania, he made four false claims about voting in the state.\n    \n"
+    publishedDateTime: 2020-10-27T00:43:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlOJrsdkIhI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/fact-check-voting-pennsylvania-fraud-philadelphia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026142449-03-trump-rally-pa-1026-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
     excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
     publishedDateTime: 2020-10-14T17:16:14Z
@@ -172,6 +204,22 @@ related:
     quality: 134
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423430/201027-melania-trump-se-417p_85214a58292a4daabcea6a6df9a19003.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
+    excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""
+    publishedDateTime: 2020-10-16T17:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/melania-trump-slams-former-friend-who-wrote-tell-all-she-n1243736"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243736"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243736"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420760/201016-melania-trump-ew-1045a_8abb581f8e006a522aa576ec8b021e0d.jpg"
         width: 2500
         height: 1667
         isCached: true

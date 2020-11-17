@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-10-23-whats-happening-out-there-with-black-men-and-trump.md",
+      "title": "‘What’s happening out there’ with Black men and Trump?",
+      "excerpt": "Tens of thousands of Black men, mostly, in jail. And you know what? They remember it because if you look at what’s happening with the voting right now, they remember that you treated them very, very badly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMR5PFALTUI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp",
+      "publishedDateTime": "2020-10-23T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-fbi-asks-to-interview-hunter-biden-ex-associate-bobulinski-senate-committee-says.md",
       "title": "FBI asks to interview Hunter Biden ex-associate Bobulinski, Senate committee says",
       "excerpt": "The FBI has asked former Hunter Biden business associate Tony Bobulinski to sit for an interview Friday, Bobulinski's lawyers told the Senate Homeland Security Committee, which released a statement Friday.",
@@ -1284,62 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-donna-brazile-confident-joe-biden-will-handle-hunter-email-controversy-bring-it-up.md",
-      "title": "Donna Brazile confident Joe Biden will handle Hunter email controversy: 'Bring it up!'",
-      "excerpt": "Joe Biden should not let President Trump interrupt him during the final presidential debate Thursday night, former DNC Interim Chair Donna Brazile argues.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pa5seKo_ce4/biden-debate-trump-hunter-email-controversy-donna-brazile",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pa5seKo_ce4/biden-debate-trump-hunter-email-controversy-donna-brazile",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp",
-      "publishedDateTime": "2020-10-22T10:14:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

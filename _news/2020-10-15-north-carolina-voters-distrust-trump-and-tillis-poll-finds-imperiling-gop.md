@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
+    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
+    publishedDateTime: 2020-10-10T15:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?"
     excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
     publishedDateTime: 2020-10-11T00:28:00Z

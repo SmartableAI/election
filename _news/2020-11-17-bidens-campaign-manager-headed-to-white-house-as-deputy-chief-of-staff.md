@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden starts staffing up with senior White House announcements"
+    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
+    publishedDateTime: 2020-11-17T16:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
     excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
     publishedDateTime: 2020-11-10T01:24:04Z

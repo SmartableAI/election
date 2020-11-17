@@ -2,6 +2,118 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
+      "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
+      "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d52599-b966-4bf1-85d7-cb77a41ad33b/15422c29-d504-46cc-b568-fd89117f76a0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
+      "publishedDateTime": "2020-10-11T12:54:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-biden-sounding-very-much-like-trump-by-warning-of-chicanery-at-the-polls-reporter.md",
+      "title": "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter",
+      "excerpt": "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T11:56:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places.md",
       "title": "Biden: The 'only way' I'll lose is through 'chicanery' at polling places",
       "excerpt": "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election.",
@@ -42,54 +154,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
-      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
-      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
-      "publishedDateTime": "2020-10-11T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -294,6 +358,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-can-trump-squeeze-more-from-his-white-base-in-pennsylvania-and-beyond.md",
+      "title": "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?",
+      "excerpt": "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/09/us/politics/09pa-trump1/09pa-trump1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html",
+      "publishedDateTime": "2020-10-11T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -557,63 +678,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
-      "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
-      "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
-      "publishedDateTime": "2020-10-10T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -891,7 +955,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1153,6 +1217,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-10-trump-thinks-his-supporters-are-disgusting-do-they-care.md",
+      "title": "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?",
+      "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "publishedDateTime": "2020-10-10T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-biden-campaign-launches-first-ad-featuring-cindy-mccain.md",
       "title": "Biden campaign launches first ad featuring Cindy McCain ",
       "excerpt": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n",
@@ -1206,114 +1327,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-i-shouldnt-be-here-wisconsin-bar-owner-in-icu-with-covid-19-blames-trump-for-out-of-control-pandemic.md",
-      "title": "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic",
-      "excerpt": "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/media/Oshkosh/2014/08/11/-030509schlitzbeeroblioanw01.jpg20090306.jpg?auto=webp&crop=3872,2178,x0,y207&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5952206002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952206002",
-      "publishedDateTime": "2020-10-10T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-in-georgia.md",
-      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?",
-      "excerpt": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T04:28:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-10-16-donald-trump-jr-and-special-guest-to-visit-volusia-saturday.md",
-      "title": "Donald Trump Jr. and 'special guest' to visit Volusia Saturday",
-      "excerpt": "Donald Trump Jr., son of the president, will headline a Trump campaign rally Saturday in Volusia County that's expected to attract thousands of supporters. The event also promises a \"special guest.\" The \"Fighting Against Socialism Bus Tour\" is expected to arrive at the 2A Ranch,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
-      "originalUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/10/NTFO/a30fece2-3b0c-4563-8054-f08340a39889-101020_Donald_Trump_Jr_11.jpg?auto=webp&crop=4511,2538,x0,y229&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.news-journalonline.com/amp/3668401001",
-      "cdnAmpWebUrl": "https://amp-news--journalonline-com.cdn.ampproject.org/c/s/amp.news-journalonline.com/amp/3668401001",
-      "publishedDateTime": "2020-10-15T20:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daytona Beach News-Journal",
-        "domain": "news-journalonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump.md",
       "title": "The Justice Department lets itself be used to bully critics of Donald and Melania Trump",
       "excerpt": "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms.",
@@ -778,6 +735,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-14-hes-just-so-angry-all-the-time-trump-hemorrhaging-support-among-suburban-women.md",
+      "title": "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women",
+      "excerpt": "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "originalUrl": "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T01:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
       "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
       "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
@@ -827,63 +841,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
-      "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
-      "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243288",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243288",
-      "publishedDateTime": "2020-10-13T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1458,7 +1415,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1552,6 +1509,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-what-trump-could-learn-from-the-fall-of-frances-own-fiery-law-and-order-president.md",
+      "title": "What Trump could learn from the fall of France's own fiery 'law and order' president",
+      "excerpt": "Americans are on the eve of a momentous political choice this November. But for a jump on how the story goes from here, consider what happened in France, where another \"back to normal\" candidate challenged a firebrand incumbent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930155625-01-sarkozy-hollande-debate-2012-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "publishedDateTime": "2020-10-12T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

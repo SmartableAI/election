@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Watch live: Biden holds campaign event in Pennsylvania"
+    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
+    publishedDateTime: 2020-10-10T20:46:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden appeals to sought-after Pennsylvania voters with 10 days to go"
     excerpt: "In an effort to win over the working-class voters in Pennsylvania who voted for Trump in 2016, Joe Biden assured the crowd on Saturday that he is going to protect Pennsylvania jobs, including fracking."
     publishedDateTime: 2020-10-25T02:49:00Z

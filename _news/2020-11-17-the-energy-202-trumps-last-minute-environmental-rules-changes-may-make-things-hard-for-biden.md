@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
 type: article
 quality: 128
-heat: 228
+heat: 248
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
+    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
+    publishedDateTime: 2020-11-17T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
     excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
     publishedDateTime: 2020-11-11T12:30:00Z
@@ -112,6 +126,6 @@ related:
         height: 960
         isCached: true
 
-secured: "YRqNGb2FYCdoC9Q4BsFLXcvS24UoDqz2gKFQODueOB3WZq0L96ctFhRRtv0eddSSQr758Ijl3sW0WozBq5TEP1ifLE+37OmGHa6hS1OfWWPw+46Ht5XPlzU5AxTDaB47QWB3vsRgoNxIgc+zF28n7hMVaHlxS6WdpimQAWorrW6nKYmtZYPJKBzxjE4e5rW1uIkdD/KzzHLwhAYBmd+WxWUzIZCAclCeh/Blxxy9zTxyKqRGryuYaM+SRTUaFUvKeeECixJ6IQhabJk1CLn3oQGqDGmMHXfmc9f/IWy+F0XFZw3kP1JjjWaoa/KoGCiobwGoV3b7uSwNnuyqzKGERnm504EU7oq39HPrF/MAZIk=;LaloTctfAjcNSeyjNAHcww=="
+secured: "uf7imeh5P/hFaUg237osbrEso+MmQTm+UaMVV4GDMxycxybYe1Zmy3vaConewPE6Xop3wHVY+lKLzjl/FuZZDjuImAHhQ4P/lcw8ukF0IAEZyWsUy5D/hY9cnvVncREetlcWW26EQCP6rEmImLWcxXF5jcTSfdr0w2Qpuh6SZx694jswcbPk7RCyHCI3pspyDqOO/crmZbUQACuNKykaUlMnJ5/rU5od20A5mIhOZV6j99fIT41Dr3xo4uhbAVF/33mK0VRxAUSQ+ULWL8oaurTdSt6dbEjlQwxWLxpTbbCcz4Z97STjQABIUouQTZwPcK11xOVYogPcf3rlLnAUClEpPMbW9+MUpeb6u/qSF6PUWw7aukG1zeaiISpGy6vFp8KzXAJJVQKNpD/2PtqPLkDDGzrtmh8IGAbSwYvFy2aPCWev6SMWJVdc1RTeTv6ObrcblZQEJBiod1C3/bJowjzerGMNsUAleleuj7ATEh+7P2pEXkFcfOgk8IbeazdEZAPOy8LH0Sz/1GJrEGeUBw==;Exny546Ar81x53m9K9jN0w=="
 ---
 

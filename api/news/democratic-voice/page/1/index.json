@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-17-rudy-giuliani-seeks-to-represent-trump-in-pennsylvania-election-case.md",
+      "title": "Rudy Giuliani seeks to represent Trump in Pennsylvania election case",
+      "excerpt": "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 490,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html",
+      "publishedDateTime": "2020-11-17T08:16:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-trump-counts-crowds-size-using-maga-math-says-stephen-colbert.md",
       "title": "Trump Counts Crowd’s Size Using ‘MAGA Math,’ Says Stephen Colbert",
       "excerpt": "Ten thousand, a million — it’s just how they count,” Colbert said of Saturday’s Million MAGA March. “You round up for marches, you round down for Covid deaths.”",
@@ -115,6 +171,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-new-york-times-trump-asked-advisers-about-possible-strike-on-iranian-nuclear-site.md",
+      "title": "New York Times: Trump asked advisers about possible strike on Iranian nuclear site",
+      "excerpt": "President Donald Trump last week asked senior aides what possibilities he had for an offensive strike on Iran's primary nuclear site, The New York Times reported Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DWHlTSLyJ34/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-possible-offensive-iran-nuclear-site/index.html",
+      "publishedDateTime": "2020-11-16T19:31:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-trump-aims-to-undermine-bidens-legitimacy-even-as-legal-challenges-fizzle.md",
       "title": "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle",
       "excerpt": "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n",
@@ -127,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 428,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -200,62 +312,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/james-lankford-biden-intelligence-briefing/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/james-lankford-biden-intelligence-briefing/index.html",
       "publishedDateTime": "2020-11-16T18:41:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-wisconsin-recount-would-cost-trump-campaign-79-million.md",
-      "title": "Wisconsin recount would cost Trump campaign $7.9 million",
-      "excerpt": "The Wisconsin Elections Commission said Monday that if President Donald Trump's campaign wants a recount of the razor-thin presidential race in the state, it will need to pay $7.9 million upfront.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTQcKuj9Swg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTQcKuj9Swg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109122421-ballot-counting-wisconsin-1103-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html",
-      "publishedDateTime": "2020-11-16T14:42:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -464,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -538,62 +594,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/15/politics/scott-atlas-coronavirus-michigan/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/scott-atlas-coronavirus-michigan/index.html",
       "publishedDateTime": "2020-11-15T19:50:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-new-york-times-rudy-giuliani-put-in-charge-of-trumps-election-lawsuits-after-series-of-losses.md",
-      "title": "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses",
-      "excerpt": "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html",
-      "publishedDateTime": "2020-11-14T08:04:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -801,7 +801,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1071,6 +1071,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-10-the-point-heres-the-real-reason-mitch-mcconnell-wont-say-trump-should-concede.md",
+      "title": "The Point: Here's the real reason Mitch McConnell won't say Trump should concede",
+      "excerpt": "Mitch McConnell doesn't think Donald Trump needs to concede the 2020 election -- even days after the race has been called for former Vice President Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QRJ5b_B0ujU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023120254-35d-mitch-mcconnell-play-button-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html",
+      "publishedDateTime": "2020-11-10T07:41:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-trump-jr-and-kimberly-guilfoyle-make-moves-to-expand-rnc-influence-and-possibly-takeover-sources-say.md",
       "title": "Trump Jr. and Kimberly Guilfoyle make moves to expand RNC influence and possibly takeover, sources say",
       "excerpt": "Donald Trump Jr. and Kimberly Guilfoyle are making moves to expand their influence at the Republican National Committee, three GOP sources, including advisers to the President tell CNN. Some sources say they may seek to take over the party structure themselves.\n    \n",
@@ -1212,62 +1268,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html",
       "publishedDateTime": "2020-11-10T03:03:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-mcconnell-trump-100-within-his-rights-to-look-into-allegations-of-irregularities.md",
-      "title": "McConnell: Trump '100% within his rights to look into allegations of irregularities'",
-      "excerpt": "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html",
-      "publishedDateTime": "2020-11-09T15:56:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

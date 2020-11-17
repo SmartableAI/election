@@ -200,22 +200,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
-    excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
-    publishedDateTime: 2020-10-06T16:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
     excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
     publishedDateTime: 2020-10-04T08:35:00Z
@@ -243,34 +227,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/96/d6/6e43418343498259c8990189ebb3/washington-covid-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Top Trump aide Stephen Miller tests positive for Covid"
-    excerpt: "Stephen Miller, a top aide to President Donald Trump, tested positive for Covid-19 on Tuesday, according to a person familiar with the matter. Miller, a senior adviser to the president with a wide-ranging portfolio in the White House,"
-    publishedDateTime: 2020-10-06T23:22:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/stephen-miller-covid-trump-426924"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/07/e6/9361edfb41e0bc1f840cef476cd7/ap20213465332561.jpg"
-        width: 5004
-        height: 3334
-        isCached: true
-  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
-    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
-    publishedDateTime: 2020-10-06T19:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
-    images:
-      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
         width: 1160
         height: 773
         isCached: true

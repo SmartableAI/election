@@ -397,6 +397,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden Names Senior White House Staff"
+    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-261059/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
     excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
     publishedDateTime: 2020-11-12T20:28:00Z

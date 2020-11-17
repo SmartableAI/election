@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
+      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
+      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
+      "publishedDateTime": "2020-11-03T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-says-us-is-most-difficult-country-to-deal-with-reflecting-on-battles-with-pelosi-schiff.md",
       "title": "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff",
       "excerpt": "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\"",
@@ -1288,58 +1331,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-donald-trump-threatens-to-fire-anthony-fauci-after-us-election.md",
-      "title": "Donald Trump threatens to fire Anthony Fauci after US election",
-      "excerpt": "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "originalUrl": "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 500,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election",
-      "publishedDateTime": "2020-11-01T22:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

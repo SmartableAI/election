@@ -2,6 +2,54 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
+      "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
+      "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
+      "originalUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-staff-win.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
+      "publishedDateTime": "2020-10-19T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
       "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
       "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
@@ -163,63 +211,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-sacha-baron-cohen-explains-how-he-crashed-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump",
-      "excerpt": "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html",
-      "publishedDateTime": "2020-10-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-revealed-birx-confronted-pence-with-demand-he-fire-trumps-dishonest-herd-immunity-doctor.md",
       "title": "REVEALED: Birx confronted Pence with demand he fire Trump’s ‘dishonest’ herd immunity doctor",
       "excerpt": "Delving into the battle inside the White House task force overseeing the government’s response to the coronavirus pandemic, the Washington Post is reporting that Dr. Deborah Birx has grown fed up with Dr.",
@@ -269,62 +260,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-birx-tells-friends-she-was-relieved-after-trump-adviser-scott-atlas-inaccurate-mask-tweet-was-removed.md",
-      "title": "Birx tells friends she was relieved after Trump adviser Scott Atlas' inaccurate mask tweet was removed",
-      "excerpt": "Members of the White House coronavirus task force are praising a move by Twitter removing a misleading tweet from top Trump adviser Dr. Scott Atlas that told Americans masks don't work.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pbqhKm0CKOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200717094414-01-dr-birx-profile-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html",
-      "publishedDateTime": "2020-10-19T07:23:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1297,6 +1232,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-whitmer-says-trump-inciting-domestic-terrorism-as-trump-campaign-adviser-dismisses-presidents-incendiary-rhetoric-as-having-fun-at-rallies.md",
+      "title": "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies",
+      "excerpt": "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
+      "publishedDateTime": "2020-10-18T08:02:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
+      "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
+      "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-12T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-kyle-rittenhouses-mother-slams-biden-over-white-supremacist-ad-hes-not-a-racist-he-is-my-son.md",
       "title": "Kyle Rittenhouse's mother slams Biden over 'White supremacist' ad: 'He's not a racist, he is my son'",
       "excerpt": "Joe Biden's presidential campaign \"used my son's image to get votes,\" the mother of a man who shot and killed two demonstrators in Kenosha, Wis. over the summer told \"Tucker Carlson Tonight\" Thursday. ",
@@ -822,7 +874,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 718,
+      "heat": 738,
       "tags": null,
       "images": [
         {
@@ -1276,62 +1328,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html",
       "publishedDateTime": "2020-11-11T18:05:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-biden-names-ron-klain-as-his-white-house-chief-of-staff.md",
-      "title": "Biden names Ron Klain as his White House chief of staff",
-      "excerpt": "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SlMmhpresEc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195626-ron-klain-200310-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/biden-chief-of-staff/index.html",
-      "publishedDateTime": "2020-11-11T17:36:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

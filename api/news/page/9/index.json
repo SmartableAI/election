@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-06-trump-jr-calls-out-2024-gop-hopefuls-for-total-lack-of-action-in-ballot-counting-fight.md",
+      "title": "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight",
+      "excerpt": "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
+      "publishedDateTime": "2020-11-06T07:44:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
       "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
       "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
@@ -1295,58 +1351,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-kamala-harris-on-being-told-its-not-your-time-in-her-career-i-eat-no-for-breakfast.md",
-      "title": "Kamala Harris on being told 'it's not your time' in her career: 'I eat 'no' for breakfast'",
-      "excerpt": "Democratic vice presidential nominee Kamala Harris opens up about her advice to women and how she overcomes naysayers in her career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106750965-1603132353868-gettyimages-1229170430-2911140600.jpeg?v=1603132387",
-          "width": 3071,
-          "height": 2065,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
-      "publishedDateTime": "2020-11-04T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

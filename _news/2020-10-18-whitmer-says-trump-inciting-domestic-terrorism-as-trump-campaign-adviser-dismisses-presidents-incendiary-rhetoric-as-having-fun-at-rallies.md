@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html"
 type: article
 quality: 139
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘He was having fun’: Lara Trump defends president’s attack on Whitmer"
-    excerpt: "Privacy Policy She also said the president’s attack on Whitmer “has nothing to do with” her attempted kidnapping. | Samuel Corum/ Lara Trump, a senior adviser to President Donald Trump’s reelection campaign,"
-    publishedDateTime: 2020-10-18T15:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/57/8a/fcf09f5549d5aab4dfae0eb155d5/20201018-laratrump-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Whitmer says Trump continues to encourage 'domestic terrorism' with rhetoric"
     excerpt: "Trump encouraged his supporters at a rally in the state who were chanting “lock her up” as an attack on Whitmer, the Democrat governor responded with a plea to l"
     publishedDateTime: 2020-10-18T16:59:00Z

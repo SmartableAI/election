@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
-    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
-    publishedDateTime: 2020-11-15T03:43:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
     excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
     publishedDateTime: 2020-11-16T18:18:21Z
@@ -92,22 +76,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why Trump's legal team is coming up short"
-    excerpt: "CNN's John Avlon fact-checks President Trump's lawsuits in key states that played a critical role determining the outcome of the 2020 US election.\n    \n"
-    publishedDateTime: 2020-11-17T13:27:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HYn9Z3pUYzY/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/trump-election-lawsuits-reality-check-avlon-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117081500-avlon-reality-check-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -142,22 +110,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200202165516-04-iowa-candidates-warren-biden-sanders-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Another shake-up on Trump campaign legal team"
-    excerpt: "The campaign has apparently tried to replace the entire team handling its federal lawsuit seeking to block certification of Pennsylvania’s election results."
-    publishedDateTime: 2020-11-17T02:17:00Z
-    webUrl: "https://www.politico.com/news/2020/11/16/trump-campaign-legal-shake-up-436924"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/16/trump-campaign-legal-shake-up-436924"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/15/bf/209cb7ae463b9edb8d0a91fc2be8/gettyimages-1227657113-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "For a preview of President Biden, look to his past."
     excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"

@@ -31,67 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle"
-    excerpt: "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n"
-    publishedDateTime: 2020-11-17T02:46:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AmtOYIf1x9A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
+  - title: "Rudy Giuliani seeks to represent Trump in Pennsylvania election case"
+    excerpt: "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n"
+    publishedDateTime: 2020-11-17T16:16:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2I59qmdeqlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 188
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114132847-02-stop-the-steal-protest-dc-1114-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
-    excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
-    publishedDateTime: 2020-11-16T18:18:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CbjXb-Up2Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/robert-obrien-biden-transition/index.html"
+  - title: "New York Times: Rudy Giuliani put in charge of Trump's election lawsuits after series of losses"
+    excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
+    publishedDateTime: 2020-11-14T16:04:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IM49YH4Ky00/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/14/politics/rudy-giuliani-trump-lawsuits-2020-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
-    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
-    publishedDateTime: 2020-11-13T18:36:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
+  - title: "The Pennsylvania women Trump has lost   "
+    excerpt: "They are all nervous.\n    \n"
+    publishedDateTime: 2020-10-12T23:53:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131858-pa-voters-4-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
-    excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
-    publishedDateTime: 2020-11-17T00:07:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DD3Hbq915g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+  - title: "Wisconsin recount would cost Trump campaign $7.9 million"
+    excerpt: "The Wisconsin Elections Commission said Monday that if President Donald Trump's campaign wants a recount of the razor-thin presidential race in the state, it will need to pay $7.9 million upfront.\n    \n"
+    publishedDateTime: 2020-11-16T22:42:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wTQcKuj9Swg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/wisconsin-recount-estimated-cost/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109122421-ballot-counting-wisconsin-1103-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,37 +111,133 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
-    excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
-    publishedDateTime: 2020-11-11T02:08:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qIPtWi85f1E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/bernie-sanaders-joe-biden-labor-department/index.html"
+  - title: "Trump needs this pivotal county and its rural voters to win Pennsylvania"
+    excerpt: "Women and men of all ages arrive well before opening. It is midmorning in the middle of the week, but a lengthy line of people patiently waiting forms outside a country home painted to look like an American flag, near a 14-foot Donald Trump cutout on the front lawn.\n    \n"
+    publishedDateTime: 2020-10-14T19:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D0PGgFo3BIY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014150337-02-trump-house-pennsylvania-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
+    excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
+    publishedDateTime: 2020-11-14T00:49:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k155O0Qypks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200722171810-bernie-sanders-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110092511-ballot-counting-pennsylvania-1104-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Progressives turned out for Joe Biden. Now they want a big role in his administration."
-    excerpt: "Joe Biden won't be sworn in for another 64 days, but the President-elect is already under pressure from activist groups to bring progressive leaders into his administration -- and close its doors to establishment figures with cozy relationships to Wall Street, defense contractors and the fossil fuel"
-    publishedDateTime: 2020-11-17T11:02:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ojIKpT3guqA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-transition-progressives-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-transition-progressives-pressure/index.html"
+  - title: "Federal judge in Pennsylvania denies Trump campaign voting policy challenges in major ruling"
+    excerpt: "A federal judge in Pennsylvania has denied the Trump campaign and Republican Party's bid to make ballot dropboxes in Pennsylvania unconstitutional, in a resounding defeat for the campaign's challenges to voting policy in a key battleground state.\n    \n"
+    publishedDateTime: 2020-10-10T20:50:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q5Bx9IbdEyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200202165516-04-iowa-candidates-warren-biden-sanders-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
+    excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
+    publishedDateTime: 2020-11-05T15:37:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FE56q_IDSxo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/05/politics/eric-rudy-pa-presser-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign stalls in Pennsylvania"
+    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
+    publishedDateTime: 2020-10-14T08:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Donald Trump has a problem: White women in Pennsylvania"
+    excerpt: "The 71-year-old resident of the battleground state of Pennsylvania, a registered Democrat, voted for Donald Trump. It wasn’t that she was unhappy with former President Barack Obama: She voted for him,"
+    publishedDateTime: 2020-10-19T20:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/82/a9/4165163c4bf894339ab3ce59e328/201019-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
+    excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."
+    publishedDateTime: 2020-11-08T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06pa-trump-voters1/06pa-trump-voters1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Law Firm Stops Representing Trump Campaign in Pennsylvania Suit"
+    excerpt: "Porter Wright said in a court filing that it would no longer represent the campaign in a federal lawsuit alleging widespread voter irregularities."
+    publishedDateTime: 2020-11-13T16:58:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Another shake-up on Trump campaign legal team"
     excerpt: "The campaign has apparently tried to replace the entire team handling its federal lawsuit seeking to block certification of Pennsylvania’s election results."
@@ -159,63 +255,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "For a preview of President Biden, look to his past."
-    excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
-    publishedDateTime: 2020-11-16T18:00:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/for-a-preview-of-president-biden-look-to-his-past.amp.html"
+  - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
+    excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
+    publishedDateTime: 2020-11-13T20:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 131
     images:
-      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15transition-briefing-biden-transition/13biden-govern1-sub-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13transition-briefing-campaign-lawyers/merlin_179792331_959fa2b2-a4e4-4ce5-8a9c-96f0e32c9c81-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden leads Trump by 5 points in Iowa poll"
-    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
-    publishedDateTime: 2020-10-07T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Even in Defeat, Trump Found New Voters Across the U.S."
-    excerpt: "Though turnout was explosive for both candidates, President Trump found 9.9 million new supporters across the country, allowing him to expand his base."
-    publishedDateTime: 2020-11-17T04:56:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/us/election-turnout-promo-1605565899442/election-turnout-promo-1605565899442-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
-    excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."
-    publishedDateTime: 2020-11-16T18:53:00Z
-    webUrl: "https://www.cnn.com/2020/11/15/asia/biden-china-policy-trump-us-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 111
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116084655-xi-jinping-joe-biden-2015-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "vpitnH36NB20PjWX5US5n4Am8faQ6lOA0kb051NXYMuCF7ipE27D+GzS75SWiX3Iwri3pRwXmEMGv6TLJE00lBRLC4jquGbEt1DyxOE0TjnIjiSXwHfaMtcIgl7U36MSZKQkm7cy5SiWdS/XzlaHh1kT/J2/PkIf2W/q8Invvpd7JqSABZu9Ax625TwU0pJrCoprInzZHmUh2iI2RzGAIuB7GnuvUB3aouPQq9DZri5a8o50bcNNJdoN3iFCIQtCV8UVXeKDdf6YWOay0QlFdEvqCsnAhvzolUGJskhy4IuHqVu93dwTgWjl4OwFGqUY/aPRktUm/5UuhKxVu4y8tkxQdCPliry3IqyRvzqtYpY=;8E2w8/MQd70mTc0RQ4eGZA=="

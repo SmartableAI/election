@@ -2,11 +2,11 @@
 category: news
 title: "Trump lawyers withdraw on eve of key hearing in Pennsylvania election case"
 excerpt: "Three more lawyers representing President Donald Trump's campaign have asked to withdraw from his lawsuit challenging the U.S. election results in Pennsylvania, shaking up his legal team on the eve of a major court hearing."
-publishedDateTime: 2020-11-17T08:18:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania/trump-lawyers-withdraw-on-eve-of-key-hearing-in-pennsylvania-election-case-idUKKBN27X04C"
-webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania/trump-lawyers-withdraw-on-eve-of-key-hearing-in-pennsylvania-election-case-idUKKBN27X04C"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27X04C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27X04C"
+publishedDateTime: 2020-11-17T15:14:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X04Q"
+webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27X04Q"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X04Q"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X04Q"
 type: article
 quality: 138
 heat: -1
@@ -3576,6 +3576,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eXkTn13p3v3fVb2G05WsikxKVelql8eLrp8GxeXVUfyc8gXyp8QG9fP0qtrOp8w1iz+soy/RQonZicg9bgT5XdfYYUGAlSrdMwm0JWqb8mHt3g8+9uxhCGmzs6HS2IeEMjPluS0R8TI+ftNCDRsfXdjQOKCDZLwOsiIi2hXC2gbKUT5gZBCt9oW/OZABjulGHn16/ZeWwUVBgZZTNN/sJoGxmzeBRoVuqLYJd+nJ1Uf+udwR2JppB15c7fDP/V4LSIJgQ7F92HDMiCZrHycCX877FIO6aQtNjMXH6qVX20Q84Z+YxkPJUwg6sUhH4eAqYpton2qR0lf26I0S3pO+yqSBAE10zrwdP5aipb/gI64=;uhQNnOfhzaZ6AS1wuGxmwA=="
+secured: "1U47d77TQIak4HRkRVGqK+cFfgZM4wTrsmuqb+W6GztFujYD20Wk4maD0vGkAD88/Sew97vwZwz7vJjneJXSlQ35Ua8Fx99XouveqdQXjneJ10CZJCPWuJhfCpo7xkOMMy5cSVpP6wrjWG6teEnJLGlvUuJKLeZBG2kJsGSQyChIkopBDTI4UMwcOq+Cb/SgmN/HrPjF1YGnp9BoG4krMGX+lKlFYM9jITCc3LNCuqq9G7sk32bCpE7Mp5L9WacKZ2A4NHSarOK+GMfl2sjCmUcr8M6s43brtsObSfzliu2vDJ9aUNoXpqcF6TSfTBARnRz+lCFr1hID7GI6IcXd+Uci9jNkoT7EXhajtAluHYo=;iHYhEIbd7FeozhCEf8LqRw=="
 ---
 

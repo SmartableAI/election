@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
 type: article
 quality: 149
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
-    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
-    publishedDateTime: 2020-10-10T04:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
-        width: 2500
-        height: 1724
         isCached: true
 
 secured: "G+Z2G4YaZf0zujR2CFIA2C/81YTtLSmbnBOTw+uJRcUUg49dCDB1Rm08fzccM2xYyTdCEyklOabXiPmJ6ikcDjtI2eSi62sCFbdRBTJzsDnECRbeynVQCbJ2TTOj/0Ld6c9iDnap/kNTq8TVwhPEsmfw1pZQ59j6iOzndTDyXJGuvjWCSrUKyCDIkVU6hi/QZt07pR1leEFiBfhZzusjSeswsWBKKzUDERH6e45YsDhr/ZrXStttAShMezbyxnm7ITPFUN4g4P93UieKIssXlM022I8R65ULiwMcGXN6tF874oCNQJ00aXrxOY7GYe3Zvxy7BMU6igcbCyW8VAvmdIS3vii0IiSjTc/Xo1Zcwn422KiYh6VlwGJdIC+nC7cXRHrLY0ce/heSmuD/vp8Wfe5Sp9yomKepBeFXTMPeHh+Tul1LgTlBw2N45CoU168JBKmUHSG0MadXVvR4/VfO32ZLNa33LqncEQ4AFKHN1of1yFUoD3jluKOicns8qq6Mlx3/EuxieaeFZD3XHa2q6A==;85e2GBcez3RXvpVlDadmbQ=="

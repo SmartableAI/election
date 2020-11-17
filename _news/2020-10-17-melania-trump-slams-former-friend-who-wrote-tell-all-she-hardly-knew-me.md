@@ -32,67 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "The Pennsylvania women Trump has lost   "
-    excerpt: "They are all nervous.\n    \n"
-    publishedDateTime: 2020-10-12T23:53:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
+  - title: "Inside Melania Trump's unprecedented campaign trail absence"
+    excerpt: "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n"
+    publishedDateTime: 2020-10-21T19:31:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131858-pa-voters-4-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Blitzer presses Pelosi on why she hasn't taken Trump stimulus deal"
-    excerpt: "CNN's Wolf Blitzer speaks with House Speaker Nancy Pelosi about why she has not accepted President Donald Trump's roughly $1.8 trillion stimulus offer.\n    \n"
-    publishedDateTime: 2020-10-13T22:21:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7gtWDfc3w/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
+  - title: "Has Trump delivered on any of his 2016 campaign promises?"
+    excerpt: "As President Trump's first term nears its end, CNN's Tom Foreman takes a closer look at which 2016 campaign promises he has delivered on.\n    \n"
+    publishedDateTime: 2020-10-28T00:27:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QQHJGQbIAxg/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/28/trump-campaign-promises-tom-foreman-ebof-pkg-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013175114-wolf-blitzer-nancy-pelosi-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027192717-01b-trump-lansing-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump to make first campaign appearance in months"
-    excerpt: "First lady Melania Trump will join President Donald Trump at his Erie, Pennsylvania, rally on Tuesday evening, according to a White House official. It will be the first lady's first in-person appearance at a campaign event, outside of August's Republican National Convention speech at the White House,"
-    publishedDateTime: 2020-10-19T16:29:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5CTRVHYo9ZQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+  - title: "Trump campaign website briefly defaced in cyber attack "
+    excerpt: "President Donald Trump's campaign website was defaced for a brief period on Tuesday in a hack.\n    \n"
+    publishedDateTime: 2020-10-28T01:22:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/af7mC1P5Ojo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-campaign-website-cyber-attack/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727212235-melania-trump-rose-garden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's doctor says the President has tested negative on consecutive days"
-    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
-    publishedDateTime: 2020-10-12T23:39:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027191547-trump-1027-west-salem-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,83 +96,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump needs this pivotal county and its rural voters to win Pennsylvania"
-    excerpt: "Women and men of all ages arrive well before opening. It is midmorning in the middle of the week, but a lengthy line of people patiently waiting forms outside a country home painted to look like an American flag, near a 14-foot Donald Trump cutout on the front lawn.\n    \n"
-    publishedDateTime: 2020-10-14T19:29:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D0PGgFo3BIY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+  - title: "Melania Trump posts video that misleads on the President's LGBTQ policies"
+    excerpt: "Melania Trump tweeted a video of herself posted Thursday discussing for three minutes the efforts the Trump administration has made to support the rights of the gay community, blaming sentiments that President Donald Trump opposes gay rights on his \"many enemies in the political establishment.\"\n    \n"
+    publishedDateTime: 2020-10-30T21:05:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQ_C9U67JIs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/melania-trump-lgbtq-donald-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014150337-02-trump-house-pennsylvania-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028111126-01-melania-trump-campaign-rally-pa-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's final campaign pitch is a false warning of 'cheating' in Pennsylvania"
-    excerpt: "President Donald Trump closed out his bid for a second term with a false warning that \"cheating\" in the key state of Pennsylvania could lead to violence in the streets. It was his latest attempt to tarnish the integrity of an election clash with Democrat Joe Biden that nearly 100 million Americans have"
-    publishedDateTime: 2020-11-03T09:33:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Z-3KwMz-ew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/donald-trump-joe-biden-us-election-analysis/index.html"
+  - title: "Melania Trump misleads on Trump's health care record in joint campaign stop"
+    excerpt: "First lady Melania Trump pitched President Donald Trump as a tireless warrior for health care at a rally on Thursday, claiming that health care for every citizen is his priority, even though his administration has worked to dismantle the Affordable Care Act since he took office.\n    \n"
+    publishedDateTime: 2020-10-29T23:00:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B2IrQi-doa4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/melania-trump-affordable-care-act-record/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/melania-trump-affordable-care-act-record/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102234405-donald-trump-1031-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029155017-02-trumps-tampa-1029-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Stimulus impasse continues as a year goes by since Pelosi and Trump last spoke"
-    excerpt: "House Speaker Nancy Pelosi and President Donald Trump last spoke by phone one year ago Friday.\n    \n"
-    publishedDateTime: 2020-10-16T20:48:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJ3ZfcQhB38/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
+  - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
+    excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
+    publishedDateTime: 2020-10-16T15:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MFLVF8aOKt8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002001026-melania-trump-file-september-14-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
-    excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
-    publishedDateTime: 2020-11-14T00:49:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k155O0Qypks/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/pennsylvania-absentee-ballots-trump-campaign/index.html"
+  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
+    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
+    publishedDateTime: 2020-10-14T21:39:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110092511-ballot-counting-pennsylvania-1104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
-    excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
-    publishedDateTime: 2020-10-13T22:56:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKnx-i26VuI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003190039-16-trump-covid-circle-melania-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,228 +176,118 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
-    excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
-    publishedDateTime: 2020-10-11T13:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
+  - title: "Senior administration officials on the road to sell Trump's 'law-and-order' campaign message"
+    excerpt: "In the run up to the presidential election, Attorney General William Barr and acting Homeland Security Secretary Chad Wolf have been traveling around the country to underscore the administration's accomplishments, particularly as they relate to President Donald Trump's core \"law-and-order\" message.\n"
+    publishedDateTime: 2020-10-22T21:59:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z2_mSL9YPI4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/wolf-barr-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/wolf-barr-trump-campaign/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pa-trump1/09pa-trump1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901151932-105-trump-kenosha-0901-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Watch live: Biden holds campaign event in Pennsylvania"
-    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
-    publishedDateTime: 2020-10-10T20:46:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
+  - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
+    publishedDateTime: 2020-10-14T17:16:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlqUqf8tZW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump talks Covid-19 diagnosis in first solo 2020 campaign event"
+    excerpt: "The first lady thanked well-wishers for their \"love and support\" after her Covid-19 diagnosis and warned Joe Biden's policies would \"destroy America\""
+    publishedDateTime: 2020-10-27T20:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/melania-trump-talks-covid-19-diagnosis-first-solo-2020-campaign-n1244977"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244977"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244977"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump campaign stalls in Pennsylvania"
-    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
-    publishedDateTime: 2020-10-14T08:35:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Michael Cohen writing book about DOJ and Trump world"
-    excerpt: "It is fair and accurate to state that President Trump has weaponized the Department of Justice,” the president’s former attorney said in an interview."
-    publishedDateTime: 2020-10-14T23:13:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/9a/c7/dd3e9a91484dbaaee6008ab2b907/gettyimages-1147335350-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The Candidates: Donald Trump’s Promises"
-    excerpt: "In the first of a two-part series exploring the policies of the presidential candidates, we look at whether Mr. Trump has made good on his commitments from 2016."
-    publishedDateTime: 2020-10-15T10:20:00Z
-    webUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Donald Trump has a problem: White women in Pennsylvania"
-    excerpt: "The 71-year-old resident of the battleground state of Pennsylvania, a registered Democrat, voted for Donald Trump. It wasn’t that she was unhappy with former President Barack Obama: She voted for him,"
-    publishedDateTime: 2020-10-19T20:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/82/a9/4165163c4bf894339ab3ce59e328/201019-trump-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "In Pennsylvania, Trump Voter Fury Foretells a Nation Still Divided"
-    excerpt: "President Trump has presented no hard evidence of voter fraud, but his charges have riled supporters in Pennsylvania who now insist the election has been stolen."
-    publishedDateTime: 2020-11-08T10:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/pennsylvania-trump-voters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/06/us/politics/06pa-trump-voters1/06pa-trump-voters1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Law Firm Stops Representing Trump Campaign in Pennsylvania Suit"
-    excerpt: "Porter Wright said in a court filing that it would no longer represent the campaign in a federal lawsuit alleging widespread voter irregularities."
-    publishedDateTime: 2020-11-13T16:58:00Z
-    webUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Donald Trump Is Losing His Touch. So Is the TV Producer Who Shaped His Image."
-    excerpt: "Mark Burnett helped turn Donald Trump into a national figure with “The Apprentice.” But since 2016, his impact “has kind of gone bust.”"
-    publishedDateTime: 2020-10-19T00:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/19/business/18JPBenSmith-print/18BenSmith-01-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
-    excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."
-    publishedDateTime: 2020-11-13T20:16:00Z
-    webUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/us/a-law-firm-has-stopped-representing-the-trump-campaign-in-a-pennsylvania-suit.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13transition-briefing-campaign-lawyers/merlin_179792331_959fa2b2-a4e4-4ce5-8a9c-96f0e32c9c81-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
-    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
-    publishedDateTime: 2020-10-14T18:11:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_44/3423430/201027-melania-trump-se-417p_85214a58292a4daabcea6a6df9a19003.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
-    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
-    publishedDateTime: 2020-10-09T11:26:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
+  - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
+    excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."
+    publishedDateTime: 2020-10-23T16:59:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
-    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
-    publishedDateTime: 2020-10-14T08:43:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
-    type: article
-    provider:
-      name: Politico
+      name: YAHOO!
       domain: politico.com
-    quality: 109
+    quality: 128
     images:
-      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
+      - url: "https://static.politico.com/94/b2/7e105d334425912d7ec299f03499/ap18205813712792-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump Wants to Win. Why Does He Act Like He Wants to Lose?"
-    excerpt: "Trump thinks he doesn't need any advice. And hey, he won when everyone (even he) thought he'd lose. But it looks like his famous gut (instinct) may be catching up with him."
-    publishedDateTime: 2020-10-17T04:12:00Z
-    webUrl: "https://www.thedailybeast.com/trump-wants-to-win-why-does-he-act-like-he-wants-to-lose"
+  - title: "Donald Trump is doing the *exact* opposite of what he should in the last days of 2020 campaign"
+    excerpt: "(CNN)President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. Fresh off battling Covid-19 -- and a multi-day ..."
+    publishedDateTime: 2020-10-14T19:12:00Z
+    webUrl: "https://www.cnn.com/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 123
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
+    excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
+    publishedDateTime: 2020-10-20T09:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-campaign-s-2020-shot-shot-remake-2016-flopping-hard-ncna1243955"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421330/201019-trump-campaign-rally-cs-413p_39a8ae7346ff9df90a548d4d6702e2f0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
+    excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
+    publishedDateTime: 2020-10-23T03:36:00Z
+    webUrl: "https://www.thedailybeast.com/trump-tripped-up-by-his-fox-news-brain-at-the-second-presidential-debate"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "‘SNL’ Mocks Its Own Network’s Wild Trump Town Hall"
-    excerpt: "NBC stirred plenty of controversy this week by granting Donald Trump his own town hall in the same time slot as Joe Biden’s broadcast—but the decision seems even more cynical than some critics alleged when you realize how much Saturday Night Live maestro Lorne Michaels and his merry band of comedians must have been drooling at the prospect."
-    publishedDateTime: 2020-10-18T04:43:00Z
-    webUrl: "https://www.thedailybeast.com/snl-mocks-its-own-networks-wild-trump-town-hall"
+  - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
+    excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
+    publishedDateTime: 2020-10-20T08:42:00Z
+    webUrl: "https://www.thedailybeast.com/trump-said-hed-ban-foreign-lobbyist-fundraising-now-theyre-bankrolling-his-campaign"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
+    quality: 37
 
 secured: "K6WEyvWsB8UGzUgmz/ZMkQxA2HyblC7RoNzTZYUijkrdPPRh8bgrHpN+Gh4QKGv1US58O8kTGm+cZse0Y5im1bJFbqsIzKki92uKF0OtWiFalI3GNj83z6/nIfF29KvzXq8OsXlv4cnb9AQ0FtJpxaER+gUVOAirdfCPgxfa1sdFoALR9TR2r5VusCJOQa6qUMpF0R53ZeIScQbrwQ8QSH+JTDcJ9etU8tvSiKlv0GC281eUml5pTm74BpKQ6MoSBiVuIPO8iUTnBeNb2NDG3rBfQ5zVUe7Y5Cp5lCg7wr8URxuHRSUO3XaBLDEdSvmT98gvvsOtAbMdgZQkUhuFfFrnxQV1tX4Wo140OtPBuFk=;aUA6zFIri4QfIrwLFUgO3g=="
 ---

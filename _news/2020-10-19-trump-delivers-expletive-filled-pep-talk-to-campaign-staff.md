@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump to make first campaign appearance in months"
+    excerpt: "First lady Melania Trump will join President Donald Trump at his Erie, Pennsylvania, rally on Tuesday evening, according to a White House official. It will be the first lady's first in-person appearance at a campaign event, outside of August's Republican National Convention speech at the White House,"
+    publishedDateTime: 2020-10-19T16:29:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5CTRVHYo9ZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727212235-melania-trump-rose-garden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces plans to remove Sudan from state sponsors of terrorism list"
     excerpt: "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n"
     publishedDateTime: 2020-10-19T20:42:14Z
@@ -208,6 +224,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Michael Cohen writing book about DOJ and Trump world"
+    excerpt: "It is fair and accurate to state that President Trump has weaponized the Department of Justice,” the president’s former attorney said in an interview."
+    publishedDateTime: 2020-10-14T23:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9a/c7/dd3e9a91484dbaaee6008ab2b907/gettyimages-1147335350-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Candidates: Donald Trump’s Promises"
+    excerpt: "In the first of a two-part series exploring the policies of the presidential candidates, we look at whether Mr. Trump has made good on his commitments from 2016."
+    publishedDateTime: 2020-10-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump apparently fooled by satirical website's Twitter story"
     excerpt: "President Donald Trump on Friday shared a story from a known news satire website seemingly in earnest, using the fake report to blast Twitter’s handling of dubious allegations against Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-10-16T11:21:00Z
@@ -239,38 +287,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump campaign protests topics of final presidential debate"
-    excerpt: "A letter from manager Bill Stepien insists the event focus on foreign policy, claiming the campaigns agreed on the topics months ago."
-    publishedDateTime: 2020-10-19T20:31:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/3f/c2/9d577aa04e27942762efedc491ea/20201019-trump-biden-debate-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump taps 2016 brain trust to stage another stunner in 2020"
-    excerpt: "Corey Lewandowski, David Bossie and many others from Trump's first run have resurfaced to offer advice and reassurance to the trailing incumbent."
-    publishedDateTime: 2020-10-20T00:18:00Z
-    webUrl: "https://www.politico.com/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg"
-        width: 4834
-        height: 3221
         isCached: true
   - title: "Trump Records Shed New Light on Chinese Business Pursuits"
     excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
@@ -382,6 +398,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump’s Taxes Show He Engineered a Sudden Windfall in 2016"
+    excerpt: "Over $21 million in highly unusual payments from the Las Vegas hotel Donald Trump owns with Phil Ruffin were routed through other Trump companies, then directed to Mr. Trump. Tax records expose ..."
+    publishedDateTime: 2020-10-09T11:26:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/09/us/donald-trump-taxes-las-vegas.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/donald-trump-taxes-las-vegas-1602094433672/donald-trump-taxes-las-vegas-1602094433672-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's conspiracy theorizing reaches unsettling new depths"
     excerpt: "To know anything about Donald Trump is to recognize his preoccupation with conspiracy theories. In fact, the Republican relied on a racist conspiracy theory as part of his rise to political prominence,"
     publishedDateTime: 2020-10-14T15:52:00Z
@@ -442,10 +472,10 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "Trump Finally Slaps Google, and Protects Democracy"
-    excerpt: "His motives may not be pure and his timing is suspect, but applaud the president for trying to cut one of our monopolistic and anti-democratic tech giants down to size."
-    publishedDateTime: 2020-10-20T21:02:00Z
-    webUrl: "https://www.thedailybeast.com/trump-finally-slaps-google-with-anti-trust-suit-and-protects-democracy"
+  - title: "‘SNL’ Mocks Its Own Network’s Wild Trump Town Hall"
+    excerpt: "NBC stirred plenty of controversy this week by granting Donald Trump his own town hall in the same time slot as Joe Biden’s broadcast—but the decision seems even more cynical than some critics alleged when you realize how much Saturday Night Live maestro Lorne Michaels and his merry band of comedians must have been drooling at the prospect."
+    publishedDateTime: 2020-10-18T04:43:00Z
+    webUrl: "https://www.thedailybeast.com/snl-mocks-its-own-networks-wild-trump-town-hall"
     type: article
     provider:
       name: The Daily Beast

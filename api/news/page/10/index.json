@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-05-kamala-harris-on-being-told-its-not-your-time-in-her-career-i-eat-no-for-breakfast.md",
+      "title": "Kamala Harris on being told 'it's not your time' in her career: 'I eat 'no' for breakfast'",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris opens up about her advice to women and how she overcomes naysayers in her career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106750965-1603132353868-gettyimages-1229170430-2911140600.jpeg?v=1603132387",
+          "width": 3071,
+          "height": 2065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "publishedDateTime": "2020-11-04T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-twitter-flags-trump-tweets-complaining-of-ballot-dumps.md",
       "title": "Twitter flags Trump tweets complaining of 'ballot dumps'",
       "excerpt": "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter.",
@@ -1284,49 +1336,6 @@
       "provider": {
         "name": "The Christian Post",
         "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
-      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
-      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "publishedDateTime": "2020-11-03T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBR",
-        "domain": "cbr.com",
         "images": null,
         "publishers": null,
         "authors": null

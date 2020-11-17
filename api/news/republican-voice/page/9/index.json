@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-15-biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.md",
+      "title": "Biden once again shatters fundraising record with eyepopping $383 million haul last month",
+      "excerpt": "Joe Biden shattered the monthly record for fundraising during a presidential campaign when he hauled in a massive $364.5 million in August.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
+      "publishedDateTime": "2020-10-14T19:43:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-governor-cuomo-claims-trump-convinced-american-their-loved-ones-died-due-to-nursing-home-policy.md",
       "title": "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy",
       "excerpt": "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths",
@@ -1620,63 +1676,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
-      "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
-      "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4EdopySh4k/china-censorship-debate-pence-communist-party-state-dept",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77268e3d-4d5b-4ef5-b09f-a292d7986a5f/2e16936f-4f00-4966-b51e-78b1e333d164/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T11:50:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],
