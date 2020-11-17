@@ -2,9 +2,9 @@
 category: news
 title: "Full Replay: Joe Biden And Kamala Harris Press Conference, Remarks On The Economy"
 excerpt: "President-elect Joe Biden outlined his plan for building the American economy \"back better\" during a speech Monday in Delaware. \"It's time to reward work, not just wealth in America. We're going to have a fair tax structure that makes sure the wealthiest among us and corporations pay their fair share,"
-publishedDateTime: 2020-11-16T21:27:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html"
+publishedDateTime: 2020-11-17T08:13:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/11/16/watch_live_biden_press_conference_remarks_on_the_economy.html#!"
 type: article
 quality: 75
 heat: -1
@@ -435,6 +435,6 @@ related:
         height: 562
         isCached: true
 
-secured: "ZYfvlJwP8n7m9L9uHC6t5mIujNmlYkea2B6E32ZZqj0IAZpbaiYoXhcDSp9fxFG7JOXK6aqxnmH252jNSV4ZlI2llcNCB4Oug517HXxUy1hyAJEK2VorcPMJhHgUZHMSo0GMVjhg6Y1/xC7jGKTawuLbna1AraAakvk6MdmFyacI3y//q5fyvDN5k553d06Fwctl16WliB40q028UkVXqXtAjlr0cAUW8JjZUtbwDDgNIiJlR3nj0S4e2aHnNilHe07rpJ7vqsKEotWc+sj9CkHcQt/JxiEQ5MP7qaFG91CuW6fV8Fi3cTln3tbSeJBxShpBfiOSt+CYBXv2tbJ84ec0af9/WyCffd7fl/zkKPd0g+ZEhIUL1zbWGpiBQHDJHwqP1+fClasAJorAuk0bt0p8vn0/Ddg9jW76B8bgSwyzaLhZpOf8mB49mGeHsT+c8VQ4yx/708Nctmkhm3/y7AnWCDH1rreyKMb/4tuDOT8+O+RNlDeAxSDcvnBm3BlsLkc8R6X0isp7wXwo/5tVZw==;up31z8fLuA/Fg9eKJyUHuA=="
+secured: "UDFLFxVeSWww8eymLvkN5ZSbEONxwWzIJtum8NdU2Iaipvvein8QgvJ+GkhIrO+9YntRnz25xoxqSJ/rpGBJscPuGZKapaIRDsKuUySMfCXFGd3zu7VgYZZ+RLh/il/9lXwahBkBoSzzTQy7HGmKVhN0RepxOobKftBLG9r1w2ldjqIlOkCi7nwgMbJ+Hf4TfZZo0rK/GJfE7APp+Cs0DdRLu7kf63UReez9zwmpRUexlsQzBfK5HfVB2S6SrcrmSdg7VaxJNl0+jbyrF8IqrDRDT1zpsqPZ9dBE+JtyTYVcQb5TCQdMCyJViG40TcQDPqa0Lb4O3SJJWPY/76WkjT7SZvMADYHdKCHVQmPq9tE=;iutVnQSN4L1vSNBGFei2Kw=="
 ---
 

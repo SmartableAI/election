@@ -9297,14 +9297,14 @@ related:
   - title: "Joe Biden works on transition to White House"
     excerpt: "Watch \"President-elect Joe Biden works on transition to White House while President Donal Trump has still not conceded\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-14T18:06:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201115091524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
+    webUrl: "https://www.cbsnews.com/live/video/20201115121524-president-elect-joe-biden-works-on-transition-to-white-house-while-president-donal-trump-has-still-not-conceded/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07700383_1605431944.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/15/story_07701138_1605442744.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -11196,6 +11196,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4Y1+vhpQ+LLPUeUtVm6YBByeHXJQTIMmcYH+8W8xqz3N799pK5oI+MAPasfz2l2g9ohDLEuhkbVEMt0Vgx1aC9tlwB65tU+hVssPnVbnKsw9IE3gXb1+EftM/nDyLfoZyooy9TiLEH/mDO1M4qt7WW2PjWewH9EEquUJrodklvo9DiW6oLXNS7fgWwTLNv6QUvVhcy0KDZ2TIjOZmbPAiHVkheQBHpRMWqLgRcrNWYNqL3/XAr0jleSCxzp+HSnxyZU45qNqmRxJcCxtk279rExk75saZWgUr0HxDuG/6myGfGz7CnC7ldEiyY54+Cxn9MJLaDor/1YI1Em0r2J0qHciQno9UUHrsJHcsyoxgag=;qmJGQBZhAHTsaKX8c2Fqtw=="
+secured: "bGoR3wewnXu83pTeWoGkTua4PrtT8LFOo6BwA2Z1Nn7V/hbyILxTVac+Zb8Yhr3mTBCbmQNzS4UwYugZ4fX3lJQXno+fsUSHznhJNK+Z5wa8zZlZMTqSWeJCYF6Kz/W3S7mTG9jBhoO2iV0AmcBkCdfQjj281hzSCqLHsIMCcWzdNTlWerMBFAL8o1JxRbkJC6Rj2Ncj/lc1ncgMfqV7QNSbscUzaIn2tE8IGKLOeAF9zoBz6EUfgd79ola6g+b3TjCQ6yeiytmD1njFwqovte1lc5r5oS0m4RIjcW112IvMikIKtPJaEvYasgZfwC6iSON5NNXu0delVriskIt8g8PU6+3IMiXCsMuIl5rgpYVX/FsFYc9nJkJr/80hzJgi14vvCjMK4vhSEGaMloro/DVBbahFe98dlHYLoADL76mHznaq0D3ADGxbvMAFDzA6hUQyER/t5IJhnB5A3aBHnEYdrBEHDTJ67t6EaSJoM6xgIspWLg4tBpFw6ssdAl14YWa01nUtifgB3Xbw8ZKjgw==;9m/i+RSS+YicaMHtfy/iiw=="
 ---
 
