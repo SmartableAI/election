@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-10-30-pence-highlights-economic-recovery-report-at-nevada-rally.md",
+      "title": "Pence highlights economic recovery report at Nevada rally",
+      "excerpt": "RENO, Nev. (AP) — Vice President Mike Pence urged early in-person voting and highlighted reports of a partial economic recovery during a rally Thursday in Reno, hoping to drum up enthusiasm in Nevada in the final days before the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/news/article/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "originalUrl": "https://www.sfchronicle.com/news/article/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/77/65/20184389/5/375x250.jpg",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-returns-to-Nevada-for-rally-in-final-15685969.php",
+      "publishedDateTime": "2020-10-30T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-facebook-admits-it-improperly-blocked-some-political-ads-due-to-technical-issues-as-joe-bidens-campaign-slams-it-for-being-wholly-unprepared.md",
       "title": "Facebook admits it 'improperly' blocked some political ads due to 'technical issues' as Joe Biden's campaign slams it for being 'wholly unprepared'",
       "excerpt": "Facebook said no ads were blocked \"because of any partisan consideration,\" as Biden's camp accused the company of offering \"no clarity\" on the issue.",
@@ -1285,49 +1328,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-mike-pence-holds-rally-at-des-moines-airport-as-election-day-approaches.md",
-      "title": "Mike Pence holds rally at Des Moines airport, as Election Day approaches",
-      "excerpt": "Five days before Election Day and with early voting in Iowa well underway, Vice President Mike Pence will hold a rally Thursday at the Des Moines International Airport. Doors open for the \"Make America Great Again\" rally at 11:30 a.m. The event is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
-      "originalUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/01/PDEM/6ffe1074-25ef-434b-a18c-db8b494b26ec-Pence1.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/6062552002",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002",
-      "publishedDateTime": "2020-10-29T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-29-mike-pence-holds-rally-at-des-moines-airport-as-election-day-approaches.md",
+      "title": "Mike Pence holds rally at Des Moines airport, as Election Day approaches",
+      "excerpt": "Five days before Election Day and with early voting in Iowa well underway, Vice President Mike Pence will hold a rally Thursday at the Des Moines International Airport. Doors open for the \"Make America Great Again\" rally at 11:30 a.m. The event is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/01/PDEM/6ffe1074-25ef-434b-a18c-db8b494b26ec-Pence1.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/6062552002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002",
+      "publishedDateTime": "2020-10-29T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-ari-fleischer-why-my-2020-choice-for-president-will-be-donald-trump.md",
       "title": "Ari Fleischer: Why my 2020 choice for president will be Donald Trump",
       "excerpt": "In many ways, I find President Trump over-the-top and offensive, and have said so on-the-air and on Twitter. He can be too hot to handle, insulting people and too often making himself the issue, diverting attention from more important policy matters.",
@@ -1315,58 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
-      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
-      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "publishedDateTime": "2020-10-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

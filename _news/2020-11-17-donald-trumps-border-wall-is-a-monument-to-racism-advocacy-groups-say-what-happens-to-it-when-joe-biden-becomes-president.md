@@ -2447,6 +2447,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Ohio Republican governor tweaked by Trump, praised by Biden"
+    excerpt: "Ohio Republican Gov. Mike DeWine has found himself on the receiving end of criticism by President Donald Trump and praise by President-Elect Joe Biden"
+    publishedDateTime: 2020-11-16T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Latest: Biden cites need for Trump to share virus plans"
     excerpt: "President-elect Joe Biden says the outgoing Trump administration’s failure to share specific plans on combating the coronavirus pandemic is stymying American businesses’ abilities to find ways to grow"
     publishedDateTime: 2020-11-16T20:40:00Z
@@ -11132,6 +11148,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "006fapiNJ2ZH4hv9n9pejrzi+B0yKrKtg2ojcWZ+O426ZmiTh7cijHS6GgbhANG+OqLyOI/3GIjXAQsTbHghKtK86KyhCojZFNLAT02mj3NhZWlqy6mfVfStGpdROvY6sjdHfw2HlmccTD7ZRUQtFV4LLUNU1t8MvryQenL6zH47sAQPLrP4RqgGGeWRZ3kvSs26wrekuktCLWu1zmV28nXO01tqeFs2dusJaG0XVDnM822cZlDye7BqfBhtedfogIc6VhzBuqH5OPB1+1TGxFCIfLp7eE05uK201AES5WWkS04sUj8FDXoJOpMbIQ0Smu6UM9+n/ycwkLV18xMkL0+bEe1vlO0lIIw8CuDL7f0=;gRdq0ngsynm7JzbGNltLXw=="
+secured: "QCONkvs/4iEfiL19PdZnlVyICS1zc7THWxuNHUhh/yb6VY6csvE0/qZIV9RQBAtCuQOEqLdKi4zUnWJNNgIQriZla16bGo4HswBgnj7tvpbZd7/L2oaApn1UJqw9zYKpIg1FwR7VyrdaptaqnZkkCKxjt3lVqcaJv/mIAPrQ5q7NLfVUpEFeYZdd7tga02VSnshsSj0sDx9jBscTV0+q8FLwscJ8xkol9S868FzKiXgNgHdbmDYOXCfDtCwHYEI9tiSzSFBo9eJoiow2vfFMjHmm4dB2A+Bur/CnE0Do96qvPPXsO9w0sNewxD/BtbpHcSolSRe8o8aCRmVv2ml2cuHlWiRxY2H6eHPEW+tfaav/hqJ7XBTlYR0e+uPlAV1SLQGDwQa3bANGvE4NIvSeIfQ0/XfTSkTSMP27kq3/CeZHES7xX8d121/ldoylLw0kvJzeghQO7V6AgIs1pSpdPFSYVLoMkBWGA1nQv4wT2zv2BEi/yQE0/FEZ0GIxika64woyZb/uAv8vsQ8gPvZLVQ==;FYYqt9FZ2jw8EcabTa9gzg=="
 ---
 

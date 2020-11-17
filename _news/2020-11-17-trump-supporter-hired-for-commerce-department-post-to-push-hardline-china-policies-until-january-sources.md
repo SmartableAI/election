@@ -2,11 +2,11 @@
 category: news
 title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
 excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
-publishedDateTime: 2020-11-16T20:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
-webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
+publishedDateTime: 2020-11-17T04:41:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUKKBN27W2P7"
+webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUKKBN27W2P7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27W2P7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27W2P7"
 type: article
 quality: 107
 heat: -1
@@ -144,6 +144,6 @@ related:
         height: 632
         isCached: true
 
-secured: "Juw7wNt+m/Oe3dyOohTRdw1GkSNJJ/8WE3mXIudILzks6Y1hMfbg7RK+VrBrUMZzH412vGO0+C8GZtFOpbHFhSXvGAYlbG+56i7Lo1LRmbLuuAIrg6UTv7lAKfSbqadky9hKkPMN1fOyO/WCGxgqSYReEpgkDs7E4IaUxnOGzuLKH/1YZZYVYPlV46mG4uNW1Hi77mOmt8kK9tJT4kM0eVcRTHMNo5dyZ6q6v/TPGBV/2YZMfNGJTzpHwYb8MTeLH1l+ao+Jc80Fip0cVhPXBB81LMr6Mx4mJq7k9wCyH0gVbRLafTS1/sTXhqUpjasEwveaChG97L7QZHKUw75r2O/6FzgC47UAp8cHmfHNfUmHYDIGgjhhBVQVrZi+aH+/dkfsM7+MQLWVE8fRGC6uaW4EcyJJMb8ei2p47k80hwP270TQk4Xfx6hilfijk/SjNfjAeaS88nvza8wewXzAsuH4BeH9Hkk+tqfGqYGOVSQVWj3UEKzFIbNGZvrKxMchLhrfBQ19SFRez31vOtmNig==;tfU8s5bBtA0ZEXoiWZ/qFQ=="
+secured: "jOJvKfX2brpawNKywGetNpDLwfmTmkJmhGo73PN/fkku5PcCYKDQalmqa+o1qVY7hkGI0bbqHMQYYjVaXHCRHHidEJ4kXlqIVK41gH9nMVELFWTOMMKcqfS4pHM5LPr+oIz8XtFCz1HrvVvrOXhhYiPv51BBWiocgoc+07IEfvysSHg9661nfSj4YWuf2vrtipvSDA+oA3fA3NU1Vm5KU8JhmOiGsMfLVv22jfWwYh7MSI4umvBuFq7+qeXHKVi/ul968VFtuEjkQ3BjV2slpsn7QPvktsNko2GWGv/MNBfq4T2p0d+M/pr4F12DTOJWZOyWiHS1QHmDG7wOl8onrSoXZLmOMPgfv5B0516LI+w=;Y7K3iT4RgIQtNU5MJRPFcA=="
 ---
 

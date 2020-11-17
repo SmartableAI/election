@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
 type: article
 quality: 188
-heat: 348
+heat: 368
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Even in Defeat, Trump Found New Voters Across the U.S."
+    excerpt: "Though turnout was explosive for both candidates, President Trump found 9.9 million new supporters across the country, allowing him to expand his base."
+    publishedDateTime: 2020-11-17T04:56:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/us/election-turnout-promo-1605565899442/election-turnout-promo-1605565899442-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
     excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."

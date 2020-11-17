@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 14841
+heat: 14861
 published: true
 
 provider:
@@ -2422,6 +2422,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-set-to-address-plans-for-economy-as-pandemic-rages/2020/11/16/cc1e5992-2832-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Ohio Republican governor tweaked by Trump, praised by Biden"
+    excerpt: "Ohio Republican Gov. Mike DeWine has found himself on the receiving end of criticism by President Donald Trump and praise by President-Elect Joe Biden"
+    publishedDateTime: 2020-11-16T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/ohio-republican-governor-tweaked-by-trump-praised-by-biden/2020/11/16/89a32904-285e-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

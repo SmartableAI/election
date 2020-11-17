@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden’s campaign manager headed to White House as deputy chief of staff"
+    excerpt: "Joe Biden’s presidential campaign manager, Jen O’Malley Dillon, will serve as deputy chief of staff in the White House come January."
+    publishedDateTime: 2020-11-17T02:59:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Wj8T0kTaas/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Is Biden open to appointing socialists to high administration positions?"
     excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
     publishedDateTime: 2020-11-13T10:00:07Z

@@ -156,7 +156,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Even in Defeat, Trump Found New Voters Across the U.S."
+    excerpt: "Though turnout was explosive for both candidates, President Trump found 9.9 million new supporters across the country, allowing him to expand his base."
+    publishedDateTime: 2020-11-17T04:56:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/us/election-turnout-promo-1605565899442/election-turnout-promo-1605565899442-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
-secured: "uRIrFRdW0kSWsHntY2hQWEe8+qgHzddBlIqB+obAmh55QfOyGlarbLP5hyDLs1gCpAOY2DcepORYwXr/aEB7pcO3v6Ry1D0dDasg5PILlKrKWNcCoEEsY2xqDOaBBqZbmT20OlvtVjnh3XkrSVF0c6xfmldW2xU6Mu7OOwtI5CYk0OU59AV8BTWg91K17WEJH6S4SfM7y0QYst5Xet28lGH94exaHC4EY/0u5nSejAP/L2CCtqtVWmceeRTuu6ZXAIkc/4GS3pCe5Ud/VZUIk5yuV2MdFxYarHyIJui72GeLpK+R/18dQCFNL1iqaGv1UF89UwOELsoZXeNVBYQ8RnGHO+4o7UKu2I+D/vout+s=;/WAIdwwUdaoKKFTYTOolQA=="
+secured: "k+u1Fp+OR6CzaJ/JUzdwcOe64vr6IWlNhP8njJsYE8a6xwwgPx7grSlysTral1+osp0aL6L2rsJW+HObUxDCfISLTUWyYthiKe0+WgzZv8n4JsUBpOfi+QwPX24xnu6x7RAtwSXPNJZxvtclukUMXku7pG8YzSN/0sQf+tJOhqulxLgH30Ow1XVf7yG7WqEStmpNyn1SDd4gJG5CqNn6Vsn1m+f1Lohxp+GwsmGWSPtY/QwkPHCrmCwpMZi7XcfnBE5uYRsJlM9E8/aIXOxJvhSJ8dA9NjKVRu+bIFW4a+lmzTCjmOnEU3bqhygUgaQSV/OZo/uuFuXSLg59MrOCffnojOFYrQ2H4klONAKuezP4fTOjkXLnwq1ZOrk5w7FHfVKoGsXRJTa/QMFtqAyNzfqloGrfKU3KgE0fIO4ZDyGWenIBgNKZl05IdWUhGKLBGA9T5P8F+aeOfW96DCAZQCGxEs/9UJjVlcjBlWGqOpeIqMvNb0LzqxVfMAqdDGdkaG+iL0wP5FCWKxv0q9B3vA==;unBYVeorkvTj48tGav70Xw=="
 ---
 
