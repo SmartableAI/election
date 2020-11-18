@@ -163,6 +163,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Final U.S. offshore oil auction under Trump will test industry demand"
+    excerpt: "The Trump administration on Wednesday will offer all available areas in the Gulf of Mexico for auction to oil and gas companies in its final offshore sale before the January inauguration of President-elect Joe Biden,"
+    publishedDateTime: 2020-11-18T12:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN27Y1IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
     excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
     publishedDateTime: 2020-11-08T11:19:00Z

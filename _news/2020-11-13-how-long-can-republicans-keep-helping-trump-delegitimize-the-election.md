@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-repu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp"
 type: article
 quality: 140
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 136
     images:
       - url: "https://s.abcnews.com/images/US/lewandowski-philly-ap-ps-201105_1604592275669_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Eric Trump, Donald Trump Jr. amplified claims of election fraud, analysis shows"
+    excerpt: "False and misleading election -related claims, already running rampant on social media in the wake of this year's race, were given an exponential boost in exposure after they were shared by Donald Trump Jr."
+    publishedDateTime: 2020-11-18T11:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/republican-national-convention-day-four-37-gty-jc-200827_1598580419168_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

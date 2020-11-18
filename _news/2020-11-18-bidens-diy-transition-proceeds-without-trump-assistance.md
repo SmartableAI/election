@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden's DIY transition proceeds without Trump assistance"
-excerpt: "President Donald Trump's refusal to cooperate with his successor is forcing President-elect Joe Biden to seek unusual workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine weeks."
-publishedDateTime: 2020-11-18T12:34:00Z
-originalUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11"
-webUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11"
-ampWebUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
+excerpt: "President-elect Joe Biden has been forced to seek extraordinary workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine wee"
+publishedDateTime: 2020-11-18T10:55:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/bidens-diy-transition-proceeds-trump-assistance-74268200"
+webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-diy-transition-proceeds-trump-assistance-74268200"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-diy-transition-proceeds-trump-assistance-74268200"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-diy-transition-proceeds-trump-assistance-74268200"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4a26a0c1373b4a38bc936919eb8474f8_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -11220,6 +11226,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3ZiCL1ZzOY3k9R9oTUqPRTIiF5NEDcT7xWmlPc1ckyE7XhCrIEm5lVqOp5yjYpGiXjHc/5nEOep+R3jIykM3fHXODVOThFhejtinO8KdMs/ceeMN+IjDq9KllG7uKyvBShU+uv3rHn2NiEPlxAbqSMH+0ehgUjGLwItfmQBUsDjQmo+7AsCRmxbxJtn5zaLISI2lKWzL1yCo4yiGeVAODmWnfEg8bSIhsjZuU6dgdsrIb+9YZ8fySornbdI56ACXmtoXYwVVMeioKHlsgiHpbJi2eSHS6Wqr2K3+tw8ftiaTUKZnkDQMnqHdcbkZ1mvSt+G5a8gGGkn9rzn/UFCh350uAKC3Hv9s6Eheht1tbUU=;K/NFoaiHJrq6JyrxnNMEtw=="
+secured: "XxxcCU4Gx1lfz+03LcjBJ8j08neAKWJ4coUCH/DrUEbJ3o/C4U0E9Xto7pA8Vh0vF9PdkOTzuytRVaDUVYlCRBCopYo3tEc2Vx5kyDw+MkrJQqcmLuee0h/Lm68wS8IxQ6WiG//GrPg3UWdySu1ihOnljjhGdgR4naK1ixTrYKsBXe8Sw7s3eancGwIfuqjRpo77szwlav+8cZ4qZYKqvEY84JQe9t2wqaQSpa+2zBczL3vN5iqhuvppL5RlntcR468+BwiYNtFXeYHmUYrYxYOmAypkBesM05XZSmyDszOgRnQUMnF0YNDmjhmxe37XQwtq7tDIU/hA+bbbBix9F/LuUmH3YzsfUJgPWjHTVBY=;wT30GF7d8AKuGr6u9XtmJQ=="
 ---
 

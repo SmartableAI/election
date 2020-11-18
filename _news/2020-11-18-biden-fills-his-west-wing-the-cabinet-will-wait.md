@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden assembles team to handle Senate confirmation battles"
+    excerpt: "President-elect Joe Biden has assembled a team that will lead the confirmation battles for his nominees in the Senate.\n    \n"
+    publishedDateTime: 2020-11-18T14:29:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7BtncjhRw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/cabinet-confirmation-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/cabinet-confirmation-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116155106-06-biden-harris-economy-remarks-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Bernie Sanders seeks support from allies in push to lead Biden's Labor Department"
     excerpt: "Sen. Bernie Sanders is seeking the support of top labor leaders as he ramps up a campaign for the Labor secretary post in President-elect Joe Biden's administration.\n    \n"
     publishedDateTime: 2020-11-11T02:08:06Z

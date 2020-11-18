@@ -2,11 +2,11 @@
 category: news
 title: "The Biden administration: Top staff and Cabinet contenders"
 excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-publishedDateTime: 2020-11-17T23:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
+publishedDateTime: 2020-11-18T07:15:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
 type: article
 quality: 125
 heat: 285
@@ -151,6 +151,6 @@ related:
       domain: reuters.com
     quality: 99
 
-secured: "Fdu1daIxpX/F33y3OTuCO2XGk7b9pxDHtbskqgn7Z4jRUtZ5Y/8mH4YYPE59tcm3BweOxxhP5Uff0XZTK08FHdHHtQGFasjquCjaei+llieTfd+/fbk4vLEWYzATd2eGXFUslckQ7EVEsUz/LRSj3mWRSO3ZuXWOs8e1DUSwf1OfmncPrlpzlATpuaHWOubUhk6KkaIXZXWL1J8CFMcerA/+uqEDrkjveKzrQfT8yuukD7rbJl2cfh8Gm9uDY+u2H1Dhmie1V9w+qZb2/NQI+HW8odZLFfROv9Kbrh/64pcalTTsF7WXt9DALarOoOt+q3naDIxANA/qh6gsOXvavSHtuKIO0szWPK85MldwMKU=;qGSk8wBVmyyXSohBkM8Ceg=="
+secured: "Cfu3oIHyeRZOBhetLR+s61iNiuVTX+YpVc9ck1uKpd+V3Xk/MiTlGU5n87rdW7Xq8c2cjoYLd8PK9KRc5miOKgP7PXfdjcEumBTTHQMG9ArYD5g6O25GePUmI28aQcdyzrELyvnOmekQSeCuT2AaaJ5N2lWIugA4qyt7MHsD7NTR3NWlTTap9WG9IWWo0pTGUcnmsHVUym+pzKgL4e7vY7r/6lqphbJHKE7sybBgbLQlODRs9NxFdQzM+p0C0gtuqEsG7qx6Tjb3bwv6YfLJI/g40mHu1Fb3tY+qDjwBLJYLHmTMDssL0/vK+65A/Faxe6Gxgk76VOpvRuqyR34QywhHsRJ5sKTGaNueNTncHws=;xbwNd8GNIe0J7MJfqsXDYQ=="
 ---
 

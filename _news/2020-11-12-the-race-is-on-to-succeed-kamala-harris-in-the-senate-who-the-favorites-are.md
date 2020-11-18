@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senate Republicans appear to congratulate Kamala Harris despite election dispute"
+    excerpt: "Several Republican senators congratulated Vice President-elect Kamala Harris on her electoral victory, even as many of them publicly rally behind President Trump's efforts to fight the election results."
+    publishedDateTime: 2020-11-18T14:03:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/200oD5UbZQY/senate-republicans-congratulate-kamala-harris-election-dispute"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315750551129.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
     excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate."
     publishedDateTime: 2020-11-11T16:35:43Z
@@ -64,22 +80,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "California governor quiet on Kamala Harris replacement: 'No timeline has been established'"
-    excerpt: "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders."
-    publishedDateTime: 2020-11-11T14:51:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established"
-    ampWebUrl: "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg"
-        width: 1024
-        height: 712
-        isCached: true
   - title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
     excerpt: "In a very friendly moment, Sen. Lindsey Graham, R-S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
     publishedDateTime: 2020-11-17T22:43:19Z
@@ -96,21 +96,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
-    excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
-    publishedDateTime: 2020-11-17T17:44:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dtGIuijslg/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee"
-    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+  - title: "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair"
+    excerpt: "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. "
+    publishedDateTime: 2020-11-13T00:35:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/c30b26d4-jaime-harrison-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
     excerpt: "S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
@@ -128,31 +128,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
-    excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
-    publishedDateTime: 2020-11-13T06:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
+  - title: "Kamala Harris: \"Last Month The Unemployment Rate For Black Americans Was Almost Twice The Rate Of Others\""
+    excerpt: "Sen. Kamala Harris spoke about her priorities for the coming months of transition during a brief appearance Monday in Delaware: KAMALA HARRIS: Good afternoon. President-elect Biden and I just met with some of our nation's business and union leaders."
+    publishedDateTime: 2020-11-16T21:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/16/kamala_harris_last_month_the_unemployment_rate_for_black_americans_was_almost_twice_the_rate_of_others.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 64
+    quality: 48
     images:
-      - url: "https://assets.realclear.com/images/52/526989.jpg"
-        width: 1126
-        height: 844
+      - url: "https://assets.realclear.com/images/52/527276.jpg"
+        width: 750
+        height: 562
         isCached: true
-  - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
-    excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
-    publishedDateTime: 2020-11-11T04:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
 
 secured: "PtwWg20Y0x08U6EHw/ZpDoMzy1GAPOXPSJyWkE5ppfl6qU3qU6ip0iyNxAo7Fz9wZR7VWci9JDZ15UcEGSS/GFgizN822bL1g5E8aRz0o2cAJlauR1pkOAxbLKsyp29H1rNANhxmkYxnQHnoXazeiRU9VP+2NAaZj0dENFAbrwuzXfliAEhq4L0hM/TM2yM0tPKHNAaYfghbeRCB3iytQHgZ1LsRQiWb518ZNzCtcfd+OHiRtcitksSn0OlTB/1rbXSTEgKqfNOAI76fLAPIU3UTZ+kOp2YM5UE6g2lC8v/rDjO0Y92cmaKyow++IEyayUPfjHtSrOjWFWxavk4P/2LO/Ml08gAsKWOE+FWkb3YByJEVdTGL3nlodT1kLnKrLP7oOqd4t5cXtHb8o7p0hZQSZoJl40bz7he4D8OACS/Ufhqgrmss38k8sbEKktMtoB2AafsI/jqgu7HtYGOkq2aP3SATOXN305k71dL83jyvk8fX5bS3WERlgkLT+khtdohtgi/E5n2OXzUHOgEHCQ==;ohJLlns+klBDny4wAzuOmg=="
 ---

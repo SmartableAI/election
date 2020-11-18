@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Eric Trump, Donald Trump Jr. amplified claims of election fraud, analysis shows"
+    excerpt: "False and misleading election -related claims, already running rampant on social media in the wake of this year's race, were given an exponential boost in exposure after they were shared by Donald Trump Jr."
+    publishedDateTime: 2020-11-18T11:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/eric-trump-donald-trump-jr-amplified-claims-election/story?id=74261329"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/republican-national-convention-day-four-37-gty-jc-200827_1598580419168_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
     excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
     publishedDateTime: 2020-11-10T23:46:00Z

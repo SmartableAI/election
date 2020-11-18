@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump fires agency head who vouched for 2020 vote security"
+    excerpt: "President Donald Trump fired the nation’s top election security official, a widely respected member of his administration who had dared to refute the president’s unsubstantiated claims of electoral fraud and vouch for the integrity of the vote."
+    publishedDateTime: 2020-11-18T12:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "q8fNA1LNrnVzy/nqcQU0HidskOHfjO0+j4SsA4K9wUDXYyRiqJ10dnwStunFCulamYRAgYEbGIKiViRcYfq07vNnpoMtZuQk3iRYhtDYnNqG2QmXaTxkNBseJk3VwlXHiN0QllYJXHpOLCy6Dhe1NnJms1y1JuOuO0Bhcc6dRmPdfYc3zpjXSjHRkppryVMuBV6rPgtym5Sv3sWN8hnnbXAJCaUG2GMh+agrmpPt0awUTi8m35jdvwM12pmMPFzRpmeF23CwesB0ISIjnQkfFjpqm0UX+a0ajxmWHHYkdB/1zTU8QKs8vWZUa94LCJHaIr2lz5vFIKYtSgAT7ZRdQOAxGuYZPst6AGHvuiofYQo=;4DWtIMQGGTXPsOx2djcEOQ=="
 ---

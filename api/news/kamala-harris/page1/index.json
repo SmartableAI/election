@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-senate-republicans-appear-to-congratulate-kamala-harris-despite-election-dispute.md",
+      "title": "Senate Republicans appear to congratulate Kamala Harris despite election dispute",
+      "excerpt": "Several Republican senators congratulated Vice President-elect Kamala Harris on her electoral victory, even as many of them publicly rally behind President Trump's efforts to fight the election results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/200oD5UbZQY/senate-republicans-congratulate-kamala-harris-election-dispute",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/200oD5UbZQY/senate-republicans-congratulate-kamala-harris-election-dispute",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315750551129.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp",
+      "publishedDateTime": "2020-11-18T06:03:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
       "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
       "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
@@ -51,63 +108,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.md",
-      "title": "Darrell Issa, 'recycled' congressman from California, doubts Kamala Harris' bipartisanship capability",
-      "excerpt": "Darrell Issa, the former thorn in the Obama administration's side, is back on Capitol Hill after a brief exit from public office, and the Republican is casting serious doubt on whether fellow Californian Kamala Harris can work effectively with Congress as vice president. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDCDxa5I8AM/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312675503727-e1604845329811.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-recycled-congressman-from-california-doubts-kamala-harris-bipartisanship-capability.amp",
-      "publishedDateTime": "2020-11-17T04:16:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -372,25 +372,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.md",
-      "title": "The race is on to succeed Kamala Harris in the Senate: Who the favorites are",
-      "excerpt": "The race is on to succeed Vice President-elect Kamala Harris in the Senate.",
+      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
+      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
+      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 342,
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
+          "width": 1024,
+          "height": 712,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -398,9 +398,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp",
-      "publishedDateTime": "2020-11-11T08:35:43-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
+      "publishedDateTime": "2020-11-11T06:51:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -177,6 +177,17 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Final U.S. offshore oil auction under Trump will test industry demand"
+    excerpt: "The Trump administration on Wednesday will offer all available areas in the Gulf of Mexico for auction to oil and gas companies in its final offshore sale before the January inauguration of President-elect Joe Biden,"
+    publishedDateTime: 2020-11-18T12:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN27Y1IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "What does Mike Pence's future look like after election loss?"
     excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status."
     publishedDateTime: 2020-11-15T15:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
 type: article
 quality: 188
-heat: 388
+heat: 408
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden assembles team to handle Senate confirmation battles"
+    excerpt: "President-elect Joe Biden has assembled a team that will lead the confirmation battles for his nominees in the Senate.\n    \n"
+    publishedDateTime: 2020-11-18T14:29:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7BtncjhRw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/cabinet-confirmation-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/cabinet-confirmation-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116155106-06-biden-harris-economy-remarks-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
