@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-14-not-credible-michigan-court-ruling-another-legal-setback-for-president-trump.md",
+      "title": "'Not credible': Michigan court ruling another legal setback for President Trump",
+      "excerpt": "A Michigan judge has denied a petition to block the certification of the 2020 election results in the heavily Democratic county that is home to Detroit, another legal setback for the Trump campaign, which has similar cases in several states.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
+      "originalUrl": "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/counting-ballots-michigan-ap-jt-201113_1605303384179_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
+      "publishedDateTime": "2020-11-13T18:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-trump-to-break-silence-with-vaccine-update-after-criticism-hes-ignored-pandemic.md",
+      "title": "Trump to break silence with vaccine update after criticism he's ignored pandemic",
+      "excerpt": "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881",
+      "publishedDateTime": "2020-11-13T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-the-technology-202-trump-will-face-new-rules-on-facebook-and-twitter-after-he-leaves-office.md",
       "title": "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office",
       "excerpt": "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that.",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -114,7 +218,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -483,7 +587,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -535,7 +639,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -743,7 +847,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1397,7 +1501,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1490,115 +1594,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-trump-presidency-is-ending-so-is-maggie-habermans-wild-ride.md",
-      "title": "The Trump Presidency Is Ending. So Is Maggie Haberman’s Wild Ride.",
-      "excerpt": "Maggie Haberman has consistently painted a portrait of a man who is both smarter and less competent than his enemies believe.Credit...Benjamin Norman for The New York Times By Ben Smith Maggie Haberman lives rent-free in Donald Trump’s head,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/business/08BENSMITH/merlin_179662959_c80bd3d0-f89e-4712-8d81-4ab62bb9c0b2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "publishedDateTime": "2020-11-08T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-campaign-leaders-agree-ohio-still-a-battleground-despite-donald-trumps-two-victories.md",
-      "title": "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories",
-      "excerpt": "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6149084002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002",
-      "publishedDateTime": "2020-11-08T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

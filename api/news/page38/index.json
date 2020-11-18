@@ -2,6 +2,62 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-10-04-dr-sanjay-gupta-trump-shouldnt-be-discharged-tomorrow.md",
+      "title": "Dr. Sanjay Gupta: Trump shouldn't be discharged tomorrow",
+      "excerpt": "CNN's Dr. Sanjay Gupta reacts to a presser given by President Trump's medical team in which one of the doctors said Trump might be discharged from Walter Reed medical center as early as tomorrow, despite the fact that the President has had at least two concerning drops in oxygen levels.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201004121844-gupta-10042020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "publishedDateTime": "2020-10-04T09:41:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters.md",
       "title": "'This election is about Donald Trump, up or down': Focus group pollsters",
       "excerpt": "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press.",
@@ -1261,62 +1317,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp",
       "publishedDateTime": "2020-10-03T09:51:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-dem-squad-accuses-twitter-of-shielding-trump-from-hate-tweets-after-dismissing-attacks-on-them.md",
-      "title": "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them",
-      "excerpt": "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp",
-      "publishedDateTime": "2020-10-03T08:29:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -20,51 +20,51 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
-    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
-    publishedDateTime: 2020-11-09T02:39:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
+    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task."
+    publishedDateTime: 2020-11-18T17:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
-    excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"
-    publishedDateTime: 2020-11-02T00:06:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election"
-    ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
+    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
+    publishedDateTime: 2020-11-16T22:48:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Sanders tells 'Squad' of need to push Biden to be 'most progressive president since FDR'"
-    excerpt: "Sen. Bernie Sanders, I-Vt., said in an interview that left-wing lawmakers and supporters need to push Democratic nominee Joe Biden to be the “most progressive president” since President Franklin Delano Roosevelt."
-    publishedDateTime: 2020-11-02T15:18:00Z
-    webUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
+  - title: "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'"
+    excerpt: "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday."
+    publishedDateTime: 2020-11-12T00:46:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster"
+    ampWebUrl: "https://www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e29b2d3a-56bb-4140-af21-49ebcecc0ad8/a48331e4-06b1-4626-a48a-ce62b0bd0f04/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d6cb2c1-b59f-480d-8f8a-e6494726da30/1f1727ec-3082-495f-b325-dc172502d366/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

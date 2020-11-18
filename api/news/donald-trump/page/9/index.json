@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
+      "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
+      "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "publishedDateTime": "2020-10-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-against-all-enemies-trump-threatens-to-aim-the-power-of-the-federal-government-at-his-political-foes.md",
+      "title": "Against all enemies: Trump threatens to aim the power of the federal government at his political foes",
+      "excerpt": "It’s no surprise coming from the man who presided over “Lock her up” chants at his 2016 rallies, but it still shocks the conscience: As president, Donald Trump is doing all he can to use the force of the federal government to intimidate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/cmK2ixqKqNcqJxHnoL8GlF8_5BM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4SIBM7BQJENXLJDJSCIS4GCL4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-against-all-enemies-20201013-tx3or4mz2jckrnld7qak7wsqmq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-13T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-as-trump-holds-rally-fauci-urges-masks-avoiding-mass-gatherings.md",
       "title": "As Trump holds rally, Fauci urges masks, avoiding mass gatherings",
       "excerpt": "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face",
@@ -1460,110 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-fact-check-trumps-hospital-records-weight-have-not-been-released.md",
-      "title": "Fact check: Trump's hospital records, weight have not been released",
-      "excerpt": "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/07/NLED/2dddc1bf-c758-4a68-98cc-f4d5dc745c71-AP20280801146522.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5913031002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002",
-      "publishedDateTime": "2020-10-07T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
-      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
-      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
-      "publishedDateTime": "2020-10-07T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -95,19 +95,21 @@ related:
         width: 753
         height: 545
         isCached: true
-  - title: "Biden's won, nothing will change that: Schumer"
-    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
-    publishedDateTime: 2020-11-12T18:52:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
+    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
+    publishedDateTime: 2020-11-12T08:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 121
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
-        width: 960
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
+        width: 794
+        height: 545
         isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."

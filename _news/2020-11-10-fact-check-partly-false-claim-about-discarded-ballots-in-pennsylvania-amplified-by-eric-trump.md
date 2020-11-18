@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 939
         isCached: true
+  - title: "Pennsylvania high court to hear Trump challenge to thousands of votes"
+    excerpt: "The Pennsylvania Supreme Court said on Wednesday it would take up an appeal by President Donald Trump's campaign challenging thousands of mail-in votes cast in Philadelphia that were missing information on the return envelopes."
+    publishedDateTime: 2020-11-18T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-pennsylvania-idUSKBN27Y2UO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2UO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2UO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541682714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1PZ"
+        width: 784
+        height: 545
+        isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
     publishedDateTime: 2020-11-16T18:26:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQY4HNABC4I6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
+    excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
+    publishedDateTime: 2020-11-18T17:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/donald-trump-campaign-seek-partial-recount-wisconsin/6340896002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6340896002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6340896002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
     excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""

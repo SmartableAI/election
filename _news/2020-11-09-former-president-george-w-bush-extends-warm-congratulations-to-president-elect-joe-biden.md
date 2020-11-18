@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
 quality: 115
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
     excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."

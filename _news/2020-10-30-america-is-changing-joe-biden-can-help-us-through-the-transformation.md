@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 385
 published: true
 
 provider:
@@ -191,20 +191,6 @@ related:
     quality: 72
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 55
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
         width: 1024
         height: 683
         isCached: true

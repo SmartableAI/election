@@ -75,6 +75,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "What mandate? Biden's agenda faces a divided Congress"
+    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
+    publishedDateTime: 2020-11-15T18:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
+    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
+    publishedDateTime: 2020-11-17T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
+        width: 749
+        height: 545
+        isCached: true
   - title: "Virginia Latino voters excited for Biden presidency"
     excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
     publishedDateTime: 2020-11-17T22:10:00Z
@@ -159,33 +191,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden warns 'more people may die' in pandemic..."
-    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring ..."
-    publishedDateTime: 2020-11-17T01:29:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+  - title: "2020 Daily Trail Markers: Biden pleads with Democrats and Republicans to come together for COVID-19 relief bill"
+    excerpt: "\"The idea the president is still playing golf and not doing anything about it is beyond my comprehension,\" the president-elect said. \"What is he doing?\""
+    publishedDateTime: 2020-11-16T23:53:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07721490_1605593404.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
-    excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
-    publishedDateTime: 2020-11-14T16:08:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/13/look-joe-bidens-family/6272780002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 96
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
     excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."

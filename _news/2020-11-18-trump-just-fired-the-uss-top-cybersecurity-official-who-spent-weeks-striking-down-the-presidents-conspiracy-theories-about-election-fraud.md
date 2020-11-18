@@ -111,6 +111,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump campaign seeks recount of ballots in Wisconsin in liberal Milwaukee and Dane counties"
+    excerpt: "President Donald Trump is seeking a recount of ballots in Dane and Milwaukee counties, hoping to overturn the state election results in his favor despite those voters choosing President-elect Joe Biden by wide margins."
+    publishedDateTime: 2020-11-18T20:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/trump-campaign-seek-partial-recount-wisconsin/6339193002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6339193002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6339193002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump fires agency head who vouched for 2020 vote security"
     excerpt: "President Donald Trump fired the nation’s top election security official, a widely respected member of his administration who had dared to refute the president’s unsubstantiated claims of electoral fraud and vouch for the integrity of the vote."
     publishedDateTime: 2020-11-18T12:34:00Z

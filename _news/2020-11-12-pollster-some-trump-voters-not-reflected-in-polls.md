@@ -141,6 +141,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
+    excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
+    publishedDateTime: 2020-11-18T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "KSfqhIGH3SR7uC7RrbY+M9OLhlDJgsnE0fQR1Mk6jGtkOe3bQq70ZA6hD3rS92es3a5bEXqYGuvw0iPKzfKb0CSzXOqxmdwTCNV2cxgRJHIC5MC4zjZ7beX4cqItW0LzaAaL4OPRIYC5BwTUTGbwaMch6abvEApYCqtmlro007La81IC8OSkK6niZCqC3TS3xXm/QN8+bS+MWCGdFy4eh0rRVVQHMw6VOrFhPelZJgyObMkIT+30vs+W1vEHb0DD7BaqJWuwy7QKL+dzWxp7NVw51NRMpuNh88a9BzK0Usg3bJdlrc932H2D6lJRHA9jsurCxI7G4bWka0vri6bqQK8jO/fXThpl8+uBKnsGwU0=;fG3MKLSEZSCr3/pH8haobw=="
 ---

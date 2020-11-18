@@ -191,6 +191,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge tears into Trump administration over its handling of DACA"
+    excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
+    publishedDateTime: 2020-11-18T17:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027162026-daca-rally-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP lawmaker: Colleagues waiting for Trump to come to terms with loss"
+    excerpt: "Illinois Republican Rep. Adam Kinzinger told CNN's John Berman that he believes his Republican colleagues are waiting for President Trump to accept his election loss before recognizing President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-18T14:30:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FJf4MFIIflE/kinzinger-lawmakers-waiting-for-trump-to-come-to-terms-with-loss-sot-berman-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/18/kinzinger-lawmakers-waiting-for-trump-to-come-to-terms-with-loss-sot-berman-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/18/kinzinger-lawmakers-waiting-for-trump-to-come-to-terms-with-loss-sot-berman-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118091538-kinzinger-lawmakers-waiting-for-trump-to-come-to-terms-with-loss-sot-berman-newday-vpx-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign to seek partial recount in Wisconsin"
+    excerpt: "The Trump campaign said Wednesday that it will seek a limited recount of some Wisconsin counties. The campaign needs to officially request the recount, any pay an upfront fee, by 5 p.m. CT Wednesday.\n    \n"
+    publishedDateTime: 2020-11-18T17:35:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ye1T3Ik9GI4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/trump-campaign-wisconsin-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/trump-campaign-wisconsin-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z
@@ -252,6 +300,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Ethics experts and Trump critics call for Senate investigation into Graham's probe into presidential election"
+    excerpt: "Three top ethics experts and prominent critics of President Donald Trump on Wednesday formally requested the Senate Ethics Committee investigate whether Republican Sen. Lindsey Graham of South Carolina violated the chamber's rules in his probe over how mail-in voting was conducted in the 2020 presidential"
+    publishedDateTime: 2020-11-18T18:36:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JY6XfsLKfCI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/lindsey-graham-ethics-experts-senate-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/lindsey-graham-ethics-experts-senate-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030173502-13c-lindsey-graham-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

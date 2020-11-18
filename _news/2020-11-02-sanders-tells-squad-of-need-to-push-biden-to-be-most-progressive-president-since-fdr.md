@@ -64,15 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "XFuIAPa06uh/v8EBuqrS/KZpg/AMXCwjPQ0CJXx6pacQejWGm7GA0mmpORQ6SOflWc9dwv4+yQOBO+dwgMHh4tfHHCgAsnMagP9IYLGV44d+ln8nAcU5wVHKJ9anxS95+1BLA65Ufy0m6WoTfl0gp1K5FnzGQCw11tqRDXXffWFeRccD8CvV6BEaMkEETpPKJD9oxt/hcumK93+8r6syxiTvipmVwF1Isec0hxDcm1tI75MyGrF67vJxL2XnuvJJcYLA/47JvZTS3xXM6wYgfo/DvxaqHFGp7hgIVkOpzOrRoFksEdGprql6J2OpOQ5/3McuuMX8sdX8df0QiVtKSIM7YbsnYHzasLOKAZLO2N4tKgbQv4H0WFoukbJ6CWrn3GxnMlP4ClAk+dPmKs0caR2WdSJJMP6myUVt6Lnmr0ySzeDTn2M7Pt7NhfOtjUULDIV2ZePBPVkU8HQCOGWluLHuh4HDBsrXwEGmd1FhPjiYojtqTW+YRx2qQwNZ7P6GYs2n/uVXkCi08o8YFl2zzA==;thb2v9rXa9vb0tpwA2HBGg=="
 ---

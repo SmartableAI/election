@@ -194,20 +194,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 55
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "False video of Joe Biden viewed one million times on Twitter"
     excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
     publishedDateTime: 2020-11-01T23:31:00Z

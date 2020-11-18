@@ -2,6 +2,274 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-17-trump-to-reduce-troop-levels-in-afghanistan-and-iraq-by-mid-january.md",
+      "title": "Trump to reduce troop levels in Afghanistan and Iraq by mid-January",
+      "excerpt": "The Pentagon is expecting orders by the end of this week to reduce troop levels to 2,500 in Afghanistan and in Iraq by mid-January, according to two U.S. officials.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780",
+      "originalUrl": "https://abcnews.go.com/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/us-military-afghanistan-gty-jt-201116_1605554921303_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780",
+      "publishedDateTime": "2020-11-16T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-trump-supporters-march-past-new-york-homes-of-cuomo-clintons.md",
+      "title": "Trump supporters march past New York homes of Cuomo, Clintons",
+      "excerpt": "Carrying signs that read \"Cuomo sucks,\" \"Expose the corruption,\" and \"Dead people don't vote!\", the supporters of President Trump made a scene in New York state protesting by the homes of his chief liberal rivals: New York Gov. Andrew Cuomo and former Secretary of State Hillary Clinton.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp",
+      "publishedDateTime": "2020-11-16T14:19:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-update-1-trumps-fed-pick-shelton-draws-third-republican-no.md",
+      "title": "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'",
+      "excerpt": "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6",
+      "publishedDateTime": "2020-11-16T12:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-squad-member-ilhan-omar-compares-trump-events-to-klan-rallies.md",
+      "title": "'Squad' member Ilhan Omar compares Trump events to 'Klan rallies'",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., blasted President Trump and his supporters on Monday when she likened his political rallies to those held by the Ku Klux Klan. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EgL0R4OC5Qk/ilhan-omar-trump-klan-rallies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EgL0R4OC5Qk/ilhan-omar-trump-klan-rallies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe317574-1e0f-43c1-a413-32249f7ed940/70d82e25-4342-4ec2-8083-84d7bbc4c355/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
+      "publishedDateTime": "2020-11-16T12:21:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-joe-bidens-irish-supporters-are-celebrating-the-victory-of-their-favorite-uncle-as-he-faces-boris-johnson-over-brexit.md",
+      "title": "Joe Biden's Irish supporters are celebrating the victory of their 'favorite uncle' as he faces Boris Johnson over Brexit",
+      "excerpt": "A Biden campaign source said they expected Ireland to be Joe Biden's first state visit once in the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5faeb2ce1c741f0019ac9a72?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
+      "publishedDateTime": "2020-11-16T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-in-new-memoir-obama-confronts-the-racial-anxiety-of-trump-supporters.md",
       "title": "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters",
       "excerpt": "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from.",
@@ -10,7 +278,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -228,7 +496,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 523,
+      "heat": 543,
       "tags": null,
       "images": [
         {
@@ -440,7 +708,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -549,7 +817,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -573,58 +841,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-if-the-gop-doesnt-quit-its-trump-addiction-itll-suck-the-life-out-of-american-democracy.md",
-      "title": "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy",
-      "excerpt": "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11",
-      "originalUrl": "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp",
-      "publishedDateTime": "2020-11-15T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -809,58 +1025,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-16-trump-allies-are-reportedly-considering-buying-out-newsmax-to-build-a-strong-competitor-to-fox-news.md",
-      "title": "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News",
-      "excerpt": "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp",
-      "publishedDateTime": "2020-11-15T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
       "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
       "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
@@ -1017,58 +1181,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-15-biden-promised-a-railroad-revolution-that-could-see-faster-trains-and-a-return-to-amtraks-nostalgic-past-heres-what-americans-might-see.md",
-      "title": "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see",
-      "excerpt": "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
-      "originalUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "publishedDateTime": "2020-11-15T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-15-vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center.md",
       "title": "Vice President Mike Pence to view SpaceX Crew-1 launch from Kennedy Space Center",
       "excerpt": "Vice President Mike Pence will attend Sunday's attempted launch of Crew-1 mission to the International Space Station.",
@@ -1213,110 +1325,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
-      "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
-      "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/12/PPHX/353c4712-7112-4185-8090-fa36aadc45e8-DW1_4295.JPG?auto=webp&crop=3521,1981,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6296977002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6296977002",
-      "publishedDateTime": "2020-11-14T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-trump-team-mocked-for-apparently-exaggerating-crowd-size-againthis-time-for-million-maga-march.md",
-      "title": "Trump Team Mocked For Apparently Exaggerating Crowd Size (Again)—This Time For ‘Million Maga March’",
-      "excerpt": "The White House seems to have again been caught in a fib when it comes to overstating crowd size, after Press Secretary Kayleigh McEnany claimed Saturday that “More than one MILLION” marchers descended on Washington for the “Million MAGA March” in support of President Donald Trump—a claim that many on social media pointed out seemed to be greatly overstated based on actual pictures of the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb025d66f575407a5a3b7d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
-      "publishedDateTime": "2020-11-14T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

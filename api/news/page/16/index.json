@@ -2,6 +2,114 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
+      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
+      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "publishedDateTime": "2020-10-28T14:46:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-trump-says-hopefully-states-wont-be-allowed-to-count-ballots-after-election-day-which-is-a-normal-part-of-the-electoral-process.md",
+      "title": "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process",
+      "excerpt": "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
+      "publishedDateTime": "2020-10-28T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
       "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
       "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
@@ -1233,106 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.md",
-      "title": "Trump campaign website briefly defaced by hackers making outlandish claims",
-      "excerpt": "President Trump’s campaign website was briefly hacked Tuesday, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp",
-      "publishedDateTime": "2020-10-28T00:08:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
-      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
-      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Joe Biden"
       ]
     }
   ],

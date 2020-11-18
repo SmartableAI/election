@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-15-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
+      "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
+      "excerpt": "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "originalUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wkyc.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "publishedDateTime": "2020-10-14T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYC3",
+        "domain": "wkyc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-governor-cuomo-claims-trump-convinced-american-their-loved-ones-died-due-to-nursing-home-policy.md",
       "title": "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy",
       "excerpt": "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths",
@@ -1241,62 +1284,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
       "publishedDateTime": "2020-10-13T14:48:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
-      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
-      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
-      "publishedDateTime": "2020-10-13T14:02:45-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

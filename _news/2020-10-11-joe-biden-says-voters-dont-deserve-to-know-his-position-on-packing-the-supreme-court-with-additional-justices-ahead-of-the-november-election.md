@@ -91,22 +91,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
-    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
-    publishedDateTime: 2020-10-17T10:07:00Z
-    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
-    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "QGR0963d8YqEUI0EiOfsMJpZm/sfUeqx0cwmX1h6KfYJl9AeIq4FMFV6QLo0u+nza8LNRl92R+wLrG2lSz1Xv4LmgzAm9c+S8mC6nG6L/h9StQOJps09rQl7/K6Izm6TQkQz5ZVUhKlJxYpJmGgtUywCO1jhfQACAA1xP0n8WOE1wVVkGJtjWssMETNzrC4ynrBdvBvCzmNYonyJUJfojYW3HcTokBADOuf/DFQT7XauzbiLp7RxdO4038W2i6+1AY2C5IV+H42Mf4/l0bgLWhmhcZ+pxYYAWglLgrs7e1ZUhBd12VNdq5151FGy0dCO86gnyn3WBpHBiBILqUXdsXmglaAySH9jYc/A1719IXs=;G2FmsAcyNJv9E1u0UpSeNQ=="
 ---

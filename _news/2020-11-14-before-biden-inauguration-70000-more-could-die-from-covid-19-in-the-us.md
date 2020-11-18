@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
+    excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
+    publishedDateTime: 2020-11-18T17:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/more-people-happy-trumps-loss-than-joe-bidens-win-poll-shows/6339217002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6339217002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6339217002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68eec7f2-a347-4ca8-8003-c940c5c3b29f-AP_Election_2020_Global.1.jpg?auto=webp&crop=5638,3171,x1,y303&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
     excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
     publishedDateTime: 2020-11-18T15:29:00Z
@@ -44,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
+    excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
+    publishedDateTime: 2020-11-18T20:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
         width: 817
         height: 545
         isCached: true
@@ -79,70 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "What mandate? Biden's agenda faces a divided Congress"
-    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
-    publishedDateTime: 2020-11-15T18:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
-    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
-    publishedDateTime: 2020-11-17T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
-        width: 749
-        height: 545
-        isCached: true
-  - title: "The Note: Trump, GOP test limits as legal walls close in"
-    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
     publishedDateTime: 2020-11-14T02:04:00Z
@@ -158,54 +126,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
         width: 817
         height: 545
-        isCached: true
-  - title: "Cindy McCain explains why she voted for Joe Biden — and not that other guy"
-    excerpt: "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,"
-    publishedDateTime: 2020-11-17T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXZ45QBIEQI6XGYUVWDSCV7LZE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
-    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
-    publishedDateTime: 2020-11-12T08:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
-        width: 794
-        height: 545
-        isCached: true
-  - title: "Giroir not concerned that Trump hasn’t been to COVID task force meeting in months"
-    excerpt: "Assistant Secretary for Health Adm. Brett Giroir and Joe Biden's COVID-19 advisory board member Dr. Atul Gawande appeared on ABC's \"This Week.\""
-    publishedDateTime: 2020-11-15T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/giroir-gawande-2-gty-rc-201114_1605388280642_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
     excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
@@ -237,125 +157,95 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
-        height: 545
-        isCached: true
-  - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
-    excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
-    publishedDateTime: 2020-11-14T10:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
+    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
+    publishedDateTime: 2020-11-15T22:34:00Z
+    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 112
     images:
-      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden chooses Ron Klain as chief of staff"
-    excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
-    publishedDateTime: 2020-11-12T02:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/biden-chooses-ron-klain-chief-staff/6260565002/"
+  - title: "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\""
+    excerpt: "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website."
+    publishedDateTime: 2020-11-17T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325744002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 106
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Joe Biden taps Ron Klain as chief of staff"
-    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T12:10:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
-    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
-    publishedDateTime: 2020-11-12T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2020 Daily Trail Markers: Biden pleads with Democrats and Republicans to come together for COVID-19 relief bill"
-    excerpt: "\"The idea the president is still playing golf and not doing anything about it is beyond my comprehension,\" the president-elect said. \"What is he doing?\""
-    publishedDateTime: 2020-11-16T23:53:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Senate Dems push COVID relief, slam Trump drawdown"
-    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
-    publishedDateTime: 2020-11-18T00:45:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
-    excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
-    publishedDateTime: 2020-11-14T23:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/ploy-flip-electors-trump-rejected-republican-leaders-4-key-states/6298966002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6298966002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6298966002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/14/PDTF/bb6e1ae0-d323-4fb5-affe-938c5d4faa75-AP20318849667174.jpg?auto=webp&crop=5703,3208,x0,y244&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Poll: Most Americans Don’t Think What Trump Says Is Based In Fact"
+    excerpt: "Only 22% believe Trump’s campaign statements are always or often based in fact, including 45% of Republicans, while nearly a quarter of Republicans believe his statements are rarely or never factual."
+    publishedDateTime: 2020-10-21T14:31:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/21/poll-most-americans-dont-think-what-trump-says-is-based-in-fact/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9043c6bb76f50d5bdce0c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D162%26cropY2%3D2694"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden's won, nothing will change that: Schumer"
+    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
+    publishedDateTime: 2020-11-12T18:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Biden warns 'more people may die' in pandemic..."
+    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring ..."
+    publishedDateTime: 2020-11-17T01:29:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07721490_1605593404.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
@@ -371,37 +261,92 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
-    excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
-    publishedDateTime: 2020-11-13T20:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+  - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
+    excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
+    publishedDateTime: 2020-11-14T16:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/13/look-joe-bidens-family/6272780002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see"
+    excerpt: "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive."
+    publishedDateTime: 2020-11-15T13:49:00Z
+    webUrl: "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 90
     images:
-      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
-    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
-    publishedDateTime: 2020-11-18T06:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'"
+    excerpt: "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump."
+    publishedDateTime: 2020-11-12T15:57:00Z
+    webUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
+    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
+    publishedDateTime: 2020-10-17T10:07:00Z
+    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
+    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
+    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
+    publishedDateTime: 2020-11-01T14:01:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "nG2VMPcLMEHQwK8Va1+YQQx6MMK6fSO0Xo0kWxfqHXfz4fb3ftYoCFlfU9/Kz54jFq/u2+wBfsZESlWc8PG/+y9mL+XMXFtg95b3IWUqfLvRMyG2gdrKzmiimd3ooxcKawKy8locN0XIFXD0mr/Dgrvcf4AX/3kQn/b2+STBFRWKvXX5L+aOv4qHx9rffnsi2PeS652ss0ubxrbmpCQAHOMSf+4NP7h3kxAPQTODUDN5WdUuh9eQ5s42BZqcnJAB5nPhCQzOhKXd28W7cPa5nY4R3qVdg1AdwyjOJVQuHGB6mVemVBd5jPwlN4IDz5Zr21Tp1RmoWXm5C2FrdVqyLa4MtG7f8d1xM9SFsFeXMMrbZuilgIMz83/KYVx/14QqBgKIrb3lC1Nb5GL/rTDKmF2cm6ucCKbYYBYAnQ6/e2v0VyM7E8lMHrZ2g0UT4tCygl92FRfAGPQKuoa/0aQEuJwgpa4KUTFjnGt9VTrvTXgY/3ksEfZg06mthsBJtC9ppX2VmWFJEK0EYNbjyZ8rMQ==;EpTA3jeWWc6Kfe75Bkz+fA=="

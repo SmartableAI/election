@@ -204,20 +204,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
-    type: article
-    provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 55
-    images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
     excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
     publishedDateTime: 2020-11-02T18:48:00Z

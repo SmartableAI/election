@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
     quality: 93
     images:
       - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'"
-    excerpt: "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump."
-    publishedDateTime: 2020-11-12T15:57:00Z
-    webUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

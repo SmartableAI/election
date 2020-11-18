@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T18:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-faces-wisconsin-recount-deadline-as-biden-keeps-focus-on-covid-19-response-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+        width: 817
+        height: 545
+        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z
@@ -162,9 +178,9 @@ related:
   - title: "Trump campaign seeks a partial recount in Wisconsin"
     excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
     publishedDateTime: 2020-11-18T16:53:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idAFKBN27Y2CR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Y2CR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Y2CR"
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
     type: article
     provider:
       name: Reuters

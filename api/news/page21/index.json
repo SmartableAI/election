@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-10-23-trump-signs-executive-order-that-critics-warn-politicizes-federal-career-civil-service.md",
+      "title": "Trump signs executive order that critics warn politicizes federal career civil service",
+      "excerpt": "President Donald Trump signed an executive order that appears to provide him and his agency appointees more leeway in the hiring and firing of federal employees deemed disloyal, a move that critics say politicizes civil service and could lead to career officials being pushed out for political reasons.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPvyGX68EFk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPvyGX68EFk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021013009-white-house-1002-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html",
+      "publishedDateTime": "2020-10-23T08:16:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-watch-vice-president-mike-pence-karen-pence-vote-early-in-indianapolis.md",
       "title": "Watch: Vice President Mike Pence, Karen Pence vote early in Indianapolis",
       "excerpt": "Vice President Mike Pence and Karen Pence voted early in the 2020 election in Indianapolis. Pence said it was a \"great honor\" after dropping his ballot in the box.",
@@ -1260,62 +1316,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
       "publishedDateTime": "2020-10-22T09:58:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nyc-joining-portland-seattle-to-sue-trump-admin-over-defunding-for-anarchist-jurisdictions.md",
-      "title": "NYC joining Portland, Seattle to sue Trump admin over defunding for 'anarchist jurisdictions'",
-      "excerpt": "New York City is joining Seattle and Portland, Ore., to file a complaint against the Trump administration in a Seattle court.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/bill-de-blasio-donald-trump-AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T09:47:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

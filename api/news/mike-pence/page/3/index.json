@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-20-see-what-mike-pences-rally-in-york-county-looks-like.md",
-      "title": "See what Mike Pence's rally in York County looks like",
-      "excerpt": "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
-      "originalUrl": "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ydr.com/amp/5982553002",
-      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002",
-      "publishedDateTime": "2020-10-19T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YDR",
-        "domain": "ydr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-mike-pence-to-return-to-indy-to-vote-early.md",
       "title": "Mike Pence to return to Indy to vote early",
       "excerpt": "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter.",
@@ -1410,6 +1367,63 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
+      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
+      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "publishedDateTime": "2020-10-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
       ]
     }
   ],

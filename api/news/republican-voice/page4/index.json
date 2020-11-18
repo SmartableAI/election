@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-04-twitter-flags-trump-tweets-complaining-of-ballot-dumps.md",
+      "title": "Twitter flags Trump tweets complaining of 'ballot dumps'",
+      "excerpt": "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "publishedDateTime": "2020-11-04T08:32:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-media-and-polls-hyper-judgmental-of-trump-supporters-candace-owens.md",
       "title": "Media and polls 'hyper-judgmental' of Trump supporters: Candace Owens",
       "excerpt": "Conservative activist Candace Owens slammed the media and pollsters for once again failing to accurately predict the presidential election.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
       "publishedDateTime": "2020-10-31T23:47:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.md",
-      "title": "Ivanka Trump breaks Obama record on way to $35M-plus fundraising haul: reports",
-      "excerpt": "Ivanka Trump, White House senior adviser and first daughter, has reportedly raised tens of millions of dollars for her father’s reelection and even broke former President Obama’s single-day fundraising record at a Texas stop in September.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302653297420.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "publishedDateTime": "2020-10-31T20:53:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

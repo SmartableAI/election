@@ -31,37 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age"
-    excerpt: "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means."
-    publishedDateTime: 2020-11-11T09:20:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6232351002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002"
+  - title: "Trump-friendly Newsmax a sudden competitor to Fox News"
+    excerpt: "The Trump-friendly network Newsmax saw its viewership explode after the election, helped by fans of the president who were apparently miffed at Fox News Channel"
+    publishedDateTime: 2020-11-18T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "'Free speech' social media platform Parler is a hit among Trump supporters, but experts say it won't last"
-    excerpt: "Social media platform Parler has gained popularity among President Donald Trump's supporters and right-wing conservatives, but experts don't think the platform will grow."
-    publishedDateTime: 2020-11-17T15:02:00Z
-    webUrl: "https://abcnews.go.com/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
-    ampWebUrl: "https://abcnews.go.com/amp/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/free-speech-social-media-platform-parler-hit-trump/story?id=74245251"
+  - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
+    excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
+    publishedDateTime: 2020-11-15T20:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 108
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://s.abcnews.com/images/Politics/parler-gty-er-201116_1605563513325_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Analysis: Is Trump's Next Foe Fox News?"
+    excerpt: "Since Election Day, President Trump has attacked Fox News repeatedly, particularly its newsroom. Now comes chatter from Washington that he wants to start up his own media outfit to take on Fox."
+    publishedDateTime: 2020-11-14T10:00:00Z
+    webUrl: "https://www.npr.org/2020/11/14/932390859/analysis-is-trumps-next-foe-fox-news"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/13/gettyimages-678832460_wide-3853de8b94f14d6e7da1d0d178274553c151e46f.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "The CEO of Newsmax says the channel will never become 'Trump TV' — but he's open to giving the president a weekly show"
+    excerpt: "Newsmax \"would be open to talking to [Trump] about a weekly show\" once he has left the White House, its CEO Christopher Ruddy said."
+    publishedDateTime: 2020-11-16T11:25:00Z
+    webUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fb24ec4402d49001924f0d2?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 509
         isCached: true
 
 secured: "sLqcYis7xU/S1Q0kytznTqyc+5TpoI77334caPDyNNtowCUO45shuBcrf9d+Z4uNgcbI2I6ThYQrS+BkujgkXrrIk0IuHKu1CEIjBLmPfx0wwaFhz1OtFxcedzq8zRed76LUXyfGtgyOkORHhvi+nqMElEAVHnR35FAZifoiwDVoaK+D6PWlba+x1bbRNJ+vzWxQzaEyo7tLZZo7SPPVDZx8RqFXYjiTIeVHIrbYoQPzMaSBUqYNh31PwTWx9j/B77rwJRvI0hKshb6bVb8fI/UvbiNrPhtcRU3PEyASuL2ssa7Kgmdtai0xsaoLbGttUTk8yV3Ub9iDMrNo4vEBWN2SfpVwKixeZy7EfQl1DYw=;1WNtYA1jtnuCHJyBgqxhrg=="

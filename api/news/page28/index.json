@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
+      "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
+      "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
+      "publishedDateTime": "2020-10-15T18:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.md",
       "title": "Trump denounces White supremacy, says he will accept a 'peaceful transfer of power' but wants 'to win'",
       "excerpt": "President Trump again denounced White supremacy on Thursday, while assuring that he will accept a peaceful transfer of power should Democratic presidential nominee win on Nov. 3, while saying he doesn’t want a transfer, but wants “to win.”",
@@ -1135,7 +1191,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1274,49 +1330,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
-      "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
-      "excerpt": "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "originalUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wkyc.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "publishedDateTime": "2020-10-14T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKYC3",
-        "domain": "wkyc.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

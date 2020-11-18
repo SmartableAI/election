@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
+      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
+      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
+      "publishedDateTime": "2020-11-18T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-in-court-giuliani-argues-to-block-biden-win-in-pennsylvania.md",
       "title": "In court, Giuliani argues to block Biden win in Pennsylvania",
       "excerpt": "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e",
@@ -107,20 +159,20 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-who-are-the-top-contenders-for-the-biden-administration.md",
-      "title": "Who are the top contenders for the Biden administration?",
-      "excerpt": "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks.",
+      "path": "_news/2020-11-18-biden-covid-19-task-force-says-transition-delay-could-be-compromising-us-virus-response.md",
+      "title": "Biden COVID-19 task force says transition delay could be compromising U.S. virus response",
+      "excerpt": "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ",
-          "width": 817,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8",
+          "width": 781,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -129,9 +181,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X1OD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD",
-      "publishedDateTime": "2020-11-17T10:29:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2WD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD",
+      "publishedDateTime": "2020-11-17T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -159,21 +211,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-university-dean-resigns-over-statement-that-called-biden-voters-ignorant-anti-american-and-anti-christian.md",
-      "title": "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\"",
-      "excerpt": "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website.",
+      "path": "_news/2020-11-18-who-are-the-top-contenders-for-the-biden-administration.md",
+      "title": "Who are the top contenders for the Biden administration?",
+      "excerpt": "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
+      "webUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,16 +233,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6325744002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002",
-      "publishedDateTime": "2020-11-17T09:45:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X1OD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD",
+      "publishedDateTime": "2020-11-17T10:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -437,7 +489,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -478,58 +530,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-biden-promised-a-railroad-revolution-that-could-see-faster-trains-and-a-return-to-amtraks-nostalgic-past-heres-what-americans-might-see.md",
-      "title": "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see",
-      "excerpt": "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
-      "originalUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "publishedDateTime": "2020-11-15T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
@@ -742,58 +742,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-a-biden-covid-19-advisor-called-for-a-national-lockdown-lasting-up-to-6-weeks-the-us-had-a-big-pool-of-money-to-pay-for-any-lost-wages-he.md",
-      "title": "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said.",
-      "excerpt": "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp",
-      "publishedDateTime": "2020-11-12T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-biden-chooses-longtime-adviser-ron-klain-as-chief-of-staff.md",
       "title": "Biden chooses longtime adviser Ron Klain as chief of staff",
       "excerpt": "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House.",
@@ -802,7 +750,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1067,7 +1015,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1224,7 +1172,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1583,6 +1531,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
+      "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
+      "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
+      "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6191429002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002",
+      "publishedDateTime": "2020-11-06T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

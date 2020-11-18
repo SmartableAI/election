@@ -3,10 +3,10 @@ category: news
 title: "Trump campaign seeks a partial recount in Wisconsin"
 excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
 publishedDateTime: 2020-11-18T16:53:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idAFKBN27Y2CR"
-webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idAFKBN27Y2CR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Y2CR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Y2CR"
+originalUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
+webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
 type: article
 quality: 125
 heat: -1
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T18:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-faces-wisconsin-recount-deadline-as-biden-keeps-focus-on-covid-19-response-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+        width: 817
+        height: 545
         isCached: true
   - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
     excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
@@ -563,6 +579,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "VkcLX0ifTZL8Qm3Py15YN8KidrMAYcXM2lZbAsJkw2OTlPFAazSlqKBaQTYWvdxHzQWLOabBuD4qZCZKiOdk4l2TFOt8qJndTypiyCirYgnJHJMrOWEK3v4XpYrsr0LLuU16l/RwrtDJ+tpKyiTK2UQ9wh//W7f1NFwWMnBYk2wsgNdYeaTmv8cksD/f2vLRHdjLJcQiK6AqH9OGcjUiMHK03EPPCmoPHJQb4tDbOZQdFqRTona9qZ03T/YaP9xxtjo+fbr/Ai/3AaWNj+U2/150h/8fq6RqZChAUzHwxOUvn5sygaIJE56dFY5+J6FvL8sUTsLLiwPsvg/EL4e0D6NldmW25fqVP5JjRuGPVdI=;7304p7u84JvSaeP3/vpJtw=="
+secured: "7bjtHtDau7CqqyGg/0bDgXD0iwH9T+b5WugBC7Kd0r/IBW/Dc24nuL+uEBXd99AKDTJUcFrtpMn/r1lVkXZNGbhfEugjbJ8FifKhvmiZGJ4ZLBAA6rJEOtWyyYZ9iCN3avP+fn152vROh5QwJ1Lsyng5eyYCZgCZATis67odO1eO9ml3KNwkKbql4Z4ZjGELpC+SKxT92TI1xb+Rh6LKv56z9eOwIwhFSkaIeEjuRa55rRtxO8ExQIVsXrFYoZ2rFshiNQUnb2gNFfaHdlb/D99o8GvmotLj/roqPpDatJzAlD5jfXpCDxaf2Qa8tzfRDP/dJDx9vGadaBy9UeyFLhU34OjOijqx3VYgpQHNkOA=;C0II2MAWlwwu3C6e28jJqw=="
 ---
 

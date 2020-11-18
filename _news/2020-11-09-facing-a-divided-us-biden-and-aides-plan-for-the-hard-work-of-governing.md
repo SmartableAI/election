@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
+    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
+    publishedDateTime: 2020-11-12T08:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
+        width: 794
+        height: 545
+        isCached: true
   - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
     excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
     publishedDateTime: 2020-11-11T16:18:00Z
@@ -94,20 +110,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Biden's won, nothing will change that: Schumer"
-    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
-    publishedDateTime: 2020-11-12T18:52:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."

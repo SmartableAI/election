@@ -2,6 +2,120 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-04-the-trump-campaign-has-set-up-two-war-rooms-in-the-white-house-complex.md",
+      "title": "The Trump campaign has set up two ‘war rooms’ in the White House complex",
+      "excerpt": "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html",
+      "publishedDateTime": "2020-11-03T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
+      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
+      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254027?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
       "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
       "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
@@ -1003,7 +1117,7 @@
       "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -1448,110 +1562,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
-      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
-      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "publishedDateTime": "2020-10-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police.md",
-      "title": "Trump Administration Uses Philadelphia Protests To Illustrate ‘Liberal Democrats’ War Against The Police’",
-      "excerpt": "The Trump administration said the protests in Philadelphia are “the most recent consequence of the Liberal Democrats’ war against the police.” The administration said all incidents of lethal force must be investigated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "originalUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99b9b73e35a3c43d4b6a93%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D35%26cropY2%3D2566",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elanagross/2020/10/28/trump-administration-uses-philadelphia-protests-to-illustrate-liberal-democrats-war-against-the-police/amp/",
-      "publishedDateTime": "2020-10-28T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

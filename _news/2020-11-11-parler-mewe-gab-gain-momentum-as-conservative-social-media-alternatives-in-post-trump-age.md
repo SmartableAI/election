@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6232351002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6232351002"
 type: article
 quality: 115
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Newsmax hopes conservative anger at Fox News and a few Trump tweets can boost the much smaller network"
-    excerpt: "Newsmax, which wants to draw viewers away from Fox News, has played up conservative criticisms of the network. An anchor said Fox is “jumping right into the tank for the left.”"
-    publishedDateTime: 2020-11-10T21:40:00Z
-    webUrl: "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/"
-    ampWebUrl: "https://www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/11/10/newsmax-fox-news-trump-tweets/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYAKUOBDPYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "'Free speech' social media platform Parler is a hit among Trump supporters, but experts say it won't last"
     excerpt: "Social media platform Parler has gained popularity among President Donald Trump's supporters and right-wing conservatives, but experts don't think the platform will grow."
     publishedDateTime: 2020-11-17T15:02:00Z

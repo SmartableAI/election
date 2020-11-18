@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
 type: article
 quality: 172
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "3q3xynvUD7AqN836ZhGjqG02Lk0OrlsDkA57tzNy8zgNgETD+ghp/pK+rA6thWsf3Ws+pCKK094EC9W9OrfH1EaATns+dlueevWElAgtrpWS9YPYDtyAh6FgQZMdi3r62oe4Jyra1ll1YFqesGA22ltc1d71f17tVV+VAYG6wx1U+RkwaKmSFoolw8dMw2BIx842qDK+MWbb7YLFVaFsWeeIQZVj8XxkSGSLCOYDEHvJkiRVLGXNRsbCKQ2SOpPg3rFmlUPg7WVj3YZdy6BRE0/hl/7F7PL+mv38K26FwKJCK+v0wU1En/3LbXfPJfV4zW+m/iIUSO/F0WibgJ0PdA8qGSU1WG4gmoK8pCAq9YE=;+qjTEmuO9kjhIeJEwc1Ztw=="
 ---

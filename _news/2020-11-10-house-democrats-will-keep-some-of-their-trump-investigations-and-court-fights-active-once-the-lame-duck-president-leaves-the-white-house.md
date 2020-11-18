@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
-    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
-    publishedDateTime: 2020-11-15T22:34:00Z
-    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+  - title: "Donald Trump lost the presidency. Residents and realtors of Trump Tower think it may become valuable again."
+    excerpt: "\"I'm hoping that if he doesn't come back there, and we take his name off the building, we could have a wonderful spot to live again,\" said one owner."
+    publishedDateTime: 2020-11-12T19:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 116
+    quality: 107
     images:
-      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
-    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dJkOyyH87prSbs+KPnt0NqJAoMpyjK7NphXdeI0dw8Z3n1C0RDC95WFD90WSiAtLcEZ/JUzyWvsTbIYfdrNh64/gaFpzLfLibf9Fy5Qi0/IqWHPWW7+4JxBNDJAh59iILRiZtyr3kPNnle8RLMUHVR4Zb84QXjyg4nE9CVw5uZnblXOQmlZNinuIvtQObtNIvYTP8g0jGf/DgBJtOZRqkoho3r+ujrTWc7IdF2w9VtrmaN6Atn8ptU12+QTccWAaOrzZzR31ehnLZVFLsQfKIf/x4ChAhGsVjPAuQitTKmnnTamiyXOyzPFHGUG1eouLNq1oZB6kIYyAMnUSnjaavYBtHETanEUu91yw6kyS8hJm7dgXzpDhkfWyKXcw+YFru9hgx3RK2vD2QKV9tF/dwHdMnK+wNOIJotQSyTWcp9Ik4Y3QE+4i3yLbI1/K15MiJYwT9p+Gff1MKIn711resDhBHjRx2FYm95HDJgVIM1sHoqDsgpin+DK/+Qmcx7bbTNFFiK+tWj4FJPltyrYtUw==;nSygjaS3s9N/1Rls3E858w=="

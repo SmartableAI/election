@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden considering former campaign aides for top White House communications roles"
+    excerpt: "Several women who worked on Joe Biden's campaign are being considered for top White House communications roles in the Biden-Harris administration, sources with knowledge of the deliberations tell CNN.\n    \n"
+    publishedDateTime: 2020-11-18T20:38:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kf2hQn8sx2E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118150049-jean-pierre-sanders-bedingfield-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressives turned out for Joe Biden. Now they want a big role in his administration."
     excerpt: "Joe Biden won't be sworn in for another 64 days, but the President-elect is already under pressure from activist groups to bring progressive leaders into his administration -- and close its doors to establishment figures with cozy relationships to Wall Street, defense contractors and the fossil fuel"
     publishedDateTime: 2020-11-17T11:02:56Z
@@ -159,6 +175,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/18/world/18DC-BIDEN-TRADEjump02-inyt/merlin_179818962_2b8e0bbf-dd09-4f19-ba73-7300f0fb068e-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden appoints team of longtime aides to key White House posts"
+    excerpt: "Among other moves, Biden adviser and confidant Mike Donilon will move to the White House as senior adviser to the president."
+    publishedDateTime: 2020-11-18T01:28:00Z
+    webUrl: "https://www.politico.com/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ff/e1/2c4708494a569793ce2f0e12f142/20201117-cedric-richmond-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."

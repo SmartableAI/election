@@ -352,6 +352,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Susan Rice ‘very open’ to joining Biden administration"
+    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-18T19:31:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOkI3nkofM/susan-rice-very-open-to-joining-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Is Biden open to appointing socialists to high administration positions?"
     excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
     publishedDateTime: 2020-11-13T10:00:07Z

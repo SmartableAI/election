@@ -2,6 +2,62 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
+      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
+      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "publishedDateTime": "2020-10-13T14:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks.md",
       "title": "Jim Acosta responds to pro-Trump crowd chanting 'CNN sucks'",
       "excerpt": "CNN's Chief White House Correspondent Jim Acosta responded to a pro-Trump crowd chanting \"CNN sucks\" at a rally for President Trump in Florida.",
@@ -1223,49 +1279,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.md",
-      "title": "VP Mike Pence, in Ohio, criticizes removal of statues in Columbus, elsewhere",
-      "excerpt": "Vice President Mike Pence, campaigning in Ohio on Monday, suggested that America is on the edge of a cultural precipice, denouncing the removal of statues of controversial explorer Christopher Columbus in his namesake city and around the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
-      "originalUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S4BXECN44NDVXCLNI2LJLQNEQM.jpg",
-          "width": 1024,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

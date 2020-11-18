@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
     excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
     publishedDateTime: 2020-11-13T18:22:00Z

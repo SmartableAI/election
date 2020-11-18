@@ -2,6 +2,62 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-29-top-democrat-says-trump-administration-moving-ahead-with-sale-of-f-35-jets-to-the-uae.md",
+      "title": "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE",
+      "excerpt": "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 248,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029133251-01-f-35-lightning-ii-joint-strike-fighter-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
+      "publishedDateTime": "2020-10-29T10:50:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-watch-joe-biden-holds-drive-in-rally-in-tampa-florida.md",
       "title": "WATCH: Joe Biden holds drive-in rally in Tampa, Florida",
       "excerpt": "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail.",
@@ -174,7 +230,7 @@
       "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 860,
       "tags": null,
       "images": [
         {
@@ -583,6 +639,49 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday.md",
+      "title": "Vice President Mike Pence to speak at rallies in Arizona on Friday",
+      "excerpt": "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
+      "originalUrl": "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
+      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
+      "publishedDateTime": "2020-10-28T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPNX",
+        "domain": "12news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1240,114 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
-      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
-      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
-      "publishedDateTime": "2020-10-28T14:46:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-trump-says-hopefully-states-wont-be-allowed-to-count-ballots-after-election-day-which-is-a-normal-part-of-the-electoral-process.md",
-      "title": "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process",
-      "excerpt": "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp",
-      "publishedDateTime": "2020-10-28T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -209,6 +209,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-18T12:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article247232364.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article247232364.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article247232364.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998024001/52745579-bc16-43c3-9d9e-e8c13d5f8543/d110c3a1-f42d-4cac-ada1-2446b71ea7d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Menlo Park school board president resigns after wife's 'reprehensible' tweet about Kamala Harris"
     excerpt: "A Menlo Park school board president stepped down after his wife's racist, offensive tweet began circulating among students' families."
     publishedDateTime: 2020-11-10T08:15:00Z

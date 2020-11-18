@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-10-30-nfl-legend-brett-favre-endorses-trump-for-president.md",
+      "title": "NFL legend Brett Favre endorses Trump for president",
+      "excerpt": "NFL great Brett Favre has endorsed President Donald Trump for reelection. He's one of the most prominent figures in sports to publicly pledge support for the President.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsVIeIUpq4U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fsVIeIUpq4U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030124235-brett-favre-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/brett-favre-endorses-trump-trnd/index.html",
+      "publishedDateTime": "2020-10-30T10:12:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
       "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
       "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
@@ -1009,7 +1065,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1267,62 +1323,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-top-democrat-says-trump-administration-moving-ahead-with-sale-of-f-35-jets-to-the-uae.md",
-      "title": "Top Democrat says Trump administration moving ahead with sale of F-35 jets to the UAE",
-      "excerpt": "The chairman of the House Foreign Affairs Committee said Thursday that the Trump administration has informally notified Congress of its intent to move forward with a major arms sale to the United Arab Emirates involving advanced F-35 jets.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfsYpxzAR3E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029133251-01-f-35-lightning-ii-joint-strike-fighter-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/f-35-jets-uae/index.html",
-      "publishedDateTime": "2020-10-29T10:50:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

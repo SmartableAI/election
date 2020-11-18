@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump has achieved one of his post-election goals: sowing doubt about the outcome with his base"
+    excerpt: "If Trump’s main goal was to convince his base Biden didn’t win fairly, he can rest assured that he was successful."
+    publishedDateTime: 2020-11-18T18:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/trump-has-achieved-one-his-post-election-goals-sowing-doubt-about-outcome-with-his-base/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/trump-has-achieved-one-his-post-election-goals-sowing-doubt-about-outcome-with-his-base/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/trump-has-achieved-one-his-post-election-goals-sowing-doubt-about-outcome-with-his-base/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TIBV3JBGYAI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Republicans: Unshackle yourselves from the Trump craziness"
     excerpt: "Here you are, anxiously waiting for Donald Trump and his royal family to accept reality, not wanting to say anything that might upset him or his followers, because somehow the thing you fear most in the world — more than any virus,"
     publishedDateTime: 2020-11-10T06:00:00Z

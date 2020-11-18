@@ -2,15 +2,13 @@
 category: news
 title: "Senate Republicans appear to congratulate Kamala Harris despite election dispute"
 excerpt: "Several Republican senators congratulated Vice President-elect Kamala Harris on her electoral victory, even as many of them publicly rally behind President Trump's efforts to fight the election results."
-publishedDateTime: 2020-11-18T14:03:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/200oD5UbZQY/senate-republicans-congratulate-kamala-harris-election-dispute"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/200oD5UbZQY/senate-republicans-congratulate-kamala-harris-election-dispute"
-ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp"
+publishedDateTime: 2020-11-18T14:16:00Z
+originalUrl: "https://www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute"
+webUrl: "https://www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute"
 type: article
-quality: 195
-heat: 355
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,8 +20,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315750551129.jpg"
@@ -64,6 +62,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "California governor quiet on Kamala Harris replacement: 'No timeline has been established'"
+    excerpt: "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders."
+    publishedDateTime: 2020-11-11T14:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established"
+    ampWebUrl: "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg"
+        width: 1024
+        height: 712
+        isCached: true
   - title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
     excerpt: "In a very friendly moment, Sen. Lindsey Graham, R-S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
     publishedDateTime: 2020-11-17T22:43:19Z
@@ -77,6 +91,22 @@ related:
     quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
+    excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
+    publishedDateTime: 2020-11-17T17:44:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dtGIuijslg/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-newsom-harris-senate-seat-nonnegotiable-black-woman-karen-bass-barbara-lee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -95,22 +125,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair"
-    excerpt: "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. "
-    publishedDateTime: 2020-11-13T00:35:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/c30b26d4-jaime-harrison-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
     excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
@@ -144,21 +158,32 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris: \"Last Month The Unemployment Rate For Black Americans Was Almost Twice The Rate Of Others\""
-    excerpt: "Sen. Kamala Harris spoke about her priorities for the coming months of transition during a brief appearance Monday in Delaware: KAMALA HARRIS: Good afternoon. President-elect Biden and I just met with some of our nation's business and union leaders."
-    publishedDateTime: 2020-11-16T21:36:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/16/kamala_harris_last_month_the_unemployment_rate_for_black_americans_was_almost_twice_the_rate_of_others.html"
+  - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
+    excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
+    publishedDateTime: 2020-11-13T06:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 48
+    quality: 64
     images:
-      - url: "https://assets.realclear.com/images/52/527276.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/526989.jpg"
+        width: 1126
+        height: 844
         isCached: true
+  - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
+    excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
+    publishedDateTime: 2020-11-11T04:56:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
 
-secured: "/hzpKefExmWgAKjmBTFXHTrO1y0Ii3ADFOjDujGAQvigE6PgG5MSKTzRYRSzJE+lv1aXu4tXWaDxP7y30Lu3dvEI70eki73t5+tJXOnGWYO9GY6MmUlii4VDvhm2ZSrR1WATi0lOHMAZGdmFf08NzVWbD9ffvu/v8Xv/n+z+tXtM04lfFwyV8SnmuptdJRgKNX2s+ITixMHd5j1YwSJW41iZZX/9imLVEs5Sqm1n5LoTo9h76/i0DZyP+1h2UsY3VTVMQuDzhwYG2ij1lLe0TZ7S5x6beOgoSYHsiIaJQEB+2GLJ4J4Q5Ezz/ll5PjPQFZAp36RRSdp5rexXzJcpbRxE4nnFfxO7jsMOblX0wvA=;xN1NaNekRagNUWzTFpIeGw=="
+secured: "X0uW3RkFSeHkpNJ4uC2OGD8S2Hm4/P9Xa11wFQAykMClMf06lgoSWK/4Ok+C5IxwoY4zDROQTASDW1g401MteOKBDkbGXA0muvdr3OVlIm+vKVNK/TnsM58rbAVl7NYHajou/n10Ac0LJzC2ZHHfdxJT1wiRPDmYdZ5xno6hBYsMush/EEMHie16MqQFY1GaA+EQ2Wvg75s2tccGbDgnxPi/N5bkTpavFLPgKhVIa8o3bkCEcE7cNjzJBTAIfjf7Yey0fT6BEFK/aDwcGGWFxI2N9G3ZXctn9yrLUPbq0e9OL/VW1Ctdllbc7oDcgEtqyhR+9InqZBoxcjjG5aAk8H7OBFVoYrtD8OIpdI/7ylc=;GSVV480/Pm7lKypjGekmXA=="
 ---
 

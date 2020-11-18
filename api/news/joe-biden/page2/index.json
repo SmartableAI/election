@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-07-how-joe-bidens-leads-in-georgia-pennsylvania-nevada-give-him-a-clear-path-to-270-electoral-votes.md",
-      "title": "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes",
-      "excerpt": "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6191429002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002",
-      "publishedDateTime": "2020-11-06T12:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
       "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
       "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
@@ -754,7 +702,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1584,6 +1532,58 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-joe-bidens-dangerous-top-secret-foreign-policy.md",
+      "title": "Joe Biden's dangerous, top secret 'foreign policy'",
+      "excerpt": "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy",
+      "originalUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp",
+      "publishedDateTime": "2020-10-26T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Joe Biden"
       ]
     }
