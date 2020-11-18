@@ -21,19 +21,19 @@ topics:
 related:
   - title: "In court, Giuliani argues to block Biden win in Pennsylvania"
     excerpt: "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e"
-    publishedDateTime: 2020-11-18T01:28:00Z
-    webUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_391b6a5df63343cf90a2f7d6807552c0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
     excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."

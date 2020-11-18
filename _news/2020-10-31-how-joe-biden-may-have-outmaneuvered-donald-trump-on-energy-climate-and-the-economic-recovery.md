@@ -2497,6 +2497,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Judge skeptical of Trump lawsuit in Pennsylvania"
+    excerpt: "Politics Judge skeptical of Trump lawsuit in Pennsylvania. Posted . A judge on Tuesday appeared skeptical of President Donald Trump's request to block officials from certifying Pr"
+    publishedDateTime: 2020-11-18T06:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/judge-skeptical-of-trump-lawsuit-in-penn-idOVD4YOQY3?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201118&i=OVD4YOQY3&r=OVD4YOQY3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump campaign lawsuit in Pennsylvania vote heads to court"
     excerpt: "A hearing on the Trump campaign's federal lawsuit seeking to prevent Pennsylvania officials from certifying the vote results remains on track for Tuesday after a judge quickly denied the campaign's new lawyer's request for a delay."
     publishedDateTime: 2020-11-17T16:56:00Z

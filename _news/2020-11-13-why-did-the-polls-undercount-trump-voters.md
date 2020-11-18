@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-und
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "BDa74tVDz7Vg2cCbjSw8uAjNZofoNmRU1c5mEZFLADKIdITOGIuqFNcFQ+Zh9yzrzi9cRi72ZI9Q3PkjsIlGgmCevadNmP3CsHn6UCW6LBZ3VOvZV/7sSTIpkT+SMV0uREx7pFXxFFOiUpR6i/xcsEJg2EWiJK2kb/GNYD8LLH2vplXtsYulJVlBD8l2OvVcMPKbL+kC+bDAwMuxmfG3Ueuldy/rhuYwzWzk2uXYTDtqpGphPZYztwHQ+Q7w5zs3B6IzBt1aq49Z/iwgZFDeV5VOdO+2m3n6Z/4ubvc3R8BrDDgyuuJLgVmhPjGWBEW95UNn0NLptT0wELX7hC+wDMTyHAU254CrYNDTZaEzm7BImoXwtWW78F2o0lyX3mjpb2g1y1tXYlSHhos4j8wxyWvNGTj1LVYD1qM54N+Rc289+UlBgzk7tHxYEYAsKC5zIt61GWAzNkWgPLEMbF5VmlDqzEgySjJ35mpeHbG4pxpBRRdE0gK8FbIAQK+AllVq9O/9Cf6v/TuF8URV2BenGQ==;Vd1HcVnOONs2CROiQiQEaA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y04O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y04O"
 type: article
 quality: 140
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
+    excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
+    publishedDateTime: 2020-11-18T06:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idINKBN27Y04O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27Y04O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27Y04O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541567905&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH01P"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
     publishedDateTime: 2020-11-13T17:21:00Z
@@ -94,6 +110,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nhNyq0pPQNtl7d4kKsPoQRrUWIlSTtAk3hT9GVIkQP7PhYkSIRbWAGud5YAj0KQi04Azzffj83EbQ+fIZaUkWwPSjSelmo52OtfpqgVXN+UgA6lokL/MmjeLG0P3Jd5VoTqGKZfV5L67p4lWUIX6FDdKGSZmAF1H+SAbT9OmZSsKxHCL8RqKX3YYRLozwCzZGNW25yuhGsKoV+0Q2tfgpulN1DSrGfohP0L/GJbBqmRVxRzpCu1n2FL3xq19iljecgLze6OqYe0QlM9Zqsc0mqo+zmOF79ntMlaGGZPH1GmwHP9r7d/fyEEx4hABuWpJ0pSwDANyeKH/gVK0kPcOJxi00u9zssGdV7BeaP2jDOw=;RwTzxiOY0DxUTP8jg4g5nQ=="
+secured: "YcISmz9zE6sPfWFmBLVDpU+IsU9meeZn5yVj2snsfDpQ4anopbq5wach4ywJw8Dgbo4W62j7KOs+gZEAnTRob6ST+SgLIrdnQplWtjd2+mNI0pSNLf4y6JBIt78H3QJcBaIT/nLXv8islo81mifQ/NzDcXr4muYtKccmPwDrT9sldMbVnWbojgGbx5n60TtmuaHWBYaU41egj/g2MbNzBmlxOOeozxECVoOZLWuYuHdDm4bqO+gD7aW0IczVaSd1Y35PVU4H5qdifCK/aJu0gZacNVHXUT3etmIbFYuG8tKYV2WfTc1YUXFbwjbk4JnH+/TmdhQNONXo6EwnJTyZOkKU2IGVQEjBr1peXrbQ7dw=;8hY3Hi1xYkkNnohkbDzg2Q=="
 ---
 

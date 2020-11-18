@@ -45,6 +45,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
+    excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
+    publishedDateTime: 2020-11-18T06:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idINKBN27Y04O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27Y04O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27Y04O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541567905&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH01P"
+        width: 753
+        height: 545
+        isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
     publishedDateTime: 2020-11-13T17:21:00Z

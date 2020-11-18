@@ -231,6 +231,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris receives congratulatory welcome from several GOP senators who haven't acknowledged Biden’s win"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday returned to the Senate floor, where she cast the decisive vote to block President Trump's controversial pick for the Federal Reserve, Judy Shelton. Before that,"
+    publishedDateTime: 2020-11-17T21:32:00Z
+    webUrl: "https://theweek.com/speedreads/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 71
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229657402.jpg?itok=f65NQoIj"
+        width: 840
+        height: 560
+        isCached: true
   - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Raleigh News & Observer"
     excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
     publishedDateTime: 2020-11-17T21:08:00Z

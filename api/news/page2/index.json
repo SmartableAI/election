@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-17-cindy-mccain-explains-why-she-voted-for-joe-biden-and-not-that-other-guy.md",
+      "title": "Cindy McCain explains why she voted for Joe Biden — and not that other guy",
+      "excerpt": "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXZ45QBIEQI6XGYUVWDSCV7LZE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-17T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-trump-counts-crowds-size-using-maga-math-says-stephen-colbert.md",
       "title": "Trump Counts Crowd’s Size Using ‘MAGA Math,’ Says Stephen Colbert",
       "excerpt": "Ten thousand, a million — it’s just how they count,” Colbert said of Saturday’s Million MAGA March. “You round up for marches, you round down for Covid deaths.”",
@@ -1298,62 +1350,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-coronavirus-adviser-scott-atlas-urges-michigan-to-rise-up-against-new-covid-19-measures.md",
-      "title": "Trump coronavirus adviser Scott Atlas urges Michigan to 'rise up' against new Covid-19 measures",
-      "excerpt": "White House coronavirus task force member Dr. Scott Atlas criticized Michigan's new Covid-19 restrictions in a tweet shortly after they were announced Sunday evening, urging people to \"rise up\" against the new public health measures.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_acBbcq_xI0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_acBbcq_xI0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021132548-atlas-trump-september-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/15/politics/scott-atlas-coronavirus-michigan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/15/politics/scott-atlas-coronavirus-michigan/index.html",
-      "publishedDateTime": "2020-11-15T19:50:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

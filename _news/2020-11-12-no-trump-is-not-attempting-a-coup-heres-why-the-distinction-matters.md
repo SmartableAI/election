@@ -125,6 +125,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "l3+u+JQlQrlYF9Ec5c7DBHy5wZdSHuWHshh2S7R4iaedcLy5vpc+W1bqMHQX8WTDvRxYFZkl5mou3kX8AxthSCln0cgmyEiIbmQVta32LB1+QTnYSTXcDBuKbMAkN056bBazc9FphJg5bY5plTk06N44yo0rVAS7SEld+7aveGb32uVjiWEGOWdQi6glbuXlCGZwvA3mH3dAkGGh2G81D1i9Goq/jAzz2QJ4lj5Ea9FungsSkF3RFsyHYZOtfGdFlNNEAfYsfmFQq1BRLfTkTJUezwtNTkq+0XI+8COF+IkgAbZnW4W0Q9rZBB9zAjRexsBQrp5Ak2vf8lo3rRymO76IY+3FyMDk+5YHvjX+vZk=;dc5GZfatJUXrDtm8Yk4QYw=="
 ---

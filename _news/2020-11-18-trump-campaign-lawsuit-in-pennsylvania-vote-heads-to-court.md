@@ -2498,6 +2498,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Judge skeptical of Trump lawsuit in Pennsylvania"
+    excerpt: "Politics Judge skeptical of Trump lawsuit in Pennsylvania. Posted . A judge on Tuesday appeared skeptical of President Donald Trump's request to block officials from certifying Pr"
+    publishedDateTime: 2020-11-18T06:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/judge-skeptical-of-trump-lawsuit-in-penn-idOVD4YOQY3?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201118&i=OVD4YOQY3&r=OVD4YOQY3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
     excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
     publishedDateTime: 2020-10-07T13:42:00Z

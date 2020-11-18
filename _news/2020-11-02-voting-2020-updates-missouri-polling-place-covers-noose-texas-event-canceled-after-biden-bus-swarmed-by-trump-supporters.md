@@ -2512,6 +2512,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden’s DIY transition proceeds without Trump assistance"
+    excerpt: "President-elect Joe Biden has been forced to seek extraordinary workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine wee"
+    publishedDateTime: 2020-11-18T05:19:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
