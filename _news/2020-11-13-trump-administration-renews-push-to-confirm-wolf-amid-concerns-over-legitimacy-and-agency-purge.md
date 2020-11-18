@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Lindsey Graham just crossed another line in defending Trump"
+    excerpt: "Fresh off a surprisingly pedestrian election win on November 3, Lindsey Graham has decided to take on a new role: The most aggressive enforcer of the idea that President Donald Trump maybe -- just maybe! -- didn't lose the 2020 election.\n    \n"
+    publishedDateTime: 2020-11-17T23:16:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030173830-13d-lindsey-graham-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's transition sabotage threatens vaccine rollout"
     excerpt: "President Donald Trump's refusal to coordinate with President-elect Joe Biden on the critical Covid-19 vaccine is bringing a staggering possibility into clearer view: that an outgoing US commander in chief is actively working to sabotage his successor.\n    \n"
     publishedDateTime: 2020-11-17T11:32:53Z
@@ -76,6 +92,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720120229-weir-alaska-anwr-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump fires director of Homeland Security agency who had rejected President's election conspiracy theories"
+    excerpt: "President Donald Trump on Tuesday fired the Department of Homeland Security official who had rejected Trump's claims of widespread voter fraud.\n    \n"
+    publishedDateTime: 2020-11-18T00:37:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QBXmhMfzdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/chris-krebs-fired-by-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/chris-krebs-fired-by-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -204,6 +236,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "In Georgia, a Republican Feud With Trump at the Center"
+    excerpt: "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs."
+    publishedDateTime: 2020-11-18T00:25:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia2/merlin_179891979_420d9eec-a5bf-427e-9154-f1f87b90a5d3-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

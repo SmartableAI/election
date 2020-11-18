@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2698
+heat: 2718
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/28/multimedia/28elections-briefing-sched/28elections-briefing-sched-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump scores a long-awaited coronavirus win with vaccines on the way"
+    excerpt: "President Donald Trump finally has something legitimate to take credit for in his coronavirus response: A vaccine that appears poised to reach Americans in record time.\n    \n"
+    publishedDateTime: 2020-11-17T23:50:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LDX5bfJdaIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Why Obama saved his harshest critiques of Trump until the campaign's end"
     excerpt: "Barack Obama held back his most biting critiques of President Donald Trump in the first years of his post-presidency, hoping the lack of constant attacks would make his voice even more powerful at a time he thought it was most needed.\n    \n"

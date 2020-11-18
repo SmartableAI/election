@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to cut troop levels in Afghanistan but stops short of full withdrawal"
+    excerpt: "President Donald Trump will sharply reduce the number of U.S. forces in Afghanistan from 4,500 to 2,500 before he leaves office, the Pentagon announced on Tuesday, stopping short of the complete withdrawal Trump threatened to carry out by Christmas."
+    publishedDateTime: 2020-11-18T00:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-afghanistan-trump-int-idUSKBN27X2P3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2P3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2P3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541539083&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1N9"
+        width: 792
+        height: 545
+        isCached: true
   - title: "Trump orders the Pentagon to pull thousands of US troops out of Iraq and Afghanistan"
     excerpt: "By Jan. 15, 2021, there will be 2,500 troops in Iraq and 2,500 in Afghanistan, a reduction of thousands of US military personnel."
     publishedDateTime: 2020-11-17T19:45:00Z

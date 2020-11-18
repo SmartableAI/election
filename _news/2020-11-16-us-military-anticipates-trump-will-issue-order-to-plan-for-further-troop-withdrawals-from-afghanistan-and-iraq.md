@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Family of American held in Afghanistan fear he will be left behind as Trump orders more troops to withdraw"
+    excerpt: "The family of an American kidnapped in Afghanistan earlier this year expressed their fears he may be left behind after the Trump administration announced they are withdrawing more troops from the country over the next few months.\n    \n"
+    publishedDateTime: 2020-11-17T23:50:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78gqvgCYHjQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/mark-frerichs-afghanistan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/mark-frerichs-afghanistan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RxNCx6iRJNqPRSD/bFWKFgtXVTdhfjo0DFL3t/lXSjizav/ob/W0SEXqRPBeatUF88q07KJPuCEnJIZy8S0zUTCHdxWkWMB1NzLVU0NHoHF5CjrXPaoccAeM1kJNQzpceHFgwMQpdow1dsOa1vUns7fY8ia77eu8wJNbqBKDOEafm6+xnFUEOT8WXYE27R4W5iKbp2Kv0aVLbs/FKeaZbS0ojl1Clf5sYCG7BQMNne8C7Mvtl8k0W6fvSBIzpPkNjEWT7xhREvrszgkV8vJ/C70ILfgXjUIbXkkjWDxi7cxCpKJDLoKeYrmj70tcCCLIzOeNymRQNrMwB2yK6glfZIi3ZWKzQRCGbSz+tqf1wNU=;Ib5NicP+hF6yMo+8WLN1xQ=="
 ---

@@ -180,6 +180,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T21:08:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "For some Bastrop residents, Kamala Harris inspires hope"
     excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
     publishedDateTime: 2020-11-12T23:17:00Z
@@ -195,6 +211,22 @@ related:
       - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201112&Category=NEWS&ArtNo=201119820&Ref=AR"
         width: 3024
         height: 4032
+        isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Raleigh News & Observer"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T21:08:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "US election: Kamala Harris' ancestral Indian village celebrates vice-president-elect"
     excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
@@ -250,6 +282,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "zwYiYwhSESmkl23HCFB8HO4lExMR45kFaKJw21tjThUk88Vex2hPkDH2CIRB7zG03msBP0D5so6PyG8H5YGzt8BmpKY5QDppNRGy7OnIVQCaFI4DhA3k2wntWdrdl7BP6NxPVQJeCNfxu+yM2fMs7KkFIwJK/KUT5R0o/sQZhyKBxZBassEAMOcDotEBNg5T/kgPg7vDGOvLZytPQTttL9CKx+y/d4QnNSOTgaiIT1n7ZVK+cS3KHD+vj3hMgII4q4xkI8h/VOE763p2j44aehrIrUcT634G3PDzSLZPZenxYuMRAJcjFAfFjrrw6evMcN63e2ZoGCWIFsl0FPdWbYTXmikQQCJobwALnyZW0wU=;Nlgsaq5wH8rjdAkaJBQPFQ=="
+secured: "8nztaNEITqp2cHP+DD9D7bBiMMnmYL+0lisz91UB8DrBorXNGFyoGeBY214W4KIt1OmN807jdYfBzzBSU5hGqwd4SUDofNURLrTl58X7CYDP6146b5Jgo6QjNjOWHFH9oCYU7T+Q8qAyguhgcAwKa2VOk5DJgIgN7ZI08OfUcjwrikAeINAGnuLhQAWDIElsHp/FWwdRxCMCa6LcIWnaTPN1YK1X7BsQ/5DQnW7yF0nkuWwdreCUwPqh/JLlor6u7qZnpFN7TsmLr4n9x5OIw5inidyu9UKFdqOUqVBU0XhRp6dLnKsohDHAUaMDVLh2ULVapYZOvZuS54zgtXJYmc2yiBosXMFz6WW67tsIaxPKMNNOlBif4RtLXYa+p5lh04ZCNtB4iEwGxNBQXh40a0I5doeFN2xWpLifVhmXYhgw56NvUQ9bpkWblvbI7Zu98V9hP+4tAqbY5YVVVy5FzwMvaETW4hlNVIFOEXrh1nAR7nY4WKNeNY6ZA5O2I85AyYR3gzRCtCBKa8YtEpz5Dw==;86vNruzBrbMnPUseBHEITQ=="
 ---
 

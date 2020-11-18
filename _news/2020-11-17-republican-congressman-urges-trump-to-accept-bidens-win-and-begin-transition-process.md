@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
+    excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
+    publishedDateTime: 2020-11-17T23:59:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iRtl9X3Ersc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117124522-restricted-joe-biden-economy-wilmington-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
     excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
     publishedDateTime: 2020-11-16T18:18:21Z

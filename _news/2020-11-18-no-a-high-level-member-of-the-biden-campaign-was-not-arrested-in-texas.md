@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
+    excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
+    publishedDateTime: 2020-11-17T23:59:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iRtl9X3Ersc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117124522-restricted-joe-biden-economy-wilmington-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z
@@ -203,6 +219,6 @@ related:
         height: 619
         isCached: true
 
-secured: "q7fVJ27dTvbtk+C7iTr64z+i9QN6ymAtVIa/EdawuYUvPcRGfHDgnqVxQQJ8o5HHrcAe+VPmXR0842SvoLS36qp1FUthIBkoBcK5dD6fiQ7Mm89Xj/ji5wJlP5wUhN1Fd8FBEdDBEL5j1yNDZD7QmBuabP3dFcYhLyeOLYLaa2XzwyATiJ0YtF1fD9c7IpdA94DA9E66scMhROV2AoSAB3m+lntPS7zkeqswdwtSOelFKfme6Hg7RSKLSAC/9J5I88W8heva7Y4eW4g2JyMsy+NKKJ4kVsGQ9UZTmmME6TnTkGYhwZZGqSxINH3k08YFb0XlVyDlV+L0C0yF2SUebBfbxEAONAg+sgmwzU9kUUo=;s9CMqBOpyxKStmqgmqseKA=="
+secured: "CR78Mqi6eO3QeR5t0Z1sRn+tuxCZpBXHg4q3zGnoHI4mBp0+6V0ei1wCC6r1DfaMGTnfi2jLv4NTvPTGl8kdAwqLoNW1M58GiNnidie0l0DlZshkj1CGVfxNv/uvnNFWPD89v5/OeTp2i4uL5zbjupH3Z6bUt/es8k+ZS2xxgH1D56k53vrhd1XrdDGIzOfbCrj0XZysjwxzqebF1QOT/heOn1RCMjUzVnpID4T8S0swuz3tH3JIf2TVIxeVTc9BVps5beox2/3l3+BPlEcU8YWlIVmMStlyn85MOCCrOKUwwYjvmPM07i7euH07Y2zjT5TGzaLeh3nyic6Hz2nl3phLU1+E22gRbHr7cvgQdzfUj9OJeM0gjevoXW60WTalNQ9NUISMNhOrtHlZ44+zobmGnN4uAxzQTnEcYQ/W+5Uu7zbPF14GX1a3dZqk1WLBQ+cx7JK18GCzlhOv8p6R80b0hed7qEfoIcZipIO/xzyixJrjDYgvLHhF+zdcJUtTul9a37kw/UuYMwtGidxfXA==;2LwBzn44eaFk0x4jVOmwEw=="
 ---
 

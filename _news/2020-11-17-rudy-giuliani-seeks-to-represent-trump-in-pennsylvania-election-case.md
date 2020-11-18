@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
 type: article
 quality: 190
-heat: 530
+heat: 570
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump team looks to box in Biden on foreign policy by lighting too many fires to put out"
+    excerpt: "President Donald Trump's order of a further withdrawal of US troops from Afghanistan and Iraq is the latest foreign policy move on a growing list in his final weeks in office that are meant to limit President-elect Joe Biden's options before he takes office in January.\n    \n"
+    publishedDateTime: 2020-11-18T00:20:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E9bBnYYXDsI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-biden-natsec-transition-fires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-biden-natsec-transition-fires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -172,6 +188,22 @@ related:
     quality: 151
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pennsylvania Supreme Court rules Trump campaign observers had no right to stand within a specific distance during Philadelphia ballot processing"
+    excerpt: "The Pennsylvania Supreme Court on Tuesday ruled 5-2 that a Trump campaign ballot processing observer in Philadelphia had no right to stand any particular distance away from election workers, and it's up to counties to decide where poll watchers can stand.\n    \n"
+    publishedDateTime: 2020-11-17T23:05:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xKBCBP5NKvY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/pennsylvania-supreme-court-ballot-observation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/pennsylvania-supreme-court-ballot-observation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 138
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117142614-donald-trump-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,11 +2,11 @@
 category: news
 title: "The Biden administration: Top staff and Cabinet contenders"
 excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-publishedDateTime: 2020-11-17T17:36:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox/who-are-the-top-contenders-for-the-biden-administration-idUSKBN27X1OD"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox/who-are-the-top-contenders-for-the-biden-administration-idUSKBN27X1OD"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+publishedDateTime: 2020-11-17T23:42:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
-    width: 817
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
+    width: 819
     height: 545
     isCached: true
 
@@ -117,6 +117,6 @@ related:
       domain: businessinsider.com
     quality: 98
 
-secured: "ddCqzt/hg7lSSR3Buv5JVBsdvRyPBxSdnzVcPp+gGuUT+kAfg4Ga6Wzj07jYiQLwWAlGw2mzSuKDC3Sfx60nRLA5FVefm9++/1s1tZr+CI/3/nGikKKiGZGIaxV8UN+15pFNLgo+Dueabdx73KtDgHXZ1iRlGwANTH5Vo9gnNaKnHxqAzGfxK0rDTOqa4IIelK1RF34JXf7I3kBeUHzi4+h9BeaxS71w83zjqOUFm6kO6FvRjZ2+/QuXyoQtlhx67X8HMfefAbmQUMfeojAbMuWUP8gYTfSF/4qS+EpM2neemd3aa/UQIAnFTeIcpoJFEoQXX1a9cib9y8H+u5G29A8Daxp21G3ylxOlgTqeZUw=;pR+MSLu0PRVoHIC0W3IO3A=="
+secured: "Fdu1daIxpX/F33y3OTuCO2XGk7b9pxDHtbskqgn7Z4jRUtZ5Y/8mH4YYPE59tcm3BweOxxhP5Uff0XZTK08FHdHHtQGFasjquCjaei+llieTfd+/fbk4vLEWYzATd2eGXFUslckQ7EVEsUz/LRSj3mWRSO3ZuXWOs8e1DUSwf1OfmncPrlpzlATpuaHWOubUhk6KkaIXZXWL1J8CFMcerA/+uqEDrkjveKzrQfT8yuukD7rbJl2cfh8Gm9uDY+u2H1Dhmie1V9w+qZb2/NQI+HW8odZLFfROv9Kbrh/64pcalTTsF7WXt9DALarOoOt+q3naDIxANA/qh6gsOXvavSHtuKIO0szWPK85MldwMKU=;qGSk8wBVmyyXSohBkM8Ceg=="
 ---
 

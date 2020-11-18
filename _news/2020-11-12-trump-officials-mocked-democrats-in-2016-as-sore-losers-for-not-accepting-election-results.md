@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-20
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
 type: article
 quality: 178
-heat: 338
+heat: 358
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graham probed state officials in three states Trump lost"
+    excerpt: "Republican Sen. Lindsey Graham of South Carolina acknowledged on Tuesday that his efforts to probe state officials went beyond Georgia into two other states where Democratic President-elect Joe Biden also won, while President Donald Trump sought to discredit the result of the election.\n    \n"
+    publishedDateTime: 2020-11-17T23:38:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/etXQd14CTQI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg"
+        width: 460
+        height: 259
+        isCached: true
   - title: "Scaramucci predicts three pieces of Trump's endgame"
     excerpt: "Former White House communications director, Anthony Scaramucci, predicts what President Trump's endgame might be as he continues to deny the results of the 2020 presidential election.\n    \n"
     publishedDateTime: 2020-11-17T05:41:45Z

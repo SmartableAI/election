@@ -2,11 +2,11 @@
 category: news
 title: "Who are the top contenders for the Biden administration?"
 excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-publishedDateTime: 2020-11-17T18:25:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
+publishedDateTime: 2020-11-17T18:29:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
 type: article
 quality: 125
 heat: 265
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
-    width: 819
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+    width: 817
     height: 545
     isCached: true
 
@@ -139,6 +139,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Gw1vwDE7ln8B/j91VZpMHs0V4JkgL9vb6jofga++eH9vj8StNovNF/o0e0I47r+ApEHk6kI8F+xJ7jlruLD9aNGAGhHS3J80sjqEHqRjgAhbmjH3YWAJJ317P13GN20KLT1ukb2nJrdGCaSKlvcZFvOEJVPn7jOJQBKPnulEbfpL/VHrY+5TWwltW1b09tyZ9rKF4C3qyHZkxy17dRjP6gapxokMdBP809GTq/P4HV/Foq+7ektiDxvIWIG6Rted6PIVOtj83zTXqUesNA7yngA2h8Zk7muIUMvomAXlus8yreggV1URfMTP4DakUxsZMkrIP5MNwJKLXFqK4n4h4sZuNFtcJ4vnJYjn6ZM5QtU=;R66OnYbh0LLyRxaDgGnNUA=="
+secured: "wkyGUy7ypqijjqxVcEdi/ZckvUbO8KSRqr4wYR97AcDujsnnMKaKCHOdc8dP3NCi7SWd4I75txrY4Ujrtp4j+wWqKPy/OeR00SVIaqun0fzyJnvYBPbDoIuSqPQDhQir+RE/oGiXkb2U0RH9KaVOM1EWc7O7kbMZTGzADCvTYQhhV9qe1WPe8KYbatYAHxsDgyxUolKmz5DvQSPeW6ex3FAmnGBxAUin3GxZ9HGFNGj3BNpj3ikaimiGbbdM7I4qj6YQfcB4UwKlCP5nAHGlgC120eAIU8XX9IM4azBiXsfD4mBLC4lMT5LF7v+TQOsE+PdNrKVJ4fYtR3+S0jIya0QSgw9v9obPSw9S6H8tVow=;t/zFrslcVMNEuAxcBBzMUA=="
 ---
 

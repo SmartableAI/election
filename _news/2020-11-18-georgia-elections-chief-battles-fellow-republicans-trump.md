@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump fires head of DHS election security agency"
+    excerpt: "President Donald Trump has fired the director of the federal agency that repeatedly vouched for the reliability of the 2020 election"
+    publishedDateTime: 2020-11-18T00:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-fires-head-of-dhs-election-security-agency/2020/11/17/89edc4ce-2934-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-fires-head-of-dhs-election-security-agency/2020/11/17/89edc4ce-2934-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-fires-head-of-dhs-election-security-agency/2020/11/17/89edc4ce-2934-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "YouTube defends leaving up videos that falsely claim Trump won the election"
     excerpt: "YouTube was responding to Bloomberg journalist Mark Bergen, who criticized what he claimed was YouTube's slow moderation of election videos."
     publishedDateTime: 2020-11-13T12:34:00Z

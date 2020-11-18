@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
 type: article
 quality: 188
-heat: 408
+heat: 428
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
+    excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
+    publishedDateTime: 2020-11-17T23:59:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iRtl9X3Ersc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117124522-restricted-joe-biden-economy-wilmington-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z

@@ -178,6 +178,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T21:08:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "For some Bastrop residents, Kamala Harris inspires hope"
     excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
     publishedDateTime: 2020-11-12T23:17:00Z
@@ -205,6 +221,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Raleigh News & Observer"
+    excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
+    publishedDateTime: 2020-11-17T21:08:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article247147756.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article247147756.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article247147756.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/1a0650c0-5bc7-4acb-a2b3-e3710c3e1878/0380f3a4-bb6e-4fb4-a587-6aa9a4b317c2/1280x720/match/image.jpg"
         width: 1280
@@ -250,6 +282,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "/nLTiNPreBSjDxQmElOMKM0Zr9gigIRXm7eamnIVA+EW2jNTA0X+F3GoR+yugLpppvftz/qibJhXkBvLy1u1/1REjtAMGZzxIF/OHAxknp7loSUzRWAhgnz4udbEN261Hb1LlMFyoU0vULdjUNJW5PkVhAYCwjxNxXFcIPTPQOXX0ct/ZJs+wwb9ZjaDzI6xgNiYW6MdHP2bkBrgivjDRSD2QEEpeBfnmW7uG7qSM+gUwYMw3X4nysYJmJ+BOCO7npF5AVU7dm9jqZqSvadXhIxFbdbSNa6QkvjPs5DvwV1ltHCPbWoyz0IJJMHVnCncrBcl8uK+2tbdUU0HSCyUS8lhSmPFo6NNx/HdH8Z76OE=;SqkZq1SLRMTLSpScqp4IgQ=="
+secured: "dHXfWCHmeVh0BR9kqaunx5lDBEH59oyurNPKrBDCMK2WOZD1BPUNvyVp60WS6G8/N/sjVl8KHgufQFBqhtLKhHrKPDE2rWUcz1qRPU9aNTn0pgiPazxDB6H2B/hoaqEtt4LJZvvWRQqn89Gxk4mE7IvD2xq0lDdseLMzwHGurqdWosIJ7dMbpXEPf0rFzs5X+Y4o8ppC4UNld4Z4T/6JL4ZrLFIeh4UY6TBfXOVmi3WPtjb+iSzDaNVRG8oKKAna/Ob32VWVqfetwx4yzBObchtmV0X6h9vMKbIc01K2tXQr+oiJDI5Z1Y5pwB03+VVIw3JzJGNRR2c7ouf90AfuJHlmvLxvse5V+ftQzjsbR2dg+PKUv/Be9HJafZ4DOFHSa5SoUwmvVo9UfS0UnIDjtdVpUuGvT0TAGjNIwyrOjoo6QqnXVcB0B+93z/RuM5mLQn9V76ZjmRg7xOQJO2sRZMS7T7z1jr2ASS7BbBB9pow2glIsV9xIiQSPPh2rh48JUPSEacL0yXT0GwrfYgVnPw==;67avbdF8ZctVnvy6pndzRA=="
 ---
 

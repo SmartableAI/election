@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Graham probed state officials in three states Trump lost"
+    excerpt: "Republican Sen. Lindsey Graham of South Carolina acknowledged on Tuesday that his efforts to probe state officials went beyond Georgia into two other states where Democratic President-elect Joe Biden also won, while President Donald Trump sought to discredit the result of the election.\n    \n"
+    publishedDateTime: 2020-11-17T23:38:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/etXQd14CTQI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg"
+        width: 460
+        height: 259
+        isCached: true
   - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
     excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
     publishedDateTime: 2020-11-11T23:50:57Z
