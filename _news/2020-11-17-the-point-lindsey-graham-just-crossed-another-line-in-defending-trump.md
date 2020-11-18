@@ -241,17 +241,17 @@ related:
         isCached: true
   - title: "In Georgia, a Republican Feud With Trump at the Center"
     excerpt: "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs."
-    publishedDateTime: 2020-11-18T00:25:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
+    publishedDateTime: 2020-11-18T04:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia2/merlin_179891979_420d9eec-a5bf-427e-9154-f1f87b90a5d3-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia1/17georgia1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

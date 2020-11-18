@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-18-trump-fires-top-us-election-cybersecurity-official-who-defended-vote.md",
+      "title": "Trump fires top U.S. election cybersecurity official who defended vote",
+      "excerpt": "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-trump-krebs-idUSKBN27Y04O",
+      "originalUrl": "https://www.reuters.com/article/usa-election-trump-krebs-idUSKBN27Y04O",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541582565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH027",
+          "width": 753,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Y04O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y04O",
+      "publishedDateTime": "2020-11-17T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-us-drops-strong-case-against-ex-mexico-defense-chief-salvador-cienfuegos-a-huge-gift-from-donald-trump-former-dea-official-says.md",
+      "title": "US drops 'strong' case against ex-Mexico defense chief Salvador Cienfuegos, a 'huge gift' from Donald Trump, former DEA official says",
+      "excerpt": "Salvador Cienfuegos, arrested in Los Angeles last month on drug trafficking and money laundering charges, faced 10 years in U.S. prison if convicted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/95d90aa0-817b-4688-ac8a-e3c1212d5330-AP20290091049365.jpg?auto=webp&crop=3003,1690,x0,y159&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6336288002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6336288002",
+      "publishedDateTime": "2020-11-17T19:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-bidens-coronavirus-advisers-warn-on-stalled-transition-trump-pushes-legal-challenges.md",
+      "title": "Biden's coronavirus advisers warn on stalled transition, Trump pushes legal challenges",
+      "excerpt": "President-elect Joe Biden's top coronavirus advisers warned on Tuesday that President Donald Trump's stalling of the transition could hinder the country's pandemic response, as Trump and his allies persisted in challenging the Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election/wrapup-10-bidens-coronavirus-advisers-warn-on-stalled-transition-trump-pushes-legal-challenges-idUSL1N2I3054",
+      "originalUrl": "https://www.reuters.com/article/usa-election/wrapup-10-bidens-coronavirus-advisers-warn-on-stalled-transition-trump-pushes-legal-challenges-idUSL1N2I3054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 872,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541572573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0A0",
+          "width": 781,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ",
+      "publishedDateTime": "2020-11-17T19:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-in-court-giuliani-argues-to-block-biden-win-in-pennsylvania.md",
       "title": "In court, Giuliani argues to block Biden win in Pennsylvania",
       "excerpt": "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e",
@@ -107,6 +263,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-the-biden-administration-top-staff-and-cabinet-contenders.md",
+      "title": "The Biden administration: Top staff and Cabinet contenders",
+      "excerpt": "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9",
+          "width": 819,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X1NR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR",
+      "publishedDateTime": "2020-11-17T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -435,58 +643,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-biden-covid-19-task-force-says-transition-delay-could-be-compromising-us-virus-response.md",
-      "title": "Biden COVID-19 task force says transition delay could be compromising U.S. virus response",
-      "excerpt": "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8",
-          "width": 781,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X2WD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD",
-      "publishedDateTime": "2020-11-17T13:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-new-covid-19-closures-trump-campaign-lawsuit-hurricane-iota-5-things-to-know-tuesday.md",
       "title": "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday",
       "excerpt": "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday.",
@@ -760,58 +916,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-who-are-the-top-contenders-for-the-biden-administration.md",
-      "title": "Who are the top contenders for the Biden administration?",
-      "excerpt": "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27X1OD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD",
-      "publishedDateTime": "2020-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-university-dean-resigns-over-statement-that-called-biden-voters-ignorant-anti-american-and-anti-christian.md",
       "title": "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\"",
       "excerpt": "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website.",
@@ -988,7 +1092,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 570,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -1032,21 +1136,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-the-energy-202-trumps-last-minute-environmental-rules-changes-may-make-things-hard-for-biden.md",
-      "title": "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden",
-      "excerpt": "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions.",
+      "path": "_news/2020-11-18-fact-check-fake-trump-tweet-echoing-halsey-song-lyrics-originally-began-as-a-joke.md",
+      "title": "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke",
+      "excerpt": "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/",
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://www.gannett-cdn.com/presto/2019/07/10/USAT/b26dc9d8-45fe-49a9-9bb7-971307ca31eb-AP_Trump_Twitter_Warning_Labels.JPG?auto=webp&crop=4031,2288,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 681,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1054,16 +1158,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp",
-      "publishedDateTime": "2020-11-17T05:26:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6312899002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6312899002",
+      "publishedDateTime": "2020-11-17T08:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1193,21 +1297,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-barack-obamas-legacy-abroad-looms-over-joe-biden.md",
-      "title": "Barack Obama’s Legacy Abroad Looms Over Joe Biden",
-      "excerpt": "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;",
+      "path": "_news/2020-11-17-cindy-mccain-explains-why-she-voted-for-joe-biden-and-not-that-other-guy.md",
+      "title": "Cindy McCain explains why she voted for Joe Biden — and not that other guy",
+      "excerpt": "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,",
       "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/",
-      "originalUrl": "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg",
-          "width": 570,
-          "height": 320,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXZ45QBIEQI6XGYUVWDSCV7LZE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1215,14 +1319,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617116/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/",
-      "publishedDateTime": "2020-11-17T03:05:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-17T03:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": null,
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1233,119 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-trump-counts-crowds-size-using-maga-math-says-stephen-colbert.md",
-      "title": "Trump Counts Crowd’s Size Using ‘MAGA Math,’ Says Stephen Colbert",
-      "excerpt": "Ten thousand, a million — it’s just how they count,” Colbert said of Saturday’s Million MAGA March. “You round up for marches, you round down for Covid deaths.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/17/arts/17latenight/17latenight-facebookJumbo.png",
-          "width": 887,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/arts/television/late-night-million-maga-march.amp.html",
-      "publishedDateTime": "2020-11-17T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-trump-seizes-on-local-nevada-race-to-raise-suspicions-of-wider-problem.md",
-      "title": "Trump seizes on local Nevada race to raise suspicions of wider problem",
-      "excerpt": "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
-      "publishedDateTime": "2020-11-16T23:35:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

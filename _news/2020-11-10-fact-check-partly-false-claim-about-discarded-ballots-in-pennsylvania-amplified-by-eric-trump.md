@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 939
         isCached: true
-  - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
-    excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
-    publishedDateTime: 2020-11-16T18:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/trump-campaigns-disingenuous-spin-its-watered-down-voter-fraud-claims/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OQY4HNABC4I6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "xW+KT9cM5sAI9+h4KeLzD7QXmrn+gTybXjpWh+ab9p0tGdUrVkQ0K9bmEo8MmB7nGLz3BRLXdphHMw25W1XTojkdhkRpyXrD2mAJeOQNna8Aq+f2iKhJNTJXuRCxWj+l2Yfx5iMcZgfBJLMkArxSFQBVG3WltFOXzDsX8REF+uzsxYiQOaPbC42L3cwS2uYEUtoD4apI/WRg+BbMhdIqC4t4VzuJ2HOUFNToHhrFtNZivPMdoOjWYXIhesFHtYtA5NgmaSdrt+0K5ox/Aaiu4ga14OxZTm9Ec600WGWLLj4x20poQy+7iWwt7rlNf0pNJUsT4+zH5sKu8QQaaNPgSNT+McOmrW6AfPNYvFW0M7g=;ekHzKpnhcRksavp1AWI/9g=="
 ---

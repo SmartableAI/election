@@ -25,95 +25,85 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden chooses longtime adviser Ron Klain as chief of staff"
-    excerpt: "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House."
-    publishedDateTime: 2020-11-12T04:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Biden administration: Top staff and Cabinet contenders"
-    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-17T23:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Cindy McCain explains why she voted for Joe Biden — and not that other guy"
-    excerpt: "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,"
-    publishedDateTime: 2020-11-17T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/cindy-mccain-arizona-election-biden-trump/2020/11/16/f4f29be4-2850-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+  - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
+    excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 123
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXZ45QBIEQI6XGYUVWDSCV7LZE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden chooses Ron Klain as chief of staff"
-    excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
-    publishedDateTime: 2020-11-12T02:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/biden-chooses-ron-klain-chief-staff/6260565002/"
+  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
+    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
+    publishedDateTime: 2020-11-11T15:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Joe Biden taps Ron Klain as chief of staff"
-    excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T12:10:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112115930-president-elect-joe-biden-taps-ron-klain-as-chief-of-staff-as-trump-continues-election-fight/"
+  - title: "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide"
+    excerpt: "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next."
+    publishedDateTime: 2020-11-06T23:23:00Z
+    webUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Biden names Chief of Staff as Ron Klain"
-    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T18:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
         isCached: true
 
 secured: "6pwluG3mRRthykBFCrV0VVkhQ8tJcUkwG4T+VdekbsfMNuYPF6ApEx3pxhQ7tQTC9XaAoW3dWc1KCky6ePGeYLdOEJEUVi8qXkA9Z2ts4S4NrAtW8KlHo+sPu/BWwtyLnPDuxC464ViHq6YnuaS1tRBbH03Q0lK0JsDQWsBEDl29/9XsJOoBYU+Ie1XwRZL7fGrtsPDEovBHoeVLS/eixpdIcMWDxmJDYMqlfbKfmPpTTqQPUMsGWjkF46I54dGChgS9j9F3S73O2M3CTDeV1Vv7I+VxGJBV0ax+YPXesLacTD2a/kftE6ghCLhTmjlY0bGA4VSrwzYDoBzKz6+zLLZkprA5MgjyqyhJ87qWD1g=;aQYTK3641cXPCD7aKsl/LQ=="

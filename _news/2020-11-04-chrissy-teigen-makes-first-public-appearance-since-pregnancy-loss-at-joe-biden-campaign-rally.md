@@ -91,22 +91,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
-    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
-    publishedDateTime: 2020-11-17T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
-        width: 749
-        height: 545
-        isCached: true
   - title: "Virginia Latino voters excited for Biden presidency"
     excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
     publishedDateTime: 2020-11-17T22:10:00Z
@@ -250,20 +234,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
-    excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."
-    publishedDateTime: 2020-11-14T18:31:00Z
-    webUrl: "https://www.cbsnews.com/video/iran-expands-stockpile-enriched-uranium-joe-biden-challenge/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 93
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "fpHt7ZPpilyLhDaRaZwSBLNVkMsIf0DrldMtT8H3pRpx7AoUq389EBnJ/jNtQ2231ss7RulxHVYdztBmIMFrKK241+qS++OW98DZkpnmthSORQlQgv1Ndbxh18dP52vMjqSWXZvSkWRktwtw/TGFH3oG9ScltzPKhOwaPuDuJP21gLCTXneVahhEk2Ty6VMXJALFWRfuNStTMHMUOrUKeQ/C8sYhavd/+FNjb2kI9xZNIn/eN/4rHJkHduFX3F3DG0gweHloYPPAK5Sz3vAGsxcXOBO8VRiVHWREwj+gvE5SUyavjj2Yq9hM4ECCgwIEYvbHc/3qIzci4VPwce8lEnKsl06vvufAlUNzj6hgLDs=;lZaHoOAs5/QHdwUSYVN/FQ=="

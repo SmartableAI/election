@@ -29,101 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden"
-    excerpt: "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions."
-    publishedDateTime: 2020-11-17T13:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 128
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
-    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
-    publishedDateTime: 2020-11-16T15:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
-    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
-    publishedDateTime: 2020-11-17T08:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
+  - title: "Trump fires top U.S. election cybersecurity official who defended vote"
+    excerpt: "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud."
+    publishedDateTime: 2020-11-18T03:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idUSKBN27Y04O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y04O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y04O"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
-        width: 824
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541582565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH027"
+        width: 753
         height: 545
         isCached: true
-  - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
-    excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
-    publishedDateTime: 2020-11-11T12:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
+  - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
+    excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
+    publishedDateTime: 2020-11-13T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/US/DHS-gty-er-201020_1603231692954_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)"
+    excerpt: "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs."
+    publishedDateTime: 2020-11-18T02:02:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
-    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
-    publishedDateTime: 2020-11-11T15:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
+    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
+    publishedDateTime: 2020-11-10T17:28:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dHwEtU8O8Fz4PQvpATnGSSBev4qyPbFFk9QPj/HMV+c/G9STBjIwv5z1jA/8Ztp2xtfXkC0Z+45vSNOzcH2VY/rnLBds4d5GgCA/n+6SsgPXlrNG4WOLh7CSPBe8kECbHO/1hDMjhcsY3tlu+hry8OzZ2+1UvNzstP7eZvoLgUfYS4RPKPw+0wWQ5srQCY3m2OPJHrZ6q/4IHzNjaqk8TgviroEcdzBHbcWfMnCSZX1q4llj+merrrDmtaYX5qXXTT0jes2qg0nGG/B5yrT8S6mEQOQwas2V/cZiw2ICfdAKlk9YLxRINW6nIcq5erIecnr+Pk/RQSK8AmI55ASMVsyzi1MgjiTrxXqRaD4Zgow=;IVsUXlaKRO11OW70gBk+rA=="

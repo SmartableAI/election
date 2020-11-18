@@ -31,68 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden"
-    excerpt: "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions."
-    publishedDateTime: 2020-11-17T13:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/energy-202-trump-last-minute-environmental-rules-changes-may-make-things-hard-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 128
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
-    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
-    publishedDateTime: 2020-11-16T15:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
-    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
-    publishedDateTime: 2020-11-17T08:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
-        width: 824
-        height: 545
-        isCached: true
-  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
-    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
-    publishedDateTime: 2020-11-17T13:16:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
     excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
     publishedDateTime: 2020-11-11T12:30:00Z
@@ -109,21 +47,64 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide"
+    excerpt: "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next."
+    publishedDateTime: 2020-11-06T23:23:00Z
+    webUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
         isCached: true
 
 secured: "cEmqSeH/g8fI2SpdK1z1qKu8cmcAr4bsuNoosEUYiO5JEmMfN4yDMUdQhstbsKcQC5grd4UhS4M7wFCyZ349y02y7V2HkkxHdU4J7Pw8KmIk31AjNBzxCnAfTWYEeBn/1rDZZyA4s9bcM+z7L+6AKPB/3QrwAtIYJzDcrr74mMeTrtijCiR3mC2UMpMogoI7FBykN3APffEw3ww0E4/mehr+VSZnPCWGchDwR7ieqPWUOnvNDy9/hSVHDQSxi7llOhZY9VSpUgSZgZCe1VyOqP5IK3q0AobINwA+JNVkwhTtMh9ZgLUl0zSf9akoO1YfGU1UX4WppwxcIpVxEJIwqbkNRxlXOFD5H24FwNjVAoCNm/SLvu9w9IWgXEkQiOg+VfcA2IDrOmHR8GcklsxMui/nuEeVIJpw23zlnfMspef9ZBd7xHc+Yg+C2W4e6f5+8Xz3yawzh1ra+WhpmJLANQxJ5wCxDnFJ2gBMG9O24i7WFk0dPxG5Ahpqyk1nmC1trYs8iMJh78RddOri11dcqA==;UiLJ9WOHm7JaPiukTOefAA=="

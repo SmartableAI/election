@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/us-trade-deficit-grows-august-import
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp"
 type: article
 quality: 131
-heat: 271
+heat: 231
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
-    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
-    publishedDateTime: 2020-10-03T20:23:00Z
-    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
     excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
     publishedDateTime: 2020-10-09T10:35:00Z
@@ -127,17 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
-    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "O+rA03n8L7AWUj3TLLqrPuMT3zcBoAGK+58ipjKa7Pxw4BU2EHgynZtcr9wl8AwF0TmMONDMjYKJVtzqAfZgqu7qfyY0wF0Br1XK+8AxIB9YknYKOMe3noVSdy7nzIBJKkqbfL06mRlR5EurOcBQfemt2+KkNDMXH/CGM3SqOuJJsisXCFs19svm525dQHKl3C0nrsRPQqe0fav4QzBQqqAJU/ZDdUNUDASbDNN4vO9w32lCyaLHVxM9y6ZEHtkqhvdRsBdQltdfBFV6gNDOnlvUmklN1wA69MKWs+QZIWKVsNNCL0jNM7pr8UAcaUd/6JmrXvmMFGmnXu6r350ekaSjW0T5rzjerJnxZLjUutU=;9bTBBuZh36DgEED2ZunH0w=="
 ---

@@ -133,6 +133,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nkCPC32nEgXqGkBqN/Ej9rwDg/5U6KQc2S3qEKDYL2J7xEw2a0H4uDp+rsay5Uyjmnhjbz3u5/5xSh5jl2psz4qhcHtu04KuI4FlpaXP9lSeSPTC3JN+rmZ12GIaQ0f5fbmgNAW1rlqNq63oatTf3I6D5nBic8Ysd8is+eLMzQ8FhTiwObDBdL5nhDmiIBHg6v+KiAh0zU2QBavZ/uVR5buti4ZKveFLpqK2woiDwFyoqkUXsGZKbvE2E0uTwN/83yyXtx8cHNJjHTT4Bu08Nue6O2wqBzNIC8lIlC/9KfhH4ADykJrdSxwt15aDRtI3sOd0UhtOP5IkICl6edM4VgTYrg3tkPbD1sZCqcx0rpM=;kNuyYxkqkQO757qEbU4g/Q=="
+secured: "W+g8318RUH8GElTH9mRMAFXH2hQkgTmoMgSzcETMBju7znCE0Jz+RvrsiHZrOrQVYJK3Sbwm0q41a3gMx0eiPZVpJMfkw+ibbnJn4SC2ErMlAjSx5fwNoxbBi+XvO6v3z7mY8/BfRkMYiilKRy38FxnDePVd5Oot+pfChwfnwRc7VeWc67mpAwp/wQU0dz1bWFCNvWlIYErDsJxcNOui2dqUnbq+AU+oltRuKPd/SaPMgIO527lCfjblG1/ULxGmMgEYFMIgF7KMmMOcsZWE0dnp6lLeuDez6ybr1E/CiV5zY1M8RYYO7HbFK0jc3XtCVTsMNXugEoUMZnmltDXhx/z8MOTVrKWUNzUa24iJ1qc=;SA/ipq0d+Oju2wU1bC3pMA=="
 ---
 

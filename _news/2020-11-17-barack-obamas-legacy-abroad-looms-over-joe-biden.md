@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Atlantic
@@ -27,22 +27,81 @@ images:
     isCached: true
 
 related:
-  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
-    publishedDateTime: 2020-10-17T17:44:00Z
-    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
-    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
+  - title: "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it."
+    excerpt: "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,"
+    publishedDateTime: 2020-11-11T12:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 69
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2U4OT7RDTEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
+  - title: "The Daily 202: Biden won with the weakest coattails in 60 years. That could make him dependent on GOP senators."
+    excerpt: "I haven’t had a chance to speak to Mitch,” Biden told reporters at the Queen theater here. “My expectation is that I will do that in the not-too-distant future. I think that the whole Republican Party has been put in a position,"
+    publishedDateTime: 2020-11-11T15:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/daily-202-biden-won-with-weakest-coattails-60-years-that-could-make-him-dependent-gop-senators/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFLMPWRDSMI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Doctors say they’re ‘hopeful’ Biden will handle the pandemic better, but ‘disappointed’ that he didn’t win by a landslide"
+    excerpt: "Three doctors spoke to Insider about the projection that Joe Biden has won the election, and what could happen next."
+    publishedDateTime: 2020-11-06T23:23:00Z
+    webUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/doctors-happy-for-bidens-projected-win-disappointed-result-was-tight-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
 
 secured: "hBtPZUTM8nxjoAoul652cqDkRKwKzt0R/WrChn3GM0Qm82v4PcB7RE4MXPXotwuqmsOR6CkwrMWFQYe93rIaNWKu+pJhUBw98BPekrywcvX4iKv/2uwpXp71ohZXziOzqfDF6EbZivzbMdbOgPUaUqAe3grtY9sZfGLnOZSXVh1yjt5lxkFBxTvi5reR7dd8Hix43NnRe939/0Ifh/NFYthgDuHEeGygi5c7ErM+84NO3cuksTbDieawasCJwoshv1KWFmueT9l8cWpCfrIDWUgo/mKrcTm93Iw4Bg+euZFUax2O18U/ldKLaUD06iH3abZ/nz+bpOepbD2GfvOme0Xcg2gMoCk0B7WbgX/all08GItMbnP6ocSw+0C+Vukl2AhoA2wHSLch3m3gKWPuq1WBRIwWtRBOWWM7y+4z4uhRb6SPqv/JK4ljxjYGDMLP6BA/vfo9oPxAI21qd2CG9cE23u3Z2S1tzxNcJE23DNNTGPLJuC7vEEzIVEQnoOPyad61at6W/Bhov5tHJa1Zcw==;reuMH1MYRazC3YjHYewC5g=="
 ---

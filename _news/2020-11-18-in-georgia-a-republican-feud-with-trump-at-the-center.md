@@ -2,11 +2,11 @@
 category: news
 title: "In Georgia, a Republican Feud With Trump at the Center"
 excerpt: "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs."
-publishedDateTime: 2020-11-18T00:25:00Z
-originalUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.html"
-webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.html"
-ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-senate-republicans-recount.amp.html"
+publishedDateTime: 2020-11-18T04:20:00Z
+originalUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.html"
+webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia2/merlin_179891979_420d9eec-a5bf-427e-9154-f1f87b90a5d3-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia1/17georgia1-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -271,6 +271,6 @@ related:
         height: 619
         isCached: true
 
-secured: "UK4Cdk7A77Rn66kkvlBH20EQEeeYZ/iw3p84IUi87FTkgeicqqelaeFyWs+NkPa0xufgADqL/R3nNpi0Bh/vU+1hUg4a5TcQq7wCt6HKTBkOBl5vE3nJms0wvoo9nAjRgPZREF4JX2vQwtwJQJKg02Uf870DH106QY0e7Bu/QGNkb/IDaZfcfmjdmPyryyZNbAFlZrqXtM12IHLzYbfwtKBHe0Efv4PRzgSessGlSSKPcy8R3xdQNcxWaV+7AH5sNtEBGiX4SuP1+8yj3vb5iVG81BB6W7Wks8aaIhMZTcTJ5wY7RK+m7bjnj+mbb9vQgnNs1VPj2LDKBxvxlB5sAhyYW5zgeVYnIx1zRjWPhjs=;Pt9m/REFJVROLCVLQT37IQ=="
+secured: "hJTkvx687G+AbqG8u+YWURa4kDMd635dkNeHfIU/y97pIsx7lqqW2XPKUAbPxMxs9dU4lZUwGsCXw/GPB5UIzK99uFCZmvPp+fDx3bjlXpj3ijNPwu1wDb9ifGl7cn4qB/IN/WaZByftiXgtfAzbbmGc/pghOg63lmABLKnzBdc9ZJvngJ/gNlvRbNsoWOIk/E/vTSL7JImooQyo8EJUGNXyCUDFe8OTeBzGAbMG8eh8vqiW1OJO4Y0WKGVk16tQDkbeaMczF4PKzm1wJHiOQtqlbvWXfzLj7NtPJKJXCe+Q8tGmGDJXjUISz1sdBuzLdkVOpFJzgmbGJG4SAhGXA5QBU3lzGPeXY/DGiFodF0k=;3gzwx2r+xuHlhpAvwUisdQ=="
 ---
 

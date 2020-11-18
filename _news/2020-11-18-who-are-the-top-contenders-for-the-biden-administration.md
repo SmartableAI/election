@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
 type: article
 quality: 125
-heat: 265
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Biden administration: Top staff and Cabinet contenders"
+    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T23:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-factbox-idUSKBN27X1NR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1NR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1NR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
     publishedDateTime: 2020-11-11T00:29:00Z
@@ -79,22 +95,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
-    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
-    publishedDateTime: 2020-11-11T03:28:00Z
-    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
     excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
     publishedDateTime: 2020-11-14T13:02:00Z
@@ -111,6 +111,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden names Chief of Staff as Ron Klain"
+    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-12T18:47:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "U.S. congressman Cedric Richmond brings practical streak to Biden White House"
+    excerpt: "U.S. Representative Cedric Richmond of Louisiana brings a decade of experience in the House of Representatives, including some outreach to Republicans, to President-elect Joe Biden's administration at a time Democrats will need that skill set."
+    publishedDateTime: 2020-11-18T04:08:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-richmond-idAFKBN27X2HQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541559350&r=LYNXMPEGAG1GN&w=800"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
     excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
     publishedDateTime: 2020-11-17T02:27:00Z
@@ -122,23 +150,7 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
-  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
-    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
-    publishedDateTime: 2020-11-13T18:23:00Z
-    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "wkyGUy7ypqijjqxVcEdi/ZckvUbO8KSRqr4wYR97AcDujsnnMKaKCHOdc8dP3NCi7SWd4I75txrY4Ujrtp4j+wWqKPy/OeR00SVIaqun0fzyJnvYBPbDoIuSqPQDhQir+RE/oGiXkb2U0RH9KaVOM1EWc7O7kbMZTGzADCvTYQhhV9qe1WPe8KYbatYAHxsDgyxUolKmz5DvQSPeW6ex3FAmnGBxAUin3GxZ9HGFNGj3BNpj3ikaimiGbbdM7I4qj6YQfcB4UwKlCP5nAHGlgC120eAIU8XX9IM4azBiXsfD4mBLC4lMT5LF7v+TQOsE+PdNrKVJ4fYtR3+S0jIya0QSgw9v9obPSw9S6H8tVow=;t/zFrslcVMNEuAxcBBzMUA=="
+secured: "kktvMNPZ0VrPp7zB2J1qLhJJ4N4hE53lMOwxcv5EP/nsXROzcaZYUa2oaL3QVk83zT7mrRzKnBMUD4JMTI02tdsky/Y8ucjCnZxVSPnx2E/SDWU4zA8KlP2TENCRj1OzbkLDiQQUKe6fWH8ikxcV+LjqBf1CuI7vRpH9UfFisLeNp3BEVlBHXF7MeLLyvR1eoFWKT0NIKKNiyoyG1tVIwXDKFbolyW71zy3q703ieIpkxm2NGMLIoaFF7JRRZnQxbyoWxpEZwsSFVu6AGe3sg4V137TQqbuC2h1cd/f80X88AD80Tw4ceXZw7QdPC+9i8UVsKp3MpAGQ1ap0fMKhlpT7JJkywKaouC5Mw9PIliwdgdgH449Q3mriIhq7pD7AY1Xv8rafpXgIchdeDbusXiZNFV3IzMKjVC49TJsWHLa8Y/u7e50A6fvkVQaOa9/C6KdOm6bl7+R0QAO3kuLuxpd/WGpZvF/s6O5Yo0mRtKPkHRzabX71sRXNKMlhUcN3o2N/rEHT5ZLmEMPjJYlsrw==;GIE55ZGCQ4kzvrhzFWwi8g=="
 ---
 

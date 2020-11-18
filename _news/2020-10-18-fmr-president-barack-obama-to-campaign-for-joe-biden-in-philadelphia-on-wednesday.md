@@ -9,7 +9,7 @@ ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-
 cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
-    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
-    publishedDateTime: 2020-11-17T11:05:00Z
-    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
-        width: 570
-        height: 320
-        isCached: true
 
 secured: "x7Unh5Xsh/8u4TYIIlL3vXmbWcO9y0dKt1fgIO0g4zoNtEWqbVpwiRRm8fTmDxdbyACJMd74W80ZwAx1SCHZ0dezDvPV2OXRUWsunw6cajbpq0TrEpsIjM0iR372Zb7dbn7IhXbeu82s1IE+rv+e5jfJGqJIwGdn4pUc2qBP436nCf6l8S+Alxbmxg5WYUakWdWWQmJvItek2giTVrDmKgtMPzxRA0pFOcmoqnIJPvKT8VPd6o82uzcWUc7ge4bV9+lvffjtfyhaOLt5rt6+iV3ab6fV5qAyPfqWRZsME5LthP9k8orVMYGEl9nUGV8vzNXXR37wqzj2Ilj9dUApQ9w+HI3xb8DyfN/GkclPt3k=;lG4it5fRUSQui2f74L/R8Q=="
 ---

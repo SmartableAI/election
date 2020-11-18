@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelson
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
 type: article
 quality: 116
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Senate readies vote on Judy Shelton, granting Trump another opportunity to shape Federal Reserve"
+    excerpt: "Shelton’s confirmation could mark Trump’s final imprint on the Fed board, just months before the Biden administration is inaugurated."
+    publishedDateTime: 2020-11-13T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/12/fed-shelton-senate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5POELBWLQEI6VGNQQQTOE3JAHM.jpg&w=1440"
+        width: 1440
+        height: 945
+        isCached: true
 
 secured: "Cu/AK9wApSflIfYMmm0woUj41SuB7epTPTIB/FJ+AxOa5fGbfBcei72A9r7p3F0vAIJJ/jZXKlERyM42/bQFF8E4oG/tp6dFa/aH7683lUWDJQ1BYmG4SNpCytlFXAvL7vDqca9NCVLG4zqUgqYhRJPzqKDAhjkAyNx/VjdApfwkY/44tYcpE5C0gIn8fDtN/DtC39TIg3UUTcKsFmpmL7qvDoftq4U5jLS0VIfmb6K9YO1iBae3jp1wq3PHMPOhdOkD+y5tf1VyQjoV217if3K5Zcak2D67bNH114jZ9dIgVRB7wMDVK5yN0k6rI0am3QE7emo42zp8o9wsMxBw6OQX5x4CBZh4eugwIw1cka4=;sAjQT7nrSt0uEdrg72DsiQ=="
 ---

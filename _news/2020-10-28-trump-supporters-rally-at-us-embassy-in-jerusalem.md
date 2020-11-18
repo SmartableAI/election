@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-supporters-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -125,17 +125,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
-    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
-    publishedDateTime: 2020-10-29T22:52:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "jxKFFZOANM9Etxblk6KTvVnnMkiqiCDBn16pQdo8/Mc9K5PGG1zmGX4FVQdjtDAyIFZyr9w/u8nEG7dggomeAP354QN2uG6V35k7/1CMcC8dK4X7/UNqvxAtxalWiErrknV8eFEz01rSaDfpnlurDsTaRL/cXM/tIbvSNf3SKuh/5IRh+eZLQLo5HbM6gFvtFNIy74HSkR5GGhY/VCUmUBqGlQchTkMACIBfiT5PyiRg+fKX62fjf97pEUdQkUqUtZAyvz2bHi1bt/1joHM3eXpGxPdK99kCdbzeoBiTclcTupOKSBbvIjWl01elZS11ezD8m4SNWIRC/sd/kUKiVzaU3q6T8Us6+5eR/80yYcs=;LgT1E1X8uK2aqX0Yxi5H0A=="
 ---
