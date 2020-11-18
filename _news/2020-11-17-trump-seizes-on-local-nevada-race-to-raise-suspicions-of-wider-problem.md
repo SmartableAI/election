@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-count
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump’s conspiracy claims will have long hangover"
+    excerpt: "What we're trying to illustrate is that not all conspiracy theories are alike."
+    publishedDateTime: 2020-11-18T22:23:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xuSVrjzD4M/trumps-conspiracy-claims-will-have-long-hangover"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "KirSkWzKBp4XodVHxuQ54FRVUOEn42verQeJ2S14ytCscq9mtNbiuWkUctaTvkUMUymhh9RJVMzHOvprQ1gyNAN6XWiO4dada6fpkjt0MmQiy52nVp+VCOQrbHRBPfBk4b/TNG9Jc+TPvql48Ej2/xDZfDoq99UYjpD5uL1fjmoI6lvr2TRLnh50zYWjTUaUWhRRNphyCvKt/P3bKN8WBhhYEQmEr0BX6f4+bQJchGiYDWDil490vgIrX0iXRtjs8UdVIGTjqY2tW76aUvfTQ2K2tiO9cXVqqGm5m2spb+apLQIRwyeZEQ4s9kgjheSb7HeIIT1tHV0R4waElTKn9QJZ4ommjpY7QN+kvlUpYbo=;Vzm+Cqjd6/Qpx4sCdsrLDw=="
 ---

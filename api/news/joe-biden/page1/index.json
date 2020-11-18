@@ -114,7 +114,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 596,
+      "heat": 616,
       "tags": null,
       "images": [
         {
@@ -312,63 +312,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-biden-team-taps-justice-department-veterans-to-circumvent-transition-standoff.md",
-      "title": "Biden team taps Justice Department veterans to circumvent transition standoff",
-      "excerpt": "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/justice-department/biden-team-taps-justice-veterans-circumvent-transition-standoff-n1247912",
-      "originalUrl": "https://www.nbcnews.com/politics/justice-department/biden-team-taps-justice-veterans-circumvent-transition-standoff-n1247912",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_47/3428717/201116-joe-biden-mn-1210_128cc64b80faa45854d5b0786f080e3d.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1247912",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247912",
-      "publishedDateTime": "2020-11-16T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -750,7 +693,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1566,6 +1509,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
+      "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
+      "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
+      "originalUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
+      "publishedDateTime": "2020-11-06T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

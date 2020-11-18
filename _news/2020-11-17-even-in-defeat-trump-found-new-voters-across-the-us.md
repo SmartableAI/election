@@ -636,6 +636,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden Pressures Trump for Access to Federal Resources"
+    excerpt: "President-elect Joseph R. Biden Jr. spoke with a group of health care workers on Wednesday, pressuring the Trump administration to authorize giving him access to federal resources to plan his coronavirus response."
+    publishedDateTime: 2020-11-18T22:17:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html?playlistId=video/us-politics"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18transition-briefing-biden-virus/18transition-briefing-biden-virus-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "More Republicans call for a smooth transition as Trump continues spreading baseless fraud claims."
     excerpt: "Even as more top Republicans urged President Trump on Sunday to allow for an orderly presidential transition, the president himself, after briefly appearing to acknowledge his election loss, resumed spreading the kinds of baseless accusations of election fraud that his supporters have embraced."
     publishedDateTime: 2020-11-16T18:36:00Z

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-17-details-released-for-vp-mike-pence-bus-tour-this-friday-in-georgia.md",
-      "title": "Details released for VP Mike Pence 'bus tour' this Friday in Georgia",
-      "excerpt": "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
-      "originalUrl": "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
-      "cdnAmpWebUrl": "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
-      "publishedDateTime": "2020-11-16T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-pence-fauci-praise-vaccine-developments.md",
       "title": "Pence, Fauci Praise Vaccine Developments",
       "excerpt": "Vice President Mike Pence praised recent vaccine advancements during a call with governors Monday, calling it welcome news for Americans. Mr. Pence spoke soon after Moderna said early results showed its experimental coronavirus vaccine [was 94.",
@@ -99,6 +56,49 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-details-released-for-vp-mike-pence-bus-tour-this-friday-in-georgia.md",
+      "title": "Details released for VP Mike Pence 'bus tour' this Friday in Georgia",
+      "excerpt": "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
+      "originalUrl": "https://www.11alive.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d",
+      "publishedDateTime": "2020-11-16T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {

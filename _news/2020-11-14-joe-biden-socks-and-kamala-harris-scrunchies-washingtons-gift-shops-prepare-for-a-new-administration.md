@@ -79,6 +79,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
+    excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
+    publishedDateTime: 2020-11-18T17:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Lindsey Graham Explains Why He Fist Bumped Kamala Harris Despite Refusing to Acknowledge Biden's Victory"
     excerpt: "Sen. Lindsey Graham (R-S.C.) reportedly said he was \"just saying hello\" after being spotted giving Vice President-elect Kamala Harris what appeared to be a congratulatory fist bump on the Senate floor on Tuesday."
     publishedDateTime: 2020-11-18T01:19:00Z

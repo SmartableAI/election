@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's inauguration during COVID-19: What the January event could look like"
-    excerpt: "Construction is already underway in Washington, D.C., in preparation for the presidential inauguration on Jan. 20, 2021. The date is set by the U.S. Constitution's 20th Amendment."
-    publishedDateTime: 2020-11-07T20:40:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7gI8yaX7WO4/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january"
-    ampWebUrl: "https://www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-presidential-inauguration-amid-coronavirus-pandemic-what-the-event-could-look-like-come-january.amp"
+  - title: "Biden warns of another 200K dead from COVID by inauguration"
+    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
+    publishedDateTime: 2020-11-18T22:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden forms team to oversee confirmation process for key administration posts"
+    excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
+    publishedDateTime: 2020-11-18T14:12:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tj9jlrCOh0w/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/SS-Chap001_fig001_9780063011243.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
-    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
-    publishedDateTime: 2020-11-13T17:29:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
+    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
+    publishedDateTime: 2020-11-17T17:44:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
+    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Michigan Gov. Whitmer congratulates Biden, pledges to beat 'common enemy' COVID-19"
-    excerpt: "“Now, with the election behind us, it is time for the American people to unite against our common enemy: COVID-19,” Whitmer said."
-    publishedDateTime: 2020-11-07T18:39:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbV_RtR7axU/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-whitmer-congratulates-biden-beat-common-enemy-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's new chief of staff praised de Blasio for holding large dinner to put COVID fears to rest"
     excerpt: "President-elect Joe Biden's pick for chief of staff Ron Klain previously decried a \"fear epidemic\" at the beginning of the COVID-19 outbreak, and praised New York City Mayor Bill de Blasio for participating in a large dinner in Queens."
@@ -95,37 +95,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DC mayor disregarded own COVID restrictions to attend Biden victory speech, defends 'essential travel'"
-    excerpt: "Despite Delaware being on District of Columbia Mayor Muriel Bower’s list of high-risk states, the mayor and her staff attended President-elect Joe Biden’s victory speech in Delaware Saturday, reportedly defending the trip as “essential travel.”"
-    publishedDateTime: 2020-11-09T22:51:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E8eDQ7EKVHE/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-disregarded-own-covid-restrictions-to-attend-biden-victory-speech-defends-essential-travel.amp"
+  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
+    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
+    publishedDateTime: 2020-11-12T23:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309671612203.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
-    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
-    publishedDateTime: 2020-11-13T17:32:00Z
-    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "VvXozOVgC7gJLP+dNGj5CkWtssmKJ2mPe6FVKS3dj7LF/rNDlZewHVHGGZKOCt4p6MYq6ninokkxGie25VvFg/FuWBWq5rAlc4VpcohQkseO091QMXGWfWFeX8NrY4AirzvzE2YNv7UbDxUU/0M3vho6ogo9tz4fSGNG5oXfHjyQyYDpiIAjPtUjp2/wUlKW9LyAPnGN6fXSnS8veISgcyvAd4xH1tPXeSmqJS7pwAV3kdcPoZThCQBiNRF6eoeD0LnSk02tGchHM8wvzrUSqeLCWK5cUmQ4A49WLmZ/d1FrXEW6Jbrn61NgYvz+jRe3/v9Zewm7DrYS8OwMalE9AqUhPAWMBoJpzidsPmBS5Dw=;weGQg99kUiiRPz7t0vmxLw=="

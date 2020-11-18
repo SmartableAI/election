@@ -93,6 +93,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
+    excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"
+    publishedDateTime: 2020-11-18T21:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-letter-biden-congress-presi-idUSKBN27Y2VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541683546&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1QA"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Biden chooses Ron Klain as chief of staff"
     excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
     publishedDateTime: 2020-11-12T02:19:00Z
@@ -120,6 +136,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden promises to prioritize state virus funding"
+    excerpt: "President-elect Joe Biden says he's hopeful that Congressional Republicans will be more willing to send money to state governments after President Donald Trump leaves office. He's promising to make such funding a priority when he takes office."
+    publishedDateTime: 2020-11-18T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/18/biden-promises-prioritize-state-virus-funding/3768620001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "U.S. congressman Cedric Richmond brings practical streak to Biden White House"
     excerpt: "U.S. Representative Cedric Richmond of Louisiana brings a decade of experience in the House of Representatives, including some outreach to Republicans, to President-elect Joe Biden's administration at a time Democrats will need that skill set."

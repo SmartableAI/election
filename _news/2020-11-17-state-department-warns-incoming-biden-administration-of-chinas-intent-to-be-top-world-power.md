@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden warns of another 200K dead from COVID by inauguration"
+    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
+    publishedDateTime: 2020-11-18T22:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden forms team to oversee confirmation process for key administration posts"
     excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
     publishedDateTime: 2020-11-18T14:12:03Z
@@ -47,35 +63,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Chicago mayor defends celebrating in the streets for Biden, then shutting down city"
-    excerpt: "Chicago Mayor Lori Lightfoot has come under fire for enforcing new stay-at-home orders just days after she was seen in a crowded street applauding the win of President-elect Joe Biden."
-    publishedDateTime: 2020-11-13T21:37:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBtIKgIOOCY/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city"
-    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-defends-celebrating-in-the-streets-for-biden-then-shutting-down-city.amp"
+  - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
+    excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
+    publishedDateTime: 2020-11-13T17:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0dd7uOHLI8/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eacc5f4d-eb22-4134-8c7e-3343a7501950/751d890a-3ea5-415e-8dd1-6d100419e22a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'"
-    excerpt: "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year."
-    publishedDateTime: 2020-11-18T15:56:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp"
+  - title: "Biden's new chief of staff praised de Blasio for holding large dinner to put COVID fears to rest"
+    excerpt: "President-elect Joe Biden's pick for chief of staff Ron Klain previously decried a \"fear epidemic\" at the beginning of the COVID-19 outbreak, and praised New York City Mayor Bill de Blasio for participating in a large dinner in Queens."
+    publishedDateTime: 2020-11-13T00:28:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R5VwOql-8g/klain-covid-tweet-fear-epidemic-nyc"
+    ampWebUrl: "https://www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 162
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54c7ce-bf86-4534-ad75-337c9f985a82/8d32a57a-c1f1-4927-be8a-33f4a292438b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

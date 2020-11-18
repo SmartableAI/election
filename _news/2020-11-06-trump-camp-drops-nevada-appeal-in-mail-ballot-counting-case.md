@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
     excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-18T18:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/trump-faces-wisconsin-recount-deadline-as-biden-keeps-focus-on-covid-19-response-idUSKBN27Y0GY"
+    publishedDateTime: 2020-11-18T22:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
     type: article
@@ -55,7 +55,7 @@ related:
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
         width: 817
         height: 545
         isCached: true
@@ -368,6 +368,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump pays $3 million for partial Wisconsin vote recount"
+    excerpt: "President Donald Trump has paid $3 million for a partial recount in Wisconsin but has yet to file a petition indicating which counties it is targeting, the Wisconsin Elections Commission said Wednesday."
+    publishedDateTime: 2020-11-18T21:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount"
     excerpt: "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state."
     publishedDateTime: 2020-11-05T14:10:00Z

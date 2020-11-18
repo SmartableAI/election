@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6339217002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6339217002"
 type: article
 quality: 139
-heat: 559
+heat: 579
 published: true
 
 provider:
@@ -247,6 +247,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
     publishedDateTime: 2020-11-18T16:49:00Z
@@ -349,6 +360,6 @@ related:
         height: 683
         isCached: true
 
-secured: "WwqZPadGQlmMNu/98xqrkCx+mApijGQJr4xu4MhJ5sP+nlsP5Odiq7vjeAA1ArxN4ETNL7U26w8GLHVwBlHYv7BipLzt6XXSTeb4QEyuWMIACw8Ho2oAO8QOyRapct+52Ek3njbeQz5Qcs6F/EimColfpSi0D9Qfgf1/S3tzzzWIODPxE1aX/H2gxuq0BjFNokdoi/+VrNzbUyc3ytW5Vpgp5Hy9Jby+0sIUwjNkKF+gJLFTJx5wLRcuCrvv0xMukTotEqqYpvwRpK93+H0QxdrdiCvJFmXw8PycAsbeZT3shjSBF038+I4Ms7gbORroEFJB9KHg8aKOcE/Ls64r4pH3rfVdfhs1vaVQK58G7+M=;Nv1+1q5qC+FS+aSi0XZO6Q=="
+secured: "B9VRUe7T+XlqtxLKTGnfT5vsyHYrzucRdmMpcNiM01M9WFN0QYM4FiVp8rd0n0qeeGBoBpYwaWt/y0wpYyFDLoi+GJfmxWJH5PTX1f6BqiWlVxSeaSpaY5UBnJIBZonGuEwEFa6BpJgKLnjJ58XmI3uAbjrGSK2vJN5NVHPj78I/wFUU4XUHb2tWLJjH8u8WdgwY3nIJaJG8GErNCJj2KlKEN44supkF2NGklZgjLE/X/cTCyFe9x9gOX2hrlCDo2OD4J/yMnxiv5bc0QF+1iJfsum6mb4RtpOXXy24QBDCaT8i70CB55FIqOZ1jzFYbK+FAljylMFTx8rb1kBGlVAhA/4ap8fxqOlLuTnvEKBiDVfPiVws3rA9bBC1tjZ3e075SMD5evDPox7C2CSHCnFhW0NUVjUr644M7BPFrt7KgiJhOfmx0a1JbhdflqyhmcwbfnpnR+GD7dug6g4VvmZNWhYq9CB2lFhThlRhR83rDApuSsUguO3ZnVF6uoIM0W90EshoQmRu2FC/XJy9scQ==;i5fKviTzp9KKoq3jgsO+iw=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
+    excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
+    publishedDateTime: 2020-11-18T17:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-pfizer-says-its-communicating-with-bidens-team/2020/11/18/ea87ddc8-29c1-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
     excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
     publishedDateTime: 2020-11-13T20:16:00Z
