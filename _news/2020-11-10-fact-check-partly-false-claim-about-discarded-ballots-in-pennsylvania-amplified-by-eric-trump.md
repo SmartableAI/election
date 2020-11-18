@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 939
         isCached: true
+  - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
+    excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
+    publishedDateTime: 2020-11-18T08:31:00Z
+    webUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-defense-lawyers-shredded-rudy-giuliani-trump-election-lawsuit-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5fb451bfee44e7001ac113d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "xW+KT9cM5sAI9+h4KeLzD7QXmrn+gTybXjpWh+ab9p0tGdUrVkQ0K9bmEo8MmB7nGLz3BRLXdphHMw25W1XTojkdhkRpyXrD2mAJeOQNna8Aq+f2iKhJNTJXuRCxWj+l2Yfx5iMcZgfBJLMkArxSFQBVG3WltFOXzDsX8REF+uzsxYiQOaPbC42L3cwS2uYEUtoD4apI/WRg+BbMhdIqC4t4VzuJ2HOUFNToHhrFtNZivPMdoOjWYXIhesFHtYtA5NgmaSdrt+0K5ox/Aaiu4ga14OxZTm9Ec600WGWLLj4x20poQy+7iWwt7rlNf0pNJUsT4+zH5sKu8QQaaNPgSNT+McOmrW6AfPNYvFW0M7g=;ekHzKpnhcRksavp1AWI/9g=="
 ---

@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
-excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
-publishedDateTime: 2020-11-17T08:09:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
-webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
+title: "Financially troubled startup helped power Trump campaign"
+excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
+publishedDateTime: 2020-11-18T06:28:00Z
+originalUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
+webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
-quality: 119
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
-    width: 824
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -191,22 +191,6 @@ related:
         width: 749
         height: 545
         isCached: true
-  - title: "Financially troubled startup helped power Trump campaign"
-    excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
-    publishedDateTime: 2020-11-18T06:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump Fed nominee Shelton blocked in Senate, for now"
     excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
     publishedDateTime: 2020-11-17T22:40:00Z
@@ -318,6 +302,22 @@ related:
       - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
+    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
+    publishedDateTime: 2020-11-17T08:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
+        width: 824
+        height: 545
         isCached: true
   - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
     excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
@@ -614,6 +614,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wSZOYy2rt0eUUbu/1BasvjVRjUONos26wlNgFZUjRjiXkXo5SzvRIYWUr77dnK/tP3Qw9TVPBfy/h4ByRrVuaChWswl68jbJ5eknYdpfCeapo6c5TUdwQjjjeXduDVSmI1w2KEKquc0R658EnYhOmUyXoNP/VHoT643B8bUqclp2Mk3ctNtw/76O8+aZiR6vXek4LZ23DxooWe3LA8tm6VNpr/tS/J+imW+1OVDWfdfxKELhmMqfdojPaUyoPgU3AeLavXaMAu9GCS6pV034DnMr/ZPxzi4wQMmgC7sa4UNc6xiA2WpBXnueJJFTZw8fR7BRiXJUVXAaPxlLcb18meQn+gyTcUfCs+lJ1DIioQFij4wDmmftGOagJJeJatGZqtODglJ/l0+B8sLRRKJx7DbF4/ykTokNYJlGlJHVdAesI81iPQo1fqoyUaSwemosUTM967MS1cEb1lqM3NDrCzKK7h2l0kiAFeviyAvWZHYdCgTiOWEhnH05Hv9xa4tEVuqAGuVozYR9NeT6AlC8DA==;CFoX3Y7Lp5Rmlma/uZoijA=="
+secured: "5PdYJxQ+46DKecQn29uj9nDHfJ9KOp5UUkBUjinjafaMJ44cLHVDoA3TisNckjJ6Eees7AqXAh6n35lLiW49nXXElIVzZ3FB1SVdp51nRnM8cfkfqJAm9KupI3uvPrmigFKvl6Ik4r0QcFY11c6wUIJyizTl58fc4X9AZXTRJhqN7k6ABhaA3Cq4YUS2QfqRKw6n6spmNjJIesc7IB/Ujqw+ZTU944So6mGp41yoF/JxbYbdpTBysfhCjp+3ng4ZatRIwN+x0GhDW6qtHZhrQgpODR6fCm/sZFWjcFP5m9WK9lYLiOTKqSWPn9M84TTySJMynRCtt6VCtDoCm0nGMqzb4ug/Mbh5Dmy90XZrkIg=;2tO415vMGJwLInW88NV4eg=="
 ---
 
