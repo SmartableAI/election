@@ -32,147 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Trump officials mocked Democrats in 2016 as 'sore losers' for not accepting election results   "
-    excerpt: "Top Donald Trump campaign and White House officials continue to baselessly assert there was widespread election fraud in the 2020 election and refuse to acknowledge President-elect Joe Biden's victory, but four years ago, those close to Trump mocked Democrats who didn't accept his victory as \"sore losers.\"\n"
-    publishedDateTime: 2020-11-12T02:05:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yXiSBdobSfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html"
+  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
+    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
+    publishedDateTime: 2020-11-02T18:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415235130-kellyanne-conway-false-novel-coronavirus-covid-19-claim-sot-ctn-vpx-00001507-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Graham probed state officials in three states Trump lost"
-    excerpt: "Republican Sen. Lindsey Graham of South Carolina acknowledged on Tuesday that his efforts to probe state officials went beyond Georgia into two other states where Democratic President-elect Joe Biden also won, while President Donald Trump sought to discredit the result of the election.\n    \n"
-    publishedDateTime: 2020-11-17T23:38:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/etXQd14CTQI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/graham-nevada-arizona-elections/index.html"
+  - title: "Trump supporters seen blocking traffic on a New Jersey highway and a New York City bridge"
+    excerpt: "Hundreds of vehicles flying Trump, MAGA and American flags caused delays around the New York metropolitan area on Sunday after they were seen stopping traffic to cheer and chant.\n    \n"
+    publishedDateTime: 2020-11-02T02:32:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hRLcTpDxGQ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/us/trump-caravan-new-jersey-highway-new-york/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg"
-        width: 460
-        height: 259
-        isCached: true
-  - title: "Scaramucci predicts three pieces of Trump's endgame"
-    excerpt: "Former White House communications director, Anthony Scaramucci, predicts what President Trump's endgame might be as he continues to deny the results of the 2020 presidential election.\n    \n"
-    publishedDateTime: 2020-11-17T05:41:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j6amaLg0Bjw/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117000111-anthony-scaramucci-ctn-intv-11162020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101180345-trump-car-rally-stops-traffic-in-nj-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
-    excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
-    publishedDateTime: 2020-11-11T23:50:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gFhr7arr3A0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/trump-russia-investigation-declassification-battle/index.html"
+  - title: "New Jersey congressman's pledge of 'undying support' for Trump hangs over close House race"
+    excerpt: "The congressman who represents Atlantic City made a risky political gamble last year. Now he's waiting to see whether it will pay off -- or if he's going home broke.\n    \n"
+    publishedDateTime: 2020-10-28T14:47:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JJitFMueHGk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jeff-van-drew-amy-kennedy-new-jersey-house-race/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200701190301-president-trump-intelligence-briefings-russia-threats-sciutto-tsr-vpx-00000822-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191219162951-trump-jeff-van-drew-12192019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP senators shrug off Trump's conspiracies over election results: 'He can say whatever he wants'"
-    excerpt: "Top Senate Republicans seemed unmoved Monday by President Donald Trump's baseless charges that the election was \"rigged\" and his false assertions that he actually won the election, even though the results show he lost the race despite his efforts to sow distrust over a cornerstone of US democracy.\n "
-    publishedDateTime: 2020-11-16T22:50:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5jYYtovKOyY/index.html"
+  - title: "'It's a little tough out here': Trump blitzes must-win states with perfected rally routine"
+    excerpt: "President Donald Trump was running late when he arrived here Sunday morning, wind howling and tiny drops of ice sticking to his face, to begin the second-to-last day of his final run for office.\n    \n"
+    publishedDateTime: 2020-11-02T14:53:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OnZ4hqa7kfc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/donald-trump-campaign-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027121426-donald-trump-1024-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
+    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
+    publishedDateTime: 2020-10-26T14:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181026133036-01-deb-fischer-file-1026-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
-    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
-    publishedDateTime: 2020-11-16T10:03:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump has amplified voting falsehoods in over 300 tweets since election night."
-    excerpt: "The president has mischaracterized the ballot counting process, falsely claimed victory and lodged baseless accusations of fraud."
-    publishedDateTime: 2020-11-17T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/technology/trump-has-amplified-voting-falsehoods-in-over-300-tweets-since-election-night.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/technology/trump-has-amplified-voting-falsehoods-in-over-300-tweets-since-election-night.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/technology/trump-has-amplified-voting-falsehoods-in-over-300-tweets-since-election-night.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 146
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16distortions-blog-trumplies1/16distortions-blog-trumplies1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Win or Lose, Trump Will Remain a Powerful and Disruptive Force"
-    excerpt: "If President Trump loses his bid for re-election, as looked increasingly likely on Wednesday, it would be the first defeat of an incumbent president in 28 years. But one thing seemed certain: Win or lose,"
-    publishedDateTime: 2020-11-05T10:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/trump-post-presidency-influence.amp.html"
+  - title: "What’s Next for Trump? The Family Business Awaits His Return"
+    excerpt: "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons."
+    publishedDateTime: 2020-11-09T01:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04dc-trump-1/04dc-trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
         isCached: true
-  - title: "More Republicans call for a smooth transition as Trump continues spreading baseless fraud claims."
-    excerpt: "Even as more top Republicans urged President Trump on Sunday to allow for an orderly presidential transition, the president himself, after briefly appearing to acknowledge his election loss, resumed spreading the kinds of baseless accusations of election fraud that his supporters have embraced."
-    publishedDateTime: 2020-11-16T18:36:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/us/more-republicans-call-for-a-smooth-transition-as-trump-continues-spreading-baseless-fraud-claims.amp.html"
+  - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
+    excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
+    publishedDateTime: 2020-10-29T02:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-election-2020-women/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 125
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In a historically Republican suburb of Pittsburgh, voters debate whether to give Trump a second term."
+    excerpt: "Long lines of voters moved steadily in the first hour of voting at the Municipal Center in this town of about 30,000 people in Butler County, a historically Republican county. Cranberry Township, home to the headquarters of Westinghouse Electric and many engineers,"
+    publishedDateTime: 2020-11-03T16:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-pittsburgh.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 122
+    quality: 120
     images:
-      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15transition-briefing-bolton-repubs/15transition-briefing-bolton-repubs-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sPMdestBWt4fkdWieo/lw+QGuA0wtdAAkn4yjMvdgOHFtY603I+JED7m/hFoAqZtFHz9/SA84IVHmp1b7bBmmnCTkrg1obHQODIVD4F1hGxtUlIEViZvuuPCD9SvfUFdF68ZIMGfxHrFc8WMSM4xSWHGi8AO1qhxinzuCsXyP7KwOKi5sQc/UT3J4ceSdZMXuvweAjPncLLQxz+8eOpuh0ojvYG8JB5qht6e0sHZaUrTDzQwnAyHqDMpgxidVLW1Xw6qOSqs2OqGymAfFh0W6IISz1sWmUP8Db0EO6ITUYW4ep2Si36441/UwZx8c1IFK6o2bfHLKqpmIQDDUI4/DAuH73UD2a2OylbIv5ZuQ3M=;bGGgKkzXZwsk6hqVSb2czQ=="

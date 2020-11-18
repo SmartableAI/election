@@ -33,19 +33,35 @@ images:
 related:
   - title: "Trump fires top U.S. election cybersecurity official who defended vote"
     excerpt: "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud."
-    publishedDateTime: 2020-11-18T03:58:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idUSKBN27Y04O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y04O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y04O"
+    publishedDateTime: 2020-11-18T09:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541582565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH027"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541581388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH07G"
         width: 753
         height: 545
+        isCached: true
+  - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
+    excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
+    publishedDateTime: 2020-11-18T12:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHA4BVBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 991
         isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
@@ -63,49 +79,35 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
-    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
-    publishedDateTime: 2020-11-17T13:16:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+  - title: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
+    excerpt: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
+    publishedDateTime: 2020-11-18T10:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)"
-    excerpt: "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs."
-    publishedDateTime: 2020-11-18T02:02:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
-    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
-    publishedDateTime: 2020-11-10T17:28:00Z
-    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+  - title: "Trump just fired the US's top cybersecurity official who spent weeks striking down the president's conspiracy theories about election fraud"
+    excerpt: "Chris Krebs spearheaded the DHS's robust defense of election integrity and publicly countered Trump's conspiracy theories before he was fired."
+    publishedDateTime: 2020-11-18T09:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 106
     images:
-      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5e5579defee23d42fa295e4a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

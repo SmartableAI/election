@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden’s DIY transition proceeds without Trump assistance"
-excerpt: "President-elect Joe Biden has been forced to seek extraordinary workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine wee"
-publishedDateTime: 2020-11-18T05:19:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+title: "Biden's DIY transition proceeds without Trump assistance"
+excerpt: "President Donald Trump's refusal to cooperate with his successor is forcing President-elect Joe Biden to seek unusual workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine weeks."
+publishedDateTime: 2020-11-18T12:34:00Z
+originalUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11"
+webUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11"
+ampWebUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -254,6 +248,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to focus on coronavirus as Trump pushes to overturn election"
+    excerpt: "President-elect Joe Biden will meet with healthcare workers on the front lines of the raging coronavirus health crisis in a virtual event on Wednesday, while President Donald Trump faces further legal hurdles to overturn his election loss."
+    publishedDateTime: 2020-11-18T10:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Y0G5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y0G5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y0G5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541585637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH09T"
+        width: 906
+        height: 545
         isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
@@ -11210,6 +11220,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "w235G1XZMVQJxN0sCDwh7B8BtZB9Vrbm4T9mMliJbqhkESv95NmNVW6RpCUplcAUI2JDIIc7Ja+otMUvqLSQY9mKJYhMD1YLolTsVzababiOvPpF2almAwrwR245O2XVvN3ygAbQ1XSPfUwDvbxVYtKenE1MDHS3sm9NuqvUT4BzWpNUT4N9dCnSOtbXCUoLs4nGuncZPp1FRcQObWr9mlkelO7EfnmwnP0vv9ZM0fJ/nmIBweZ0L56QZYz9lkZf8yWHdG2bC3We9qArPPUvDQ0FcyUpfsIo0ZHc80sRcxrGbzMf7OkeNJ3Hml65gRcdK0AP7/MblcszWrg2odvTqOFtJxJ+Y4GULjCBTeH4r+8=;T/vySRKRsGqWc7OmnuxIsg=="
+secured: "3ZiCL1ZzOY3k9R9oTUqPRTIiF5NEDcT7xWmlPc1ckyE7XhCrIEm5lVqOp5yjYpGiXjHc/5nEOep+R3jIykM3fHXODVOThFhejtinO8KdMs/ceeMN+IjDq9KllG7uKyvBShU+uv3rHn2NiEPlxAbqSMH+0ehgUjGLwItfmQBUsDjQmo+7AsCRmxbxJtn5zaLISI2lKWzL1yCo4yiGeVAODmWnfEg8bSIhsjZuU6dgdsrIb+9YZ8fySornbdI56ACXmtoXYwVVMeioKHlsgiHpbJi2eSHS6Wqr2K3+tw8ftiaTUKZnkDQMnqHdcbkZ1mvSt+G5a8gGGkn9rzn/UFCh350uAKC3Hv9s6Eheht1tbUU=;K/NFoaiHJrq6JyrxnNMEtw=="
 ---
 

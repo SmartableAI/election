@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Lee responds to Feinstein on armed Trump supporters: 'Only violence that I'm aware of' was from Antifa"
-    excerpt: "Sen. Mike Lee, R-Utah, pointed out violence by Antifa when Sen. Dianne Feinstein, D-Calif., implied that President Trump's tweets incite violence and seemed to advocate for more censorship of the president on social media during a hearing with big tech CEOs."
-    publishedDateTime: 2020-11-17T18:09:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LUwCsFsTKCs/mike-lee-feinstein-violence-antifa-trump-tech-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-lee-feinstein-violence-antifa-trump-tech-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-feinstein-violence-antifa-trump-tech-senate.amp"
+  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
+    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
+    publishedDateTime: 2020-11-14T00:16:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/25d31656-AP20322568207291.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
+    excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
+    publishedDateTime: 2020-11-14T16:22:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GfiyOhLQZb8/pro-trump-supporters-planning-million-maga-march-near-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Rally-DC-AP-6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Media takes heat for ignoring violent attacks on Trump supporters at MAGA rally"
+    excerpt: "Conservatives criticized members of the media for failing to cover violence against President Trump's supporters at the so-called Million MAGA March."
+    publishedDateTime: 2020-11-15T14:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVGfi1PuI9k/media-coverage-million-maga-march-trump-conservatives-violent-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
+    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
+    publishedDateTime: 2020-11-16T19:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
+    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
+    publishedDateTime: 2020-11-16T01:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

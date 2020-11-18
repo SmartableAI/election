@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
 type: article
 quality: 166
-heat: 206
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,34 +31,47 @@ images:
     isCached: true
 
 related:
-  - title: "Watch: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election."
-    publishedDateTime: 2020-10-29T04:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html#!"
+  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
+    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
+    publishedDateTime: 2020-11-09T02:39:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sanders tells 'Squad' of need to push Biden to be 'most progressive president since FDR'"
+    excerpt: "Sen. Bernie Sanders, I-Vt., said in an interview that left-wing lawmakers and supporters need to push Democratic nominee Joe Biden to be the “most progressive president” since President Franklin Delano Roosevelt."
+    publishedDateTime: 2020-11-02T15:18:00Z
+    webUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e29b2d3a-56bb-4140-af21-49ebcecc0ad8/a48331e4-06b1-4626-a48a-ce62b0bd0f04/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524824.jpg"
-        width: 908
-        height: 680
-        isCached: true
-  - title: "Watch Live: Barack Obama Campaigns For Joe Biden At Orlando, Florida Event"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden at an Orlando, Florida event on Tuesday afternoon, one week ahead of the 2020 election."
-    publishedDateTime: 2020-10-27T16:50:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/27/watch_live_barack_obama_campaigns_for_joe_biden_at_orlando_florida_event.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
-    images:
-      - url: "https://assets.realclear.com/images/52/524824.jpg"
-        width: 908
-        height: 680
-        isCached: true
+    quality: 45
 
 secured: "9bb4BDRF7BIzBpIzmdkLb560XmpPzEno4c/56jUe6wTjiZcsoVxsRqe9pErTs++LXGN7RtkK9BwalJ0xIezPucohGXomZ/GlGryE/RL/jao15hguBh9KYdIjGCCszG6YuWg3G2Z5f4oTPWK7eX7/pS+rtNpCu8Gjhn4Am9WlNxAFoEjSW2f4lcc3jR3tm1HcgtgRD1q3z9nH63JiQvZiiW9+PLirrrh/DJlk4gYlj5RpsraXu6z8epasvfCS6Kz1Kioj2exK0iDZGlVpPmOXr3jgPwGAfga5A2WcKZvz54C/zhxgPnHu+L4EMqN9zYPi2+i/+owNVP1PwQEYRHP09UowznRIkvM2Y2vjWaYoR/E=;1q1FjYGgm/EoZIQTw0jf0A=="
 ---

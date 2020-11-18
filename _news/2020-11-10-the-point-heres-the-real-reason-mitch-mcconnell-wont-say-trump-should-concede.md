@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/mitch-mcconnell-donald-trump-conceding/index.html"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell: Trump '100% within his rights to look into allegations of irregularities'"
-    excerpt: "Senate Majority Leader Mitch McConnell on Monday sided with and defended President Donald Trump, who has yet to concede the presidential election, saying that Trump is \"100% within his rights to look into allegations of irregularities and weigh his legal options.\"\n    \n"
-    publishedDateTime: 2020-11-09T23:56:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YJhxozrmQmI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/senate-republicans-trump-election-results/index.html"
+  - title: "The Point: Lindsey Graham just crossed another line in defending Trump"
+    excerpt: "Fresh off a surprisingly pedestrian election win on November 3, Lindsey Graham has decided to take on a new role: The most aggressive enforcer of the idea that President Donald Trump maybe -- just maybe! -- didn't lose the 2020 election.\n    \n"
+    publishedDateTime: 2020-11-17T23:16:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023115840-35c-mitch-mcconnell-centered-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030173830-13d-lindsey-graham-play-button-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

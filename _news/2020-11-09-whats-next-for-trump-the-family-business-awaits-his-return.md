@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "For Trump voters, shock, disappointment and disbelief."
+    excerpt: "Around the country, Trump supporters greeted news that Joseph R. Biden Jr. had won the election with a combination of disappointment and disbelief. Larry Thompson, who had voted for President Trump in Prosper,"
+    publishedDateTime: 2020-11-07T22:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/us/politics/for-trump-voters-shock-disappointment-and-disbelief.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/07/nyregion/07election-live-blog-trump-disbelief/07election-live-blog-trump-disbelief-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump stumbles through final appeals to women as he vows to get their husbands back to work"
     excerpt: "(CNN)President Donald Trump has employed a series of dubious reelection strategies, but none have been more befuddling than his sexist appeals to women that have illuminated the 1950s mindset that ..."
     publishedDateTime: 2020-10-29T02:49:00Z

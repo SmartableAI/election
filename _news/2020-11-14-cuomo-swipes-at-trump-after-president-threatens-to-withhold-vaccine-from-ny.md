@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
-    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
-    publishedDateTime: 2020-11-16T01:24:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "prujkDqt5BqlTJk/mkICs9MViYFTzbCo7zcimheeGnkZlqdYAbzJeYrhsSO+GyjwPzoR+I5z7U6z20tkMDZjWc95cIfrLJAxTfnCXWYP4gPL+rtHK34wxyW4E1yiUDxu+eyGa7rSG5h8aWIHhaHjTBc7iBlM0RoYyPke666Xmb8BGvpRjFiO8NPhct4slZn/3vx03UjBURwubAO6OWiKTmsqt25pBc5Eg0pJD+9W/DPpt27UKf95eVDNGN29xg1J8CGgE0jpH3IYZMJh5FJtyhDa2/Xk1HK9CNkcg8lamSb1nZvyp/ItFaGJ+ttCjKhrsf60uKQW4CBy/YPziFrFhWLJh9qXEqUvquPCqtOCQY0=;rLOpIbmT684h6DwN6zMz8w=="
 ---

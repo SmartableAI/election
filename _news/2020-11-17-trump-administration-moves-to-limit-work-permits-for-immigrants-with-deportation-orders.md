@@ -47,38 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Media takes heat for ignoring violent attacks on Trump supporters at MAGA rally"
-    excerpt: "Conservatives criticized members of the media for failing to cover violence against President Trump's supporters at the so-called Million MAGA March."
-    publishedDateTime: 2020-11-15T14:52:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVGfi1PuI9k/media-coverage-million-maga-march-trump-conservatives-violent-antifa"
-    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
-    excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
-    publishedDateTime: 2020-11-17T13:26:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump"
     excerpt: "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday."
     publishedDateTime: 2020-11-12T23:28:09Z
@@ -94,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
-    excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
-    publishedDateTime: 2020-11-17T14:51:00Z
-    webUrl: "https://www.wsj.com/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-260465/social"
-        width: 1279
-        height: 640
         isCached: true
 
 secured: "KQFa3sJmNKaI7uNe8XLsZ2JDj6SX8bqGZQwjA3t4bRe8nFGMHL7A2d/Vc89+zykzrv6nZw8sE6ktkIJZCZmz+eTUOcOk87ySrPxdNWIjEBBBrxZ8dU8IhT3ZYiCanZ//BIxWfK5xBo12uLk7CGH6bw/Z3CZkUZxTu6mdVQitmzwpm02v427lzHgkiabMToMNelahzBSijTOukTC79e1QOT+nQyqyGWLdBU2EvkH4mhsENk3uK0ik9k0sBxLEw4stRXTMEfyo3bXf0JIMAamV8ellsYak1q4+kWvtdVCOU4S3mnXdidtIoJCYbI4QdGLHo66mrQtK68kGvNHyMCn7QUSiUpcUGABJuyjJWlWdfUE=;foKZD8N9P7I/mukSeTGnMA=="

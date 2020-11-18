@@ -47,38 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
-    excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
-    publishedDateTime: 2020-11-17T23:59:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iRtl9X3Ersc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-student-loan-debt-cancellation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117124522-restricted-joe-biden-economy-wilmington-1116-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
-    excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
-    publishedDateTime: 2020-11-17T19:35:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RTCDyXlNH70/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/paul-mitchell-trump-joe-biden-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 183
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170816201413-paul-mitchell-eb-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Top Trump adviser moves closer to accepting Biden win: 'Obviously, things look that way now' "
     excerpt: "National security adviser Robert O'Brien promised that there will be a professional transition from the White House National Security Council \"if\" President-elect Joe Biden is officially determined the winner of the 2020 election, acknowledging \"obviously things look that way now\" despite President Donald"
     publishedDateTime: 2020-11-16T18:18:21Z
@@ -95,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign drops Arizona lawsuit requesting review of ballots"
-    excerpt: "Lawyers for the Trump campaign have dropped a lawsuit seeking a review of all ballots cast on Election Day after finding that the margin of victory for the presidential contest in Arizona could not be overcome.\n    \n"
-    publishedDateTime: 2020-11-13T18:36:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WbibUwXYTqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/arizona-trump-lawsuit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108084838-03-trump-country-goes-through-stages-of-grief-following-biden-win-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
     excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
     publishedDateTime: 2020-11-17T00:07:02Z
@@ -124,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden fills his West Wing. The Cabinet will wait"
+    excerpt: "The transition time between one presidential administration and the next is always frenetic, fast-paced and full of some uncertainty as campaigns try to morph into governments. Doing it during a surging pandemic and an economic downturn makes it even more important to hand things over the right way.\n"
+    publishedDateTime: 2020-11-18T11:02:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lmKNMz1G2eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116222058-biden-trump-transition-white-house-1-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -175,22 +143,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Plan to Sell Arctic Oil Leases Will Face Challenges"
-    excerpt: "If lease sales happen in the final days of the Trump administration, they may face disputes in court or could be reversed by the Biden administration."
-    publishedDateTime: 2020-11-18T02:57:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/17/climate/17CLI-ARCTICREFUGE/17CLI-ARCTICREFUGE-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
     publishedDateTime: 2020-11-17T20:09:00Z
@@ -220,20 +172,6 @@ related:
       - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Even in Defeat, Trump Found New Voters Across the U.S."
-    excerpt: "Though turnout was explosive for both candidates, President Trump found 9.9 million new supporters across the country, allowing him to expand his base."
-    publishedDateTime: 2020-11-17T04:56:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/us/election-turnout-promo-1605565899442/election-turnout-promo-1605565899442-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "China looms as Biden's biggest foreign policy challenge. Here's where he stands"
     excerpt: "As United States President-elect Joe Biden faces an ugly, potentially contested transition, foreign policy may be the last thing on his mind."

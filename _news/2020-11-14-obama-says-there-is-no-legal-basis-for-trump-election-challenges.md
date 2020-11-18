@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump rips pre-election Wisconsin poll showing him down 17 points as 'suppression'"
-    excerpt: "President Trump on Wednesday ripped a pre-election poll in the key battleground state of Wisconsin, which showed him trailing Joe Biden by a whopping 17 points, slamming it as \"illegal suppression.\""
-    publishedDateTime: 2020-11-11T15:04:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajP9XCKkOJQ/trump-pre-election-wisconsin-poll-suppression"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pre-election-wisconsin-poll-suppression.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pre-election-wisconsin-poll-suppression.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
     excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
     publishedDateTime: 2020-11-16T20:14:29Z
@@ -172,22 +156,6 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dadeef8-00dd-4344-9303-20e8d973abad/e2e98bd2-2fba-4d9c-bc38-2e90bae5a34b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
-    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
-    publishedDateTime: 2020-11-16T03:38:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -303,22 +271,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "‘He Won,’ Trump Tweets in a Post About the Election"
-    excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"
-    publishedDateTime: 2020-11-15T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    ampWebUrl: "https://www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-260247/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Pro-Trump Demonstrators in Washington Protest Election Results"
     excerpt: "Thousands of supporters of the president gathered in the capital to protest the results of the election. They were greeted by counterdemonstrations, and skirmishes between the two sides attracted police attention."
     publishedDateTime: 2020-11-15T07:29:00Z
@@ -332,22 +284,6 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-260118/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Family Business Faces Post-Election Reckoning"
-    excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
-    publishedDateTime: 2020-11-15T12:30:00Z
-    webUrl: "https://www.wsj.com/articles/trump-family-business-faces-post-election-reckoning-11605436201"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-255810/social"
         width: 1280
         height: 640
         isCached: true
@@ -429,22 +365,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "As Trump Focuses on 2024, Aides Mull Agenda for Final Days"
-    excerpt: "President Trump has expressed increasing interest in running for president again in 2024. He has spent less time on his remaining 69 days in office, leaving it to aides to determine what he could accomplish."
-    publishedDateTime: 2020-11-13T00:44:00Z
-    webUrl: "https://www.wsj.com/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
-    ampWebUrl: "https://www.wsj.com/amp/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-258466/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Federal Judge Invalidates Trump Administration's DACA Rollback"
     excerpt: "A federal judge in New York invalidated Trump administration rules narrowing the program that protects immigrants living in the U.S. since childhood without legal permission, ruling the restrictions were improperly issued."
     publishedDateTime: 2020-11-15T00:34:00Z
@@ -504,22 +424,6 @@ related:
       - url: "https://images.wsj.net/im-260095?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Trump Administration Takes Final Steps to Auction Drilling Rights in Arctic Wildlife Refuge"
-    excerpt: "The Interior Department is taking final steps to secure oil development in the 19-million-acre Alaskan wilderness by initiating a leasing process to strike deals with drillers before President-elect Joe Biden can stop it."
-    publishedDateTime: 2020-11-16T18:40:00Z
-    webUrl: "https://www.wsj.com/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 125
-    images:
-      - url: "https://images.wsj.net/im-260604/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"

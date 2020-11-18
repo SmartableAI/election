@@ -207,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Fed nominee Shelton blocked in Senate, for now"
     excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
     publishedDateTime: 2020-11-17T22:40:00Z
@@ -334,6 +350,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
         width: 824
         height: 545
+        isCached: true
+  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
+    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
+    publishedDateTime: 2020-11-17T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
     excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
@@ -614,6 +644,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "97VRrvfvVaxY5LdCNVI+ry+p29pM+qEAzcm/2DjSszoPCsqp1B5Jsh+hBnfVB7UJGRxaQsjCki21s55ZVkwhq0Sob4z2PDgx6rTxOxstBcXUmXa6Z3009IVOlzypkT1SQCSLA5C6psc8G3GR8EAmUSLPQWFWucYT+/t28ONksnlaAOOd/Bl5O0waDaKhVRRERX/VzJcHTmQWOdelsITWtCj3vAiI4wk7gGvaJyUqRJxY6Q+dExJRMBFV97QAd5QeymqOfP4FSWay0yJPBFPui9nNJJNBY6Ae/Ea1DtlYI3M2VSfkTmgRdLhNw/9hW7u/L9P3ePgz1HGBBHK7rZpekpra2nYRSPJO7Ph/pKHhoa8=;64ZDL4kZstKnNxQVb2WqsA=="
+secured: "ifW5/x1t+x/ScInxbSwksIw5r4CdqMaGNJCPHqEHkIXGLRqGKDh7FF7sKwU4IiQuu+B97ocaOzKLEIWdAU2kalpYGXWrxbkxCiQYzggua6bv/u3YfT5eMmxuFINYAqbJil0KtTqHxbICCU3+1Wu6pePsdfpo+1KDA9gC7Jw2XU8EZiS9Ftn90Y3UjG4XpZIgqDXtxUrR58VL/Ot1aw6VVWkSCE62DaPiB7czb8IalIkvt8gU8G9bOieveUWD/PhfdRnBHoMO3vwRUb8m1QMW7SoUoEPUQarigtbcI5kzyunm/tJRjNNMVVX090l/7fwDF8doixmCJzEi//tyGD6CDXBdvAR6gOW5+Fr65LlGbPWiGsw/EpscpiVK5U61EKTcHGv1HnMceXauAETOYw18ce0ycjNXaGkeqSwi1nf8QAjgBzzyvPcyfkibgewkUjFWkWEXMzl3CnvlymwW6XtSrivTxrTOYC6CgiJR9jnQBoJSWMyzNWARJZaPMHfYLa6HX99ZBw+5ca7cjdRd1fkGqg==;KMXY5TcWlov6VMcgu3oxFA=="
 ---
 

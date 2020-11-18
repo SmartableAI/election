@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
+    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
+    publishedDateTime: 2020-11-11T19:27:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
+    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
     excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
     publishedDateTime: 2020-11-11T16:54:42Z

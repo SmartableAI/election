@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-election-2020-senate-georgia-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-2020-senate-georgia-lawsuit-marco-rubio.amp"
 type: article
 quality: 177
-heat: -1
-published: false
+heat: 217
+published: true
 
 provider:
   name: Fox News
@@ -31,51 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Trump 'frustrated' but still 'strong' after election, Geraldo says"
-    excerpt: "Fox News’ Geraldo Rivera says he has “no doubt” President Trump will run again in 2024 if his post-election lawsuits fail to alter the results of his 2020 run against Joe Biden."
-    publishedDateTime: 2020-11-14T05:57:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ndaTaOo_00Y/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
+    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
+    publishedDateTime: 2020-11-13T03:54:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f925242-9535-48dc-b0c7-99e1668d52e6/f314b605-adc5-4d79-91c0-c639bb1bb271/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
-    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
-    publishedDateTime: 2020-11-13T05:38:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
-    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
-    publishedDateTime: 2020-11-15T08:05:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
         width: 1280
         height: 720
         isCached: true

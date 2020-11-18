@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
-    excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
-    publishedDateTime: 2020-11-14T16:22:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GfiyOhLQZb8/pro-trump-supporters-planning-million-maga-march-near-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Rally-DC-AP-6.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "AA7E0DGY0jPYcAZ5A9E5CO0aX6BGQdWIag9AKhL5FLure4uHGnUDdeRvytLqTpXClJYqe0igjGy8/cO/6BYdrI34YutHQdeKiVnDqXQU25suq02DrjPqRehhmnZ6cDuzM7MuX6KRQ3wnfilh6vVWwDo2WRfI+mTTdoPaTwb5qyRpddt+NmNJV7j69jGOyzsdiDsTt8BF2UbLEtUUVG+cJZQUaSND6hbY2jmdP8ipjBb5vBewORqARuGxsSqIlqrJVDA5TceWt3T9oKSZMqRhUQSsITER1dUkj/JvXknQm4NoT9rFsEAUJCIjRKQWqyfGypTcYLl6AZ3gqOWn/BjlaSsXr1HpPFsiblp5Z7XjTWs=;AF5eUw0+czJrZHlYxjC2GA=="
 ---

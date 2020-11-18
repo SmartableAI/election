@@ -31,85 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters march past New York homes of Cuomo, Clintons"
-    excerpt: "Carrying signs that read \"Cuomo sucks,\" \"Expose the corruption,\" and \"Dead people don't vote!\", the supporters of President Trump made a scene in New York state protesting by the homes of his chief liberal rivals: New York Gov. Andrew Cuomo and former Secretary of State Hillary Clinton."
-    publishedDateTime: 2020-11-16T22:19:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2oRGYLFmos/trump-supporters-march-past-new-york-homes-of-cuomo-clintons"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
+  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
+    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
+    publishedDateTime: 2020-11-14T00:16:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Cuomo blames drug companies, President Trump for speedy COVID-19 vaccines"
-    excerpt: "New York Gov. Andrew Cuomo on Tuesday said the speedy process by which coronavirus vaccine trials are being roled out are being driven both by President Donald Trump’s ego and the profit motivation of the drug companies manufacturing the vaccines."
-    publishedDateTime: 2020-11-18T01:19:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzeGOVAVbuE/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
+  - title: "Trump blasts 'ANTIFA SCUM,' media after violence mars MAGA marches in DC"
+    excerpt: "President Trump lashed out against \"ANTIFA SCUM\" and the media Saturday night as violence continued in Washington, D.C., where pro-Trump supporters gathered for the “Million MAGA March.”"
+    publishedDateTime: 2020-11-15T00:09:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t5lgNX0kQSc/violence-maga-march-dc-antifa-blm-counterprotesters"
+    ampWebUrl: "https://www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/violence-maga-march-dc-antifa-blm-counterprotesters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/e9052643-AP20318839451844.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/counterprotester-burns-trump-flag.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
-    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
-    publishedDateTime: 2020-11-14T20:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+  - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
+    excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
+    publishedDateTime: 2020-11-14T16:22:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GfiyOhLQZb8/pro-trump-supporters-planning-million-maga-march-near-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Rally-DC-AP-6.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
-    excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
-    publishedDateTime: 2020-11-13T22:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZtJjpUBiWE/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
+  - title: "Media takes heat for ignoring violent attacks on Trump supporters at MAGA rally"
+    excerpt: "Conservatives criticized members of the media for failing to cover violence against President Trump's supporters at the so-called Million MAGA March."
+    publishedDateTime: 2020-11-15T14:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVGfi1PuI9k/media-coverage-million-maga-march-trump-conservatives-violent-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-million-maga-march-trump-conservatives-violent-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319793359085-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
+    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
+    publishedDateTime: 2020-11-16T19:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "FLASHBACK: All the times Cuomo expressed skepticism of Trump coronavirus vaccine"
-    excerpt: "New York Gov. Andrew Cuomo has repeatedly questioned President Trump’s political motives regarding a coronavirus vaccine and its credibility under his leadership."
-    publishedDateTime: 2020-11-15T20:20:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A2exSWSdfGU/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-all-the-times-cuomo-expressed-skepticism-of-trump-coronavirus-vaccine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "ZGH7YGEowYrisjYFLPxZlK2XED+jDT2xuFDT7DWq/ii6xXkY1RsleHh+G5N0hXW/rFwnGZ6f4py4R5hl73Xh5S4xM7VfZr21SSEiBTWNyCKmWgu2Vp1MQh0nwAKLRZQlYXGMVKs9HAHwAvhzjOPtRI+ErnqGN7po8I6uuuhjD/06gUSQ6c4pYnQjmP3Ag2zXuuAfJwzsRUUegSxEDt43TZVi480/NO/NhsHfUY28EQBEGqRk/b2gCTJ1TFrorhSAHYHk9cvmeitJZ9acRdeTtpLeQx08M9rFmqQaqk/FbmEqwzsdSK8meJttlZgLeR+t17feeHezPuJ78d7WJ1e1hAevkCnF65QztGEZ+eclrFM=;duVOUFgzc3k5sHlEekL4Cw=="

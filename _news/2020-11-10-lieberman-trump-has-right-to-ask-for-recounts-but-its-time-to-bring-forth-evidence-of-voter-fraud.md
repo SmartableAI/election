@@ -31,461 +31,276 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
-    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
-    publishedDateTime: 2020-11-15T13:52:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
-    excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
-    publishedDateTime: 2020-11-16T17:26:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jz1U0PJ1NCs/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 188
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden tweet about leaving Afghanistan by 2014 resurfaces as Trump pulls troops"
-    excerpt: "President Trump’s announced plan to withdraw troops from Afghanistan and Iraq has been met with mixed reactions with some Republicans pushing back on the idea, but President-elect Joe Biden has been relatively mum."
-    publishedDateTime: 2020-11-18T02:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aw6EYisfUrE/joe-biden-tweet-leaving-afghanistan-2014-trump-pulls-troops"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-tweet-leaving-afghanistan-2014-trump-pulls-troops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-tweet-leaving-afghanistan-2014-trump-pulls-troops.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Kennedy: Media's disparate treatment of Biden, Trump will 'undermine democracy'"
-    excerpt: "Senate Judiciary Committee member John N. Kennedy, R-La., said Tuesday that the media suddenly struck a different tone this week when they questioned President-elect Joe Biden almost exclusively about his viewpoint of President Trump."
-    publishedDateTime: 2020-11-18T03:06:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dfLhS4EBmE/sen-kennedy-medias-disparate-treatment-of-biden-trump-will-undermine-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-kennedy-medias-disparate-treatment-of-biden-trump-will-undermine-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kennedy-medias-disparate-treatment-of-biden-trump-will-undermine-democracy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ed2c9e6-c984-4497-a36b-1fb3a6b754f6/8901daa8-0ee6-430e-94fc-b1bfc2f15c53/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden campaign manager heads to White House as Trump hails 'bit victory'"
-    excerpt: "Follow for the latest developments on the 2020 election."
-    publishedDateTime: 2020-11-17T11:07:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmV4kHqi73o/live-updates-elections-2020-trump-biden-nov-17-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-trump-biden-nov-17-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-trump-biden-nov-17-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2b8b04-0c67-4cfb-960f-b3be13dc1faf/47643ade-707a-4c8e-8d2c-c7e293275276/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
-    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
-    publishedDateTime: 2020-11-09T17:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+  - title: "Trump's voter-fraud remarks draw criticism from some Republicans"
+    excerpt: "President Trump faced some pushback from his own party Thursday after warning about illegal voting and an attempt to \"steal\" the presidential election."
+    publishedDateTime: 2020-11-06T04:31:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrpFX5qC3Yg/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-voter-fraud-remarks-draw-criticism-from-some-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "NASA chief says he does not plan to serve in Biden administration"
-    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
-    publishedDateTime: 2020-11-10T00:06:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/486e3da4-419d-4817-bbf0-ac663dd0aa73/4489e600-3283-425c-92a8-9780baffc963/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
-    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
-    publishedDateTime: 2020-11-14T00:16:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
+  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
+    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
+    publishedDateTime: 2020-11-09T17:17:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ivanka Trump slams media for ignoring violence against conservatives"
-    excerpt: "Ivanka Trump on Sunday called out the media for its apparent double standards on violence directed towards conservatives and supporters of President Donald Trump. "
-    publishedDateTime: 2020-11-15T21:55:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x7gGe7zVWQc/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95a364f4-3e47-461f-901a-cb621453ed7d/e45b25bf-9dfe-4e16-9b3b-e2abcf8a9661/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden taps reparations advocate for Treasury transition"
-    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
-    publishedDateTime: 2020-11-16T15:32:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
-    excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
-    publishedDateTime: 2020-11-17T01:36:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZwxSKo3RErg/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30641ef-6df3-4cc6-97fb-f47ba35daa0d/da6ba733-6fcc-4921-951f-1ca4f2d004ed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
-    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
-    publishedDateTime: 2020-11-10T21:58:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Dem. Rep. Ryan urges Trump to put the needs of the American people first"
-    excerpt: "Biden surrogate Rep. Tim Ryan, D-Ohio, had a message for President Trump on Sunday, saying, “You can’t put your own concerns in front of the concerns of the American people.”"
-    publishedDateTime: 2020-11-15T21:43:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOoHX2qITsQ/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Clyburn claims Trump not conceding yet means 'this democracy is teetering'"
-    excerpt: "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\""
-    publishedDateTime: 2020-11-08T16:02:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede"
-    ampWebUrl: "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+  - title: "Trump to launch PAC to retain influence after departing White House"
+    excerpt: "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House."
+    publishedDateTime: 2020-11-10T14:57:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
-    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
-    publishedDateTime: 2020-11-09T02:39:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+  - title: "Donald Trump could reportedly land this eye-popping sum for his memoir"
+    excerpt: "President Trump is reportedly being courted for a book deal on his time in the White House that could strike as high as $100 million. "
+    publishedDateTime: 2020-11-11T01:48:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DPHKPjL5LMk/donald-trump-land-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-land-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-land-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/139dcedd-AP20314847159863.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
+    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
+    publishedDateTime: 2020-11-04T02:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump announces day of remembrance for Americans killed by illegal immigrants"
+    excerpt: "President Trump on Friday declared Nov. 1 a day of remembrance for Americans killed by illegal immigrants -- seeking to highlight his policies curbing illegal immigration in the last days of his reelection campaign."
+    publishedDateTime: 2020-10-31T21:47:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BmvawIV5xAE/trump-day-of-remembrance-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-day-of-remembrance-illegal-immigrants.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00058b18-b335-4f2a-ae6f-f16a7766d0f4/b69801ec-0c99-4ab7-b22e-43c9cc783a03/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
-    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
-    publishedDateTime: 2020-11-11T19:27:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
+  - title: "New Pentagon adviser could push US troop withdrawals before Trump’s departure"
+    excerpt: "President Trump’s flurry of November changes at the Pentagon could have U.S. troops home from Afghanistan by Christmas, if one new adviser gets his way."
+    publishedDateTime: 2020-11-12T00:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/38uX1nJm9Vo/new-pentagon-adviser-troop-withdrawals-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
-    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
-    publishedDateTime: 2020-11-16T19:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
-    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
-    publishedDateTime: 2020-11-16T22:48:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
+  - title: "Jack Brewer says Black Americans will turn out for Trump like no Republican before"
+    excerpt: "The Platinum Plan was a great move by President Trump, Black Voices for Trump Jack Brewer said on Sunday."
+    publishedDateTime: 2020-11-01T15:04:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VomhYOuZ9JY/jack-brewer-black-americans-turn-out-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/jack-brewer-black-americans-turn-out-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jack-brewer-black-americans-turn-out-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
-    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
-    publishedDateTime: 2020-11-17T22:54:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+  - title: "The media 'cried wolf' for four years about Trump and people stopped listening: Adam Carolla"
+    excerpt: "The mainstream media \"cried wolf,\" author and comedian Adam Carolla said Thursday, reacting to the results of the 2020 presidential election showing tremendous support for President Trump from non-White voters."
+    publishedDateTime: 2020-11-05T20:15:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhscVdgIQV0/adam-carolla-media-crying-wolf-trump-racism"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
-    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
-    publishedDateTime: 2020-11-17T19:51:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+  - title: "Rep. Jordan says Republicans picked up seats because voters don't like socialism, sees path for Trump"
+    excerpt: "Republicans picked up House seats despite projections that Democrats would have a \"blue wave\" on Election Day because \"Americans don't like socialism,\" Rep. Jim Jordan, R-Ohio, told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-11-07T18:22:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
-    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
-    publishedDateTime: 2020-11-08T23:45:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
-    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
-    publishedDateTime: 2020-11-13T03:54:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
-    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
-    publishedDateTime: 2020-11-09T17:17:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House minority leader says he did not speak with Biden"
-    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
-    publishedDateTime: 2020-11-10T22:21:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
+  - title: "Top two pro-Trump super PACs make final $20 million ad push"
+    excerpt: "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday."
+    publishedDateTime: 2020-10-30T23:11:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg"
         width: 1280
-        height: 675
+        height: 720
         isCached: true
-  - title: "Pope Francis congratulates Biden on election win during phone conversation"
-    excerpt: "Joe Biden and Pope Francis held a phone conversation on Thursday, as the pontiff became the latest world leader to congratulate the president-elect."
-    publishedDateTime: 2020-11-12T21:09:00Z
-    webUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation"
-    ampWebUrl: "https://www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pope-congratulates-biden-during-phone-conversation.amp"
+  - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
+    excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
+    publishedDateTime: 2020-11-06T21:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPBHKuPETQg/pa-gop-leaders-report-fraud-concerns-to-law-enforcement"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-gop-leaders-report-fraud-concerns-to-law-enforcement.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 148
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+  - title: "Trump Fires Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-10T04:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-259713/social"
+      - url: "https://images.wsj.net/im-257312/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden Names Senior White House Staff"
-    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
-    publishedDateTime: 2020-11-17T16:09:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-261059/social"
+      - url: "https://images.wsj.net/im-257077/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
+  - title: "Trump Says He Has Terminated Mark Esper as Defense Secretary"
+    excerpt: "President Trump replaced Defense Secretary Mark Esper on Monday with a new acting secretary, Christopher Miller, announcing his decision on Twitter."
+    publishedDateTime: 2020-11-09T18:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341?mod=hp_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-terminated-mark-esper-as-defense-secretary-11604945341"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
+    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
+    publishedDateTime: 2020-11-13T04:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259063/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "QJvqSp8v1lQuRwvPH4SwobM0wvgg+n47CaqkPaPOaaLc2sipOGLucxAuxxWAwk4Aystj/ingKUjhwn4NjC4V1wcXk2cMMCXJXClDS3INdcC7JOwnAQdOtlmF4kFfMi3n79djoLL5DYor4JZBFUYU87ScuYJRayFExf5WOabsOLJU8dyOzM7lM0Yh6uERSWkB3oEw1NpUCNQS1/fFXAPSnO0ZN1pFvSWCHbC8V/iOaGY2dQ2FYhHEOreVf83Tu62Jq2gSY25wiFLSnZ2iHOhXiK7TrwiQcLfTW2xiFtKxRYW91ocl685rfzDJ5Vkgx5RL1BG7AWmu7HNUii24wJV3/UPwPsNIOe6faKNqIdRo6JY=;556WMaZZM/vK1aHo8t15fg=="
 ---

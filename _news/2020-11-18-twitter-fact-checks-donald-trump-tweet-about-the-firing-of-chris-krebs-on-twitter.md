@@ -31,83 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump fires top U.S. election cybersecurity official who defended vote"
-    excerpt: "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud."
-    publishedDateTime: 2020-11-18T03:58:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idUSKBN27Y04O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y04O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y04O"
+  - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
+    excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6312899002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6312899002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541582565&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH027"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
-    excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
-    publishedDateTime: 2020-11-18T06:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idINKBN27Y04O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27Y04O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27Y04O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541567905&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH01P"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
-    excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
-    publishedDateTime: 2020-11-13T17:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 119
     images:
-      - url: "https://s.abcnews.com/images/US/DHS-gty-er-201020_1603231692954_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/USAT/b26dc9d8-45fe-49a9-9bb7-971307ca31eb-AP_Trump_Twitter_Warning_Labels.JPG?auto=webp&crop=4031,2288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 681
         isCached: true
-  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
-    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
-    publishedDateTime: 2020-11-17T13:16:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
+    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
-    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
-    publishedDateTime: 2020-11-10T17:28:00Z
-    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+  - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
+    excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
+    publishedDateTime: 2020-11-17T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-alleged-pro-trump-rally-images-cleveland-london/6297978002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6297978002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6297978002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "tCJxDvOaqKXqVPA/Aao5yOSainn70FLBDaFVdP5owPygQQJ+20/uBaxJs8t6vx3EqlRy9uYBXVmyvf9sgc2XBiz4I0MaXKnoa9/0BTjH8U7Wp04+uGZaq74bgvezI0szqj+aueVCSbw/8tm+DMC0aOeJOiKFjH38wQY9nzz9IOGJfOIQXReBm/vWNydLDZRUw0kVjr4Xypurrbqo6ujYwxzATwcZHfY9aayGc7mqFikugAB5y6oY7dA0NJ0ojQ477zSO7JgUj13WlwSWgzn2PZt1nJKvWkxefInxtIXJgSvTpD66l6JFQQ0ub1XaWVA0TiUQZDyYsDX6jUIcVQZmCJMJYZDBagiBwArbvKHvkHgs+OS3C6sFVP4oDg7zbE9diDtvA99CPzdNWhJBZuwyze4ydI/jl2rj99zQnnzP40dAmY3thiq//qn3++Y4gOti4ETQUxAiexT1YWmoHjaM2X3e5V1mT8Fp3md+2fTeMAZe28pENtsg5aGlllxOy7Qb93yTj869Z7fc65QKTaTb0A==;Yw03hldB08gyhY2blzsTtw=="

@@ -362,22 +362,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Georgia Republicans Worry Trump Feud Could Hurt Key Senate Runoffs"
-    excerpt: "The Georgia Republican Party is beset with infighting as leading Republicans in the state come under public attack from President Trump and his supporters following his apparent defeat by President-elect Joe Biden there."
-    publishedDateTime: 2020-11-16T18:41:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-260321/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
     publishedDateTime: 2020-10-27T12:18:00Z

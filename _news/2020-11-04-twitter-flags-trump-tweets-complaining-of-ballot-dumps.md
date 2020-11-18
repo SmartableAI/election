@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitt
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp"
 type: article
 quality: 175
-heat: 335
+heat: 315
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
     quality: 160
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bbc13b4-1f56-4e92-bf92-f59eae3e2c72/ba2b00a5-6919-4658-b791-69cb020dc983/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign ballot counting lawsuits: What to know"
-    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
-    publishedDateTime: 2020-11-06T00:00:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
         width: 1280
         height: 720
         isCached: true

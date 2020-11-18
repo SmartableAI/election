@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Election 2020 Live Updates: Biden staffs up as Trump fires top election security official"
+    excerpt: "President-elect Joe Biden began staffing up this week, announcing the hiring of nine senior White House officials, including top members of his campaign and longtime aides, as he pushes ahead with the transition process. "
+    publishedDateTime: 2020-11-18T12:01:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YcOQ3B9g95c/live-updates-election-2020-trump-biden-nov-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-2020-trump-biden-nov-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-2020-trump-biden-nov-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 196
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
     excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
     publishedDateTime: 2020-11-15T13:52:59Z
@@ -77,6 +93,38 @@ related:
     quality: 188
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Live updates: Trump 'frustrated' but still 'strong' after election, Geraldo says"
+    excerpt: "Fox News’ Geraldo Rivera says he has “no doubt” President Trump will run again in 2024 if his post-election lawsuits fail to alter the results of his 2020 run against Joe Biden."
+    publishedDateTime: 2020-11-14T05:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ndaTaOo_00Y/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f925242-9535-48dc-b0c7-99e1668d52e6/f314b605-adc5-4d79-91c0-c639bb1bb271/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump rips pre-election Wisconsin poll showing him down 17 points as 'suppression'"
+    excerpt: "President Trump on Wednesday ripped a pre-election poll in the key battleground state of Wisconsin, which showed him trailing Joe Biden by a whopping 17 points, slamming it as \"illegal suppression.\""
+    publishedDateTime: 2020-11-11T15:04:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajP9XCKkOJQ/trump-pre-election-wisconsin-poll-suppression"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pre-election-wisconsin-poll-suppression.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pre-election-wisconsin-poll-suppression.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -128,85 +176,117 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
-    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
-    publishedDateTime: 2020-11-09T17:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
+    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
+    publishedDateTime: 2020-11-16T03:38:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hill Dems jockeying for Biden Cabinet posts see hopes shrink after lackluster election results"
+    excerpt: "Congressional Democrats advocating for a spot in President-elect Joe Biden’s Cabinet saw their odds diminish last week after a disappointing showing for down-ballot candidates in the election.  "
+    publishedDateTime: 2020-11-12T15:20:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_3hRoz7S8I/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hill-dems-jockeying-for-biden-cabinet-posts-see-hopes-shrink-after-lackluster-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Live updates: Hunter Biden emails and the presidential race"
+    excerpt: "The owner of a Delaware computer repair store stepped forward with a laptop that allegedly contained Hunter Biden's emails detailing an opportunity for a meeting between his father, former Vice President Joe Biden, and a top Burisma executive."
+    publishedDateTime: 2020-10-16T07:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iaJuoGyqA4/live-updates-hunter-biden-emails-and-the-presidential-race"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1977768f-7111-4548-8d99-b534d36a9544/0565d1f9-b70f-4605-a44d-3d992fae988f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Hunter Biden emails become presidential campaign issue"
+    excerpt: "One participant in an explosive email thread allegedly involving Hunter Biden has corroborated the veracity of the messages, which appear to suggest a payout for Biden's father, Democratic presidential nominee Joe Biden, as part of a deal with a Chinese energy firm."
+    publishedDateTime: 2020-10-17T05:32:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhnWQhQuGsE/live-updates-hunter-biden-emails-become-presidential-campaign-issue"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hunter-biden-emails-become-presidential-campaign-issue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hunter-biden-emails-become-presidential-campaign-issue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c04e6639-6b4c-4e23-ae7e-6f586695754d/fbf87ae6-a9cf-4f2b-af7f-8a458b7efb89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Romney refutes rumors he will serve in Biden administration"
+    excerpt: "Sen. Mitt Romney, R-Utah, denied he's been contacted by President-elect Joe Biden to serve in his incoming administration, despite speculation that Biden will attempt to reach across the aisle and choose a prominent Republican to serve in his Cabinet in the spirit of bipartisanship. "
+    publishedDateTime: 2020-11-11T21:31:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T3DzveQwWyo/romney-refutes-rumors-he-will-serve-in-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-refutes-rumors-he-will-serve-in-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78efc78f-3851-47fe-8b98-54e57206d4c1/f47a57b8-5ad9-4cfc-b30b-578e99b72491/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden starts staffing up with senior White House announcements"
+    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
+    publishedDateTime: 2020-11-17T16:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "NASA chief says he does not plan to serve in Biden administration"
-    excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
-    publishedDateTime: 2020-11-10T00:06:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aGkcSa_wMmM/nasa-chief-jim-bridenstine-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nasa-chief-jim-bridenstine-biden-administration.amp"
+  - title: "Biden’s campaign manager headed to White House as deputy chief of staff"
+    excerpt: "Joe Biden’s presidential campaign manager, Jen O’Malley Dillon, will serve as deputy chief of staff in the White House come January."
+    publishedDateTime: 2020-11-17T02:59:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Wj8T0kTaas/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3eab20e-c177-4588-88e1-fb00f152d84b/991fc9b6-c9b5-4eff-9e02-2a618cf47685/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says he may ‘stop by’ MAGA rally in DC on Saturday"
-    excerpt: "President Trump showed his gratitude for the MAGA rallies in the nation’s capital this weekend to voice their dissent over the recent presidential election outcome – echoing the same resistance they mocked in 2016."
-    publishedDateTime: 2020-11-14T00:16:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZV-shwLT2Vs/trump-maga-rally-dc-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ivanka Trump slams media for ignoring violence against conservatives"
-    excerpt: "Ivanka Trump on Sunday called out the media for its apparent double standards on violence directed towards conservatives and supporters of President Donald Trump. "
-    publishedDateTime: 2020-11-15T21:55:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x7gGe7zVWQc/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95a364f4-3e47-461f-901a-cb621453ed7d/e45b25bf-9dfe-4e16-9b3b-e2abcf8a9661/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden taps reparations advocate for Treasury transition"
-    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
-    publishedDateTime: 2020-11-16T15:32:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
     excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
@@ -224,133 +304,133 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says he's telling foreign leaders it’s 'not America alone' anymore"
-    excerpt: "President-elect Joe Biden on Tuesday pledged to work closely with foreign leaders, telling them in phone calls that “it’s not America alone,” in a thinly-veiled swipe at President Donald Trump’s “America First” foreign policy."
-    publishedDateTime: 2020-11-10T21:58:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oz4BZRWDtIY/biden-foreign-leaders-not-america-alone"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-foreign-leaders-not-america-alone.amp"
+  - title: "Biden appoints two former lobbyists to senior staff"
+    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
+    publishedDateTime: 2020-11-18T00:19:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BzjWSVcWpCk/biden-two-former-lobbyists-senior-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314631482354.jpg?ve=1&tl=1"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Liberal group calls key Biden hire a betrayal"
+    excerpt: "President-elect Joe Biden is getting some flak for one of his cabinet picks who will deal with climate issues, with one liberal group calling the choice a “betrayal” because of the appointee’s record receiving money from the oil and gas industry."
+    publishedDateTime: 2020-11-18T01:03:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wxC3rEd4xo/liberal-group-calls-key-biden-hire-a-betrayal"
+    ampWebUrl: "https://www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322672454276.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Dem. Rep. Ryan urges Trump to put the needs of the American people first"
-    excerpt: "Biden surrogate Rep. Tim Ryan, D-Ohio, had a message for President Trump on Sunday, saying, “You can’t put your own concerns in front of the concerns of the American people.”"
-    publishedDateTime: 2020-11-15T21:43:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOoHX2qITsQ/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
+  - title: "Is Biden open to appointing socialists to high administration positions?"
+    excerpt: "As rumors buzz about who will top President-elect Joe Biden’s list of administration officials after his transition crew announced “agency review teams” this week, some are wondering if there will be room for notable far-left lawmakers in the Biden cabinet. "
+    publishedDateTime: 2020-11-13T10:00:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BitPTrwGFeU/biden-appointing-socialists-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-appointing-socialists-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Clyburn claims Trump not conceding yet means 'this democracy is teetering'"
-    excerpt: "House Majority Whip James Clyburn, D-S.C., said on Sunday that President Trump should concede the 2020 presidential election because \"democracy is teetering.\""
-    publishedDateTime: 2020-11-08T16:02:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O-vtaODnqmM/james-clyburn-joe-biden-trump-concede"
-    ampWebUrl: "https://www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-joe-biden-trump-concede.amp"
+  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
+    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
+    publishedDateTime: 2020-11-17T16:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/James-Clyburn-Joe-Biden-2-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
-    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
-    publishedDateTime: 2020-11-09T02:39:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Arizona judge denies Trump team request to seal evidence in vote-counting suit"
-    excerpt: "An Arizona Superior Court Judge has denied a request by President Trump's re-election team to seal evidence in a lawsuit alleging poll workers in Maricopa County \"incorrectly rejected\" Election Day votes. "
-    publishedDateTime: 2020-11-11T19:27:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVM-tpJbU8A/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/az-judge-denies-trump-team-request-for-evidence-in-suit-over-maricopa-county-votes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313059676932.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
-    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
-    publishedDateTime: 2020-11-16T19:35:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+  - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
+    excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
+    publishedDateTime: 2020-11-13T05:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
+    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
+    publishedDateTime: 2020-11-13T05:38:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
-    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
-    publishedDateTime: 2020-11-16T22:48:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
+  - title: "Cedric Richmond, tapped for Biden White House role, has history of controversies"
+    excerpt: "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies."
+    publishedDateTime: 2020-11-17T19:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
-    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
-    publishedDateTime: 2020-11-17T22:54:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+  - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
+    excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
+    publishedDateTime: 2020-11-17T13:26:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
     excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
@@ -368,97 +448,163 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "DC mayor tells everyone who voted to get tested for COVID, but mum on Biden celebrations"
-    excerpt: "District of Columbia Mayor Muriel Bowser on Sunday encouraged those who voted in the 2020 Presidential Election to get tested for COVID-19, yet she has been noticeably quiet on the thousands of Americans who – at the risk of spreading the coronavirus – participated in public celebrations of Joe Biden’s"
-    publishedDateTime: 2020-11-08T23:45:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2kEBtXd3ug0/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-tells-everyone-voted-get-tested-mum-thousands-celebrated-biden-win.amp"
+  - title: "Biden likely to campaign in Georgia for runoffs that will shape the Senate, top aide says"
+    excerpt: "President-elect Joe Biden will likely travel to Georgia to campaign for the two Democratic Senate candidates ahead of two January runoffs, according to his new chief of staff. "
+    publishedDateTime: 2020-11-16T17:06:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Or2GBTYrBfg/biden-campaign-georgia-senate-runoffs-aide"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309670626830.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765555451.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Trump floating multiple unlikely survival scenarios as he weighs political future: report"
-    excerpt: "President Trump has floated multiple unlikely scenarios of political survival to his advisers as he refuses to concede the presidential election to former Vice President Joe Biden, according to a report."
-    publishedDateTime: 2020-11-13T03:54:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tshR_-UDxrU/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-floating-multiple-unlikely-survival-scenarios-as-he-weighs-political-future-report.amp"
+  - title: "President Trump sought options to retaliate against Iran's nuclear program, officials confirm"
+    excerpt: "Last week, the International Atomic Energy Agency reported a sizable increase in the country’s uranium stockpile."
+    publishedDateTime: 2020-11-17T01:02:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z1vcS60cbmE/president-trump-irans-nuclear-program-talked-out-of-it"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-irans-nuclear-program-talked-out-of-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-irans-nuclear-program-talked-out-of-it.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21a4726c-255d-4afa-86b6-f6ad10f4970a/17418480-58fa-4ba9-ba66-82a488516027/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump 'not backing down,' campaign manager says, urging staff to 'have patience' amid legal battles"
-    excerpt: "The Trump campaign on Monday said President Trump is “not backing down,” as his team mounts legal battles in a number of key battleground states where President-elect Joe Biden led by a razor-thin margin."
-    publishedDateTime: 2020-11-09T17:17:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCJCScrL5_k/trump-not-backing-down-campaign-manager-legal-battles"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-not-backing-down-campaign-manager-legal-battles.amp"
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
-    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
-    publishedDateTime: 2020-11-10T23:29:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "House minority leader says he did not speak with Biden"
-    excerpt: "Biden said during a press conference on Tuesday that he had spoken with both leaders of the House, which would appear to indicate Rep. Kevin McCarthy, the minority leader, and Speaker Nancy Pelosi."
-    publishedDateTime: 2020-11-10T22:21:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0QZRHv8suY/leader-mccarthy-president-elect-biden"
+  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
+    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
+    publishedDateTime: 2020-11-15T08:05:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 161
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309644010679-e1604514837386.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
         width: 1280
-        height: 675
+        height: 720
         isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
+    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
+    publishedDateTime: 2020-11-11T18:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "‘He Won,’ Trump Tweets in a Post About the Election"
+    excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"
+    publishedDateTime: 2020-11-15T14:55:00Z
+    webUrl: "https://www.wsj.com/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    ampWebUrl: "https://www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-260247/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Family Business Faces Post-Election Reckoning"
+    excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
+    publishedDateTime: 2020-11-15T12:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-255810/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
+    excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
+    publishedDateTime: 2020-11-17T14:51:00Z
+    webUrl: "https://www.wsj.com/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    ampWebUrl: "https://www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-260465/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "As Trump Focuses on 2024, Aides Mull Agenda for Final Days"
+    excerpt: "President Trump has expressed increasing interest in running for president again in 2024. He has spent less time on his remaining 69 days in office, leaving it to aides to determine what he could accomplish."
+    publishedDateTime: 2020-11-13T00:44:00Z
+    webUrl: "https://www.wsj.com/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
+    ampWebUrl: "https://www.wsj.com/amp/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/as-trump-focuses-on-2024-aides-mull-agenda-for-final-days-11605206862"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-259713/social"
+      - url: "https://images.wsj.net/im-258466/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Georgia Republicans Worry Trump Feud Could Hurt Key Senate Runoffs"
+    excerpt: "The Georgia Republican Party is beset with infighting as leading Republicans in the state come under public attack from President Trump and his supporters following his apparent defeat by President-elect Joe Biden there."
+    publishedDateTime: 2020-11-16T18:41:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260321/social"
         width: 1280
         height: 640
         isCached: true
@@ -478,15 +624,38 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
+  - title: "Trump Fires Chris Krebs, Top Cybersecurity Official in Department of Homeland Security"
+    excerpt: "President Trump has fired the official at the Department of Homeland Security who oversaw efforts to safeguard the presidential election from foreign interference and domestic disinformation campaigns."
+    publishedDateTime: 2020-11-18T00:53:00Z
+    webUrl: "https://www.wsj.com/articles/trump-fires-chris-krebs-top-cybersecurity-official-in-department-of-homeland-security-11605659868"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-fires-chris-krebs-top-cybersecurity-official-in-department-of-homeland-security-11605659868"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-fires-chris-krebs-top-cybersecurity-official-in-department-of-homeland-security-11605659868"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 127
+    images:
+      - url: "https://images.wsj.net/im-261457/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Administration Takes Final Steps to Auction Drilling Rights in Arctic Wildlife Refuge"
+    excerpt: "The Interior Department is taking final steps to secure oil development in the 19-million-acre Alaskan wilderness by initiating a leasing process to strike deals with drillers before President-elect Joe Biden can stop it."
+    publishedDateTime: 2020-11-16T18:40:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-260604/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "Dnm2trmAHUXKh5WTh5kHmyjC7sWhxybv+4QsOE7jAl9/7DA/CT+kj1NCFPYnD78aF9EGUd80ElbchQ1cJ+nruo54XMPnBhKF7SgyhsotVwKxhL61gIFk3j6Wg+KAY2XKRMFOOaYY3+/rOFScWWKnt3xEiExVNXt1gk6b0gf8EwQvskzeYhT83FEo5guGtIfkRNN/rna8l5SVFR6HeGxiSGghAucPYzsHgzmbSx46wm3mGcR1/7cYpC7GY+01O9gHxguwCCC3YvH0+2lE+/T6gZPi2jbyGxEVmba1u8SOJG9B74qm33rzRHmMsSpMzLKzfVht36kXwh6XL3zMLQ/H+qEootR8YgiVZTmQKclm6ctHUX1Ub7ynV2KRW3pihvDkigrXco/xu+nim4W29bnF+lrPDkr2uuyMUK7bo/s9y4ifzuHuaBUsOEsECS7+bRe9MtzW5Ckc6HojRCok34T89YKdHdblseQxVsNaPGP4CGa3nnEjiuJsLJRY3IJ+imvzJXve0kw9vwboVWHgpKRU6g==;gaPKgINuC0Tl9NK4jKxlmw=="
 ---

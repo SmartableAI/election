@@ -127,38 +127,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump, Trying to Cling to Power, Fans Unrest and Conspiracy Theories"
-    excerpt: "The president’s refusal to concede has entered a more dangerous phase as he blocks his successor’s transition, withholding intelligence briefings, pandemic information and access to the government."
-    publishedDateTime: 2020-11-17T04:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/15/us/politics/trump-biden-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/15/us/politics/trump-biden-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/15/us/politics/trump-biden-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15dc-trump/15dc-trump-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
-    excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
-    publishedDateTime: 2020-11-13T17:35:00Z
-    webUrl: "https://www.nytimes.com/article/electors-vote.html"
-    ampWebUrl: "https://www.nytimes.com/article/electors-vote.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/electors-vote.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "sz5IlYTxoPCxahX0vt085IzITPxmzaYKv/w2ULZJIeymYjWboF1DNtWWhR8b1wxRKlVaDF4VNUM91oi9HXZ7BXSI1fr2yUPPdWW389iWD4AtmkJZf0uTJdFW+RydZQTLYYfWv6CfFnEUIM34Hq7dr6eORqzEU4uYcK0GfcAciIy9wy7rPSY7G+uN7mTIrGLfRIiCcV8urMaHlTpaWaHdeVIMVG7R9pLQy9XIq1msUqQwStH4eMvTO7AOUuXBoNHTXDYqSnATWhkjzxVxGf3esoNYcqJPoAqK+9rPIoBgwu5E2zKa271bP1Bgz8WgIinb6mefaceB5QbeE0+7PgmtAGum91WSOwwtiRASUF9iqB8=;5v47H+1ns8nHsinTqqvSrg=="
 ---

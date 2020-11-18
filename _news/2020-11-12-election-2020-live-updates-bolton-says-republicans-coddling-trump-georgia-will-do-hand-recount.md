@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
 type: article
 quality: 126
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
         width: 817
         height: 545
+        isCached: true
+  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
+    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
+    publishedDateTime: 2020-11-18T12:04:00Z
+    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "eQCKBKoGkV9OL4g5XbMfl9ybCObINcq4v8wjm4NVrU5L7tlpglfoJDUgo+eJpy7hyLb+tg9rTxN89GM1Mk2QZiF+3QIIqnMNsm8ccZhRirSse9UuhC/gOaMqBHfF8XifdNBhiPpyuMbAexAa9SsjkNynRhlf0o/VypG8c4kw+kLwEd7nAFHW1cQaFzPvrFgWtjMElzehiZwhoF84szYw4IyUiN7cvFUguAmopEjp8q2WZ8H/jdRFuAwZnLFjQjsQP9ysH+cSxF9JKA0ez/+SnduZ2zTbWtpUK7hIqKyzvQHCpJ+ccRxylhimn2R8HlWGbkFOgMTcBw94fIYWLW4IIgY5tNnQYs5b5ERRLNfDLHT+NVNJcukL8jaV+4vDfrA/gZggpLvdGaq2zsifYqXhOJ3k81aDjRm268fuqUG+zkVKX0G8QKue0ar4eigczFFGHAU3Gd0knP3567l3wKkl+JSVLbUM0oRHkpAz1VStkb1bkvNo09Qa8wwZqqQv29Qj0YHOuAyUGLS2BtLxGGywlQ==;rbHpg4WKHdiVMlTH7O+tqw=="

@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ivanka Trump slams media for ignoring violence against conservatives"
+    excerpt: "Ivanka Trump on Sunday called out the media for its apparent double standards on violence directed towards conservatives and supporters of President Donald Trump. "
+    publishedDateTime: 2020-11-15T21:55:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x7gGe7zVWQc/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-slams-media-for-ignoring-violence-against-conservatives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95a364f4-3e47-461f-901a-cb621453ed7d/e45b25bf-9dfe-4e16-9b3b-e2abcf8a9661/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XznOjRrbaS7phZ2dsPHkpdLsW6O9AoW1hKB5kLeQXiGfUUluF6XobuM5OI+DHf2ePoP3gTYMiMPO+QyciyNuidYWexufgPVV0MOq4HcoBFdTwHz6eJa2o3B2oCAifask+idSJ0MNeriVt3XCMzgX3mvEiq6sK8PPuPC7qWAmbAt4S0lGgtKmnjtiw9gK/6wFsXVdYGLgeWgsmlFtdkAUnzMCTTASQvOAMtC17voIF7h2HlbRRUMmBBPc3wnpqc3u9E23jhlKS7Xlfl7F74WcXhXd4Xl6TQlhdDwNj39bNNstkeA8S8Jk6iEw64aRiecsA1EU4qVcIaflXbvLzlPEEn4gtaL8cOEKzBqPmbXqIP0=;/IDxTsHDmUL5Tg69WMW3Fg=="
 ---

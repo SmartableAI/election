@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
+    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
+    publishedDateTime: 2020-11-18T12:04:00Z
+    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ZqVwt96eVUR7ZmxjByOkOf1TqF9AwVpJZIlhylvjhCGiwWMy5+TFPe8uXYqMhM2ZQxOnWg6MT9t/Jy8vFWMfCxjtyBMREhFvX9IOT7UW5JD1lYADuwgZTYfkey4FOJoSXoOsQvtQ/AImh+qdjuCgmh+j0b6+3HNRYJiuFuXIjdswONasV+KsBH6/If9IL/8s9JfKnvD5IoWYOSXGKx9w5TN6Yvj5/8e67yLtEmnilld7W5SkzVdOJIrIfm3iDEqoH6+KsEHyhOjAOXcqKFwl9Ga3pkIHQKrYOlkDERAn7RSbl8Pj7e1JzO/95bUUc1uqmlN6O+j+1m7DjntzqdMl618c33h7Fh1B6EpXRBMATrY=;0bbUm5olAWfXKc/X93bIFg=="
 ---

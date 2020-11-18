@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-absentee-ballot-extensi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-absentee-ballot-extensions-votes-should-be-counted-election-day.amp"
 type: article
 quality: 190
-heat: 750
+heat: 730
 published: true
 
 provider:
@@ -346,22 +346,6 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-256649/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Georgia Republicans Worry Trump Feud Could Hurt Key Senate Runoffs"
-    excerpt: "The Georgia Republican Party is beset with infighting as leading Republicans in the state come under public attack from President Trump and his supporters following his apparent defeat by President-elect Joe Biden there."
-    publishedDateTime: 2020-11-16T18:41:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-260321/social"
         width: 1280
         height: 640
         isCached: true

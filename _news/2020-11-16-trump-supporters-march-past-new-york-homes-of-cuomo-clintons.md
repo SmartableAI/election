@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-march-past-new-yor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
 type: article
 quality: 175
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump supporters hit with fireworks at restaurant after MAGA march, suspect arrested"
-    excerpt: "Police have arrested a suspect in connection with fireworks that went off at a D.C. restaurant, hitting Trump supporters after Saturday’s “MAGA Million March,” according to reports."
-    publishedDateTime: 2020-11-16T01:24:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/26zbwsK5uiM/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hit-with-fireworks-at-restaurant-after-maga-march-suspect-arrested.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "8eU+kDMuFZxKZhtJhAQt3RjlI+i+6C51gRSHHjZksbzHFEaqEPK2H5fLunFh9bb5Y0r4ZrK//w7PibOIFyKj1gWOMY3rl9hk2lTqXsvIqrpc+KvLX2heqcceysHRP+CFmfMnYIpwWbcEobAzWOrSOX1waSjri37Rq08RnE8uv5JrWg7a9MctvSaU4GBnjdE/V9AOuVkX5IFTynQ+9wehDUP3GdcmxBYm65VzHQivSwWJyLc0IqrJy2HRdtTbgWB1mWrGgid2RFzr0npi47XDN9ur1il6YJTUXiO1PkeWKuXVO5bpiVZXansH24LwGJhw2dPK3eQ3skIlNok1isVTuIKK16WnwfkyuRcpGqb9MO8=;M1GXNRmTsTGF/oWzxCji3A=="

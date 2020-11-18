@@ -31,53 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration notifies Congress of $1.8B in proposed weapons sales to Taiwan "
-    excerpt: "The US formally notified Congress of a proposed $1.8 billion in advanced weapons systems sales to Taiwan -- a move sure to increase tensions with Beijing.\n    \n"
-    publishedDateTime: 2020-10-21T22:10:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jL8O3RBxnEw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/taiwan-arms-sales-formal-notification/index.html"
+  - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
+    excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
+    publishedDateTime: 2020-11-11T20:24:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
+    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-06T21:06:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "NYC and other cities to take legal action against Trump administration's 'anarchy' designation"
-    excerpt: "New York City plans to file a joint complaint Thursday challenging the Trump administration's designation of Democratic-led cities as \"anarchist\" jurisdictions in hopes of blocking the President's threat to withhold federal funding, according to the city's top lawyer.\n    \n"
-    publishedDateTime: 2020-10-22T16:49:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ouwWXPTyN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+  - title: "Ex-HHS chief Sebelius says Trump administration deserves credit for vaccine progress"
+    excerpt: "Kathleen Sebelius, a former United States Secretary of Health and Human Services administrator under President Barack Obama, offered some praise for the Trump administration's vaccine efforts on Monday but said the administration has shirked other critical responsibilities in mitigating the spread of"
+    publishedDateTime: 2020-11-16T16:40:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jBqJ4MQY140/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151207083912-bill-de-blasio-donald-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116102135-kathleen-sebelius-11162020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
-    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
-    publishedDateTime: 2020-10-28T16:22:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+  - title: "US military anticipates Trump will issue order to plan for further troop withdrawals from Afghanistan and Iraq"
+    excerpt: "US military commanders are anticipating that a formal order will be given by President Donald Trump as soon as this week to begin a further withdrawal of US troops from Afghanistan and Iraq before Trump leaves office on January 20, according to two US officials familiar.\n    \n"
+    publishedDateTime: 2020-11-16T20:55:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/412TxWad58k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
+    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
+    publishedDateTime: 2020-11-10T16:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer"
+    excerpt: "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,"
+    publishedDateTime: 2020-10-08T10:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "qft06/0KNweUVPJm47uc3/1NtPUF1b7ZSKDEsu7s132O6ZVoR2EE0e9+pSim1H2yGVOVRpaH1Im7XqWZYtTJiUTMTV4Hds1wWvWjiRfx6bZ2RAVN7qDhwHfs/TVAYBE6dmeB+2sF0JF8ZbdsbqITbiyofYTw12yXhzuMUdWJV74lQpsn38SwEUIC3x/9V7DoyfiZ4wAYIrbG2FOa7TOaW+sYsUsiMwUYalqo4JYDDAIzsAMsG1siWg4OkD2uGBNYQZYqPH1+hHaz22d0pugpHUu16Tv+vhuAkhsf71HfwCNtXioH3Dbz2j4BjSFbqdFDS3bOcEBgfGABmZYo48SKVMwOuaIvXasWjX7HCfKcJCM=;iG42dG8stA319teWMPY9yg=="

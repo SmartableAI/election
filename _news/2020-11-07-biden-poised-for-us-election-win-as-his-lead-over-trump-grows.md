@@ -239,6 +239,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to focus on coronavirus as Trump pushes to overturn election"
+    excerpt: "President-elect Joe Biden will meet with healthcare workers on the front lines of the raging coronavirus health crisis in a virtual event on Wednesday, while President Donald Trump faces further legal hurdles to overturn his election loss."
+    publishedDateTime: 2020-11-18T10:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Y0G5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y0G5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y0G5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541585637&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH09T"
+        width: 906
+        height: 545
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -2485,22 +2501,6 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-cites-need-for-trump-to-share-virus-plans/2020/11/16/ee7e0b5e-284b-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Biden’s DIY transition proceeds without Trump assistance"
-    excerpt: "President-elect Joe Biden has been forced to seek extraordinary workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine wee"
-    publishedDateTime: 2020-11-18T05:19:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/bidens-diy-transition-proceeds-without-trump-assistance/2020/11/18/9d6f91f2-295d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -7655,6 +7655,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's DIY transition proceeds without Trump assistance"
+    excerpt: "President Donald Trump's refusal to cooperate with his successor is forcing President-elect Joe Biden to seek unusual workarounds to prepare for the exploding public health threat and evolving national security challenges he will inherit in just nine weeks."
+    publishedDateTime: 2020-11-18T12:34:00Z
+    webUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-diy-transition-proceeds-without-trump-assistance-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z

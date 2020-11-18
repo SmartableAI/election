@@ -349,22 +349,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Georgia Republicans Worry Trump Feud Could Hurt Key Senate Runoffs"
-    excerpt: "The Georgia Republican Party is beset with infighting as leading Republicans in the state come under public attack from President Trump and his supporters following his apparent defeat by President-elect Joe Biden there."
-    publishedDateTime: 2020-11-16T18:41:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-260321/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump comes out on top in Montana, netting another three electoral votes"
     excerpt: "Big Sky Country has delivered a big win for President Trump, as the incumbent has come out on top in Montana, according to NBC News. Trump will take home the state’s three electoral votes,"
     publishedDateTime: 2020-11-04T06:28:00Z

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011. "
+    publishedDateTime: 2020-11-13T17:29:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zSbK1v5WsYk/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
     excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
     publishedDateTime: 2020-11-13T17:35:51Z
@@ -92,6 +108,22 @@ related:
     quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309671612203.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Possible Biden education chief Randi Weingarten once caught plagiarizing speech"
+    excerpt: "American Federation of Teachers head Randi Weingarten -- who is reportedly being considered for a cabinet position by President-elect Joe Biden -- gave a speech found to contain plagiarism in 2011."
+    publishedDateTime: 2020-11-13T17:32:00Z
+    webUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-education-secretary-pick-randi-weingarten-once-got-caught-plagiarizing-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-961473338.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

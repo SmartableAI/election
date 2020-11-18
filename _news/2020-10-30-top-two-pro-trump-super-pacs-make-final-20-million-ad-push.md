@@ -205,6 +205,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Lieberman: Trump has right to ask for recounts, but 'it's time to bring forth' evidence of voter fraud"
+    excerpt: "President Trump should have his chance to pursue all potential legal remedies related to the 2020 election, former senator and 2000 Democratic vice presidential candidate Joe Lieberman told \"Your World\" Tuesday."
+    publishedDateTime: 2020-11-10T23:29:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ClpKIO2cxMI/joe-lieberman-trump-2020-campaign-recount-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-lieberman-trump-2020-campaign-recount-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8aa82b87-e215-44ba-a9f0-741f1fca95e1/4aa598fa-13bd-4284-b981-d4309c6c564e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PA GOP leaders urge people to 'relax,' report fraud concerns to law enforcement amid Trump campaign objections"
     excerpt: "Top Pennsylvania Republicans, speaking with the press on Friday, urged people to \"relax\" as tensions run high in the battleground state and President Trump's campaign makes allegations of potential election-related wrongdoing, specifically in Philadelphia. "
     publishedDateTime: 2020-11-06T21:49:25Z

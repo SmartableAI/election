@@ -31,244 +31,155 @@ images:
     isCached: true
 
 related:
-  - title: "Fact checking Trump's barrage of lies over the weekend"
-    excerpt: "\"I WON THE ELECTION!\" President Donald Trump tweeted just before midnight on Sunday night.\n    \n"
-    publishedDateTime: 2020-11-16T18:35:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GzbidSHPQ-4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/fact-check-trump-rigged-election-dominion-georgia-pennsylvania/index.html"
+  - title: "Trump's doctor says the President has tested negative on consecutive days"
+    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
+    publishedDateTime: 2020-10-12T23:39:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113173216-donald-trump-november-13-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Lindsey Graham just crossed another line in defending Trump"
-    excerpt: "Fresh off a surprisingly pedestrian election win on November 3, Lindsey Graham has decided to take on a new role: The most aggressive enforcer of the idea that President Donald Trump maybe -- just maybe! -- didn't lose the 2020 election.\n    \n"
-    publishedDateTime: 2020-11-17T23:16:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html"
+  - title: "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted"
+    excerpt: "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n"
+    publishedDateTime: 2020-10-15T19:28:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030173830-13d-lindsey-graham-play-button-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's transition sabotage threatens vaccine rollout"
-    excerpt: "President Donald Trump's refusal to coordinate with President-elect Joe Biden on the critical Covid-19 vaccine is bringing a staggering possibility into clearer view: that an outgoing US commander in chief is actively working to sabotage his successor.\n    \n"
-    publishedDateTime: 2020-11-17T11:32:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_x6GjyLOJ_Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/election-2020-transition-coronavirus-donald-trump-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/election-2020-transition-coronavirus-donald-trump-joe-biden/index.html"
+  - title: "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick"
+    excerpt: "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n"
+    publishedDateTime: 2020-10-05T22:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116160516-joe-biden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration begins last-minute leasing process for arctic drilling"
-    excerpt: "The Trump administration on Monday started a leasing process for oil and gas drilling sites off the Arctic National Wildlife Refuge, something environmental groups feel is a potential last-minute giveaway to the energy industry before the Biden administration takes over.\n    \n"
-    publishedDateTime: 2020-11-16T18:24:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D1SM2YouQZs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/arctic-refuge-drilling/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720120229-weir-alaska-anwr-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump fires director of Homeland Security agency who had rejected President's election conspiracy theories"
-    excerpt: "President Donald Trump on Tuesday fired the Department of Homeland Security official who had rejected Trump's claims of widespread voter fraud.\n    \n"
-    publishedDateTime: 2020-11-18T00:37:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QBXmhMfzdo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/chris-krebs-fired-by-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/chris-krebs-fired-by-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
-    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-11-13T13:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
-    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
-    publishedDateTime: 2020-11-10T16:44:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+  - title: "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump"
+    excerpt: "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication."
+    publishedDateTime: 2020-10-19T15:17:00Z
+    webUrl: "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How to Protect America From the Next Donald Trump"
-    excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"
-    publishedDateTime: 2020-11-09T14:00:00Z
-    webUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/09/opinion/how-to-protect-america-from-the-next-donald-trump.amp.html"
+  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
+    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
+    publishedDateTime: 2020-10-10T04:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
     images:
-      - url: "https://static01.nyt.com/images/2020/11/06/opinion/06garsten/06garsten-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
+        width: 2500
+        height: 1724
         isCached: true
-  - title: "Authoritarians From Mussolini to Trump"
-    excerpt: "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,"
-    publishedDateTime: 2020-11-10T18:06:00Z
-    webUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/10/books/review/strongmen-ruth-ben-ghiat.amp.html"
+  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
+    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
+    publishedDateTime: 2020-10-14T18:11:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
     images:
-      - url: "https://static01.nyt.com/images/2020/11/11/books/review/11Fukuyama-combo/11Fukuyama-combo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
-    excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
-    publishedDateTime: 2020-11-11T21:47:00Z
-    webUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/arts/television/the-reagans.amp.html"
+  - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
+    excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
+    publishedDateTime: 2020-10-06T16:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
     images:
-      - url: "https://static01.nyt.com/images/2020/11/12/arts/11reagans2/11reagans2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
+        width: 2500
+        height: 1663
         isCached: true
-  - title: "Obama: Trump's fraud claims delegitimizing democracy"
-    excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
-    publishedDateTime: 2020-11-13T00:39:00Z
-    webUrl: "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn"
+  - title: "Top Trump aide Stephen Miller tests positive for Covid"
+    excerpt: "Stephen Miller, a top aide to President Donald Trump, tested positive for Covid-19 on Tuesday, according to a person familiar with the matter. Miller, a senior adviser to the president with a wide-ranging portfolio in the White House,"
+    publishedDateTime: 2020-10-06T23:22:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/stephen-miller-covid-trump-426924"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
-    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
-    publishedDateTime: 2020-11-13T08:51:00Z
-    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Can America Restore the Rule of Law Without Prosecuting Trump?"
-    excerpt: "Donald Trump’s potential criminal liability is the key to understanding his presidency. When he leaves office, it will present the country with a historic dilemma."
-    publishedDateTime: 2020-11-17T14:05:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/magazine/trump-investigations-criminal-prosecutions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "In Georgia, a Republican Feud With Trump at the Center"
-    excerpt: "Double-crossing. Accusations of lying and incompetence. And a bitter divide over whether to endorse President Trump’s false claims of fraud. The G.O.P. in Georgia has a messy feud unfolding, with two Senate seats up for grabs."
-    publishedDateTime: 2020-11-18T04:20:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/georgia-recount.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17georgia1/17georgia1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
-    excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
-    publishedDateTime: 2020-11-10T17:07:00Z
-    webUrl: "https://www.cnn.com/2020/11/10/politics/republicans-chris-coons-2020-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/07/e6/9361edfb41e0bc1f840cef476cd7/ap20213465332561.jpg"
+        width: 5004
+        height: 3334
         isCached: true
+  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
+    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
+    publishedDateTime: 2020-10-06T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Wynton Marsalis Says Cultural Con Jobs Began Long Before Trump"
+    excerpt: "Amid enduring the pandemic and the loss of his father, the celebrated musician talks about cultural hustles, keeping jazz alive during quarantine, and those statues in New Orleans."
+    publishedDateTime: 2020-10-11T09:36:00Z
+    webUrl: "https://www.thedailybeast.com/wynton-marsalis-says-cultural-con-jobs-began-long-before-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "Ub5mWGMjBpWlNfzViGSePmOUxbcwvs0WN8cltsnEGGoUBCB/IvG65lmM4Mv0qg5l62tl9soPr8saBSaW0ntBkOMl6sbkEUYjq0s4LaFhKv4mAtxLxhBOzo1+GNtAiLdYLeSbGJ8gna25n/f2K9x2cT7yl/QIH0A7R9eFTfsVhbW5pApE/HVj23z7+/oWwa6IzuL5nZlpG/VzrWKyzBBAoKZg/OYz6Jnlw9aACyzEay344ZTcyNfgaFVIElLYCbeckcLMoUrzcGgbgMm1SOsa4CgydH/HWtvbLfbomNU4KLMrLR+sttVzILrAkTaeSh/Pv4LayfN4LBT9ooyVDK6c1evSAxAa1690dTCzvZdW8wU=;09k9YR2DRnBUfLt0OcEcpg=="
 ---
