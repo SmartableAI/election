@@ -1935,6 +1935,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
+    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 134
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z

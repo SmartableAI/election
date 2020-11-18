@@ -240,6 +240,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Michigan police officer fired over social media post depicting Kamala Harris as watermelon"
+    excerpt: "OAKLAND COUNTY, MI – A part-time sheriff’s deputy was recently fired after posting a photo of carved watermelon meant to depict , WXYZ Detroit reports. The Facebook post included a photo of three carved pumpkins meant to represent President Donald Trump,"
+    publishedDateTime: 2020-11-18T02:02:00Z
+    webUrl: "https://www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F7KBYO2ISZA53KRVQDH5WQSFJI.jpg"
+        width: 3107
+        height: 2071
+        isCached: true
   - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
     excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
     publishedDateTime: 2020-11-12T12:51:00Z

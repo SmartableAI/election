@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
 type: article
 quality: 110
-heat: 170
+heat: 150
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/572eb25d-af11-4686-9704-0c37632b15a3-promo.jpg?auto=webp&crop=689,388,x41,y455&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
-    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
-    publishedDateTime: 2020-11-06T01:06:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Vice President Mike Pence to visit Georgia next week"
     excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."

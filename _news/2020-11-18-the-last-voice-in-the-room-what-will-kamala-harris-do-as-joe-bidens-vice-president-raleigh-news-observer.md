@@ -91,6 +91,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lindsey Graham Explains Why He Fist Bumped Kamala Harris Despite Refusing to Acknowledge Biden's Victory"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) reportedly said he was \"just saying hello\" after being spotted giving Vice President-elect Kamala Harris what appeared to be a congratulatory fist bump on the Senate floor on Tuesday."
+    publishedDateTime: 2020-11-18T01:19:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1671658/sen-lindsey-graham.jpg"
+        width: 3944
+        height: 2629
+        isCached: true
   - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
     publishedDateTime: 2020-11-17T20:04:00Z
@@ -282,6 +298,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "+qrDPZSVopFpePkYJuAuTI/RLlIivhzqXxQnPONRVxYyvKZpjVwndzW49j1lk+ajS6yivqVwcP0140ugczkH+iw2ix5he+gjHOR9dvgmnrV3FXtYNEr9fljBaXIjAiMVZs6qf8hiFw5+2yZWSg8h533iMMS8yzxJ3oJRHXX81z2bB2ZaFLvbnuZwqWba1OY9hiJkjr9nvC06m4GJvDqvJFC+RVOc3vECxRBiOdUdNL8wkigqqa4EtSsnVHu1N7DW9KWnhPfl6vUX/mtDJU5tRZ3X1N8DGmKN8bsHdFFmKJ8S5v/lBhwBahlZbvIU2SzH1s++1oG0dKTrFqve1OByt0bcJTqyE8tdE6PTNa7XlgE=;P9Z7p1FARH+bs/LCVvM4/Q=="
+secured: "WeJReQOeGr4tegKnzm1Qilw9P+BTqVxJHMN3KsMJQdYVR1GX6FZrTB3BsRX+Z9YVRF5Qx3HGQlpXH5p+Cpw2frbexFQ3kztR0GtBczpivPNRy1uAys48dpSgOCkHeGsWiQ8JWbIvj1t2aDS1bIYL+fkYv/EO2Jd+uIAAOlWhUqp2lAi4peOdt6LVnwvU2nRyNav9GSxszPABRmFcxvEjAZEz9jOUaResub23MWHFrIZdJWBI3JcESgMxJNRE2Rp31RnbYS5pJH8ZsGpIoBkor48yT9J8nN6NwUTC1ZIS4d9i+sShLbt+Iabhar0QbFEIGOJ+9r3vavnLuALHw7i4oIjzQ+xtilYcvS6DS2s4SQBpOzXV2itKbp2jD8j2eOWvx59AYNJsPTk6/tpvgmoym78nfQpHejvDs1SqSk5qr0YwccNCKGFYmjBPs7qh9AhAJkwqNU8od9PK/GraAIhFfpp31NPK4oLt+dxuec6freFy7goF4waICX5FArm41aIyhfIhUI7Ndb6zB1t+oLB/Vg==;628aCieCNvklZ2UNUK/yrA=="
 ---
 

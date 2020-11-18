@@ -89,6 +89,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lindsey Graham Explains Why He Fist Bumped Kamala Harris Despite Refusing to Acknowledge Biden's Victory"
+    excerpt: "Sen. Lindsey Graham (R-S.C.) reportedly said he was \"just saying hello\" after being spotted giving Vice President-elect Kamala Harris what appeared to be a congratulatory fist bump on the Senate floor on Tuesday."
+    publishedDateTime: 2020-11-18T01:19:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-explains-why-he-fist-bumped-kamala-harris-despite-refusing-acknowledge-bidens-1548231?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1671658/sen-lindsey-graham.jpg"
+        width: 3944
+        height: 2629
+        isCached: true
   - title: "Vice President-elect Kamala Harris’s husband, Doug, to give up job to help his wife"
     excerpt: "Doug Emhoff, the 56-year-old husband of Vice President-elect Kamala Harris, will leave his private law practice by Inauguration Day to focus on his role at the White House, a spokesperson said Tuesday."
     publishedDateTime: 2020-11-11T22:47:00Z

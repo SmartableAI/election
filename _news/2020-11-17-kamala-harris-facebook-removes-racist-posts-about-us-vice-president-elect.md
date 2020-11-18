@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54941571"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571"
 type: article
 quality: 123
-heat: 503
+heat: 523
 published: true
 
 provider:
@@ -227,6 +227,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Michigan police officer fired over social media post depicting Kamala Harris as watermelon"
+    excerpt: "OAKLAND COUNTY, MI – A part-time sheriff’s deputy was recently fired after posting a photo of carved watermelon meant to depict , WXYZ Detroit reports. The Facebook post included a photo of three carved pumpkins meant to represent President Donald Trump,"
+    publishedDateTime: 2020-11-18T02:02:00Z
+    webUrl: "https://www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/11/michigan-police-officer-fired-over-social-media-post-depicting-kamala-harris-as-watermelon.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F7KBYO2ISZA53KRVQDH5WQSFJI.jpg"
+        width: 3107
+        height: 2071
         isCached: true
   - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
     excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."

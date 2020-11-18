@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 11020
+heat: 11040
 published: true
 
 provider:
@@ -1931,6 +1931,20 @@ related:
     quality: 134
     images:
       - url: "https://i.guim.co.uk/img/media/3cc060c73a643a8a3bbc3a5ca533b0640bdcdf98/0_250_7500_4500/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6095e73e7046e1fa21ac3eb05593c3ee"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
+    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 134
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-march-past-new-yor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-march-past-new-york-homes-of-cuomo-clintons.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cuomo blames drug companies, President Trump for speedy COVID-19 vaccines"
+    excerpt: "New York Gov. Andrew Cuomo on Tuesday said the speedy process by which coronavirus vaccine trials are being roled out are being driven both by President Donald Trump’s ego and the profit motivation of the drug companies manufacturing the vaccines."
+    publishedDateTime: 2020-11-18T01:19:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzeGOVAVbuE/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/e9052643-AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
     excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
     publishedDateTime: 2020-11-14T20:55:28Z

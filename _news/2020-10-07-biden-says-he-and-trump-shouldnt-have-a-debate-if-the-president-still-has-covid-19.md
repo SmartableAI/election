@@ -1949,6 +1949,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
+    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 134
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris Dodges Supreme Court Packing Question While Pence is Evasive on Peaceful Transfer of Power"
     excerpt: "Harris refused to answer a question that Pence asked her about \"packing\" the Supreme Court. Later, Pence refused to say what he'd do if Trump refused to cede power."
     publishedDateTime: 2020-10-08T03:44:00Z

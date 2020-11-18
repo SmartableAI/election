@@ -43,22 +43,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden on verge of winning U.S. presidency, leads in Pennsylvania, Georgia"
-    excerpt: "Democrat Joe Biden stood on the verge of winning the U.S. presidency on Friday, as he expanded his narrow leads over President Donald Trump in the battleground states of Pennsylvania and Georgia three days after polls closed."
-    publishedDateTime: 2020-11-07T00:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27M0U5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27M0U5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540229634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA50K9"
-        width: 846
-        height: 545
-        isCached: true
   - title: "PA Governor calls Trump move 'simply disgraceful'"
     excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
     publishedDateTime: 2020-11-05T00:37:00Z

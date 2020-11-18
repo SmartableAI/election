@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
-    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
-    publishedDateTime: 2020-11-06T01:06:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nHcq38p1/wsI+EqyE0xulcRMIKETddJ6ITSmZHbcBqlVssyqG7PG28RbNnuCIBYEb+2a2Rt9+svsdTv9X3pIOXGDL7Xrx0xEhuOntjC5mAgqIALubYlGZJsMGWinuPVHN2vLk63RQ9ApYhMOD/gYOeL/9I6tSqyrW1uBZPxRyKh5F3zzsqbzMWrFIolGk9mWTiTPyNR5+neS/QgVspqEzCQaoZXq0XRpnmoHiNCBrGUZaWMQwFgVn/+4yH4aDVGfHrW4g2Z3SXwKYo18cvN2+RgtYYuKb3atWR37YmQFfHynvlrgnoAVMiVA6LSGLZqlotyuy0HStcuelFQqHJIIcGcJsY2XtWBtbr+VD+nIKU3fDTPJbjKZwoEnZbXXZRkO/7Dd6tlUcMmckl7iAKkv8RdrBfi6O+QUGJxKmoHd9GP0kjJZp7pTPDAG3hzzemxnkT/ldddrFGHgmsjOgd4zL2j+J7Zf0tvlyftTcKaue79gbGLejD7qNlwLtv6OAwh13PacVG2ZeNym2X2JqrL8Dg==;Dg59+CS6H2TgvwLQZx4iIw=="
 ---

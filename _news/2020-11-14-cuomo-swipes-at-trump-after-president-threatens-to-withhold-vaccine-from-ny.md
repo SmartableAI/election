@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cuomo blames drug companies, President Trump for speedy COVID-19 vaccines"
+    excerpt: "New York Gov. Andrew Cuomo on Tuesday said the speedy process by which coronavirus vaccine trials are being roled out are being driven both by President Donald Trump’s ego and the profit motivation of the drug companies manufacturing the vaccines."
+    publishedDateTime: 2020-11-18T01:19:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzeGOVAVbuE/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-blames-drug-companies-president-trump-speedy-covid-19-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/e9052643-AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
     excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
     publishedDateTime: 2020-11-13T22:42:39Z

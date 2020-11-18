@@ -31,52 +31,107 @@ images:
     isCached: true
 
 related:
-  - title: "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'"
-    excerpt: "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots."
-    publishedDateTime: 2020-11-04T08:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
+  - title: "In court, Giuliani argues to block Biden win in Pennsylvania"
+    excerpt: "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e"
+    publishedDateTime: 2020-11-18T01:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "PA Governor calls Trump move 'simply disgraceful'"
-    excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
-    publishedDateTime: 2020-11-05T00:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/05/pa-governor-calls-trump-move-simply-disgraceful/6168743002/"
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Biden takes lead in Pennsylvania and Georgia, moves closer to win"
+    excerpt: "If Democratic presidential nominee Joe Biden wins Pennsylvania, the race is over. Biden's lead is also growing in Georgia, as absentee ballots are counted. Major Garrett takes a closer look."
+    publishedDateTime: 2020-11-06T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/84fa3d77-74ca-42d2-94e5-34c372963c12_poster.jpg?quality=10"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
+    excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
+    publishedDateTime: 2020-11-06T01:06:00Z
+    webUrl: "https://www.cnbc.com/video/2020/11/05/uvas-larry-sabato-trend-is-very-favorable-to-joe-biden-in-pennsylvania.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106783131-UVAs-Larry-Sabato-Trend-is-very-favorable-to-Joe-Biden-in-Pennsylvania--jpg?v=1604623237"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
-    publishedDateTime: 2020-11-02T17:59:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
+    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
+    publishedDateTime: 2020-10-06T15:18:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 71
+      name: UPI.com
+      domain: upi.com
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
-        width: 1200
-        height: 700
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-07T14:16:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
+        width: 5620
+        height: 3747
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "5We2GHkx3N7JKIZHIqmZPmFZQDSqrbdWD+0b0L/Da9FUR4R+CAak+AEFAvEvY+e0l+5pPi+y7zkcS/sKOC8HcED/DOZ03PU+Abuxc5hhKt56k3eTgDPQ3DTyV1Iewqk/CpjMDK0k89IRg7KTiwcMUhkbq9MdjWVt2jY/BOi+onR7TpbRKkgTdzZ6s4jmo9vlVtSXVNBSCdyMtZ3dIb41u1glry3Er31pcx/eFHX5JjzZv7J9PQBU+lrMooiF9wTE+FzEEYX3zdU/cIiCeCjXHPK03ObJYUlnTCx90M0Y8abEEvFXAMhXv6hAHhUhIRDgR1231M3V0U/RMb0Npe8ZPcYtMXplRQtFgUQC9MtrIIIcyBe69igc42aQWIG38PrKgCnU7Q2CtEzBxWWvQdoWtzM63+NFolkEgUZOBhhqzYll9REAoq1S0J0fmP/tVR6+R4XSFApK2cCFQrH6spCxUyPeOaBPqkRMEqF9uiJLikEBrWgLp6X6V0N4fAXnpUrNulsTgKhw7G8L9HASXpDOAA==;XZ8jNRUp+9eqGrRPOElHHA=="
 ---

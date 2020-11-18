@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump ally McCarthy is reelected leader of House Republicans"
+    excerpt: "Kevin McCarthy easily won reelection as House Republican leader Tuesday, a stunning turnaround as the entire GOP leadership team was rewarded by their colleagues for reducing the Democrats’ House advantage in the November election."
+    publishedDateTime: 2020-11-18T02:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-mccarthy-reelected-leader-house-republicans-74264341"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-mccarthy-reelected-leader-house-republicans-74264341"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-mccarthy-reelected-leader-house-republicans-74264341"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8480148b5334427e9df40d97cb07bf37_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
     publishedDateTime: 2020-11-06T08:03:00Z

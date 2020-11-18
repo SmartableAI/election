@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-election-challenge-biden-legitimacy/index.html"
 type: article
 quality: 188
-heat: 428
+heat: 468
 published: true
 
 provider:
@@ -158,6 +158,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/13/us/politics/15transition-briefing-biden-transition/13biden-govern1-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Advice for Biden? We Want to Hear Yours"
+    excerpt: "We ask readers how the incoming president should confront the serious challenges that will face him. What do you see as the greatest challenge facing Joe Biden’s presidency? What advice would you give him to overcome it and avoid the pitfalls?"
+    publishedDateTime: 2020-11-18T02:19:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/18/world/18DC-BIDEN-TRADEjump02-inyt/merlin_179818962_2b8e0bbf-dd09-4f19-ba73-7300f0fb068e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Plan to Sell Arctic Oil Leases Will Face Challenges"
+    excerpt: "If lease sales happen in the final days of the Trump administration, they may face disputes in court or could be reversed by the Biden administration."
+    publishedDateTime: 2020-11-18T02:57:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/climate/17CLI-ARCTICREFUGE/17CLI-ARCTICREFUGE-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
