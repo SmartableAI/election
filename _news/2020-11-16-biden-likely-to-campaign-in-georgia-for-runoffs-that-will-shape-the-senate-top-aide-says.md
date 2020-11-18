@@ -463,6 +463,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
+    excerpt: "Follow for the latest developments on the 2020 election legal fight."
+    publishedDateTime: 2020-11-18T15:15:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AvV_Zvo9RxQ/live-updates-election-legal-fight-nov-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump sought options to retaliate against Iran's nuclear program, officials confirm"
     excerpt: "Last week, the International Atomic Energy Agency reported a sizable increase in the country’s uranium stockpile."
     publishedDateTime: 2020-11-17T01:02:28Z

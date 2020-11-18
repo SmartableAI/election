@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign files lawsuit over Georgia county ballot sorting"
+    excerpt: "U.S. President Donald Trump's reelection campaign on Wednesday said it had filed a lawsuit in Georgia to require that Chatham County separate and secure late-arriving ballots to ensure they are not counted."
+    publishedDateTime: 2020-11-05T03:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN27L077"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L077"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L077"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540058520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA4045"
+        width: 641
+        height: 545
+        isCached: true
   - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
     excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
     publishedDateTime: 2020-11-06T07:40:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
         width: 817
         height: 545
-        isCached: true
-  - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
-    excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
-    publishedDateTime: 2020-11-09T14:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/donald-trump-rallies-spread-covid-19-stanford-study/6103779002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6103779002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6103779002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/30/PDTF/09dd4367-9c40-4198-bdbe-3f832d561107-AP_Pictures_of_the_Week_in_N.jpg?auto=webp&crop=2369,1333,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Trump campaign is trying to stop ballot counting in Pennsylvania, Michigan, and Georgia"
     excerpt: "The effort is part of a mounting strategy from the Trump campaign to secure an Electoral College victory through the courts."

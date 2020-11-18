@@ -21,22 +21,6 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
-    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
-    publishedDateTime: 2020-10-29T05:16:00Z
-    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams"
     excerpt: "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters."
     publishedDateTime: 2020-10-30T16:44:00Z
@@ -53,38 +37,6 @@ related:
         width: 911
         height: 683
         isCached: true
-  - title: "'I truly believe we are on the road to victory': Mike Pence"
-    excerpt: "US Vice President Mike Pence says, “I truly believe we are on the road to victory” and we will make America great again, again."
-    publishedDateTime: 2020-11-04T08:00:00Z
-    webUrl: "https://www.news.com.au/world/i-truly-believe-we-are-on-the-road-to-victory-mike-pence/video/d9599c5e10b5f0639701dc7cc54642cb"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 55
-    images:
-      - url: "https://content.api.news/v3/images/bin/ea2ec3ab6f13b408dc79cb76b3dfe723"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "VP Mike Pence to rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania, with a political rally planned for Friday afternoon at the Allegheny County Airport. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at the airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 34
-  - title: "VP Mike Pence to hold rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania at a political rally planned for Friday afternoon, campaign officials said. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at Allegheny County Airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 31
 
 secured: "/dd7yloySgIOzIu2fRsJjfQJ9A2AVYsdmTlbFY6uPVxePCUxw0OjHRioQzFB6jC2n9+Ih2o/yyQ4xJgiJ25GDVkp472HI89ItlDU/tc6HOYor22Bv5M9yjgCGUPxWZ+/WFYM+uodnK8kfJzaJokMuC2dlOOTN6HkRMFIU1RDmSOzrPWaJ9cBS7IJhJv++cJvXQDrro4T26rPhJECzBkwpWK12Dl4ONAG+lERGjPBAnyDtA5mQr22Iq6tqGBoJFijS2PralRAO10Tr9tsc0kMjnuRWAu//NPy9tgBR0hsGcKWXf8IitBNCQ+6JCdDbZXek4QWFfEngUyrzhXOIycBURZyu+o+9GXdO4PYc+SqVg74g4qE7VshWxSRBufcsoRCapOtnmLm0LiyZaZDsLlh/igXUnV6SyVizy8+RQSOE4nZs++Vv6OULUSXtwc7pepc94UddiO13wlr9mxnDmpqiXQDWq39n0nq/bjop+S1HiNtptAmO8UGHDrvWh0ASNplKiXxT6kbc8afwLD8eO39nA==;U2yDqe79OSExLTyESHEnwA=="
 ---

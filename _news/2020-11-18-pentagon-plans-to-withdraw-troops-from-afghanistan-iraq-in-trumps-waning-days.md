@@ -79,6 +79,22 @@ related:
         width: 840
         height: 420
         isCached: true
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
 
 secured: "UzerMEv4cxRogwMWIBInQUEVsy2glQUS4X6EUVHFkMSd6HyfY+XcqOK/7CeDvUTWmlv87q8BLgI52HFWYE9Sl8zpa4UDdgR3uOAI9tdjGuP8EP/5OnerWp26ASYinkmmVpv5AbMLmJvNqVdJqhvIWOCuLnaEPiy3tS9wojyFbURW4/WZ5yes6cBHLOwpiIWQvdg2VUn1KFkK4cingjIsyaE23dEG4rnR5IsFz5zfdyUZWRrrnxjnd6M4vtYEAXKNw5vmvUi8PmcmXH67fh+UYgx226dVm1zzKIx/98z8KXWXicWHKZSzsZhVh0Pcen4p5DjNlgMK1ozdSO6DHffqTUIz9x7NwQ/w3uLZxpNQ/8E=;ZfWts5UIF9ffucAxR4T81Q=="
 ---

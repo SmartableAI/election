@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-congratulate-kam
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-congratulate-kamala-harris-election-dispute.amp"
 type: article
 quality: 195
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate"
+    excerpt: "California Gov. Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued on Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the senate seat vacated by Kamala Harris."
+    publishedDateTime: 2020-11-18T15:56:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSmW3emT3Zc/candace-owens-gavin-newsom-blm-senate-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair"
     excerpt: "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. "
     publishedDateTime: 2020-11-13T00:35:44Z
@@ -143,6 +159,6 @@ related:
         height: 562
         isCached: true
 
-secured: "HpuCc9zwp/JyuphiwZLrJS8vujkPRkeh4g/EVvzYt+Vl4eGIITNA++NrMy62Ayuwu0eC3ttGpk9Wg2e3RKY/6jCbRQYuEfYt5ksV7psc3UUTNVSbmLRpu4Ll3Z9dIGy3W7+V9pD2v8Wxc1uBmSIN+mIFnM5hBgCIxi6i3upRo9DDRBwNo+UUB7UGdJqeW6HOmysVLm/C2OuF+8XWFFcX3I/ffnWCEc+H58M5Wz+LoFoQFHgP74N2+VlZXQdQe5+uasA70xEcfa96JWYI+6WZn/L9lb7rBpaBeRuwMYL8cwa1jx3Z3tXCEW34z9+fK3Zdr+F+tSE97azsGSGSreMX0A49rLGkrREyVA3zYbIeZkY=;bsml+f4V9IVbR1pWFc+l2A=="
+secured: "/hzpKefExmWgAKjmBTFXHTrO1y0Ii3ADFOjDujGAQvigE6PgG5MSKTzRYRSzJE+lv1aXu4tXWaDxP7y30Lu3dvEI70eki73t5+tJXOnGWYO9GY6MmUlii4VDvhm2ZSrR1WATi0lOHMAZGdmFf08NzVWbD9ffvu/v8Xv/n+z+tXtM04lfFwyV8SnmuptdJRgKNX2s+ITixMHd5j1YwSJW41iZZX/9imLVEs5Sqm1n5LoTo9h76/i0DZyP+1h2UsY3VTVMQuDzhwYG2ij1lLe0TZ7S5x6beOgoSYHsiIaJQEB+2GLJ4J4Q5Ezz/ll5PjPQFZAp36RRSdp5rexXzJcpbRxE4nnFfxO7jsMOblX0wvA=;xN1NaNekRagNUWzTFpIeGw=="
 ---
 

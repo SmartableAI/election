@@ -479,6 +479,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
+    excerpt: "Follow for the latest developments on the 2020 election legal fight."
+    publishedDateTime: 2020-11-18T15:15:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AvV_Zvo9RxQ/live-updates-election-legal-fight-nov-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
     excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
     publishedDateTime: 2020-11-13T19:38:58Z

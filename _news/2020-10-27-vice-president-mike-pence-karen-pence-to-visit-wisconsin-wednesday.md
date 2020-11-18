@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-ka
 cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: TMJ4
@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
+    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
+    publishedDateTime: 2020-10-29T05:16:00Z
+    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: KPNX
+      domain: 12news.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "tcfwOL1w15VDMGjw9FCHhmz0PLTIumLV1T6uDcpA+Q2xyxTvAh22lvQFAJnBH5bKxdAZguqoymyT2ZptkYvNG3YzaPO7wQOjYcMvTxFroiJmGJHUIm7tkeb1QRJxyXSw0K/eog+5POE/SSAEueTJnpu73N8mr7OL/WEGCynVina1DnxnPJodEuNNfJwCCsUWedvcwjbBlnp0IVBJGjFrXG3S+Iie9A6lXZgiuhakvZkGNJGZiZ4Gm+mdBcrMhbvHzg3LC4Zh3gjr6/twOvMnfPuS0DS/SOmot6MvoZbJei7kaqJ1DHLfCYRnXWRa3uEFQRJf1+1qPJEQ4SFzltz+TVRicB1T1uxM9m2KYKHTPP77gdEQ69DKrBb4c1CX4T2GJw7Cg4jS605U1lrBti3ourdQQayyRyRRBYpQ7DzynCv8aceorbFbqjGQ8q3q2zW4+aNNVMJqxwucAphbnAwDQpxKhHl8k4KbaqD6YVr0+ZCMLC53tXePHMo9b4RqPCUNUmFePaw2x4RMR0NVC2TPQQ==;w3W2yh4nSwcxdD6eB4JhSQ=="

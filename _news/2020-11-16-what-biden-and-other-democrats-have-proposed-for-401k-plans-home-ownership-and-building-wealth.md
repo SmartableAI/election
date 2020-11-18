@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Latest: Biden says his family following holiday guidance"
+    excerpt: "As Americans face the complications of holding holiday celebrations amid the ongoing pandemic, President-elect Joe Biden says he and his family are trying to navigate the same issues, with safety meas"
+    publishedDateTime: 2020-11-18T12:59:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_560af5a4403c48c3b0af26ba47adb366_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "8GihioQ6Pa5aVT5jflOAzlzG769yO3CYQIVuwJ0SF/WMH8Cc5xKhHk9N3YL3nbvWyjT8nKISTOTiF2Vy2vGijxzClNsdA/e9A9FzkvNF3o0Iwhxv0Idtx+mgHKH4glGQkP5ysTM+5i1sTO8sK/Nn4w10c6grVi5EwwnT1T9C1xn1w7X5POSWVxyRbcn9HQfmAV9H4Z2EQlKcEbSQVh6qsZYvIziOIc903dlK6Ihha4b4hXxeGZYP10wB3nAz50TqrrzatCnVbFUb9/6lJwyCGADckxdfElDWKCwoAmeEH1MgdGG4snG5iBVOShieifxsXg2rrP5qlzeT03TfQZER9AXMiGReXlfzuMXEXorVb1hRT3Boz/htWcq//buXw6qnB6/zOKC0/dJcS3JmQZTA9GrEaXvO1iCDmnEhneXu0lFo4xYDA6u4em+EDQz9TWs0FfeNvC8y+NQlOdoyEJ7LrTKFfQsnbNmnpjmLPgfmVnsYwpminXXBYI4xRLRJSc5egtvzwvNd1J9yjVwrmorXmg==;dzLNDhvIyDsH/YhATk/MBA=="
 ---

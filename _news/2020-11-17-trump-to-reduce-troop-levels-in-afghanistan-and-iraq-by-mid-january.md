@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/pentagon-expects-order-reduce-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.insider.com/5bfeb3dada27f853f1481fa6?width=1200&format=jpeg"
         width: 840
         height: 420
+        isCached: true
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "WbOBBEbM6t4lvmPoja8gk9ukC/31LQh2EPgew/rDZa5fs3SSY2z2lFWl2faF1Vir41vvpSpa+H2sBmjzUoo57KVXksafnZ/Sy9HAd0aJ/M95XUz7M+Rsii8B95lsr8CpaLrB8eKyK+jwGsJ5ZHiS2ZOui5hQUBhyDp/ED2Rm4ST9MHx/GJUsXoFmLrthxAydCvik4fDvyGPqi6jSogv3FOrEoI6WVblImv1xTuHOSORgmndUPcotsSRgO9BQd14zImdW8DyUHmxCwOwU4v0rEVpMSDw+Q41EhFuf83ve7VT90INLjokZBlHYeZATKnF8vc+Us67Kt9kREt2V53oRg25Es2imFZQdPS8aNrZ71ks=;GCdI/Cmxz1/OJzM6heZNDA=="

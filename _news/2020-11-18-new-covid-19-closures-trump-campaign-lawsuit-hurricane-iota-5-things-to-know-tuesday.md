@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Senate Dems push COVID relief, slam Trump drawdown"
-    excerpt: "Senate Democrats are pushing for a generous COVID relief package, while also slamming President Donald Trump for throwing up obstacles during the transition, and planning to drawdown U.S. troops in the Mideast."
-    publishedDateTime: 2020-11-18T00:45:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/17/senate-dems-push-covid-relief-slam-trump-drawdown/6333993002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "NbyTWMtqiRE3rmiBHnIY4fnjOPrgurXKaoxuIqEPzO1tKrECvAZ+cMVMa2O56fRSRc+gXIif4eSIU5XIFRCbgGx1WiK7SRVZS/d5guBJp7CdvgHhpdk07KMQFBBnDvxMmE92iLCsbGEv0QDSkq5mh2PQxS4ZPz7ILpizLcT9OX2YTXU6A7CV0u9/tob92+Te17L3mflgA82r4YUdPfzNDomz80o2SL4qV4UW1lWJnCTtqunkXghXzPasuAcRDIzRBh0rOrC5Y1JO0etHANthXfW0GMgwMEmqwz2GJH+7n78iqC+G+CsS8+rv9hnFUiPbwEdp1GBk+gWQvSiE+1ssTf1NzusGMjPZrcPCNx9TYWY=;GacgJ+Dz5j1FkFcdQgSbgw=="
 ---

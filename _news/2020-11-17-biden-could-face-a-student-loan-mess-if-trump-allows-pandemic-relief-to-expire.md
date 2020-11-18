@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP congressman says colleagues are 'waiting' on Trump to accept election results before recognizing Biden"
+    excerpt: "Rep. Adam Kinzinger on Wednesday said he believes his Republican colleagues are \"waiting\" until President Donald Trump \"comes to terms\" with the fact that he lost the presidential election before they openly recognize Joe Biden as the next president.\n    \n"
+    publishedDateTime: 2020-11-18T16:41:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ZQ2p1RSRSU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/adam-kinzinger-republicans-election-results-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/adam-kinzinger-republicans-election-results-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118090606-restricted-file-adam-kinzinger-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z

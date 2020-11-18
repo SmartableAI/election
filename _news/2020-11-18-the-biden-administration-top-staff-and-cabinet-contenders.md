@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,85 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Who are the top contenders for the Biden administration?"
-    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-17T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+  - title: "Biden chooses longtime adviser Ron Klain as chief of staff"
+    excerpt: "WASHINGTON -- President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House."
+    publishedDateTime: 2020-11-12T04:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-chooses-ron-klain-chief-staff-74160460"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_025bae0c36904b74920fce02f688b0d9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
-    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
-    publishedDateTime: 2020-11-11T00:29:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
-    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
-    publishedDateTime: 2020-11-12T23:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
+    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
+    publishedDateTime: 2020-11-17T08:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
-        width: 733
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
+        width: 824
         height: 545
-        isCached: true
-  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
-    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
-    publishedDateTime: 2020-10-16T19:05:00Z
-    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
-    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
-    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
-    publishedDateTime: 2020-11-14T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden names Chief of Staff as Ron Klain"
     excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -139,18 +91,18 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
-    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
-    publishedDateTime: 2020-11-17T02:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+  - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
+    excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
+    publishedDateTime: 2020-11-10T07:23:00Z
+    webUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-to-see-more-chinese-listings-as-biden-will-make-art-of-deal-easier-advisors-say-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
 
-secured: "Cfu3oIHyeRZOBhetLR+s61iNiuVTX+YpVc9ck1uKpd+V3Xk/MiTlGU5n87rdW7Xq8c2cjoYLd8PK9KRc5miOKgP7PXfdjcEumBTTHQMG9ArYD5g6O25GePUmI28aQcdyzrELyvnOmekQSeCuT2AaaJ5N2lWIugA4qyt7MHsD7NTR3NWlTTap9WG9IWWo0pTGUcnmsHVUym+pzKgL4e7vY7r/6lqphbJHKE7sybBgbLQlODRs9NxFdQzM+p0C0gtuqEsG7qx6Tjb3bwv6YfLJI/g40mHu1Fb3tY+qDjwBLJYLHmTMDssL0/vK+65A/Faxe6Gxgk76VOpvRuqyR34QywhHsRJ5sKTGaNueNTncHws=;xbwNd8GNIe0J7MJfqsXDYQ=="
+secured: "7XrgB5T18LY6cG/99dE2S/Rc4KQDbzB01gbUPTFbkQrXcZLfJzhx5omrQ+RNd0QNtq2K3BmMasTesj173b/Q4rfslrny0d/CJsVIMCmyF/M2HO8e5k9pCPU7G04MEyY0N0bz9uweaxrbGd/4dPvl+Nf7UxGDr27ZWLT0UsFPm9Rxg8xptFgzxQ0FO1/L0t2MqdLXA0daCIpfjVwYSmF937pvOirS8IOPWhwDT05KeeohH+hNZdfLgXq++xY0wvvBlgZET4YYLWQCHuOjwrGKtdV5Q0K7CLqitnHOyx1OHZ6uDwnm1aUuKhzWU1ajWQp7zTUAkI0L2VwjBIy1FHCvLo93CAn8XMs+Dhu9t58TW3nL/J5qeIiMzDoJyHgFpMr7M5XOItJ39rvmIgiXH+AvuymLJmQMyUmeepucIp9RLSSr/9T8xPFsq+ZOfpbLQdMQB8v/7faKsqfSFWqGiyhnrr7TONp6fpUtMx9Cq5bP0HSgXlbOgfeTTw5g7TQJsnSJ1CUNsGFSkAIxBMB4e6oUZg==;k0B5jKdyhrogs+zKOfs9YQ=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Latino voters who fled dictatorships demand four more years for Trump"
     excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
     publishedDateTime: 2020-11-17T13:20:00Z
@@ -124,22 +140,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
-    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
-    publishedDateTime: 2020-11-18T06:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 97
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "BDa74tVDz7Vg2cCbjSw8uAjNZofoNmRU1c5mEZFLADKIdITOGIuqFNcFQ+Zh9yzrzi9cRi72ZI9Q3PkjsIlGgmCevadNmP3CsHn6UCW6LBZ3VOvZV/7sSTIpkT+SMV0uREx7pFXxFFOiUpR6i/xcsEJg2EWiJK2kb/GNYD8LLH2vplXtsYulJVlBD8l2OvVcMPKbL+kC+bDAwMuxmfG3Ueuldy/rhuYwzWzk2uXYTDtqpGphPZYztwHQ+Q7w5zs3B6IzBt1aq49Z/iwgZFDeV5VOdO+2m3n6Z/4ubvc3R8BrDDgyuuJLgVmhPjGWBEW95UNn0NLptT0wELX7hC+wDMTyHAU254CrYNDTZaEzm7BImoXwtWW78F2o0lyX3mjpb2g1y1tXYlSHhos4j8wxyWvNGTj1LVYD1qM54N+Rc289+UlBgzk7tHxYEYAsKC5zIt61GWAzNkWgPLEMbF5VmlDqzEgySjJ35mpeHbG4pxpBRRdE0gK8FbIAQK+AllVq9O/9Cf6v/TuF8URV2BenGQ==;Vd1HcVnOONs2CROiQiQEaA=="

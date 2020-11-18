@@ -105,6 +105,34 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden's won, nothing will change that: Schumer"
+    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
+    publishedDateTime: 2020-11-12T18:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
+    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
+    publishedDateTime: 2020-11-10T19:29:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
 
 secured: "JimNqizBp5hGmw96DPpcLXaoMFDm/6dHgzRzwSz1wtUzLzbddFBFu5dza/pyn+yuzRS0FfhqShPD8fa/mxDWAyxZRK9UJ9mA74CTP0FFseEjeILKHlnULn2JhAhpZUsy1KRKZdvmsfogI9nslfpE+69wHWUbmbhZJNqwsoOoEFUUazTyzs2+VAR0xzgr9FxDxT7QgC6Ea+pWDeFl6bDZdrhEggUB0lHpEFes3lhvPTUYY+wMyNPacB+VO9TYvRWW+HyQAQKCHJ19zWh4khf1VnJVnw4mP8BS76M/OlB1asc4SknHF790VLT8NuATkADaAvXSnZRbKTnWEtQrwrjRcmCahXUMtco3CVclD7p8F3T/klhPB7spA9RZpF3NVJDCnFpllNAA0/30xnd+z1rW2AZY2FObCtgy0WKyTgWy4KALTTuZ5Xs9uGIvo4ttxXeJu/UqCWFINt4GKqLjdIk51+2RkB6bziAE4oPP/zISKeO4KmD1NfweBtvqXHtKE0Bv5mYWpWNqMCsF4EkJ/8MahA==;xJ6DF0bT6ZHVxCpBwAq2LQ=="
 ---

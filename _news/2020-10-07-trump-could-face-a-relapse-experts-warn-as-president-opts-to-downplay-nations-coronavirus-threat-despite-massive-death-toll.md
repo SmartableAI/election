@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
+    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
     excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
     publishedDateTime: 2020-10-09T10:35:00Z
@@ -111,6 +127,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
+    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Jw3gXH6EgKIoi2nhRrfozoc0c3FWbA6okKhaFoFrZL8lub0rXJ0/9JFTgDQhm9/NSeDD5EdZWXI4H4etIY2XifBzC1CFO0UfVtEydoi5F33T5Kybnfi4LDtPVfOBjDce+n6d7r3QIk18PRozsfnp7Nd/7u4DytEdg+HKegH6BHD+gG3vAAbXFXN+uA9G+JLOOyWkUTe3yOytChUrOB3+2v49LjzfGiQyoPyG1el5i3CZt5JsJFjm5U45YOkPB8MoU9iZwgbdrjPq/6155r1/aed4V7D/Xo6eU83liQw0+Q+r9Vz1xekox64KwHJo/Hd31tvWIBEDNSP2BTNh9vr6WTLf9BuJwkzgVpcFjb5aWeY=;m/UClgkmhmaCve78O3InoA=="
 ---

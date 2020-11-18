@@ -125,6 +125,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
+    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
+    publishedDateTime: 2020-10-29T22:52:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "nJXE7fsq7Wsu3FnXgX8xa4lIbKvfisNn+At8MaWBoTZGQfAXfO0sTMW8nNmIiD1BYfDRVvqxCACsiAMes6Cw50Q8s2LNMHoydN1Kcr4zF5KFtH0cV5CZzFaYtuqZjIMGuA9c7236x+6Lt8H3AnW+B/28YsOkY9hAyaHNllkpq4oK++BXecXJ8yCnq4ZH9xzKJJtwHDErX4wOTeJ+gxB2b6tWHkcMNjvkuf29FpQjjEejKQQ5a+xtMXQmv1TpqIfLYdoDenA0oZYUrNT6fgmTl5oYJSVHHOlvxeYWpgbzvngPWti99hEmW/s4sbbD1gvnT5PfvYWGNvAwbCTvDYVlhRxJhm+UMjp1xUoexb+vi3U=;Ly36GnSITO2RBg0JynsPhw=="
 ---

@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results"
-    excerpt: "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought."
-    publishedDateTime: 2020-11-09T12:55:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1KP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP"
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA"
-        width: 742
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds"
+    excerpt: "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic."
+    publishedDateTime: 2020-11-18T15:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/9bd46775-cafd-4391-94b8-ed069c35309e-GTY_1286212955.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
+    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
+    type: article
+    provider:
+      name: The Clarion-Ledger
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
     excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
@@ -63,129 +95,131 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Trump loyalists get top Pentagon jobs after Esper firing"
-    excerpt: "Three staunch loyalists to the president have been named to top defense jobs just a day after President Donald Trump fired Defense Secretary Mark Esper"
-    publishedDateTime: 2020-11-11T00:12:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?amp%3Butm_medium=referral&amp%3Butm_campaign=wp_world"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-loyalists-get-top-pentagon-jobs-after-esper-firing/2020/11/10/9287323c-23b2-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
+    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
+    publishedDateTime: 2020-11-14T20:08:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
+        width: 1200
+        height: 690
         isCached: true
-  - title: "Trump and Pence celebrate Pfizer's COVID-19 vaccine success, but the government didn't fund its development"
-    excerpt: "The US government has ordered 100 milion doses of the vaccine, which will not be immediately distributed as it must still be evaulated by the FDA."
-    publishedDateTime: 2020-11-09T16:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-celebrates-pfizer-covid-19-vaccine-but-government-didnt-fund-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 122
-    images:
-      - url: "https://i.insider.com/5f356b69b4bb1c001df5312f?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Giroir not concerned that Trump hasn’t been to COVID task force meeting in months"
-    excerpt: "Assistant Secretary for Health Adm. Brett Giroir and Joe Biden's COVID-19 advisory board member Dr. Atul Gawande appeared on ABC's \"This Week.\""
-    publishedDateTime: 2020-11-15T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/adm-brett-giroir-calls-pfizer-vaccine-news-game/story?id=74210348"
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 119
     images:
-      - url: "https://s.abcnews.com/images/Politics/giroir-gawande-2-gty-rc-201114_1605388280642_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
-    excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
-    publishedDateTime: 2020-11-03T00:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6101540002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002"
+  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
+    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
+    publishedDateTime: 2020-11-14T10:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
-    excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
-    publishedDateTime: 2020-11-14T10:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-withhold-vaccine-new-york-feuds-with-cuomo-2020-11?amp"
+  - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
+    excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
+    publishedDateTime: 2020-11-09T14:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/donald-trump-rallies-spread-covid-19-stanford-study/6103779002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6103779002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6103779002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/PDTF/09dd4367-9c40-4198-bdbe-3f832d561107-AP_Pictures_of_the_Week_in_N.jpg?auto=webp&crop=2369,1333,x0,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 112
+    quality: 114
     images:
-      - url: "https://i.insider.com/5faf9b0e402d49001924efbc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Ohio Governor DeWine on COVID-19 surge, Trump's handling of pandemic"
-    excerpt: "Ohio Governor Mike DeWine joins \"CBS This Morning\" to discuss the surge in COVID-19 cases in his state, Ohio's safety measures and President Trump's handling of the pandemic."
-    publishedDateTime: 2020-11-12T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic/"
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/12/0f65d96a-bfad-4897-b3ab-b9c13583cbee/thumbnail/1200x630/587b03637ada4a8fdfbc5424e83db1e2/cbsn-fusion-ohio-governor-dewine-on-covid-19-surge-trumps-handling-of-pandemic-thumbnail-586552-640x360.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump: Pfizer misrepresented deal on vaccine"
-    excerpt: "President Donald Trump said on Friday the pharmaceutical giant Pfizer misrepresented a deal it struck with the US government over a vaccine to combat the coronavirus pandemic. (Nov. 13)"
-    publishedDateTime: 2020-11-13T23:53:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/13/trump-pfizer-misrepresented-deal-vaccine/6286279002/"
+  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
+    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
+    publishedDateTime: 2020-11-15T11:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 91
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/341f3d48-7173-4b66-a0d3-1c4d5ac33da7_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Twitter Reacts To Melania Trump Voting With No Mask After Contracting COVID-19: ‘Disrespectful'"
-    excerpt: "Melania Trump voted in Florida without a mask on Tuesday, and Twitter is not happy. Some netizens pointed out that it was \"disrespectful\" of her to ditch a face covering after having contracted COVID-19 herself."
-    publishedDateTime: 2020-11-04T08:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-voting-no-mask-after-contracting-covid-19-disrespectful-3076064?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jh9gJJoyir7PKFiW6k6hUQgFPjwgt1BCF2mY93VagmID1J2k33V/Uu6px96fauyFraogzaVPrtuVrbWSbJ6kVbkdBWlUCDgnIfHQNM9b9lVQ6CANAKnUbQsCgwR1QsaTRo+5VoH1SWPP5VlwiA9LyYO9/oqn3N25I/Zpp+mi4Ah4OCRwYAncmyNB5w0YlOCRhtB4GpE7EiipTBSlfeampPTph2nIci6vCrVQ/2IwJLenL7UDTc9L7Xtv8wbFYQqKCElN/PeJwm0K2mbO4Kuu2SJ4z22sBTzNi1sXVefJaIPr6GLRTgMvaZwgtXAvlMI3EdXm4FVgW9NOKUcOtzcdXLIA6tu2boBiSo3t/AzSk2A=;KlzDDQd0GCo6v7QuWr4L7A=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-pres
 cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
 type: article
 quality: 75
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: KPNX
@@ -27,65 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams"
-    excerpt: "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters."
-    publishedDateTime: 2020-10-30T16:44:00Z
-    webUrl: "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams"
-    ampWebUrl: "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams"
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
+      name: TMJ4
+      domain: tmj4.com
     quality: 75
     images:
-      - url: "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984"
-        width: 911
-        height: 683
-        isCached: true
-  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
-    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
-    publishedDateTime: 2020-10-29T12:50:00Z
-    webUrl: "https://www.fox10phoenix.com/video/865477"
-    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 55
-  - title: "'I truly believe we are on the road to victory': Mike Pence"
-    excerpt: "US Vice President Mike Pence says, “I truly believe we are on the road to victory” and we will make America great again, again."
-    publishedDateTime: 2020-11-04T08:00:00Z
-    webUrl: "https://www.news.com.au/world/i-truly-believe-we-are-on-the-road-to-victory-mike-pence/video/d9599c5e10b5f0639701dc7cc54642cb"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 55
-    images:
-      - url: "https://content.api.news/v3/images/bin/ea2ec3ab6f13b408dc79cb76b3dfe723"
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "VP Mike Pence to rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania, with a political rally planned for Friday afternoon at the Allegheny County Airport. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at the airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
+  - title: "Vice President Mike Pence, second lady Karen Pence to make separate stops in North Carolina next week"
+    excerpt: "In the homestretch leading up to Election Day, the Trump/Pence campaign announced both Vice President Mike Pence and second lady Karen Pence will make stops in battleground North Carolina next week."
+    publishedDateTime: 2020-10-25T01:35:00Z
+    webUrl: "https://abc11.com/politics/mike-karen-pence-to-make-separate-stops-in-north-carolina-next-week/7314278/"
+    ampWebUrl: "https://abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/make-america-great-again-rally-pence-nc-karen-second-lady/7314278/"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 34
-  - title: "VP Mike Pence to hold rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania at a political rally planned for Friday afternoon, campaign officials said. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at Allegheny County Airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
+      name: WTVD
+      domain: abc11.com
+    quality: 60
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 31
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "b2bs4pDB4gtdke724HPwWUhGrCpTjELH/8mV15WCvEOcFp4hpRmhptYahoIJ65caVJ56qJKC/woKjCD1XKqSoCCqjK/o2yjnuo1Ik7TDhFW+85ihetHX26A8CmnvNLDJF6AG3SnjC31lhuJPCiwPIUuWl5LSuX2aOIZPvMNq0WKUp3DcTAGw94i2mBjr9BFxwOhIM7T3dyCYXujzVxeHX2oT/jeftw8r6TGTgXKoZuRP8bHUCT+cGIRep+8lRMu3/iRED/gaqEBLfaSAJcvkIROq23GEQIi2SDHzS1BOryujKv0iZmmaZASQ3+Aui5/yqcHvXjQhEerRPUu87ekb2X0O7QS5y0h3cuKgeQW90m8=;jv9hQ3edKZEc2lTUzmACnw=="
 ---

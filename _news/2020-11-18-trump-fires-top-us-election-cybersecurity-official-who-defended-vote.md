@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 260
+heat: 280
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump cancelled his annual plans to spend Thanksgiving at Mar-a-Lago, as aides describe a 'bunker mentality' at the White House"
+    excerpt: "Since the election President Donald Trump has largely confined himself to the White House, watching cable news, tweeting, and firing senior officials."
+    publishedDateTime: 2020-11-18T16:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fb4ee5e26608500184fea6e?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "q8fNA1LNrnVzy/nqcQU0HidskOHfjO0+j4SsA4K9wUDXYyRiqJ10dnwStunFCulamYRAgYEbGIKiViRcYfq07vNnpoMtZuQk3iRYhtDYnNqG2QmXaTxkNBseJk3VwlXHiN0QllYJXHpOLCy6Dhe1NnJms1y1JuOuO0Bhcc6dRmPdfYc3zpjXSjHRkppryVMuBV6rPgtym5Sv3sWN8hnnbXAJCaUG2GMh+agrmpPt0awUTi8m35jdvwM12pmMPFzRpmeF23CwesB0ISIjnQkfFjpqm0UX+a0ajxmWHHYkdB/1zTU8QKs8vWZUa94LCJHaIr2lz5vFIKYtSgAT7ZRdQOAxGuYZPst6AGHvuiofYQo=;4DWtIMQGGTXPsOx2djcEOQ=="
 ---

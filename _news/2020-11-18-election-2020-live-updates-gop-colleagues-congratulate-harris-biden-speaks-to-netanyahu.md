@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
 type: article
 quality: 156
-heat: 536
+heat: 596
 published: true
 
 provider:
@@ -96,6 +96,22 @@ related:
         width: 3944
         height: 2629
         isCached: true
+  - title: "Netanyahu has 'warm' talk with Biden, 10 days after Democrat declares victory"
+    excerpt: "Prime Minister Benjamin Netanyahu had a \"warm conversation\" with U.S. President-elect Joe Biden on Tuesday, Netanyahu's office said, in a delayed and clear acknowledgement of Biden's election defeat of the Israeli leader's ally Donald Trump."
+    publishedDateTime: 2020-11-18T02:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-israel-idUSKBN27X2J8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2J8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2J8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548105&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1QY"
+        width: 802
+        height: 545
+        isCached: true
   - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
     publishedDateTime: 2020-11-17T20:04:00Z
@@ -123,6 +139,22 @@ related:
         width: 1440
         height: 963
         isCached: true
+  - title: "GOP senators congratulated Kamala Harris on becoming vice president-elect on the Senate floor while continuing to deny Biden's win in public"
+    excerpt: "CNN said that Sens. Tim Scott, James Lankford, Mike Rounds, and Ben Sasse all congratulated Harris, while video showed Lindsey Graham fist bumping her."
+    publishedDateTime: 2020-11-18T11:52:00Z
+    webUrl: "https://www.businessinsider.com/gop-senators-congratulate-kamala-harris-senate-floor-publicly-deny-biden-win-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-senators-congratulate-kamala-harris-senate-floor-publicly-deny-biden-win-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senators-congratulate-kamala-harris-senate-floor-publicly-deny-biden-win-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5fb4f6f226608500184fea77?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "US election: Kamala Harris' ancestral Indian village celebrate vice-president-elect"
     excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
     publishedDateTime: 2020-11-10T18:44:00Z
@@ -136,6 +168,22 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y0zpt.jpg"
         width: 400
         height: 224
+        isCached: true
+  - title: "Walmart CEO congratulates President-elect Biden, urging elected officials to pass another stimulus package"
+    excerpt: "\"I want to wrap up by saying congratulations to President-elect Biden,\" Walmart CEO Doug McMillon said on Tuesday."
+    publishedDateTime: 2020-11-18T15:25:00Z
+    webUrl: "https://www.businessinsider.com/walmart-ceo-congratulates-joe-biden-urges-further-stimulus-package-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/walmart-ceo-congratulates-joe-biden-urges-further-stimulus-package-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/walmart-ceo-congratulates-joe-biden-urges-further-stimulus-package-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fb3d7b5d0c5f832483137f5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."

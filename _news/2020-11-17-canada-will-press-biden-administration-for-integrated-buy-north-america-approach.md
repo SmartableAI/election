@@ -25,22 +25,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "The Biden administration: Top staff and Cabinet contenders"
-    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-18T07:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
-        width: 819
-        height: 545
-        isCached: true
   - title: "Who are the top contenders for the Biden administration?"
     excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
     publishedDateTime: 2020-11-17T18:29:00Z
@@ -105,6 +89,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
+    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
+    publishedDateTime: 2020-11-11T03:28:00Z
+    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
     excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
     publishedDateTime: 2020-11-14T13:02:00Z
@@ -121,33 +121,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden names Chief of Staff as Ron Klain"
-    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T18:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
+  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
+    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
+    publishedDateTime: 2020-11-13T18:23:00Z
+    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "U.S. congressman Cedric Richmond brings practical streak to Biden White House"
-    excerpt: "U.S. Representative Cedric Richmond of Louisiana brings a decade of experience in the House of Representatives, including some outreach to Republicans, to President-elect Joe Biden's administration at a time Democrats will need that skill set."
-    publishedDateTime: 2020-11-18T04:08:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-richmond-idAFKBN27X2HQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541559350&r=LYNXMPEGAG1GN&w=800"
-        width: 800
-        height: 532
+      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ElTvJrIt9fXQvnay6QrXhuw2b6OxP8UJ5S85vqXASnSEluRiEbS4cQ6v7hFdnuaR2Tb+1fUSnbsijIIZzSOSSEj5eF6sx4d6C3bJ5tODSrVhZd6Ct2NoC+MU528tdGP6u1Dm/yh1H7Qd6bpumWKZ6bKP9BD73I1KvQn9x4JKVHopVPRNGk0IhJkHUmEjiYeF7XN72l2+Pni93CaZ+Dg4SrI1PSG/tsgzwSynxF4RhyMSumDRq2t9OX/ujARvRyYcM7a7jvecAlnZCm9/2B9ar+8D7Ho0wTgx83GXLA7taUvWxrLLeSpb8nMjyaeggAzm/8FTCqk5L0ZlZNz3NwlqVvh67z1GPzqTilH9twmsK9w=;4dhHNANSbGNK+RI4x7chzw=="
