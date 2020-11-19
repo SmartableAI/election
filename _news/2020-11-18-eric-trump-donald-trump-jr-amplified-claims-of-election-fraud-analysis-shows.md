@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's bid for Supreme Court election intervention has yet to materialize"
+    excerpt: "President Donald Trump’s long-shot wish for the U.S. Supreme Court to adjudicate contested vote totals in several key battlegrounds has failed to materialize as state election officials move ..."
+    publishedDateTime: 2020-11-19T00:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/election-supreme-court-trump-01-gty-llr-201118_1605720571202_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Election 2020: A look at Trump campaign election lawsuits and where they stand"
     excerpt: "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues."
     publishedDateTime: 2020-11-06T20:40:00Z
@@ -379,6 +395,6 @@ related:
         height: 600
         isCached: true
 
-secured: "x6NMHMVLXdkYSRb9k332+MlItE3qkJ632CO6N3hhjuBFvfTEsCzolEEHNuTSDP9FMp1cSVHGKl6NsOd+tR5ZctikhrB4KaNZEsyQZywaadItADlXb61septk3LzDL91VuuVk/Xbkx+vJZpWfGjzCusYo7OQe7uYfpHzhoC0sWzQQEnvaZVES8Ad9pjBAGx8683WU3+JzvhbFkB++CiLJaic85U0yPQsT794CUKp2C+AzBM1C//9kMx3/x5FV0IvwL2hpl6o7RAQpVwkEE7Bodz1zxGotVYgROpxX52wQ13prHwcvSMrj6gyOX7QStlijmF93r0foO4sH8D8PTEHhaPR33+Hz1GBOB+tUQyncM5o=;R1unOgTUEQZeaCMi0Y0Daw=="
+secured: "mhIvT3rP6LC3nFIGnSpDzhijYeJqNhmu7B12hyvovPAKLtT0/niQmWIqqrfmZX49xAdReOTlAcYKhIFN/p1saRnRtcVyQoq1As//LcTc8hnz1XFeL6Mc99g4nomRYnbIv6YxENfQiDBexXtCBIOg0BqxTTQdXwBBsb0Gy2KCLYCAAD38n/FYKuO+rR7ZVVDco9SFhYYPE6Nbei2NvNt7O9mV/dSpRGkTHVOKohyKbxe45CuNX1IiUbANjsFD4B7GcEqzA7l8neOSO+yRafs3/gUrzjyyJLK2Wo19MSqv/3yCLuAGa1qikFLgYP0DNOX2vYpJWTlQfGtNI7HMq9/sl9hkF5dZMONmly5tnbadQlENZSAxGP+tVAFBbC3q2f8c4Wzj1Q7pH05NypWwuoNJL+sy4kjIhHFdUKW0pasu7nlPkJ9qz9TYOe25xFwNOFfqU92cdx06tG2ztlZyo6Y9LjHqO6wznpKSzThCyF98bExYM5qEUHVDby4lCcg8P6ydp7zkGvjtN2FFBSuywvrLxg==;L0+4ed/wViGysFZyMzLefA=="
 ---
 

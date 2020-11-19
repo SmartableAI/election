@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden builds out White House senior staff with top campaign advisers"
-    excerpt: "President-elect Joe Biden is building out the staff that will surround him in the White House, announcing Tuesday that he is tapping two long-time advisers for top roles and naming several other veterans of his presidential campaign to senior positions.\n    \n"
-    publishedDateTime: 2020-11-17T16:13:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sgi-xar6mzg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-white-house-senior-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-white-house-senior-staff/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116175720-joe-biden-1105-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Cedric Richmond expected to leave Congress and join Biden's White House in senior role "
     excerpt: "Louisiana Rep. Cedric Richmond is expected to join President-elect Joe Biden's White House staff in a senior role, departing the New Orleans-area House of Representatives seat he has held since 2011, sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-17T00:16:45Z
@@ -76,22 +60,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110103859-10-biden-admin-possibilities-richmond-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: What Joe Biden's choice for chief of staff says about his plans for the presidency"
-    excerpt: "RESOLVED: The single most important personnel decision a newly elected president makes is who will serve as their chief of staff.\n    \n"
-    publishedDateTime: 2020-11-12T15:11:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1sXpMh98YFM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/ron-klain-joe-biden-2020-biden-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/ron-klain-joe-biden-2020-biden-chief-of-staff/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111221512-conclu-ron-klain-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

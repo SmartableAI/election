@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-ha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
 type: article
 quality: 182
-heat: 382
+heat: 402
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a12d7b4-a5ff-4f72-a486-ac19d95bc04c/ff3e7f2d-83ad-40b4-a5b4-f35750b0e633/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate"
+    excerpt: "Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the Senate seat that will be vacated by Kamala Harris. “He will absolutely ..."
+    publishedDateTime: 2020-11-19T01:34:00Z
+    webUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
     excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"

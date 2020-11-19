@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 14961
+heat: 14981
 published: true
 
 provider:
@@ -7669,6 +7669,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/16/a18a24b3-edf0-4c41-b3b8-098f34776609/thumbnail/1200x630/7746fb407ba6dd1749d0dff2777e2fe7/1116-ctm-trumpbiden-mw-jiang-588790-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden holds national security briefing as Trump blocks transition"
+    excerpt: "With President Trump blocking President-elect Joe Biden from intelligence briefings, Mr. Biden got his own on Tuesday from former officials who served in Republican and Democratic administrations. Nikole Killion reports."
+    publishedDateTime: 2020-11-19T00:07:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-holds-national-security-briefing-as-trump-blocks-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/17/062d1dbb-3659-4ff1-8997-47a3d1e8d540/thumbnail/1200x630/c67da98fb3d4221c749a990c85fc9cb1/1117-en-killion-589996-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

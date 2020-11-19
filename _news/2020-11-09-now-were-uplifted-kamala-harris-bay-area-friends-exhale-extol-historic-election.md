@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harr
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/07/now-were-uplifted-kamala-harris-bay-area-friends-exhale-extol-historic-election/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: Mercury News
@@ -27,29 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Elation, Frustration: For Women, Kamala Harris' Win Is A Big Step, But Long Overdue"
-    excerpt: "Some women tell NPR the historic election of the nation's first female, and first woman of color is a move the right direction. Others say it's a reminder of how much more of the road lies ahead."
-    publishedDateTime: 2020-11-15T11:01:00Z
-    webUrl: "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue"
+  - title: "‘It’s our time’: Black and brown women around Connecticut celebrate the significance of Kamala Harris’s historic win"
+    excerpt: "Women of color across Connecticut are rejoicing Saturday in the historic election of Sen. Kamala Harris, a Black and South Asian woman and daughter of immigrants, as the first female vice president of the United States."
+    publishedDateTime: 2020-11-07T18:15:00Z
+    webUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html"
+    ampWebUrl: "https://www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/elections/hc-pol-kamala-harris-vice-president-history-20201107-mv253j2ovrfglpjugante5iyfa-story.html?outputType=amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 99
+      name: Hartford Courant
+      domain: courant.com
+    quality: 52
     images:
-      - url: "https://media.npr.org/assets/img/2020/11/12/harris-for-tovia-story_wide-2a395a43aebcf7c8f950a7f1ef900b585b530d5c.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://www.courant.com/resizer/qOKXf55_4C8rXb4ePwiMi_83rks=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7CNT4MHCOP3OTO4LRTOOOZMTH4.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Latino leaders rally to urge Newsom to replace Kamala Harris with Latino or Latina senator"
-    excerpt: "California Latino leaders held rallies across the state, including one in Sacramento's Cesar Chavez Plaza, on Monday, Nov. 16, 2020, to urge Gov. Gavin Newsom to appoint a Latino or Latina senator to replace of Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-16T21:27:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article247221889.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 25
 
 secured: "VkgTPmV/28zoqMj/Sq3+dvWHlXW/BFO3tYtb1Zvm+xLgg7ZHZ0YBAX/jMTMrhDM1UjccWyEQe9itU4rxsgUO99lr4WiHyG1zpV3YMU43i/BPHwcjPF6wpDt3Xo+d24ZxnS6PYWLyUwvuJ78dwrWmu2Pml+XFyaqRe34wBNKc+zhASi0Nq111KKT3zmveT9kOLfb7Plwk2uIqjhQkeaJtVmYHe1oiPjw9yiIllpx9rS6uLJ/dm95W2nJmwtdfFc6V2e71IFzNMoMm5uX4XIOfTb4WES71KdoZphTrTpIu6zdXPIl0Gb2LqAmSjIZ6ZkL4FhxDFQTUlqC7OxIIjePdjOBLwSMgUC0uYzBaEGi7g+1hKquSJ70goAGNn8fR53omFUiJr+ch6KYbsmOQSWFiPuzTteVshHFU1GvxW3XdQEHI2wFEF89F+MQ4bzc8J2zx1ggpI2wshIBw6HKKl20qiESt/fqgvbfJKvGqifNkyqXp/vilslLCheohQwhta6L6+fZheRRKfFk5Y2c3kpmG/A==;87KnIviEFC+klIqZPXYSUw=="
 ---

@@ -7681,6 +7681,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden holds national security briefing as Trump blocks transition"
+    excerpt: "With President Trump blocking President-elect Joe Biden from intelligence briefings, Mr. Biden got his own on Tuesday from former officials who served in Republican and Democratic administrations. Nikole Killion reports."
+    publishedDateTime: 2020-11-19T00:07:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-holds-national-security-briefing-as-trump-blocks-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/17/062d1dbb-3659-4ff1-8997-47a3d1e8d540/thumbnail/1200x630/c67da98fb3d4221c749a990c85fc9cb1/1117-en-killion-589996-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z

@@ -96,22 +96,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden signals next debate may not happen if Trump remains contagious"
-    excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
-    publishedDateTime: 2020-10-07T01:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "Biden hits Trump on trade, economy in Ohio speech: 'He's let you down'"
     excerpt: "Joe Biden on Monday slammed President Donald Trump for having \"let down\" American workers and unions, while pledging to utilize a \"trade strategy\" that \"gets results.\" Speaking to a group of autoworkers Biden claimed Trump’s \"chaotic trade threats,"
     publishedDateTime: 2020-10-12T20:11:00Z
@@ -143,22 +127,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10elections-brief-bidenpenn/10elections-brief-bidenpenn-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Top Trump campaign official ridicules Joe Biden's mask-wearing after president, allies infected"
-    excerpt: "A top adviser to President Donald Trump's campaign on Sunday ridiculed 2020 Democratic presidential nominee Joe Biden's mask-wearing even as President Donald Trump remains hospitalized with Covid-19."
-    publishedDateTime: 2020-10-04T14:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/top-trump-campaign-official-ridicules-joe-biden-s-mask-wearing-n1242041"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242041"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242041"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 138
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417375/201004-jason-miller-nbc-mtp-jm-1120_51996a489e320063ba7030e9fc079abf.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
     excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."

@@ -2,21 +2,21 @@
 category: news
 title: "In court, Giuliani argues to block Biden win in Pennsylvania"
 excerpt: "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e"
-publishedDateTime: 2020-11-18T06:37:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaign-lawsuit-pennsylvania-vote-heads-court-74246692"
+publishedDateTime: 2020-11-18T01:28:00Z
+originalUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
+webUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
 heat: 265
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_391b6a5df63343cf90a2f7d6807552c0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -133,6 +133,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "KskIjbkQwu9fkM6hkWPqL+KbAax04lhyXycjmvJoUcqltcE3fWdTHHFjsox/uHRlnkoLxYTN7KZWpIpI6XWNxPUbnmwQvgb2kSyAef39Gtz4h70H0Z2fUERIW6aQrBqzHh40qKuodF6FUlpdSyHgQREWiH6hMfENsRiofrjJSt/8qc30k3MegcdFlRMYqmCGCZ43EFn7ICzChmktz3Wg0m6oPPNBeUkIG41XFEB5D2U6FY4ElsORhOde04OISUGm6vkNZ6pVEUH3nBLDHmUlrZp7Yknszvs2Nd7KoYXE4y8e7NTpmmPfVAfyA8HmnC+6UeFEr4lJS1iPER1CApXdRIgeReTafdftJ9QCofwiMvLcOiov736OgaTwpzXJQt91RVcVoVOIIWtBMoZwMyShgMNOHKNVV1uxDLP7YOPfGo8uMHqpwxryK9xNwvd+AP+vsRsLdkuNpW3hH0lN+etXN4tHOB7WpbWbwiIRi7aJVZUikTmB3QHYBxbB9cDBJeHh45zwfhPQtakS38qoMs0mnQ==;NYar3CjtgMZMJWSBGApulw=="
+secured: "6fIfXKh656BZvjXKvcNGIXrhJsg5GflCXc8grv/PKKM8Sz2SsB64B8Kc0Qz5MlilM77+q/dCxwVpp/ZuZ+m7I77OpCPcfKl82ZzX16w0xAIuuO/BV37BCkbhpA7//94ElA5gKXE6qhgWJuoqvkbiFVr0xApawHVPi+y9FFd7hb5B/dWSF8qOBtaRQNtR5hufrZN4TrbHGyHX6ldIRMuhMCW2rObvldCeGThNhrNG6vTqOJHsF2g0/i7y9x7bmyevCGmBn+W42HimVrVWGHqan9wwdFdeg0Q32HV9qavSFTqYC7t6+y7nqEuY34xWEUHbwDM5aAD+mubIUJCW273KEmsnZc0FfpJMytpZDewEnDI=;1fsJqMHK6hQWX0mB13HmSA=="
 ---
 

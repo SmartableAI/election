@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's bid for Supreme Court election intervention has yet to materialize"
+    excerpt: "President Donald Trump’s long-shot wish for the U.S. Supreme Court to adjudicate contested vote totals in several key battlegrounds has failed to materialize as state election officials move ..."
+    publishedDateTime: 2020-11-19T00:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-bid-supreme-court-election-intervention-fails-materialize/story?id=74253542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/election-supreme-court-trump-01-gty-llr-201118_1605720571202_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Eric Trump, Donald Trump Jr. amplified claims of election fraud, analysis shows"
     excerpt: "False and misleading election -related claims, already running rampant on social media in the wake of this year's race, were given an exponential boost in exposure after they were shared by Donald Trump Jr."
     publishedDateTime: 2020-11-18T11:39:00Z

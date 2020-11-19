@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T23:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
     excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
     publishedDateTime: 2020-11-18T22:58:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump campaign wants recount in 2 Wisconsin counties won overwhelmingly by Biden"
+    excerpt: "The Trump campaign sent $3 million to the Wisconsin Elections Commission on Wednesday for a recount in the state's two largest, most Democratic counties, Milwaukee County and Dane County, following a 20,"
+    publishedDateTime: 2020-11-19T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-wisconsin-file-gty-jef-201118_1605719382915_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
     excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."

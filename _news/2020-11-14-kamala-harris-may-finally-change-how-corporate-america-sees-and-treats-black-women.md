@@ -27,53 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris, set to first South Asian American VP, sends out wishes for happy Diwali"
-    excerpt: "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness."
-    publishedDateTime: 2020-11-14T23:58:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
+  - title: "Conservative Pastor Says Kamala Harris Is Driven by the 'Antichrist Spirit'"
+    excerpt: "Conservative Texas pastor Robert Henderson said politicians like Vice President-elect Kamala Harris are driven by the \"Antichrist spirit,\" according to a video from Right Wing Watch. Henderson referred to Psalm 2 of the Bible and likened political figures ..."
+    publishedDateTime: 2020-11-19T02:27:00Z
+    webUrl: "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407"
+    ampWebUrl: "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1671864/kamala-harris.jpg"
+        width: 594
+        height: 394
         isCached: true
-  - title: "Kamala Harris, set to be first South Asian American VP, sends out wishes for happy Diwali"
-    excerpt: "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness."
-    publishedDateTime: 2020-11-14T23:58:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/"
+  - title: "Mississipi Police Officer Fired For 'Racist, Misogynistic' Kamala Harris Social Media Post"
+    excerpt: "Byhalia Police officer David Pannell's post mocked Harris' \"Cindarella story\" ascension to the second-highest political office in the nation."
+    publishedDateTime: 2020-11-13T08:45:00Z
+    webUrl: "https://www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126"
+    ampWebUrl: "https://www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mississipi-police-officer-fired-racist-misogynistic-kamala-harris-social-media-post-1547126?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1669651/kamala-harris-victory-speech-delaware.jpg"
+        width: 1024
+        height: 724
         isCached: true
-  - title: "What Kamala Harris’ historic win means to Indian Americans"
-    excerpt: "Kamala Harris’ win has political significance for the Indian American community, which is still only about 1% of the nation’s population. Her August nomination highlighted unprecedented momentum for campaigning targeting our community."
-    publishedDateTime: 2020-11-11T12:14:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/What-Kamala-Harris-historic-win-means-to-15717991.php"
+  - title: "Kamala Harris, BLM protests put a new spotlight on HBCUs. Many now hope for a financial reckoning."
+    excerpt: "The presidential campaign have raised HBCUs' profile, while calls for racial justice following nationwide protests have delivered record donations. But will it last? And is it enough to address generations of disenfranchisement at the hands and states and the federal government?"
+    publishedDateTime: 2020-11-11T13:20:00Z
+    webUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/11/hbcu-financials-kamala-harris/?outputType=amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://s.hdnux.com/photos/01/15/15/47/20240890/7/rawImage.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TOR7ABBLAI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
     excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
@@ -139,31 +139,22 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Kamala Harris' VP win marks 'powerful, emotional' moment for African American and South Asian-American women"
-    excerpt: "African American and South Asian women celebrated the history-making win of Kamala Harris, the daughter of an Indian mother and Jamaican father."
-    publishedDateTime: 2020-11-07T16:48:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/07/kamala-harris-vp-win-historic-first-african-american-asian-women/6144619002/"
-    ampWebUrl: "https://amp.freep.com/amp/6144619002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6144619002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 56
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/e88a30bd-a278-4c81-a022-0a5b54e3cedf-AP_APTOPIX_Election_2020_Harris.jpg?auto=webp&crop=4800,2700,x545,y769&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meet Connie Chan, Kamala Harris' right-hand-woman turned SF supervisor"
-    excerpt: "Newly elected District 1 Supervisor Connie Chan’s San Francisco story began in a rent-controlled Chinatown apartment. After arriving from Hong Kong at age 13 and attending the public high school Galileo Academy of Science and Technology,"
-    publishedDateTime: 2020-11-16T14:01:00Z
-    webUrl: "https://www.chron.com/news/article/Connie-Chan-Kamala-Harris-sf-supervisor-15717445.php"
+  - title: "Patsy Takemoto Mink blazed the trail for Kamala Harris - not famous white woman Susan B. Anthony"
+    excerpt: "Clad in suffragette white, Kamala Harris used her first speech as the United States’ first female vice president-elect to commemorate women’s political achievements. Her victory comes one century after the 19th Amendment,"
+    publishedDateTime: 2020-11-18T14:06:00Z
+    webUrl: "https://www.chron.com/news/article/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 35
+    quality: 62
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "duEc0UKKUZLISHM/imuL0DB+n8V+L8PQMWAGTWoXfUXwnLnu4xeUZ+YX4Z2qNNQ0ppj556u7DVfQ6M5PuZjxJi7spMWOPwaMyd3y/oNFj9GSn2oxV/12rl3cgfXqdLtvnM3Ogw93jGmXaemk42uqinEgDr8MFisGIDMSW8l+IrIt52UKF//QY5rPZYvtrgkgIf0Or30417KbPRM6weNM01fbvsVUCeu7ShPqd3oV1QmV7g4feQilIaYVKIqCs0ofq+5skS5PVJianB9cGmyhW2j6tc8cChisz+tGTha8fERyUazOMoV9aw7W9Vh8pN7X4TxIibWqFIDYcEaYJ2ajanKrmJNQM35+keD2xuyrLUZ7BTADH0bJYr4Nx3xQn7o4QB7/mbqdA89WVlLtC4a2AAotZIHNX2xqBI0ziYKdJlX9Jp5BdTB0fYxlDxT8uYahj5e9ypdzC3swOS8MUkEbq1ppe6IN3n9f6sgjyBvEBI57Yno52y6bovmrIGABQV0/C+uu3QVEASj/zSK+qO1B3A==;v7p89vVliAfc4dBVCRzO2g=="
 ---

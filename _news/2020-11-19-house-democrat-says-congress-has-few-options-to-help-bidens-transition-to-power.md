@@ -93,6 +93,20 @@ related:
         width: 781
         height: 545
         isCached: true
+  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
+    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
+    publishedDateTime: 2020-11-17T13:16:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden"
     excerpt: "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions."
     publishedDateTime: 2020-11-17T13:26:00Z
@@ -108,6 +122,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
@@ -156,20 +186,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541505654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG15U"
         width: 816
         height: 545
-        isCached: true
-  - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
-    excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
-    publishedDateTime: 2020-11-17T13:16:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
     excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
@@ -360,6 +376,6 @@ related:
         height: 683
         isCached: true
 
-secured: "t7EYQKTqYqwa0MbL2IHbml2BWqVj4I8nWANoJBKlq0l41rWVpUx7I47X6BWf/rF+WisoVJEHUwlhxkmpS2dytAOOXOEtoAxs2qOEiCPo8uGZjm8XN3ZGido2qaA/ETCJjvY3sbHUPHTQ5VHdn6f2uw82s0Cf+op70WmgcBPZVosRsFmIl3UEvY401R4gu3r290WEZ/cG++zSNGVfkfLFTVSymY8oJN4xJGkKeCksQUU9RB0/2J79sCQ/e3+Z0QK1pq0fco8+2BHMgod5sdmdKay42CDzhkxRM0OMWla60ZVLjWn0X8ITOLxdlw/c6Kq/mr3K5nIBMoMRBnr9nq1b++6q9ArPuMjp7qW4JHzZojE=;KMGe9m5l3TcrmV01R4SY0Q=="
+secured: "q/9Bsfxu7TdGAp9GomROrnh9FI4I6Nkmg7Y1oT5h6qtmCZ9J0uEo32Lxc29b0Kk4AMJ2NPPQCWxzIzLQRuNZWz9C8mXTYoe/uLgKwUI13ksnN6lKUQX5lQfFHPbTf0U4+8z5cVsFJuq4Uo4PTHXkrFIWCgUHYaavRf7A/oLlq2gHxevGjtmP6VK5tirTFC7eLd8QLpbWDxz92Fk6Iu/fh2bhn6v/zuN+Pn1HOQVtCOFstdt684FD3NDIurU38Sn6/fuxzF0vCZZi5YAH0fwFuuKuu9I14BTKL2PVXL2GGHix+WTB4nqSbZtwb3O7QLD/jMq8ihfsmKXSMZqge04XutPhwIW5g6EeAwjp/46m4E/RkyIz+yG2Rz8FfsQQWhhOatt/DNrnFAPkNmmeLqnk1EvyW093sM1fuEwVUQG29HkIq0iKH2U3/5HRgUcKaTdmsX11+kwN4+82MHiLK0ivJ46BLgeGiEQqWvhyraeI7QK6NnVLb4ZiqpnIXfKujO24FZtmyztjl49H6lS9XmGtFQ==;UB4dmLau1oasrtOtoA1t4g=="
 ---
 

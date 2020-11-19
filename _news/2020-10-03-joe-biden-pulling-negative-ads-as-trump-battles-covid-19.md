@@ -7675,6 +7675,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden holds national security briefing as Trump blocks transition"
+    excerpt: "With President Trump blocking President-elect Joe Biden from intelligence briefings, Mr. Biden got his own on Tuesday from former officials who served in Republican and Democratic administrations. Nikole Killion reports."
+    publishedDateTime: 2020-11-19T00:07:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-holds-national-security-briefing-as-trump-blocks-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/17/062d1dbb-3659-4ff1-8997-47a3d1e8d540/thumbnail/1200x630/c67da98fb3d4221c749a990c85fc9cb1/1117-en-killion-589996-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z

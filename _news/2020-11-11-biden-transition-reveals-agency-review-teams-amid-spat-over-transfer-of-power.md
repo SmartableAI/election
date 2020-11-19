@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House leaders urge Democrats not to join team Biden to maintain majority"
-    excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
-    publishedDateTime: 2020-11-16T03:09:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lWR5vS904kI/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority"
-    ampWebUrl: "https://www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-leaders-urge-democrats-not-to-join-team-biden-to-maintain-majority.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315617426290.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
     excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
     publishedDateTime: 2020-11-17T22:54:01Z

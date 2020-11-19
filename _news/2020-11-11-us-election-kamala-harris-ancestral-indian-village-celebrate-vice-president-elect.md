@@ -77,6 +77,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Biden builds team, strategy to handle Senate confirmations"
+    excerpt: "President-elect Joe Biden is rolling out his team and a new strategy to get cabinet nominations confirmed on Capitol Hill as he prepares to introduce nominees to the American people. Biden's team is expected to do away with the “the old playbook dictating that nominees say nothing in public until their hearings,"
+    publishedDateTime: 2020-11-18T21:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-builds-team-strategy-handle-senate-confirmations/story?id=74274830"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-builds-team-strategy-handle-senate-confirmations/story?id=74274830"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-builds-team-strategy-handle-senate-confirmations/story?id=74274830"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-rc-201117_1605630160075_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
     excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
     publishedDateTime: 2020-11-18T17:17:00Z
@@ -355,6 +371,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/bd7c235e5dc1f46407054d389991ed58/VICE-PRESIDENT-ELECT.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
+    excerpt: "South Carolina Sen. Lindsey Graham, who has repeated unsubstantiated claims of widespread voter fraud in the 2020 presidential election, caused a minor stir Tuesday after he was filmed fist-bumping Vice President-elect Kamala Harris on the Senate floor ..."
+    publishedDateTime: 2020-11-19T00:55:00Z
+    webUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
     excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."

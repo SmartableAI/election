@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-17T13:16:00Z
 originalUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
 webUrl: "https://www.cbsnews.com/video/eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration/"
 type: article
-quality: 119
+quality: 129
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
@@ -108,6 +109,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
@@ -360,6 +377,6 @@ related:
         height: 683
         isCached: true
 
-secured: "dHwEtU8O8Fz4PQvpATnGSSBev4qyPbFFk9QPj/HMV+c/G9STBjIwv5z1jA/8Ztp2xtfXkC0Z+45vSNOzcH2VY/rnLBds4d5GgCA/n+6SsgPXlrNG4WOLh7CSPBe8kECbHO/1hDMjhcsY3tlu+hry8OzZ2+1UvNzstP7eZvoLgUfYS4RPKPw+0wWQ5srQCY3m2OPJHrZ6q/4IHzNjaqk8TgviroEcdzBHbcWfMnCSZX1q4llj+merrrDmtaYX5qXXTT0jes2qg0nGG/B5yrT8S6mEQOQwas2V/cZiw2ICfdAKlk9YLxRINW6nIcq5erIecnr+Pk/RQSK8AmI55ASMVsyzi1MgjiTrxXqRaD4Zgow=;IVsUXlaKRO11OW70gBk+rA=="
+secured: "kkDytAMLVr4qnKCYP4g6+6AfVDZvkSEiB96zGbv/Nt9MFJO5slyzAMwqTZdizn+Tcsxsh4pFIPAKl+QVfQXs6Of2zzghhExNmEJ+9fuc94FKytAVoTKsSGkOuvmT7VP1xRAEb1jpKm6DLbOllvbnjX0aNKt0nvkYcjuvRzhAcKN5tZvUCDphSA487YEq+6noeMaSOfZNNfmMbj0SYM4jnWl3PUpfiJRjdl0V9RLMQmA0W6vMNiS5a3LYTK30j2aHOmGyJqs/Vg5FquIcSdomWYmBkKsO3FUwmc/Te4t7V1RiWAHDmlhQh2JMQPfRk5Rt8a053Bish4JfVG+lK94lQUoq/65oGUUMhbYeZt8NCJqKk+1q4yIaay/Dn4nRtOm0sTeauDwLmRHj3rpchtk+/bie5LwjpRb/Ttqu70r82aV6Y2LQPAUxTeRt+2BCl/epiYPBPMaCKYegA9q4i3A7x3uFQlhPIZiPzOn/Z5iHj0XmVaiAhoMa+D2PniR6abMvGI0tRopCyK9P5PFJWCGpig==;Pq/rt3RkM2LNTRKL5IFvUQ=="
 ---
 

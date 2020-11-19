@@ -57,6 +57,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Latino voters who fled dictatorships fear election was stolen from President Trump"
+    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
+    publishedDateTime: 2020-11-19T00:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
     excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
     publishedDateTime: 2020-11-18T12:35:00Z
@@ -120,6 +136,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
+    excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."
+    publishedDateTime: 2020-11-19T00:36:00Z
+    webUrl: "https://www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fae575b1e8d5000198134c1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump fires nation's top election security official after agency said election was securely run"
+    excerpt: "Trump fires nation's top election security official after agency said election was securely run President Trump fired his administration's top election security official, Christopher Krebs, who led the Cybersecurity and Infrastructure Security Agency."
+    publishedDateTime: 2020-11-19T02:20:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-fires-nations-top-election-security-official-after-agency-said-election-was-securely-run-1/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/18/30562104-af7c-4872-b0cd-8ca68b0f28f8/thumbnail/1200x630/f2e16d7d8e451dc43d04d205c9a08252/1118-cbsnam-trumpkrebs-590470-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump just fired the US's top cybersecurity official who spent weeks striking down the president's conspiracy theories about election fraud"
     excerpt: "Chris Krebs spearheaded the DHS's robust defense of election integrity and publicly countered Trump's conspiracy theories before he was fired."

@@ -168,6 +168,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate"
+    excerpt: "Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the Senate seat that will be vacated by Kamala Harris. “He will absolutely ..."
+    publishedDateTime: 2020-11-19T01:34:00Z
+    webUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
     excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
     publishedDateTime: 2020-11-11T04:56:00Z

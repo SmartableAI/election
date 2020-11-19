@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid-19/index.html"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump administration's revisions to the naturalization exam could make the test harder for immigrants seeking citizenship"
+    excerpt: "The Trump administration is planning to make the naturalization test, which immigrants must pass to become US citizens, longer, according to a draft memo obtained by CNN, a move that could make it more difficult and marks the latest in a string of actions intended to alter the citizenship process.\n "
+    publishedDateTime: 2020-11-10T16:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZTGFCfpjnJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/trump-citizenship-naturalization-exam/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200605122812-citizenship-ceremony-0504-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mwlsEo4+SiwzoSZbq3mZNHJhzRl6RKPC5p+K32drKQdcgr+pKLwyL1StXa0tEbz/peCWCjLqNUdc7eYaG/De6VeR1JDQaaeXkt64yEojKw9Zm8VuA+Rcwm8gyUdnbvOwBmEj1Qomj1Apn1fTEE5KUiK6uxdChuAx2v576pdsLDS10y903j9p49ehMAWtff+6ICZyqDDRIBF8ApehrpNkJ73IB8ROnyY0mEzdj6YPk4qDFImQrlmAPIU5V82JEt3PFtjivzh+wh7wdhu+knq+sYFp2hOa6Kn7wZzrrDBqNaaVsQQTYULupBwIfu+k4g7+5J9pFdn+WoMHk3jnfJHlldnt+xiVxuVmXlbyaJNv9Cw=;RUszJpleUH8tkPnkKv+Lww=="
 ---
