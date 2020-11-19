@@ -703,6 +703,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's fraud accusations make no sense. The suburbs, not the cities, are why he lost."
+    excerpt: "President Donald Trump continues to carry on with his unfounded charade claiming the election was wide-scale fraud. At the heart of many of his campaign's complaints is that the big cities in the Great Lakes (Rust Belt) battleground states, such as Detroit and Philadelphia, helped to \"engineer\" a certain"
+    publishedDateTime: 2020-11-17T12:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2HjSGheax8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men."
     excerpt: "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n"
     publishedDateTime: 2020-10-23T13:34:21Z
@@ -1055,6 +1071,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump’s chances hinge on a polling screw-up way worse than 2016"
+    excerpt: "President Donald Trump still has a path to a second term. But it would take a polling debacle that would make 2016 look like a banner year. According to a series of battleground state polls ..."
+    publishedDateTime: 2020-11-01T16:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/30/trump-chances-polling-433657"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/30/trump-chances-polling-433657"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/30/trump-chances-polling-433657"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/70/81/d88b43364c9ebd2a0d1f061afb18/gettyimages-1229349105-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump won in Oklahoma."
     excerpt: "Oklahoma election results and maps by country and district. POLITICO's coverage of 2020 races for President, Senate, House, Governors and Key Ballot Measures."
     publishedDateTime: 2020-11-04T01:39:00Z
@@ -1102,6 +1134,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/04/climate/04CLI-PARISFAQ1/04CLI-PARISFAQ1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump makes baseless claims about pandemic in final stretch as Covid cases rise"
+    excerpt: "(CNN)With less than three days to go in a campaign that's been dominated by the pandemic, President Donald Trump is still making baseless statements about the pandemic, including the politically ..."
+    publishedDateTime: 2020-10-31T20:01:00Z
+    webUrl: "https://edition.cnn.com/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/donald-trump-doctors-midwest-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030194342-trump-kasparov-oped-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Take This Trump Election Day Quiz Before It’s Too Late"
     excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
@@ -1288,6 +1336,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04elections-briefing-protests/04elections-briefing-protests-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump, Choker in Chief"
+    excerpt: "Donald Trump mocks choking at a rally. (Michael Ciaglo / Getty Images) Join the Nation Festival for four days of essential conversation and commentary in the wake of the 2020 election. The Nation ..."
+    publishedDateTime: 2020-10-30T15:22:00Z
+    webUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/"
+    ampWebUrl: "https://www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/trump-election-populist-campaign/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2020/11/cover1130.jpg"
+        width: 385
+        height: 505
         isCached: true
   - title: "Jim Crow Wins Florida for Donald Trump"
     excerpt: "More than anything else, it was the Florida legislature’s naked voter suppression that tilted the state for the Republicans."

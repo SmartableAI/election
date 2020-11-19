@@ -1943,6 +1943,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
+    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 134
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -2293,6 +2307,20 @@ related:
       - url: "https://i.insider.com/5f89c9cf9e9fe40019009c9b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden & Kamala Harris address the economy..."
+    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-16T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
     excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."

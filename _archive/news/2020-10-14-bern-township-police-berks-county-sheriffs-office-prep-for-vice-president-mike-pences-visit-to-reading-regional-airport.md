@@ -263,22 +263,6 @@ related:
         width: 1272
         height: 714
         isCached: true
-  - title: "Vice President Mike Pence to hold Flagstaff rally Friday"
-    excerpt: "Just days before Election Day, Vice President Mike Pence is coming to Flagstaff for a rally at the Pulliam Airport on Friday. Doors to the event will open at 9:30 a.m. with remarks planned to ..."
-    publishedDateTime: 2020-10-29T02:01:00Z
-    webUrl: "https://azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.html"
-    ampWebUrl: "https://azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.amp.html"
-    cdnAmpWebUrl: "https://azdailysun-com.cdn.ampproject.org/c/s/azdailysun.com/news/local/vice-president-mike-pence-to-hold-flagstaff-rally-friday/article_09f93767-5028-5282-97e0-b62315e1ed61.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Sun
-      domain: azdailysun.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/4/9d/49d33f85-4324-53c8-a86a-9c3aa4eb1581/5f9a20bac8ec9.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
     publishedDateTime: 2020-10-10T08:16:00Z

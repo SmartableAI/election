@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1827
+heat: 1847
 published: true
 
 provider:
@@ -540,6 +540,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "NY doctor slams Gov. Cuomo for doubting potential coronavirus vaccine touted by Trump"
+    excerpt: "New York Gov. Andrew Cuomo casting doubt about the coronavirus vaccine because it happened under President Trump's leadership is \"disheartening\" and threatens his credibility, a doctor who has treated critically ill COVID-19 patients in New York City said Saturday."
+    publishedDateTime: 2020-11-14T17:16:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8CfoQCDC3k/vaccine-coronavirus-trump-cuomo-doctor-new-york"
+    ampWebUrl: "https://www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

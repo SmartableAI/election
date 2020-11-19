@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘He was having fun’: Lara Trump defends president’s attack on Whitmer"
-    excerpt: "Privacy Policy She also said the president’s attack on Whitmer “has nothing to do with” her attempted kidnapping. | Samuel Corum/ Lara Trump, a senior adviser to President Donald Trump’s reelection campaign,"
-    publishedDateTime: 2020-10-18T15:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/lara-trump-attack-whitmer-430060"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/57/8a/fcf09f5549d5aab4dfae0eb155d5/20201018-laratrump-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "XOQUR7kp/6Khc4FJpEX9UMLEXCXqUu6FXRtvnJhDsko7RkTknqfZTkmZRRGdz3nFspYZQw5JstdOC+r2+zkweP7bXiYIgPd+s5/tsaTFEkRa5vQIy7lAwNxCBRSCdQ5i2HlCzu06OTrIQ6fI651yPJpUQakCb8AERlnlEFoOlEuRZ8Ndid9byOUQcoE9zfjWuyU3wo/ewhbJ16bDI+uT2qHzrukulLqeHMUp+eCTJmQrjWhpeCtnO9e5fDV6ZF35v0Z+hFieLqKjLDdfOqeTiCa8yNA8tl4k9pkBNktzILVD9pees0P1sP8BG2O7QrtwMWSUhYxxYxaYnzOfq+HGDMdbFztJrpm3H01B8O3teODezhxZkUZ4oLROiZOPtI+nSFoqnderhm0u9WNsvI/w/h8MA7iYmu1s6arb0ESGBNaHtuOYZAmPpMhB2QwVeHZnlRrQjd+0CPTaOMYXJx3bI8STJFOMRguLlkPac0alHiKxr/Ai4JkalGXjjtrutBlboC/it0SMAljmb0qrHJNShQ==;aqEtfkDdeIMeEuXcLJlOUA=="
 ---

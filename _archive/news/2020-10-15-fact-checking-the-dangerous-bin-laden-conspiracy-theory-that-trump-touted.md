@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
 type: article
 quality: 174
-heat: 394
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall"
-    excerpt: "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n"
-    publishedDateTime: 2020-10-15T01:35:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+  - title: "Trump's doctor says the President has tested negative on consecutive days"
+    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
+    publishedDateTime: 2020-10-12T23:39:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
-    excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
-    publishedDateTime: 2020-10-16T15:13:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
+  - title: "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick"
+    excerpt: "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n"
+    publishedDateTime: 2020-10-05T22:22:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
-    excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
-    publishedDateTime: 2020-10-16T21:32:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
-    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
-    publishedDateTime: 2020-10-16T16:22:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,86 +79,107 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
-    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
-    publishedDateTime: 2020-10-10T15:05:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
-    excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
-    publishedDateTime: 2020-10-17T04:50:00Z
-    webUrl: "https://www.cnn.com/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+  - title: "Sacha Baron Cohen explains how he crashed Pence speech dressed as Trump"
+    excerpt: "The actor talked to the New York Times about donning a prosthetic face and body and showing up at Vice President's Mike Pence speech at a Conservative Political Action Conference last February. \"Obviously, I'm wearing a fat suit,\" Cohen told the publication."
+    publishedDateTime: 2020-10-19T15:17:00Z
+    webUrl: "https://www.cnn.com/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 129
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019083432-sacha-baron-cohen-brother-grimsby-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
-    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
-    publishedDateTime: 2020-10-15T10:12:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
+    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
+    publishedDateTime: 2020-10-10T04:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 126
+    quality: 132
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
+        width: 2500
+        height: 1724
         isCached: true
-  - title: "Trump is eyeing another corporate tax cut (for the wrong reason)"
-    excerpt: "The problem is not just the fact that Trump is eyeing yet another corporate tax cut; the problem is also why he wants it."
-    publishedDateTime: 2020-10-16T18:24:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-eyeing-another-corporate-tax-cut-wrong-reason-ncna1243751"
+  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
+    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
+    publishedDateTime: 2020-10-14T18:11:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
+    excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
+    publishedDateTime: 2020-10-06T16:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Top Trump aide Stephen Miller tests positive for Covid"
+    excerpt: "Stephen Miller, a top aide to President Donald Trump, tested positive for Covid-19 on Tuesday, according to a person familiar with the matter. Miller, a senior adviser to the president with a wide-ranging portfolio in the White House,"
+    publishedDateTime: 2020-10-06T23:22:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/stephen-miller-covid-trump-426924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420640/ss-201015-twip-09_8c7a2d780ff1265de9e5a51ce8401870.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/07/e6/9361edfb41e0bc1f840cef476cd7/ap20213465332561.jpg"
+        width: 5004
+        height: 3334
         isCached: true
-  - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
-    excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
-    publishedDateTime: 2020-10-13T23:30:00Z
-    webUrl: "https://www.thedailybeast.com/trump-touts-falconers-benghazi-blood-sacrifice-conspiracy-theory"
+  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
+    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
+    publishedDateTime: 2020-10-06T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Wynton Marsalis Says Cultural Con Jobs Began Long Before Trump"
+    excerpt: "Amid enduring the pandemic and the loss of his father, the celebrated musician talks about cultural hustles, keeping jazz alive during quarantine, and those statues in New Orleans."
+    publishedDateTime: 2020-10-11T09:36:00Z
+    webUrl: "https://www.thedailybeast.com/wynton-marsalis-says-cultural-con-jobs-began-long-before-trump"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "CNN Anchor Shreds Fox News and Trump for Peddling ‘Bogus BS’ With ‘No Accountability’"
-    excerpt: "The president and his allies push and push conspiracy theories and misinformation. They repeat them ad nauseam so that millions of viewers just end up adopting it as fact.”"
-    publishedDateTime: 2020-10-15T18:51:00Z
-    webUrl: "https://www.thedailybeast.com/cnn-anchor-brianna-keilar-shreds-fox-news-and-trump-for-peddling-bogus-bs-with-no-accountability"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "hbbYRvGZQY/YAMmyPib2T+OvC7QnI3YOBu18K3dopI/G3G6kVZJcExR63W/WTyXn8qvmb08gkpzBj43FQ6q/QfPXXU+gVJlUMVfAoNyVd3B8kuJhjzS293GTsqKbuMqSah34hyG6WNQ0mjR3T3SeSNFDhmrSMABoeb7ZxMmsp+bNSmOYIvMhqW5o2fVodoqC9R/0i3g0BgDiFsDeYzqtrdjyXQWIvSjKm7pKp9LoBPJkq+q30cU+S6Hu8YgtV5PLdXvZjyxapNvaclZIaMGsMFGp2sYtOuZklLoo2FuaCdHB+jx/tH22SAGx1VGgRuh4eg6HqeFr2O1ES1H9vzVTl/dlc02ueIHCbAea/dC1pio=;3Svye8bxR21ObGKfOHh6uA=="
 ---

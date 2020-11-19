@@ -64,22 +64,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
-    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
-    publishedDateTime: 2020-10-10T04:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
-        width: 2500
-        height: 1724
-        isCached: true
 
 secured: "0X3Q6ZoywxFB/Yw6gezs0aUjFDMr85jEsr9AjiDovbrJIEdnAv7ZV2NnIw2s8MooIn/RyEfd0uITTQiB5FnMur0WYPNplBOwlFREh7tt8NOcHnqcDiQxzqrmmINbcJKY7/Ys6CZ9n8DGo6T6VBoXneDXCV7soH49QxHm6CHAjq5+RrO39Jc4fGhic0eH/NrIfsP6XptQlSxKK0C1vVG39h6OnTMrNyvrq98cHABQmDjQQNbVU4o++orj9lVnuypHp/hg+4lmSW1xA9hUapaHgQicU1bXNxSjau9I6k9euGeQIifTxaB43+CEPMEgxuoGaLYc2QeADlRGZCvsP5gdd7YvxdGLO7utp9sgSjj7HkLQN3kxlUYhhr0fYzmec4GV1gnsmkd0z9gywjdj1QxuSl3yNSdNRvwMVHTDU8byHOpCPmQSYEFheSL3e2Cx46LcvyViM9R/vJul5E0fm/nLdpeucyF14XvAnrnjzGfBycoS7/mjNQ6LH6oqTYogNV/fX3tTB0CJoKjoZUPh6PxoDQ==;Jl6hcNV2l6u+BjdW2/QMfQ=="
 ---

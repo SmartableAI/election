@@ -46,6 +46,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
+    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
+    publishedDateTime: 2020-10-15T10:12:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "AFqwQEHRW0x8/hBojHUtcO/cHSVnFqvzW57FYE5tsXdkRxHL07odU9ovUmjxuaEP6LqNWbc/+VGhV5V2h940P1Th/+4T4wnl94IMa6jMeConiODRaeDGIVPMMnWorAplyVLyjgJp7JWZKU3PjAjg1XKzwE9+M64nW9BCOfnJWHhI2BmkE6ECFjc9N+tU5Mgl6+WjI5Z1D28BjQj7KgB/ctiXxPYlrSZQeOT7SZl+3YDtezAGw/tQSxHhMEiJ1/IbxEuBkg3YzLLjC5e32hsEmo6PuRvguuUIOrS7ugwaPoB8ch5cs8hShG/nED44hL/VHaJsb1EWWQDVRIWO2g60mfStAZTz4fzaoW6QQG9yqPs=;b5mpCVfTJrLj5Ub8d6gAHA=="
 ---

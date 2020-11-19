@@ -543,6 +543,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump scores a long-awaited coronavirus win with vaccines on the way"
+    excerpt: "President Donald Trump finally has something legitimate to take credit for in his coronavirus response: A vaccine that appears poised to reach Americans in record time.\n    \n"
+    publishedDateTime: 2020-11-17T23:50:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LDX5bfJdaIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-vaccines-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Obama saved his harshest critiques of Trump until the campaign's end"
     excerpt: "Barack Obama held back his most biting critiques of President Donald Trump in the first years of his post-presidency, hoping the lack of constant attacks would make his voice even more powerful at a time he thought it was most needed.\n    \n"
     publishedDateTime: 2020-10-28T18:52:04Z
@@ -732,6 +748,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170925081333-scott-atlas-headshot-new-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden urges Congress to pass coronavirus package with state and local government funding"
+    excerpt: "President-elect Joe Biden urged Congress to pass a coronavirus relief package that includes funding to help state and local governments with payrolls for public workers like teachers and first responders.\n    \n"
+    publishedDateTime: 2020-11-16T22:31:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CjKXZuqLk80/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/biden-economic-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116153257-04-biden-harris-economy-remarks-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1086,6 +1118,22 @@ related:
       - url: "https://static.politico.com/da/0c/28bd820a4e40a63f5f8c06ff5a3f/20201028-christopher-wray-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump and Biden battle for the Midwest as virus surges"
+    excerpt: "(CNN)Former Vice President Joe Biden and President Donald Trump moved their battle to the critical region of the Midwest on the final Friday before the election, crossing paths in Wisconsin and ..."
+    publishedDateTime: 2020-10-30T08:01:00Z
+    webUrl: "https://edition.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828000814-trump-biden-acceptance-speech-covid-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Sick of getting texts from the Biden or Trump campaigns? You're not alone"
     excerpt: "The campaigns of President Donald Trump and the Democratic presidential nominee Joe Biden didn’t respond to requests for comment on their texting strategies or on consumer complaints, which in recent days have been common on social media. Lindsay said ..."

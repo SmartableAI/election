@@ -44,6 +44,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T23:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
+    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-18T22:58:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump campaign wants recount in 2 Wisconsin counties won overwhelmingly by Biden"
+    excerpt: "The Trump campaign sent $3 million to the Wisconsin Elections Commission on Wednesday for a recount in the state's two largest, most Democratic counties, Milwaukee County and Dane County, following a 20,"
+    publishedDateTime: 2020-11-19T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wisconsin-elections-commission-receives-million-trump-campaign-expects/story?id=74277257"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-wisconsin-file-gty-jef-201118_1605719382915_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
     excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
     publishedDateTime: 2020-10-28T10:00:00Z
@@ -156,6 +204,54 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump faces approaching deadline for recount in Wisconsin"
+    excerpt: "The final Wisconsin county has submitted its canvassed vote totals to the state elections commission, starting the clock for President Donald Trump to file for a recount as he has promised supporters"
+    publishedDateTime: 2020-11-17T18:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-approaching-deadline-for-recount-in-wisconsin/2020/11/17/0079abc4-2900-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump campaign seeks a partial recount in Wisconsin"
+    excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
+    publishedDateTime: 2020-11-18T16:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541656188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1DH"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
+    excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
+    publishedDateTime: 2020-11-17T11:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-trump-campaign-would-pay-8-m-wisconsin-recount/6322184002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6322184002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6322184002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/PMJS/563b8b6b-13ba-4d95-bca6-41993bb833e6-trump_biden_mupoll.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Slovenian premier endorses Trump's reelection, joins others"
     excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
     publishedDateTime: 2020-10-25T17:57:00Z
@@ -212,6 +308,22 @@ related:
       - url: "https://thehill.com/sites/default/files/luntzfrank_getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Wisconsin recount would cost Trump campaign about $7.9 million, state officials say"
+    excerpt: "The Wisconsin Elections Commission said on Monday that a statewide vote recount would cost an estimated $7.9 million, money that President Donald Trump's campaign would have to pay in advance should it request one."
+    publishedDateTime: 2020-11-16T22:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-wisconsin-idUSKBN27W2W7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2W7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541418792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1MH"
+        width: 817
+        height: 545
         isCached: true
   - title: "The Trump campaign has requested a recount in Wisconsin. Here's how that would happen."
     excerpt: "Because the state's counties have not certified their vote totals, Mr. Trump cannot yet ask for a recount. But if Mr. Trump does eventually request one, here's how it would work: When the polls close on Election Day and all the ballots have been fed into the voting equipment,"
@@ -289,6 +401,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump pays $3 million for partial Wisconsin vote recount"
+    excerpt: "President Donald Trump has paid $3 million for a partial recount in Wisconsin but has yet to file a petition indicating which counties it is targeting, the Wisconsin Elections Commission said Wednesday."
+    publishedDateTime: 2020-11-18T21:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pays-3-million-for-partial-wisconsin-vote-recount-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount"
     excerpt: "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state."
     publishedDateTime: 2020-11-05T14:10:00Z

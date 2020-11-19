@@ -88,15 +88,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
-    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
-    publishedDateTime: 2020-10-15T18:30:00Z
-    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "3NmmRBBgFfU6pciYNgG/QYQcVMstLqfSXL5oKQfWdNm2GKRj527GuHR7jWMokTLp1VNwjiHKrSaQVIGbS3rYrB+abdOWyRKtx3LCe3YmoAxjN5qjnj+owQdB8gtUvdnmDaw2ZQVVDZJzf/tK2qrN0xP1T28RFUveZcQQqT5zKtOdLxrs9wvGNslKpi1uR7p8DJh+RiUwiB4D6Wr7PzSkRVN5JGuOPdhbALGPwDzc2dNyw66MWkI5zudHSKCLaucQb1NpUghBJsTt++6NRcUcqXZdLq1bQEXcPLf2dKDH3t2V/bagIJP7v4H2tkPasbQFWu87QFJNZRVbZysVdddXX0rqWMAXnHyLJIHqO2Rs0hs=;p8zhTYzEV5M4b9eNHkwr6g=="
 ---

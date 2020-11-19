@@ -32,166 +32,36 @@ images:
     isCached: true
 
 related:
-  - title: "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted"
-    excerpt: "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n"
-    publishedDateTime: 2020-10-15T19:28:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall"
-    excerpt: "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n"
-    publishedDateTime: 2020-10-15T01:35:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
-    excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
-    publishedDateTime: 2020-10-16T15:13:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
-    excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
-    publishedDateTime: 2020-10-16T21:32:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
-    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
-    publishedDateTime: 2020-10-16T16:22:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Trump's dishonest weekend: The President made at least 66 false or misleading claims in three days"
-    excerpt: "President Donald Trump's dishonesty is getting worse.\n    \n"
-    publishedDateTime: 2020-10-19T21:40:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K2H5w7bD2Fs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
-    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
-    publishedDateTime: 2020-10-10T15:05:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+  - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
+    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
+    publishedDateTime: 2020-10-10T21:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 128
     images:
-      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Trump flails and shows no ability to reset as some Republicans voice their concerns"
-    excerpt: "(CNN)As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of ..."
-    publishedDateTime: 2020-10-17T04:50:00Z
-    webUrl: "https://www.cnn.com/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 129
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is eyeing another corporate tax cut (for the wrong reason)"
-    excerpt: "The problem is not just the fact that Trump is eyeing yet another corporate tax cut; the problem is also why he wants it."
-    publishedDateTime: 2020-10-16T18:24:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-eyeing-another-corporate-tax-cut-wrong-reason-ncna1243751"
+  - title: "Trump's latest political theatrics described as 'insanity'"
+    excerpt: "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras."
+    publishedDateTime: 2020-10-05T12:56:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420640/ss-201015-twip-09_8c7a2d780ff1265de9e5a51ce8401870.nbcnews-fp-1200-630.jpg"
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
-    excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
-    publishedDateTime: 2020-10-13T23:30:00Z
-    webUrl: "https://www.thedailybeast.com/trump-touts-falconers-benghazi-blood-sacrifice-conspiracy-theory"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "CNN Anchor Shreds Fox News and Trump for Peddling ‘Bogus BS’ With ‘No Accountability’"
-    excerpt: "The president and his allies push and push conspiracy theories and misinformation. They repeat them ad nauseam so that millions of viewers just end up adopting it as fact.”"
-    publishedDateTime: 2020-10-15T18:51:00Z
-    webUrl: "https://www.thedailybeast.com/cnn-anchor-brianna-keilar-shreds-fox-news-and-trump-for-peddling-bogus-bs-with-no-accountability"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "7sBQA2WyLpwE3LiJjodYNb8CYzsxt9EVPLHsCOmNcOWUNPU0h+2m/06Nplt+3q/aw3ebm/hOC3/Z1x4ZezUDylwBRvbYX06PiE3fCrXiEwzcq98hQOjQqpXjmXQ+Nzso4JvY4P5Ah0nEMunyXIvt2WLMy8nA9eeoL29mC2lyiTUWaOhbtC2Ek7YkRYwW/hAlOKSf/RrhwEAtMUkQAXZEwRaDyASLCuRdtDHX1WiJvIksjEGjDjWD4UcDMVcSy6z0lwu1D0KlTa1i3RwQTLo8fbTOiyp3V9YeKTAee/v5Lbg6NO2jdB/P0otZfmxonLMo48KsgfWD5VK/1QYRD3BvpvjaYS9wuYoCILA5Q2p35mo=;SYsQXYcSCetYWUaOOmA6Rw=="
 ---
