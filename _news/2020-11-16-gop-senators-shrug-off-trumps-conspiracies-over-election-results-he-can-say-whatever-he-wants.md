@@ -45,6 +45,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "While Trump sulks, Americans get sick and die "
+    excerpt: "As the US speeds past the tragic mark of a quarter of a million Covid-19 deaths, its President is sulking in the White House over an election he lost fair and square and obstructing the effort by his soon-to-be successor, Joe Biden, to stand up a fight against the fast-worsening pandemic.\n    \n"
+    publishedDateTime: 2020-11-19T10:48:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PPf81t8OzsI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/donald-trump-coronavirus-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/donald-trump-coronavirus-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118204744-white-house-1118-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump fires director of Homeland Security agency who had rejected President's election conspiracy theories"
     excerpt: "President Donald Trump on Tuesday fired the Department of Homeland Security official who had rejected Trump's claims of widespread voter fraud.\n    \n"
     publishedDateTime: 2020-11-18T00:37:20Z
@@ -60,22 +76,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112172947-02-chris-krebs-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
-    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
-    publishedDateTime: 2020-11-16T10:03:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "How to Protect America From the Next Donald Trump"
     excerpt: "The Constitution is supposed to protect us from demagogues. Can we make it work again? Voting Donald Trump out of office was crucial, but it will not be enough to save the American experiment. Many critics have used the words “authoritarian” or “fascist” to describe the president’s mode of politics,"

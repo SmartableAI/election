@@ -848,6 +848,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump election campaign asks judge to declare him winner in Pennsylvania"
+    excerpt: "President Donald Trump's election campaign on Wednesday asked a judge to declare him the winner in Pennsylvania, saying the state's Republican-controlled legislature should select the electors that will cast votes in the U."
+    publishedDateTime: 2020-11-19T09:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idUKKBN27Y2UM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541708491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI04B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump says he will take coronavirus test before next debate with Joe Biden"
     excerpt: "President Donald Trump said Monday that he will take a coronavirus test before his next debate with Democratic presidential nominee Joe Biden later this week. Trump and Biden are set to square off Thursday for their second,"
     publishedDateTime: 2020-10-19T19:02:00Z

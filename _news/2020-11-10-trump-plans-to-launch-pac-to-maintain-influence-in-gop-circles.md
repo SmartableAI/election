@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
-    excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
-    publishedDateTime: 2020-11-16T20:59:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/merlin_160070196_ab2086c5-d116-41af-b545-332fc32dddc3-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Trump Plan to Sell Arctic Oil Leases Will Face Challenges"
     excerpt: "If lease sales happen in the final days of the Trump administration, they may face disputes in court or could be reversed by the Biden administration."

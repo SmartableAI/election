@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's team prepares for election fight to end in December"
+    excerpt: "President Donald Trump's allies are preparing for the end of his legal fight over the election results well into December, even as they continue to push him to accept a conclusion to his presidency and make post-White House plans."
+    publishedDateTime: 2020-11-19T09:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-s-team-prepares-election-fight-end-december-n1248147"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248147"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248147"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429350/201118-donald-trump-oval-office-ew-251p_b17836e9820b0d261ad22a11f69432b4.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pennsylvania Supreme Court rules Trump campaign observers had no right to stand within a specific distance during Philadelphia ballot processing"
     excerpt: "The Pennsylvania Supreme Court on Tuesday ruled 5-2 that a Trump campaign ballot processing observer in Philadelphia had no right to stand any particular distance away from election workers, and it's up to counties to decide where poll watchers can stand.\n    \n"
     publishedDateTime: 2020-11-17T23:05:51Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 5334
+heat: 5354
 published: true
 
 provider:
@@ -844,6 +844,22 @@ related:
     quality: 139
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539218779&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0BJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump election campaign asks judge to declare him winner in Pennsylvania"
+    excerpt: "President Donald Trump's election campaign on Wednesday asked a judge to declare him the winner in Pennsylvania, saying the state's Republican-controlled legislature should select the electors that will cast votes in the U."
+    publishedDateTime: 2020-11-19T09:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-lawsuit-pennsylvania-idUKKBN27Y2UM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2UM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541708491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI04B"
         width: 817
         height: 545
         isCached: true

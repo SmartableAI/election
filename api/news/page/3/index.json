@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-18-university-dean-resigns-over-statement-that-called-biden-voters-ignorant-anti-american-and-anti-christian.md",
+      "title": "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\"",
+      "excerpt": "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6325744002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002",
+      "publishedDateTime": "2020-11-17T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
       "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
       "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
@@ -70,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 510,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -168,62 +220,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-analysis-trumps-fraud-accusations-make-no-sense-the-suburbs-not-the-cities-are-why-he-lost.md",
-      "title": "Analysis: Trump's fraud accusations make no sense. The suburbs, not the cities, are why he lost.",
-      "excerpt": "President Donald Trump continues to carry on with his unfounded charade claiming the election was wide-scale fraud. At the heart of many of his campaign's complaints is that the big cities in the Great Lakes (Rust Belt) battleground states, such as Detroit and Philadelphia, helped to \"engineer\" a certain",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2HjSGheax8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2HjSGheax8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html",
-      "publishedDateTime": "2020-11-17T04:01:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1148,7 +1144,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 543,
+      "heat": 563,
       "tags": null,
       "images": [
         {

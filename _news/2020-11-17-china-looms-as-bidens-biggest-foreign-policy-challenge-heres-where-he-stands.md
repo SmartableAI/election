@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Trump is intentionally making things more difficult for Biden"
+    excerpt: "President Donald Trump continues to howl on Twitter -- between rounds of golf -- spreading the lie that he won the election he lost, and promising he will be in the White House come January.\n    \n"
+    publishedDateTime: 2020-11-19T10:45:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtFt8gG_YZs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/what-matters-november-18/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/what-matters-november-18/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118123042-01-donald-trump-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP congressman says colleagues are 'waiting' on Trump to accept election results before recognizing Biden"
     excerpt: "Rep. Adam Kinzinger on Wednesday said he believes his Republican colleagues are \"waiting\" until President Donald Trump \"comes to terms\" with the fact that he lost the presidential election before they openly recognize Joe Biden as the next president.\n    \n"
     publishedDateTime: 2020-11-18T16:41:54Z
@@ -493,6 +509,22 @@ related:
       - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Current and former Trump officials privately reach out to President-elect Biden"
+    excerpt: "The officials stressed that the outreach does not replace the national security and Covid-19 briefings the Trump administration has been refusing to provide Biden."
+    publishedDateTime: 2020-11-19T12:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/current-former-trump-officials-privately-reach-out-president-elect-biden-n1248195"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248195"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248195"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 146
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_47/3429489/201118-joe-biden-mask-ac-924p_b07b08e7b1fca839d8b7d6f469b3afde.jpg"
+        width: 2500
+        height: 1714
         isCached: true
   - title: "Highlights From the Transition: Biden Wins Arizona, Padding His Electoral College Margin Over Trump"
     excerpt: "This election was more — maybe more a referendum on who can handle Covid well than anything else. The Donald Trump approach was repudiated, the Joe Biden approach was embraced and that’s why we think there is a better chance to get a bill in the lame ..."

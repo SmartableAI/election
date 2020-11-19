@@ -281,6 +281,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President elect Biden works on transition"
+    excerpt: "Watch \"President-elect Joe Biden works on transition; met with National Security experts\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T03:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201118182418-president-elect-joe-biden-works-on-transition-met-with-national-security-experts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/18/4fbf97d0-48c3-4bc6-930f-a690a57d5a92/thumbnail/1200x630/fc2d3982a92bb7649bf810e4c66a1fa0/cbsn-fusion-joe-biden-works-on-transition-despite-continuing-to-be-blocked-by-trump-administration-thumbnail-590614-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uf7imeh5P/hFaUg237osbrEso+MmQTm+UaMVV4GDMxycxybYe1Zmy3vaConewPE6Xop3wHVY+lKLzjl/FuZZDjuImAHhQ4P/lcw8ukF0IAEZyWsUy5D/hY9cnvVncREetlcWW26EQCP6rEmImLWcxXF5jcTSfdr0w2Qpuh6SZx694jswcbPk7RCyHCI3pspyDqOO/crmZbUQACuNKykaUlMnJ5/rU5od20A5mIhOZV6j99fIT41Dr3xo4uhbAVF/33mK0VRxAUSQ+ULWL8oaurTdSt6dbEjlQwxWLxpTbbCcz4Z97STjQABIUouQTZwPcK11xOVYogPcf3rlLnAUClEpPMbW9+MUpeb6u/qSF6PUWw7aukG1zeaiISpGy6vFp8KzXAJJVQKNpD/2PtqPLkDDGzrtmh8IGAbSwYvFy2aPCWev6SMWJVdc1RTeTv6ObrcblZQEJBiod1C3/bJowjzerGMNsUAleleuj7ATEh+7P2pEXkFcfOgk8IbeazdEZAPOy8LH0Sz/1GJrEGeUBw==;Exny546Ar81x53m9K9jN0w=="
 ---

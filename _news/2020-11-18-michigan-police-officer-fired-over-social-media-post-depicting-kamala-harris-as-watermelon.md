@@ -256,6 +256,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris represents America’s ethnic future, and the need to talk about colorism now"
+    excerpt: "With Harris’ ascension to the White House, America’s caramel-skinned future is officially here. We can see it, touch it. Now it’s time to talk about it through the lens of representation."
+    publishedDateTime: 2020-11-19T04:01:00Z
+    webUrl: "https://www.sfchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    ampWebUrl: "https://www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 66
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/11/20247141/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
     excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."
     publishedDateTime: 2020-11-12T02:25:00Z

@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden approaches 80 million votes in historic victory"
+    excerpt: "President-elect Joe Biden's winning tally is approaching a record 80 million votes as Democratic bastions continue to count ballots and the 2020 election cracks turnout records. Biden has already set a record for the highest number of votes for a winning presidential candidate,"
+    publishedDateTime: 2020-11-19T12:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_889908c9c9044d42bc4d28149a2d0d48_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
     publishedDateTime: 2020-11-11T00:29:00Z

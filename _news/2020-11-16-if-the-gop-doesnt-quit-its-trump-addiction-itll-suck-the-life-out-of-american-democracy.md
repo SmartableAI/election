@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
+    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
+    publishedDateTime: 2020-11-19T12:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "zMLAqPbgx3RE5Ty6JlI8dC/qSC8q5wBf8eYc/8CsO0UncGYTMRwgUr6G2/l6Xs13jczHssD51xak5NN4FGD7XmNnBd7Gfszr4K7J+cbyWdmctNsmzdzgFMVAA4Hx/aoRCT7Cb0NTFFsWRf7yHDDbTvp6ZQhioQNTfQtGOmUmzQy/2oYac3vHHMfw5rDy/m2JA8ryLv6YkU4Nx0KzUiBuG2ZL1GnKjqBW0IGE5+iFgtC9nQl40G1m0MV2LMC2OwKHC7VaykPYHLX9I3XUk1N1Qjttu7yJmUUTnM9vKeWEkgkVUi/sHStUiBTxtvcSATYpeDeXEXHFmghmigDQl6qHTgBT/MKK+wIJw3ArMuXO9+c=;1XDlcO3uk2wt25yJXCkwOQ=="
 ---

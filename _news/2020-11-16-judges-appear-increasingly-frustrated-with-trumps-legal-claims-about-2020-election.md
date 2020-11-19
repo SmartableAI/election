@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
+    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
+    publishedDateTime: 2020-11-19T12:17:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump campaign to file lawsuit asking that Michigan election results not be certified"
     excerpt: "Republican President Donald Trump's campaign said on Tuesday it would file a lawsuit in Michigan requesting the results of the U.S. election in the state not be certified until it could be verified that votes were cast lawfully."
     publishedDateTime: 2020-11-10T23:46:00Z

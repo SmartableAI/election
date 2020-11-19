@@ -254,6 +254,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris represents America’s ethnic future, and the need to talk about colorism now"
+    excerpt: "With Harris’ ascension to the White House, America’s caramel-skinned future is officially here. We can see it, touch it. Now it’s time to talk about it through the lens of representation."
+    publishedDateTime: 2020-11-19T04:01:00Z
+    webUrl: "https://www.sfchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    ampWebUrl: "https://www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 66
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/11/20247141/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Michigan police officer fired over social media post depicting Kamala Harris as watermelon"
     excerpt: "OAKLAND COUNTY, MI – A part-time sheriff’s deputy was recently fired after posting a photo of carved watermelon meant to depict , WXYZ Detroit reports. The Facebook post included a photo of three carved pumpkins meant to represent President Donald Trump,"
     publishedDateTime: 2020-11-18T02:02:00Z
@@ -346,6 +362,6 @@ related:
       domain: charlotteobserver.com
     quality: 51
 
-secured: "3umqxyB3K/8dLq+C7QZ94zwS3TM046Zm0RG9fjKq+CIqeGNyU29rkPl15LoKKWvj2bBIrgVh+xI9eDE43D3/uUvnO17xmQkX4xKS6TkVtKC9PYCc5igbKY4AMjC0Gbmljp27JFcJqRHiNEzYkEigODSw1wGM4MLfWFS+QP45fjcgPR7XlaLkDPGkTNg0GK+gEhXq1MP2JMYnnHsanrNGSDVHOEoBVlheSWI5Shy0YOsq17PiIyBNCMslVsG3isfpTtAYVECYs/mwfhmWMDE76SxgGfcxiuuoiZ/J+UeKVdeijhTJ9shAwQvQsevtyyYmncIC4rhQ9bI9QncD2P1EqErnCVvZ6ibP5BKcnKzzoG0=;rqWQ1lpNvyxc6xiJl5A7Zg=="
+secured: "xbHZT1PSLALE8dYEzUH/6WhlDiS5rl9I8oxcIevdvsj/ligVck8gqGnd5SHzftGUEPCv6nut8pgXyjQCd+WnnZ8wumpNsrj5X4A/VnNzIgj288SASI1w5M/hTsVYwNURrGr+WlHSHjqUdGAlwCQy9z9v+9hRSJs8eVio8d+1I+LrijraLQJfXWvtee4uY/o09GcfessJpRYrymzhNhplvBVXphuv7TKnIrYG6mngaBf65VZecjWw20KP8773Keqs+p1TlOpa2iAuXswQ6sPd81Xh4WtZhJyv8qDs8xpNF7DuU93v6pdfKrRnDxu6TPVc30k2Ge07kToEbXJmOvdDh7DgCsgXEGd8wsfMTa/1cUEm9tOz/HzQOom8yYbcGqRcOnELT8QeIlLN8GFgwRBx9lNRlGHfxKSGJnlZS3VH8DoqTUgEZE1j/bH7MsxMqwecEZVo6JKXCuitcbLmUltOK0mNmR9uNoDEeT7ia39GabfgRCYD3PLsUD+mHh73Wkc5p+ljt1E5HklQbYqoLYjKwQ==;P5WgIBRBAL8G8DJWd3ZQVQ=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
+    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
+    publishedDateTime: 2020-11-19T12:17:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
     excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
     publishedDateTime: 2020-11-16T15:03:00Z

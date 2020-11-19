@@ -315,15 +315,15 @@ related:
         isCached: true
   - title: "Trump calls on a partial recount in Wisconsin..."
     excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:20:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001317-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
+    publishedDateTime: 2020-11-19T12:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119011406-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754977_1605744819.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754922_1605748469.jpg"
         width: 480
         height: 270
         isCached: true

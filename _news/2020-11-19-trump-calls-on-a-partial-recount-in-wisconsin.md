@@ -2,9 +2,9 @@
 category: news
 title: "Trump calls on a partial recount in Wisconsin..."
 excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2020-11-19T10:20:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201119001317-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
-webUrl: "https://www.cbsnews.com/live/video/20201119001317-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
+publishedDateTime: 2020-11-19T12:22:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20201119011406-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
+webUrl: "https://www.cbsnews.com/live/video/20201119011406-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754977_1605744819.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754922_1605748469.jpg"
     width: 480
     height: 270
     isCached: true
@@ -513,6 +513,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "no5Kqj+x0pg1jKOgJqVUcYvfuMKI79bk/LpcvfihHOdXkdd0OatZsdGPcI0taVSSmglMTDI7uhU7CBIXVpz6R6D8ACXCYenw1BCnE/3EiHCOhkhyWAmrz+BX7zzsyKCWViwmaj3EfauYdu92zWYTip08Z8m+0RbAq/JBcEUkK9VMJDyu5rOyxuHnxYlm4HQt2uFnpGDIv+TWzL4yQNZeFAwEB4aWgKTIG4SuJGWmoD1Wuh5UlnsIIJpeqaHHHNJGB5TIPl75McFcAAWuoPy9DLs6/USXVgu9peZe5e1XiNvasszpm2+i/MeNd7bauclfP+D4CG7nKKkW9923TGQYAD9op4h+SGyfRjGkfa3rqeU=;WB6L+o5AwozD2QgEAb3Zkg=="
+secured: "KyPUzs0NajDC8Ou03AFHdLZ+GkhFQRP+wdxQDw3YAg5FuwlQpdTexLfDrgGYmUGPb1DJq8mtsVdV5PZ4izf88EDQwo/rW86ubs60tz47Nopa7UM9nVrz6UKYQs0kjyssD1OH+dWv3v62AHt74hWYn9lqHk9vJVkKwWfu/7ybkMphZ34nvpF1Yyd4DueVbS45tHgbKxjpe60BM4y+aM7jC+nYXOU+5MRz/5xGn/nxBMTHzeRmktxGA/+DuCfBPZlEwedX+sn4N0jOxFbM/s46Jt03bezcFahJEHSG++6SyslZ7s8m4hZjC4YVMHH/Fgn7APeZBtAkIGQSR/0NT1WU3Jl0sTMCVKWyTZPLQX982dw=;CdmKhppRhekL50hl0eoTjw=="
 ---
 

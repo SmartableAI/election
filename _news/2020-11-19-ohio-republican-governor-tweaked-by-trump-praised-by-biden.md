@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republican-govern
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
 type: article
 quality: 140
-heat: 460
+heat: 480
 published: true
 
 provider:
@@ -280,6 +280,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "President elect Biden works on transition"
+    excerpt: "Watch \"President-elect Joe Biden works on transition; met with National Security experts\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T03:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201118182418-president-elect-joe-biden-works-on-transition-met-with-national-security-experts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/18/4fbf97d0-48c3-4bc6-930f-a690a57d5a92/thumbnail/1200x630/fc2d3982a92bb7649bf810e4c66a1fa0/cbsn-fusion-joe-biden-works-on-transition-despite-continuing-to-be-blocked-by-trump-administration-thumbnail-590614-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "L9JCMdDXlvoeWZvKiNi5wVbRIAxvc7HT5k6GfQZ36dpiSfe3UNtWMxE5oByCcxwdI3Y5LWva2bFLfzuJtRTP1OekXcBjtQP31nA+0wkI2FWJUxDhCR+LKuQhkqubg3T6ujg2uZR+/vxzxGJDrLsseC2EIvQYBjrHGrm5SW2nfgfPeJ+Bn2ohsPOnGW6EJUm7IjHcWUqejmz9nEbh8asIkDWQi+7SK07wBxu/fYmEraeMVY3VLyZ6t1rwqDy2GsllyvCefiW8xezcuHgC75QnSD8L69t8JCIsC7A2I3lAGiudd+8WBeAkUhWAlYajKXKj4Y+ighiQJxshLchBHhNzhsu5jfqthepcRIDaZLyg/Nvibj8C+JPx2ggDra9xl2jcH651Y1j87BdYPZVAhkGcI8DQXyKlxTndV+2x7LO4a8qx4CpRAL+R6fPxB+Hr8md4RXrGQ2FAxeeMtG7a/eL4X64o3wBCTWDhTbDwm6Bxai9Z177/OOoGNK9vWhgVvZ9omZZ4vVlMQb3+AHi18RR/8w==;meWbRJoAcSNR56HcvKo/lg=="

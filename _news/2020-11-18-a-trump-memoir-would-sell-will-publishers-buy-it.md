@@ -32,35 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge tears into Trump administration over its handling of DACA"
-    excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
-    publishedDateTime: 2020-11-18T17:46:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+  - title: "Analysis: World braced for more bombshells from furious Donald Trump after election defeat"
+    excerpt: "Both allies and enemies alike of Donald Trump are bracing themselves this week for foreign policy bombshells dropped by a furious US President lashing out over his election defeat.\n    \n"
+    publishedDateTime: 2020-11-19T12:03:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SW_4NKH77Gs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/world/donald-trump-foreign-policy-election-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/world/donald-trump-foreign-policy-election-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119043120-02-donald-trump-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration tries to push last-minute immigration limits"
+    excerpt: "With Inauguration Day nearing, there's added urgency within the Trump administration to ram through any last-minute policies that would limit immigration to the United States, according to multiple sources.\n    \n"
+    publishedDateTime: 2020-11-19T12:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tITIHbpPCgk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/immigration-trump-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/immigration-trump-transition/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027162026-daca-rally-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
-    excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
-    publishedDateTime: 2020-11-11T17:40:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925174822-trup-v-biden-immigration-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,69 +80,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon"
-    excerpt: "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n"
-    publishedDateTime: 2020-11-11T20:24:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ex-HHS chief Sebelius says Trump administration deserves credit for vaccine progress"
-    excerpt: "Kathleen Sebelius, a former United States Secretary of Health and Human Services administrator under President Barack Obama, offered some praise for the Trump administration's vaccine efforts on Monday but said the administration has shirked other critical responsibilities in mitigating the spread of"
-    publishedDateTime: 2020-11-16T16:40:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jBqJ4MQY140/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/kathleen-sebelius-operation-warp-speed-success-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116102135-kathleen-sebelius-11162020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
-    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-11-13T13:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+  - title: "Analysis: Trump's fraud accusations make no sense. The suburbs, not the cities, are why he lost."
+    excerpt: "President Donald Trump continues to carry on with his unfounded charade claiming the election was wide-scale fraud. At the heart of many of his campaign's complaints is that the big cities in the Great Lakes (Rust Belt) battleground states, such as Detroit and Philadelphia, helped to \"engineer\" a certain"
+    publishedDateTime: 2020-11-17T12:01:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c2HjSGheax8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-suburbs-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Army secretary say Wreaths Across America event will happen, reversing Arlington National Cemetery decision"
-    excerpt: "Wreaths Across America's annual wreath-laying ceremony at Arlington National Cemetery is set to go forward as planned after all.\n    \n"
-    publishedDateTime: 2020-11-17T23:15:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html"
+  - title: "The Cities Accused in Fraud Conspiracies Didn’t Cost Trump the Election"
+    excerpt: "In Pennsylvania, much of President Trump’s attention since the election has focused on Philadelphia, where he has baselessly insisted there is a “mountain of corruption.” In"
+    publishedDateTime: 2020-11-16T10:03:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/upshot/election-fraud-trump-cities.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117115006-arlington-cemetery-wreaths-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/11/16/upshot/16up-battleground/16up-battleground-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Threats and Tensions Rise as Trump and Allies Attack Elections Process"
+    excerpt: "Confrontations have escalated in swing states, with elections officials in both parties facing threats of violence, as the president and other Republicans try to subvert the country’s voting system."
+    publishedDateTime: 2020-11-19T05:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/us/politics/trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/us/politics/trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/us/politics/18michigan-vote0/04election-spotlight1-am-slide-1JC1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump has amplified voting falsehoods in over 300 tweets since election night."
     excerpt: "The president has mischaracterized the ballot counting process, falsely claimed victory and lodged baseless accusations of fraud."
@@ -160,22 +144,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
-    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
-    publishedDateTime: 2020-11-13T08:51:00Z
-    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Trump Administration Gives TikTok More Time to Reach Deal"
     excerpt: "The Chinese-owned social media app now has until Nov. 27 for a deal that would give American companies more ownership of the service."
     publishedDateTime: 2020-11-13T22:36:00Z
@@ -191,6 +159,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/13/business/13tiktok/merlin_179880495_a14aeefd-f3ca-4d7c-b5e8-8077498d7251-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Administration, in Late Push, to Sell Oil Rights in Arctic Refuge"
+    excerpt: "The lease sales would occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
+    publishedDateTime: 2020-11-16T20:59:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/merlin_160070196_ab2086c5-d116-41af-b545-332fc32dddc3-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Adam Schiff, Trump’s Chief Antagonist, Ponders Life After Trump"
     excerpt: "Having raised over $40 million this election cycle, the California Democrat is weighing his next moves, including the possibility of a Biden administration post, a Senate run or even House leadership."
