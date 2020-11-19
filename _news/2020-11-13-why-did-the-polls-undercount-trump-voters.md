@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-und
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -157,6 +157,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "BDa74tVDz7Vg2cCbjSw8uAjNZofoNmRU1c5mEZFLADKIdITOGIuqFNcFQ+Zh9yzrzi9cRi72ZI9Q3PkjsIlGgmCevadNmP3CsHn6UCW6LBZ3VOvZV/7sSTIpkT+SMV0uREx7pFXxFFOiUpR6i/xcsEJg2EWiJK2kb/GNYD8LLH2vplXtsYulJVlBD8l2OvVcMPKbL+kC+bDAwMuxmfG3Ueuldy/rhuYwzWzk2uXYTDtqpGphPZYztwHQ+Q7w5zs3B6IzBt1aq49Z/iwgZFDeV5VOdO+2m3n6Z/4ubvc3R8BrDDgyuuJLgVmhPjGWBEW95UNn0NLptT0wELX7hC+wDMTyHAU254CrYNDTZaEzm7BImoXwtWW78F2o0lyX3mjpb2g1y1tXYlSHhos4j8wxyWvNGTj1LVYD1qM54N+Rc289+UlBgzk7tHxYEYAsKC5zIt61GWAzNkWgPLEMbF5VmlDqzEgySjJ35mpeHbG4pxpBRRdE0gK8FbIAQK+AllVq9O/9Cf6v/TuF8URV2BenGQ==;Vd1HcVnOONs2CROiQiQEaA=="
 ---

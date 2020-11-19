@@ -157,6 +157,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Y0qfUi+4fDddIxvKbnNWlge2fK5hQvzR+nmRDvOMKTQO1oxPw5faTk3hzilKUK2Co8XH1H0RgSfaYxmq7AlYDTFxmOoJKKIJ+K3NpqTOxR1P2orRk5MpyXYFWZ9g38nz7W9Z1t3zgnVqS0Td6MHoU81hfgr1rthV+sVBpCU9f9ySzm/R1eHB3tcdjo4WAqSShK8YalZxnriC0sy1CCHb+o4xOubIF56hQC+0+EWhn/JW87e24VtruHgoUdH/ra//NXzC5mgmSn1s+desYWH6i7xw2oPe70JrSVNfjWS1djY9t6S8aIR1dhDqYll59e4sRUFvMAuswQOAbAKjOlmI5MH+IrDPP5KDiiGnROYAowx56n7z+WIeAbZ1r/5eFHsnXg/vkm0793fati8G/y5+FTNkNC6h1ZQmtaAGPGpyM17rrshL+zBHfzw1WfoNYx7Vma23GDpQvH0zhlnAtbrrD5bdwkDjefYeJKekqWn3sn4Uu4H99bZMO8KVVpiOBEBGmaxSHIbCJGeD+s0gh4aYYA==;czuwfm63H8KOd96+TjFC7Q=="
 ---

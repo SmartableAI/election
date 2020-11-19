@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "1Lj5P9h8NNRJsdr6AWOrbLPr+KbGZDn48Jp7X3HSwWymryllCh0ToyU/FVXxR992pbxRzZ1n6y4empQ1gDpOGdAApf533YHiOgjq7obmFBKtgCsJvmOrmNWaHuaIW2fnYX2y9t5aiziplKO8F5GcLCemkBw6JdFPbct+lJLXrxcIZ1vDKR8lKUVN0fL51nXZ0zC3lidjBtgnm1D0AfAPUjaJIaEHfGlIyJ6zjZk6HFWTQ3tta19Q0I6r1cZbrFgCDO6QB5WZY3kKn189WGXICvEw/wUWf7KnLCSxwy7IUr0WOu99B7+vT/DtZVDKYKIGBN1MTNtS4nTUE+iYpRm3SOS3Gg7wMRxZ2BEdKi4j6MlgjzdverCqDb66acHCSnlgGSq0/aL0LtRilARSRnUD7V/S2aB1vYyOzMVz6R7eCj+wuKwaPYX2zHroRi1umYerriqKiNNnB3rPvJbWCR09+GqHdFDi3Ob7meCQ87M9sUpFuYQoemMkAAzQGoT9nEMDwbDAiVhQwKo28g2zA1brVQ==;QDso70CjZfWy59FnQFYeWQ=="
 ---

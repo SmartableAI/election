@@ -123,20 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden promises to prioritize state virus funding"
-    excerpt: "President-elect Joe Biden says he's hopeful that Congressional Republicans will be more willing to send money to state governments after President Donald Trump leaves office. He's promising to make such funding a priority when he takes office."
-    publishedDateTime: 2020-11-18T21:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/18/biden-promises-prioritize-state-virus-funding/3768620001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "U.S. congressman Cedric Richmond brings practical streak to Biden White House"
     excerpt: "U.S. Representative Cedric Richmond of Louisiana brings a decade of experience in the House of Representatives, including some outreach to Republicans, to President-elect Joe Biden's administration at a time Democrats will need that skill set."
     publishedDateTime: 2020-11-18T04:08:00Z
@@ -151,6 +137,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "House Democrat says Congress has few options to help Biden's transition to power"
+    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
+    publishedDateTime: 2020-11-18T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
     excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."
     publishedDateTime: 2020-11-10T07:23:00Z
@@ -163,6 +163,6 @@ related:
       domain: businessinsider.com
     quality: 98
 
-secured: "P+ODDwpJ7/EbPjQQPxyq2IbtCplFtWdtzX7zAgGvddpZ7d02T84gCuDzxuLneJr4YQ1eqgkDh9RFcSHXrWJXOkZFqWDmSA20iLtN4UZD6XzTGLbPmf/tD7JhtDY3tflHWaCYzZ35+J39THE3FsSIxDIM/uO9xOzesBKR7p/Ewn2Ei1XhlqVBNsXNsnLDZQ/ZqA81bbD7XGGhvmcejBYXJLytVAMv8ZmJZL480aAmQ1gsPPV/Wp7D4jVmTBGU/fv36jrbkbsAqh20/JfZz9ZQpR7CGtJL+nhrpggNiWFVd6Bm2UYQLKUgjlVk2I8l8Z59R3dV0fkS4amisFBDCbhx/ZO7CLVSyPRK5/EV7H4lLeE=;8sFJ/Le/x6t7f2r4FbsLow=="
+secured: "wXAPLUoYKSLpZrc1pa2cvXdAGIZyfK3pmH8EWoep3SfHYC9g/0HXCKnbB9drJjqsbAu4pAWvMMWK6Mwi7M4EzOKX4WdeuRkK341xtWgoO6KUqSTUjqbUT+MI9J1WsJ9soWAjRftsvdDEP/LsU51ffnmSw9HwCd0K5LcIW+09S0EtydUSQqnIVegnbDCAToUh5xrmUXNUZEvkCFRk6rHEXgspoxCv2uN6ODbifx/RXqM49+lG9tGxdaY6yPnXRYcl9BZIUMd1Os/JBDAFQusHtL10E6oLpMCj1Q3bYIWENzXc/A+KS6xJNMv/DGLDW0Lw3xbg8e/NeYhekzkHS2rtZ7ebwOi8Ruaq4DBqc5AXriRH8kHCeTqKaCOxYObr1s1lnGc3QlNL9+HpQRlWsnSryJ5b2kU2FfQHcaQHPHtgTtjLjCSFFf1+smjGYACwEE++SbkJ8PsmmJYHdM5PWfgu0K7u8TkEfYT/6ZAHfyWrPWFV4XMcq4KmVPg1drJ3IUGsuiOJ9ytU6TpgB7SHpF2xIA==;5+r/KvFW71dNLpwLq+kaNg=="
 ---
 

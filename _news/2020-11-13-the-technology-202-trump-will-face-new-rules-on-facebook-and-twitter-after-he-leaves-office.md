@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-tr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
 type: article
 quality: 114
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1440
     height: 960
     isCached: true
-
-related:
-  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
-    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
-    publishedDateTime: 2020-11-13T10:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "XE1MuXrKDmXEjgLTi0C8064DbEyldZwcrbZsgh8zhHB16K2Wn+RjU2HmETskdKj2NqRY8fRPj3hNJCt4ClFFfjwQP+hjVpf2oXuzKyoB7+5uqoQi2a2hokmuuVNNuVZUS2Q1YuXjEZdUTF8T/0kDydcDYC8vZR3L1TNjNLVPcA/Oq18al2XG5o2mxpiPUXKZwf9MMVbkn+8dQJyHugYdNnB6GveHI+hboUvJjN+xZ7Xf2umuw04hk0BW8quYl9D+n6J8I58aaj2PPR6QaOI1/igWViKZLTOpyzbt/mYq56uUGTySV1VxSUOwsuNnqsBnC5nzEmFamSsvL5tsnWPGmmckS0Y3mS4ma46ZZ0DHIGiIUl9q6dXgpxTmeDpsYbz0kPY71TssrVMLGNl2xdZLpsv/1Rr/+Oo7cpAEZT/trjwkabC51CJ7K48RJxvS6jCUa8KUu6LdLmmWi9yZqwVXCqeGT9od7sbhddcottP+Rd52xrQEECQ6fw04wdKKy0w0qd2hyKVngcV72fnTV5txZQ==;3zpUupVMyAWkXzMVIJxgRA=="
 ---

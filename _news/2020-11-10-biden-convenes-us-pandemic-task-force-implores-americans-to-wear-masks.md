@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
+    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
+    publishedDateTime: 2020-11-14T02:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
+        width: 817
+        height: 545
+        isCached: true
   - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
     excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
     publishedDateTime: 2020-11-07T12:09:00Z
@@ -199,6 +215,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's won, nothing will change that: Schumer"
+    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
+    publishedDateTime: 2020-11-12T18:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden spoke about how Americans 'chose change over more of the same'"
     excerpt: "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\""
     publishedDateTime: 2020-11-07T05:00:00Z
@@ -227,6 +257,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
+    excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
+    publishedDateTime: 2020-11-14T16:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/13/look-joe-bidens-family/6272780002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
     excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
     publishedDateTime: 2020-11-12T12:51:00Z
@@ -242,6 +286,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
+    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
+    publishedDateTime: 2020-11-01T14:01:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "False video of Joe Biden viewed one million times on Twitter"
     excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
-excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
-publishedDateTime: 2020-11-18T20:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27V05A"
-webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27V05A"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+title: "Ohio Republican governor tweaked by Trump, praised by Biden"
+excerpt: "COLUMBUS, Ohio -- Republican Ohio Gov. Mike DeWine found himself on the receiving end of criticism by President Donald Trump and praise by President-Elect Joe Biden on Monday, with the result ..."
+publishedDateTime: 2020-11-19T05:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
 type: article
-quality: 135
-heat: -1
-published: false
+quality: 140
+heat: 420
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
-    width: 817
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_739f5c8c66344dc9a21b27a0ba50dd51_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Ohio Republican governor tweaked by Trump, praised by Biden"
-    excerpt: "COLUMBUS, Ohio -- Republican Ohio Gov. Mike DeWine found himself on the receiving end of criticism by President Donald Trump and praise by President-Elect Joe Biden on Monday, with the result ..."
-    publishedDateTime: 2020-11-19T05:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_739f5c8c66344dc9a21b27a0ba50dd51_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
@@ -76,6 +60,22 @@ related:
     quality: 135
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
+    excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
+    publishedDateTime: 2020-11-18T20:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN27V05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27V05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
         width: 817
         height: 545
         isCached: true
@@ -250,6 +250,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "JZkwLNL3e0X/QRcS5NT5In80j0DwyQ7V1VGRuUwJ8CMvy+XNBMHzKZiq7FgcGDwXqwvCdOPuwvLSwpsEDFdR4d6ZLXu6595xrEISYDniOdc+3jBFFSyhoxga7xBUIDvDDyChtk3/iNLA5gKqJkRMHtyyERjL7ohwch3Kqog7cpLx3zAFXYoNWasoBplTjjuOch8u9fcAW8KtvF3aLOGzAWgrIC+cleokytf8y76BXAO0su5QR3oY1N5YX92wvJ/IlV5I39WJRgjqkJ9XHZNb2T2Hd/cm7cQD8JbCJO3ihIU7Hac/V9pMUSsfGI5y50wukMcgCyKJGKxvsT51eqnOM7zSrtcreCIRlgL8tzX5qOY=;IR5G6GHyI50WNSUSDc8vBQ=="
+secured: "92lRnFAh0TzrbAdPdh59iVEGzPzcQYCy8W7V7Tnt0mVsjvNd9kOuzRq+hu81J4FBdNf4mLo5okQkEaarfNjGz5509aXw3wn/TTeomDHgC3mqjLhu77sh3VU+RDMxNjhCz5jfuBiBGy5tSqNPssk+yULIVqGZRqGaUtH1ChokL46Ym6krssMDX7LkHKAt9It0rkVUWVWbATj9pQed2YhH76fzfCnk7k9kWHtviMB8/ZJIfXjck+EphG+tVdxyVJXayFW8vzMIjC7w53p98JODhbQEjUPZqQVysHUAgQ8CyadCYIg327u8fYNLCWR8gccLYSAuArpxKp3Fze8BhU/LQi0gTBfwW2BjXhG/qmIb0Z0=;/0Stpz7hAxCisgoBurRHWQ=="
 ---
 

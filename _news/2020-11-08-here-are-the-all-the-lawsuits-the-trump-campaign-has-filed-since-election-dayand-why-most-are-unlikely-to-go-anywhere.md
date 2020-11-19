@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
+    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
+    publishedDateTime: 2020-11-10T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 994
+        isCached: true
 
 secured: "eGoP5aRT9xAZ6TDQmjDWkiFCotEP70Wx6tfwUi1gd7rzI8+hlim6LCOiQPZMpX0W19wHINtLJRkEjYf4b+uxfkDq2GLgdnPXuS1welUghZObbwvaz/5MZh1f74vRiadc5PhLb6XhSk6oY6tuq7byTg3zWxLAZ1SxlMQOVD65QHhiF9u1HSHkUOEgh4lM8awMha20jghO1w4XtNS2ISwieKdr5CkAEWCh0hsxcM3FrDH+13wLkJRs8MGFgR9JvwrrQ7Kab8GQMUkJ0nFC+BFqdp4KVY5mET1XmKP3RGdYdjlm5kPHUCL63raYJWdEk7t3590q0twwMwfuqtvWoBX52xnVCxZcCkhe58gfv15ckHs8je/kBaU1kGeSkeT1yPWpJCwglEY6smYF3T+Ah336gAkFmyqP8Zh64nQl7PQO9GonVkCupucwC7LPwqQX7MbBWztygq3jtwd1D1RLDj2w4IuumqOGKW+3j8SKOKiArWy/qJKW3haS55NQopDnkYzePXNW3bI0yjlJZ+ArGIpqpQ==;0ASRXaewZuai/DOK8ZsIHg=="
 ---
