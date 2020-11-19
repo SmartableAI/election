@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "FAA Notice to Airmen could mean Vice President Pence actually coming here this time"
+    excerpt: "A similar alert issued two weeks ago was eventually cancelled without a Vice President Mike Pence visit to SWFL and Sanibel Island materializing."
+    publishedDateTime: 2020-11-19T17:09:00Z
+    webUrl: "https://www.news-press.com/story/news/2020/11/19/air-travel-notice-could-mean-vice-president-pence-make-swfl-visit/3777893001/"
+    ampWebUrl: "https://amp.news-press.com/amp/3777893001"
+    cdnAmpWebUrl: "https://amp-news--press-com.cdn.ampproject.org/c/s/amp.news-press.com/amp/3777893001"
+    type: article
+    provider:
+      name: News-Press
+      domain: news-press.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/13/PFTM/e21b9562-62b0-4bf4-9348-0675a84879f0-IMG_0187.JPG?auto=webp&crop=745,419,x62,y356&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "COMMENTARY: Is this Mike Pence's moment?"
     excerpt: "The recent surge in Covid-19 cases is filling up hospitals across the United States. The problem is expected to get much worse, as hospitalizations usually increase several days after a"
     publishedDateTime: 2020-11-13T21:15:00Z

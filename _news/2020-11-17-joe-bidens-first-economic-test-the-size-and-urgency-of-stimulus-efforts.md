@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plans for mask mandates nationwide will be an early test of his power of persuasion"
+    excerpt: "President-elect Joe Biden's team is discussing ways to persuade resistant Republican governors to get on board with mandating masks to stop the spread of Covid-19, according to sources familiar with those conversations.\n    \n"
+    publishedDateTime: 2020-11-19T15:56:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DW5FH7gl-ng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: What Joe Biden's choice for chief of staff says about his plans for the presidency"
     excerpt: "RESOLVED: The single most important personnel decision a newly elected president makes is who will serve as their chief of staff.\n    \n"
     publishedDateTime: 2020-11-12T15:11:31Z

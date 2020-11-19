@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's plans for mask mandates nationwide will be an early test of his power of persuasion"
+    excerpt: "President-elect Joe Biden's team is discussing ways to persuade resistant Republican governors to get on board with mandating masks to stop the spread of Covid-19, according to sources familiar with those conversations.\n    \n"
+    publishedDateTime: 2020-11-19T15:56:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DW5FH7gl-ng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump allies clash with top intelligence officials in quest to declassify more Russia documents "
     excerpt: "As President Donald Trump and his allies continue to publicly dispute the outcome of the election, they are also quietly seeking to discredit the Russia investigation that has cast a dark cloud over the administration for more than four years.\n    \n"
     publishedDateTime: 2020-11-11T23:50:57Z

@@ -426,6 +426,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Harris have yet to say whether they will grant requested BLM meeting"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have yet to publicly say whether they will grant a meeting with Black Lives Matter co-founder Patrisse Cullors. "
+    publishedDateTime: 2020-11-19T18:38:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0_dzBjCXJ1g/biden-harris-have-yet-to-say-whether-they-will-grant-requested-blm-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-have-yet-to-say-whether-they-will-grant-requested-blm-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-have-yet-to-say-whether-they-will-grant-requested-blm-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2ec13b9-a24c-4ffc-b172-ce540d6a44a1/7a1e1fa7-eabc-48f1-b523-e509ae14e56d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Election forecasts give Biden overwhelming odds to beat Trump, as some see 2016 déjà vu"
     excerpt: "With experts at FiveThirtyEight, The Economist and Politico all favoring Democratic nominee Joe Biden to win the 2020 election, some Democrats are having flashbacks to 2016 when President Trump defied the odds to beat Hillary Clinton."
     publishedDateTime: 2020-11-02T19:40:48Z

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.md",
+      "title": "Biden was asked about canceling student loan debt. Progressives saw an opening.",
+      "excerpt": "The question the reporter asked  Joseph R. Biden Jr. on Monday was simple enough: Did canceling student-loan debt figure into his plans for the economy and would he take executive action to do it? “It does figure in my plan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html",
+      "publishedDateTime": "2020-11-19T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-georgia-recount-not-likely-to-change-biden-victory-state-official.md",
       "title": "Georgia recount not likely to change Biden victory: state official",
       "excerpt": "A recount being conducted by Georgia is not likely to change the result that gave Democrat Joe Biden a victory in the southern state in the Nov. 3 U.S. presidential election, Georgia Secretary of State Brad Raffensperger told CNN on Wednesday.",
@@ -280,7 +337,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 716,
+      "heat": 736,
       "tags": null,
       "images": [
         {
@@ -593,7 +650,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 368,
+      "heat": 408,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1228,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 15541,
+      "heat": 15561,
       "tags": null,
       "images": [
         {
@@ -1514,58 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-secret-service-to-dispatch-extra-protection-squad-to-joe-bidens-campaign-headquarters-in-delaware.md",
-      "title": "Secret Service to dispatch extra protection squad to Joe Biden's campaign headquarters in Delaware",
-      "excerpt": "The extra security will be assigned to the Wilmington Convention Center, Delaware, where the Biden campaign is headquartered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
-      "originalUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa52beb1df1d50018219397?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-overtakes-trump-secret-service-sends-more-agents-protect-him-2020-11?amp",
-      "publishedDateTime": "2020-11-06T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

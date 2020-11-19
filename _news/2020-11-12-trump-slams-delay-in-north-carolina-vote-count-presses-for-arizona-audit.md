@@ -31,101 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Massive lines at Trump rally in battleground state North Carolina"
-    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
-    publishedDateTime: 2020-11-01T20:56:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+  - title: "Giuliani presses Trump election challenge case in fiery news conference with legal team"
+    excerpt: "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country."
+    publishedDateTime: 2020-11-19T18:31:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
+    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
+    publishedDateTime: 2020-11-19T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
-    excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
-    publishedDateTime: 2020-11-06T15:18:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liGTPvgPESY/trump-north-carolina-lumbee-robeson-native-american"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20298688186744.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
-    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
-    publishedDateTime: 2020-10-28T22:38:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
-    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
-    publishedDateTime: 2020-11-01T18:33:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+  - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
+    excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
+    publishedDateTime: 2020-11-18T14:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
-    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
-    publishedDateTime: 2020-11-04T07:51:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
+    quality: 162
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
-    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
-    publishedDateTime: 2020-11-04T02:58:00Z
-    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
-    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
+    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
+    publishedDateTime: 2020-11-13T02:04:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://images.wsj.net/im-258970/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
+    excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
+    publishedDateTime: 2020-11-17T20:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 127
+    images:
+      - url: "https://images.wsj.net/im-261242?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "aaI5xsE+bD2HhcjntgDqulFGTlk4TQdUWdMR6r0NwDDdQw0aoAh+s5sH8p2v/tZThm7WrZFSSWj0pY0PS6WrZdP0dWlLgva1hnDGXYsqGeKgMtbjRggX9PFEmA/WwMjB1SZl4kq62C/l7Las30vRmjRIEJJSIllY5vdykVp7Pwuhuf8eYImkTFJxGBermZ6jdb3ik/zo20JaBke6tNHWHLuuJ87gGKZsXLFIdQXMYBqd6bFeMWQLlej+uCTvMaHTwhJ4usO72fny4nz2wLicxTCabRjKnpCYXgqweDhcHI9MPlHVOHIR1UtGdkry88Utpq8vRf7+VmG48HOlqUG2Ii7J+GRyJFsJs385OOeMTKE=;yjgxfIc5dmoIpe98WRiLug=="

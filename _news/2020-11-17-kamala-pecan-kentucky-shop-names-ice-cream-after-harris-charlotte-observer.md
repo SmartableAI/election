@@ -346,20 +346,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
-    excerpt: "Harris returned to the Senate for the first time since the election on Tuesday to vote \"no\" on President Donald Trump's nomination of Judy Shelton to the Federal Reserve Board of Governors, and Graham offered Harris a seemingly congratulatory fist bump and pat on the back on his way into the chamber."
-    publishedDateTime: 2020-11-18T17:49:00Z
-    webUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "YSClEU8R3hx/TvBnDgbT+vkl4odxptMpXmUvHaPW9tpNNe01USfiFfiuO1QtXvj0sb3edem2HTbqY5yru8lFFe26K47LBmZTcnFSJpQC+JW63SBnz2ozQyILbU8vhd3l/hg0cDdpxagTCIq/L/rj4Rr0y7j8+4vhNdj6B5HDtQwN4dJ5RJki835Jt99xs/XgkDGnr+pO9U0TfSkdaTscd8Ntk2BgANEBysmVIzA7TXwMGYFTGkmGsB5Ay/xvtq8DSxYbKybi0EPvsszsZJ3fSQnekwMdx6sKCqb8iIyqrLC5a9ph6XUPH2o+KTX0EFSW356PcD1oSk7wCCJHJs+kgKPPCla25ERD3ik6NXuVCO8=;Sx0YQyHiqC2jFHlzU1CwvQ=="
 ---

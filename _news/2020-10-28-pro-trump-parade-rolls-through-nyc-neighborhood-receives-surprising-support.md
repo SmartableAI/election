@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
-    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
-    publishedDateTime: 2020-11-12T14:14:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
     excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
     publishedDateTime: 2020-11-06T15:18:28Z

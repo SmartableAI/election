@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54941571"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571"
 type: article
 quality: 123
-heat: 563
+heat: 543
 published: true
 
 provider:
@@ -339,20 +339,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/15/51/20240964/5/375x250.jpg"
         width: 375
         height: 249
-        isCached: true
-  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
-    excerpt: "Harris returned to the Senate for the first time since the election on Tuesday to vote \"no\" on President Donald Trump's nomination of Judy Shelton to the Federal Reserve Board of Governors, and Graham offered Harris a seemingly congratulatory fist bump and pat on the back on his way into the chamber."
-    publishedDateTime: 2020-11-18T17:49:00Z
-    webUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris | Charlotte Observer"
     excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."

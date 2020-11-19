@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Avlon: The real culpability belongs to Republican Trump allies"
+    excerpt: "CNN's John Avlon looks at President Trump's legal cases and false claims, and how he is trying to overturn the 2020 presidential election.\n    \n"
+    publishedDateTime: 2020-11-19T13:29:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cBF6IFnfA9s/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/19/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/19/trump-2020-election-overturn-courts-reality-check-avlon-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119081145-john-avlon-reality-check-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rudy Giuliani's day in a Pennsylvania courtroom representing Donald Trump"
     excerpt: "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n"
     publishedDateTime: 2020-11-18T03:32:46Z
@@ -303,6 +319,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "How to Persuade Trump to Concede"
+    excerpt: "It seems to me that President Trump’s continued refusal to concede defeat is less a sinister plot to cling to power and more a determination to somehow declare victory even in defeat. If the recent vaccine news holds true,"
+    publishedDateTime: 2020-11-19T15:47:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15dc-trump/15dc-trump-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "BWsnUDak0jSQtaM3+Eqiq+roHxhdqnTfDoKVTnjXWp/HzffPwHiB0uZFFap28vyRo/XusUtOF5hQ5LRs9aXbwqKL98FFS9t/rqQYO1A1ENC5ltxipgeCMikjnu3CkUu0WJFazNXuSxSrBgFpBryBurdXMeypzTRgxf5WaMOlcoFXQXAaKxG3m0LrAnnkkGYkgENS20VcIsDewmjyY96D5j3Khv1SDwMNhsxURh22XK6WCLFZrNcMFSpPsRyPOR5T1ySKh7JHaHCz+TNOaYSdIEs6QR42XHZmApYHVGdRzn456DALnHB7GjxGvdEIZNen/TQHLIIrJZVjBbWsDkFU4jYm0ykBWh5wtg6/I/NSajI=;jFX8CQyL/hztnjwgTFSzpg=="

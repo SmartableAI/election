@@ -1,0 +1,53 @@
+---
+category: news
+title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
+excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
+publishedDateTime: 2020-11-19T15:25:17Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q8vJlGMOEKc/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q8vJlGMOEKc/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position"
+ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
+type: article
+quality: 159
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "Xavier Becerra, possible Biden AG pick, once said illegal immigration should be decriminalized"
+    excerpt: "California Attorney General Xavier Becerra, who Fox News is told is being considered to serve as attorney general in the upcoming Biden administration, once said that illegal immigration should be decriminalized -- one of a number of radical stances he has taken on the subject."
+    publishedDateTime: 2020-11-18T16:21:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-NQdNI0lWI8/xavier-becerra-biden-ag-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "3M30/JxSAkUT2fuAgETZDN9hwkbumSgklOwlvz3Es6n6WnbJO9IXEMLVRnwNyvS79nDU+MX1Fkchk4vUCJ+QdMphjuN3yvTDmjAj2GZp33krjblOJDoQj0aZHGq15HzdERTA92Peio5kNAa89FSPoQCh6xsNwM3sVQAmm7FZcAekihJUbFs9/3NXuf+RzMEqTJWrri9DMkA2wenTlz/ORitiPPfP02Nlte9BZJ4a7H/gHy6iaYjph8OC/GKWxRaCdTGAgsJaMdHpl3H1ZLbCzZMixBKDJd6vj1nuEFTlnugAejW+Sg+t48fZD4+Y8hpefjZhC1WQN4CYV52mrWD12+GXHq89Np2Y5WzE5eAK9RM=;EZLRc95FdrBQE7yyz90+vA=="
+---
+

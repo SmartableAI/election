@@ -32,49 +32,81 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
-    excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
-    publishedDateTime: 2020-11-13T21:37:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/reJAI5f7Rug/pennsylvania-law-firm-lincoln-project-withdraws-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-law-firm-lincoln-project-withdraws-trump.amp"
+  - title: "Giuliani presses Trump election challenge case in fiery news conference with legal team"
+    excerpt: "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country."
+    publishedDateTime: 2020-11-19T18:31:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 182
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-6.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
-    excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
-    publishedDateTime: 2020-11-16T15:28:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
+    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
+    publishedDateTime: 2020-11-19T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Campaign Gets Positive Ruling in Challenge to Pennsylvania Vote-Count Process"
-    excerpt: "In a win for one of the Trump campaign's recent legal challenges, a Pennsylvania appeals court ruled Thursday that poll observers must be allowed to closely observe the vote-counting process. The Trum"
-    publishedDateTime: 2020-11-05T16:21:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/ZhdOMn7amAYher9H1Hgp"
+  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
+    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
+    publishedDateTime: 2020-11-12T14:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
+    excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
+    publishedDateTime: 2020-11-18T14:37:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight"
+    ampWebUrl: "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
+    excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
+    publishedDateTime: 2020-11-17T20:30:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 109
+    quality: 127
     images:
-      - url: "https://images.wsj.net/im-255469?size=1.5"
+      - url: "https://images.wsj.net/im-261242?size=1.5"
         width: 1280
         height: 853
         isCached: true

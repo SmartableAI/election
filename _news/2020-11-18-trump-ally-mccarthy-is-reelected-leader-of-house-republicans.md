@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign drops Michigan lawsuit over certification of election results"
+    excerpt: "The Trump campaign claims the Wayne County Board of Canvassers declined to certify the results even though it did just that earlier this week."
+    publishedDateTime: 2020-11-19T16:24:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-campaign-drops-election-lawsuit-michigan-certification/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-drops-election-lawsuit-michigan-certification/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-drops-election-lawsuit-michigan-certification/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 137
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/19/095ffa5f-bcc4-4534-82fd-0a3134ba6544/thumbnail/1200x630/813acf16f06e68e73836f7ba8dab4236/gettyimages-1229494004.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Election 2020: A look at Trump campaign election lawsuits and where they stand"
     excerpt: "With votes still being counted in the 2020 election, here's a look at where the Trump campaign has filed lawsuits over ballot issues."
     publishedDateTime: 2020-11-06T20:40:00Z
@@ -255,6 +271,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump is trying to stop local officials in key swing states from certifying election results in a last-ditch effort to block Biden"
+    excerpt: "Two Republican canvassers in Wayne County, Michigan, are trying to rescind their votes to certify election results after Trump reached out to them."
+    publishedDateTime: 2020-11-19T15:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb6856b50e71a0011556273?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
     excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
     publishedDateTime: 2020-11-15T17:29:00Z
@@ -375,6 +407,22 @@ related:
       - url: "https://i.insider.com/5fa777b71df1d5001821977a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump called Republican election official in Wayne County, Michigan, who initially voted against certifying results"
+    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
+    publishedDateTime: 2020-11-19T16:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3777773001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3777773001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777773001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump fires nation's top election security official who disputed fraud claims"
     excerpt: "Trump fires nation's top election security official who disputed fraud claims President Trump has fired his top cybersecurity official, Christopher Krebs, who headed the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency."

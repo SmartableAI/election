@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Options dwindling, Trump faces likely setback in Georgia recount"
-excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
-publishedDateTime: 2020-11-19T12:00:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
-webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+publishedDateTime: 2020-11-19T15:30:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541768713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI048"
-    width: 816
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+    width: 812
     height: 545
     isCached: true
 
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
+    publishedDateTime: 2020-11-19T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
         isCached: true
   - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
     excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
@@ -233,6 +249,6 @@ related:
         height: 563
         isCached: true
 
-secured: "MpIjO1U10yzSG1Ri6jsYaDisd+tvr65q9pwbiXq98SNLjf/Lu5+2IkdwTZWUqibK6QDAcLqO1y2m/ccYiaEjGcgCcyHcfu2BxncAVmFCi95wTXF3dDEUGCY5cxMU81OXjaiLzBv0nsUOx23v3wMI9Rl4mfys1oJb/DlBpPKel47ho1amu3ajLqLJe5jO7ltAvGxDOKzZ1EPQ4bwsi9rw2Q0GUhz8IBAtypFBNsjY5AG72yGI1uvK1v1sf1E5m76w+CaruRfB5aeCPugfX6x81T8oB7UlhUMHWTjwqgQsqeDt2RpRjGhIbugE5n4//1m2Xyt9csTayk4awiWcSOMdg7yrCVP+4NoURA3edG0g21E=;KyyxMVyvRTdoBNucqMaESw=="
+secured: "MPUtNHPHkV/wZ8Ev5Zq3iB1TjwD3+DEYYYATBrz3ns8M3gVo90oGPHtJoRL0ZC768s5KtgFWWUcFbVStNg26P0EYcBFbc/t+cSXsTVBwfBHPRe4pThnbeK7HmEbf6n25Awc9w01nNj73dUsdLBRb+UvL8Vw26va85900RIMIntznTqGz0tUFSBCClQireOhdNu2YL2FuStb8hKMrH+Sob11YBcV1GJMB4PaLNJxQNVWVxqlzAE/FynkIaD6Sl3Xnu80/yZd3ogv4Rwy9Thmn3L8RNunFOeboOu1MBiF50ruzHRJfnikgDh8GclB98eTQ+5Z0DYFp4XeWfefvcYMcIA7k/UPDW3vduFrqVaA7EpQ=;Kcy5u2agDgxTmKDXSD7y4Q=="
 ---
 

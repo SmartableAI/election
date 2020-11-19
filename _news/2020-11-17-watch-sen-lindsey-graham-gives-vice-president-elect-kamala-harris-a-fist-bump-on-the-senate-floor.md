@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "California Democrats face a decision: Do they go for Kamala Harris’ Senate seat?"
+    excerpt: "No matter who succeeds Kamala Harris in the Senate, there are going to be a lot of disappointed politicians. That’s to say nothing of various interest groups and political factions who are pushing for one person or another. Or, one type of person or another."
+    publishedDateTime: 2020-11-19T15:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GB89rS5KFGw/california-democrats-decision-kamala-harris-senate-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
     excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
     publishedDateTime: 2020-11-17T17:44:26Z
