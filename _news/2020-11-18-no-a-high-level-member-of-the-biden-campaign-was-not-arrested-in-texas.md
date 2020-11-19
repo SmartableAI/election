@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former GSA administrator: 'It's clear' we should recognize Biden as the President-elect"
+    excerpt: "The former head of the General Services Administration during the 2000 election said Thursday that he would ascertain the 2020 results and begin the formal transition to a Joe Biden presidency, which the current administrator has yet to do.\n    \n"
+    publishedDateTime: 2020-11-19T14:44:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzxcA_bpRM0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119081000-former-gsa-administrator-david-barram-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: What Joe Biden's choice for chief of staff says about his plans for the presidency"
     excerpt: "RESOLVED: The single most important personnel decision a newly elected president makes is who will serve as their chief of staff.\n    \n"
     publishedDateTime: 2020-11-12T15:11:31Z
@@ -541,6 +557,22 @@ related:
     quality: 136
     images:
       - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-AZBiden/04elections-briefing-AZBiden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Presidential Transition Live Updates: Tensions Rise as Trump and Allies Attack the Election Process"
+    excerpt: "The assault on the voting system takes on intensity as deadlines for certifying results in several states approach. The Trump administration plans three executions before President-elect Joe Biden, who opposes the death penalty,"
+    publishedDateTime: 2020-11-19T14:40:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/19/us/joe-biden-trump-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/19/us/joe-biden-trump-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/19/us/joe-biden-trump-updates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 136
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/19transition-brief-setup2/19transition-brief-setup2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Options dwindling, Trump faces likely setback in Georgia recount"
-excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
 publishedDateTime: 2020-11-19T12:00:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
-webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
-    width: 817
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541768713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI048"
+    width: 816
     height: 545
     isCached: true
 
@@ -233,6 +233,6 @@ related:
         height: 563
         isCached: true
 
-secured: "+c+u839UaBJfjypl7CIHuxL0xOAEIRMRXYfpTv6UVw5Mk3nlqszfKRYr8oO+iz+aBH0xX9/fkHYHvjGlJX411loBiStXZymlmxLDmCpHCzZ4t23UQZt18M1p6l/mjka7etqQk/E3eIN0KN+rqLVcECZ5BJf87u1JZPy3GHnlDjQpcgCcyxqrQUJXJpJwS8qVxZZbttwm7lRdHXprJph1ZWZGW+0X2hlfXTezELDK0xYWsLYmQe4enCJ9bJD4DlKYy4HVQAqCZK/1Eve8e1Yv1vACA8gCXjTwc8SJmF2BIx0y3gHoHMethzhc5l7jsuAZfUrx1viS2L4lJMENifkvHNFSRGQk6v+mKt5jJ0l361E=;IBIOAie2P8gmVo7NQ1Jx6w=="
+secured: "MpIjO1U10yzSG1Ri6jsYaDisd+tvr65q9pwbiXq98SNLjf/Lu5+2IkdwTZWUqibK6QDAcLqO1y2m/ccYiaEjGcgCcyHcfu2BxncAVmFCi95wTXF3dDEUGCY5cxMU81OXjaiLzBv0nsUOx23v3wMI9Rl4mfys1oJb/DlBpPKel47ho1amu3ajLqLJe5jO7ltAvGxDOKzZ1EPQ4bwsi9rw2Q0GUhz8IBAtypFBNsjY5AG72yGI1uvK1v1sf1E5m76w+CaruRfB5aeCPugfX6x81T8oB7UlhUMHWTjwqgQsqeDt2RpRjGhIbugE5n4//1m2Xyt9csTayk4awiWcSOMdg7yrCVP+4NoURA3edG0g21E=;KyyxMVyvRTdoBNucqMaESw=="
 ---
 

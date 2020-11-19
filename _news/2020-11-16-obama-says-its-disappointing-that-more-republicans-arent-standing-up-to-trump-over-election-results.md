@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republican lawyers to hold news conference, Trump says"
+    excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
+    publishedDateTime: 2020-11-19T13:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump/republican-lawyers-to-hold-news-conference-trump-says-idUSKBN27Z1UB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z1UB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z1UB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541768039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI119"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
     publishedDateTime: 2020-11-06T08:03:00Z

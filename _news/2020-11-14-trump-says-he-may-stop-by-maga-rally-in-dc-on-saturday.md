@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/9dcfa087-image.png?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "House Republicans call for hearings into violence against Trump supporters at MAGA march"
+    excerpt: "The top Republicans on the House Oversight Committee are demanding Chairwoman Carolyn Maloney hold a hearing to examine the violence against supporters of President Trump after the “Million MAGA March” in Washington, D.C. last weekend."
+    publishedDateTime: 2020-11-19T13:30:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_NYl16MKvFw/republicans-hearings-violence-against-trump-supporters-maga-march"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "hKLqgBIrgmaWLuIwMK/4msF+IOdk90t424qApaHCIGZnsUFhCnXqRE/3T7cBMHdPs5FWqFLDzLjGRm5ZBsOFgpnCHRzXm/6J/NuDzQ2/SvpLOH8UAFPTnfJncYoJFtiv49MPmV8LjhK47upqHCbTyxI9qOpUE93DBGFZV5Tn8AR9Xpx7ojX32jpU8ZTu7745UhhwBNf5ATEGgb2Q1Aceb3QlmdqG45hMya2PhGsY+KL4gdTx7fIxfLsG/yP4v2qM8gdzWnIE81rMTB4CwS0ZG6UDPbts7aMQCaWK1kbWfPH+KfbGjiAeswBbBUzPHkv7mQ0LuNjCFl0rmdTikO2/Q60LXDP3QitGEAqw0yHE7jQ=;EWz1Kx9tuF1OX3ii5RQRkQ=="

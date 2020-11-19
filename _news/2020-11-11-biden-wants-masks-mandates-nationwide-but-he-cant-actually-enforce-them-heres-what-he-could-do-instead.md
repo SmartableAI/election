@@ -8794,6 +8794,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Expert says Biden transition team losing time to prepare as Trump administration delays process"
+    excerpt: "President-elect Joe Biden is calling on the federal government's General Services Administration to authorize his presidential transition despite pushback from President Trump. Without this authorization,"
+    publishedDateTime: 2020-11-19T14:57:00Z
+    webUrl: "https://www.cbsnews.com/video/expert-says-biden-transition-team-losing-time-to-prepare-as-trump-administration-delays-process/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/19/f072b1b8-672f-40c7-b429-0ec1608f94f5/thumbnail/1200x630/6ed7f3337546bc6e66e209749ced6e97/cbsn-fusion-expert-says-biden-transition-team-losing-time-to-prepare-as-trump-administration-delays-process-thumbnail-591158-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff"
     excerpt: "WASHINGTON -- AP source: President-elect Joe Biden chooses longtime adviser Ron Klain to reprise role as his chief of staff."
     publishedDateTime: 2020-11-12T04:37:00Z

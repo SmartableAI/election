@@ -62,6 +62,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "AOC blasts Trump adviser for suggesting more coronavirus relief is not needed: 'People need help'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez took aim at one of President Trump's top economic advisers for suggesting that another coronavirus relief package is not necessary, arguing that \"people need help\" as COVID-19 cases surge. "
+    publishedDateTime: 2020-11-19T14:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrVNd2AUq_o/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/aoc-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "6ZiNVak6tZcucUMDt4BAEvpKFrOZ+KNm14kxA9lHF6L1Ll3w8u01bVXwDymKv4WqD+qFLNHT50xzr4++taLY1w9t+2vL3A495gaQt1ynPrQ83MQlqm3npAuYJ3Z/b6OALSH4gWbCwCgvkwkij1goOreU/QMJ9TqJbQBogQMonsObBx0KNFk7DVh2pyE7XaiNpxqazW995FrO6UaQU1npou6ZlGwAmSYuLEPvEfc+4w69yAvsQxj4Br+1B7SejAk0ul2s/XD1GNWLlJd+2eiFhMrBu6mqnLZBupNp/vejbkYrca7eGVj8OaWaynaAECIpK885omIge4cIXPQEeI2G9JxYuc8c1pt1xuVEThDVxD0=;Ttjxu3QA18ShoInZJP/L6A=="
 ---

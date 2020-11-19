@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ohio-republican-govern
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ohio-republican-governor-tweaked-trump-praised-biden-74242573"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -294,6 +294,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/18/4fbf97d0-48c3-4bc6-930f-a690a57d5a92/thumbnail/1200x630/fc2d3982a92bb7649bf810e4c66a1fa0/cbsn-fusion-joe-biden-works-on-transition-despite-continuing-to-be-blocked-by-trump-administration-thumbnail-590614-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
+    excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
+    publishedDateTime: 2020-11-19T14:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "L9JCMdDXlvoeWZvKiNi5wVbRIAxvc7HT5k6GfQZ36dpiSfe3UNtWMxE5oByCcxwdI3Y5LWva2bFLfzuJtRTP1OekXcBjtQP31nA+0wkI2FWJUxDhCR+LKuQhkqubg3T6ujg2uZR+/vxzxGJDrLsseC2EIvQYBjrHGrm5SW2nfgfPeJ+Bn2ohsPOnGW6EJUm7IjHcWUqejmz9nEbh8asIkDWQi+7SK07wBxu/fYmEraeMVY3VLyZ6t1rwqDy2GsllyvCefiW8xezcuHgC75QnSD8L69t8JCIsC7A2I3lAGiudd+8WBeAkUhWAlYajKXKj4Y+ighiQJxshLchBHhNzhsu5jfqthepcRIDaZLyg/Nvibj8C+JPx2ggDra9xl2jcH651Y1j87BdYPZVAhkGcI8DQXyKlxTndV+2x7LO4a8qx4CpRAL+R6fPxB+Hr8md4RXrGQ2FAxeeMtG7a/eL4X64o3wBCTWDhTbDwm6Bxai9Z177/OOoGNK9vWhgVvZ9omZZ4vVlMQb3+AHi18RR/8w==;meWbRJoAcSNR56HcvKo/lg=="

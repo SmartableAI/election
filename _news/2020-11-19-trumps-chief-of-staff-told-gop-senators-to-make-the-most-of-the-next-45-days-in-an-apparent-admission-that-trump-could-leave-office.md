@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tweets words 'he won'; says vote rigged, not conceding"
+    excerpt: "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election"
+    publishedDateTime: 2020-11-19T13:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
     excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
     publishedDateTime: 2020-11-15T22:34:00Z
@@ -79,7 +95,23 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "J/XkaMwCUp3upfObcUL5DyKc5LabNcnaymAVk0qoHedgHNoGFRtaUXaqfsWKkOccMEDxx8sSavNCRo4yvRmz8f7q6uR4OW2fLqKBoKvtiYj3mjRt5lyOF3hlu/w6TZ9P7XFIDTVWd8z2TVFh8oicj4ulf83w09601i1wzITHu4gd9cqFaVkbczl9vc19hKVe67Pg9kjjmIUQXXXMvzjGImZd+pyPcLODKTNw9yFIDcB9cipBms9a/O5Ahd0tKR30VxpWZjsp+nJZBq6xTc+QbzwdYrARFr3kxVCICLQDIf/kuibn/vBn/YVWUXYCupxzDxyaRfIcZycpzpkF8VDo6ZkCQ6Pgjp8tmlh/pB0JE1M=;8JbgON2RcUydHPY9AbyM5w=="
+secured: "RREdjaetkcxHCtNW3TMVtVxn545NnqHZeLRJ+LqHqtRp1idokgCduWmaMcfG3rFa09irtFTPxBfnL6W6WR26Am2GJFNrdmcwawWtMPF83IP1mWwunVFby8VKeXA76KK5HW8VP1p8MjgMpoPc4nn9gMnq3Z9EPQtLRxtsoDjrjRremc//DrIcqdIZ8THXz4Rq7jYBs/jBybdfjoKolDsEzlWYt5S+EMNFBgPlJvkkxjJp6tDZUl0WAtr8m8adUAs+p04qU5nsY6stUqHrVwYcJfnj3P4YnQuyUkNfIQZ8He5o1QF1GNvziNneDimJ26ps1j2e4pfIqj+SFqkONEBA3dWWEmnuMrtf1Yr+csMDrKkMtMDoDEhF2sixA5E4bQrMk4noSEAGMhjtoXOyFEytagsdzBIHd95Ld0Qs8or1QxX4Wtu0NQIeJLrXemqeLxdUb30RQl2hJji3t8VWApxf73IRe3qJAQYDW64xeabJLmy+HDGU6pdJFtEsGmSFirPnfQtEfG/j/HCm98qMjvDydg==;1GYTl9kvMotGZJViFky5aw=="
 ---
 

@@ -2,6 +2,210 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-25-new-york-grocery-store-sparked-backlash-with-a-20-discount-offer-for-trump-supporters.md",
+      "title": "New York grocery store sparked backlash with a 20% discount offer for Trump supporters",
+      "excerpt": "Store owner Jose Colon told Fox News he also meant to extend the 20% off promotional offer to backers of Democratic presidential nominee Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f948c93f21803001222bcc5?width=1200&format=jpeg",
+          "width": 814,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp",
+      "publishedDateTime": "2020-10-24T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-trump-jr-floats-2024-run-for-president-this-will-make-the-lib-heads-explode.md",
+      "title": "Trump Jr. floats 2024 run for president: ‘This will make the lib heads explode’",
+      "excerpt": "Donald Trump Jr. posted a photo to Instagram Saturday standing in front of a “Don Jr 2024” sign, teasing that prospect. “Hahahahaha. Oh boy. This was a sign I saw up",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "originalUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/don-jr-46.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/donald-trump-jr-floats-2024-run-for-president/amp/",
+      "publishedDateTime": "2020-10-24T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-minority-pushes-trump-agenda-largely-unpopular-among-tribes.md",
+      "title": "Minority pushes Trump agenda largely unpopular among tribes",
+      "excerpt": "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-24T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-did-trump-really-use-a-twitter-password-as-weak-as-maga2020.md",
+      "title": "Did Trump Really Use A Twitter Password As Weak As ‘maga2020!’?",
+      "excerpt": "Dutch hackers claim to have broken into Donald Trump’s Twitter account using an easily guessable password, but security experts are not convinced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91a64e5946a0e9165fe5c7%2F0x0.jpg",
+          "width": 1199,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2020/10/22/did-trump-really-use-a-twitter-password-as-weak-as-maga20/amp/",
+      "publishedDateTime": "2020-10-23T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-among-us-suffers-attack-by-apparent-pro-trump-hackerthree-days-after-aocs-hit-twitch-rally.md",
       "title": "‘Among Us’ Suffers Attack By Apparent Pro-Trump Hacker—Three Days After AOC’s Hit Twitch Rally",
       "excerpt": "Trump hacker going by the identity of Eris Loris, seemingly drawing this nom de guerre from a Greek goddess of discord and strife. InnerSloth, the company behind Among Us, confirmed that hack on Thursday in a tweet and sent another another message over Twitter earlier Friday evening.",
@@ -1369,201 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-report-trump-paid-nearly-200000-in-taxes-to-china.md",
-      "title": "Report: Trump Paid Nearly $200,000 In Taxes To China",
-      "excerpt": "A report from the New York Times reveals a decade of Donald Trump’s unsuccessful business activities in China, including an undisclosed bank account that paid nearly $200,000 in taxes, undermining his own exaggerated claims of Hunter Biden’s business dealings there,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9011cc4e3fc4181ce3e597%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1994",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/",
-      "publishedDateTime": "2020-10-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-replay-trump-make-america-great-again-rally-in-erie-pa.md",
-      "title": "Replay: Trump \"Make America Great Again\" Rally In Erie, PA",
-      "excerpt": "President Trump holds a Make America Great Again rally Monday night at the Erie International Airport in Erie, PA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521717.jpg",
-          "width": 1136,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-departs-arizona-after-day-of-rallies-in-tucson-prescott.md",
-      "title": "Trump departs Arizona after day of rallies in Tucson, Prescott",
-      "excerpt": "President Donald Trump spent much of his day Monday in Arizona, with stops in Prescott and Tucson. The goal: Pick up as many votes as possible in rural and southern parts of the state in what is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/51c3ff9b-0ec4-4680-8924-4e057ce9a7c7-AP20293837215722.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3686632001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3686632001",
-      "publishedDateTime": "2020-10-20T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-retired-navy-seal-william-mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-as-crazy-as-denying-the-moon-landing.md",
-      "title": "Retired Navy SEAL William McRaven says bin Laden conspiracy theory Trump boosted is as 'crazy' as denying the moon landing",
-      "excerpt": "\"By promoting this crazy conspiracy theory, you really disrespected those guys that went on the mission,\" McRaven said to CNN on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "originalUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8f7cd1dace450018a3e57d?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "publishedDateTime": "2020-10-20T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

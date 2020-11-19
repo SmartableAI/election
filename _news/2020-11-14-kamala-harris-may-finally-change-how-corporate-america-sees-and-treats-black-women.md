@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Patsy Takemoto Mink blazed the trail for Kamala Harris - not famous white woman Susan B. Anthony"
-    excerpt: "Clad in suffragette white, Kamala Harris used her first speech as the United States’ first female vice president-elect to commemorate women’s political achievements. Her victory comes one century after the 19th Amendment,"
-    publishedDateTime: 2020-11-18T14:06:00Z
-    webUrl: "https://www.chron.com/news/article/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 62
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "duEc0UKKUZLISHM/imuL0DB+n8V+L8PQMWAGTWoXfUXwnLnu4xeUZ+YX4Z2qNNQ0ppj556u7DVfQ6M5PuZjxJi7spMWOPwaMyd3y/oNFj9GSn2oxV/12rl3cgfXqdLtvnM3Ogw93jGmXaemk42uqinEgDr8MFisGIDMSW8l+IrIt52UKF//QY5rPZYvtrgkgIf0Or30417KbPRM6weNM01fbvsVUCeu7ShPqd3oV1QmV7g4feQilIaYVKIqCs0ofq+5skS5PVJianB9cGmyhW2j6tc8cChisz+tGTha8fERyUazOMoV9aw7W9Vh8pN7X4TxIibWqFIDYcEaYJ2ajanKrmJNQM35+keD2xuyrLUZ7BTADH0bJYr4Nx3xQn7o4QB7/mbqdA89WVlLtC4a2AAotZIHNX2xqBI0ziYKdJlX9Jp5BdTB0fYxlDxT8uYahj5e9ypdzC3swOS8MUkEbq1ppe6IN3n9f6sgjyBvEBI57Yno52y6bovmrIGABQV0/C+uu3QVEASj/zSK+qO1B3A==;v7p89vVliAfc4dBVCRzO2g=="
 ---

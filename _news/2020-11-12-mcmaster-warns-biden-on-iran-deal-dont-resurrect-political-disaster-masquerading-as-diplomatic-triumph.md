@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
+    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task. The Biden team tells Fox News that Biden’s stance on Iran is “spelled out ..."
+    publishedDateTime: 2020-11-19T02:07:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
     excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
     publishedDateTime: 2020-11-12T20:28:00Z

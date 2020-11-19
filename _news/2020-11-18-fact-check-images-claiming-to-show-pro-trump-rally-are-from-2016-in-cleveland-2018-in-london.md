@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany"
+    excerpt: "A map that shows Trump at 410 votes was displayed during a segment on the conspiracy theory about an Army raid to seize servers in Germany."
+    publishedDateTime: 2020-11-19T10:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/18/fact-check-fake-map-shows-trump-with-410-electoral-votes/3767048001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3767048001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767048001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b06ccbc9-282d-49b9-879a-17c0b2100e65-AFP_AFP_8UW2WG.jpg?auto=webp&crop=3839,2160,x0,y195&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
     excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
     publishedDateTime: 2020-11-15T20:51:00Z
@@ -63,69 +79,7 @@ related:
         width: 1200
         height: 681
         isCached: true
-  - title: "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)"
-    excerpt: "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs."
-    publishedDateTime: 2020-11-18T02:02:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
-    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
-    publishedDateTime: 2020-11-18T12:04:00Z
-    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
-    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
-    publishedDateTime: 2020-11-18T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?"
-    excerpt: "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false."
-    publishedDateTime: 2020-11-18T12:00:00Z
-    webUrl: "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/17/ap_18311261907480_wide-a715561dfb6fb6116b6286b6d7a030c834c9da09.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
 
-secured: "MGkR1Wr2llHCQZ3UhJmaCifofCI8MrukKqiu+dKsuTd2SePWOc3DypcT1S8QKGWlHgVndVtQCPQDsPpnc6qjxMdIg00nMVEmWC31QWqESzqE327akV9fYVHgYxTLyj+chf7HUGPfiH1lz9P2TN4oiE3ScQ8LWQsug8CeNdq5PfhYr+GJObEZ/ePGXy2BBp6+zUAFLtNvm/hLoZTI2FQNTnRnqHylapb+mFT80cM5V9wTszU5RLUDljY64Xt/rxu+sn+S0ikRUawVIVhMA3IgMaxAPvOBOMhgY3Opn8HyaB5Mg3JeMWfcW2RijgV0aKZTHXvsS8r4kJrFrPA0jECmzSBgxWytlVQk9hVtLkjWwf4=;0NNVqa8QgRN/A4cMzSp0Ng=="
+secured: "Mwl5ASeELZ8y/UceA67m4nny/R0ybxGyPHoVC/q6FlO9U5XoHKP+gMYuEjgzla189Oxs6Yo4KLv2JDl62onwkJTT1JTlcW0SpRfuhTucY1eQyAy0IxVATm3EdJb9kdhTnDwwBM6atWfi9xeddBRYlagOfIAsOkN0kpRErEZq2GSj1xv8n2javomOVVCVQh6iXAKum/ZEJbQbxIMrE3fV65pYFIGUDQZoXMwAvxh+BMtrHuEM+D6auUc9l+uGIujix3jQviatWODoiA5iHZB1GV16nvnZSqNbvu7X77pKTMApJEE/7w/biFEaiN+/SWW7+zASXYoEPX4MHsSRFIUgIBMIMd6lQDD5u6wzzzlHAh+FpbxNdFxqkREBtW1yUJYBV8W+aKymzq/as3hk4MLSDJlNVRgCzxZdiR4WjIcW7vrao48kVntgS3AOLmXxH8JUb/LHag/9Flcd3jkuBy8yfXUcItPIvCXkfT/GAoKLmRtjBD9MLy4zdGH/+Np8KyjLe8sApSbg0gedVSfdXQv79g==;WaHA/poVesWCDNmla1lRog=="
 ---
 

@@ -295,6 +295,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
+    excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
+    publishedDateTime: 2020-11-19T14:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "BWQsiYZcgXSlXD4q9EVrbEZPpCjdumlZSZtWI4xZXOM/agBKJ3mmCgaKY5Umo+0JQvTPcM5R1jGAfNL+4sXfCHSDgqpLypG3CnrkK+Kkp4SH4BHeF6V1+84MaDkb8/pgdgpM3y+r8u1m/gc0IIsRxKXYsPjSu4S/LA5f5LgzbGDjcW7CgPCEdBX0a8foMwt5ocfcC10WAyz6C7H5u9Hm22BpX6Z8mD9/U17VmAppSvKOLY0vU/C0D+bNW9Mvy/01kFIxmJH6Lx6neB5pYCwCxU5QwjqkuBeF1Q6HS2d7RgJr6zEQKwzsZiOdAaZ/EBUAXTyoXeIaW8spFiT6Y3kzHYPnzVcKwP+la6QtsiBNMCU=;kUi5PR+46DmFiWXQXSbLVg=="
 ---

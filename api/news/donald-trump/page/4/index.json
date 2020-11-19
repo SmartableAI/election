@@ -2,6 +2,224 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-04-cnns-don-lemon-hits-network-for-airing-trumps-propaganda-visit-to-rnc-office.md",
+      "title": "CNN's Don Lemon hits network for airing Trump's 'propaganda' visit to RNC office",
+      "excerpt": "CNN anchor Don Lemon questioned the judgment of his own network Tuesday after it broadcast remarks President Trump made during his visit to a Republican National Committee office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81df12e9-89a4-4281-90fe-5e64638e305c/ebed9e3f-ad42-4ef4-847c-2443a3c03962/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-propaganda-visit-rnc.amp",
+      "publishedDateTime": "2020-11-03T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-mistakenly-introduced-the-rapper-lil-pump-as-little-pimp-at-his-final-campaign-rally.md",
+      "title": "Trump mistakenly introduced the rapper Lil Pump as 'Little Pimp' at his final campaign rally",
+      "excerpt": "One of the big superstars of the world, Little Pimp!' said President Trump as he introduced the rapper Lil Pump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa14fc969331a0011bc6ea8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mistakenly-introduces-the-rapper-lil-pump-as-little-pimp-2020-11?amp",
+      "publishedDateTime": "2020-11-03T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-in-st-petersburg-fla-trumps-character-is-in-focus.md",
+      "title": "In St. Petersburg, Fla., Trump's Character Is in Focus",
+      "excerpt": "With millions of Floridians having already voted, the Election Day line quickly diminished outside the largest polling location in St. Petersburg, Fla. The city resides in Pinellas County, one of the bellwether counties in the country's largest battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/PkHQSgjoT4pxaeOrbhUA",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-254027?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
+      "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
+      "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
       "title": "India's Hindu fringe group holds prayers for Trump",
       "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
@@ -1354,219 +1572,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-anonymous-is-former-dhs-official-who-has-openly-opposed-trump.md",
-      "title": "\"Anonymous\" is former DHS official who has openly opposed Trump",
-      "excerpt": "The identity of a senior official in the Trump administration who wrote a New York Times op-ed about working against President Trump's \"worst inclinations\" has remained anonymous until now. The person who wrote the op-ed is Miles Taylor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
-      "originalUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/22/812459fd-84cf-4dbf-a7de-e8a43424a224/thumbnail/1200x630/12f84b52ee8edd82c120ff8a4d47dbdc/gettyimages-672492960-copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
-      "publishedDateTime": "2020-10-28T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-doesnt-that-make-me-a-smart-guy-trump-defends-chicago-business-deals-after-nyt-report.md",
-      "title": "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report",
-      "excerpt": "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
-      "originalUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
-      "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
-      "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "originalUrl": "https://abcnews.go.com/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/ChelseaHandler_1603906784512_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/chelsea-handler-50-cent-wasnt-supporting-trump/story?id=73881032",
-      "publishedDateTime": "2020-10-28T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-whitmer-on-trumps-response-to-kidnapping-plot-i-dont-think-its-funny.md",
-      "title": "Whitmer on Trump's response to kidnapping plot: \"I don't think it's funny\"",
-      "excerpt": "Michigan Governor Gretchen Whitmer said his response to the plot against her \"tells you everything you need to know about the character of this president.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "originalUrl": "https://www.cbsnews.com/news/gretchen-whitmer-trump-response-kidnapping-plot/?intcid=CNI-00-10aaa3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/09/a290333e-b3c3-44a2-b2c5-d1ce99bad0be/thumbnail/1200x630/64973db17fe2da9b0f6d9eb896eb5105/cbsn-fusion-feds-bust-alleged-plot-to-kidnap-michigan-governor-gretchen-whitmer-thumbnail-562619-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gretchen-whitmer-trump-response-kidnapping-plot/",
-      "publishedDateTime": "2020-10-28T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

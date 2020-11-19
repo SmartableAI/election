@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC blasts Trump adviser for suggesting more coronavirus relief is not needed: 'People need help'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez took aim at one of President Trump's top economic advisers for suggesting that another coronavirus relief package is not necessary, arguing that \"people need help\" as COVID-19 cases surge. "
+    publishedDateTime: 2020-11-19T14:00:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrVNd2AUq_o/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-blasts-trumps-adviser-for-suggesting-more-coronavirus-relief-is-not-needed-people-need-help.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/aoc-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "David Bossie, Head of Trump Post-Election Legal Effort, Tests Positive for Covid-19"
     excerpt: "David Bossie, a longtime confidant of President Trump whom the campaign tapped last week to lead its post-election legal efforts, tested positive for Covid-19 on Sunday, according to a person familiar with the matter."
     publishedDateTime: 2020-11-09T22:42:00Z

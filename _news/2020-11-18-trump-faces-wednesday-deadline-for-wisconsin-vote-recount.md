@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump tweets words 'he won'; says vote rigged, not conceding"
+    excerpt: "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election"
+    publishedDateTime: 2020-11-19T13:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
     excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
     publishedDateTime: 2020-11-15T22:34:00Z
@@ -62,6 +78,22 @@ related:
       - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
     excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish.md",
+      "title": "Kamala Harris Says Political Figures Mispronouncing Her Name Are \"Predictable and Childish\"",
+      "excerpt": "Kamala Harris joined Trevor Noah on The Daily Social Distancing Show Thursday night where she addressed those who mispronounce her name. \"Why does it seem like it becomes harder to pronounce your name the more conservative a person is?",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
+      "originalUrl": "https://www.hollywoodreporter.com/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Oct29_DailyShowKamalaHarris-1604031696-1024x577.jpg",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/live-feed/kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish",
+      "publishedDateTime": "2020-10-29T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-maya-rudolph-on-potential-for-4-years-of-kamala-harris-impression-lets-go-im-ready.md",
       "title": "Maya Rudolph on potential for 4 years of Kamala Harris impression: 'Let's go. I'm ready'",
       "excerpt": "If Joe Biden and Kamala Harris win the presidential election next week, Maya Rudolph says she's more than ready for four years of regular work on \"Saturday Night Live.\" (Oct. 28)",

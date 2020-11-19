@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House Republicans call for hearings into violence against Trump supporters at MAGA march"
+    excerpt: "The top Republicans on the House Oversight Committee are demanding Chairwoman Carolyn Maloney hold a hearing to examine the violence against supporters of President Trump after the “Million MAGA March” in Washington, D.C. last weekend."
+    publishedDateTime: 2020-11-19T13:30:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_NYl16MKvFw/republicans-hearings-violence-against-trump-supporters-maga-march"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-hearings-violence-against-trump-supporters-maga-march.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "mGWmqb7SU10C7TUyQpEG/IS/20CQ9BmpMS0FoNLPTZW8/a2/L3XVnwySLYDO6QYJhriJatnX45NmSu6CAqQxEHOh1ehfbbuSQn0Ghc6fIRpwfJMyR+RLineFLMhSyf5B18tIlSQ0kLIcIjoJBhB7fgxX0+eHz3NV1sPxraXkem5zS67Lo8WpYGNyBBnYeGZ0CNZfXF2AlcZzSXUUpDzYGtLFkjvXpHTSPFNRzus/jiCG+9MkOHy4tjtTWIOSHYxjq5FHVBIDL0XJCkACF+9xR1J/jdJQVVX+VxExd76dNu8e5AFVQWnmsN29G8Fih4oZ5CkNz+rqE+Ch+Wf5cLDRDbH6R7kv4dz3UacQhT6DoEk=;uP/26nj1cYxMe18Ifzhz3A=="
 ---

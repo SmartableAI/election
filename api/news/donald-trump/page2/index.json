@@ -2,6 +2,219 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
+      "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
+      "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "originalUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-260269/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
+      "publishedDateTime": "2020-11-15T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
+      "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
+      "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/12/PPHX/353c4712-7112-4185-8090-fa36aadc45e8-DW1_4295.JPG?auto=webp&crop=3521,1981,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6296977002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6296977002",
+      "publishedDateTime": "2020-11-14T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-trump-team-mocked-for-apparently-exaggerating-crowd-size-againthis-time-for-million-maga-march.md",
+      "title": "Trump Team Mocked For Apparently Exaggerating Crowd Size (Again)—This Time For ‘Million Maga March’",
+      "excerpt": "The White House seems to have again been caught in a fib when it comes to overstating crowd size, after Press Secretary Kayleigh McEnany claimed Saturday that “More than one MILLION” marchers descended on Washington for the “Million MAGA March” in support of President Donald Trump—a claim that many on social media pointed out seemed to be greatly overstated based on actual pictures of the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb025d66f575407a5a3b7d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
+      "publishedDateTime": "2020-11-14T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-philadelphia-suburbs-return-with-a-vengeance-to-oust-trump.md",
+      "title": "Philadelphia suburbs return with a vengeance to oust Trump",
+      "excerpt": "Voters in Philadelphia’s suburbs hurled perhaps their biggest rebuke yet this month to President Donald Trump and the Republican Party overall",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-14T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-trump-supporters-plan-rallies-in-washington-dc-experts-warn-extremists-may-attend.md",
       "title": "Trump supporters plan rallies in Washington DC, experts warn extremists may attend",
       "excerpt": "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend.",
@@ -86,58 +299,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-the-technology-202-trump-will-face-new-rules-on-facebook-and-twitter-after-he-leaves-office.md",
-      "title": "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office",
-      "excerpt": "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp",
-      "publishedDateTime": "2020-11-13T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -535,7 +696,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 680,
+      "heat": 700,
       "tags": null,
       "images": [
         {
@@ -953,6 +1114,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-my-faith-is-shaken-the-qanon-conspiracy-theory-faces-a-post-trump-identity-crisis.md",
       "title": "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis",
       "excerpt": "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”",
@@ -1335,7 +1548,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 15521,
+      "heat": 15541,
       "tags": null,
       "images": [
         {
@@ -1376,224 +1589,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-whats-next-for-trump-the-family-business-awaits-his-return.md",
-      "title": "What’s Next for Trump? The Family Business Awaits His Return",
-      "excerpt": "President Trump has long complained that public office cost him billions. Now he faces the challenge of jump-starting the company that bears his name, while television also beckons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/07/multimedia/00TrumpOrg-Lose-2/merlin_174048489_c65deb2b-cda2-403e-a1b3-1fd5d90d39ad-videoSixteenByNine3000.jpg",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/us/politics/trump-organization-transition.amp.html",
-      "publishedDateTime": "2020-11-08T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-the-trump-presidency-is-ending-so-is-maggie-habermans-wild-ride.md",
-      "title": "The Trump Presidency Is Ending. So Is Maggie Haberman’s Wild Ride.",
-      "excerpt": "Maggie Haberman has consistently painted a portrait of a man who is both smarter and less competent than his enemies believe.Credit...Benjamin Norman for The New York Times By Ben Smith Maggie Haberman lives rent-free in Donald Trump’s head,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/business/08BENSMITH/merlin_179662959_c80bd3d0-f89e-4712-8d81-4ab62bb9c0b2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html",
-      "publishedDateTime": "2020-11-08T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-campaign-leaders-agree-ohio-still-a-battleground-despite-donald-trumps-two-victories.md",
-      "title": "Campaign leaders agree Ohio still a battleground despite Donald Trump's two victories",
-      "excerpt": "Ohio campaign leaders for both President Donald Trump and former Vice President Joe Biden said Thursday that Ohio is still a battleground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/05/campaign-leaders-agree-ohio-still-battleground-despite-donald-trump-victory-joe-biden/6149084002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/05/NCOD/313f5c19-f353-49b3-a68a-8ef0bfe7b9a8-vote_rally_JB_01.JPG?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6149084002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6149084002",
-      "publishedDateTime": "2020-11-08T12:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-new-york-gov-cuomo-predicts-scientists-will-speak-unmuzzled-now-that-trump-is-out-of-office.md",
-      "title": "New York Gov. Cuomo predicts scientists will speak 'unmuzzled' now that 'Trump is out of office'",
-      "excerpt": "Cuomo said \"the political pressure of denying COVID is gone\" after Joe Biden's victory was called in the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa813571df1d500182197a8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cuomo-scientists-unmuzzled-trump-biden-election-2020-11?amp",
-      "publishedDateTime": "2020-11-08T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }
