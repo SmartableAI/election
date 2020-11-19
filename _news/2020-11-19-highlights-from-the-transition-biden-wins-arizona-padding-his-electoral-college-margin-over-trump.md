@@ -576,6 +576,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden announces more White House staff picks"
+    excerpt: "President-elect Joe Biden announced additional senior White House staff hires, tapping some of his longest-serving aides to serve alongside newer players in his orbit in key roles in the West Wing. Rep. Cedric Richmond, D-La., a former chairman of the ..."
+    publishedDateTime: 2020-11-19T02:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-announces-new-white-house-staff-picks-n1247998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_47/3428965/201117-joe-biden-al-1209_4877abfc05c253079bca65ca3226994d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
     publishedDateTime: 2020-11-17T20:09:00Z
@@ -674,8 +690,8 @@ related:
         isCached: true
   - title: "Biden Pressures Trump for Access to Federal Resources"
     excerpt: "President-elect Joseph R. Biden Jr. spoke with a group of health care workers on Wednesday, pressuring the Trump administration to authorize giving him access to federal resources to plan his coronavirus response."
-    publishedDateTime: 2020-11-18T22:17:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html?playlistId=video/us-politics"
+    publishedDateTime: 2020-11-19T10:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html"
     type: article
     provider:
       name: New York Times
@@ -747,6 +763,6 @@ related:
         height: 619
         isCached: true
 
-secured: "bOkJxlG9Y9pxV6zvsCQg7zKttvXp+HQuJUliYutjM8WfdgSbJVu4QEDbibzMr46THK+waYKBU7veTOD5TQUXen/sk4q46iA01w+INQGjUR1gNnRi59BuXuprxSXXHku5jqVGXVw1gz6V/a7ncVai0x1Y4eRdacN2CT9P9ltahGHL8lT1DBJ2unLimET3MtYQFiyrJhDkGDpFAtH4152w2zG0yYI46qWAdK3FWUdwE4ICvLyR7pUMxfH55jRX4zuodVyd1hCoTs1Y2NTWaTlp1clFLoFZ0kA8ctWPKjuYkfDQ+3oGJCM23OWiCmgujyz3aciazHiPC8MFIYJ0x3+HeX4JtEvSla+bUiTFc4XQM38=;18A/Se0CFldjv8qHbWQEcw=="
+secured: "UmZ7tM8lvncOPrjGKSA4FrOQtSUhY16bF7xPiTN4FIFCk44+WV9+xE7mV7qvukV6wEulUnKwmREgUSBsXfsxGXRLQZtJ8wT7aZ9q4KLTzJRp9dwPpBtCpYcXABABv/pFrFyPtDeNGf7GnH4hyaPnSByVkM/faQOy8jMElOu+NUzVm+JtG5eIiCSsTtQunEfD7ceockrEPb8dp+GskDjjE6zmMg66YEhkZucI0AVgrQARZXl4aDfC7xp6BXafEr1wPxwPW+zCD5syzWkKwTTx+OovCn/FV6cFtNxr1IwUIh13V3ZObmk9osFOQUDG1CuNqcusfITlETVX2NFeccn6A+j/b5qYYRaIrkfkLzU2F/z2F6MuJyzXN1mzf3RC/LIIl0aMjl24OVgrMhGjUz/g6VIeONwcJMbx6j8WNa3dW+cK0YegzJbcTT78M/V0HcthU23Uj1go7AnW1DzJwG90PozG7HdBh3By1O1FOGaT1fPizKQ3Ei2OfXmEyz2KZMXZAVl57yIVmM1X91FnGltrtw==;jtqbo3Y2G1Bla5bZgQ60hw=="
 ---
 

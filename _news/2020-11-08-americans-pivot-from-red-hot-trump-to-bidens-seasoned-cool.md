@@ -2633,6 +2633,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump targets vote certification in late bid to block Biden"
+    excerpt: "President Donald Trump’s scattershot effort to overturn President-elect Joe Biden’s victory is shifting toward obscure election boards that certify the vote count"
+    publishedDateTime: 2020-11-19T09:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-targets-vote-certification-late-bid-block-biden-74286566"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-targets-vote-certification-late-bid-block-biden-74286566"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-targets-vote-certification-late-bid-block-biden-74286566"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e50a1fcf9d97490caba5da04ff82f161_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z

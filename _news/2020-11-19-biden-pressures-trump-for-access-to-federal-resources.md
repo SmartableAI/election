@@ -2,9 +2,9 @@
 category: news
 title: "Biden Pressures Trump for Access to Federal Resources"
 excerpt: "President-elect Joseph R. Biden Jr. spoke with a group of health care workers on Wednesday, pressuring the Trump administration to authorize giving him access to federal resources to plan his coronavirus response."
-publishedDateTime: 2020-11-18T22:17:00Z
-originalUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html?playlistId=video/us-politics"
-webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html?playlistId=video/us-politics"
+publishedDateTime: 2020-11-19T10:10:00Z
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html"
 type: article
 quality: 130
 heat: -1
@@ -590,6 +590,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden announces more White House staff picks"
+    excerpt: "President-elect Joe Biden announced additional senior White House staff hires, tapping some of his longest-serving aides to serve alongside newer players in his orbit in key roles in the West Wing. Rep. Cedric Richmond, D-La., a former chairman of the ..."
+    publishedDateTime: 2020-11-19T02:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-announces-new-white-house-staff-picks-n1247998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_47/3428965/201117-joe-biden-al-1209_4877abfc05c253079bca65ca3226994d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
     publishedDateTime: 2020-11-17T20:09:00Z
@@ -747,6 +763,6 @@ related:
         height: 619
         isCached: true
 
-secured: "UunIP/PctLOGzQEP9MeB3MxUnOgRVOZfCU3a39u7s0RB6JYBSYZkdvCgnREwamy9Qy/4iGsPokNpGZdnHUZiuLHMhlJFSYAzzPw5GgvfPOlUnFfAziIOrd68kd2YFq50nSG+1eLNYw5LuxW0FZgqo0rSuuqLwDNfintfVoYBPKwcQxCZwazKtZUOH/OHTRF/WDGnxBCR6wyM8LV+PAYYTeqrfrDozHCu3P6QoSiKBEmMZeXptMRTQlPhM01Jop8BfUERoAWyeFQ1lyodHu2jdSKZG8mKdiXjWOZGNH+Wqfw+JUG/TmLOGmxoSR1GbBxs0zZ7irEv3HCPsY8XA+AgIjRta+qgU97FDCirmuQTBZ8=;Cj9DdanibP0Ir34597xWPw=="
+secured: "J36cMYlCTVq9bM13WH53tZ5dbKgK8QixuQmtrD73lCVMT2scY3pdObtOtFpZoedTxikhIv8hoDo1/83s1F8Gignyymw6L0rpjjsZgc8ybQjFLuhrl6Wt3kYhfPj30WW+JOPb7JAYFyAOnx4GK9wRACxuvHHC9MJ+3RzpmUZAzTIYfIv9CSpUX1Ag9dkz4qa2mzZrDOYVdsbhecRNyzxQPXtywVxaydWKjXAXBJqjKcwgCVsLkFB8agurYoSLlbuAHHTCJxTuxLbh6prufaFjt3/hAdr/sL3y3vTs8zDfalbtJ1Kf2HVgX+VsXe6dWC+wYA7pqorWQbAw22BnMPsfrJSSUL6FfVcf2PC8WBnOTcY=;ONfBQ+WpPL+lDeh/Zgmm1w=="
 ---
 

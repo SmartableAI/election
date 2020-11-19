@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
 type: article
 quality: 135
-heat: 155
+heat: 156
 published: true
 
 provider:

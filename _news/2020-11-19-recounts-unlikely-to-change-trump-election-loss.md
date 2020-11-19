@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Recounts unlikely to change Trump election loss"
-excerpt: "NFA] President Donald Trump's attempts to cling to power appeared more tenuous than ever on Wednesday as election officials in Georgia and Wisconsin said recounts were not likely to change President-elect Joe Biden's victory in those states."
+excerpt: "Video Module Recounts unlikely to change Trump election loss. Posted [NFA] President Donald Trump's attempts to cling to power appeared more tenuous than ever on Wednesday as elec"
 publishedDateTime: 2020-11-19T08:34:00Z
-originalUrl: "https://www.reuters.com/video/watch/idP78u?now=true"
-webUrl: "https://www.reuters.com/video/watch/idP78u?now=true"
+originalUrl: "https://www.reuters.com/video/watch/idOVD53OKIN"
+webUrl: "https://www.reuters.com/video/watch/idOVD53OKIN"
 type: article
 quality: 120
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/5fb5dea4e4b04f7ff7c2c93e-1605754532773?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20201119&i=OVD53OKIN&r=OVD53OKIN&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -437,6 +437,6 @@ related:
         height: 600
         isCached: true
 
-secured: "M+CUNb6IzqiQEZ64mGjGyp4nnPYJ2yeN0+bNpet7ggERY3YHBrcDqd7g6I5vv9E6xwbBSFTu+WAxZB+MrVddO28L4kXbhnhniebzgkD6ghs0pl2n8nBusCYwePKdNelSuMMUC4G/EmThDEswAoS4zGGp9LgvuLPuqGk9OE99RnqC/th/TWmqbSib8BJZQB4Njj9Xfd260pmE/g+4g00sX0gaXKTSvwx9hZvZOaXVKr/IKJ7269CdsMH5KzOEiXmc6jj6xi+iYpd27XXQJjCQr8pbhw6wChKPQjwwpJ15AAAHAeWlOeFe5LV5KPHKgDkLnCSf6KCoo0RmYmNMmGLuYg9bw64XWbMMmsTjUAmCHmk=;8NzFd+T6Fj+RnNVFjqRp/A=="
+secured: "JBIEm8qPZWCkIs8FnGmwdyBgYv6rbKe/A+rMa57XbeYGAn4XHmkW1JnmANWXSY3oA9cQ6V+R9xss/xaL5iWlwFT4PRCfCPcW3LB1owjyoH70qq5JRbGUkDUdzdDHrs8B5AsX4y5fQeZkhRtFHCnmHjhOXOmFnUDbcph9SJe+S48xy7l5BimzHE28QsDiR4MeKD7/g+DizDXACm0HYmCb8Xg8Bc2Z7HdIFZA8eOfUtejJdl+lwaPnj0HI8hjjhNkuNxujJpGp8LnkIy6bBG1eyjSnOzkKdqGcyt6NUFtmnEzkQ584PhS6dVFRDggyPDkQPXLJl43ya1mqgo7aw9JMLrFPpN/2qnXe9lnv8q5T/OY=;CMLQTVdlJINEGU/YLhbBIQ=="
 ---
 

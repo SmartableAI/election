@@ -576,6 +576,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden announces more White House staff picks"
+    excerpt: "President-elect Joe Biden announced additional senior White House staff hires, tapping some of his longest-serving aides to serve alongside newer players in his orbit in key roles in the West Wing. Rep. Cedric Richmond, D-La., a former chairman of the ..."
+    publishedDateTime: 2020-11-19T02:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-announces-new-white-house-staff-picks-n1247998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247998"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247998"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_47/3428965/201117-joe-biden-al-1209_4877abfc05c253079bca65ca3226994d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
     excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
     publishedDateTime: 2020-11-17T20:09:00Z
@@ -674,8 +690,8 @@ related:
         isCached: true
   - title: "Biden Pressures Trump for Access to Federal Resources"
     excerpt: "President-elect Joseph R. Biden Jr. spoke with a group of health care workers on Wednesday, pressuring the Trump administration to authorize giving him access to federal resources to plan his coronavirus response."
-    publishedDateTime: 2020-11-18T22:17:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html?playlistId=video/us-politics"
+    publishedDateTime: 2020-11-19T10:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007461712/biden-trump-health-care-coronavirus.html"
     type: article
     provider:
       name: New York Times

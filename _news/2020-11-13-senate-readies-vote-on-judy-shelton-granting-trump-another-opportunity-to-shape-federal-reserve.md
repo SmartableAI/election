@@ -106,6 +106,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
+        isCached: true
 
 secured: "4mUkJhsL4Cqjn1dtw7d6ihoenet8FAMgWyYBK42NUKVBMzXUs2HwV0qInIC1mxesToaYy2GQ7X8ffj7CM+W+bm0NPw74A4eHeh0wArqrzorHLVRtAXC2HFM5fAgUaoyxWm0NrjD55PLvkhBcyRDXZ1NyDDZ4oFShZOKoRl/lSHL2bvlj9d/1cNc+ZU4VodM23zpjivaRKleVoX6UbYd2zVHfZKeXlTE52chXFoSpheS2F+IIUHbVcVh1LQY4iXO3Q6hgWlGKc3JJdfYXHD1d72iEUmMT6viPcbC9izhiNmH8htLVmdfOecqklJRto+Ck0osdNUo+Fytap4Mds+E2wJN45CrmQrKE29CD8Xuh36A=;yG/ah1UwB0HC7FdYxuYvGg=="
 ---

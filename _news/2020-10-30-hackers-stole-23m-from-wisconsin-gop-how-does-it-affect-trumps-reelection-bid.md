@@ -315,6 +315,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls on a partial recount in Wisconsin..."
+    excerpt: "Watch \"Trump campaign calls on a partial recount in Wisconsin\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T10:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119001317-trump-campaign-calls-on-a-partial-recount-in-wisconsin/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07754977_1605744819.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Trump pays $3 million for partial Wisconsin vote recount"
     excerpt: "President Donald Trump has paid $3 million for a partial recount in Wisconsin but has yet to file a petition indicating which counties it is targeting, the Wisconsin Elections Commission said Wednesday."
     publishedDateTime: 2020-11-18T21:42:00Z

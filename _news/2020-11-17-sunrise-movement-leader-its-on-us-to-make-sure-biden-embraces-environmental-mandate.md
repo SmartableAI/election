@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Who Might Joe Biden Select To Lead The Justice Department?"
+    excerpt: "Democrats have condemned what they call inappropriate closeness between the White House and Justice Department in the Trump era. That means picking an attorney general and other personnel is tricky."
+    publishedDateTime: 2020-11-19T10:03:00Z
+    webUrl: "https://www.npr.org/2020/11/19/936264465/who-might-joe-biden-select-to-lead-the-justice-department"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/18/ap_17271704790291_wide-a96cfb9319d3f8208d8f4cd60fbfc25b2ba833c5.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "President-elect Joe Biden: 'I just want to make sure we're able to get together next Thanksgiving'"
     excerpt: "President-elect Joe Biden says there's nothing macho about not wearing a mask. He joins to give guidance on what people should do during Thanksgiving and the holiday season as coronavirus cases rise in the U."
     publishedDateTime: 2020-11-16T22:18:00Z
