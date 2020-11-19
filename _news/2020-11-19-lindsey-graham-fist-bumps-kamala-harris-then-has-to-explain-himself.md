@@ -2,9 +2,9 @@
 category: news
 title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
 excerpt: "South Carolina Sen. Lindsey Graham, who has repeated unsubstantiated claims of widespread voter fraud in the 2020 presidential election, caused a minor stir Tuesday after he was filmed fist-bumping Vice President-elect Kamala Harris on the Senate floor ..."
-publishedDateTime: 2020-11-19T00:55:00Z
-originalUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
-webUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
+publishedDateTime: 2020-11-19T01:05:00Z
+originalUrl: "https://www.chron.com/lavoz/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
+webUrl: "https://www.chron.com/lavoz/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
 type: article
 quality: 55
 heat: -1
@@ -70,6 +70,22 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden says he 'should be further along' on virus"
+    excerpt: "President-elect Joe Biden is moving forward with transition plans, capping a tumultuous and tension-filled campaign during a historic pandemic against President Donald Trump, who still refuses to ..."
+    publishedDateTime: 2020-11-19T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-economic-meeting-06-rt-jef-201116_1605558683683_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -450,6 +466,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "viobfx+6JWmV7Bce4bnegAOZejD/wINmIImpCH+IfXzby/TaEeF9HycvsMsC+t7FeMvk5YxXAu/iWaEAv7khuwPfvfN1O/EJcK5QH3WHk40oZdj8GzNVhx4MC3/VzDt9P0/dO+3HAa4p4guUFkgiup/3wJEPQhvv8+DSSPCWFjqplL07NCJ6OYjcmSuAKu0D3YQMfLCID+OPz58i7GrSZ9PoScGzMLxTtLMTxQAzuefZCXNlzcRAg7d/U+qO8wNdyi96tZJ2fG4YCjlKAbRrh/K6bPGyzNhP0oBjwUFAcM87jhXLBsZB2EFwl2DQ5mYTzonGetaIwHf/u0JIZI8E9rTgXZGIYS1saplbfsuK+sgCa84/hdASRjy3C2jfyAA5HRY6gDQRfGqAxR6OEWXjd9aW9f1dlrtV3NmErfu41+1ykKBkwHgRYESHueE29KNoHkbGXwNnjLVDOZA2xCOwG3NO2ijqdOunFf7hfI7q3FVMlklPs6WjpCogDpZcwJtlIf7SkEaMWM+egfh30v1EvQ==;e0uiMUIvV6Wci4OqRtXDGQ=="
+secured: "QvkzdpWsGAFcxdyEj6rosPO0zK9odCNLhdXvaSaNpR/yp7A3g73bLKXJ7+pfB6jH7msR0pqev7lKOmSs/UjP2aBQDPBfuia6BHRscCSp+65Tcgw0nrldRXpfuQtZAYu/GIGsiuqhC+a1CiT/X+MuY5RjSaR2jU0RGq0i6uysQJKmigI0pCudmLJobr/LvqXbMoIUMLCVQgVnhDG9yyjwlkAygg8yWXWKHKfiMkYq4b00apJEyZoC1UnB0G8WbY8RjSUAYiJ3B6QmG4zWWLXqBJ3yS2LKCSSBa9TWUByLdRY24pLfcDfUKkiI9vb9u818WBfQUSBINWmUPqjS0G7XQnrLloardZdLORHtDsUA3rQ=;zEkRaOaHEiJJdqeYDXOmuQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/trump-officials-reach-ou
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/trump-officials-reach-out-biden-transition-team/index.html"
 type: article
 quality: 190
-heat: 1070
+heat: 1090
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Highlights From the Transition: Biden Wins Arizona, Padding His Electoral College Margin Over Trump"
+    excerpt: "This election was more — maybe more a referendum on who can handle Covid well than anything else. The Donald Trump approach was repudiated, the Joe Biden approach was embraced and that’s why we think there is a better chance to get a bill in the lame ..."
+    publishedDateTime: 2020-11-19T07:28:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/12/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/12/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/12/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 136
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-AZBiden/04elections-briefing-AZBiden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
     excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."

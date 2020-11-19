@@ -330,6 +330,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Recounts unlikely to change Trump election loss"
+    excerpt: "NFA] President Donald Trump's attempts to cling to power appeared more tenuous than ever on Wednesday as election officials in Georgia and Wisconsin said recounts were not likely to change President-elect Joe Biden's victory in those states."
+    publishedDateTime: 2020-11-19T08:34:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP78u?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fb5dea4e4b04f7ff7c2c93e-1605754532773?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
     excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
     publishedDateTime: 2020-11-08T05:40:00Z

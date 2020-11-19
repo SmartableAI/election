@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Georgia next week"
-    excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."
-    publishedDateTime: 2020-11-12T19:17:00Z
-    webUrl: "https://www.wsbtv.com/news/politics/vice-president-mike-pence-visit-georgia-next-week/F6S4DVVGNFAIPDDOEAGF3XCV5E/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 55
-    images:
-      - url: "https://www.wsbtv.com/resizer/QvVJtkN6R42VHSSARmsPJQglnQM=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/CNDUZKFY2U275REEJZVFDG37BQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "/Gbsw5nM6WQABUpRmbkdz/CAhD7r3xZGQtNCuxKjYv6UwwBhfgvIZq9aL5fmGlQ2SBGSD43Lb3Hkd+gZMRdcMYVlc0Sxg/2ZCN3spUJLf4a4bgYJyD8Nem0oGOnUSuVeF07yGZ4GErCxJBoE+yi4yTgG/ejkU6JIK2hOSDo12wsxchRwGzyb4l+tO1A7XdiHuOXbWQl/UcLF7rzfW5fDd7HT5ZNxe6Y3F4aYZYIJKgMtyBgk5EZ6gSByF/5RuguWfxlH4a4cxGFXhEgULdRpmgLel/b65A9CywLs1S/FmBTQvVe90CGiTaFw0VDTuV85x2ugCZZAcAUnY2PeGZYiyKTSWwFIR8tZMWvidh0ikY8=;n1oyhrX0Zy6dRQ+84c/jVQ=="
 ---

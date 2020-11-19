@@ -496,6 +496,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Highlights From the Transition: Biden Wins Arizona, Padding His Electoral College Margin Over Trump"
+    excerpt: "This election was more — maybe more a referendum on who can handle Covid well than anything else. The Donald Trump approach was repudiated, the Joe Biden approach was embraced and that’s why we think there is a better chance to get a bill in the lame ..."
+    publishedDateTime: 2020-11-19T07:28:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/12/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/12/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/12/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 136
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/04/multimedia/04elections-briefing-AZBiden/04elections-briefing-AZBiden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "For a preview of President Biden, look to his past."
     excerpt: "Like President Bill Clinton, Joseph R. Biden Jr. is an empathetic extrovert with a sprawling network of friends. Like President George W. Bush, he respects American political traditions, and with President Barack Obama,"
     publishedDateTime: 2020-11-16T18:00:00Z
