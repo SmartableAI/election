@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Judge Rules Trump Administration Can’t Immediately Expel Migrant Children Under Pandemic Order"
+    excerpt: "The ruling said the Trump administration can’t immediately expel unaccompanied immigrant children and deny them a chance to request asylum under a public-health emergency the government declared in March."
+    publishedDateTime: 2020-11-18T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 123
+    images:
+      - url: "https://images.wsj.net/im-261647/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "lIeWzGxNGR/fzKTT3F5jwwGCOzPvmPwZo+XNnugDP7YtgCY1+A5a1tKNXzK8YK6TKRBKkJI480CGKdhKRMP67qrsbFZMKrMY9yswV3Mg8rFGfY1gaN+ab8ztBYcYUFYMRes7UlQovkhZ52c3NWAyHBmHoas77NFs+YHj2EppHW/A6L3UxCU6IpzE8oHzTkuuHaw7jQ6LkLBk3GcmDLUOBSZMvOtSsIgxS1ttCulIKeweFzEzRGi3UCxl66XrU44GWiU6Ty1X9hbTFN4YAqee8/PfkpFSPFYkKB5YikyZFIrUYDGIankw7YCvKhpKpm4+SiR3hNuAYG5SXmXuzwF+fNY5Fq3Vdkpw4mKymI3j0HM=;QGnL2HtA8RKPwEZ0Fg+Usw=="
 ---

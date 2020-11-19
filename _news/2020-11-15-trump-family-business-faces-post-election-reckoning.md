@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden hits Trump for refusing to concede, says 'national mask mandate' discussed with govs"
+    excerpt: "President-elect Joe Biden says that he’s decided his choice for Treasury secretary and that he’ll make the announcement either just before or after Thanksgiving – calling his choice “someone who I think will be accepted by all elements of the Democratic Party.”"
+    publishedDateTime: 2020-11-19T22:51:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5uARxNBEsWE/biden-treasury-secretary-trump-concession-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-treasury-secretary-trump-concession-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-treasury-secretary-trump-concession-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
     excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
     publishedDateTime: 2020-11-16T03:38:20Z
@@ -448,38 +464,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden likely to campaign in Georgia for runoffs that will shape the Senate, top aide says"
-    excerpt: "President-elect Joe Biden will likely travel to Georgia to campaign for the two Democratic Senate candidates ahead of two January runoffs, according to his new chief of staff. "
-    publishedDateTime: 2020-11-16T17:06:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Or2GBTYrBfg/biden-campaign-georgia-senate-runoffs-aide"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-georgia-senate-runoffs-aide.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765555451.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
-    excerpt: "Follow for the latest developments on the 2020 election legal fight."
-    publishedDateTime: 2020-11-18T15:15:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AvV_Zvo9RxQ/live-updates-election-legal-fight-nov-18-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "President Trump sought options to retaliate against Iran's nuclear program, officials confirm"
     excerpt: "Last week, the International Atomic Energy Agency reported a sizable increase in the country’s uranium stockpile."
     publishedDateTime: 2020-11-17T01:02:28Z
@@ -544,22 +528,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "‘He Won,’ Trump Tweets in a Post About the Election"
-    excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"
-    publishedDateTime: 2020-11-15T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    ampWebUrl: "https://www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/he-won-trump-tweets-in-a-post-about-the-election-11605451766"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-260247/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Broadens His Efforts to Overturn Election Outcome"
     excerpt: "The president is threatening Republicans who challenge his refusal to concede, as looming deadlines for key states to certify their results are set to narrow the path for his legal challenges."
     publishedDateTime: 2020-11-19T20:35:00Z
@@ -590,22 +558,6 @@ related:
     images:
       - url: "https://images.wsj.net/im-260465/social"
         width: 1279
-        height: 640
-        isCached: true
-  - title: "Georgia Republicans Worry Trump Feud Could Hurt Key Senate Runoffs"
-    excerpt: "The Georgia Republican Party is beset with infighting as leading Republicans in the state come under public attack from President Trump and his supporters following his apparent defeat by President-elect Joe Biden there."
-    publishedDateTime: 2020-11-16T18:41:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-republicans-worry-trump-feud-could-hurt-key-senate-runoffs-11605534092"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-260321/social"
-        width: 1280
         height: 640
         isCached: true
   - title: "Joe Biden Names Senior White House Staff"

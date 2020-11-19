@@ -351,6 +351,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Giuliani makes accusations of fraud that the Trump team has failed to support in court."
+    excerpt: "Giuliani, President Trump’s personal lawyer, mixed misleading statements, wild conspiracy theories and outright fabrications as he attempted to suggest that Mr. Trump still had a viable pathway to winning the election."
+    publishedDateTime: 2020-11-19T21:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/technology/giuliani-false-fraud-claims.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19daily-distortion-giuliani-sub/merlin_180210207_1d292ed5-df73-498d-b15a-5a53bb911823-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "J2MPF2UBrzuvIFDt8pxvIfx9xphtbrNz7/8f1XB5T11R8e391ORRLFfSHEYkb4ecx0zpodt7jLCrS6g2t51tgAXE3dQGWuadDABuNrMuHpKH83s3yJYuYaq6xJJ7T4JN8LZGD6swGImiZinIiP2Vps5QbqLvzhBUTLHu8tvBKpGSc5PLrA9VU8P9X+vxov1tfJz6/zAdFiecdGihK24XyrZoS+D+hGwqE85CaNbllBurKbd9Yyhlsl/HXUpXbSbsl0cMx2KLEun4IydO2YtaswR4ZyezqCanIpSB4flxFS5fHNtd5+omwGw6CFVuNv5UccQ6AT2YIeElY4tlCdJN4SDPhJ7nZ5IS+cAQfN1pV04=;eTinTanMEtXIf6z1XfwV6w=="
 ---

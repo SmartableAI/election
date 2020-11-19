@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-h
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris, Sen. Lindsey Graham fist-bump on Senate floor"
+    excerpt: "Vice President-elect Kamala Harris and Sen. Lindsey Graham are seen fist-bumping on the Senate floor. Nov. 19, 2020"
+    publishedDateTime: 2020-11-19T22:20:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-sen-lindsey-graham-fist-bump-on-senate-floor-96247877553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96247877553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96247877553"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_kamala_graham_201118-00_00_22_08-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "From pearl necklaces to sneakers: 5 Kamala Harris style tips we should ALL incorporate in our lives"
     excerpt: "Wardrobe stylist and author of “The Creatives’ Closet,” Monica Barnett, shares fashion tips inspired by our next vice president."
     publishedDateTime: 2020-11-13T16:31:00Z

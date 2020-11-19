@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Judge Rules Trump Administration Can’t Immediately Expel Migrant Children Under Pandemic Order"
+    excerpt: "The ruling said the Trump administration can’t immediately expel unaccompanied immigrant children and deny them a chance to request asylum under a public-health emergency the government declared in March."
+    publishedDateTime: 2020-11-18T18:03:00Z
+    webUrl: "https://www.wsj.com/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 123
+    images:
+      - url: "https://images.wsj.net/im-261647/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "KQFa3sJmNKaI7uNe8XLsZ2JDj6SX8bqGZQwjA3t4bRe8nFGMHL7A2d/Vc89+zykzrv6nZw8sE6ktkIJZCZmz+eTUOcOk87ySrPxdNWIjEBBBrxZ8dU8IhT3ZYiCanZ//BIxWfK5xBo12uLk7CGH6bw/Z3CZkUZxTu6mdVQitmzwpm02v427lzHgkiabMToMNelahzBSijTOukTC79e1QOT+nQyqyGWLdBU2EvkH4mhsENk3uK0ik9k0sBxLEw4stRXTMEfyo3bXf0JIMAamV8ellsYak1q4+kWvtdVCOU4S3mnXdidtIoJCYbI4QdGLHo66mrQtK68kGvNHyMCn7QUSiUpcUGABJuyjJWlWdfUE=;foKZD8N9P7I/mukSeTGnMA=="

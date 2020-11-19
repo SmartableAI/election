@@ -29,53 +29,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
+  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
+    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
+    publishedDateTime: 2020-11-08T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
-        height: 545
-        isCached: true
-  - title: "A Biden COVID-19 advisor suggested a national lockdown lasting up to 6 weeks, but said the idea was unlikely to gain support"
-    excerpt: "Michael Osterholm told ABC News that he had not discussed this idea with others and added he did not believe it would gain support."
-    publishedDateTime: 2020-11-13T20:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "A Biden COVID-19 advisor called for a national lockdown lasting up to 6 weeks. The US had a 'big pool of money' to pay for any lost wages, he said."
-    excerpt: "Dr. Michael Osterholm said the US had a \"big pool of money\" that could get the economy back on track during lockdown while a vaccine rolls out."
-    publishedDateTime: 2020-11-12T11:32:00Z
-    webUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-osterholm-covid-national-lockdown-economy-coronavirus-advisory-board-2020-11?amp"
+  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
+    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
+    publishedDateTime: 2020-11-09T14:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5fad008a7f8f4200182a671c?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
+    excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."
+    publishedDateTime: 2020-11-12T00:41:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
+    excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
+    publishedDateTime: 2020-11-13T18:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54937348"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08ydgdh.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "l8Fbyni77aH6tWjR6IXiQ9wKxfHGDKcP6uopewaDIvSFiJgPUba+LTeJcwja+ry4wkbZMiD9v8Q0P/jHH/WP1mW+ihjgH7TOStXLl1UFWOm4lvTikoOqNAqbsCb02TvB3Fejltn98rvsIqcoQlYVPEk+5Nx8lzGm5HRH4LHj3x55FfD+SeJPkj0xdHWXC+2XJpoYujJia9xy5C9fzTtYIWPBr71lH3KkqZUSW9S0Ql8mMNpvCRYTpJ94Yk9tBIrtXG3DenWh+cjLTPR4AVvM+QGYruy43Hv0WVflWUe4p+FUCdr7qves7oYI+sauH1PwAqmmGd3UUqL+3zmKOILrOcXuSeKGQLD909VjIu3MGDfhJRg2WCaUjlT+3fQ+8n2SizxoEm0qMA+QLwNVHuahshiCrVck+XpF3lAPJ6+RujwNAgA77EF/sh6wqFoKwqAuBmjd0kF2l3+zZfFZJ4wlkBKwW9jh1fX8nz/WldmV39rAUNFz5tbcdatdRJ72pNtm4fnugDV/Jcn3EzxRT2KwzA==;/CuBcF3CD4Z2Vr+k+BEJ4A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/world/donald-trump-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/world/donald-trump-foreign-policy-election-intl/index.html"
 type: article
 quality: 180
-heat: 380
+heat: 400
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720120229-weir-alaska-anwr-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Census delay could kill Trump's plan to exclude undocumented immigrants from count"
+    excerpt: "The Census Bureau said Thursday it has discovered unspecified \"anomalies\" in its count of the US population that could delay the report past January 20.\n    \n"
+    publishedDateTime: 2020-11-19T21:45:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k-TvgVi9tv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/census-undocumented-immigrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/census-undocumented-immigrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

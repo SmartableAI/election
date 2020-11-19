@@ -25,37 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia recount not likely to change Biden victory: state official"
-    excerpt: "A recount being conducted by Georgia is not likely to change the result that gave Democrat Joe Biden a victory in the southern state in the Nov. 3 U.S. presidential election, Georgia Secretary of State Brad Raffensperger told CNN on Wednesday."
-    publishedDateTime: 2020-11-19T03:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN27Y306"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y306"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y306"
+  - title: "How Joe Biden's leads in Georgia, Pennsylvania, Nevada, give him a clear path to 270 electoral votes"
+    excerpt: "Joe Biden's lead is growing in key states. Former Vice President Joe Biden is on the verge of reaching 270 electoral votes and winning the race for president after he surged ahead in Georgia early Friday morning and hours later in Pennsylvania."
+    publishedDateTime: 2020-11-06T20:48:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541689702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1TL"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/e4078510-fb31-4b52-87af-af0331e7e9fa-grid-promo2.png?auto=webp&crop=3137,1765,x521,y870&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "California official sees state auto emissions deal as 'template' for Biden"
-    excerpt: "California Air Resources Board Chair Mary Nichols, who sources say could be the next federal environment chief, said on Thursday her state's agreement with manor automakers for fuel efficiency requirements could serve as a \"good template\" for federal standards through 2025."
-    publishedDateTime: 2020-11-13T04:58:00Z
-    webUrl: "https://www.reuters.com/article/us-california-emissions-autos-idINKBN27S3AM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27S3AM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27S3AM"
+  - title: "'People are turning out at home': Biden arrives in Wilmington after final campaign push in Pennsylvania"
+    excerpt: "In the final days of the campaign, former Vice President Joe Biden asked voters to put an end to a presidency that has \"divided this nation,\" while President Donald Trump painted his challenger as a member of an \"arrogant,"
+    publishedDateTime: 2020-11-06T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/biden-vs-trump-who-lead-country-through-coronavirus-racial-unrest-recession/6127770002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6127770002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6127770002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541039899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB21E"
-        width: 818
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/572eb25d-af11-4686-9704-0c37632b15a3-promo.jpg?auto=webp&crop=689,388,x41,y455&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "nHcq38p1/wsI+EqyE0xulcRMIKETddJ6ITSmZHbcBqlVssyqG7PG28RbNnuCIBYEb+2a2Rt9+svsdTv9X3pIOXGDL7Xrx0xEhuOntjC5mAgqIALubYlGZJsMGWinuPVHN2vLk63RQ9ApYhMOD/gYOeL/9I6tSqyrW1uBZPxRyKh5F3zzsqbzMWrFIolGk9mWTiTPyNR5+neS/QgVspqEzCQaoZXq0XRpnmoHiNCBrGUZaWMQwFgVn/+4yH4aDVGfHrW4g2Z3SXwKYo18cvN2+RgtYYuKb3atWR37YmQFfHynvlrgnoAVMiVA6LSGLZqlotyuy0HStcuelFQqHJIIcGcJsY2XtWBtbr+VD+nIKU3fDTPJbjKZwoEnZbXXZRkO/7Dd6tlUcMmckl7iAKkv8RdrBfi6O+QUGJxKmoHd9GP0kjJZp7pTPDAG3hzzemxnkT/ldddrFGHgmsjOgd4zL2j+J7Zf0tvlyftTcKaue79gbGLejD7qNlwLtv6OAwh13PacVG2ZeNym2X2JqrL8Dg==;Dg59+CS6H2TgvwLQZx4iIw=="

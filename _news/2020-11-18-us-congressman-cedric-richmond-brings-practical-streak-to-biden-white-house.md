@@ -93,22 +93,6 @@ related:
         width: 824
         height: 545
         isCached: true
-  - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
-    excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"
-    publishedDateTime: 2020-11-18T21:24:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-letter-biden-congress-presi-idUSKBN27Y2VH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2VH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2VH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541683546&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1QA"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Joe Biden taps Ron Klain as chief of staff"
     excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-12T12:10:00Z
@@ -123,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden promises to prioritize state virus funding"
+    excerpt: "President-elect Joe Biden says he's hopeful that Congressional Republicans will be more willing to send money to state governments after President Donald Trump leaves office. He's promising to make such funding a priority when he takes office."
+    publishedDateTime: 2020-11-18T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/18/biden-promises-prioritize-state-virus-funding/3768620001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden speaks to frontline workers"
     excerpt: "Watch \"President-elect Joe Biden speaks to frontline health care workers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-19T04:33:00Z
@@ -136,20 +134,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/18/story_07752290_1605727107.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "House Democrat says Congress has few options to help Biden's transition to power"
-    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
-    publishedDateTime: 2020-11-18T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "U.S. to see more Chinese listings as Biden will make art of deal easier, advisors say"
     excerpt: "Chinese companies' stock market listings in the United States reached a six-year high in 2020 and advisors expect the trend to accelerate in the year ahead in expectation of a stable regulatory regime under U."

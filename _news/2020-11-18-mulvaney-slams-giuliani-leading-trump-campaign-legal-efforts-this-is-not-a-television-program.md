@@ -79,36 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
-    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
-    publishedDateTime: 2020-11-13T02:04:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-258970/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
-    excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
-    publishedDateTime: 2020-11-17T20:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 127
-    images:
-      - url: "https://images.wsj.net/im-261242?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "iHKWqfA81JBfYN9dNSOnN9YGk6BBnQnA8dWZ4T6HIxUcFcGK9Srx9n1bdRplooxC3lOdHaRoP5NI1tLnrhRjn6mi1P5nh2wm43B+iNm8lGIfNLWCRd031a7Q/ML5mAHLafYQlyFkeU3RaKSVpNf07GiYJXwXy7bTQNQg6etr7bwzc5ppyN1fTdYByonqnDwbVEWUkScPkUsPmY3eTDYFsFiP3rmYlaLcunYvbP6WvK8fgNheYCXSSNHof9UNZQqgGACmH67am45fxermWLb9io+jPB/hTcVISXYH/RoQvkniBaKsEeXTrhat17LR43LQPq5Kiv5ttIFJoj3FIPuMZcILP7CI6vbEaQmthVn6Owg=;UmaNSjojLh7xZj2V68v4kg=="
 ---

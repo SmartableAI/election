@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-amy-coney-barrett-overturn-ob
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-amy-coney-barrett-overturn-obamacare.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden transition team member urged Dems to use Amy Coney Barrett's faith against her"
+    excerpt: "A member of his legal review team questioned whether Barrett could put her faith aside to uphold the rule of law."
+    publishedDateTime: 2020-11-19T22:46:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tNGR61Ty3E/biden-democrats-amy-coney-barrett-faith"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-democrats-amy-coney-barrett-faith.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-amy-coney-barrett-faith.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0427208f-5e41-49a8-9153-300b413b3ad9/90e6c995-d824-4807-8b3b-550b3971b990/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's claim Americans didn't lose private health insurance under ObamaCare debunked by fact-checkers"
     excerpt: "Fact-checkers described Biden's debate remarks “a variation of a claim that earned President Barack Obama our Lie of the Year in 2013.”"
     publishedDateTime: 2020-10-23T20:13:58Z

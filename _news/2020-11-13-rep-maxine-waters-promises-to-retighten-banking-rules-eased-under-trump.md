@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-ba
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-vows-to-undo-trump-banking-rules.amp"
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge Rules Trump Administration Can’t Immediately Expel Migrant Children Under Pandemic Order"
-    excerpt: "The ruling said the Trump administration can’t immediately expel unaccompanied immigrant children and deny them a chance to request asylum under a public-health emergency the government declared in March."
-    publishedDateTime: 2020-11-18T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+  - title: "Trump faces economic redline"
+    excerpt: "When it comes to who’s-telling-whom, economic interests usually dictate political actions."
+    publishedDateTime: 2020-11-19T21:53:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-faces-economic-redline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 123
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "https://images.wsj.net/im-261647/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "THCVUFy5mki7vqxBHQA1rluUGk5atQW8Esc1v2EVAhAFsbzIWNu2VG+coIH5x9BrLffiRdDGYjPF7n9Gp7YVwR7iQxygpaIHrilaWEihj25uLHuRRNx1on4CvjtqPfczcd5rSZRXJBeWbqgWmDyhTgN4ecYjGaTnPmsY0e1tMj/qKpqbdHrXaWJWKj7YUd0ZTYUKA5For2NbC1Qj0aC3UpyO558q5kmiP7I4rGkwkDGzuwDnHVwjzi100/L828sGbQbFvvEo+g9E8EFqQPpEMmPnZ84BCxCABHbxRMSzoO328/myRhtABiFePOr+gvdzGtCBE55uBwDqZ3/xqpIKl5EDUmmb/GtBGZzvzm71DJs=;rCVoPLM5rYTG+2u5u41Bcw=="

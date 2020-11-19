@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
 type: article
 quality: 128
-heat: 448
+heat: 468
 published: true
 
 provider:
@@ -285,6 +285,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 81
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "VUSQDjKAiOPUEsH8KTgDNhca2D6+nPXsErEFcx/NGLmMrJFQ8fNlPce2IVemjXmwcn49jZ2RvmRilW9YYpS36zYawhZh52I7zD2d+HBX7k1uAvmpUYYN9vZURqZz5Hzdu7I3zyjwRyF0LSwuvVT/CGnUeMxsZFYdpKCEtmJQuSlS2Ax9iUFQfA9c9xw/GhPC5SZM5HhyCRM9x/nwSY6hWDkc88uhT8D7nnd7fAvTk7nEk1Vph/H3hiqJCgbwuEV1r66zLVxp+DfTRYt7GcH55hEAwVXozQ3sPp5rKL2QSe8uDpxZEcZXxKhIk7WMdKSgLCUY70PGICopf8ruk1mYjIj8guDFWRiraKy3cqYUJsg=;pFp4/JFi3BFM1M8RXHKDfQ=="

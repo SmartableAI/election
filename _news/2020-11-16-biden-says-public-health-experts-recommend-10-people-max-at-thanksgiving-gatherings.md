@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal"
+    excerpt: "The progressive lawmakers belonging to the “Squad” took to the steps of the DNC Thursday to demand President-elect Joe Biden in his administration implement the Green New Deal, transforming the U.S. economy to combat climate change and creating thousands of jobs in renewable energy."
+    publishedDateTime: 2020-11-19T22:39:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xKbGF-xlqFM/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'"
     excerpt: "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday."
     publishedDateTime: 2020-11-12T00:46:49Z

@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Census delay could kill Trump's plan to exclude undocumented immigrants from count"
+    excerpt: "The Census Bureau said Thursday it has discovered unspecified \"anomalies\" in its count of the US population that could delay the report past January 20.\n    \n"
+    publishedDateTime: 2020-11-19T21:45:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k-TvgVi9tv8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/census-undocumented-immigrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/census-undocumented-immigrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's fraud accusations make no sense. The suburbs, not the cities, are why he lost."
     excerpt: "President Donald Trump continues to carry on with his unfounded charade claiming the election was wide-scale fraud. At the heart of many of his campaign's complaints is that the big cities in the Great Lakes (Rust Belt) battleground states, such as Detroit and Philadelphia, helped to \"engineer\" a certain"
     publishedDateTime: 2020-11-17T12:01:26Z

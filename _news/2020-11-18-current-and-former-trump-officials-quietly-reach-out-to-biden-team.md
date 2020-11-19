@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/trump-officials-reach-ou
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/trump-officials-reach-out-biden-transition-team/index.html"
 type: article
 quality: 190
-heat: 1210
+heat: 1250
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201113163942-03-trump-rose-garden-presser-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Children facing deportation are asking Trump and Biden for help"
+    excerpt: "In a last-ditch effort days before they could face deportation, children in federal custody are asking President Donald Trump, President-elect Joe Biden and Congress for help.\n    \n"
+    publishedDateTime: 2020-11-19T21:48:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qMrN4XdtOxg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/ice-detained-children-letter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/ice-detained-children-letter/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119124104-01-south-texas-family-residential-center-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -332,6 +348,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
+    excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
+    publishedDateTime: 2020-11-19T21:36:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vXmna-tzeq0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportation-secretary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportation-secretary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190521104847-rahm-emanuel-092018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -143,22 +143,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
-    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
-    publishedDateTime: 2020-11-19T12:17:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
     excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -223,6 +207,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's election power play: Persuade Republican legislators to do what U.S. voters did not"
+    excerpt: "President Donald Trump's strategy for retaining power despite losing the U.S. election is focused increasingly on persuading Republican legislators to intervene on his behalf in battleground states Democrat Joe Biden won,"
+    publishedDateTime: 2020-11-19T20:57:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z30G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z30G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z30G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541815608&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1SD"
+        width: 795
+        height: 545
+        isCached: true
   - title: "Trump has achieved one of his post-election goals: sowing doubt about the outcome with his base"
     excerpt: "If Trump’s main goal was to convince his base Biden didn’t win fairly, he can rest assured that he was successful."
     publishedDateTime: 2020-11-18T18:17:00Z
@@ -270,70 +270,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8480148b5334427e9df40d97cb07bf37_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Republican lawyers to hold news conference, Trump says"
-    excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
-    publishedDateTime: 2020-11-19T13:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump/republican-lawyers-to-hold-news-conference-trump-says-idUSKBN27Z1UB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z1UB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z1UB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541768039&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI119"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump is trying to stop local officials in key swing states from certifying election results in a last-ditch effort to block Biden"
-    excerpt: "Two Republican canvassers in Wayne County, Michigan, are trying to rescind their votes to certify election results after Trump reached out to them."
-    publishedDateTime: 2020-11-19T15:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-trying-to-block-election-certification-in-swing-states-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fb6856b50e71a0011556273?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Republican lawyers to hold news conference, Trump says"
-    excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
-    publishedDateTime: 2020-11-19T18:23:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-idUKKBN27Z1UH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z1UH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z1UH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541764427&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI11L"
-        width: 746
-        height: 545
-        isCached: true
-  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
-    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
-    publishedDateTime: 2020-11-15T17:29:00Z
-    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
@@ -394,20 +330,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
-  - title: "Recounts unlikely to change Trump election loss"
-    excerpt: "Video Module Recounts unlikely to change Trump election loss. Posted [NFA] President Donald Trump's attempts to cling to power appeared more tenuous than ever on Wednesday as elec"
-    publishedDateTime: 2020-11-19T08:34:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD53OKIN"
+  - title: "Trump's election lawsuits plagued by elementary errors"
+    excerpt: "When President Donald Trump sends lawyers to court, it seems he’s not sending his best."
+    publishedDateTime: 2020-11-19T22:39:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-lawsuits-plagued-by-elementary-errors-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-lawsuits-plagued-by-elementary-errors-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-lawsuits-plagued-by-elementary-errors-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201119&i=OVD53OKIN&r=OVD53OKIN&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Trump dropped 3 agency heads in the days following the election, amid reports that more departures could be coming"
     excerpt: "The departures came amid speculation that other agency heads and government officials may be fired or resign from the Trump administration."
     publishedDateTime: 2020-11-08T05:40:00Z
@@ -469,6 +402,22 @@ related:
       - url: "https://i.insider.com/5fa99dd61df1d50018219a9b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump invites Michigan Republican leaders to meet him at White House as he escalates attempts to overturn election results"
+    excerpt: "Jonathan Kinloch, a Democrat and the board’s vice chairman, told The Washington Post that it’s too late for the pair to reverse course, as the certified results have been sent to the secretary of state,"
+    publishedDateTime: 2020-11-19T22:36:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/19/wayne-county-rescind-certifying-election/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/19/wayne-county-rescind-certifying-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/19/wayne-county-rescind-certifying-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QX5D25BJ4QI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 872
         isCached: true
   - title: "Lawyers at the firms helping Trump challenge the election results fear they're undermining the law and US elections, report says"
     excerpt: "The New York Times reported that lawyers for Jones Day and Porter Wright Morris & Arthur are worried about their firms' work with Trump."

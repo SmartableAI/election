@@ -47,6 +47,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
+    excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
+    publishedDateTime: 2020-11-16T15:28:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sFrEAyQ1Cyg/trump-campaign-pennsylvania-lawsuit-washington-post-report"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pennsylvania-lawsuit-washington-post-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Campaign Gets Positive Ruling in Challenge to Pennsylvania Vote-Count Process"
+    excerpt: "In a win for one of the Trump campaign's recent legal challenges, a Pennsylvania appeals court ruled Thursday that poll observers must be allowed to closely observe the vote-counting process. The Trum"
+    publishedDateTime: 2020-11-05T16:21:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/ZhdOMn7amAYher9H1Hgp"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 109
+    images:
+      - url: "https://images.wsj.net/im-255469?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "/aQTNgGTeZuUyh4Vxsuw+aGybVWSnseun96MdhmpjQ5/FByoXoWRA4g6FTqoogvI/yspPLc4dREYTjAwVQ0KqOivaDLatLfhUWAmheSvQ1PueEGwo3LajAufHa+C5YjcEh+nW7thI94Lus6BQLw2EIBfTO02RyyAGouO7ZRn8h1n6E5pghSAymUpJIgLWH17W0cJxFr61oUJsrjs2KJg4oyKd799ZSDM6b1quhKJDJDL+hCSwYQvKiPxd49JmxxGSoClAVD22cmK/bT4hOBDDA61vsts0/NuNNM4skFMJgKh0VguuSdDrJlRYbuTxO6ud1mmRhEcgdGO1I2HqN6QOfTr1TT0+hdmGsrRhf5wces=;g3X8pm1G7cpBG5WYst+AAA=="
 ---

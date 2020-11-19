@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-cha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
 type: article
 quality: 182
-heat: 282
+heat: 242
 published: true
 
 provider:
@@ -78,36 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
-    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
-    publishedDateTime: 2020-11-13T02:04:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-258970/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
-    excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
-    publishedDateTime: 2020-11-17T20:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/833dRy8NX7D2GlYjFBKI"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 127
-    images:
-      - url: "https://images.wsj.net/im-261242?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "fXZKyh+iUWq9nvJX4NIeWo/MPLAtF2NgCQSbEvp3vSmXcs/fKyjIK901M0/ddVcV6P3zBAmSdEEqTJs+GbzaxxX8PlWSi0ctIpXhPGTPLZAwN24fKjz/Wc7gJNAxyPu9xdrZ2md2/wRE/MBkj0SBcNlRGOFGmA8eGAPPRj4TSZREl2MXJnmAV976T/v5hPYmfPT797DJsYdXEGO7GMjv0nRhvECjhHyMFA3z+17iW6sLhoTHxWYkcnTpSj34DRenA9mUqPXrgh26tJpAnevlxUKcZe3C2foXlKtmiOVhhiJcwbt9mvI0i4TllmILjQIQ1gTswan8eqiLftm/OJYNe7Ol6T0ym6JH/vDIh0wDJfI=;bYjAO/fUOt7zJRxCmAnq4g=="

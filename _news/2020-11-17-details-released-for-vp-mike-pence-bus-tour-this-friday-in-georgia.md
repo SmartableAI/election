@@ -2,26 +2,26 @@
 category: news
 title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
 excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
-publishedDateTime: 2020-11-17T01:57:00Z
-originalUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+publishedDateTime: 2020-11-17T02:57:00Z
+originalUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+webUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
 type: article
 quality: 75
 heat: 95
 published: true
 
 provider:
-  name: 11Alive
-  domain: 11alive.com
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.11alive.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+  - url: "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IvwbHzfuu3/LYlrgOsN8lzhq6ulEON7+6YaA5eOp/CAqaw1fNuk2sBMRJ0MNJ8fAFJnWr+Qal3uwCKbdE63Eh+/dMm4EvP9SmGZdYcfHNG3290cmoArzTjfV7kGY8UUBGRBJZn6BimHkAhge/s72JnIFOI4/UHhpNvB8q/Rc2X0A2FLFBsgs+0vTG7uxKt8lwuWM5HcEdyVhMWhJLcFdd91a+Wc7UcFiAWcE9lZM+bgWKTyvTCPs1mWaHojetFiM+quu9i37kyFjn1A4GTGc1Q34h2M9HI9Q95nrWOzN/Sn5XySBhOlx/P0mgSnohHalGl0ZePCBx9mGRxQBf+cNa4875zabJ7qGOw2fGbaspXAvXxR2ajoBbiM4+/wWu3GlluD4Z/OoHG52+exavpUwufzSoEY+9e1LtdRTbuJrSBUuPCrOfDw16mYoJ1gAKWjOJR5GVh6XV6pqS0xe7XM/qmO6g5llHmOG3hkRyQI9oVw5Tb4ZjbMqxTNRDUEs7dR+8TmQFSsYouACvde24SZ/pg==;A9iYzWCLcYuBfaM7tKSRnA=="
+secured: "zjK9poC0xHimXBB/FV8evGWyXAD/1KZO2m/G03bl76lvceWBOzT21hOCqwq2unBM7CdJVuFDKvAPXpZuP9QMFhowQ8/3GF7DTNOt1PwRtT/++GVq3yo9G3Yia5U4vCZ3RC8kSrdJf0l06pwt2+RluSpz0hOHconht0gvkRegewobmOBf9Sn+p09Yi/uhU1rjWpxbCJ76L1MHZk5xcC3y8VS4y0Czj7VnGkAs/fw6bGMw8awadhmfWQew2B7D1rHLbLxL3dswNorThel3Cy+HV2mBPVfZJNHQbHuYDdtaY+vKJGJvEz+pf8MDNvm3fiY4AlY96KtR1HBxB8MJ2O7dx4TJwMh4uZ+Q71QA7XzyfKM=;nYwLG6gsZjoZlfAHFNQQGg=="
 ---
 
