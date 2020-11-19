@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rudy Giuliani straight-up asked a federal judge to ignore Pennsylvania voters and declare Trump won the state"
+    excerpt: "President Donald Trump lost Pennsylvania by more than 80,000 votes, but his legal team wants a judge to hand him the state's electoral votes anyway."
+    publishedDateTime: 2020-11-19T19:16:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fb6bf8732f2170011f701c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
     excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
     publishedDateTime: 2020-11-18T08:31:00Z

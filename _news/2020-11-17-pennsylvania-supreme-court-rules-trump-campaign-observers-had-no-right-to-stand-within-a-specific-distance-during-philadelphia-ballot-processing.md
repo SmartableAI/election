@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact checking Giuliani and the Trump legal team's wild, fact-free press conference"
+    excerpt: "In a wild, tangent-filled and often contentious press briefing led by President Donald Trump's personal attorney Rudy Giuliani, the Trump campaign's legal team laid out its case for widespread voter fraud in the election. The roughly 90-minute briefing was overflowing with falsehoods and conspiracy theories.\n"
+    publishedDateTime: 2020-11-19T20:54:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2D0EumV37R8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/giuliani-trump-legal-team-press-briefing-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/giuliani-trump-legal-team-press-briefing-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119145352-rudy-giuliani-trump-legal-team-briefing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
     excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
     publishedDateTime: 2020-11-05T15:37:51Z

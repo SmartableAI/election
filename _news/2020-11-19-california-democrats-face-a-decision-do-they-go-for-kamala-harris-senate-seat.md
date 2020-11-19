@@ -1,14 +1,14 @@
 ---
 category: news
 title: "California Democrats face a decision: Do they go for Kamala Harris’ Senate seat?"
-excerpt: "No matter who succeeds Kamala Harris in the Senate, there are going to be a lot of disappointed politicians. That’s to say nothing of various interest groups and political factions who are pushing for one person or another. Or, one type of person or another."
-publishedDateTime: 2020-11-19T15:18:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GB89rS5KFGw/california-democrats-decision-kamala-harris-senate-seat"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GB89rS5KFGw/california-democrats-decision-kamala-harris-senate-seat"
+excerpt: "No matter who succeeds Kamala Harris in the Senate, there are going to be a lot of disappointed politicians. That’s to say nothing of various interest groups and political factions who are pushing for one person or another."
+publishedDateTime: 2020-11-19T15:24:00Z
+originalUrl: "https://www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat"
+webUrl: "https://www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat"
 ampWebUrl: "https://www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-democrats-decision-kamala-harris-senate-seat.amp"
 type: article
-quality: 180
+quality: 130
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e76f3973-7489-47be-8357-008080992e06/a556f4dd-05f4-4fcf-9050-e53cc7377c09/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -111,6 +111,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5LHrgBj9UaGbeTU3bHPAwR3a2aRV7l1Len31xLooyoR8MisFtG5An7e99o7bbeJg7OKWJNhHs2WSJ0SzKc/6QoKoWkPnKVmGsik4Dz8uEtEJ0OTViPn4913VkAetX40YyoQ9rbCho8Fu8KziRjcBl/Zftqsfr90ghB48pga3ATnQ+oHLmsvua45PLhndKbG1W6X5DsL52PV5BbRTImoVJH+tVO8U/Th5g9rTy0CLYVzrnVXRtgVSJNlXOJQ3qzZ5CwUhvwuxcl8WjNuLQghIeeXO+oxDRhWS3VoDHDVqtqp8C+Soog3GDdDBVc9mllit9LnTrvGqc6I+FUrVnxWj9ystrtOZzUp97WXLWlBwdQk=;U2cZTbTcH00JHEtmaK66Wg=="
+secured: "uWooUt+tFgbFhuZQ+2sV5TJK7tx9QBQomOOEehTdJFh36la+Terf2u0kz2owpN97fLvyHaAyivkCIjebFk/T+6bKxFw4EqNGU3eUIbRKfggqWlUh+VBohyQmWFveWLOs8Wh6rSZU5TCQcs+9ki6pnNEoJUqA+o6s2c6knjYxKthRs2CnhH94spXxfgNGzRW1LJi0leZw8KTNpN1M9uXM200PuLOz7vXalf1nr1nYk6T/cYyNMS5LbusxEXEgPHQTuF/paV0SWYdDdOQxAl0l42J4kSd8jUoGhAT0NPL+6rcNeg0lZRUS5DqpzI0aLblehSxEqkaksE78PPGiG76bSAlN/LA6sDQBStxcXdksMeE=;dXPHzB+6Rl4NG0ioAdEPyw=="
 ---
 

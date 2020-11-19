@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucc
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/17/anthony-scaramucci-lists-three-pieces-trumps-endgame-ctn-vpx.cnn"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/16/magazine/mag-trumplitigation-homepage/mag-trumplitigation-homepage-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Will Lara Trump Be the Next Trump on a Ballot?"
+    excerpt: "Lara Trump, the president’s daughter-in-law who emerged during the 2020 presidential campaign as a defender of President Trump’s basest political instincts, is now eyeing a political future of her own in her home state of North Carolina."
+    publishedDateTime: 2020-11-19T20:22:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/us/politics/lara-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/us/politics/lara-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/us/politics/lara-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19laratrump1/19laratrump1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

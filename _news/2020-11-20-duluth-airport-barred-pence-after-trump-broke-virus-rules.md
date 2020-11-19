@@ -3,8 +3,8 @@ category: news
 title: "Duluth airport barred Pence after Trump broke virus rules"
 excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
 publishedDateTime: 2020-11-19T17:39:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
+originalUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
+webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
 ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
 type: article
@@ -312,6 +312,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VqNAUVIKida/zrRaUgK7oqBWrGRCeV0wQqeptqsWTB1/6nQGQMvBgOC3FtRV0SnKxSRv26FKyl2IwFOz+H9Hqmrnd4LIPMODTOHxAarXsX2SqqBjHGsJ8mw72o/fNmgS1WzqWindVLCDNT+v24GnH5HABHRbbpcZj4zmijXVLM//SETuonddYhNNvAvvg5smScvnWzO7ZGN+kOJk7QpKjAMiYL1o8xez7uQ8YgcSW24c5M5sk2yd++y/9NLPO83zvT9mVU4W3+nbW+R/m8TLCy+MwG4lQT0Epss/Ds3L7+ShpafNP5ibKS9pfhFKfEkGe+X9D8VbYNaO2dQ+28S9A1Q9S0vDUeFqjWfjRfGskWE=;a7s2k8dZ7CwVdF2hI5iQfQ=="
+secured: "uug63x+bT7pnwOamONKI/sEiPqPBr7uhhh6qY1mf7Yo4nM8Z6qRq6XIDyReBOfjkKfUOfiIGkmIxE53VyQaVaDdSmVYj4J7BXR9f9gDB7aH1cyToO6zYdT5z8bCy7NqkRJ4bsN01UupGZHA+1e2bFB3WVLn/6l7KKFOyBiCOIuFfCTlxu4OLQJVn1aNs9VeKXmqlfDSqHJoyAOiuU/O8+lllVLG76h98gcf1OmWSMDN4rVg6SVMTtdkqxwWEf+BlKhGdpmdzyVjRHZHxnjXoJoRlLqlQur12WzyXDUpMWfiQ6mor6moSJtnbp/8H28pcBJvSkqAUCIpNqCMHH4JHin2qnuq9Avrj6b0A2xkaCR8=;idVy/wUMlFbamag5oSRaYw=="
 ---
 

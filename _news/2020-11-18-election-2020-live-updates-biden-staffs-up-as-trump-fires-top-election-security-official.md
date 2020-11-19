@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-2020-trump-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-2020-trump-biden-nov-18-2020.amp"
 type: article
 quality: 196
-heat: 956
+heat: 976
 published: true
 
 provider:
@@ -556,6 +556,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-255810/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Broadens His Efforts to Overturn Election Outcome"
+    excerpt: "The president is threatening Republicans who challenge his refusal to concede, as looming deadlines for key states to certify their results are set to narrow the path for his legal challenges."
+    publishedDateTime: 2020-11-19T20:35:00Z
+    webUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-261733/social"
         width: 1280
         height: 640
         isCached: true

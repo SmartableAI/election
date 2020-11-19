@@ -110,6 +110,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Will Lara Trump Be the Next Trump on a Ballot?"
+    excerpt: "Lara Trump, the president’s daughter-in-law who emerged during the 2020 presidential campaign as a defender of President Trump’s basest political instincts, is now eyeing a political future of her own in her home state of North Carolina."
+    publishedDateTime: 2020-11-19T20:22:00Z
+    webUrl: "https://www.nytimes.com/2020/11/19/us/politics/lara-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/19/us/politics/lara-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/us/politics/lara-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19laratrump1/19laratrump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Here's definitive proof Republicans are still afraid of Donald Trump"
     excerpt: "For all the people who predicted that the Republican fever would break the instant it was clear that Donald Trump had lost the presidency to Joe Biden, let me present you with this exchange between CNN's Alisyn Camerota and Delaware Sen."
     publishedDateTime: 2020-11-10T17:07:00Z

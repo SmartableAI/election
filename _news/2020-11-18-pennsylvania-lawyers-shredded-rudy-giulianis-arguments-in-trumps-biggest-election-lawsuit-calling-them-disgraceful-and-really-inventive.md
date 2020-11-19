@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rudy Giuliani straight-up asked a federal judge to ignore Pennsylvania voters and declare Trump won the state"
+    excerpt: "President Donald Trump lost Pennsylvania by more than 80,000 votes, but his legal team wants a judge to hand him the state's electoral votes anyway."
+    publishedDateTime: 2020-11-19T19:16:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-asks-federal-judge-ignore-voters-declare-trump-pennsylvania-winner-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fb6bf8732f2170011f701c4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lypg/BkUFPRvv6yCFm1KLlojGbLEBNPXVAB5WyCynkllQltuccTuYZMW5M5gbmcpjZQ9z+1fjoV4vBwttiORNhy2+O0nar4KMeN2P4juCH3RASpy5S7y4d7/Xv3b3vt36Xolfui6PFwGsq0T33xrjIM9gfx3IX341riivEzzgzGG3fRNl0i9UA9oWN9+I813+YjrBhcPG0ixwdfsNNwKb2nC9v3SiAoZp0ysSoukQviEnlCTzXGeo8DBlTrlXFLXtrEXi4sEwfsfK7JTocOD8u8uzsodOhKbH1RTpNfAc4A+C8q7vkoi5cLlt6xughFHTRryS3FSoT/1Lm3fOKIM+8MtvVNNf/8SUKZi0f796Fs=;sWJ2G2v/NS/fxtFV+0Wsxw=="
 ---

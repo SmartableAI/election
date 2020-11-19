@@ -251,7 +251,7 @@ related:
   - title: "Duluth airport barred Pence after Trump broke virus rules"
     excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
     publishedDateTime: 2020-11-19T17:39:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
+    webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
     ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
     cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
     type: article

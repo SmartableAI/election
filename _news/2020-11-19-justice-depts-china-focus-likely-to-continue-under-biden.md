@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's vaccine team will not brief Biden administration: U.S senator"
+    excerpt: "Officials from President Donald Trump's vaccine distribution effort have not briefed anyone on President-elect Joe Biden's transition team, and have no plans to do so, a Democratic U.S. senator said after a White House call Thursday."
+    publishedDateTime: 2020-11-19T19:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-vaccine-idUKKBN27Z2UA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z2UA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z2UA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541805971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1O3"
+        width: 838
+        height: 545
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
@@ -211,6 +227,22 @@ related:
     webUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden tells governors he’ll help states overcome coronavirus"
+    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

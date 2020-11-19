@@ -559,6 +559,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Broadens His Efforts to Overturn Election Outcome"
+    excerpt: "The president is threatening Republicans who challenge his refusal to concede, as looming deadlines for key states to certify their results are set to narrow the path for his legal challenges."
+    publishedDateTime: 2020-11-19T20:35:00Z
+    webUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-261733/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z

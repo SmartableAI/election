@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-repu
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/?outputType=amp"
 type: article
 quality: 140
-heat: 760
+heat: 780
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://i.insider.com/5fb6856b50e71a0011556273?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Republican lawyers to hold news conference, Trump says"
+    excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
+    publishedDateTime: 2020-11-19T18:23:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-idUKKBN27Z1UH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z1UH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z1UH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541764427&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI11L"
+        width: 746
+        height: 545
         isCached: true
   - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
     excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
