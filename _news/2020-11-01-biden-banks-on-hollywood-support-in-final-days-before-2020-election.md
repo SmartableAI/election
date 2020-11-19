@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp"
 type: article
 quality: 190
-heat: 390
+heat: 490
 published: true
 
 provider:
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden victory-speech event mixes jubilation with social distancing"
-    excerpt: "President-elect Joe Biden wrapped up his campaign Saturday by giving a victory speech at a drive-in rally in Wilmington, Del. alongside Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-08T03:58:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/56K8_QKJ3nI/biden-victory-speech-event-mixes-jubilation-with-social-distancing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-victory-speech-event-mixes-jubilation-with-social-distancing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-victory-speech-event-mixes-jubilation-with-social-distancing.amp"
+  - title: "Biden takes all 5 votes in Dixville Notch, NH to notch first victory on Election Day"
+    excerpt: "Democratic presidential candidate Joe Biden has won win the midnight election in Dixville Notch, N.H., in a landslide."
+    publishedDateTime: 2020-11-03T08:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V2Nd4ZxAa8g/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-all-5-votes-in-dixville-notch-nh-to-notch-first-victory-on-election-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20308225730346.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden campaign touts military support in new TV commercial"
+    excerpt: "EXCLUSIVE: With five days to go until Election Day on Nov. 3, Joe Biden’s campaign on Thursday is going up with a new TV commercial in key battleground states that spotlights the Democratic presidential nominee’s support among military families and veterans."
+    publishedDateTime: 2020-10-29T14:18:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IA0fxpzfJtc/biden-campaign-military-support-new-tv-commercial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-military-support-new-tv-commercial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313085958169.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's lead shrinks in Pennsylvania in final days of race: poll"
+    excerpt: "A poll of Pennsylvania voters released Monday found that Joe Biden’s lead over President Trump in the key battleground state has shrunk in the final days of the race."
+    publishedDateTime: 2020-11-02T12:29:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wzU4MTRP5fM/biden-trump-monmouth-pennsylvania-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-monmouth-pennsylvania-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/770a34bb-ca60-44e4-9bc0-be2c339d4343/f84ea96a-50e1-4131-9578-95531fcec7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Seattle man fatally shot near Biden celebration rally: report"
     excerpt: ""
@@ -95,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
-    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
-    publishedDateTime: 2020-10-25T19:37:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Pelosi: 'I feel very confident that Joe Biden will be elected president on Tuesday'"
     excerpt: "House Speaker Nancy Pelosi projected Thursday that Joe Biden would win the White House and said Democrats are ready to work with him on a transition agenda to tackle the coronavirus pandemic, address the economic fallout and pass an infrastructure agenda. "
     publishedDateTime: 2020-10-29T17:21:26Z
@@ -143,6 +159,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
+    excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
+    publishedDateTime: 2020-11-01T17:48:00Z
+    webUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/"
+    ampWebUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "CNN fact-checks Biden's proposed mask mandate"
+    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
+    publishedDateTime: 2020-11-03T03:25:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden 'has been caught in repeated lies over Biden Inc.': Sen. Johnson"
     excerpt: "Coming up, White House Chief of Staff Mark Meadows on a blockbuster admission at the final presidential debate, Joe Biden on transitioning the oil and gas industry. JOE BIDEN (D), PRESIDENTIAL CANDIDATE:  By the way,"
     publishedDateTime: 2020-10-29T19:20:00Z
@@ -173,6 +221,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michigan Democrat on Biden's Expanded Travel: 'I Want Joe Biden to Win Georgia'"
+    excerpt: "Many Midwestern Democrats have criticized Hillary Clinton for losing sight of their “Blue Wall,” or a collection of states near the Great Lakes that the party has typically carried in presidential elections."
+    publishedDateTime: 2020-10-27T09:47:00Z
+    webUrl: "https://www.wsj.com/livecoverage/election-live-updates-trump-biden/card/hsUB8oa28eKyvdY3Lpg6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 111
+    images:
+      - url: "https://images.wsj.net/im-250629?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "A Biden Family Special Prosecutor in 2021?"
     excerpt: "If Joe Biden loses on Nov. 3, public interest in whether his son Hunter exploited the family name to rake in millions of dollars from foreign donors will likely fade away. It will not matter, and"
     publishedDateTime: 2020-10-27T10:36:00Z
@@ -186,6 +248,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/52/525278_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's War Against the South"
+    excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
+    publishedDateTime: 2020-11-03T11:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/525922_5_.jpg"
         width: 750
         height: 500
         isCached: true

@@ -30,70 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's lack of honesty on Covid hangs over his reelection bid"
-    excerpt: "President Donald Trump's refusal to tell America the truth about the pandemic in a bid to save his political skin, on display at a potential super-spreader rally in Iowa on Wednesday night, is fostering a vacuum in national leadership and crucial public health mobilization as a winter of sickness and"
-    publishedDateTime: 2020-10-15T10:51:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ljN9iFIgX0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014163724-01-donald-trump-1014-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Adelsons provide $75 million cash infusion to Trump's reelection effort"
-    excerpt: "Billionaire casino mogul Sheldon Adelson and his physician wife, Miriam, poured a whopping $75 million into a super PAC launched in late August to aid President Donald Trump's reelection, new filings show.\n    \n"
-    publishedDateTime: 2020-10-16T03:01:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMeRNVXGays/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/sheldon-adelson-funds-trump-super-pac/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/sheldon-adelson-funds-trump-super-pac/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201121001-01-sheldon-adelson-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The legal reckoning awaiting Donald Trump if he loses the election"
-    excerpt: "If things don't go Donald Trump's way on Election Day, the President may face more serious matters than how to pack up the West Wing.\n    \n"
-    publishedDateTime: 2020-10-17T11:43:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MQ1CZdpEOI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/trump-election-legal-reckoning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/trump-election-legal-reckoning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016141917-20201016-trump-legal-reckoning-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump tries to recreate 2016 atmosphere in final push to Election Day"
-    excerpt: "He's gathered the same people. He's attempting a similar schedule. He even believes he's found an equivalent 11th-hour scandal -- and equivalent Russian disinformation questions have followed.\n    \n"
-    publishedDateTime: 2020-10-18T15:59:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KZdE4t2ozSk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017153332-donald-trump-1017-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Mitt Romney says he did not vote for Trump in the 2020 election"
     excerpt: "Sen. Mitt Romney said Wednesday he did not vote for President Donald Trump's reelection, the latest break between the GOP's 2012 presidential nominee and the leader of his party.\n    \n"
     publishedDateTime: 2020-10-21T20:48:09Z
@@ -126,51 +62,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Barrett declines to commit to recusing herself from a Trump election case"
-    excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-13T16:14:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bI9j07W34fQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-presidential-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-presidential-election/index.html"
+  - title: "Analysis: How Arizona complicates Trump's re-election bid"
+    excerpt: "Electoral analysts like myself have been pumping up the importance of the Great Lake (Rust Belt) battleground states. The math is pretty easy. Under any reasonable scenario, President Donald Trump needs to win at least Michigan, Pennsylvania or Wisconsin to take the presidency. This assumes he carries"
+    publishedDateTime: 2020-10-28T11:26:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OWA9DSAR5bI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/arizona-road-to-270-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002112524-01-trump-barrett-0926-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026145854-02-biden-trump-election-night-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican Massachusetts governor will not support Trump's reelection effort"
-    excerpt: "Republican Massachusetts Gov. Charlie Baker isn't backing President Donald Trump's reelection bid, his communications director Lizzy Guyton told CNN affiliate WCVB on Wednesday.\n    \n"
-    publishedDateTime: 2020-10-15T00:55:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdNIefwzuXc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/republican-massachusetts-governor-charlie-baker-not-support-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/republican-massachusetts-governor-charlie-baker-not-support-trump/index.html"
+  - title: "Senate to confirm Trump's Supreme Court nominee a week ahead of Election Day"
+    excerpt: "Senate Republicans are poised to confirm President Trump's Supreme Court nominee Judge Amy Coney Barrett on Monday, a major victory for the President and his party just days before November 3, that promises to push the high court in a more conservative direction for generations to come.\n    \n"
+    publishedDateTime: 2020-10-26T10:04:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e6Lcj4NHcQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote-supreme-court-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/senate-confirmation-vote-supreme-court-amy-coney-barrett/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 187
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181115222512-charlie-baker-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929102308-07-barrett-capitol-hill-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's troubles weighing on Iowa Senate race as Joni Ernst fights for reelection"
-    excerpt: "Sen. Joni Ernst is feeling the October heat, with the potential path to the Senate majority -- and the White House -- suddenly experiencing an unexpected Iowa detour.\n    \n"
-    publishedDateTime: 2020-10-12T10:55:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qt2h1rKlknA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+  - title: "White House admission on pandemic overshadows Trump's last push for reelection"
+    excerpt: "A stunning White House claim that the US cannot control the fast-worsening pandemic is overshadowing President Donald Trump's frantic last-ditch bid to turn around his reelection race with Democrat Joe Biden with eight days to go.\n    \n"
+    publishedDateTime: 2020-10-26T04:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMcEuOsTz8M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/election-2020-donald-trump-joe-biden-pandemic/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 186
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182549-06-sen-race-rankings-joni-ernst-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025114911-01-trump-lumberton-nc-rally-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -190,195 +126,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats hatch plans to counter Trump's attempts to cast doubt on election results"
-    excerpt: "Behind the scenes, Democrats are preparing to confront President Donald Trump if he loses the election next month to Democrat Joe Biden -- if Trump claims that the result is rigged, refuses to engage in a peaceful transition or tries to challenge the result through the courts, Congress or statehouses.\n"
-    publishedDateTime: 2020-10-19T10:31:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpnG6y10W1w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/election-results-2020-democratic-plans-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/election-results-2020-democratic-plans-trump/index.html"
+  - title: "Trump pitches economic plan for Hispanic Americans -- 6 days before the election"
+    excerpt: "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n"
+    publishedDateTime: 2020-10-29T00:37:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ia8fFmnVjdg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028191318-trump-phoenix-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration hypes immigration enforcement in key swing state ahead of election"
-    excerpt: "When the idea of erecting billboards of immigration violators initially came up at least a year ago, US Immigration and Customs Enforcement officials didn't think much of it. The proposal was considered to be a low priority, according to two sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-10-16T17:48:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aDoR-3Hviho/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-sanctuary-city-election-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-sanctuary-city-election-pennsylvania/index.html"
+  - title: "Trump's taxes, election and abortion cases await Amy Coney Barrett in her first week"
+    excerpt: "Amy Coney Barrett is preparing to join the Supreme Court as the justices are ready to take action on a number of important petitions before them, including several related to next week's election.\n    \n"
+    publishedDateTime: 2020-10-27T01:22:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B5BdkyIE0wk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/taxes-election-abortion-amy-coney-barrett/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 182
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921105920-chad-wolf-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014132825-16-barrett-hearing-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he would accept peaceful transfer of power but casts doubt on election results"
-    excerpt: "After hesitating to make the commitment for weeks, President Donald Trump said he would accept a peaceful transfer of power if he loses the election. But he continued to sow doubt on the election results and making baseless claims about Obama administration officials spying on his 2016 campaign in an"
-    publishedDateTime: 2020-10-16T02:26:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sNNjO7GnCAw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-election-integrity/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-election-integrity/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015065013-01-donald-trump-iowa-1014-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump is only polling ahead in 1 battleground state"
-    excerpt: "CNN's John King breaks down the latest Electoral College projections three weeks away from the 2020 election as Joe Biden holds a double-digit lead in national polling average.\n    \n"
-    publishedDateTime: 2020-10-11T21:42:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lPL1MiSSoUM/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+  - title: "Analysis: Why Trump's road to 270 is narrow"
+    excerpt: "President Donald Trump faces a large deficit in the polls right now. If the election were held today, he'd very likely lose.\n    \n"
+    publishedDateTime: 2020-10-20T11:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IIy2Q0CQ1ss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-electoral-map-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-electoral-map-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011085324-electoral-college-outlook-biden-2020-king-ip-vpx-00000422-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump claims immunity, negative test without providing evidence"
-    excerpt: "President Donald Trump claimed, without providing evidence, that he has \"been tested, totally negative\" for Covid-19. In a phone call with supporters, Trump said that he's \"ready to go, I feel so good.\" He also claimed immunity from the virus in an earlier interview with Fox News. According to the Centers"
-    publishedDateTime: 2020-10-12T00:04:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_r7QmhZQvgE/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump launches frenzied campaign offensive hoping for a turnaround"
-    excerpt: "The next three weeks will likely amount to the busiest of President Donald Trump's tenure, at least in terms of schedule and travel, pushing the 74-year-old President fresh from his coronavirus hospitalization -- which included supplemental oxygen and a fever -- into a frenzied final campaign offensive.\n"
-    publishedDateTime: 2020-10-12T23:47:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5fi8inGUMQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: The real reason Trump skipped 2nd debate"
-    excerpt: "On its face, President Donald Trump's immediate insistence that he would not participate in a virtual second debate made very little political sense. After all, he needs more chances to take on Joe Biden, as the former VP continues to rise in the polls. Upon further examination, though, Trump's decision"
-    publishedDateTime: 2020-10-13T15:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUJM7EyoVR8/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013075920-the-point-trump-cancel-debate-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's task force invisible as cases surge again"
-    excerpt: "The often-at-odds collection of health experts and political figures who comprise President Donald Trump's coronavirus task force now appear less influential than ever as Covid-19 cases begin to spike again three weeks before Election Day.\n    \n"
-    publishedDateTime: 2020-10-14T21:01:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qiv8KjSa0L0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901133420-pence-fauci-task-force-briefing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Arizona's growing population could be a problem for Trump"
-    excerpt: "Arizona is a 2020 swing state, despite voting Republican in every presidential election since 1996. CNN's John King explains why.\n    \n"
-    publishedDateTime: 2020-10-15T16:48:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LhFtaiMGa7s/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013100726-arizona-2020-swing-state-john-king-magic-wall-orig-00000415-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump's new low on QAnon"
-    excerpt: "This is an exchange that happened on planet Earth in the year 2020 between NBC's Savannah Guthrie and President Donald Trump:\n    \n"
-    publishedDateTime: 2020-10-16T16:16:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nXOoAFYZGnc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-qanon-pedophilia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-qanon-pedophilia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131115-02-qanon-religion-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump wouldn't — or couldn't — say if he got Covid test on debate day"
-    excerpt: "President Donald Trump could not definitively say on Thursday whether he was tested for the coronavirus on the day of his first presidential debate against Democratic nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-16T03:04:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jvPBu9zyZi8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-test-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-test-town-hall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013225717-donald-trump-1012-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fauci says he is 'absolutely not' surprised Trump got Covid-19"
-    excerpt: "Dr. Anthony Fauci said he is \"absolutely not\" surprised President Donald Trump contracted Covid-19 after seeing him surrounded by people not wearing face masks and flouting best public health practices.\n    \n"
-    publishedDateTime: 2020-10-19T00:47:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ltTByjQf4KI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/fauci-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/fauci-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -398,19 +190,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump accidentally revealed a *lot* about his taxes "
-    excerpt: "Donald Trump is the only modern American president to never release any of his tax returns -- either while running for president or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes are"
-    publishedDateTime: 2020-10-20T15:42:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2GF-5RRWif8/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
+  - title: "Trump closes his campaign by insulting Dr. Fauci for telling the truth"
+    excerpt: "President Donald Trump's election endgame argument, far from bristling with new solutions to a pandemic that has killed 220,000 Americans, on Monday devolved into a campaign of insults against Dr. Anthony Fauci -- for telling the truth about the disease.\n    \n"
+    publishedDateTime: 2020-10-20T11:50:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzcTxPmGm70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020082430-the-point-trump-accidentally-revealed-about-taxes-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -430,147 +222,227 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
-    excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
-    publishedDateTime: 2020-10-13T15:48:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnK-zYHAmh0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
+  - title: "Analysis: How Trump is dragging down fellow Republicans"
+    excerpt: "President Donald Trump's struggles in the polls have been well documented. He entered the final debate down about 10 points to former Vice President Joe Biden and trailed in key swing states.\n    \n"
+    publishedDateTime: 2020-10-24T12:42:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zVyvuYrIgys/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/trump-republicans-down-ballot-races-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022214220-09-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump details Covid illness and reveals son Barron contracted it"
-    excerpt: "First lady Melania Trump detailed her experience with Covid-19 in an essay posted on the White House website, including that her son, Barron, 14, tested positive.\n    \n"
-    publishedDateTime: 2020-10-14T21:24:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0Ik83p5hKI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
+  - title: "Hear Trump speak after voting in person in Florida"
+    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
+    publishedDateTime: 2020-10-24T15:11:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Decision on subpoena for Trump tax returns now in hands of Supreme Court"
-    excerpt: "With just over two weeks until the presidential election, a decision on whether to further delay handing over President Donald Trump's financial records to New York prosecutors now rests with the Supreme Court after Trump's attorneys filed a reply brief Monday to argue for a stay of the \"unprecedented\""
-    publishedDateTime: 2020-10-19T16:40:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iuvhoaKC9qM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/trump-tax-returns-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/trump-tax-returns-supreme-court/index.html"
+  - title: "Trump campaign is under fire for videotaping voters"
+    excerpt: "The Trump campaign is under fire as accusations of illegal voter intimidation surface for videotaping Philadelphia voters placing their ballots in a drop box. CNN's Pamela Brown reports.\n    \n"
+    publishedDateTime: 2020-10-24T00:31:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qUSY1-q59fA/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023201609-philadelphia-voter-surveillance-claims-trump-campaign-brown-dnt-ebof-vpx-00000303-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump cancels plans to attend Tuesday rally citing Covid recovery"
-    excerpt: "Melania Trump is canceling her first campaign appearance in months because she is not feeling well as she continues to recover from Covid-19.\n    \n"
-    publishedDateTime: 2020-10-20T17:07:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BojWy6hze4M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
+  - title: "Analysis: Why Trump could face a Jimmy Carter scenario"
+    excerpt: "The last president facing re-election troubles like Donald Trump's was Jimmy Carter in 1980. Injured by recession and impotent against a national crisis, Carter lost big.\n    \n"
+    publishedDateTime: 2020-10-25T12:33:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fg_0rk7-oS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/election-2020-trump-carter-scenario/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/election-2020-trump-carter-scenario/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612105925-02-melania-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023041158-donald-trump-1020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Judge suggests White House counsel is overriding Trump's position on Russia docs"
-    excerpt: "A federal judge -- sensing the White House may be overriding the orders of President Donald Trump as he flails against the Russia investigation -- has given the Justice Department five days to explain Trump's true wishes on declassifying all Mueller investigation documents.\n    \n"
-    publishedDateTime: 2020-10-16T16:56:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7kwW8JcTP-I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-russia-declassification-lawsuit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-russia-declassification-lawsuit/index.html"
+  - title: "Trump is playing up China's threat to the 2020 election. But the evidence shows, Russia is the real danger"
+    excerpt: "For months, the Trump administration has been warning of the dangers of political interference by China in the US election.\n    \n"
+    publishedDateTime: 2020-10-24T01:17:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KLMzvjEUR0M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021182050-20201021-us-election-china-russia-interference-illo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
+    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
+    publishedDateTime: 2020-10-23T10:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hundreds stranded in the cold waiting for buses in chaotic post-Trump rally scene"
+    excerpt: "When President Donald Trump left Omaha on Tuesday, thousands watched and cheered in the frigid air as Air Force One took off into the night sky. But for these loyal supporters, their experience at the Trump rally was far from over.\n    \n"
+    publishedDateTime: 2020-10-28T15:01:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wu7gOlWr0ew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-omaha-rally-cold/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015184731-donald-trump-rally-greenville-north-carolina-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028080320-01-trump-west-salem-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Five false claims Trump made in his first speech since getting Covid-19 "
-    excerpt: "In President Donald Trump's first public event since his coronavirus diagnosis, he continued to mislead the public about the virus, his accomplishments and former Vice President Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-10T22:24:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y5F4s3PJ-3o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
+  - title: "Member of debate commission rebukes Trump and says President's attacks are 'just wrong'"
+    excerpt: "A member of the Commission on Presidential Debates said President Donald Trump's attacks on the commission are \"just wrong,\" a rare rebuke coming from a member of an organization that strives to stay neutral.\n    \n"
+    publishedDateTime: 2020-10-21T14:45:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kfzzLd4sbt4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/debate-commissioner-john-danforth-trump-attacks/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010144505-13-donald-trump-white-house-event-1010-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump continues bizarre appeals to suburban women as he campaigns in Covid hotspots"
-    excerpt: "If President Donald Trump loses his reelection bid in November, it will be in part because of his fundamental misunderstanding of the beliefs of \"suburban women,\" whom he has tried to win back with a series of bizarre and racist appeals that seem more targeted to a stereotype from the 1950s and 1960s"
-    publishedDateTime: 2020-10-18T13:14:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uu0eSl3Svjw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/donald-trump-women-gretchen-whitmer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/donald-trump-women-gretchen-whitmer/index.html"
+  - title: "The Point: The new debate rules will make it very hard for Donald Trump to be Donald Trump"
+    excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-20T17:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKX840-AnKs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How the debate on the climate crisis ricocheted from Planet Earth to Planet Trump"
+    excerpt: "\"We're running out of time so we gotta get on to climate change,\" moderator Kristen Welker said as the final Presidential debate of 2020 came to a close.\n    \n"
+    publishedDateTime: 2020-10-23T14:14:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWhVonfUSwo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/climate-crisis-presidential-debate-analysis-weir-wxc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/climate-crisis-presidential-debate-analysis-weir-wxc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023085411-coal-plant-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Obamacare premiums decline for 3rd year in a row as Trump seeks to take down the landmark law"
+    excerpt: "Even as the Trump administration seeks to kill the Affordable Care Act, it is taking credit for making it more attractive to consumers.\n    \n"
+    publishedDateTime: 2020-10-20T00:56:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ozHLOl5eca8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/obamacare-premiums-2021-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/obamacare-premiums-2021-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017212456-05-donald-trump-1017-wisconsin-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009171411-healthcare-gov-website-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
-    excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
-    publishedDateTime: 2020-10-13T21:33:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGn39xRDFiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
+  - title: "Senior administration officials on the road to sell Trump's 'law-and-order' campaign message"
+    excerpt: "In the run up to the presidential election, Attorney General William Barr and acting Homeland Security Secretary Chad Wolf have been traveling around the country to underscore the administration's accomplishments, particularly as they relate to President Donald Trump's core \"law-and-order\" message.\n"
+    publishedDateTime: 2020-10-22T21:59:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z2_mSL9YPI4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/wolf-barr-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/wolf-barr-trump-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901151932-105-trump-kenosha-0901-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump didn't order declassification of Russia docs despite tweets to the contrary, Meadows says"
+    excerpt: "President Donald Trump told White House chief of staff Mark Meadows his tweets about declassifying all Russia documents weren't an order to declassify or release those records, according to a sworn statement filed in court on Tuesday.\n    \n"
+    publishedDateTime: 2020-10-20T16:34:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q2fucv-QSMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/meadows-trump-twitter/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002104736-mark-meadows-1002-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats grill Barrett on health care and abortion as Trump pick refuses to say how she'll rule"
-    excerpt: "Democratic and Republican lawmakers will have an opportunity on Tuesday to question President Donald Trump's Supreme Court nominee Amy Coney Barrett during the second day of Senate hearings on her nomination, a highly anticipated moment that will mark the next stage in a contentious confirmation fight.\n"
-    publishedDateTime: 2020-10-13T17:23:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SnMvXPtTdts/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/barrett-supreme-court-hearing-day-two/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/barrett-supreme-court-hearing-day-two/index.html"
+  - title: "Despite the Trump administration's new policy, many pharmacies still won't vaccinate children against flu "
+    excerpt: "As a dark winter approaches with \"twindemics\" of Covid-19 and the flu, an effort by the Trump administration to increase the number of children receiving flu shots is not working, according to a CNN investigation.\n    \n"
+    publishedDateTime: 2020-10-26T14:58:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXUl-9swsd4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/health/pharmacy-kids-flu-shot-trump-policy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013093554-06-barrett-hearing-1013-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201025074215-kid-flu-shot-stock-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -585,22 +457,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 155
-  - title: "Trump Funnels Record Subsidies to Farmers Ahead of Election Day"
-    excerpt: "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure."
-    publishedDateTime: 2020-10-12T20:00:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/08/business/08DC-FarmAid-01/08DC-FarmAid-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Brazil's Bolsonaro endorses Trump's reelection"
     excerpt: "Both have faced criticism for their skepticism of scientific expertise, particularly during the coronavirus pandemic as the two presidents have disparaged their own public health officials."
     publishedDateTime: 2020-10-20T20:42:00Z
@@ -633,6 +489,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Infection of Pence Aides Raises New Questions About Trump’s Virus Response"
+    excerpt: "From the beginning, the president has turned mask wearing and other preventive measures into a loyalty test. He and his aides have taken the same approach inside the White House."
+    publishedDateTime: 2020-10-25T23:58:00Z
+    webUrl: "https://www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/25/us/politics/pence-trump-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/us/politics/25dc-virus-pence-1/merlin_179009127_6fdf2356-e0d4-4265-a4a0-c44cd0c2f1c1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump national security adviser says president will respect results of election"
     excerpt: "Robert O’Brien, President Donald Trump’s national security adviser, said Wednesday that Trump would accept the results of the election if he loses on Nov. 3. I"
     publishedDateTime: 2020-10-22T02:51:00Z
@@ -649,261 +521,53 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
-    excerpt: "(CNN)Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd ..."
-    publishedDateTime: 2020-10-13T09:25:00Z
-    webUrl: "https://edition.cnn.com/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+  - title: "If Trump loses the election, QAnon will also lose support — and eventually disintegrate"
+    excerpt: "When cult adherents get confused, then ashamed, then realize they’ve been scammed, they get angry and exit. People are not permanently programmed."
+    publishedDateTime: 2020-10-24T08:32:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/if-trump-loses-election-qanon-will-also-lose-support-eventually-ncna1244563"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244563"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244563"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 145
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422199/201022-think-qanon-main-cover-cs_db7621aa3719c3f5f6543624f46421d8.jpg"
+        width: 2500
+        height: 1250
         isCached: true
-  - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
-    excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
-    publishedDateTime: 2020-10-12T15:49:00Z
-    webUrl: "https://www.cnn.com/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+  - title: "What data journalists say about the election models giving Trump slim chance of winning"
+    excerpt: "A serious slice of the country is still scarred from 2016 when Donald Trump defied the odds and defeated Hillary Clinton. Four years later, that political upset has led many Americans to be skeptical of current models showing Trump,"
+    publishedDateTime: 2020-10-29T04:32:00Z
+    webUrl: "https://www.cnn.com/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/media/data-journalists-election-models-trump-reliable-sources/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 142
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201112219-20190201-trump-putin-nuclear-arms-treaty-breaking-news-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201029001611-donald-trump-goodyear-arizona-1028-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: Trump Is Back on the Trail. He Still Faces an Uphill Battle."
-    excerpt: "President Trump will hold a rally in Pennsylvania, as Joe Biden campaigns in Florida. Virginia’s online voter registration portal went down on the final day to register before the Nov. 3 election. Judges in Texas upheld an order limiting ballot drop boxes to one per county."
-    publishedDateTime: 2020-10-13T15:48:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 141
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/13/multimedia/13elections-briefing-VA2/13elections-briefing-VA2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
-    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
-    publishedDateTime: 2020-10-10T15:38:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump to hold public event at the White House on Saturday"
-    excerpt: "His first official public event since his hospital discharge is slated to feature presidential remarks on law and order, a White House official said Friday."
-    publishedDateTime: 2020-10-10T06:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/president-trump-make-public-remarks-white-house-saturday-n1242774"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242774"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242774"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417873/201006-donald-trump-balcony-jm-1130_8a2f2b23f83eea87f27d39fb7a180457.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Amateur hour at the Trump White House"
-    excerpt: "But recent days, in the wake of Trump being stricken with coronavirus, have highlighted just how the lurching improvisation th"
-    publishedDateTime: 2020-10-11T07:01:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
+  - title: "Trump taps 2016 brain trust to stage another stunner in 2020"
+    excerpt: "Corey Lewandowski, David Bossie and many others from Trump's first run have resurfaced to offer advice and reassurance to the trailing incumbent."
+    publishedDateTime: 2020-10-20T00:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/5b/6e/900faecc43c1b4ecc44186cb9466/ap20282461941048.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The Crowded, Competitive World of Anti-Trump G.O.P. Groups"
-    excerpt: "The Lincoln Project; Republican Voters Against Trump; 43 Alumni for Joe Biden. These groups and others have similar missions but engage in little coordination or sharing of resources."
-    publishedDateTime: 2020-10-12T10:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Trump takes his Covid misinformation machine back on the road"
-    excerpt: "(CNN)President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on ..."
-    publishedDateTime: 2020-10-12T12:07:00Z
-    webUrl: "https://www.cnn.com/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Top general did not give his consent to be used in Trump political ad"
-    excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."
-    publishedDateTime: 2020-10-12T22:52:00Z
-    webUrl: "https://www.politico.com/news/2020/10/12/top-general-trump-ad-consent-429112"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/4a/76/3cb3c08b4d08a2912bf81edf4f25/20200108-mark-milley-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "He Built a Trump Shrine and Prayed for His Health. Then He Collapsed."
-    excerpt: "Bussa Krishna, a farmer who called President Trump his god, stopped eating after Mr. Trump became infected with the coronavirus, his family said. He died on Sunday."
-    publishedDateTime: 2020-10-14T14:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/14/world/14virus-india-trump-1/14virus-india-trump-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Leon Panetta defends bin Laden raid after Trump ignites conspiracy"
-    excerpt: "Former CIA Director Leon Panetta, who oversaw the raid that killed Osama bin Laden, defended the mission after President Donald Trump amplified conspiracy theories that the terrorist leader's death was a hoax."
-    publishedDateTime: 2020-10-15T19:24:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015140856-leon-panetta-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Donald Trump's Support of Extremism and Conspiracy Theories"
-    excerpt: "Supported by Violent extremists and conspiracy theorists found their tribune in Donald Trump. By Jesse Wegman Mr. Wegman is a member of the editorial board. Kathleen Kingsbury, acting editorial ..."
-    publishedDateTime: 2020-10-17T06:37:00Z
-    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-extremism-conspiracy-theories.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16wegman/merlin_175022151_9253e8bd-74c3-4ce2-92f3-b9eef3de63ae-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump administration reverses course on California wildfire aid"
-    excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
-    publishedDateTime: 2020-10-17T00:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/trump-administration-refuses-california-wildfire-disaster-aid-n1243723"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243723"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243723"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420742/201016-bobcat-fire-al-0947_665d9c20bdc6ff7324018d62723de801.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Can ordinary Covid patients get the Trump treatment? It's OK to ask"
-    excerpt: "By Saturday, the 58-year-old was enrolled in a clinical trial for the same antibody cocktail that President Donald Trump claimed was responsible for his coronavirus “cure.” “I had heard a little bit about it because of the news,"
-    publishedDateTime: 2020-10-19T09:03:00Z
-    webUrl: "https://www.nbcnews.com/health/health-news/can-ordinary-covid-patients-get-trump-treatment-it-s-ok-n1243756"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243756"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243756"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_36/3347846/200513-convalescent-plasma-al-1003_b370ed0b3300074d0dbe464cfb44dbcb.jpg"
-        width: 2500
-        height: 1709
-        isCached: true
-  - title: "Fauci says he's not surprised Trump contracted Covid-19"
-    excerpt: "The infectious disease expert told \"60 Minutes\" that the president \"sometimes equates wearing a mask with weakness.\""
-    publishedDateTime: 2020-10-19T11:19:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/fauci-says-he-s-not-surprised-trump-contracted-covid-19-n1243857"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243857"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243857"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421152/201019-dr-fauci-mc-1148_8ca083f9723427d6cdb9c68d82d691ab.JPG"
-        width: 2500
-        height: 1473
-        isCached: true
-  - title: "Offered hypothetical do-over, Trump wouldn't change COVID response"
-    excerpt: "There's no shortage of ways Trump could've answered these questions coherently, but that might've led him to express a degree of regret over his failures."
-    publishedDateTime: 2020-10-21T15:39:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/offered-hypothetical-do-over-trump-wouldn-t-change-covid-response-ncna1244149"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244149"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244149"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg"
+        width: 4834
+        height: 3221
         isCached: true
   - title: "Why hasn't Trump donated more money to his own campaign?"
     excerpt: "As October got underway, Trump had only chipped in about $8,000 to his campaign, despite the \"whatever it takes\" rhetoric from a few weeks earlier."
@@ -920,22 +584,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2016_51/1839726/dollars_2545d1825bc673aaecd8fa01a99bcdba.jpg"
         width: 450
         height: 300
-        isCached: true
-  - title: "Reports of Trump's secret Chinese bank account spark controversy"
-    excerpt: "There's a lot to unpack in the new reporting, but it's probably worth dwelling on Trump's previously undisclosed bank account in China."
-    publishedDateTime: 2020-10-21T19:35:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/reports-trump-s-secret-chinese-bank-account-spark-controversy-ncna1244186"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244186"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244186"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_25/3390933/200618-trump-xi-mn-1030_3e485175a14ddbfa89b54f94cfca7782.jpg"
-        width: 2476
-        height: 1238
         isCached: true
   - title: "Some Republicans Are Abandoning the Trump Ship"
     excerpt: "How some G.O.P. senators are distancing themselves from President Trump, and why some people continue to support him."
@@ -969,6 +617,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Already in a health care ditch, Trump gets shovel, keeps digging"
+    excerpt: "Trump's health care comments to \"60 Minutes\" were a mess. His related rhetoric during the presidential debate wasn't any better."
+    publishedDateTime: 2020-10-23T16:56:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/already-health-care-ditch-trump-gets-shovel-keeps-digging-ncna1244551"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244551"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244551"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_18/2800321/190327-obamacare-mc-mc-828_5bc91cbc317e1ed253c83b660125e6dc.JPG"
+        width: 2500
+        height: 1684
+        isCached: true
+  - title: "Chuck Todd: “This path is more treacherous by the day for Donald Trump”"
+    excerpt: "To win re-election, Chuck Todd shows that President Trump would have to win in all four of the following close states: Arizona, Pennsylvania, North Carolina and Florida."
+    publishedDateTime: 2020-10-23T00:06:00Z
+    webUrl: "https://www.nbcnews.com/now/video/chuck-todd-this-path-is-more-treacherous-by-the-day-for-donald-trump-94442053697"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94442053697"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94442053697"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "In Final Debate, Trump Tries to Be Less Like Trump"
     excerpt: "It was, more precisely, a very public window into the version of Mr. Trump that led the former White House counsel Donald F. McGahn II to call him “King Kong” — the version that aides have ..."
     publishedDateTime: 2020-10-23T05:07:00Z
@@ -985,97 +665,147 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
-    excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
-    publishedDateTime: 2020-10-12T17:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-chief-staff-mark-meadows-refuses-speak-reporters-mask-n1242990"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242990"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242990"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump's Covid-plagued White House proves testing alone can't keep America safe"
-    excerpt: "Just like a pregnancy test cannot take the place of birth control, Covid-19 tests should not be seen as substitutes for robust public health strategies to reduce community transmission."
-    publishedDateTime: 2020-10-08T08:34:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-plagued-white-house-proves-testing-alone-can-ncna1242448"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242448"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242448"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418291/201007-kayleigh-mcenamy-mn-1800_2a0decd2cdb852ed5136e004a4d332b6.JPG"
-        width: 2500
-        height: 1568
-        isCached: true
-  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
-    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
-    publishedDateTime: 2020-10-13T03:29:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+  - title: "Potential courtroom showdown in Trump defamation case fizzles"
+    excerpt: "A lawyer for the Justice Department, which is seeking to intervene in the suit brought by E. Jean Carroll, couldn’t enter the New York courthouse because of Covid restrictions."
+    publishedDateTime: 2020-10-23T13:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+      - url: "https://static.politico.com/f6/03/8d472d7649c7a1624b507015167b/gettyimages-1281524978-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
-    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
-    publishedDateTime: 2020-10-11T08:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+  - title: "That’s the Last We Need to Hear From Trump"
+    excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
+    publishedDateTime: 2020-10-23T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/opinion/23bruni1/23bruni1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's immersion in a far-right bubble does him no favors"
+    excerpt: "It was the first presidential debate I've ever seen in which I thought the audience would benefit from some kind of decoder ring."
+    publishedDateTime: 2020-10-23T13:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-immersion-far-right-bubble-does-him-no-favors-ncna1244499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244499"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422322/201022-donald-trump-ew-1034p_ee5f4bdb1def6612393a5d369ea1b369.jpg"
+        width: 1494
+        height: 1494
+        isCached: true
+  - title: "GOP prays Trump stopped the bleeding"
+    excerpt: "The president's backers were relieved at Trump's more restrained debate performance Thursday night. But with days of rallies ahead, they know it might not last."
+    publishedDateTime: 2020-10-24T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trumps-allies-exhale-debate-fret-rallies-431706"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/97/176b59be4faaaa7ffd1963de8b99/debate-773-ap.jpg"
+        width: 1159
+        height: 773
+        isCached: true
+  - title: "We’ve Heard Quite Enough From Donald Trump"
+    excerpt: "Everybody talks about Joe Biden as the old jalopy in this presidential race, but on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
+    publishedDateTime: 2020-10-24T13:15:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/sunday/debate-trump-biden-.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/opinion/25bruni_print/23bruni1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump campaign website hacked"
+    excerpt: "A message posted on the site said the \"world has had enough of the fake news\" spread by the president and threatened to release dirt on the Trump family."
+    publishedDateTime: 2020-10-28T10:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-campaign-website-hacked-n1245038"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245038"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245038"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_44/3423508/201027-donald-trump-ew-724p_0e38b01c3941a3751fa3d61f5ccc2bb5.jpg"
         width: 2500
         height: 1666
         isCached: true
-  - title: "Palestinian premier: God help us if Trump wins reelection"
-    excerpt: "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians."
-    publishedDateTime: 2020-10-13T13:41:00Z
-    webUrl: "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151"
+  - title: "Win or Lose, It’s Donald Trump’s Republican Party"
+    excerpt: "Eighty-six percent white and a noted second-home locale for retirees fleeing the Northeast in winter, Manatee has voted for every Republican presidential nominee since 1948 — the sort of homogeneity that typically produces staid politics."
+    publishedDateTime: 2020-10-27T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/magazine/trump-influence-gop.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/01/magazine/01mag-slug-02/01mag-slug-02-facebookJumbo-v3.png"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "These white women voted for Trump in 2016. They’re having second thoughts."
+    excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
+    publishedDateTime: 2020-10-28T22:32:00Z
+    webUrl: "https://www.politico.com/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 133
     images:
-      - url: "https://static.politico.com/b0/75/45a81c794c91ac4282804a3be528/201013-palestine-prime-minister-ap-773.jpg"
+      - url: "https://static.politico.com/ab/d1/643fba9447c8b66a865b46a2c673/gettyimages-1222154946-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "White House physician says Trump tested negative for Covid-19 on consecutive days"
-    excerpt: "Ahead of his first campaign rally since being hospitalized for Covid-19, President Donald Trump’s White House physician Dr. Sean Conley released a memo on Monday stating the president had recently tested negative on consecutive days and is no longer contagious."
-    publishedDateTime: 2020-10-12T23:24:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/white-house-physician-says-trump-tested-negative-covid-19-consecutive-n1243045"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243045"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243045"
+  - title: "In the home stretch, signs Trump's hard-sell seniors pitch may be falling short"
+    excerpt: "I can’t do it this time,\" one older voter who backed the president's first run in 2016 told NBC News. \"I’m just sick of all of his s---.\""
+    publishedDateTime: 2020-10-24T00:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/home-stretch-signs-trump-s-hard-sell-seniors-pitch-may-n1244167"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244167"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244167"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 131
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419523/201012-donald-trump-ew-631p_dc603b1683dc1d03bc128161b3eafc4f.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421859/201021-donald-trump-ew-145p_33980ba252755dffd3445498e1c818e0.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -1093,173 +823,109 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
-    excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
-    publishedDateTime: 2020-10-09T09:05:00Z
-    webUrl: "https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+  - title: "Take This Trump Election Day Quiz Before It’s Too Late"
+    excerpt: "Happy Almost Election Day! I know it’s been a tough road, people, but you’ve been doing a great job. And since your vote is basically all about how you regard the last four years of Trumpdom, here’s a quick quiz."
+    publishedDateTime: 2020-10-29T00:05:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/10/28/opinion/election-quiz.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/28/opinion/28Collins-01/28Collins-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
+    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/ea54be74-dda6-4152-90ea-8bcbbf960c7b/e94d3d04-9b56-472d-98b4-c3b1f0003594/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
-    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
-    publishedDateTime: 2020-10-12T19:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Why Trump's viral Covid and flu misinformation is hard for Facebook and Twitter to stop"
-    excerpt: "A perfect storm of medical misinformation and political disinformation is creating new challenges for the press, for social media platforms and for the public. Take just the events of the last few days."
-    publishedDateTime: 2020-10-10T08:37:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/why-trump-s-viral-covid-flu-misinformation-hard-facebook-twitter-ncna1242665"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242665"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242665"
+  - title: "Trump travel anticipates a race potentially decided by a single Electoral College vote"
+    excerpt: "The president heads to Maine and Nebraska this week, with the Trump team citing several possible scenarios where the election could come down to one or two Electoral College votes."
+    publishedDateTime: 2020-10-25T19:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-travel-anticipates-race-potentially-decided-single-electoral-college-vote-n1244706"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244706"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244706"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 127
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417964/201006-donald-trump-balcony-jm-1501_042a7db35c2d2476e6bc93602ef6dea2.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422882/201025-donald-trump-north-carolina-jm-1448_3761c78bcb6803d91b93fd938bd6fde3.jpg"
         width: 2500
-        height: 1633
+        height: 1628
         isCached: true
-  - title: "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission"
-    excerpt: "Trump claims his aggressive, experimental treatment was “pretty routine.” Surging infections are straining Nepal’s health system."
-    publishedDateTime: 2020-10-12T03:59:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+  - title: "Judge says Justice Department cannot defend Trump in E. Jean Carroll rape defamation suit"
+    excerpt: "WASHINGTON — A federal judge on Tuesday rejected an attempt by the Department of Justice to represent President Donald Trump in a defamation lawsuit brought by E. Jean Carroll, who has claimed that he sexually assaulted her in the 1990s. The judge denied ..."
+    publishedDateTime: 2020-10-27T14:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-says-justice-department-cannot-defend-trump-e-jean-carroll-n1244924"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244924"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244924"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 126
     images:
-      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/11virus-brief-fauci/merlin_177467937_72537b32-5c98-4fb4-ae54-a658777cc228-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423320/201027-e-jean-carroll-jm-0947_7e976c49fd9a505a6adbef38e0a5a311.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump administration's latest Covid relief proposal to Dems gets closer, but hurdles remain"
-    excerpt: "Any deal would have to pass the Republican-led Senate and time is running out with just over three weeks until Election Day."
-    publishedDateTime: 2020-10-10T23:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/trump-administration-s-latest-covid-relief-proposal-dems-gets-closer-n1242835"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242835"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242835"
+  - title: "Florida’s top prosecutor once sued Trump. Now she’s fighting for his reelection."
+    excerpt: "Ashley Moody ran on a promise to keep her office out of politics. She has quietly become a major Republican player in the must-win state."
+    publishedDateTime: 2020-10-28T02:04:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/florida-ashley-moody-trump-432617"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 125
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3419097/201010-steve-mnuchin-mn-1650_2be1d9bfc1aa52efa11347b88c3855b5.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump points to slain veterans' families in response to questions about how he caught Covid-19"
-    excerpt: "The organization that brought the Gold Star families to the White House said none have fallen ill since the event."
-    publishedDateTime: 2020-10-09T08:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-points-slain-veteran-families-response-questions-about-how-he-n1242624"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242624"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242624"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 123
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418536/201008-donald-trump-jm-1221_6ea3459b175b64fd4c9b8298d47623c0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Wife of Trump's labor secretary, who was at Barrett Rose Garden event, tests positive for Covid"
-    excerpt: "Secretary Eugene Scalia, the son of late Supreme Court Justice Antonin Scalia, tested negative on Friday night, according to the department."
-    publishedDateTime: 2020-10-14T02:40:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/wife-trump-s-labor-secretary-who-was-barrett-rose-garden-n1243291"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243291"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243291"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 123
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3419981/201013-eugene-scalia-patricia-scalia-ac-955p_ab824d5d28cb8a48892546505d3f8cb0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "CDC changed report on Covid and kids after Trump official’s request"
-    excerpt: "Amid Trump’s push to reopen schools, Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
-    publishedDateTime: 2020-10-05T08:38:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/05/cdc-changed-report-on-covid-and-kids-after-trump-officials-request-1320225"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
+      - url: "https://static.politico.com/5b/c8/bc1c3d7e4e74986946d4a7e37373/201026-ashley-moody-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump keeps things brief in first public address since hospitalization"
-    excerpt: "President Donald Trump on Saturday made his first public appearance since returning from a three-day hospitalization due to coronavirus, addressing hundreds of Black and Latino supporters crowded together on the White House lawn."
-    publishedDateTime: 2020-10-10T19:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/10/trump-white-house-speech-coronavirus-428516"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/7d/90/2b7dc87d485486b1546ee723b41b/201010-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump boasts of Covid-19 immunity at his first rally since diagnosis"
-    excerpt: "President Donald Trump boasted about his Covid-19 immunity as he held his first rally since his diagnosis. Trump staged a vigorous return to the campaign trail as he walked to the podium in Sanford, Fla."
-    publishedDateTime: 2020-10-13T00:31:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/12/trump-boasts-of-covid-19-immunity-at-his-first-rally-since-diagnosis-1323600"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/28/c1/6bea5f084cdd8b115f699222313a/1020trump.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Despite reality, Trump says China could pay for economic aid package"
-    excerpt: "Trump apparently thinks China will cover the costs of an economic aid package. That's not how any of this works."
-    publishedDateTime: 2020-10-16T15:33:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/despite-reality-trump-says-china-could-pay-economic-aid-package-ncna1243733"
+  - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
+    excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
+    publishedDateTime: 2020-10-20T09:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-campaign-s-2020-shot-shot-remake-2016-flopping-hard-ncna1243955"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421330/201019-trump-campaign-rally-cs-413p_39a8ae7346ff9df90a548d4d6702e2f0.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Meadows to judge: Trump didn’t promise more declassification"
+    excerpt: "The judge is asking whether Trump's tweets undercut the government’s decision to withhold portions of special counsel Robert Mueller’s final report."
+    publishedDateTime: 2020-10-20T17:27:00Z
+    webUrl: "https://www.politico.com/news/2020/10/20/mark-meadows-trump-declassification-russia-430316"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f6/2e/94ee4663486987e420e2c085e492/201020-mark-meadows-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Where did the Trump campaign's $1 billion go?"
     excerpt: "A GOP strategist said, \"You could literally have 10 monkeys with flamethrowers go after the money, and they wouldn't have burned through it as stupidly.\""
@@ -1272,20 +938,6 @@ related:
     quality: 115
     images:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "White House to court: Trump's declassification tweet wasn't true"
-    excerpt: "Trump tweeted that he was declassifying \"any and all\" documents related to the Russia scandal, with \"no redactions.\" Today, the White House walked it back."
-    publishedDateTime: 2020-10-20T20:04:00Z
-    webUrl: "https://www.nbcnews.com/rachel-maddow-show/white-house-court-trump-s-declassification-tweet-wasn-t-true-n1244052"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_33/3403533/200810-donald-trump-mark-meadows-ew-706p_fee2d01bda7c34ca9b0bad35a15b6210.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1303,6 +955,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump seeds the ground for possible loss with personal attacks"
+    excerpt: "It’s a change from 2016, where Trump presented himself as an outsider eager to disrupt the entire establishment. Now, he’s the president."
+    publishedDateTime: 2020-10-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/trump-attacks-election-431051"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/10/7c/3ed4f2a444579dbeb55d41268dd6/201021-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Fear Behind Donald Trump’s Obsession with Immunity"
     excerpt: "President Donald Trump removes his mask upon return to the White House from Walter Reed National Military Medical Center on Oct. 5, 2020. | Win McNamee/ Donald Trump has been talking a lot of late about immunity."
     publishedDateTime: 2020-10-22T19:12:00Z
@@ -1314,20 +980,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/79/90/90a7115d4bb5854038db7f5798cf/trump-immunity-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump comes out strong. But is it too late?"
-    excerpt: "In their last face-off before the election, Donald Trump tried to flip the script on Joe Biden and avoid controversy."
-    publishedDateTime: 2020-10-23T03:37:00Z
-    webUrl: "https://www.politico.com/news/2020/10/22/presidential-debate-what-to-watch-431301"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/06/db/03bb0a544ca0a74f2520648d7b42/201022-biden-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -1345,56 +997,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
-    excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."
-    publishedDateTime: 2020-10-16T19:39:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/16/at-indoor-florida-event-trump-urges-seniors-to-shield-themselves-from-covid-1326222"
+  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
+    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
+    publishedDateTime: 2020-10-21T22:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 112
+    quality: 110
     images:
-      - url: "https://static.politico.com/1c/b4/bf17b03c4b43a100fb85412fab29/ap20290658674277-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
+        width: 3000
+        height: 1999
         isCached: true
-  - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
-    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
-    publishedDateTime: 2020-10-11T16:37:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 111
-  - title: "Chris Christie, out of hospital after battling Covid, urges Trump to go further on masks"
-    excerpt: "Chris Christie, newly recovered from the coronavirus, urged President Donald Trump on Friday to encourage the wearing of face masks among Americans. In his first TV interview since contracting Covid-19 earlier this month,"
-    publishedDateTime: 2020-10-16T13:35:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2020/10/16/chris-christie-out-of-hospital-after-battling-covid-urges-trump-to-go-further-on-masks-1325910"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 106
-    images:
-      - url: "https://static.politico.com/8c/04/f4064df840e595e5659cbaf94f0e/201016-chris-christie-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump declares himself 'immune' to Covid-19. His doctors won't say when he last tested negative."
-    excerpt: "President Donald Trump on Sunday said he may have the \"protective glow\" of immunity from Covid-19 although it remains unknown when he last tested negative for the disease. In an extensive interview with Fox News' Maria Bartiromo,"
-    publishedDateTime: 2020-10-11T16:49:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-declares-himself-immune-covid-19-his-doctors-won-t-n1242851"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242851"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242851"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
   - title: "What Donald Trump Learned From David Duke’s Political Rise"
     excerpt: "David Duke got trounced in his bid for the Louisiana governorship, losing to Edwin Edwards by 22 percentage points. And yet, the neo-Nazi and former Klan leader could frame his defeat as a kind of triumph."
     publishedDateTime: 2020-10-22T00:49:00Z
@@ -1411,47 +1027,33 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Losing Could Expose Trump to Prosecution for Any Number of Crimes"
-    excerpt: "Even if President Donald Trump loses on November 3, it’s hard to imagine that he’ll ever be convicted of any crime, much less serve time in prison. That’s because, first and foremost ..."
-    publishedDateTime: 2020-10-18T21:30:00Z
-    webUrl: "https://theintercept.com/2020/10/18/trump-election-crimes-prosecution/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 65
-    images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/10/trump-crime-2-2.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
-    excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
-    publishedDateTime: 2020-10-10T08:22:00Z
-    webUrl: "https://www.thedailybeast.com/heres-how-the-gop-can-get-rid-of-that-trump-stench"
+  - title: "Trump Finally Slaps Google, and Protects Democracy"
+    excerpt: "His motives may not be pure and his timing is suspect, but applaud the president for trying to cut one of our monopolistic and anti-democratic tech giants down to size."
+    publishedDateTime: 2020-10-20T21:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-finally-slaps-google-with-anti-trust-suit-and-protects-democracy"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
-    excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
-    publishedDateTime: 2020-10-11T05:10:00Z
-    webUrl: "https://www.thedailybeast.com/snls-michael-che-cant-hide-disappointment-that-trump-survived-covid"
+  - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
+    excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
+    publishedDateTime: 2020-10-23T03:36:00Z
+    webUrl: "https://www.thedailybeast.com/trump-tripped-up-by-his-fox-news-brain-at-the-second-presidential-debate"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
-  - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
-    excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
-    publishedDateTime: 2020-10-10T05:02:00Z
-    webUrl: "https://www.thedailybeast.com/trump-conceals-covid-test-info-during-fake-fox-news-medical-evaluation"
+  - title: "The Trump Campaign Is Mysteriously Sending Money Back and Forth to State Parties"
+    excerpt: "The president, like Joe Biden, is taking advantage of loopholes in campaign finance laws to score huge checks. From there, however, the money trail gets bizarre."
+    publishedDateTime: 2020-10-22T09:02:00Z
+    webUrl: "https://www.thedailybeast.com/the-trump-campaign-is-mysteriously-sending-money-back-and-forth-to-state-parties"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 44
+    quality: 40
 
 secured: "CZfCOiHxRAk+uTfmpDuzZErWZq1wmB2ZmDokx4IwZGQuK9QBr7pX6yBHw47fZLsXsUQKRN5J21DI9Laent95S3yyAGrUQ1ICBQU3boE9F3WIYZPzm0arxycZgCa2suQtlTTJyGsG3QPuYcw0SzAH4Kcj2zqfVgRrZ0TFpQCugxfVS4vX6kkgZJ04xToqYoQrOR5qdPtjSpeMlTNffl0eh92eJgEeBpf9cbK6s+5oQSnCVzl/7KkIsBE+KuzbqyVbfjOoBbwOoirJr9pVNRaPuomvUC/clng9QrLWHMNyaCX+qX0/4M4kCihO+uwqQ19dpNn89MqksMlnGrnai7qh6XNJ6fLCJyRGgrXjJxMnny1XavzbRZbkQmiW+AiJGEnfVaIhVcGqP7ozpOMTBUyTZ9FlkfM3bAZqKo+ydq5zKvkNUvdY/s9E2ZYcEz03sQa8TjNrym3f5fQnZ7SlT9K8oPMXNpNOWqUZsZZ5hgCLZ686DkKlKxM53BrizmXdIe/Ak7YcloyN57gjznv4dX8G5w==;jYamFYgMU/lmXKzQw+29CA=="
 ---

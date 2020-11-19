@@ -31,191 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Hear Trump speak after voting in person in Florida"
-    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
-    publishedDateTime: 2020-10-24T15:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+  - title: "Trump administration removes gray wolf from endangered species list"
+    excerpt: "The Trump administration is dropping the gray wolf from the endangered species list under the assertion that the animal's population has sufficiently recovered, a move conservation groups decry as shortsighted and promise to challenge in court.\n    \n"
+    publishedDateTime: 2020-10-29T20:45:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfIqmsf742c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/trump-administration-gray-wolf-endangered-list/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180720124911-08-endangered-species-act-grey-wolf-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Obama in Florida: Trump's tough guy schtick is a fraud"
-    excerpt: "Former President Barack Obama on Saturday laced into President Donald Trump, describing his successor as a thin-skinned bully whose true weakness was revealed when he walked off the set of a high profile interview this week after being faced with a few probing questions.\n    \n"
-    publishedDateTime: 2020-10-25T01:53:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aWP-mx-OuAM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
+  - title: "Trump announces that Israel and Sudan have agreed to normalize relations"
+    excerpt: "President Donald Trump announced Friday that Sudan and Israel have agreed to normalize relations -- a foreign policy achievement for the incumbent president less than two weeks before the US presidential election.\n    \n"
+    publishedDateTime: 2020-10-23T16:29:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpQdPNhUfAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-sudan-israel/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165556-03-barack-obama-miami-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023110745-sudan-israel-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Older women voters want to send a message to Trump in November  "
-    excerpt: "Jane Van Zandt is soaked. Her blue mittens are dripping. Her glasses keep fogging up. Her blue raincoat simply does not seem heavy enough to keep her warm against the bluster of a cold and rainy late October morning in Chester, New Hampshire. Yet, this 78-year-old offers no complaints as she holds her"
-    publishedDateTime: 2020-10-30T23:19:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JMlHNthCDn8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
+  - title: "Trump supporters at rallies continue to get stranded in chilly temperatures"
+    excerpt: "Following at least four of President Donald Trump's rallies in the last two weeks, transportation issues left hundreds of supporters stranded for hours.\n    \n"
+    publishedDateTime: 2020-11-02T18:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A6aP7hMdzj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/trump-supporters-stranded-at-rallies/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030160430-nh-write-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028000256-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House unleashes on Fauci after criticism of Atlas and Trump's pandemic response"
-    excerpt: "The White House on Saturday unleashed on Dr. Anthony Fauci, the country's leading infectious disease expert, following his comments to the Washington Post that criticized the Trump administration's response to the pandemic, including Dr. Scott Atlas, who the President has relied on for advice on handling"
-    publishedDateTime: 2020-11-01T03:10:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgQdY3zTJk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
+  - title: "Trump administration pushes allies to pressure China over its nuclear program"
+    excerpt: "The Trump administration is working to pressure NATO allies to collectively crackdown on China's nuclear program as it looks to limit Beijing's growing influence in the global arms race.\n    \n"
+    publishedDateTime: 2020-10-29T20:52:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sk502hws9xY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/us-china-nuclear-pressure/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200126113335-01-china-missiles-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
-    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
-    publishedDateTime: 2020-10-17T23:42:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
+  - title: "NYC and other cities to take legal action against Trump administration's 'anarchy' designation"
+    excerpt: "New York City plans to file a joint complaint Thursday challenging the Trump administration's designation of Democratic-led cities as \"anarchist\" jurisdictions in hopes of blocking the President's threat to withhold federal funding, according to the city's top lawyer.\n    \n"
+    publishedDateTime: 2020-10-22T16:49:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ouwWXPTyN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/nyc-trump-administration-complaint-anarchy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/151207083912-bill-de-blasio-donald-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
-    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
-    publishedDateTime: 2020-10-31T20:07:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
+  - title: "Washington Post: Trump administration to roll back federal protections from Alaska's Tongass National Forest"
+    excerpt: "Federal protections for Alaska's Tongass National Forest will be lifted this week by the Trump administration, allowing \"logging and other forms of development\" to occur in the world's largest intact temperate rainforest known as America's Amazon, The Washington Post reported Wednesday.\n    \n"
+    publishedDateTime: 2020-10-28T16:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aHbswDwT7dw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/tongass-national-forest-protections-rollback/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 156
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190913160012-tongass-forest-3-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "These white women voted for Trump in 2016. They’re having second thoughts."
-    excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
-    publishedDateTime: 2020-10-28T22:32:00Z
-    webUrl: "https://www.politico.com/news/2020/10/28/white-women-trump-second-thoughts-433118"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
+  - title: "'We had a shortage last night of beds for babies': House report outlines chaos of Trump administration's family separation policy"
+    excerpt: "\"We had a shortage last night of beds for babies,\" an official at the Office of Refugee Resettlement wrote to the agency's director on November 11, 2017.\n    \n"
+    publishedDateTime: 2020-10-29T13:31:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gu6UCAaICEU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/29/politics/family-separation-report/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 146
     images:
-      - url: "https://static.politico.com/ab/d1/643fba9447c8b66a865b46a2c673/gettyimages-1222154946-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Flashbacks to Florida in 2000 as Trump Heads to Court to Save His Presidency"
-    excerpt: "While the White House seeks a “James Baker-like” figure to lead its postelection legal battle, the real James Baker says President Trump should not try to stop votes from being counted."
-    publishedDateTime: 2020-11-06T00:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-memo-1/merlin_179623941_cf890284-7530-47fe-81c5-0ccc173c4eef-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "James Baker, a veteran of the 2000 Florida recount, says Trump should not try to stop vote counting."
-    excerpt: "Mr. Baker, the former secretary of state who led the legal and political team during the Florida recount battle in 2000 that secured the presidency for George W. Bush, said in an interview on Thursday that President Trump may have legitimate issues to pursue but they should not be used to justify a halt to the initial tabulation of ballots."
-    publishedDateTime: 2020-11-05T22:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 120
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/05/multimedia/05elections-briefing-Baker/05elections-briefing-Baker-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Bloomberg knocks Trump back on his heels in Florida"
-    excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
-    publishedDateTime: 2020-10-20T23:12:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/20/bloomberg-knocks-trump-back-on-his-heels-in-florida-1328177"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Supporters Chant ‘Fire Fauci’ at Florida Trump Rally"
-    excerpt: "At a late-night rally in Florida, President Trump suggested that he might fire Dr. Anthony S. Fauci, but that he would wait until “after the election.”"
-    publishedDateTime: 2020-11-02T14:47:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007428283/trump-rally-fire-fauci.html?playlistId=video/us-politics"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/01/world/01elections-briefing-trump-new/01elections-briefing-trump-new-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
-    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
-    publishedDateTime: 2020-10-21T22:01:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
-    images:
-      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
-        width: 3000
-        height: 1999
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190821121231-01-cbp-migrant-family-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "HSANsQn824a5t7lI3Dgg9N/rO7eiCBQdXtzbfYbgOF9OEZaSSuwfUi7nL0GTGE8Km7a5DfTbKEmasJx83QWqaheLqz/0v85UB1KinKubb1zh9RgSnE/coyh70rj9iu+8LgF90bDSkR6rGVP4+9Xow8MWU44UvJUBY5eCufCeWEFOZYMUVD6inX9/+AsuziXXX0Hzi1qXvmx9hk2aUkFWike94nOFF/klKuXRqZ6WPfVOeU9YOFkMFRaUvgLLmja095eYNAlDIUDnCyt2ePTvdfbBduGrACl0cvKDNsepvDXveeGpba/4yQyXwqfwr7/cREm59XrzQ6x7LZXn8gFLN0Med90b1LrqDXlTsgMbZdc=;2NUGt6qYLXeWhDYfnjCW7g=="

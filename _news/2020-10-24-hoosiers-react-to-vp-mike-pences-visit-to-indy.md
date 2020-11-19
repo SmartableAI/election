@@ -43,6 +43,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence delivers absentee ballot in Indy"
+    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
+    publishedDateTime: 2020-10-23T21:18:00Z
+    webUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/"
+    ampWebUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 75
+    images:
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/10/IMG_2047.jpg?w=1280"
+        width: 1280
+        height: 851
+        isCached: true
 
 secured: "PliKxftdcnilvWMuHca4I16/U1U2Ibjl38bLzM5H/vE5jK8PHI3vnmlJ+OWNCRe5ZjubGwdGsEVaGlnIeSVdWxUSrbiuNiyEK8h2eAS8SX481PZHnbctDSMQ+TyAeFGAhf1T3oL46XHl25VZAqHvbFYvr83IE9UaBUxR9d+DA5wtWaJlRTdV4+GT76XEB8p26pLGhBgB5t0pnbOvFuxoqMELgTFCeX3e6TWuHQiLW6RsqGFA/49YaIAWG3FdctILndVTWqqXWBm6uoejNchiSt9bUwnTbDpFBjx+TJqrb50NTBzmMol/yjYSX9k6rutFrF0jtTvTjihdgs10VeOrgFzjqWATEwqby/d5ileoWiw=;jUX86T7E7D0fmhT+gtvlGg=="
 ---

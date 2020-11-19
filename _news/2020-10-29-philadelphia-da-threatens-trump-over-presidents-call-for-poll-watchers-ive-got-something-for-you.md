@@ -80,17 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
-    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
-    publishedDateTime: 2020-10-21T19:07:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 52
 
 secured: "n4HQTtVDVtMaRahBF8QaslfpeJdRyZkxOg4i/uT1kEMjVj9nHCb4t97v59pRWpBhgudLC6ZQOkkGGKwh9beTHiYfReY6m5gmTCX+LeeQG0mDN8ypCq5I67ytjOaVML2VtUvbW8XAsdlrC7wbkq5fbuHLr2h+NCWGbR8BXXfa2n3xen2AQ7blJnlK53q6t1f5bodMPf+Yyuj9zM2Vzbbtr2iFjKckFSBo6vPQbPq10NDKBZotS4RVExDuVdYwDLpxCt+COHZK3TLj2Dn0IzC3ie3eXstR3BvL8QiTcfB3fuB1N8Q/+no/9sJ6ewGJwaloONwictfHYFMv5Ms1QjGS99d6Y/78p56oEEtflPIss5Y=;0uPFnXvUTBYZkU8OlqbkMQ=="
 ---

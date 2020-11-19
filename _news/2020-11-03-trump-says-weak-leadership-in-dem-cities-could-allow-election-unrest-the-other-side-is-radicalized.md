@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
+    excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
+    publishedDateTime: 2020-10-25T19:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e42e87e-93f1-4e1c-8ded-d69a5bd1bb32/38e3396b-54c0-4f94-b332-93fdfc80e55e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Campaign Says It Plans Another Lawsuit Over Ballots, This One in Nevada"
     excerpt: "President Trump's campaign said it plans to file a new lawsuit over election results, this one challenging thousands of ballots in the battleground state of Nevada. The federal lawsuit, which on Thursday morning didn't appear to have yet been filed,"
     publishedDateTime: 2020-11-06T02:36:00Z

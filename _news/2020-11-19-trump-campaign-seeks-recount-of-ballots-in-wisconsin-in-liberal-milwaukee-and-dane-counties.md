@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "A day-by-day timeline of how Trump is blocking the kind of presidential transition he got from Biden and Obama"
+    excerpt: "President Trump's refusal to concede the election has complicated President-elect Joe Biden's transition to power. The situation in 2020 is a marked contrast to 2016, when Hillary Clinton conceded and the Obama administration made a point on engaging with Trump and his officials."
+    publishedDateTime: 2020-11-18T10:04:00Z
+    webUrl: "https://www.businessinsider.com/timeline-of-2016-and-2020-election-transitions-between-trump-obama-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/timeline-of-2016-and-2020-election-transitions-between-trump-obama-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-of-2016-and-2020-election-transitions-between-trump-obama-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5fac2505b09abb001862601d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
     publishedDateTime: 2020-11-13T17:21:00Z

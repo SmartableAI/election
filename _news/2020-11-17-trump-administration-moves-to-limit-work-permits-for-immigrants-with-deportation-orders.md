@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
 type: article
 quality: 167
-heat: -1
-published: false
+heat: 187
+published: true
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Latino voters supported Trump out of fear of Democratic socialists"
-    excerpt: "Some Latino voters who themselves fled dictatorships in their home countries say they supported President Trump because the agenda of the Democratic party too closely resembled the socialist regimes they escaped. "
-    publishedDateTime: 2020-11-17T22:21:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TH2CV2oNTwg/latino-voters-escaped-dictatorships-trump-democratic-socialists"
-    ampWebUrl: "https://www.foxnews.com/politics/latino-voters-escaped-dictatorships-trump-democratic-socialists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/latino-voters-escaped-dictatorships-trump-democratic-socialists.amp"
+  - title: "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'"
+    excerpt: "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\""
+    publishedDateTime: 2020-11-11T00:08:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump"
-    excerpt: "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday."
-    publishedDateTime: 2020-11-12T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

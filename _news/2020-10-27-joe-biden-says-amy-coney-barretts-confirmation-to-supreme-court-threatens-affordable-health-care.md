@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
+    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
+    publishedDateTime: 2020-11-02T16:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
+    excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
+    publishedDateTime: 2020-10-27T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
+        width: 1200
+        height: 651
+        isCached: true
+  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
+    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
+    publishedDateTime: 2020-11-03T04:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
     excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
     publishedDateTime: 2020-10-26T15:13:00Z
@@ -47,79 +95,31 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump rejoices as Senate panel approves Barrett while Democrats boycott"
-    excerpt: "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ"
-    publishedDateTime: 2020-10-22T18:15:00Z
-    webUrl: "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6"
+  - title: "Trump calls Supreme Court voting decision 'horrendous'"
+    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
+    publishedDateTime: 2020-11-03T09:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
-        width: 810
-        height: 521
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
-    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
-    publishedDateTime: 2020-10-26T16:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
+    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Amy Coney Barrett's confirmation is the start of Pence's accomplishment of a lifetime"
-    excerpt: "When President Donald Trump and Vice President Mike Pence attended a gathering of social and religious conservatives during the 2016 campaign for the White House, both tried to woo the voting bloc."
-    publishedDateTime: 2020-10-29T10:32:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/27/amy-coney-barrett-supreme-court-confirmation-abortion-mike-pence/5991035002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5991035002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5991035002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d94c5929-c678-47d5-9e04-569b3d8d692d-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
-    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
-    publishedDateTime: 2020-10-19T13:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
-    excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
-    publishedDateTime: 2020-10-28T12:40:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 97
 
 secured: "yT5xQqTp0uc7SObfRHdtw96VwuXjUxCWetBqxZzmh7UdLP4Zdb6mnzTC41wNVPnBh7vvWC9AOziwQpoW6cUiO0VPzKqFn0vbClkAPtvIDHnBZUPc0O+GVUKjcKxTXNE/Y3RsvCTurF2hFx4jyEkKO+z1WZT1DEeDYGpM6lmizrnog+S9pDNde+yZYyH78C2HIIVqYXg09tCwZoEI4hCr3msgBYyW834Dq89+EQbhobX1datlZ3DWrIi97xLIaHMpCqVTS7uXu7Xmc3SJqJOeVFaCvPxZiMJ20p+XZt4Rp/NefLCmPWBBxgJwuTrWZoKTlrqc3udxJig2QN690dJQy0RgL8aaRdsasB1kSYWylwg=;3AZlBD5PQcmAVV0AsjfB9A=="
 ---

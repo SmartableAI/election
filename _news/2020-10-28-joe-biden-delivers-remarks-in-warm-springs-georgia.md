@@ -35,6 +35,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden holds campaign event in Atlanta"
+    excerpt: "Democratic presidential nominee Joe Biden is set to hold a drive-in campaign event in Atlanta, Ga., on Tuesday evening.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-27T21:52:00Z
+    webUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta"
+    ampWebUrl: "https://thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/523034-watch-live-biden-holds-campaign-event-in-atlanta?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Texas Governor Says Biden 'Just Killed' Family Paychecks With Oil Comments"
     excerpt: "The former vice president said he planned to \"transition\" away from oil should he be elected president on November 3."
     publishedDateTime: 2020-10-23T08:58:00Z
@@ -97,49 +113,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Nashville native goes from student council president to Joe Biden's presidential campaign"
-    excerpt: "He is national press secretary for former Vice President Joe Biden's presidential campaign, and the Iowa caucuses were only weeks away. Ducklo kept his cell phone charged. Every email and text message he sent was an opportunity to make sure Biden became ..."
-    publishedDateTime: 2020-10-27T02:47:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/27/nashville-native-powers-joe-biden-presidential-campaign/6000021002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6000021002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6000021002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PNAS/3dada756-b57c-4387-8975-f4ba563db3c7-20201022_debate_nashville_tn_as_2706.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden Campaign Event in Durham, North Carolina"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
-    publishedDateTime: 2020-10-19T14:57:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Remarks in Michigan on Health Care"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
-    publishedDateTime: 2020-10-19T06:17:00Z
-    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
-    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-10-20T18:26:00Z
-    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "aBhCqDUZzmyvmZ4w8d9l1zPB2Llab9xozSnW4mKApGTIre4XdtLOndBGE5j7KdVii2bLEg24vlGxfe9yPTbxCmP4qrelb02Wx8Pzk0cwX1lhyP82RaQpZbpv9EV6ezUHY49zlsbpcPVSgjiNtxt1UcSATMC6Jgtn4n/QXLke7hXO6B1JFUKGrJrdDFbNV9gQeSkg1LgwqEfTiWKKNHru67S4EQhXWV0p+A1vId5yY7AW3leiaRW7/JXx4sRHnH7QOcVpcUbEox2YWdD7Di+pchwM1C3bkXYVbuMWa6BHKq4bK4PaW3QpCyMzuLN3j8J4tZBXJj4o370qj1kaRaTnRsmsFpnA00uXXiDdHG+v2AEhSbQE3KewgfN2dgm3HEWwdibrFBJN7FfZubMo0xpjxuH0dJdcsGUakGAD1X2CT/VTr9hMsZOL0Is7oOcyCl1tQeM5q+EBt9a/87QAtruwWOsFuLYmpo3VEDR03AFP2dmNHHU8m3mQYCqg44v9P6xjLburLIMLsxuUKGKoH7tJDQ==;CaW07aIi96gqMVvqVjZmUg=="
 ---

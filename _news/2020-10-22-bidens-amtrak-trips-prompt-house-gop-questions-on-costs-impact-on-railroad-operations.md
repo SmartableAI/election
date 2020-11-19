@@ -32,37 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden again clarifies oil 'transition' comment, says industry 'not going to go away'"
-    excerpt: "Democratic presidential nominee Joe Biden on Monday clarified his oil industry \"transition\" comment in two separate interviews with TV stations in Pittsburgh and Dallas."
-    publishedDateTime: 2020-10-27T12:36:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkBdhHX7YHo/biden-oil-industry-not-going-away"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-oil-industry-not-going-away.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-oil-industry-not-going-away.amp"
+  - title: "Biden counting on press, Big Tech to protect him from answering questions: Cruz"
+    excerpt: "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings."
+    publishedDateTime: 2020-10-21T16:06:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292427842809.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations"
+    excerpt: "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies."
+    publishedDateTime: 2020-10-28T17:38:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden 'lying to the American people' about son Hunter's business dealings: Rep. Stefanik"
+    excerpt: "Joe Biden is \"lying\" about his son Hunter Biden's business dealings, Rep. Elise Stefanik told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-10-24T13:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAv-UX9vSi8/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's Amtrak trips prompt House Republican scrutiny on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-republican-scrutiny-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Karl Rove: Promised Biden 'transition' from oil, fossil fuels would be death blow to Texas economy"
-    excerpt: "Joe Biden's promise to \"transition\" from the oil industry and fossil fuel exploration will kill the economy in Texas and other states while increasing energy costs and causing massive job losses, Fox News contributor Karl Rove told \"The Ingraham Angle\" Wednesday."
-    publishedDateTime: 2020-10-29T04:19:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MubjlemHxTU/karl-rove-biden-transition-fossil-fuels-death-blow-texas"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-biden-transition-fossil-fuels-death-blow-texas.amp"
+  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
+    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
+    publishedDateTime: 2020-10-26T02:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 121
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5f5ecf-69c8-4d65-b006-590531973a2b/9f5f1411-3d53-4ddb-97de-fe9ab048d593/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d83e8ba2-3baf-4881-ba00-146146946f25/fad58832-89f0-405f-9f53-c0961608987b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
+    excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
+    publishedDateTime: 2020-10-28T17:30:00Z
+    webUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952"
+    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 81
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "9ZhZipS34jEIW9Tthj1Z36YLpMHkqZ3V9Vy15Zml7uR7qqKRJnmcgwFyqKn+mIpiPF7Upoc+u9Or5H477lIoPnD0yYmMZTcLxYjX5zk7s2GCruGrTJhWc9+yHbpKNKmIkT0jWyujxkzXoZZ2PZNXLkqEJ2TubknMtCYmaEblYowpwRZTo+9oGaVaUh4V7snnYg4dh3vpqsL+oARyq1kf520vObfFcU33t/lUfovmRbLjcSL5Qd0OkssAHetzS5ZTKD9gwNkjigQ7vrXsR8SnFZnwFo7ZsEn9BpxLoz2KgB176r+XXLzGOr5PObFv1avfFMw3Uwl08NB+mzaV9rInPvI5/E3R7tcyr4yIoQBLnFL2D1JWG1LOFpR3oAz2EU/U45/5KhnaZpFt+N0UDhrwb8Iu8vV6onbXzPsoh9DZepVjxO8K+D84WsyaLMV2Ui4yNb1/vT2Uq8CnV/eBNB3Cax9kKpu/FBsUCPrgsb3j7WNNidwa7CnFH5mk/BrFviPDC3/BVSqX9lto2iTiebp4Ug==;Ea1I75jgj3+YpXXzqGD73w=="

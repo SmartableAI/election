@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp"
 type: article
 quality: 114
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Business Insider
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
-    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
-    publishedDateTime: 2020-11-05T08:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
-        width: 975
-        height: 487
-        isCached: true
-  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
-    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
-    publishedDateTime: 2020-11-12T20:08:00Z
-    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "dhr7GrmlVhoYDZbFMtLpWgYLl/r/cuCdplwWcJcfMujR2llZjDfyI9ItoonEVB7vUh+oZJUp7lMU5UdwxhQ1SovvH5lEQG1JkiPXKuJmSuMHPm313CNYrZwJaUiS238QD091oj5grmIlbp4kxMCcZvwGTcIBOW+ujhCUA4TzEolRR27KsEY7+SSVTVlzlkyheI7E4o8+cnmJ0YCkjfIiLC1GVWHTzCy/i6YedDobi6oAX4UubumErhvIKSzrGVAa7x4PfHo3umbD1DrwUvkDQ1Mg3IPQT8/xrt/hvKy9LztQCBweiNmxflIGhnLwHIyms518C6ERZqIu+2thxHFmcbAG77sUh+8MCVneBgrdcJA=;1wkXkKPw3N6XEmWxux2c1w=="
 ---

@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Obama says there is 'no legal basis' for Trump election challenges"
-    excerpt: "Former President Barack Obama blasted President Trump and members of the Republican Party on Friday for claiming that there was widespread voter fraud during the 2020 presidential election. "
-    publishedDateTime: 2020-11-14T18:11:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SglJqXzlA_g/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-says-there-is-no-legal-basis-for-trump-ballot-challenges-in-upcoming-interview.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20298774467167-e1603820180581.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McCarthy expects four more years for Trump after 'a very strong' election night"
     excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., praised the work President Trump has done for the country and the Republican party, and predicted that after the final vote counts are complete the president will be reelected."
     publishedDateTime: 2020-11-04T18:52:45Z
@@ -112,38 +96,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "PA court rejects Trump camp's effort to block 9,000 absentee ballots after Election Day"
-    excerpt: "A Pennsylvania court has rejected the Trump campaign's efforts to block more than 9,300 mail-in ballots that arrived after Election Day."
-    publishedDateTime: 2020-11-15T00:32:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4KaA7bVy10/pa-court-trump-campaign-9000-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/pa-court-trump-campaign-9000-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-court-trump-campaign-9000-ballots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310005725772.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "McConnell blasts Dems for accepting Biden win after questioning validity of 2016 election"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., told reporters Tuesday that there is “no reason for alarm” as to why Republican leadership has not called to congratulate President-elect Joe Biden as they wait for the Electoral College to officially vote."
-    publishedDateTime: 2020-11-10T21:46:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w1RqL6pkmDE/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blasts-dems-for-accepting-biden-win-after-questioning-validity-of-2016-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa5c7934-85bb-4788-b374-52cbf1f52bcb/e5cd23c7-9e75-4995-8053-9b01c5cc43a4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z
@@ -160,22 +112,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Geraldo talks to Trump on election results, says president is 'frustrated' but still 'strong'"
-    excerpt: "Fox News’ Geraldo Rivera said that after speaking with the president by phone, he has “no doubt” President Trump will run again in 2024 if his election lawsuits don’t alter the results of the 2020 election."
-    publishedDateTime: 2020-11-13T23:15:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7DlaqPV4bRc/geraldo-rivera-trump-election-results-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/geraldo-rivera-trump-election-results-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/geraldo-rivera-trump-election-results-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7dadeef8-00dd-4344-9303-20e8d973abad/e2e98bd2-2fba-4d9c-bc38-2e90bae5a34b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
     excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
     publishedDateTime: 2020-11-05T14:46:50Z
@@ -189,6 +125,22 @@ related:
     quality: 176
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24d1edb3-5012-4e50-9dee-37b68264fb37/23ee445b-9b29-4177-8443-ca7e45d0845a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Bipartisan group urges Trump administration to begin post-election transition process"
+    excerpt: "The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”"
+    publishedDateTime: 2020-11-09T04:58:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDwNcFKL93A/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7994c178-a9a3-49b0-b7c5-c6545797cb45/cf423e11-3eb9-4c8a-87fb-7ac318808722/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -287,22 +239,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Pro-Trump Demonstrators in Washington Protest Election Results"
-    excerpt: "Thousands of supporters of the president gathered in the capital to protest the results of the election. They were greeted by counterdemonstrations, and skirmishes between the two sides attracted police attention."
-    publishedDateTime: 2020-11-15T07:29:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-in-washington-protest-election-results-11605379984"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-260118/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Byron Donalds, new Florida congressman, says Trump’s ‘swag’ netted him Black votes"
     excerpt: "Byron Donalds, the incoming congressman from Florida's 19th Congressional District, credits President Trump's gains with Black voters to his \"swag\" and said Republican House members will need to channel that attitude to effectively take on the House Democratic Squad."
@@ -454,47 +390,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "McConnell Backs Trump in Not Conceding Race"
-    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s unwillingness to concede the presidential election on Monday, saying Mr. Trump was “100% within his rights” to continue his legal challenges."
-    publishedDateTime: 2020-11-09T23:07:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/W3mkbdLwnutI54MAwI4H"
+  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
+    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
+    publishedDateTime: 2020-11-07T02:24:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 115
     images:
-      - url: "https://images.wsj.net/im-257589?size=1.5"
+      - url: "https://images.wsj.net/im-256198?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "More GOP Senators Side With McConnell, Trump"
-    excerpt: "More GOP senators sided with Majority Leader Mitch McConnell’s position on President Trump's continuing election challenge and said they saw no risk that the Kentucky Republican had damaged future negotiations with President-elect Joe Biden."
-    publishedDateTime: 2020-11-10T18:49:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/A2xEt3NxOxRpgsE2ab9a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-257910?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump Drops Legal Challenge in Arizona"
-    excerpt: "Attorneys for the Trump campaign said Friday they’re no longer seeking a court’s intervention into the presidential race in Arizona. The Trump campaign, along with the state and national Republican party,"
-    publishedDateTime: 2020-11-13T18:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/jU8pMZdnj6SyRqNBnYgl"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-259539/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump Tax Returns Fight Will Live On Beyond His Administration"
     excerpt: "Don't expect the fight over President Trump's tax returns to disappear after he leaves office. House Democrats plan to renew their request for his tax returns and audit records next year. “Based on the principle of the issue,"

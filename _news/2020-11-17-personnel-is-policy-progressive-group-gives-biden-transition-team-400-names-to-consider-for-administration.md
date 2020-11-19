@@ -143,22 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden transition argues agency review teams represent 'diversity of ideology and background'"
-    excerpt: "President-elect Joe Biden’s transition team is naming members to its agency review teams in an apparent effort to appeal to progressives – although they can't officially get to work until the General Services Administration under President Trump acknowledges the 2020 election results."
-    publishedDateTime: 2020-11-11T01:51:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FeeG-PicFVo/biden-transition-agency-review-teams"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315762900391.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "What Are Joe Biden’s Plans for Covid-19?"
     excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
     publishedDateTime: 2020-11-13T18:27:00Z

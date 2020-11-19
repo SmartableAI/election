@@ -26,37 +26,101 @@ images:
     isCached: true
 
 related:
-  - title: "John Legend appears to jab at Trump fans Ice Cube, Lil Wayne during rally for Kamala Harris"
-    excerpt: "John Legend appears to be shading a few colleagues in the music industry.  During a final rally for Democratic vice presidential nominee Sen. Kamala Harris in Philadelphia, Legend took the stage to perform with fellow artist Common,"
-    publishedDateTime: 2020-11-03T06:30:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
+  - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
+    excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."
+    publishedDateTime: 2020-10-26T18:32:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 182
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/John-Legend.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
+    excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
+    publishedDateTime: 2020-10-25T04:04:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ub33TkzpNkc/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298765259512.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Lil Wayne reveals 'great meeting' with Trump, prompting Twitter users to respond"
-    excerpt: "Lil Wayne made a big splash on Twitter after he revealed that he met with Trump, sharing a friendly photo the two of them took together."
-    publishedDateTime: 2020-10-30T04:39:00Z
-    webUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting"
-    ampWebUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
+  - title: "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism"
+    excerpt: "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views."
+    publishedDateTime: 2020-10-26T14:56:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zNjyUmwcoA/kamala-harris-laughs-socialist-views-ben-shapiro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 177
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb131da2-ad30-4f80-b7cc-59e3a62cff91/3574cae3-8849-4391-9d48-6cad4e4fa991/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris thinks she can laugh her way through serious questions: Pavlich"
+    excerpt: "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration."
+    publishedDateTime: 2020-10-26T19:13:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris caught on hot mic checking rally location: 'Are we in Cleveland?'"
+    excerpt: "A hot mic appeared to catch Democratic vice presidential nominee Sen. Kamala Harris checking her location before addressing supporters Saturday."
+    publishedDateTime: 2020-10-25T18:08:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298765259512.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ben Shapiro: 'Nothing funny' about Kamala Harris laughing off questions about socialism"
+    excerpt: "Podcast host and author Ben Shapiro on Monday ripped Sen. Kamala Harris, D-Calif., for laughing at an interviewer who asked if she had socialist views."
+    publishedDateTime: 2020-10-26T19:54:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-laughs-socialist-views-ben-shapiro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "CGiw0XGrgYSvf8ePY3ImdeGF8K8xVUjvKhHF+Mwo00Fq0Ibfcic4t6x84hwq8XFu1aKLMmIV/wpm72i/omAIdG/YYpgqfM3Z0d8aBbOTZ0iKGYu326NzTS00l3orkBuaGPcL+dIsejhrQwhrCG5XIEBub31OU9AyD6MY6zqWnwnh1+FmkXL3jJZkLPayNfUBYd7rDTp4gsYEKqNP3BymgdK9c6ONkT5BZXCmBieFjoBymCzlReUrLvTUh++xxWfgV/ntdiyCEU1Kf+h366lU3tlpFl0tL/gZ9PHuByrfBZV4mCrm+LdeAw5uj0F59FgnvkS7TV/CYym0w5GxxQ8d4PJTLKyKUD85G9AFTb+hzQuGnLmOpRs6aC9hJ29zk4yJ3P5nh2PltXO5uw6hJTcuZHPkNUDqBf5dArpeINos7oRUooAvaB6j204+c4BT3ukRoNi3vyGmvYc4RzJpnFBcJHNiQ/DAtk9KEqvXxkpppCK7Psc+JS8W1Y64dU00Tz0EbJN3TpWSCVlyPZ250mbyWA==;58yRzXQsqhgREHMyUQdEFQ=="

@@ -19,215 +19,150 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Will new Florida voters tip the election in favor of Joe Biden?"
-    excerpt: "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end."
-    publishedDateTime: 2020-10-04T23:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden"
-    ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
+  - title: "WATCH: Joe Biden holds drive-in rally in Tampa, Florida"
+    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
+    publishedDateTime: 2020-10-29T17:50:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_2.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden can end the drama on election night. All he has to do is win Texas."
-    excerpt: "Joe Biden can end the election on election night. All it takes is an investment in Texas. Texas is the state where big, late money and showing up could put an end to the suspense about whether President Trump will concede defeat Nov."
-    publishedDateTime: 2020-10-04T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4S6IEDQE6AI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "What a Joe Biden win could mean for the ETF industry"
-    excerpt: "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds."
-    publishedDateTime: 2020-10-10T15:23:00Z
-    webUrl: "https://www.cnbc.com/2020/10/10/etf-edge-gurdus-w.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
+      name: PBS
+      domain: pbs.org
     quality: 125
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732745-1602017926075-joey.jpg?v=1602017961"
-        width: 2285
-        height: 1524
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
+        width: 1024
+        height: 717
         isCached: true
-  - title: "Watch live: Biden holds event in Florida"
-    excerpt: "Democratic presidential nominee Joe Biden on Tuesday afternoon is slated to give a speech in Miramar, Fla., on the importance of voting this election. The event is scheduled to begin at 4:40 p.m. EDT."
-    publishedDateTime: 2020-10-13T20:06:00Z
-    webUrl: "https://thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida"
-    ampWebUrl: "https://thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida?amp"
+  - title: "WATCH LIVE: Joe Biden holds drive-in rally in Tampa, Florida"
+    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
+    publishedDateTime: 2020-10-29T17:50:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
+        width: 1024
+        height: 717
+        isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential nominee Joe Biden speaks on election night from Wilmington, Del.The event is scheduled to begin at 12:45 a.m. EST.Watch the live video above."
+    publishedDateTime: 2020-11-04T05:37:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10282020_gettyimages.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden has spent $500 million on ads this year as he seeks the presidency"
-    excerpt: "Joe Biden's campaign has spent over $500 million on TV, digital and radio ads this year. Biden's campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
-    publishedDateTime: 2020-10-09T22:40:00Z
-    webUrl: "https://www.cnbc.com/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above."
+    publishedDateTime: 2020-11-05T21:21:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106737489-1602243862399-bide.jpg?v=1602243936"
-        width: 1892
-        height: 1262
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
-    excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
-    publishedDateTime: 2020-10-06T11:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/2020-election-trump-biden-each-have-45-support-new-florida-poll/3634560001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634560001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634560001"
+  - title: "Early reaction from Florida: Biden lost ground with crucial Cuban voters"
+    excerpt: "Dade, Florida's most populous county, show Democrat Biden underperforming when compared to Hillary Clinton's election totals in 2016. Political analysts on the ground saw signs of a new phenomenon: Some Hispanic voters,"
+    publishedDateTime: 2020-11-04T06:10:00Z
+    webUrl: "https://abcnews.go.com/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+    ampWebUrl: "https://abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NSHT/86c4aa48-14d2-4477-9ff2-8fc73515bc25-AP20276854230765.jpg?auto=webp&crop=5155,2900,x0,y262&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/2020-election-14-miami-dade-florida-rtr-jc-201103_1604449607408_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden campaigns in battleground Florida"
-    excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-14T05:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201014104120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
+    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
+    publishedDateTime: 2020-11-04T01:07:00Z
+    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
+    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 75
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247485_1602672244.jpg"
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
         width: 1280
         height: 720
         isCached: true
-  - title: "Progressive Democrats have a fragile alliance with Joe Biden. But they're readying for internal party warfare if he wins the election."
-    excerpt: "Fear of a Trump second term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
-    publishedDateTime: 2020-10-09T13:02:00Z
-    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+  - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
+    excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."
+    publishedDateTime: 2020-11-02T06:25:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
+      name: FOX43
+      domain: fox43.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+      - url: "https://media.tegna-media.com/assets/CCT/images/b6d0ea69-d980-4ee8-81fb-00b955f22b88/b6d0ea69-d980-4ee8-81fb-00b955f22b88_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
+    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
+    publishedDateTime: 2020-10-23T19:27:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
+    excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
+    publishedDateTime: 2020-10-29T15:07:00Z
+    webUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 68
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/MJJ-1200x675.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Editorial: Weary nation needs Joe Biden as president"
-    excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
-    publishedDateTime: 2020-10-11T09:18:00Z
-    webUrl: "https://www.expressnews.com/opinion/editorials/article/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    ampWebUrl: "https://www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Editorial: We recommend Joe Biden for president"
-    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
-    publishedDateTime: 2020-10-11T11:33:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "Joe Biden Campaigns in Florida"
-    excerpt: "FL, wears a mask depicting Democratic Presidential Candidate Joe Biden as she introduces him during an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
-    publishedDateTime: 2020-10-13T20:16:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e978a68bb6b1304517246b9d3320d216/Joe-Biden-Campaigns-in-Florida/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/e978a68bb6b1304517246b9d3320d216/BIDEN-FLORIDA.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Joe Biden the favorite of New Orleans area thought leaders, The Times-Picayune Power Poll finds"
-    excerpt: "Picayune Power Poll survey, a new partnership between New Orleans' daily newspaper and powerpoll.com, a non-partisan survey, news and information company focused on the opinions of influential people."
-    publishedDateTime: 2020-10-09T11:00:00Z
-    webUrl: "https://www.nola.com/news/politics/article_974b82be-099a-11eb-87fb-9bcc12512685.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/a6/2a67ffce-099a-11eb-b864-0b4965894730/5f7f64b8f300f.image.png?resize=760%2C630"
-        width: 760
-        height: 630
-        isCached: true
-  - title: "Joe Biden Get-Out-The-Vote Event in Las Vegas, Nevada"
-    excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
-    publishedDateTime: 2020-10-09T21:08:00Z
-    webUrl: "https://www.c-span.org/video/?476841-1/joe-biden-vote-event-las-vegas-nevada"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in Florida"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "https://www.c-span.org/event/?476884/c2020-joe-biden-delivers-remarks-senior-citizen-policy-fl"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Speaks at Voter Mobilization Event in Florida"
-    excerpt: "Democratic presidential candidate Joe Biden speaks at a voter mobilization event in Miramar, Florida. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati."
-    publishedDateTime: 2020-10-14T00:11:00Z
-    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-speaks-voter-mobilization-event-florida"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "wkzOIrMz05lSbG/NkVNSNgk7zKgaWiLPkbexrv/mAnFmpbdA//CAyTK/I3v8oqO+DoLYFN2JoU/X1zxKiIUrBhphVoEho1qfZKFZriKOZCO1JaxgKxbqi2joQXEAy6LM84qkKFq1MdS1JZuF3+rSs8SDyGZ9c9TFKJuQ2VDexu6c/qwYo/vD5dzmuMzY3BTlcC9DfUHz0wRFFqjPu2xRJw17/zRTboS2PtDLzC40CRgiatxGEe4WbJwHd7jiEdCujTpW0oUNTaVjCk+Ar600FKgqS62XtiUrJFSUwh5sXsyaqsHJ7uTRYfrlSCcYjwRtRcFAmRmW5g98gpaz5kcbCnWXyOaBq089E8xhU5BfMOa//68orL7EPrqxHg2/DpGw1GiY2Le9sVudWb1bhOgPq0XHegCMf5NZPhqYS7hqGNUmXm3zC5hUPLtAe0mhhEwJBNGESeVmsFqkCgI6vu6fV00Gx10nqY8hCNkk+2yyxtPsprk/FOLAcGN+luZaZbRqMmbLauQtvEXFmlm7EPEmSQ==;E+BQMfDWffO2fRTG19YxRA=="
 ---

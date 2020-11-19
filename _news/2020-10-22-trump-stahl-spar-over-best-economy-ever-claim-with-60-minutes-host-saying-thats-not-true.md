@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lambasts Lesley Stahl for pressing him on 'tough questions': 'That's no way to talk'"
-    excerpt: "President Trump, in a testy interview with CBS's Lesly Stahl, chastized the veteran reporter telling her \"that's no way to talk\" when she ribbed him about his ability to take \"tough questions\" during an interview meant to air on 60 Minutes on Sunday. "
-    publishedDateTime: 2020-10-22T21:10:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m3M0n6CFYvs/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-chastises-leslie-stahl-on-pressing-him-for-tough-questions.amp"
+  - title: "’60 Minutes’ airs Trump interview cut short by president"
+    excerpt: "“60 Minutes” aired the interview on Sunday night. Stahl warned viewers that the interview started politely but “ended, regrettably, contentiously.”"
+    publishedDateTime: 2020-10-26T08:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXIEPNZqjZM/60-minutes-airs-trump-interview-cut-short-by-president"
+    ampWebUrl: "https://www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/60-minutes-airs-trump-interview-cut-short-by-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd47da4d-02e5-45b9-a0f3-c6dfa1b62229/ec7f5fd6-cc4d-4598-999c-4cd944044c5b/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Charlie Kirk: Enthusiasm for President Trump at record highs"
+    excerpt: "President Trump expected to take the stage in the battleground state of Wisconsin tonight for his third and final rally of the day. The President also had rallies in Ohio and North Carolina, which brings me to this: Trump is closing hard."
+    publishedDateTime: 2020-10-29T19:10:00Z
+    webUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs"
+    ampWebUrl: "https://www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/charlie-kirk-enthusiasm-for-president-trump-at-record-highs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90750d5f-eb89-4a23-a199-ce1017a390d9/1edef06c-8465-4365-973c-2b89bcce42ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lesley Stahl says she felt 'insulted' by Trump and Pence"
-    excerpt: "Lesley Stahl of CBS News told Vice President Mike Pence during a \"60 Minutes\" interview this week that she felt he and President Trump had \"insulted\" her -- as well as the news program."
-    publishedDateTime: 2020-10-23T06:53:00Z
-    webUrl: "https://www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence"
-    ampWebUrl: "https://www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282817811272.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "MG4cd5oJFoUpTHZttAI1/uFV2/WDn0aaqpYS2lTxr8tfhjmQg2xHaO+Pis7+PC/ALRsJATSrJFWlnrbwznURXdLaG5DKFK/oqRAPLyKJU1LyJ7FXZB5S4zbtZMSVz9rqMMppy1+b77AmqDipbsNLtK0pfnowvg2W8+/EzHUexizhpkAZgJ4svZc8BSwkKFRPQrnCrgwLePVmw4EYHaPZzr7mWu+8iLvauSDEOwepAmGiQStFElT0cNpJ5Lv7PFuuuKPXCiTPZcqbhk+ezgTJkylREMGlpIw8D06E5GnvA4Uu09SgNa5rAuOL3PXBqKxLEUqHerJT6fxTv80B0ukqmK9IFJyxS9c2FWHUSbC9HtE=;H9e3kUAW67TE7M8Rxae+iQ=="

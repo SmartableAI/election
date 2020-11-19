@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Close political adviser to Mike Pence tests positive for COVID-19"
+    excerpt: "According to Bloomberg News, one of Vice President Mike Pence’s top political advisers has tested positive for COVID-19. It is unclear if Marty Obst developed coronavirus symptoms when he tested positive."
+    publishedDateTime: 2020-10-25T05:17:00Z
+    webUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/close-political-adviser-to-mike-pence-tests-positive-for-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/pence.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Democrats ask Vice President Mike Pence to skip Amy Coney Barrett vote over COVID risk"
     excerpt: "A deeply torn Senate is set to confirm Amy Coney Barrett to the Supreme Court, but Democratic leaders are asking Vice President Mike Pence to stay away from presiding over Monday’s session due to potential health risks after his aides tested positive for COVID-19."
     publishedDateTime: 2020-10-26T12:16:00Z
@@ -168,22 +184,6 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2020/10/pencenormalize-10820.jpg?w=1200&h=630&crop=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
-    excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."
-    publishedDateTime: 2020-10-26T20:34:00Z
-    webUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296"
-    ampWebUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/26/us-vice-president-mike-pence-will-give-the.jpg"
-        width: 1024
-        height: 746
         isCached: true
 
 secured: "5aXOENaURqrbqIunt/DSyzolFMEiYKJF71Lh5QgdwP8nGeup0dX6hE7tMsj33hXTgIrQmwhkhv9AkeS7V3/v3qT6aMuhbpE14S/RhnOoVBDVrJFB0X0gYicJVOwaA+TkCJ5jc6/XVR1U4qewzYxud9k4Lpac7D1YWOfTQRPwrqgPO3E+WZAkScEz2oqjqkSWqocXT0m/6KovoWbqtb9lxZrllb215pLaJ84WqaSj16oV1ifK2vKFl2B62qJljxOuIobqrUMkvOrIOO7C6Jsc5w4CWjn1fDa1Evq+F6vPyA6UXu9VMbhQk9mO97ExIC8doc88e10oo9s5rowe3u9x5v8OAsu0c/9GHQPFQNr2TYg=;YgbNESpomWiw3qaSZYvv1w=="

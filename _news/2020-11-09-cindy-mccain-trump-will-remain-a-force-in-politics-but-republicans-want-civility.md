@@ -31,147 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Rick Scott says Hispanics will help Trump win Florida"
-    excerpt: "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday."
-    publishedDateTime: 2020-11-02T19:16:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
+  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
+    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
+    publishedDateTime: 2020-11-09T17:17:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump rally in Florida lasts until nearly 1AM despite area curfew"
-    excerpt: "President Donald Trump held a late-night rally in Florida on Sunday night, which appeared to last until about 1 a.m., despite a midnight curfew in place for the area."
-    publishedDateTime: 2020-11-02T09:25:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wd1Mdg41Lqg/florida-trump-rally-goes-past-midnight-despite-curfew"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
+  - title: "Dem. Rep. Ryan urges Trump to put the needs of the American people first"
+    excerpt: "Biden surrogate Rep. Tim Ryan, D-Ohio, had a message for President Trump on Sunday, saying, “You can’t put your own concerns in front of the concerns of the American people.”"
+    publishedDateTime: 2020-11-15T21:43:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOoHX2qITsQ/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307224661221.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign claims historic GOP turnout in Florida"
-    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
-    publishedDateTime: 2020-11-03T23:59:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
-    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
-    publishedDateTime: 2020-11-09T17:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
+  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
+    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
+    publishedDateTime: 2020-11-09T20:01:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
-    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
-    publishedDateTime: 2020-11-04T18:47:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
-    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
-    publishedDateTime: 2020-11-04T07:06:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump's support from Black, Hispanic voters grows from 2016"
-    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
-    publishedDateTime: 2020-11-05T18:28:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
-    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
-    publishedDateTime: 2020-11-03T20:23:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-257077/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
+  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
+    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
+    publishedDateTime: 2020-11-12T13:05:00Z
+    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-258710/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
+    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
+    publishedDateTime: 2020-11-13T04:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259063/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Launches 'Save America' Political Action Committee"
+    excerpt: "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,"
+    publishedDateTime: 2020-11-10T20:25:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-257919?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "IszDoijRF3PLXzWGG/BnRElYYizSdTPfAVlmfUOggsAr30GT9fCFau15ApDdjwQ/m4Nk1okEhmXoN8WRsEdOtUN4jPC56LURLub3wAI0wW/mzf4LnuZlG7YppiMq/U57UGRUMG+MkfFrqULttvlekIklFCTo8XrQZA7UxJDz/oyY4vsEsvOxKSEbwbC77ykTc9jc4eUEoEVfONTfmNwD/xO9tk5ccdlUxbrJPJHwjsX/rSYqtHmO45ZKXkvZeBQ6+a5FDyMSPCU9BpUulxKIr6eQBafTCeTxxnvoeNSARJed78gan0h6aLNFj0tU/qZtfGjj4kfi+o7XewLpIx2N0IoHFsLuFB7T8V2TkWxJ5Dw=;JlcJnMnywx5FLnoVJMuTwQ=="

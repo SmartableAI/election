@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-mor
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
 type: article
 quality: 125
-heat: 205
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
+        width: 2965
+        height: 1977
+        isCached: true
   - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
     excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
     publishedDateTime: 2020-10-23T21:54:00Z
@@ -47,19 +63,99 @@ related:
         width: 3500
         height: 2314
         isCached: true
-  - title: "Trump: Barron 'free' of coronavirus"
-    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
-    publishedDateTime: 2020-10-15T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
+    excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
+    publishedDateTime: 2020-10-26T15:54:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c35/fbc/be3c8f77bbd298d4996104b93d272c6164-donald-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
+    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
+    publishedDateTime: 2020-10-25T03:43:00Z
+    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 73
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
+        width: 3422
+        height: 2281
+        isCached: true
+  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
+    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
+    publishedDateTime: 2020-10-25T03:34:00Z
+    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 66
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
     excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
@@ -92,6 +188,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
         width: 1200
         height: 624
+        isCached: true
+  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
+    publishedDateTime: 2020-10-27T20:14:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    type: article
+    provider:
+      name: WXII12
+      domain: wxii12.com
+    quality: 53
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "y9i6X4MuyQKnEZ1ZCxvEzctOL7odQ30r9VLGVP5sFyUqeM9Mjj2TbsKwTBq2LFsje0EFvJoeypNq04psGTqQgtuzPbeam57MdloT9lf304mFkDg75bUuLZwCHusJoVJFeZHmIIWwUL6Q3p/wn5Ng6Ic6EUc20ZBd2W7zUv7XWJhklIKBQMuDgPGcpiolYOagew7YjUu+sOfZzDjAUU95Nc6FMiMf2S1BFD8QVfh8Lm1kFmNusx8AYsXSeG+ixr0zZM2OmtrvuKopOaOsFay8vzxGZe97mQyEXz6LspoaP6+Eq7OABKElpDp3VObbIRzJ/yjGzBzHQ2GUZBFTQYwUDHnY442NuonmRVR4PxYSRLyXwrPuikyB9PP6fX7zU7FIduQc5qqEcFT6zJPX1ROKdZXyua5UROfjZ699PkaCgnEoWxFxIyWPCGwG9iHxCuzWQ0lzqEEMykMYxpTLqZP/VhXGC14Tqe6MDRNnZBO2itzrRgvOEzWulnvd125cWT5OhssPbLu2H2Yt4q4NhWY+Gg==;xg5R+zcJrHMWVZPDKy6hfQ=="

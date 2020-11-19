@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden and Harris share the spotlight with their families to celebrate victory"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n"
-    publishedDateTime: 2020-11-09T22:04:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 197
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
-    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:51:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 192
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Kamala Harris, as first woman elected VP, says she 'won't be the last' "
     excerpt: "On the night Vice President-elect Kamala Harris made history, she recognized the long battle women had faced for the right to vote and to break into the highest ranks of American politics -- and said that \"every little girl watching\" across the country now knows they can do so, too.\n    \n"
     publishedDateTime: 2020-11-08T02:47:02Z
@@ -96,83 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Douglas Emhoff, Harris' husband, to sever ties with law firm by Inauguration Day"
-    excerpt: "Douglas Emhoff, the husband of Vice President-elect Kamala Harris, will sever all ties with his law firm DLA Piper by Inauguration Day, according to a campaign spokesperson.\n    \n"
-    publishedDateTime: 2020-11-10T20:49:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W4aqWbhPVHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/douglas-emhoff-law-firm/index.html"
+  - title: "'You can't be what you can't see': Female politicians of color discuss what Harris' win means to them"
+    excerpt: "The ascension of Kamala Harris as the first female, first Black and first South Asian vice president-elect is both symbolic and important to many women across the United States, and several female politicians of color expressed on CNN Sunday morning what it meant to them.\n    \n"
+    publishedDateTime: 2020-11-08T17:40:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5huvRXTSgpI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-politicians-of-color-reaction-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/kamala-harris-female-politicians-of-color-reaction-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 180
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
-    excerpt: "Michelle Arrington was on a plane headed to a beach reunion with her Alpha Kappa Alpha Sorority sisters Saturday when American history happened.\n    \n"
-    publishedDateTime: 2020-11-08T22:19:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sej38i-hN54/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190124204506-kamala-harris-aka-sorority-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: The most important line in Joe Biden's victory speech"
-    excerpt: "On Saturday night, President-elect Joe Biden did something the man he will replace in the White House never did in four years: He reached out the people who didn't vote for him.\n    \n"
-    publishedDateTime: 2020-11-09T15:31:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109111248-primera-biden-1-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
-    excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
-    publishedDateTime: 2020-11-16T16:43:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CMIOj2nRiG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "After years of unrelenting attacks, many immigrants breathe a sigh of relief with Biden victory"
-    excerpt: "For nearly four years, the Trump administration gradually, and swiftly, choked off immigration to the United States, making it exceedingly difficult for people to come to the country to study, work, and seek refuge.\n    \n"
-    publishedDateTime: 2020-11-07T18:55:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p2QpkmlxPkk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/07/politics/immigrants-daca-biden-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200721091458-01-daca-supreme-court-decision-0618-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108120519-omar-sanders-ocasio-cortez-abrams-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,54 +93,6 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201102160632-04-kamala-harris-lead-image-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrats seek to avoid scorched-earth fight with White House over transition to Biden administration"
-    excerpt: "House Speaker Nancy Pelosi and President-elect Joe Biden's team are arguing that it makes the most strategic sense for now to let public pressure build on President Donald Trump for preventing the transition from officially taking place, rather than using the power of the House Democrats' majority to"
-    publishedDateTime: 2020-11-16T20:21:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MM5mORpkGOw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
-    publishedDateTime: 2020-10-25T22:38:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 149
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "See Kamala Harris' ancestral village in India celebrate her election win"
-    excerpt: "The village of Thulasendrapuram celebrated Harris' election win with fireworks, music and a mural in her honor."
-    publishedDateTime: 2020-11-08T18:43:00Z
-    webUrl: "https://www.cnn.com/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2020/11/08/kamala-harris-us-election-win-celebrated-in-thulasendrapuram-india-orig-kj.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108133459-india-celebrates-harris-win-thumbnail-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -303,22 +159,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_45/3426746/201107-kamala-harris-se-1256p_56c5535ac038761418c2d7036a43b7a2.jpg"
         width: 2500
         height: 1599
-        isCached: true
-  - title: "‘It’s a Big Deal’: TV Coverage Notes Magnitude of Kamala Harris Victory"
-    excerpt: "On Fox News, Donna Brazile recalled that her mother and grandmother could not vote. “Just scoot over and let women also share in the leadership of this country,” she said."
-    publishedDateTime: 2020-11-07T21:52:00Z
-    webUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/07/business/media/kamala-harris-coverage.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/08/business/07harris-media/merlin_179349762_a42eb950-e5f1-4108-a117-004f508f1657-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Kamala Harris makes history as vice president-elect"
     excerpt: "Kamala Harris makes history as the nation’s first female, first Black and first South Asian American vice president-elect after she and Joe Biden are projected as the winners of the 2020 election."
@@ -432,22 +272,6 @@ related:
         width: 2500
         height: 1731
         isCached: true
-  - title: "Kamala Harris’ ancestral village in India celebrates her success"
-    excerpt: "Kamala Harris’ ancestral village in India lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
-    publishedDateTime: 2020-11-10T10:49:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Young girls react as Vice President-elect Kamala Harris makes history"
     excerpt: "President-elect Joe Biden on Tuesday is outlining more details of his transition plan even as President Donald Trump and other top Republicans continue to challenge the results of last week's election."
     publishedDateTime: 2020-11-10T00:00:00Z
@@ -496,54 +320,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Largely Out of Sight in Washington, Kamala Harris Preps for White House"
-    excerpt: "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”"
-    publishedDateTime: 2020-11-15T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote"
-    excerpt: "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”"
-    publishedDateTime: 2020-11-03T02:30:00Z
-    webUrl: "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95196229930"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris’ ancestral village in Indian celebrates politicians success"
-    excerpt: "Kamala Harris’ ancestral village in Indian lit fireworks and played music to celebrate the California politician’s success in the U.S. elections. Harris, who will become Vice President, has Indian and Jamaican heritage,"
-    publishedDateTime: 2020-11-09T00:08:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-ancestral-village-in-indian-celebrates-politicians-success-95555141952"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95555141952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95555141952"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/India-celebrations-thumbnail.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Kamala Harris’s ancestral village in India offers prayers for her victory."
     excerpt: "More than 8,000 miles from the White House, in a small Indian village ringed by lush green rice paddies, several dozen people flocked into a Hindu temple, carrying roses and strings of sweet-smelling jasmine,"
     publishedDateTime: 2020-11-03T14:01:00Z
@@ -576,22 +352,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
-    excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16transition-briefing-promo1/16transition-briefing-monday-lede-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "NBC News Exit Poll: Kamala Harris viewed favorably by just over half of voters"
     excerpt: "If elected vice president, Sen. Kamala Harris would be the first woman and the first person of color to serve in that role."
     publishedDateTime: 2020-11-04T05:11:00Z
@@ -621,22 +381,6 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/03/us/politics/00Harris-HFO1/00Harris-HFO1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Joe Biden speaks about the economy as the virus surges and vaccine hopes rise."
-    excerpt: "Biden Jr. addressed the slowing American economic recovery on Monday, amid the crosswinds of rising coronavirus deaths and soaring optimism over a vaccine. His speech comes at a perilous moment for the recovery from the pandemic recession."
-    publishedDateTime: 2020-11-16T19:56:00Z
-    webUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/business/16markets-brf-biden2/merlin_180108033_2dd4beda-c70d-42ea-9e07-179ef37099f9-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -672,22 +416,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "From pearl necklaces to sneakers: 5 Kamala Harris style tips we should ALL incorporate in our lives"
-    excerpt: "Wardrobe stylist and author of “The Creatives’ Closet,” Monica Barnett, shares fashion tips inspired by our next vice president."
-    publishedDateTime: 2020-11-13T16:31:00Z
-    webUrl: "https://www.nbcnews.com/know-your-value/feature/pearl-necklaces-sneakers-5-kamala-harris-style-tips-we-should-ncna1247706"
-    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247706"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247706"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 121
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_46/3428176/201113-kamala-harris-converse-orlando-se-1112a_e62187753648eb7aa5c20393c25e240d.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Read Kamala Harris’ Vice-Presidential Acceptance Speech"
     excerpt: "In her remarks Saturday night, Vice President-elect Kamala Harris acknowledged “all the women who have worked to secure and protect the right to vote” and said: “And I stand on their shoulders.”"
     publishedDateTime: 2020-11-08T02:14:00Z
@@ -713,33 +441,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "'This is our country. It is for all of us': CNBC's Sharon Epperson on what Kamala Harris' victory means for women of color"
-    excerpt: "\"The election of Sen. Kamala Harris as vice president of the United States means my daughter sees her future,\" writes CNBC’s senior personal finance correspondent."
-    publishedDateTime: 2020-11-09T19:15:00Z
-    webUrl: "https://www.nbcnews.com/know-your-value/feature/our-country-it-all-us-cnbc-s-sharon-epperson-what-ncna1247142"
-    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1247142"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1247142"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 109
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_46/3427030/201109-kamala-harris-ew-1200p_b98275dfb5c3481411b19e6f693eeaf1.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "'Her story is our story:' Alpha Kappa Alpha sorority sisters bask in Kamala Harris' victory"
-    excerpt: "A group of Howard University alums and Alpha Kappa Alpha sorority sisters explain what electing the nation's first black woman vice president means to them and the generations ahead."
-    publishedDateTime: 2020-11-08T21:45:00Z
-    webUrl: "https://www.cnn.com/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/08/politics/alpha-kappa-alpha-sorority-kamala-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 105
 
 secured: "65hs0Rc57httQP3U1CLsvH5YJaACoSAN6OyGPTpZPbNV/mvoYC16rxPoUAOxigZzT1uos2qerLRMe6BH943chFNYx5+p+BojDCdsOtt2EdWoQ+LYMM0CKYPrwd68pNC0LdxqO50pqz0EPPKnqUwOR/5F3o4y9rgVfNGCC6kDYZffqCgbt8gcpLC5vZE9gKFA6y72lAmSHwarf9R91+R1COYn2WxHW7QiMwVR0ib2/VVvNKm8GtDWdSEsT7KUpCwxPNhns1EAboWM5dNHKUkpFkyYihQTCn95rr9NKbSTZg0lMkmP0wOkSRFf+pZtuRC3vniq41oBMutxHyhxWVYt1mRhG1zy20d8g0mUuYjRvh6898U5yrsDZyJt84wrc/9IU/QEAQLqAh7S0rVw0F7avfCMS38wvPGpLKWwn7ZyCk6Ry3oaFG00zN5n0jXYJqE1jZ9p1Kr7c9tqr5mAL4mDpG8eOuIyYYiqI0uznDHYHOKErEuohtCy7czGmgwSsI/mm2aCauWOLwOA7+sWKNNXDQ==;V2U+SxvVAXXT1T4+7hiEiQ=="
 ---

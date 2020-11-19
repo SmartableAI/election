@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/latino-voters-escaped-dictatorships
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/latino-voters-escaped-dictatorships-trump-democratic-socialists.amp"
 type: article
 quality: 175
-heat: 215
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump"
-    excerpt: "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday."
-    publishedDateTime: 2020-11-12T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
+  - title: "Trump to launch PAC to retain influence after departing White House"
+    excerpt: "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House."
+    publishedDateTime: 2020-11-10T14:57:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump administration moves to limit work permits for immigrants with deportation orders"
-    excerpt: "The Trump administration on Tuesday announced that it was moving to limit work permits for immigrants who have deportation orders, but have been temporarily released -- a move that officials say will encourage them to remove themselves from the country."
-    publishedDateTime: 2020-11-17T22:25:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co8-4WB46DI/trump-administration-work-permits-immigrants-deportation-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
+  - title: "Nevada county judge keeps some polls open later after Trump campaign sues"
+    excerpt: "Some polling locations in Nevada’s Clark County will stay open until 8 p.m. after a GOP lawsuit. "
+    publishedDateTime: 2020-11-04T02:30:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XjnqvgkV8MI/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-county-judge-keeps-some-polls-open-later-after-trump-campaign-sues.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/New-york-voting-2020-2.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New Pentagon adviser could push US troop withdrawals before Trump’s departure"
+    excerpt: "President Trump’s flurry of November changes at the Pentagon could have U.S. troops home from Afghanistan by Christmas, if one new adviser gets his way."
+    publishedDateTime: 2020-11-12T00:22:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/38uX1nJm9Vo/new-pentagon-adviser-troop-withdrawals-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-pentagon-adviser-troop-withdrawals-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "n8ukDVksFtQlOd+NMx4/vXui6634ODaD0Tn/H0EJJb6bW7lB2NpLbj+aCw7IO7AIBmpnuGYBFUmX7cJ7qpfJVhhargX0JD3cBxNWMaNIrqrtbGyxRzU4DkBAHxI3LIYW2lAHzpv6AW3bKPV+H91VKSIFWfBuOlglopSEoKp9qE9+rhf9DfINbQO23BHMJS7vNp/cNmd1UkoQbl7YMfRVuAWPVxVOyXkJ05y+XWyQddaVWfxIEWu6Vh3TN3VLuRCiiqeO8wMtI5dtdDzHRM9NQmAr0bIWPgaBspsWavevyEb+57WmirjebV2BJGA9OCoOsGxYfy+nodbPhANnb9UcUdWiur2KLQP6EZcb2GeQ+m8=;Tj+3kFhoTAvkP2AIsFzpdQ=="

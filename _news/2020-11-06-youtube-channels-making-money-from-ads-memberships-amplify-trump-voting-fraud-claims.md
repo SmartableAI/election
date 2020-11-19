@@ -89,17 +89,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
-    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
-    publishedDateTime: 2020-11-08T16:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
     excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
     publishedDateTime: 2020-11-07T10:15:00Z
@@ -127,6 +116,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+        width: 1200
+        height: 832
         isCached: true
 
 secured: "VScqjCf0pw5AJU7W+wXgvbtnbZaYwBOx55ghDse6l5RnL++lmcRC52Oj4duysbPx8aXsVOiu9NTwxArYMs2WL3hfQ8f+sdpvs3Jle/KfEAT/MnJ12PNDiSBXInlkv3C+G7BTRFZ/ick+mBhW2b9B1DVHr6pdR91Mz+y5gB995QkmBY+qHNyn1XTpZyQ38RO7f+hEMRjMfQyR7mj4gQ3lzqR/zT+iaPm/rcDm42jpNT9TzBor7vFVnmTWExJHFbXXso0YrCEDFKwIg5KR02ZGuBY55TA+EcVencREqJZlLDcyT+KEksDt302iPXIBHnVj8WXi0AJpxQKAvZJQCYY9SFKLcmFu8McdOnt0CKsd/uNYTnSLkeySc2oomO3jTaH8NAgjrac0vLc0bk42x/7k3OcYcy1BBIiMNCBGJfBhnhPSmpn1YdF7484njdqxl5/wHLF04NxkEUJXvNbWSUPk19UpksixOPleTbnIyM8x3ETiDiui/SsKehXokg83fBvTO9rbMFl6sCHisS/fbBxRuQ==;7kYziaSY8Rr4q2tpaQsaXQ=="

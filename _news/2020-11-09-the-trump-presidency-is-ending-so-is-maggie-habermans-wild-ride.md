@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/08/business/media/trump-maggie-haber
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/08/business/media/trump-maggie-haberman.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Flashbacks to Florida in 2000 as Trump Heads to Court to Save His Presidency"
+    excerpt: "While the White House seeks a “James Baker-like” figure to lead its postelection legal battle, the real James Baker says President Trump should not try to stop votes from being counted."
+    publishedDateTime: 2020-11-06T00:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-memo-1/merlin_179623941_cf890284-7530-47fe-81c5-0ccc173c4eef-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "rZx/CuiAEZF88thDvLdwOJIjov4DRZXq5s/7pbr6XdJGGMTD+LxBJwdldHd3nyTjYnHOxWGaG2Pl9hXEn/uwzz3Rwhslz/Jhh5gbJSbkzAW1zB6xp6zrJJN3nWhPozzcyEiG6DgRDl2N9ykKtvUs1jyei3cak+NMpTTeHydgzgQ0CMo3lsVnIp7bblOmjiLWTmNnCDT87SF0O9l8ghFiT5GXa9yCJNSC4u+xuwGhG6xHJp5eJhD4N/FPpl3y1vkoN8SVx8PHTsh4JfB82STKoSV/c0cRi38StB+1j5ODIpw35zd5gvm4o70zjvdjQf5jKaoUZa6mBZnNh/W9Cu5kX4nk8WtiSNJ7iejE9pVQwf5A2Jzza7QWefcTyIIjXeHfGYO+wkb7Cxsrdsnjm/jCmUrMVr7LsQS2lfBW0BbOVWDP9PmBep9kX3LKNf8bUre2LlEwueNcijmxs2dol0OY2IAd7DvIQORFOFn6qG8AK2zTVuK+zewu0ccARAjneNWyaZmuR8MHjJjqZKoYJAM/4g==;pAHNZRWfauTy50CLQ80B2Q=="
 ---

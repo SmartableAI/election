@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-presidential-election.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 295
+published: true
 
 provider:
   name: Fox News
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump high schooler sues Florida district for censoring support"
-    excerpt: "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump."
-    publishedDateTime: 2020-10-24T17:08:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
+  - title: "Sen. Rick Scott says Hispanics will help Trump win Florida"
+    excerpt: "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday."
+    publishedDateTime: 2020-11-02T19:16:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WwcBdB8wbc8/rick-scott-says-hispanics-will-help-trump-win-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-says-hispanics-will-help-trump-win-florida.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
-    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
-    publishedDateTime: 2020-10-28T22:38:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
+  - title: "Trump rally in Florida lasts until nearly 1AM despite area curfew"
+    excerpt: "President Donald Trump held a late-night rally in Florida on Sunday night, which appeared to last until about 1 a.m., despite a midnight curfew in place for the area."
+    publishedDateTime: 2020-11-02T09:25:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wd1Mdg41Lqg/florida-trump-rally-goes-past-midnight-despite-curfew"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-trump-rally-goes-past-midnight-despite-curfew.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307224661221.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign claims historic GOP turnout in Florida"
+    excerpt: "The Trump campaign on Tuesday claimed historic Republican turnout in Florida, touting their ground game—specifically their efforts in Black and Hispanic communities—and saying the race in the Sunshine State is in “nearly a dead heat.”"
+    publishedDateTime: 2020-11-03T23:59:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPx0z_M4kUs/trump-campaign-claims-historic-gop-turnout-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-historic-gop-turnout-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cuban Americans, senior citizens lean toward Trump in Florida: Fox News Voter Analysis"
+    excerpt: "President Trump may have support from senior citizens and Cuban-American voters to thank for his projected win in Florida and for its 29 Electoral College votes, according to polling from the Fox News Voter Analysis."
+    publishedDateTime: 2020-11-04T07:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wa6z-URpjV8/cuban-americans-senior-citizens-trump-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuban-americans-senior-citizens-trump-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/shannonbream1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump gains in Florida polls despite Democrats lead in early voting"
     excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
@@ -76,6 +108,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Melania Trump votes in Florida wearing Gucci dress, no mask"
+    excerpt: "First Lady Melania Trump was dressed to the nines while voting in person on Election Day, wearing an equestrian-print white dress among other high-fashion accessories. Trump cast her ballot at a voting center in Palm Beach,"
+    publishedDateTime: 2020-11-03T20:23:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/melania-trump-votes-florida-gucci.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "EKQW9Di1/qAfG3Bm3b96peWlYJMn28tI6aOQ6syDwKa5vmL3lEFiOLzfaOL1G0hm8Xv2YRleTXn8pRxWmH+A3Q27mPiWS9b89xRwGkfDbkPKEzlXvLPKdFkZ1R0YXWOPEbj+GwnwQbyJxXiYLTWAe/0MvF2CivdzZ61cwqKhOXbKz9Q4pkcPSdNyKabTKjUnHc/VDXXAgAfx/YQP27tIoqNx8eY9xfB6F9gN0yZqrDPFEsgtWkbE/jO1rKSIpJRGwckU3hOr82AbCdB/gtog4i1pYbciL2MKZo/NIAZ07C7V7XfQ6EF0jgA6h3pO2JxAlL4JZAf7GLKbaUMVnrcF/qjLWErPF33v4r08TIyAWus=;d3V1t17nV61WGMd3WJR+Yw=="

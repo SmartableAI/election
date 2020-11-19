@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
+    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
+    publishedDateTime: 2020-10-30T18:25:00Z
+    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
 
 secured: "iIixoOGHimjcqkEYcsa2iXISEKWxWpCn7rfQLseN5qbEVXhIwdLWtTY88wReKaZZ+UC6t+pioHtKe+gDNX3WiPwQ9CLHDp1s95c7NWa4pSQQAq3vkhMKYCk9J9E52flqt1ioWlXl9kObOwVXQLbdeCaixIBmm2Su0AvkJ9sPi2LIimqumWPJeDwLfTc0u64308rITpIHjoWn69VnlM7rvdkF/bPhVrHO81Q9qJ9Y3qDCmNSF6vbq/wxfYZLSXVMCdJKBAyl/lqZ8pgZ8OLPXuDhyaKYDa0YufUOwKNzaabYOAH4LFyD9FUkKWp5A28qZzVVu0SHOTJkrRMbA4L8/ONHfqyNpuaeRyHO3JKQJQB8=;y7k6pwfVZJMA0debW0SUFw=="
 ---

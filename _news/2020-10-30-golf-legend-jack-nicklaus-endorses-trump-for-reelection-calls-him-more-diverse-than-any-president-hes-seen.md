@@ -47,22 +47,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
-    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
-    publishedDateTime: 2020-10-24T09:12:00Z
-    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
+    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
+    publishedDateTime: 2020-10-26T19:33:00Z
+    webUrl: "https://time.com/5903917/trump-florida/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 79
   - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
     excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
     publishedDateTime: 2020-10-22T13:24:00Z

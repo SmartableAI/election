@@ -89,38 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Moments from 60 Minutes' interview with President Trump"
-    excerpt: "This week on 60 Minutes, correspondent Lesley Stahl interviewed President Donald Trump and Vice President Mike Pence. It is the fourth time Stahl has interviewed Mr. Trump and her second sit-down with Pence."
-    publishedDateTime: 2020-10-26T01:14:00Z
-    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-highlights-2020-10-25/?fbclid=IwAR3SVvEE6mFEduGafMrqqswMpfsuf_7RqxuKQDID2J8SIezdK837G7KpafU&ftag=CNM-00-10aab7e"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-highlights-2020-10-25/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/25/b6272eb5-0269-4ead-b400-74fbb91403f5/thumbnail/1200x630/2d49cd6be8ef217bd737ea47baf3c87e/trumpotarticle0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The 60 Minutes interview that President Trump cut short"
-    excerpt: "We begin with President Donald Trump and Vice President Mike Pence. I spoke with the president on Tuesday in the Roosevelt Room at the White House. We had prepared to talk about the many issues ..."
-    publishedDateTime: 2020-10-26T07:09:00Z
-    webUrl: "https://www.cbsnews.com/news/president-trump-60-minutes-interview-lesley-stahl/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/president-trump-60-minutes-interview-lesley-stahl/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/25/109f8076-5b3d-458a-8402-3f8bb05ac1d0/thumbnail/1200x630/a2a33f88b3ac9f5b9291b93bd2a547e4/trumparticle0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump charges into battleground states despite rising virus"
     excerpt: "President Donald Trump is intensifying his already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide"
     publishedDateTime: 2020-10-26T18:35:00Z
@@ -375,6 +343,17 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "If Trump Wanted People to Avoid '60 Minutes,' It Didn't Work"
+    excerpt: "Angry about his interview with Lesley Stahl of “60 Minutes,” President Donald Trump released an unedited version of the talk on Facebook three days before the broadcast."
+    publishedDateTime: 2020-10-27T21:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-27/if-trump-wanted-people-to-avoid-60-minutes-it-didnt-work?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z

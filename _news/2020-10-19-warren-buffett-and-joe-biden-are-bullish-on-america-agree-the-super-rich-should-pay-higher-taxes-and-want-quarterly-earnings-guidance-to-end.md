@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,22 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden in Michigan: 'It's time to unite America' and increase affordable health care"
-    excerpt: "The promises to expand health care access come less than three weeks before Election Day, as both candidates vie for Michigan's votes."
-    publishedDateTime: 2020-10-17T10:55:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/16/joe-biden-southfield-health-care-election-2020/3676794001/"
-    ampWebUrl: "https://amp.freep.com/amp/3676794001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3676794001"
+  - title: "Is America ready to return to the Obama-Biden foreign policy?"
+    excerpt: "The Obama/Biden reset policy with Russia backfired as Russia annexed Crimea from Ukraine in 2014 and entered the Syria civil war in 2015,"
+    publishedDateTime: 2020-10-23T19:30:00Z
+    webUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 67
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDTF/6a691198-8926-4281-83f8-670682a8fc9b-biden_101620_kd125.jpg?auto=webp&crop=2399,1349,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/obamabarack_110916getty.jpg"
+        width: 646
+        height: 363
         isCached: true
+  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
+    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
+    publishedDateTime: 2020-10-26T14:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Police: Florida man stole bulldozer, ran down Biden signs"
+    excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
+    publishedDateTime: 2020-10-26T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "America is changing. Joe Biden can help us through the transformation."
+    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
+    publishedDateTime: 2020-10-29T19:57:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "The Top 5 Richest Backers Of Joe Biden"
+    excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/denizcam/2020/10/31/the-top-5-richest-backers-of-joe-biden/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c6c2fd8fc934e427cc4d3%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
+    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
+    publishedDateTime: 2020-10-24T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
+    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
+    publishedDateTime: 2020-10-22T08:50:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
 
 secured: "6Vd+tKt24Cw8yk/7F8xL0mRY+jBPlIwwmrF+0ovbjp5rhkCPDPP77pXDgdO7jMM3DoRXC6zj8gOTKknUAj3dj7gXtAj6Ufev+QiZAaPZGRtG2qviAVPshJVG+Wc/v3k48PKB7whFpOVbqav1A5djnIuuF/+yTL5el30Yzh+KDHuLd+dMiFt50VqY9nH3ZyZV4+XAw8IWRgJ6aY7jcD0jJx0nF8sXOiEIq4jezrpLp8UHqfirZoBTqLWKUfxoIdRuHe18nMda/gXmf5w7+j4MubMbEhUulnMt1e3bsKcBH2af/nC0FmcC+P+iuaicbQ+w65KOgcmCxLX3YHm5LZlbSyjEZWKCYxWnFHCKIVKaWXBxkQ37Lmrum1txN6NgU72/c8QYtrMcl+DLJD+ZNRk/znLbf+V3boe+8PWLVNXPWqO1+bgpFZFn+A9DUf2HSGGhDB5YMBa4hJTWnlqoUud4Qk/nzcwY80kM+whBC5kecYBD5VU/X206NR17JqIpPcgq6JoTYCfIltWTdWiMGG7vLw==;z1QdgbRGw4FQ6dw9XaWbUA=="
 ---

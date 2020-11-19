@@ -59,6 +59,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
+    excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
+    publishedDateTime: 2020-11-17T14:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/prison-fellowship-s-statement-on-joe-biden-kamala-harris-election-victory"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 134
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden & Kamala Harris address the economy..."
+    excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-16T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201116201403-president-elect-joe-biden-vice-president-elect-kamala-harris-address-the-economy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/16/story_07715160_1605559805.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
     excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
     publishedDateTime: 2020-11-10T12:25:00Z
@@ -154,6 +182,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548105&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1QY"
         width: 802
         height: 545
+        isCached: true
+  - title: "Joe Biden and Kamala Harris: The Post’s Stories"
+    excerpt: "With the Democrat’s win on Nov. 7, Biden will resume a decades-long career in public service, while Sen. Kamala D. Harris (D-Calif.) will become the first Black and Asian American female vice president. We’ve compiled some of our most deeply reported ..."
+    publishedDateTime: 2020-11-10T16:52:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/11/10/biden-harris-background/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/w29vakFJD5g-rcE8gEB8MYQHFNc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SGF7KP6EHJHHHNUEX6ZM2T5XUQ.jpg"
+        width: 1484
+        height: 989
         isCached: true
   - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
     excerpt: "WASHINGTON (AP) — The Latest on (all times local):"

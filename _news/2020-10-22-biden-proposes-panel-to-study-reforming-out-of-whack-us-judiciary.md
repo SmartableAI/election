@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/biden-proposes-panel-to-study
 webUrl: "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238"
 type: article
 quality: 105
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538412905&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L0D4"
         width: 810
         height: 540
+        isCached: true
+  - title: "Biden says he'll create a commission to decide whether to reform the federal judiciary and pack the courts: 'It's getting out of whack'"
+    excerpt: "Court packing alone could \"turn the Supreme Court into just a political football,\" Democratic nominee Joe Biden told CBS News."
+    publishedDateTime: 2020-10-22T14:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f91858eabcd0c0018d68fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "What problems did Joe Biden solve during his decades in government?"
     excerpt: "The “60 Minutes” interviews of the presidential and vice-presidential candidates last Sunday were more revealing for questions not asked and for sidestepping than for what inquiring minds really want to know prior to Election Day."

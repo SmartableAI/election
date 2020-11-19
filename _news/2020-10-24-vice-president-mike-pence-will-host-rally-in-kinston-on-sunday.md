@@ -9,8 +9,8 @@ ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/727
 cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: WTVD
@@ -27,113 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "EXCLUSIVE: NBC2 speaks one-on-one with Vice President Mike Pence"
-    excerpt: "All eyes are on Florida Thursday as President Donald Trump visits Miami for town hall meeting to be broadcast on NBC. Vice President Mike Pence held a rally Thursday in Miami befo"
-    publishedDateTime: 2020-10-16T20:01:00Z
-    webUrl: "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/"
-    ampWebUrl: "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
+  - title: "Vice President Mike Pence to speak at rallies in Arizona on Friday"
+    excerpt: "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson."
+    publishedDateTime: 2020-10-29T05:16:00Z
+    webUrl: "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
+      name: KPNX
+      domain: 12news.com
     quality: 75
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2020/10/pence.png"
-        width: 640
-        height: 360
+      - url: "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "One-on-one interview with Vice President Mike Pence"
-    excerpt: "After Vice President Mike Pence’s campaign rally in Berks County on Saturday, Eyewitness News spoke one-on-one with the Vice President. The"
-    publishedDateTime: 2020-10-17T21:03:00Z
-    webUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/"
-    ampWebUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
-    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
+  - title: "VP Mike Pence to campaign in Greenville on Tuesday in rare pre-election SC rally"
+    excerpt: "Pence helped kick-off U.S. Sen. Lindsey Graham's reelection campaign a year and a half ago with rallies in Myrtle Beach and Greenville, and his return to the state could be"
+    publishedDateTime: 2020-10-25T01:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/vp-mike-pence-to-campaign-in-greenville-on-tuesday-in-rare-pre-election-sc-rally/article_cebcf6ce-165b-11eb-a502-abfe9d3680e0.html"
     type: article
     provider:
-      name: WYOU
-      domain: pahomepage.com
-    quality: 75
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 65
     images:
-      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2020/10/vlcsnap-2020-10-17-16h53m31s475.png?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Mike Pence arrives in Berks County"
-    excerpt: "Vice President Mike Pence landed at Reading Regional Airport about 1 p.m. and has been speaking to a crowd of about 1,000 supporters. Pence was still on the ground conducting interviews at 2:30 p.m. and it was unclear when he would be setting off for his next stop."
-    publishedDateTime: 2020-10-17T18:00:00Z
-    webUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.html"
-    ampWebUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
-    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
-    type: article
-    provider:
-      name: Reading Eagle
-      domain: readingeagle.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/2/f1/2f1eaf86-10a2-11eb-9cee-2706909b2f7a/5f8b30c8048eb.image.jpg?resize=1024%2C749"
-        width: 1024
-        height: 749
-        isCached: true
-  - title: "Vice President Pence speaks about another round of Stimulus Checks"
-    excerpt: "Vice President Pence was in the “Keystone State” to plead his case for four more years of President Trump. While visiting he was asked about the concerns of the COVID-19 stimulus and"
-    publishedDateTime: 2020-10-18T16:13:00Z
-    webUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/"
-    ampWebUrl: "https://www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/top-stories/vice-president-pence-speaks-about-another-round-of-stimulus-checks/amp/"
-    type: article
-    provider:
-      name: Wane
-      domain: wane.com
-    quality: 75
-    images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2020/10/GettyImages-1218977241-1.jpg?w=1280"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
-    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
-    publishedDateTime: 2020-10-22T10:05:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Pence speaks at Reading Regional Airport"
-    excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
-    publishedDateTime: 2020-10-18T01:33:00Z
-    webUrl: "https://www.wfmz.com/news/area/berks/vice-president-pence-speaks-at-reading-regional-airport/article_4248b3da-10d5-11eb-81d7-7f604f967283.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
-        width: 1120
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/da/fda94d6a-165c-11eb-bae7-7b6abc6ad9c9/5c9fafc8993dc.image.jpg?resize=840%2C630"
+        width: 840
         height: 630
         isCached: true
-  - title: "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5"
-    excerpt: "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,"
-    publishedDateTime: 2020-10-22T03:44:00Z
-    webUrl: "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/"
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
     type: article
     provider:
-      name: WABI
-      domain: wabi.tv
+      name: Lancaster Online
+      domain: lancasteronline.com
     quality: 55
     images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
-        width: 980
-        height: 550
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
+    excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-28T08:19:00Z
+    webUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.html"
+    ampWebUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/2b/32bbaa04-189a-11eb-96fc-97e1fd38bd2a/5f9886a6215fe.image.jpg?resize=1024%2C713"
+        width: 1024
+        height: 713
         isCached: true
 
 secured: "x4C6ixJIwtDZ5X6HLJY0oiNIsgQ5+CvoCi9adkWsEUuX9I2UyvGG5zGdMaS/wyfkAG3xLWy1p2JV6vqr1skmucoyImhT36l1kY4aa+fv+T7DwkDYqqX4xpgm72aQAkjzRBgys86ONRrpKgsxosAJwn2ZExOD3azsP26duzSOmD1HW0gwpqoLx+3NX+zOYsfWOmvvmhQXSBgyPxTtwASttJ3Qcf0R6RpJ/3/jS1yruifojxKZn9Le+N4muQnf0Jbh9qAwf3C1LzD5+CxUNra3LJfFJAHRDz26Vxp7GGnBBBEfHWQzA5tN3Z3hguoradM9t25vGvRlTEveQInA5bLNMagulHucgE4ifglY3c5ilY4LRc0+M6JahNAQgkEQ7Z2A2MWtXiAEx0Yh6QYQF2Fe2KdkdhZYIvBMEhzjtZ49JedN7U9/3Ou3ieibmfU8X2nMiQsMKZbw5omVxdfZK9VPZgICWLZ29ogTQxcdqunTAiWyElb/cGrrvHi72hFWd+IU2TtK55RPnBFquBJlERpnqw==;tgnoZlQMl2fyAOHvx5NuGg=="

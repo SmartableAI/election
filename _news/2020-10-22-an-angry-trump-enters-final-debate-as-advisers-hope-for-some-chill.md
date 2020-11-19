@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 215
 published: true
 
 provider:
@@ -47,53 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
-    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
-    publishedDateTime: 2020-10-23T10:42:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
-    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
-    publishedDateTime: 2020-10-18T19:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Hundreds of Trump supporters stuck on freezing cold Omaha airfield after rally, 7 taken to hospitals"
-    excerpt: "Hundreds of President Donald Trump's supporters were left in the freezing cold for hours after a rally at an airfield in Omaha, Nebraska, on Tuesday night, with some walking around 3 miles to waiting buses and others being taken away in ambulances."
-    publishedDateTime: 2020-10-28T21:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/hundreds-trump-supporters-stuck-freezing-cold-omaha-airfield-after-rally-n1245065"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1245065"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245065"
+  - title: "Offered hypothetical do-over, Trump wouldn't change COVID response"
+    excerpt: "There's no shortage of ways Trump could've answered these questions coherently, but that might've led him to express a degree of regret over his failures."
+    publishedDateTime: 2020-10-21T15:39:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/offered-hypothetical-do-over-trump-wouldn-t-change-covid-response-ncna1244149"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244149"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244149"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 120
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_44/3423587/201028-trump-rally-omaha-al-0753_434680b2dcf217da03d11a54f44c659d.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
         width: 2500
-        height: 1668
+        height: 1667
         isCached: true
 
 secured: "uLkQTACXTFa+NxySkXCDTalTtSc9Zf8MTTPMZ04oBDhhxr8ZE1ensEarrYjDhqO+sg+zh4m8tZZwvN0s5Vsitbm5f84RBDcLfd7dra7+D38X56Ciyf1oa+dzfCPff+Gqd2Nk/F3Pkxa8jU+XT02A22H0NjY5ayovGylqr4+g8jbz+gjrH1b3YybfnuBfmYV2S4/nOueZq/PFMiRxobe41kOyZbp/Fn7GOst1i5sr+duZLG7rXSJ2E1z59amIPqxZTeM5SMJMvdbGOmaHghcccREfMExFyONgTPBIRHe8e+YGeZ+9HwXFPVuJ3L8t36zIz6q35sCdzL6A7w7xKivTDp924yNooVIz+2qMEqZ/zZM=;SIGZDe0SI+sYPM6U1Q6CZg=="

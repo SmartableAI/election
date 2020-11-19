@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'"
-    excerpt: "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday."
-    publishedDateTime: 2020-10-21T23:27:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn"
-    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp"
+  - title: "Trump says people 'tired' of Fauci, coronavirus"
+    excerpt: "President Trump on Monday said the American people are “tired” of the novel coronavirus, and “tired” of Dr. Anthony Fauci “and all these idiots.\""
+    publishedDateTime: 2020-10-19T18:11:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9udr85B4NEg/trump-anthony-fauci-criticism-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a0259c0-cd63-451e-9bfc-4b10f89422b0/6f81371c-788e-4c73-85c3-98b4d445127d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump team will monitor final presidential debate ‘mute button’ technician"
-    excerpt: "President Trump’s campaign intends to monitor the technician in charge of the mute button at Thursday night’s final presidential debate."
-    publishedDateTime: 2020-10-22T00:18:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4C_hP5jaks/trump-team-will-monitor-final-presidential-debate-mute-button-technician"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-team-will-monitor-final-presidential-debate-mute-button-technician.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-will-monitor-final-presidential-debate-mute-button-technician.amp"
+  - title: "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally"
+    excerpt: "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday."
+    publishedDateTime: 2020-10-25T19:10:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZs1iDy7lKo/trump-rally-nh-biden-shutdown-candidate-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-nh-biden-shutdown-candidate-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e9e4150-79fb-4230-a4e4-92c3aecd2a62/887ce490-7c93-4c65-abd8-8a80fb2243d0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20299623021498.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Blackburn: Voters leaning toward Trump in hope of return to 'normalcy' amid coronavirus pandemic"
     excerpt: "Voters have faith that President Trump will ensure recovery amid the coronavirus pandemic, as the election sees mail-in balloting numbers reaching historic highs, Sen. Marsha Blackburn, R-Tenn., told “Fox & Friends Weekend."

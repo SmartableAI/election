@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Defiant Pompeo predicts 'smooth transition' to a 2nd Trump administration"
-    excerpt: "A defiant Secretary of State Mike Pompeo on Tuesday predicted a “smooth transition” to a second Trump administration, as members of the administration continued to express doubt that President-elect Joe Biden won the presidential election."
-    publishedDateTime: 2020-11-10T19:42:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myBrIa-VGtA/pompeo-smooth-transition-second-trump-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-smooth-transition-second-trump-administration.amp"
+  - title: "Trump administration moves to limit work permits for immigrants with deportation orders"
+    excerpt: "The Trump administration on Tuesday announced that it was moving to limit work permits for immigrants who have deportation orders, but have been temporarily released -- a move that officials say will encourage them to remove themselves from the country."
+    publishedDateTime: 2020-11-17T22:25:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co8-4WB46DI/trump-administration-work-permits-immigrants-deportation-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c008d21d-d7d5-4ea0-b56d-07090579f222/1f5d28f4-cedf-4547-8612-5a42e025facd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Durbin, Pressley, Leahy, Booker to Trump administration: Suspend federal executions during transition period"
-    excerpt: "A group of congressional Democrats is urging the Trump administration to halt federal executions until the incoming administration of President-elect Joe Biden can \"evaluate and determine\" the future of the death penalty. "
-    publishedDateTime: 2020-11-13T22:47:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5GZ9gwxvliE/durbin-pressley-leahy-booker-to-trump-federal-executions"
-    ampWebUrl: "https://www.foxnews.com/politics/durbin-pressley-leahy-booker-to-trump-federal-executions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-pressley-leahy-booker-to-trump-federal-executions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Death-Row-Chamber-GETTY.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

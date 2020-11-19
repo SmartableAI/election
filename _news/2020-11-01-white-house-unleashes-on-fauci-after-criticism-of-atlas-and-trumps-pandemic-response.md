@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/white-house-fauci-trump-atlas-pandemic-response/index.html"
 type: article
 quality: 168
-heat: -1
-published: false
+heat: 248
+published: true
 
 provider:
   name: CNN
@@ -31,163 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hear Trump speak after voting in person in Florida"
-    excerpt: "President Trump speaks to reporters after voting early in-person in West Palm Beach, Florida, just over a week before Election Day. Trump changed his voter registration to Florida in September, 2019.\n    \n"
-    publishedDateTime: 2020-10-24T15:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AqA7pWzaNyg/trump-votes-in-florida-ndwknd-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/24/trump-votes-in-florida-ndwknd-vpx.cnn"
+  - title: "Trump appointee resigns as a 'matter of conscience' over executive order aimed at civil service"
+    excerpt: "A Trump appointee tasked with advising the administration on federal civil servants' pay has resigned over his objections to a new executive order that appears to provide the President more leeway in the hiring and firing of federal employees deemed disloyal.\n    \n"
+    publishedDateTime: 2020-10-27T23:40:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yLXRc6XYMDI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/27/politics/trump-administration-executive-order-federal-salary-council/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-administration-executive-order-federal-salary-council/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024103940-02-trump-voting-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201026051259-01-donald-trump-new-hampshire-1025-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Obama in Florida: Trump's tough guy schtick is a fraud"
-    excerpt: "Former President Barack Obama on Saturday laced into President Donald Trump, describing his successor as a thin-skinned bully whose true weakness was revealed when he walked off the set of a high profile interview this week after being faced with a few probing questions.\n    \n"
-    publishedDateTime: 2020-10-25T01:53:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aWP-mx-OuAM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/24/politics/barack-obama-florida-donald-trump/index.html"
+  - title: "Washington Post: Birx disputes Trump in calling for 'much more aggressive action' to combat pandemic"
+    excerpt: "Dr. Deborah Birx sounded an alarming note about the state of the coronavirus in an internal White House report, saying the US is entering its \"most deadly phase\" yet, one that requires \"much more aggressive action,\" according to The Washington Post.\n    \n"
+    publishedDateTime: 2020-11-03T14:38:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Otf_bHUN5fc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/03/politics/deborah-birx-trump-covid-19/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201024165556-03-barack-obama-miami-1024-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103083154-file-deborah-birx-0420-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Older women voters want to send a message to Trump in November  "
-    excerpt: "Jane Van Zandt is soaked. Her blue mittens are dripping. Her glasses keep fogging up. Her blue raincoat simply does not seem heavy enough to keep her warm against the bluster of a cold and rainy late October morning in Chester, New Hampshire. Yet, this 78-year-old offers no complaints as she holds her"
-    publishedDateTime: 2020-10-30T23:19:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JMlHNthCDn8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030160430-nh-write-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's unhappy warrior pitch to voters includes insults and highly specific grievances"
-    excerpt: "President Donald Trump is ending his reelection bid in a frenzied cross-country push for votes in states he won -- some handily -- four years ago. But he is not pretending to be happy about it.\n    \n"
-    publishedDateTime: 2020-10-28T15:32:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A_PvDI_mF7M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/trump-election-2020-insults/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028010254-02-donald-trump-lansing-michigan-1027-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022"
-    excerpt: "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n"
-    publishedDateTime: 2020-10-17T23:42:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump has cast doubt on a peaceful transfer of power, but the preparation for one is well underway"
-    excerpt: "President Donald Trump has cast doubt on whether he will commit to a peaceful transfer of power should Democrat Joe Biden win the election, but the secretive process to prepare a would-be Biden administration has been underway for months with help from top Trump officials.\n    \n"
-    publishedDateTime: 2020-10-31T20:07:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SDfDUYsH6S4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/presidential-transition-planning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "These white women voted for Trump in 2016. They’re having second thoughts."
-    excerpt: "The trend as we’ve gotten closer to the election has been just how many people aren’t voting for Trump again.”"
-    publishedDateTime: 2020-10-28T22:32:00Z
-    webUrl: "https://www.politico.com/news/2020/10/28/white-women-trump-second-thoughts-433118"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/28/white-women-trump-second-thoughts-433118"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/ab/d1/643fba9447c8b66a865b46a2c673/gettyimages-1222154946-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Flashbacks to Florida in 2000 as Trump Heads to Court to Save His Presidency"
-    excerpt: "While the White House seeks a “James Baker-like” figure to lead its postelection legal battle, the real James Baker says President Trump should not try to stop votes from being counted."
-    publishedDateTime: 2020-11-06T00:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/politics/trump-james-baker.amp.html"
+  - title: "The Trump campaign has set up two ‘war rooms’ in the White House complex"
+    excerpt: "President Trump’s campaign has set up two election night “war rooms” in the White House complex, raising questions anew about the intermingling of the governmental and the political in the Trump administration."
+    publishedDateTime: 2020-11-03T22:05:00Z
+    webUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/us/politics/trump-white-house-campaign.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 132
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2020/11/05/us/politics/05dc-memo-1/merlin_179623941_cf890284-7530-47fe-81c5-0ccc173c4eef-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/03/us/03election-day-live-blog-trump-war-rooms/merlin_179500989_407a05bc-4770-455e-9b3a-43a7dc7f816b-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "James Baker, a veteran of the 2000 Florida recount, says Trump should not try to stop vote counting."
-    excerpt: "Mr. Baker, the former secretary of state who led the legal and political team during the Florida recount battle in 2000 that secured the presidency for George W. Bush, said in an interview on Thursday that President Trump may have legitimate issues to pursue but they should not be used to justify a halt to the initial tabulation of ballots."
-    publishedDateTime: 2020-11-05T22:14:00Z
-    webUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/us/elections/james-baker-a-veteran-of-the-2000-florida-recount-says-trump-should-not-try-to-stop-vote-counting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 120
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/05/multimedia/05elections-briefing-Baker/05elections-briefing-Baker-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Bloomberg knocks Trump back on his heels in Florida"
-    excerpt: "The former New York City mayor’s spending is forcing the president to dig deep in the key swing state and enabling the Biden campaign to spend ad dollars elsewhere."
-    publishedDateTime: 2020-10-20T23:12:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/20/bloomberg-knocks-trump-back-on-his-heels-in-florida-1328177"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Supporters Chant ‘Fire Fauci’ at Florida Trump Rally"
     excerpt: "At a late-night rally in Florida, President Trump suggested that he might fire Dr. Anthony S. Fauci, but that he would wait until “after the election.”"
@@ -202,20 +92,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/01/world/01elections-briefing-trump-new/01elections-briefing-trump-new-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
-        isCached: true
-  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
-    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
-    publishedDateTime: 2020-10-21T22:01:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
-    images:
-      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
-        width: 3000
-        height: 1999
         isCached: true
 
 secured: "CviLYcxTaktpNKlz0tRaW9LiFkVLDHw11EoMTB2fh969UUmnmby09kGqhoJgROL18pycS19hlxqvBiEcRB3/bFm6Q+I55Sv7Q0oFirJtDn8/P9YwJdpPDwBo87C3a9jCgz0n1+d+kS/v22pdZxGDTcKNz9BXi/eHMUz167Cwsb0ojG69VVZ0v6uU0rx+ZmqSXMZNlSHXJcUNeFaGoLfNiEeVnOBDTZUD57oXc+oGweQlcPxgK8ARzQprj9cL3ZIixHZxtOuK63fgz7Ia6zUGcn1DiqTbv7XEhvkY3pHTxgd8A/t0gQ0MqpN57Sf98/wTm3fW4l/FlcU/+ImspfdZVqvXZz/pkL6GJdIr/Exc4uM=;a7Mw2g+4PR5qW9rGk6ezFA=="

@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, Stahl spar over 'best economy ever' claim, with '60 Minutes' host saying 'that's not true'"
-    excerpt: "President Trump and CBS News' \"60 Minutes\" correspondent Lesley Stahl spar over the president's claims that the U.S. economy was \"the greatest economy in the history of our country\" before the outbreak of the coronavirus pandemic, in a short clip released by the weekly news magazine show ahead of its"
-    publishedDateTime: 2020-10-22T12:50:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jWUQye9Rl94/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "6DWFyGJDC6EAQh0Usb1jSs67XOyAEaYpjJNdHRUGPGjqa1FMS/0eciR66MBEu8KlA0ZtO5NyE5UzobHeIRT4+nMRmU7ac0MrVFpx1ZoHxQzkRNINIeTSENkrg7TA0TkI6n8OsgUwFVBLMzYNA282lC0dy41g+kogrLgeY553JXop00qzl1OJo+F4pRbzCIu71DkhIIqUirBT6IRzmOXbtRg4q7ssYtouKrtuBYVlzescB8ktXy9cme3r1xFO5AgKtY8BtbBlihTw9Q/cE+XsNSC4LDpXqUANXViNsZf5qL3M6hLFV6JnNqp+LNnFNUZJXj0piWxToDogbwPO2qQK/BhKVQLJ+g913Aaon/2EkB51BIuVVw63+n6oZ+pdLwtTRh13vQcZ3x8ADuHOxi/1iH2h+MaLkLjsiPTHc3/4+RCR45sqAUXfczqpAfO60ztKc2EwWULdg/sIVP3bN6mj4gM6W57cHAIJlrqIFoDh5heowvJ8D76igmhKltcBZKjREt2rtrDg30ExnkaS+U7lTw==;qctkNsf5V44EzcQtgOuyBg=="
 ---

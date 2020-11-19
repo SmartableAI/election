@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/justice-democrats-ro-khanna-califor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp"
 type: article
 quality: 182
-heat: -1
-published: false
+heat: 262
+published: true
 
 provider:
   name: Fox News
@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
-    excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate."
-    publishedDateTime: 2020-11-11T16:35:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIrVltIkObA/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are"
-    ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "California governor quiet on Kamala Harris replacement: 'No timeline has been established'"
-    excerpt: "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders."
-    publishedDateTime: 2020-11-11T14:51:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established"
-    ampWebUrl: "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg"
-        width: 1024
-        height: 712
-        isCached: true
   - title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
     excerpt: "In a very friendly moment, Sen. Lindsey Graham, R-S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
     publishedDateTime: 2020-11-17T22:43:19Z
@@ -96,38 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate"
-    excerpt: "California Gov. Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued on Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the senate seat vacated by Kamala Harris."
-    publishedDateTime: 2020-11-18T15:56:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSmW3emT3Zc/candace-owens-gavin-newsom-blm-senate-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The race is on to succeed Kamala Harris in the Senate: Who the favorites are"
-    excerpt: "The race is on to succeed Vice President-elect Kamala Harris in the Senate. Fox News has been told for months that  Secretary of State Alex Padilla is the odds-on favorite to step into Harris’ seat. But Fox News is also told to watch  Attorney General Xavier Becerra,"
-    publishedDateTime: 2020-11-12T03:10:00Z
-    webUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are"
-    ampWebUrl: "https://www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-race-is-on-to-succeed-kamala-harris-in-the-senate-who-the-favorites-are.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/09/640/320/Newsom092019.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Senate Republicans appear to congratulate Kamala Harris despite election dispute"
     excerpt: "Several Republican senators congratulated Vice President-elect Kamala Harris on her electoral victory, even as many of them publicly rally behind President Trump's efforts to fight the election results."
     publishedDateTime: 2020-11-18T14:16:00Z
@@ -158,47 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate"
-    excerpt: "Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the Senate seat that will be vacated by Kamala Harris. “He will absolutely ..."
-    publishedDateTime: 2020-11-19T01:34:00Z
-    webUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ron Klain: Kamala Harris Will Be \"The Last Voice Biden Hears From Before He Makes Important Decisions\""
-    excerpt: "Democratic operative Ron Klain joined MSNBC host Lawrence O'Donnell on Thursday for his first interview as Joe Biden's Chief of Staff to discuss progress in the presidential transition process, the relationship between the president-elect and vice president-elect Kamala Harris,"
-    publishedDateTime: 2020-11-13T06:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/13/ron_klain_kamala_harris_will_be_the_last_voice_biden_hears_from_before_he_makes_important_decisions.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 64
-    images:
-      - url: "https://assets.realclear.com/images/52/526989.jpg"
-        width: 1126
-        height: 844
-        isCached: true
-  - title: "‘No timeline has been established’: California Gov. Newsom mum on Kamala Harris replacement"
-    excerpt: "The race to replace apparent Vice President-elect Kamala Harris’s open Senate seat is underway. Pressure is mounting on California Gov. Gavin Newsom to choose Harris’s replacement in the Senate should apparent President-elect Joe Biden’s victory be confirmed."
-    publishedDateTime: 2020-11-11T04:56:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/no-timeline-has-been-established-california-gov-newsom-mum-on-kamala-harris-replacement?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
 
 secured: "mrW6lxSGclJvCl2HQdp4vkMqm7undxVzyZ50y34ECrvLTpYOkRmG3xCKN/VsEdPxkBIgBAHOmpHEhDB6k/eMbQwH0POdGeYW1IrnXIGVlHJh+QaFA76unNbp30Hi+bO3NKMGrjC6VyhoCq0qEtdeGK+UJ6RysKInIDJ0bTLPwvWaYZzoRYsKuVewaKv7KOo0HmRXVJWMsWbzXRZ3nDTnLT1G2T3j6c5OYp5F1JYAnQCst1Ilh1kLcZiI3MSv8TiTCC+OP5HNHCZQtmKeIJWk9GbE6CD9HSCKMKm5eFNE5clPjVcQuSwvxG5KV7RWOJ0J3QfJUX+nQBFL3rV3XE0ttQDbuY92M1KDQ00f6lQ884E=;bF9gsoWo+Ez8gJDwj2JURA=="
 ---

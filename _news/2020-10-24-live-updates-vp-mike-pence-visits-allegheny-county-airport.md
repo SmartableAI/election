@@ -51,19 +51,19 @@ related:
         width: 863
         height: 487
         isCached: true
-  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
-    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
-    publishedDateTime: 2020-10-22T21:15:00Z
-    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+  - title: "VP Mike Pence visits North Carolina Friday for campaign event"
+    excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
+    publishedDateTime: 2020-10-18T22:48:00Z
+    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-set-visit-north-carolina-friday-campaign-event/KPCAU2WYX5F3BDFJGBHBWM3U54/"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 70
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
     images:
-      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
-        width: 625
-        height: 469
+      - url: "https://www.wsoctv.com/resizer/zV_4BOflb47XWP1H_6EqrAt_fCg=/1200x628/d1hfln2sfez66z.cloudfront.net/10-17-2020/t_40c20304e2c34bc0901d5473eb4c8f09_name_HD1__VP_Pence_in_NC__transfer.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "16jzwRHCgC4ln+tIAus+Tx8oGMR/NNhygRXl6NPpA6Ubqr9EAqAPtA9B5AIF6iHCbWeFaLOaWqbqMMrkfqgjQilLZsGaFOAuLRqHtzCorDRmrQU7CQKWOP/wCEDHi8T/Rfg/8oYe+OqcTrAE+bzYMb++UfTgKef2yzkU5WkegM+YGyq7RboFqR1TphQwnp5wL5K6Z1kZu42JVdhXBcsdHElW1AIWJTtNApP4nJ9Fi7AB6bv5xKB3dFHVkQVry5onIdcU1hCrbIERKsJ/NLm8PixT1JPDGLFb0XxHruLohOjD0GEZhj9yNrg9i9evsR62P/qSeXwJoZcG6Yp5F6nWgqlWpX2Vu5J648BFGxwvU0ryab+OewFX1ldJ4MWj7DNWtoIj/6lBKG/v++NmJiamuDYdZ1SiQg4zUk/ik8hmXz+7johfLN5+6iJKfMUpoeOs2l8pFHklrTyTD8X7gTyzDUW9HegNesXm4JA4MW35icSoSLt7rx0rd8TqY05F8IEsatTLIxVR/s/tAfkq2A3WKg==;ti0BT0vWzxYZ/5UnDb9OQA=="

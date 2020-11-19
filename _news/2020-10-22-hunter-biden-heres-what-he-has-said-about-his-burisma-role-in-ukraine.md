@@ -47,21 +47,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden denies ever meeting Ukrainian official at behest of son Hunter and slams Rudy Giuliani's 'conspiracy theories'"
-    excerpt: "Joe Biden's campaign denied a report that the former vice president met with a Ukrainian businessman who worked with his son, Hunter Biden. “Investigations by the press, during impeachment ..."
-    publishedDateTime: 2020-10-14T18:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-denies-ever-meeting-ukrainian-official-at-behest-of-son-hunter-slams-rudy-giulianis-conspiracy-theories?_amp=true"
+  - title: "The FBI Learned Quite a Bit Now That Hunter Biden's Alleged Laptop Is In Their Possession"
+    excerpt: "Ever since the New York Post broke their initial story about Hunter Biden's alleged laptop containing emails that detailed his corrupt international business dealings – including in Ukraine and China – one of the Democrat's and the media's main talking points has been that this is part of a Russia disinformation campaign."
+    publishedDateTime: 2020-10-21T01:55:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477?amp=true"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 60
+      name: Townhall
+      domain: townhall.com
+    quality: 76
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/3aed740/2147483647/strip/true/crop/2276x1326+0+0/resize/2276x1326!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F43%2F1f%2F2c6e67be4379a74b505b167e9db0%2Fap19277700435833.jpg"
-        width: 2276
-        height: 1326
+      - url: "https://media.townhall.com/townhall/reu/ha/2019/277/24e3deaa-5f96-48e9-9eb5-7dc1caf22d4b.png"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "Bz2Ux1vJSOwHPpQBlVU7UA5zUsM/7HsbPi4MICKIpR19/ZEUh+LoJlErd0I7las4fKugDt14Uq3M8AzcC2iPUkHtcJO2AjUvAGCP9iIf0NH28ANrPLIO6kQXsf24jEZYlEwiHgxXL2sKae2pTZ2evEG2mD+dNrLISR5OkkDvWUS7B3TqI7NaGrFZB2l+oIRo2/Nln3V8nb7GBKdDVSYaKxA4/ZJl95578cNry+/5mrccnJkvJFVedlWWdRX386tVSOHvjaAfna6okkHDGlPgH8dFdLzjTMOSxiZ0u+/0+EJqsNnowwy8bPkn62/DfXI9g0kNYWg3zs6eaSJCDdM9ExqWwHX+Hz1OzNyqNl0NAl8=;QfwRwENrjhC4Y/pOq7Sqkw=="

@@ -27,118 +27,127 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Joe Biden holds drive-in rally in Tampa, Florida"
-    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
-    publishedDateTime: 2020-10-29T17:50:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+  - title: "Is America ready to return to the Obama-Biden foreign policy?"
+    excerpt: "The Obama/Biden reset policy with Russia backfired as Russia annexed Crimea from Ukraine in 2014 and entered the Syria civil war in 2015,"
+    publishedDateTime: 2020-10-23T19:30:00Z
+    webUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
-        width: 1024
-        height: 717
+      - url: "https://thehill.com/sites/default/files/obamabarack_110916getty.jpg"
+        width: 646
+        height: 363
         isCached: true
-  - title: "WATCH LIVE: Joe Biden holds drive-in rally in Tampa, Florida"
-    excerpt: "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail."
-    publishedDateTime: 2020-10-29T17:50:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida"
+  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
+    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
+    publishedDateTime: 2020-10-26T14:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg"
-        width: 1024
-        height: 717
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Early reaction from Florida: Biden lost ground with crucial Cuban voters"
-    excerpt: "Dade, Florida's most populous county, show Democrat Biden underperforming when compared to Hillary Clinton's election totals in 2016. Political analysts on the ground saw signs of a new phenomenon: Some Hispanic voters,"
-    publishedDateTime: 2020-11-04T06:10:00Z
-    webUrl: "https://abcnews.go.com/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
-    ampWebUrl: "https://abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/early-reaction-florida-biden-lost-ground-crucial-cuban/story?id=74007467"
+  - title: "Police: Florida man stole bulldozer, ran down Biden signs"
+    excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
+    publishedDateTime: 2020-10-26T13:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/2020-election-14-miami-dade-florida-rtr-jc-201103_1604449607408_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Lady Gaga Reflects on Taylor Kinney Engagement at Joe Biden Rally"
-    excerpt: "Lady Gaga has a \"new Pennsylvania guy,\" but that doesn't mean she's forgotten about the old one. The \"Shallow\" singer reflected on her relationship with ex-fiance Taylor Kinney while performing at Joe Biden 's final drive-in campaign rally in Pittsburgh,"
-    publishedDateTime: 2020-11-04T01:07:00Z
-    webUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810"
-    ampWebUrl: "https://www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/lady-gaga-reflects-on-taylor-kinney-engagement-at-joe-biden-rally-155810?amp"
+  - title: "America is changing. Joe Biden can help us through the transformation."
+    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
+    publishedDateTime: 2020-10-29T19:57:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
     type: article
     provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/gettyimages-1229426493.jpg?itok=7LDzhd6p"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Video altered to make it look like Joe Biden greeted wrong state at rally"
-    excerpt: "A video with over a million views appears to show him saying 'Hello, Minnesota' to a Florida crowd. Turns out he was indeed in Minnesota, as his coat would suggest."
-    publishedDateTime: 2020-11-02T06:25:00Z
-    webUrl: "https://www.fox43.com/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/video-altered-to-make-it-look-like-biden-greeted-wrong-state/507-8a017743-9357-4c39-acfe-323d3a19a612"
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
     type: article
     provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://media.tegna-media.com/assets/CCT/images/b6d0ea69-d980-4ee8-81fb-00b955f22b88/b6d0ea69-d980-4ee8-81fb-00b955f22b88_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
-    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
-    publishedDateTime: 2020-10-23T19:27:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
+  - title: "The Top 5 Richest Backers Of Joe Biden"
+    excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
+    publishedDateTime: 2020-10-30T23:59:00Z
+    webUrl: "https://www.forbes.com/sites/denizcam/2020/10/31/the-top-5-richest-backers-of-joe-biden/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
-    excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
-    publishedDateTime: 2020-10-29T15:07:00Z
-    webUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/"
-    ampWebUrl: "https://www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-scarborough-says-biden-struggling-with-florida-hispanics-especially-latino-men/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 68
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/MJJ-1200x675.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c6c2fd8fc934e427cc4d3%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
+  - title: "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end"
+    excerpt: "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads."
+    publishedDateTime: 2020-10-19T13:24:00Z
+    webUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg"
+        width: 1419
+        height: 709
+        isCached: true
+  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
+    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
+    publishedDateTime: 2020-10-22T08:50:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
 
 secured: "pyai8PkWVGGLntx4XsFdMHISD2SGFIxIgp4wx8cX8UUmTa/eUv1fHOHbCYQxYDOERRr73GWHUB0J9U4peadGAYrwVT8kI6riNE4QA2H4lvj/52aRdaGBtsZFaHW5r0O9cBe3wcSxYrCYaMlUZoTlUYCEqsI0F615gXez5E4seEE845mJ0PDGSiQ9UGURBvY3Lcx2xeCQLizf/OMFrIfj3Vo2lrI620gAHTFar7tHUQUQdqw+PT0qvliOVRKh8k7HOHDKIt1yxXcPBv0EHHpsgslb5PfQUi+Ptxva76Eq1RUmSek7bO2w4Si8E/n67lKqJDYn+Lv6oHagrttOiKZ9UgsUlLreIQYVtHwZR6olqGvaoRtxkpan8VrAnpJH0Zu+hzU6bpc2YlBEy0ftgxm759D+FLhRfHuD/rU49HzXQKtfyXkLzbtHmqf2IC53otXrBMCx+lP0RQPhA5hLIp2S+rtXQIWpJw3/qmZFZJWWE3ilDn5Hy8T3T8EpkH1O/I8jksmQSl9WUMN+85sdi+G7Bw==;gXJGDCuaM/81NjC/0aLnCw=="
 ---

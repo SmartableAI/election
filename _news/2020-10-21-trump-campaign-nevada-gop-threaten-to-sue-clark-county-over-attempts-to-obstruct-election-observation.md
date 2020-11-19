@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp"
 type: article
 quality: 173
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat"
-    excerpt: "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  "
-    publishedDateTime: 2020-10-15T01:54:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "fQC2lIGnDQbuW3/Qh9B+AE6nTMUY8ScvjTFaDnZToqCQHps8pC92WJ8eJrmQw/YObl+ejlkrSBrT3JWoZJXyPlw5zwrq5yjGasqA3M+KX0hYWVLXgCl6De+b18GXilVe5fS/SKEJ8lkHrvMJtH03bK+Nrr/FoBJnkWfwHxi5NpxrIol3AXgs8E4ALBk4Vpe9kjzjcl6QNHdJK7bmJwE3JnSYcXjnMieBovqShHPKxrri/Bb18fsPdtZgufU42kg2xJcv0dOYae5Q/ZcG8F8HNZ1Ldm4NBh7/1cwXfVRwnlN0TCNuhc1ek6GblvbHwYAA7r1RqpsKhGhsxbT+8HBStL9AboCwxHE30ONZj2C3oNA=;LxjT5MC7gdWjIC1fo1g5iA=="
 ---

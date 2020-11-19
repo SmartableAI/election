@@ -31,12 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
-    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
-    publishedDateTime: 2020-10-26T14:00:00Z
-    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
-    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
+  - title: "Biden, Cunningham hold narrow leads in North Carolina: poll"
+    excerpt: "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday."
+    publishedDateTime: 2020-10-29T19:54:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Watch live: Biden holds campaign rally in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-29T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida"
+    ampWebUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
     type: article
     provider:
       name: The Hill
@@ -46,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Police: Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
-    publishedDateTime: 2020-10-26T13:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Joe Biden’s long political career features several policy shifts"
     excerpt: "On issues including criminal justice reform, foreign wars and the economy, Biden’s views have evolved over time. Joe Biden's views on various issues have evolved over his 50-year political ..."
@@ -79,6 +79,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-23T11:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
+    excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
+    publishedDateTime: 2020-10-30T06:41:00Z
+    webUrl: "https://www.houstonchronicle.com/news/local/article/Spurs-Coach-Gregg-Popovich-endorses-Joe-Biden-for-15686947.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
+        width: 1722
+        height: 979
+        isCached: true
   - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
     excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
     publishedDateTime: 2020-10-31T15:39:00Z
@@ -93,66 +123,95 @@ related:
         width: 810
         height: 467
         isCached: true
-  - title: "The Top 5 Richest Backers Of Joe Biden"
-    excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
-    publishedDateTime: 2020-10-30T23:59:00Z
-    webUrl: "https://www.forbes.com/sites/denizcam/2020/10/31/the-top-5-richest-backers-of-joe-biden/"
+  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
+    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
+    publishedDateTime: 2020-11-02T11:16:00Z
+    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: NPR
+      domain: npr.org
     quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c6c2fd8fc934e427cc4d3%2F0x0.jpg"
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid"
+    excerpt: "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg."
+    publishedDateTime: 2020-11-03T22:57:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    type: article
+    provider:
+      name: WXII12
+      domain: wxii12.com
+    quality: 76
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-buttigieg-0124-1604439289.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "'Joe Biden is a pathological liar'"
-    excerpt: "This coming Tuesday, as you head off to the polls to cast your vote, remember this: Joe Biden is a pathological liar. Donald Trump may be rude and crude. He may be abrasive and off-putting."
-    publishedDateTime: 2020-10-31T15:24:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
+    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
+    publishedDateTime: 2020-10-30T06:18:00Z
+    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
+    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
+      name: WTVD
+      domain: abc11.com
+    quality: 69
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/30/election_2020_biden_10535_c0-462-5540-3693_s1200x700.jpg?e91805f964fdadf5aa64424b61ee83dd151a855b"
+      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-25T12:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3740228001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
-    excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-11-02T05:29:00Z
-    webUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572"
-    ampWebUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-26T03:17:00Z
+    webUrl: "https://www.freep.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.freep.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3740228001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/08/tedros-can-call-also-on-some-top-level.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
-    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
-    publishedDateTime: 2020-10-29T03:27:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T08:18:00Z
+    webUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 52
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 55
 
 secured: "f18SDjZcEcao6PW9sm2A4MCoufCdVWQshv7BHz2oeR2ZIqKO0v/C8brZH2Oqf7gSqUGJ0XPC4wn0clWgyg3f8R1yiUwCoKQ1nd1mjWfgOQGJUjlZWd0q/8R/0xt9Ccz3OqaFDoTlu8CclZxu0qQ+5mvZWqftrGAZE8AHvcu/J2yPuenDbJKnB+vJojEJBBUgHGv+deb3/7sdUzKWWenrp8anw5NqJgjRPEzZrRNQBNA+13VouatP6nv8KxMcJO++RzGAFJiIdZOXdsmm1W4ftmPv9gZRJQlcrRRghmOggr0DynsV+YSjudJRejKU02bcPFQJUQEnfREt+JzPVwpaJqOCKR9AAznsOGeSI6nG8pIoGftKkpsRoEcGRML1U9COldfjovjkGOMyHnkS9+zbCsqATbq3xjKby86sDTqTLGMOrw/UHFkppALiOLwORolW1qqLCHhHAwvfQAZVMteBNzZVVyAUxW1CNIf3zdEAck17y1StnCpmKI/dpixy+oEI7Bwkw2YfS5Rs8XdPqM6qww==;skPDV63O5sSLewtlz4SSCg=="
 ---

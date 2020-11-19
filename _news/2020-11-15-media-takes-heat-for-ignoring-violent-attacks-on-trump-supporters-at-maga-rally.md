@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Pro-Trump supporters descend on DC for 'Million MAGA March' near White House"
-    excerpt: "Supporters of President Trump gathered Saturday in Washington, D.C. -- echoing claims of voter fraud and urging him not to concede to President-elect Joe Biden -- and were rewarded by an appearance by Trump himself."
-    publishedDateTime: 2020-11-14T16:22:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GfiyOhLQZb8/pro-trump-supporters-planning-million-maga-march-near-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-supporters-planning-million-maga-march-near-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-Rally-DC-AP-6.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
     excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
     publishedDateTime: 2020-11-16T19:35:29Z

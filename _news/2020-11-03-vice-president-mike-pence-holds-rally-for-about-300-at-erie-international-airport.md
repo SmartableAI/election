@@ -97,6 +97,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in Des Moines, IA"
+    excerpt: "Vice President Mike Pence is in Des Moines today, holidng a \"Make-America-Great-Again\" Rally for President Trump's reelection campaign. KTIV App Users: To watch the rally on KTIV.com, click here. The rally takes place at the Des Moines International Airport and is just two days after President Donald Trump's campaign event in Omaha,"
+    publishedDateTime: 2020-10-29T19:36:00Z
+    webUrl: "https://ktiv.com/2020/10/29/watch-live-vice-president-mike-pence-holds-campaign-event-in-des-moines-ia/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 52
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/10/Pence-in-Carter-Lake-IA.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Mike Pence pledges manufacturing jobs and minority support during campaign rally in Flint"
     excerpt: "“This election is a choice between a Trump recovery and a Biden depression,\" Vice President Mike Pence said. Vice President Mike Pence was in Flint Wednesday night for a ‘Make America Great Again Victory Rally’ at Flint’s Bishop International Airpor"
     publishedDateTime: 2020-10-29T05:46:00Z

@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, Biden banking on job recovery plans to win election bid"
-    excerpt: "As the United States hits the home stretch toward Election Day, the biggest hot-button issue among voters is jobs and the economy. Both President Trump and former Vice President Joe Biden have put their recovery plans at the forefront of their respective campaigns. Both candidates say that they know"
-    publishedDateTime: 2020-10-23T21:40:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_XN5DeSKhI/trump-biden-bank-on-job-recovery-plan-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden calls himself Harris' running mate during campaign event in Atlanta"
     excerpt: "Democratic presidential nominee Joe Biden jokingly introduced himself as Sen. Kamala Harris' running mate during the beginning of his stump speech in Atlanta on Tuesday."
     publishedDateTime: 2020-10-28T13:47:41Z
@@ -188,22 +172,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden tells Pennsylvania rally COVID-19 deaths, cases would be lower if Trump had consistently worn a mask"
-    excerpt: "Former Vice President Joe Biden criticized President Trump's mask-wearing habits on Sunday, telling a Pennsylvania rally that the impact of the COVID-19 pandemic wouldn't have been as great if Trump had been better about wearing one."
-    publishedDateTime: 2020-11-02T00:58:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QGCbg6vsXhw/biden-covid-deaths-trump-mask"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-deaths-trump-mask.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-deaths-trump-mask.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/770a34bb-ca60-44e4-9bc0-be2c339d4343/f84ea96a-50e1-4131-9578-95531fcec7e6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Fox News Poll: Majority trusts Biden on COVID, half say virus is out of control"
     excerpt: "Less than a week before Election Day, the electorate’s outlook is gloomy. More than 6-in-10 rate economic conditions negatively and only about 2-in-10 think coronavirus is under control in the U.S., according to the latest Fox News national survey of likely voters. "
     publishedDateTime: 2020-11-01T14:00:23Z
@@ -235,38 +203,6 @@ related:
       - url: "https://images.wsj.net/im-251272/social"
         width: 1279
         height: 640
-        isCached: true
-  - title: "Is Kamala Harris’s Fashion Her Secret Weapon?"
-    excerpt: "The vice presidential candidate favors a sophisticated uniform honed during years as an attorney—with some pointedly casual touches including Converse Chuck Taylor sneakers."
-    publishedDateTime: 2020-10-31T17:00:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-style-mixes-courtroom-and-converse-11604145618"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-252362/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Billy Joel congratulates Joe Biden, Kamala Harris after previously saying 'I try to stay out of politics'"
-    excerpt: "Billy Joel offered his congratulations to President-elect Joe Biden and Vice President-elect Kamala Harris after their victory was announced on Saturday. The musician, 71, also mentioned the future first lady,"
-    publishedDateTime: 2020-11-09T17:56:00Z
-    webUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win"
-    ampWebUrl: "https://www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/billy-joel-hope-healing-biden-harris-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/billy-joel.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Kamala Harris bursts out laughing when asked if she has socialist perspective"
     excerpt: "Calif., burst out laughing when asked during an interview Sunday if she would advocate for a “socialist or progressive perspective” if elected."
@@ -315,22 +251,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Sharon-Stone.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
-    excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
-    publishedDateTime: 2020-10-21T20:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 91
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/31cc251/2147483647/strip/true/crop/398x593+0+0/resize/398x593!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbb%2Fe3%2F0d25c54448cb8d616a290b8e33bc%2Freed-1.png"
-        width: 398
-        height: 593
         isCached: true
   - title: "Questions Joe Biden Should Answer About Hunter's Emails"
     excerpt: "First, Joe Biden's Praetorian Guard in the media argued that the New York Post's Hunter Biden scoop was \"Russian disinformation.\" The DOJ, FBI and DNI each publicly disagreed. No one in the Biden camp has denied the veracity of a single email thus far."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-tru
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 430
+published: true
 
 provider:
   name: Business Insider
@@ -31,284 +31,238 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump threatens to fire Anthony Fauci after US election"
-    excerpt: "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally"
-    publishedDateTime: 2020-11-02T06:48:00Z
-    webUrl: "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
-    ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
+    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
+    publishedDateTime: 2020-11-08T04:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\""
-    excerpt: "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd."
-    publishedDateTime: 2020-11-02T16:34:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 127
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'I appreciate the advice': Trump tells crowd chanting, 'Fire Fauci!' to wait until after election"
-    excerpt: "President Trump hinted he might fire Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, during a rally in Florida."
-    publishedDateTime: 2020-11-04T10:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Republicans can grow the party's base after Donald Trump is gone"
-    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
-    publishedDateTime: 2020-10-28T22:05:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
+        width: 830
+        height: 545
         isCached: true
-  - title: "Can Trump 'Fire Fauci'? Not easily, but he could make it messy"
-    excerpt: "Can President Trump fire Dr. Anthony Fauci as he suggested he might do after the election? Not easily, but he could make it messy."
-    publishedDateTime: 2020-11-02T22:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-fire-fauci-easily-make-messy/story?id=73971488"
+  - title: "Trump bans U.S. investments in firms linked to Chinese military"
+    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
+    publishedDateTime: 2020-11-13T12:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/fauci-trump-gty-ps-201102_1604346776288_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+        width: 817
+        height: 545
         isCached: true
-  - title: "'I appreciate the advice': After crowd chants 'Fire Fauci!' Trump says to wait until after the election"
-    excerpt: "\"Let me wait 'til a little bit after the election, please,\" Trump told the crowd, which had started a resounding chant of \"fire Fauci!\""
-    publishedDateTime: 2020-11-02T13:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/02/trump-fire-fauci-after-election/6120265002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6120265002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6120265002"
+  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
+    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
+    publishedDateTime: 2020-11-15T07:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/14/USAT/141e651b-459d-436d-a7d2-7378647509ea-fauci.jpg?auto=webp&crop=4573,2572,x0,y232&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Trump’s New Executive Order May Make It Easier To Fire Scientists Like Fauci"
-    excerpt: "Trump recently signed an Executive Order creating a Schedule F class of government employee that could have lasting implications even if former Vice-President Joe Biden were to win the upcoming election."
-    publishedDateTime: 2020-10-26T08:44:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/24/trump-new-executive-order-may-make-it-easier-to-fire-scientists-like-fauci/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9487bb2b122fa1efaa12d2%2F0x0.jpg"
-        width: 1200
-        height: 891
-        isCached: true
-  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
-    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
-    publishedDateTime: 2020-10-28T21:16:00Z
-    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
-    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
-    publishedDateTime: 2020-10-20T00:34:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
+    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
+    publishedDateTime: 2020-11-07T04:08:00Z
+    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 121
     images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Here's a timeline of President Donald Trump's and Dr. Anthony Fauci's relationship"
-    excerpt: "Over the course of the coronavirus’ spread, President Trump’s relationship with Dr. Anthony Fauci has seemingly vacillated from support to disdain."
-    publishedDateTime: 2020-10-28T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/28/president-donald-trump-anthony-fauci-timeline-relationship-coronavirus-pandemic/3718797001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3718797001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718797001"
+  - title: "Trump to break silence with vaccine update after criticism he's ignored pandemic"
+    excerpt: "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic."
+    publishedDateTime: 2020-11-13T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
+    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
+    publishedDateTime: 2020-11-05T08:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
+        width: 975
+        height: 487
+        isCached: true
+  - title: "Trump demolished the walls between politics and sports. He might not like the result."
+    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
+    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
+    publishedDateTime: 2020-11-09T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
+    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/5f2d0ac9-24b5-43ca-bb6c-a6da956b363b-AFP_AFP_1VA3UJ.jpg?auto=webp&crop=4011,2257,x0,y355&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
-    publishedDateTime: 2020-10-19T16:25:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
+    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
+    publishedDateTime: 2020-11-13T15:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
+    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
+    publishedDateTime: 2020-11-03T14:30:00Z
+    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022."
-    excerpt: "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\""
-    publishedDateTime: 2020-10-28T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
     quality: 110
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The US's top cybersecurity agency just threw cold water on Trump's claim that election results in battleground states are fraudulent"
-    excerpt: "CISA quickly debunked Trump's latest claims that the election results in key battleground states are rigged against him as Biden takes the lead."
-    publishedDateTime: 2020-11-04T18:32:00Z
-    webUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Dr. Fauci's COVID comment angers Pres. Trump"
-    excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-02T12:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201102124016-dr-faucis-covid-comment-angers-pres-trump/"
+  - title: "Outgoing Trump administration bans investments in Chinese companies it says support China’s military"
+    excerpt: "The White House continued to push an economic decoupling with China by banning certain U.S. investments in companies linked to Chinese military"
+    publishedDateTime: 2020-11-13T04:56:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07506271_1604321044.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWJA7BU6OII6VPQGV5KRJ3QDQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump threatens to fire Fauci in rift with disease expert"
-    excerpt: "President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens while the nation sees its most alarming outbreak of the coronavirus since the spring."
-    publishedDateTime: 2020-11-02T12:56:00Z
-    webUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-threatens-to-fire-fauci-in-rift-with-disease-expert-2020-11?amp"
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
+    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
+    publishedDateTime: 2020-11-12T20:08:00Z
+    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
-    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 96
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
-  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
-    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
-    publishedDateTime: 2020-10-28T21:44:00Z
-    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
-    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
     quality: 90
     images:
-      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Harrison Ford Urges Voters To ‘Fire’ Trump Instead of Dr. Fauci in Lincoln Project Ad"
-    excerpt: "In a new ad for the Lincoln Project, Harrison Ford urges voters to \"fire\" President Donald Trump instead of allowing him to fire Dr. Anthony Fauci."
-    publishedDateTime: 2020-11-03T18:16:00Z
-    webUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/"
-    ampWebUrl: "https://www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/harrison-ford-dr-fauci-lincoln-project-ad-fire-trump/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 68
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/11/Harrison-Ford-Fauci-Trump-1200x800.jpg"
+      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
 
 secured: "3MQEfr5n/JagoooJTMZRAYayxZH7mDUctfi0nTKdohRd10p3D9Re1PHE9uLA29DRiGkfDhnM2bWpDQfvbYdcTi9gmoTJvJn7xDSB3/SMTHxWQWsXkg3N4jsZmoHHobjp+05SEQ7yAcnRztGHBIudSncKX9dKnQD63LTjs6ggsxVC6CmYnsOogeErKYTDTnTR9iI3oPwaUYgP70Xxtof5EkN2Mh/zWeotrv0/tL19z3JpgdsjoLCktEpp0WGgmH7lY0CHVU3qSLBmb1EtXvpHunwZ1XRcFBifsOG8qZAVSqITa7kmVH+z9d3eVFUlEMEoK3MGscduczg+8451bBDnlz/y3gLrO9KSVy2UUiSD3JM=;+hOl54R7ei1rnrLGe3+u9A=="

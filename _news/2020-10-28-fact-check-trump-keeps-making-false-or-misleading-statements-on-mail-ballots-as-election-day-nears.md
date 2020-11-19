@@ -111,22 +111,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "WATCH LIVE: Trump holds campaign rally in Tampa, Florida"
     excerpt: "President Donald Trump and Democratic rival Joe Biden are set to chase votes in Florida, a state all but essential to the Republican's pathway to another term as both nominees turn their focus to encouraging voters to turn out on Election Day."
     publishedDateTime: 2020-10-29T14:58:00Z
@@ -158,22 +142,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Donald Trump has won North Dakota"
-    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
-    publishedDateTime: 2020-11-04T00:16:00Z
-    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Donald Trump has won Indiana"
     excerpt: "Indiana has 11 electoral votes and was not expected by analysts to be competitive."
@@ -250,6 +218,38 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/30/NPPP/6e5b7ee4-f6f8-4bbf-8765-e922a7017e91-Election_2020_Biden.jpg?auto=webp&crop=5718,3217,x0,y290&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The US's top cybersecurity agency just threw cold water on Trump's claim that election results in battleground states are fraudulent"
+    excerpt: "CISA quickly debunked Trump's latest claims that the election results in key battleground states are rigged against him as Biden takes the lead."
+    publishedDateTime: 2020-11-04T18:32:00Z
+    webUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cybersecurity-agency-cisa-debunks-trump-claim-election-results-fraudulent-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8f521ab0526700185cc7a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Candidate Trump decried the national debt in 2016 and promised to eliminate it. It's only gotten bigger."
+    excerpt: "Analysts point to several reasons for the jump, including his tax cuts in 2017 and the federal response to the economic fallout from the pandemic."
+    publishedDateTime: 2020-10-28T02:45:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/donald-trump-has-failed-keep-campaign-pledge-erase-national-debt/3682405001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3682405001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3682405001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -432,17 +432,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
-    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
-    publishedDateTime: 2020-10-28T14:22:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "The Latest: Mrs. Trump Warms up Tampa Crowd at Trump Rally"
     excerpt: "First lady Melania Trump is making her first joint campaign appearance of the year with her husband. Mrs. Trump warmed up the large crowd outside Raymond James Stadium in Tampa for President Donald Trump."
     publishedDateTime: 2020-10-29T19:04:00Z

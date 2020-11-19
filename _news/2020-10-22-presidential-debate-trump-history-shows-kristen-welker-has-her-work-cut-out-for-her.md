@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
-    excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-23T13:06:00Z
-    webUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 131
-    images:
-      - url: "https://i.insider.com/5eab11f9204ad303cc23aeb3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
-    excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
-    publishedDateTime: 2020-10-07T17:02:00Z
-    webUrl: "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'F*** Donald Trump': 50 Cent Says He 'Never Liked' Trump After Chelsea Handler Publicly Scolds Him for Endorsing President"
     excerpt: "\"For all I know he had me set up and had my friend Angel Fernandez killed but that's history,\" 50 Cent said on Saturday night."
     publishedDateTime: 2020-10-25T02:33:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1658159/50-cent.jpg"
         width: 2937
         height: 1951
-        isCached: true
-  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
-    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
-    publishedDateTime: 2020-10-18T12:07:00Z
-    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
-    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
-        width: 600
-        height: 917
         isCached: true
 
 secured: "v/nPe2R+eUgjqR9M5sL9Bowj49ZAWquUYlb133TqIOHlWfEC1PrX2ptU6WZGonZXC9SJBxAa9tYoTXQNKTHWK4Y4HDXf21K89x1EgiZIYOfDZly/BFbj7Eb9kbQLcDVD53xiBAa3lBBOrq+FvXDZrAdDzYZF89zfnZmI7QQ+UqN9vZwNuPQSSNeE3/bbLSl4tw+Wr36vmsZLZSWxQcnLS/mGvofF/H4pQ+qEgqRwFWnCrOVanCPQNleDu+6wY66fjbGxjhRgVwCLuOnL+NlNC/QWCgHGjUWI06yXj0FHpYvguAmuD96NpuvrzNWS4arewrkVEm336Cu2HaexlIxklPJigUdgW04xTxum/tP3urnpufq+8PtdO5c18s2/umkXWcVKUpfY6vI9ipJsBTMzg1jmES5Vf/SqFKZkb1hhuoelvLpYqEykg6nbRgoLREzYCs9tOlcp2wDn8zNgg9525b4HyQNayqbqWTjYnyuhID7pVq70kvcAErij/bQfiz/h8ZGDGzsYqY/kJI3k8NDM1A==;spzh72VREnqM2Di6aAc3Uw=="

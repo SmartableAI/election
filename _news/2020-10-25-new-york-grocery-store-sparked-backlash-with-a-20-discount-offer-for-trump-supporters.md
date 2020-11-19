@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/new-york-grocery-store-discount-adve
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-grocery-store-discount-advertisement-trump-biden-backlash-election-2020-10?amp"
 type: article
 quality: 117
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tucker Carlson Interviews Bin Laden Niece Who Said She’s Gotten More Backlash for Trump Support Than for Her Last Name"
-    excerpt: "Amid the thousands and thousands of news cycles in the past few months, you may have missed that back in September, Noor bin Ladin — niece of Osama bin Laden — endorsed President Donald Trump for reelection."
-    publishedDateTime: 2020-10-17T18:05:00Z
-    webUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/"
-    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 51
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Tucker-Carlson-Noor-bin-Ladin-1200x675.jpg"
         width: 1200
         height: 675
         isCached: true

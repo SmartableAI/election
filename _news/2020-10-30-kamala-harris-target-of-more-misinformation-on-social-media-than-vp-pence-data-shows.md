@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris: Trump is trying to 'destroy our democracy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that President Trump and her political opponents are trying to destroy democracy."
+    publishedDateTime: 2020-10-19T17:23:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/AP20293609207491_c0-0-3707-2162_s1200x700.jpg?1acee9eb5819ccf95e1ff691b755e070d540b0eb"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "7i3BibhmI/hMe2lBYZv+7PSmgiT4lIWuVFIgNraeqLKYC1ElEp8Q6GLaBjfVwORNppI0NcDQD2FirlhCWCwTTob5YcAXTuDIoQzUAbbN0v8VIYk40OYuBsfp2WSPfIqvljIOvCLuDammGFzm7I3G7XonQwm4pYQEZh7mHeOR+PFPlLH+Eqvvm17MQcL5bF6szFTLf3pG8jubu37IHUQHTuF5IH0w76VqskU+ZlIjUMtPaIIZuYS04J2idQO0xKg7YhjtULJKlXfvbBEgPtvAEuRk3VMPL52uI11kjl2Pnsa8fbo07N+LrU6P6CjhPR3ZOeJk5my6OJkrhoLvVnon8RpTxqONiOicgjhN19as3V9HHXV6ZcgewfoKcbuIgQf4Zb/SUGIhAXaSEa9jYSlY9FnRVpb3C64T/RMWnHBnZWhTbdlc7amRx4mUeWkseB0z09erQK++soofND8i+ABXLfcnLcNZVXdgD0kJ5TXad20BOCk8hNHQqMkFKn8jRM6Ovl9kh0qwzRsYsznRAv/nFg==;rJlDCMrjkQj/0HTS8sKRMw=="
 ---

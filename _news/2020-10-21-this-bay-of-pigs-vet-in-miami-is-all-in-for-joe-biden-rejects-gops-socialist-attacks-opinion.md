@@ -59,22 +59,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
-    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
-    publishedDateTime: 2020-10-16T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Thursday briefing: Joe Biden with one hand on the prize"
     excerpt: "Photograph: Matt York/AP Hello, Warren Murray here with an electoral collage … By reliable, objective measures Joe Biden is winning the race to become the next US president. Overnight the Democrat has been projected to our satisfaction to be the victor ..."
     publishedDateTime: 2020-11-05T06:32:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/b277ca7cc854ac20c351fe328f3e2ba3c0846e40/0_108_4546_2728/master/4546.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86dc161dbdb32a23bf746d3ba51eac87"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
-    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
-    publishedDateTime: 2020-10-14T12:14:00Z
-    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
-    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 77
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
-        width: 1024
-        height: 741
         isCached: true
   - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
     excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
@@ -120,6 +88,22 @@ related:
       - url: "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "CAL THOMAS: Can Joe Biden be trusted?"
+    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
+    publishedDateTime: 2020-10-21T06:00:00Z
+    webUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.html"
+    ampWebUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+    type: article
+    provider:
+      name: Scottsbluff Star Herald
+      domain: starherald.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
+        width: 900
+        height: 1217
         isCached: true
   - title: "Vice President Mike Pence to visit Oakland County on Thursday"
     excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
@@ -224,44 +208,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
-    excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
-    publishedDateTime: 2020-10-18T05:00:00Z
-    webUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html"
-    ampWebUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 58
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/3c/d3ce265c-fa12-11ea-baa9-2fa13ab2c22d/5f6557423aa11.image.jpg?resize=1024%2C1408"
-        width: 1024
-        height: 1408
-        isCached: true
-  - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
-    excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
-    publishedDateTime: 2020-10-15T13:09:00Z
-    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/"
-    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 55
-  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
-    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
-    publishedDateTime: 2020-10-18T18:11:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "Pence to visit Fort Wayne on Thursday"
     excerpt: "Vice President Mike Pence is scheduled to campaign Thursday in Fort Wayne, according to a tweet by his communications director."
     publishedDateTime: 2020-10-19T18:10:00Z
@@ -276,20 +222,28 @@ related:
         width: 800
         height: 528
         isCached: true
-  - title: "Editorial: Joe Biden can restore nation to normalcy"
-    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
-    publishedDateTime: 2020-10-22T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
+  - title: "Vice President Mike Pence to visit Michigan on Thursday"
+    excerpt: "Vice President Mike Pence will be in Michigan on Thursday, Oct. 22. Pence will host a \"Make America Great Again\" event in Waterford Township at 12:30 p.m. The event will take place at Barnstormers. Doors open at 10:30 a."
+    publishedDateTime: 2020-10-20T21:38:00Z
+    webUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.html"
+    ampWebUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
+    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
     type: article
     provider:
-      name: HeraldNet
-      domain: heraldnet.com
+      name: WNEM-TV
+      domain: wnem.com
     quality: 55
-    images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
-        width: 1302
-        height: 868
-        isCached: true
+  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
+    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 55
   - title: "Biden: It’s time to stand up and take back our democracy"
     excerpt: "DALLAS — Vice President Joe Biden, his wife, Jill Biden, and Rock and Roll Hall of Famer Bon Jovi are participating in a drive-in campaign event 3 p.m. Saturday at Dallas High School."
     publishedDateTime: 2020-10-25T20:52:00Z
@@ -315,15 +269,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
-  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
-    publishedDateTime: 2020-10-16T13:13:00Z
-    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Scranton Virtual Block Party for Joe Biden"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks to a virtual rally in support of his campaign held by supporters in his hometown of Scranton, Pennsylvania."
     publishedDateTime: 2020-10-28T23:16:00Z

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence's Top Aide Tested Positive For The Coronavirus And Pence Will Keep Campaigning"
+    excerpt: "The vice president tested negative on Saturday, his office said. By Matt Berman and Kadia Goba Last updated on October 24, 2020, at 11:52 p.m. ET Posted on October 24, 2020, at 11:16 p.m. ET Vice President Mike Pence walks on stage at a campaign event in Michigan on October 22."
+    publishedDateTime: 2020-10-25T10:43:00Z
+    webUrl: "https://www.buzzfeednews.com/article/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/mattberman/mike-pence-coronavirus-marc-short-chief-of-staff"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 116
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/2/20/campaign_images/690bc2095fe0/hope-hicks-who-recently-traveled-with-trump-teste-2-4143-1601669514-20_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Vice President Mike Pence to stay on campaign trail despite outbreak of COVID-19 among his senior aides"
     excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said."
     publishedDateTime: 2020-10-26T20:33:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/AP20299110164423.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence’s top aide tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence plans to maintain an aggressive campaign schedule this week despite his exposure to a top aide who tested positive for the coronavirus, the White House said Saturday. Pence himself tested negative,"
+    publishedDateTime: 2020-10-25T04:03:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/vice-president-mike-pences-top-aide-tests-positive-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KTIDZGVA4VEXFPEH37ETNHERVA.jpg"
+        width: 3600
+        height: 2400
         isCached: true
   - title: "At least 5 of VP Mike Pence's aides test positive for COVID-19"
     excerpt: "WASHINGTON -- At least five people in Vice President Mike Pence's orbit have tested positive for coronavirus in recent days, including chief of staff Marc Short, close aide Zach Bauer and outside ..."

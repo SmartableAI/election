@@ -77,17 +77,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
-    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
-    publishedDateTime: 2020-10-22T08:50:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 47
 
 secured: "Fx3dG/ZD32Nt3u6lMOa/UIaSMkYHZbqjU7QhuRhqwkAXuqyk/okSalGTTG3PQzCcatpg+HfZEQSe86hyNOeQjG9E70y/rAjrDpZAu37DtLARyAx+YkK6hgoUS24QE1KJA71AOQUVW2l7OD5y8KA2VgwcZSeIw4uRLH2Sn8qo+PSdL6GefUExaAsRle/y/colXb5SFBC+AykeTF//zhxyqI7EMCGtYaxMxmGBnSzsm9gJeDuZn69uBkY+p6IZy7DE0LycJnNrN0psw/LnlZeFwz0ItRTkGKfV9feV7gz2t7seDHD5noMVjWdPT7LV6MAhEQniCKQ91tEx2qPnB2ue1lzxA++pyVP/n6mpDX/D4R4=;eyLXo0znywu5Q4aawO5O5g=="
 ---

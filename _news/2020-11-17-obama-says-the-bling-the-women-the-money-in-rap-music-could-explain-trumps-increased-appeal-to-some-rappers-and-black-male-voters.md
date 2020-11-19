@@ -63,6 +63,22 @@ related:
         width: 1439
         height: 960
         isCached: true
+  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
+    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
+    publishedDateTime: 2020-11-17T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 107
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Barack Obama on Trump: \"This is not normal\""
     excerpt: "In his interview with CBS News' Gayle King, former President Barack Obama comments on Election 2020, and President Donald Trump's allegations, without evidence, that his election loss was due to fraud."
     publishedDateTime: 2020-11-16T00:14:00Z

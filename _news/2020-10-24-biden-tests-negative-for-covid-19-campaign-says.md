@@ -31,53 +31,197 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s love of Amtrak tells us how he would govern"
-    excerpt: "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown."
-    publishedDateTime: 2020-10-20T10:03:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
+  - title: "Biden campaign removing retired general from ad after his complaint"
+    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
+    publishedDateTime: 2020-10-19T21:32:00Z
+    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
+    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "USA Today backs Biden with first endorsement"
+    excerpt: "USA Today, the nation’s highest-circulation newspaper, made its first presidential endorsement on Tuesday, announcing its support for Democratic nominee Joe Biden Joe Biden Nearly 300 former national security officials sign Biden endorsement letter Trump narrows Biden's lead in Pennsylvania: poll Florida breaks first-day early voting record with 350K ballots cast MORE."
+    publishedDateTime: 2020-10-20T13:22:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/usatoday_getty_022019.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden up by single point in Florida: poll"
+    excerpt: "Democratic presidential nominee Joe Biden has a single-point lead over President Trump in Florida, according to a poll released Tuesday from the University of No"
+    publishedDateTime: 2020-10-20T18:55:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521899-biden-up-by-single-point-in-florida-survey?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_091420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The best case against a Biden presidency: Him"
+    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
+    publishedDateTime: 2020-10-21T16:45:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The Latest: Biden won't rule out studying court packing"
+    excerpt: "Democratic presidential nominee Joe Biden won’t rule out studying the addition of members to the Supreme Court as part of a commission he plans to name to look at court reforms if he’s elected"
+    publishedDateTime: 2020-10-22T13:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-rule-studying-court-packing-73759180"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_63700e64d6954852951bf6e5655a395f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How come we never talk about Joe Biden’s health care plan?"
+    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
+    publishedDateTime: 2020-10-22T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Greenwald slams Schiff over Biden emails on Fox"
-    excerpt: "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails."
-    publishedDateTime: 2020-10-20T18:24:00Z
-    webUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox"
-    ampWebUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
+  - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
+    excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
+    publishedDateTime: 2020-10-22T19:37:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Press: Joe Biden drops bomb on oil industry"
-    excerpt: "Asked about his plan to combat climate change, Biden defiantly pledged: “I would transition away from the oil industry, yes. The oil industry pollutes, significantly. It has to be replaced by ..."
-    publishedDateTime: 2020-10-27T12:15:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522839-press-joe-biden-drops-bomb-on-oil-industry?amp"
+  - title: "Questions Joe Biden Hasn't Yet Answered About Hunter Biden Controversy"
+    excerpt: "As the controversy surrounding Hunter Biden's overseas business dealings while his father was vice president grows, Democratic presidential nominee Joe Biden's campaign has yet to deny many of the ..."
+    publishedDateTime: 2020-10-23T18:49:00Z
+    webUrl: "https://www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830"
+    ampWebUrl: "https://www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/questions-joe-biden-hasnt-yet-answered-about-hunter-biden-controversy-1541830?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1656418/bidens.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Nearly 300 former national security officials sign Biden endorsement letter"
+    excerpt: "Nearly 300 more former national security officials have signed onto a letter endorsing Democratic candidate Joe Biden for president."
+    publishedDateTime: 2020-10-20T09:37:00Z
+    webUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter"
+    ampWebUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/ca_oiloklahoma_042720getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
+    excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
+    publishedDateTime: 2020-10-22T13:30:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden, squeezed on the Supreme Court, promises a commission to consider changes"
+    excerpt: "Joe Biden tells CBS’s “60 Minutes” that he would create a bipartisan commission to tackle a system that’s “out of whack.” He hopes to thread the needle between liberals demanding more justices and swing voters who show little interest in that idea."
+    publishedDateTime: 2020-10-23T01:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZCQ57AUOUI6XOSC5RVFQCBW5U.jpg&w=1440"
         width: 1440
-        height: 880
+        height: 960
+        isCached: true
+  - title: "Biden, under pressure on 'court packing,' says he would convene commission on reform"
+    excerpt: "Democratic presidential nominee Joe Biden, under pressure on 'court packing,' told CBS' \"60 Minutes\" he would appoint a bipartisan commission on court reform."
+    publishedDateTime: 2020-10-23T01:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-pressure-court-packing-convene-commission-reform/story?id=73760039"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-file-rt-jef-201022_1603380696459_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "'I am home': Biden’s roots could run from a Scranton kitchen table to the presidency"
     excerpt: "SCRANTON – This is where Joe Biden said he learned everything he needed to know about politics. The general election on Nov. 3 will determine if North Washington Avenue is just the leafy street ..."
@@ -95,84 +239,157 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
-    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
-    publishedDateTime: 2020-10-21T05:12:00Z
-    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+  - title: "Harry Reid says Joe Biden should end Senate filibuster after 3 weeks"
+    excerpt: "Former Senate leader Harry Reid says if Democrats win the presidency and the Senate, Joe Biden should take “no more than three weeks” to test bipartisanship before ending the filibuster so"
+    publishedDateTime: 2020-10-25T02:20:00Z
+    webUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/24/harry-reid-joe-biden-senate-filibuster/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harry_Reid_Filibuster_82932.jpg?w=1024&h=678"
+        width: 1024
+        height: 678
+        isCached: true
+  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
+    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
+    publishedDateTime: 2020-10-26T03:22:00Z
+    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
+    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
+    excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
+    publishedDateTime: 2020-10-19T19:13:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
         width: 1200
-        height: 600
+        height: 700
         isCached: true
-  - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
-    excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
-    publishedDateTime: 2020-10-22T17:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+  - title: "Nashville native goes from student council president to Joe Biden's presidential campaign"
+    excerpt: "He is national press secretary for former Vice President Joe Biden's presidential campaign, and the Iowa caucuses were only weeks away. Ducklo kept his cell phone charged. Every email and text message he sent was an opportunity to make sure Biden became ..."
+    publishedDateTime: 2020-10-27T02:47:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/27/nashville-native-powers-joe-biden-presidential-campaign/6000021002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6000021002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6000021002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
+      name: Tennessean
+      domain: tennessean.com
+    quality: 66
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/10/26/PNAS/3dada756-b57c-4387-8975-f4ba563db3c7-20201022_debate_nashville_tn_as_2706.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "North America’s Building Trades Unions Issue Formal Endorsement of Joe Biden for President"
-    excerpt: "Today, North America’s Building Trades Unions (NABTU) formally endorsed former Vice President Joe Biden and Senator Kamala Harris for President and Vice President of the United States. The organization issued the following statement from NABTU President Sean McGarvey: “North America’s Building Trades Unions are proud to endorse former Vice President Joe Biden for President of the United States."
-    publishedDateTime: 2020-10-23T17:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/joe-biden-business-building-construction-construction-and-engineering-industrial-products-and-services-dbfaad2cabd003fffb18a350f7b64888"
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 95
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
-    excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
-    publishedDateTime: 2020-10-17T10:11:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Jim Carrey’s Biden impression is a below-average Joe"
+    excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
+    publishedDateTime: 2020-10-19T21:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg"
-        width: 5000
-        height: 2499
-        isCached: true
-  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
-    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "Editorial: Joe Biden can restore nation to normalcy"
+    excerpt: "At this point some might question the utility of an endorsement regarding the race for the President of the United States; supporters of President Trump or former Vice President Joe Biden will have long ago locked in their decisions,"
+    publishedDateTime: 2020-10-22T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/editorial-joe-biden-can-restore-nation-to-normalcy/"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 55
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.heraldnet.com/wp-content/uploads/2020/10/23074911_web1_TSR-201022-edh-opi-EndorseBiden2.jpg"
+        width: 1302
+        height: 868
         isCached: true
+  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
+    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
+    publishedDateTime: 2020-10-22T13:22:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
+    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
+    publishedDateTime: 2020-10-21T01:11:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 48
+  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
+    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
+    publishedDateTime: 2020-10-20T00:32:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 41
+  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
+    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
+    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
+    publishedDateTime: 2020-10-22T09:43:00Z
+    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 23
 
 secured: "8vQgGo1z+5SA1DjhM/l7imlcbym0R+8dkts6DkU7nficMZQJ9nfEDr0gy9+AxF8+ZPwiOTRSDdngXxehSf1jc3aFlDPWyN3nJGSqegatAdr6OKKukO3wOunq7WHjqU/uQ0jl8C6ZHuiJIo9l3/56n30pj6amayaH0oYON6ShTvTI9Bqs4J9exy6K/NY8tck2Yl/wepHidAwHtLC3wshOrA3milFwe6wewIGuMo4HMovcuMuXmymjq7JkOxTHuIVgzZWV2Wr56wPndinReevlfZDy9qkFpNV72xkYEtSmu9z7k6T/QU12/sn9YwZ1OI0mlZT7+E/iJPhjT0P1SuxSuO4TWzGw15maPGQJEQNItYacT+wY9ByGydjvyAMmtC6txb5+o4g7yTKoy6ICU1bJitWDpFpAcdyoXFp1Lru/5oe2nmQkNzvwlQ5npcRyq5Z5f/dQ7uW9ub1I/ETjd0nxaNri9mKoiq3k9X0fRFvHLCNO5lHYmt7CE6dQrV3RhAjg0DsOnQjh6NUYNfjX00zADQ==;h8E9icTm77ow2wFjNLCXoQ=="
 ---

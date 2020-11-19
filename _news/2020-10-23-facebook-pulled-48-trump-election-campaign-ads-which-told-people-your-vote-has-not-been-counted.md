@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
 type: article
 quality: 127
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-lititz-rally-01-rt-jef-201026_1603738033058_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
+    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
+    publishedDateTime: 2020-10-24T22:53:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Votes In Person And Slams Mail-In Voting As Campaign Urges Voters To Vote By Mail"
     excerpt: "Despite his denunciations of mail-in voting, Trump has said the practice is ‘safe in secure’ in Florida, where he voted, because of its Republican governor."

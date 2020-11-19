@@ -25,100 +25,235 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
-    excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
-    publishedDateTime: 2020-10-26T15:13:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory"
+    publishedDateTime: 2020-10-24T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Here’s Why Massive Rallies May Do Trump More Harm Than Good"
+    excerpt: "Polls show the tightly-packed events are unpopular – and potentially damaging to Trump – as concerns abound over the spread of coronavirus."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b2c831150bf866feb830e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D0%26cropY2%3D2531"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "West Virginia voters laud Trump for trying to save coal"
+    excerpt: "Four years after Donald Trump donned a miner’s helmet at a West Virginia campaign rally and vowed to save a dying industry, coal has not come roaring back"
+    publishedDateTime: 2020-10-30T06:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole"
+    excerpt: "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false."
+    publishedDateTime: 2020-10-20T14:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 121
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden Says Amy Coney Barrett's Confirmation to Supreme Court Threatens Affordable Health Care"
-    excerpt: "Democratic presidential candidate Joe Biden has criticized Amy Coney Barrett's \"rushed and unprecedented\" Supreme Court confirmation while raising concerns over what it could mean for the future of the Affordable Care Act. President Donald Trump has ..."
-    publishedDateTime: 2020-10-27T09:20:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
+  - title: "Donald Trump triumphantly returns to Arizona to celebrate the 'end' of the pandemic"
+    excerpt: "Ignore the rising number of new COVID-19 cases. The rising hospitalizations. The deaths. IT'S OVER! (Or so the White House says.)"
+    publishedDateTime: 2020-10-28T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/28/trump-arizona-celebrate-end-pandemic/3759732001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3759732001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3759732001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1658668/biden.jpg"
-        width: 2295
-        height: 1530
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Trump rejoices as Senate panel approves Barrett while Democrats boycott"
-    excerpt: "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ"
-    publishedDateTime: 2020-10-22T18:15:00Z
-    webUrl: "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
-        width: 810
-        height: 521
-        isCached: true
-  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
-    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
-    publishedDateTime: 2020-10-26T16:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 110
     images:
-      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Amy Coney Barrett's confirmation is the start of Pence's accomplishment of a lifetime"
-    excerpt: "When President Donald Trump and Vice President Mike Pence attended a gathering of social and religious conservatives during the 2016 campaign for the White House, both tried to woo the voting bloc."
-    publishedDateTime: 2020-10-29T10:32:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/27/amy-coney-barrett-supreme-court-confirmation-abortion-mike-pence/5991035002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5991035002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5991035002"
+  - title: "Trump attends church service in Las Vegas"
+    excerpt: "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)"
+    publishedDateTime: 2020-10-18T19:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 68
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d94c5929-c678-47d5-9e04-569b3d8d692d-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
-    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
-    publishedDateTime: 2020-10-19T13:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
+  - title: "Trump pushes rosy virus message: 'I look fine'"
+    excerpt: "President Donald Trump was again downplaying the severity of the coronavirus on Monday during a rally in Arizona. \"The pandemic is rounding the turn. Vaccines are coming. And I look fine, don't I?\" Trump said,"
+    publishedDateTime: 2020-10-20T01:48:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3caf549b-a00f-4373-959e-1e28aadff5f6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "GOP's Romney, long a Trump critic, voted — but not for Trump"
+    excerpt: "Republican Sen. Mitt Romney said Wednesday that he's voted in the Nov. 3 election — but not for the leader of his party."
+    publishedDateTime: 2020-10-22T00:16:00Z
+    webUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "As one of the top officials on the country's largest Native American reservation, he's a proud Donald Trump supporter."
+    publishedDateTime: 2020-10-26T02:29:00Z
+    webUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Living statues paint Trump as racist 'relic'"
+    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
+    publishedDateTime: 2020-10-28T15:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "With Lil Wayne, Ice Cube And 50 Cent, Trump Makes Final Push For Black Voters"
+    excerpt: "The Trump campaign has spent more than $20 million on a strategy to appeal to Black voters, Polls show Trump has improved narrowly with young Black voters, particularly men."
+    publishedDateTime: 2020-10-30T09:01:00Z
+    webUrl: "https://www.npr.org/2020/10/30/929177685/with-lil-wayne-ice-cube-and-50-cent-trump-makes-final-push-for-black-voters"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/29/gettyimages-1228710316-1-_wide-26cc6b1e416775704e54529a03f318199710494a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 101
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Stimulus Package 2: Trump Warns Stepping in if GOP Opposes Big Bill"
+    excerpt: "As stimulus bill negotiations inch closer toward a deal, President Donald Trump is urging GOP senators to support a multi-trillion dollar package."
+    publishedDateTime: 2020-10-19T09:29:00Z
+    webUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/"
+    ampWebUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/stimulus-bill-2-Trump-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
+  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
+    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
+    publishedDateTime: 2020-10-21T03:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
+    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
+    publishedDateTime: 2020-10-26T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "fiYuM1FUUqt3+Ts/ekgIeDjARoKHuhdqpb0QZFpaV4eRuJ3UJ2clB70iY8WJfUbFrUd8e2INyR13ufPfzCmqN/Jwfsh9LAgGfKa4/9hWlJvuJhYdoqwpWkahDyo9H5V31zzljthxkYEd4ZA8AsJ3jkASxPO3yWmxT5WCMxbavpuRmLgU3R4hWhdch+BaE7IsZ7LlCGpMXFsT53wskI2Jxkztn1vB9lqo/i7cIh8r1gJ+9NCDIdEloT00Dbax/ZCFcJCa+n/T/Ew1faeHeXB97Rw/fc7BwnrtSmfA7zlIvuOLFCU64Lcz4G//QyR1ahxtLkedb0J5zISgR0WnT7vai0pXX00npuD38/VBEb60dkeFLnc/JNi6JX0d4ve2A8yXSR3qFRPSY0udwkGk3GzgrM4eWrtm+G6HCEL9mxgfvL2fD2VolqU9VEWRPg/Oh3NnFbtOJqEpqDGO/eXr+mVSGAcXWR7g6zo/QZNsDt4xxV8JT91uxGA6dRy8uYOnvMkBtfDdoKUMtbfVHymRTAy4kQ==;kgE7+ZIW/glIvGnSdVQEMQ=="
 ---

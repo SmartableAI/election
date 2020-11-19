@@ -33,85 +33,175 @@ images:
     isCached: true
 
 related:
-  - title: "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida"
-    excerpt: "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n"
-    publishedDateTime: 2020-10-21T21:08:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
+  - title: "Maryland man facing federal charge for allegedly threatening Biden and Harris"
+    excerpt: "A Maryland man is facing a federal charge for allegedly threatening Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris, authorities announced Wednesday.\n    \n"
+    publishedDateTime: 2020-10-21T19:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 197
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Watch live: Biden holds campaign event in Pennsylvania"
-    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
-    publishedDateTime: 2020-10-10T20:46:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
+  - title: "Biden and Harris share the spotlight with their families to celebrate victory"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n"
+    publishedDateTime: 2020-11-09T22:04:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
+    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
+    publishedDateTime: 2020-11-01T20:51:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 192
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Kamala Harris and Jill Biden are subverting stepmom stigma in America"
+    excerpt: "Democratic vice presidential candidate Kamala Harris and Democratic presidential nominee Joe Biden's wife, Jill, are now two of the highest-profile examples of stepmotherhood in America. (Melania Trump is also a stepmom."
+    publishedDateTime: 2020-10-25T22:38:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/how-kamala-harris-jill-biden-are-subverting-stepmom-stigma-america-ncna1244373?cid=sm_npd_nn_tw_ma"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244373"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244373"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 149
     images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422264/201022-kamala-harris-family-ac-719p_c7acd8698887b667884fa7eb98bdca9c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Biden appeals to sought-after Pennsylvania voters with 10 days to go"
-    excerpt: "In an effort to win over the working-class voters in Pennsylvania who voted for Trump in 2016, Joe Biden assured the crowd on Saturday that he is going to protect Pennsylvania jobs, including fracking."
-    publishedDateTime: 2020-10-25T02:49:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-appeals-to-sought-after-pennsylvania-voters-with-10-days-to-go-94586437621"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94586437621"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94586437621"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/biden10.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden shows continued strength in Pennsylvania and Wisconsin polls."
-    excerpt: "Polls released by Ipsos on Monday found Mr. Biden ahead among likely voters by six points in Pennsylvania and nine points in Wisconsin — both states where Mr. Biden has led consistently and where victory is crucial to his chances of taking the White House."
-    publishedDateTime: 2020-10-27T16:15:00Z
-    webUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/us/elections/biden-shows-continued-strength-in-pennsylvania-and-wisconsin-polls.amp.html"
+  - title: "Kamala Harris, Mass Incarceration and Me"
+    excerpt: "Many progressives mistrust her for her past as a prosecutor. As an ex-convict — and also the son of a crime victim — I can tell you it’s not that simple."
+    publishedDateTime: 2020-10-20T09:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/27/multimedia/27elections-briefing-polls/27elections-briefing-polls-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/25/magazine/25mag-harris-1/25mag-harris-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden takes the lead in Pennsylvania as vote count continues"
-    excerpt: "Joe Biden has taken the lead in Pennsylvania as mail-in votes continue to be counted and reported Friday morning."
-    publishedDateTime: 2020-11-06T14:13:00Z
-    webUrl: "https://www.nbcnews.com/now/video/biden-takes-the-lead-in-pennsylvania-as-vote-count-continues-95441477990"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95441477990"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95441477990"
+  - title: "Fact check: Where does Kamala Harris stand on health care?"
+    excerpt: "Trump claimed that Biden's running mate, Sen. Kamala Harris, D-Calif., supports \"socialized medicine.\" \"He wants sociali"
+    publishedDateTime: 2020-10-23T02:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244434"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/ott_now_2020_biden_lead_pa_201106_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Biden makes late push to flip the Senate"
+    excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
+    publishedDateTime: 2020-10-28T20:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/biden-democrats-senate-433032"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Teen with van full of guns had checklist to 'execute' Joe Biden, authorities say"
+    excerpt: "Authorities alleged that Alexander Treisman posted a meme about killing the Democratic presidential nominee and had a checklist with a note to \"execute\" him."
+    publishedDateTime: 2020-10-23T04:15:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/man-van-full-guns-had-checklist-execute-joe-biden-authorities-n1244394"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244394"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244394"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3421096/201018-biden-north-carolina-jm-1447_e25ba82d4b1676fecafeb3195aab37ea.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "How K Street is preparing for Biden"
+    excerpt: "Joe Biden’s transition team has conveyed an unspoken message to Washington lobbyists in the closing weeks of the campaign: Leave us alone, at least until Nov. 4. “They are much more insulated than previous transitions,"
+    publishedDateTime: 2020-10-23T19:52:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2020/10/23/how-k-street-is-preparing-for-biden-791165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Kamala Harris makes her final case to 'the ATL'"
+    excerpt: "With just days to go until the election, Harris invokes Atlanta’s civil rights legacy in a pitch to Black voters."
+    publishedDateTime: 2020-10-24T01:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/kamala-harris-atlanta-432074"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/70/a2/7c60b06f4ba8b4811cd24ee8d78c/201023-kamala-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Was Joe Biden the Right Man for the Job After All?"
+    excerpt: "It’s a tense time! As we wait, Slate gathered some staffers to discuss the basic question: How do we feel about Joe Biden now? Was he the right choice of candidate to put forward in this ..."
+    publishedDateTime: 2020-10-28T23:35:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/joe-biden-democratic-nominee-assessment.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 65
+    images:
+      - url: "https://compote.slate.com/images/c075d2c7-d13e-43cf-b4a0-c4e613e3dfd9.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "PkswPwk4pNuntSNLmuZoeRolz8U9stQLjyYtzg4uyHj+iNmwWyG3pGFgssrBelHAqrib3AjSdYtlIVkOgvAGU6ZZ2OmWAJDSeuqxtZG58+CPgX8iF+X6PZuqsz4XHHPQ+rl9FTIqDma8P5A4iY4atqKtnPoPj4/H910bBT1vnETKis7ccWTVxpM9ifCcpAPl0viWSEU4DmM4top+jImYZ7owzkNuDY0dIYpQPe73kZUNrNc4IGzCcDiCr9gke3k4d+iJjl+LKuhvvQAeCqXh8KFIcIe6N4tWXuFa4DZUeM7jl+2SHadpI1mCdiwMamrJJZ86FmPdWlZrMUZeK4Uv73Xq+xTLcKnkbSiUND4uF/cNrYerlZvL768YR31d6S4860/rbCfQBCtPI+OTp/XJlzppJ5gObxi1Or8fnH/Q/y7+8/IazZlUYzHmLiKIPSliYXSFPVedjyilrXNNSpMgeghUtUUyyQNN0DPXoFEp2PxsfZ2YvlvoZrqwBCsNtlgede5ekMyvWjmpRrGTbGSqnQ==;MUrgPno4o65SNa3/XxpzOg=="

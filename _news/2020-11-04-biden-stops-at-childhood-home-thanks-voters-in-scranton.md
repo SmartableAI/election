@@ -29,123 +29,100 @@ images:
     isCached: true
 
 related:
-  - title: "America is changing. Joe Biden can help us through the transformation."
-    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
-    publishedDateTime: 2020-10-29T19:57:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden urges patience, unity as he waits with the rest of America"
-    excerpt: "Joe Biden — like the rest of America — is still waiting. Despite being on the cusp of the presidency, Biden did not give the victory speech he and his campaign hoped he would deliver on Friday night."
-    publishedDateTime: 2020-11-07T14:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6201879002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/8fe8140d-f5ef-4032-bf35-6123ab4fbc90-AP20312142716387.jpg?auto=webp&crop=3983,2240,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Corporate America says it is ready to work with Biden"
-    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
-    publishedDateTime: 2020-11-09T21:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+  - title: "Breakingviews - Biden win sets scene for storm before the calm"
+    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
+        width: 990
         height: 545
         isCached: true
-  - title: "Polls showed Biden had a substantial lead. Why didn't Americans wake up to a winner?"
-    excerpt: "Election polls showed Joe Biden had a national lead over Donald Trump. So are the polls wrong? It's not that simple."
-    publishedDateTime: 2020-11-04T23:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/polls-biden-had-lead-over-trump-election-results-unclear-wednesday/6158248002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6158248002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158248002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
-    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
-    publishedDateTime: 2020-11-02T11:16:00Z
-    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
-    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
-    publishedDateTime: 2020-11-05T22:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+  - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
+    excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
+    publishedDateTime: 2020-11-14T08:00:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
+        width: 600
+        height: 360
         isCached: true
-  - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
-    excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
-    publishedDateTime: 2020-10-28T04:13:00Z
-    webUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
+  - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
+    excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
+    publishedDateTime: 2020-11-09T02:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-urges-healing-and-cooperation-after-defeating-trump-for-u-s-presidency-idUSKBN27O06Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O06Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O06Y"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
+    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
+    publishedDateTime: 2020-11-12T08:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
+    excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
+    publishedDateTime: 2020-11-11T16:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/nyc-man-brian-maiorana-threatened-election-violence-against-democrats/6247339002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6247339002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6247339002"
+    type: article
+    provider:
+      name: Statesman Journal
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
+    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
+    publishedDateTime: 2020-11-10T19:29:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 102
     images:
-      - url: "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
-  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
-    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
-    publishedDateTime: 2020-10-30T18:25:00Z
-    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
   - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
     excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
     publishedDateTime: 2020-11-05T21:42:00Z
@@ -162,61 +139,20 @@ related:
         width: 873
         height: 759
         isCached: true
-  - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
-    excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
-    publishedDateTime: 2020-10-29T08:00:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article246778127.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
-    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
-    publishedDateTime: 2020-10-26T03:22:00Z
-    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
-    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "False video of Joe Biden viewed one million times on Twitter"
-    excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
-    publishedDateTime: 2020-11-01T23:31:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/false-video-of-joe-biden-viewed-one-million-times-on-twitter/article_e5065a39-ad32-5c68-8f22-112469642ee0.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
-        isCached: true
-  - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
-    excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
-    publishedDateTime: 2020-11-02T18:48:00Z
-    webUrl: "https://www.c-span.org/video/?477703-1/joe-biden-holds-canvas-kick-event-pittsburgh"
+  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
+    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
+    publishedDateTime: 2020-11-05T21:46:00Z
+    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
+    quality: 55
+    images:
+      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
+        width: 520
+        height: 485
+        isCached: true
 
 secured: "+jeucpop7gUtYqTnEAAfb2mGYFGN+kanfsoegv1DQbimiDHZzLrXYiT0HWhBj0QhyjNCkh9QA1MJYZ5/JUUYjr67qNbUdG9smNNz2w6dCCufG5Gjw/aD0/qeOw7f4WRVhAEu/VYTRvErlknemULTgcHS+vhFIFoEiDQnh4bdiP8/zY7r3M/tX5u8elMyiA/csikKZ/6l2RfeNztrVyCqvTa9CqpgHDC2tquj+NL0bb9x7qyTPsQD57fPTIt4a0l/uw3gNL1c9n2xlZ2fNRHsUu3DUfpos08Ypn9qSoRYFK9rGK5NP4VA/Od7oC/4h9bNz2ffg9ISbBkcn3qi9Hu4Zahjo3Y71nN3cRfTO6203OPw8OH3tvdjB+UiLwytyqKZjiustiPx/RkoYFLJkW6M5/ZoSHNVLIzfwYKUo9oMmFLF2o03qQU68Z9H0zM4VOdTispCubroaJAOEpqkOdmntMLwUhm8nE6F4GjufzQGf/nJCsUDTb80q7yS+R2f4Gw/W5PcFu7UCfDaubWISisunw==;zA6d50fvkuSvCXi8jXSdDw=="
 ---

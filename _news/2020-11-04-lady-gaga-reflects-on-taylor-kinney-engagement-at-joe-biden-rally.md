@@ -59,6 +59,38 @@ related:
         width: 1024
         height: 717
         isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential nominee Joe Biden speaks on election night from Wilmington, Del.The event is scheduled to begin at 12:45 a.m. EST.Watch the live video above."
+    publishedDateTime: 2020-11-04T05:37:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524390-watch-live-biden-speaks-from-delaware?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10282020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Watch live: Biden speaks from Delaware"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks from Wilmington, Del.The event is scheduled to begin at 4:15 p.m.Watch the live video above."
+    publishedDateTime: 2020-11-05T21:21:00Z
+    webUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware"
+    ampWebUrl: "https://thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/524685-watch-live-biden-speaks-from-delaware?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_11042020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Early reaction from Florida: Biden lost ground with crucial Cuban voters"
     excerpt: "Dade, Florida's most populous county, show Democrat Biden underperforming when compared to Hillary Clinton's election totals in 2016. Political analysts on the ground saw signs of a new phenomenon: Some Hispanic voters,"
     publishedDateTime: 2020-11-04T06:10:00Z
@@ -107,22 +139,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
-    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
-    publishedDateTime: 2020-10-24T21:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 68
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Joe Scarborough Says Biden Struggling with Florida Hispanics: ‘Especially Latino Men’"
     excerpt: "MSNBC host and former Congressman Joe Scarborough said Democratic presidential nominee Joe Biden needs to improve his share of the vote among Florida Hispanics in order to win the state."
     publishedDateTime: 2020-10-29T15:07:00Z
@@ -139,6 +155,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Remarks at Voter Mobilization Event in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a voter mobilization event in Miramar, Florida."
+    publishedDateTime: 2020-10-29T14:11:00Z
+    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-remarks-voter-mobilization-event-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "37qsG4jNnXaAuqRefju9qS5pLCx9M45/dKNgonJqCEkpBtT3zwoYyTr6mJgAt79yRxn0tye+E0oHBv6A23O4B9/kWPfIUK65zvgpDixYyvgR19RSFMlpaT0ydD9F30lHKG9LaagaOSUbBFY3iC6U3v8PGcDhWt5NoglPisgOCpo7kakSKeSz4Wh+c/8GWva6CbhdgQ6MJQ4dyCxRVs2TZ3Mu7641eMKPsA2g6Ay2g2Z5NNfO2s4VmdwOUqEJGC+u/ZQJD+HI/bv9V3NZ09AMG+pQyBbB9yflSEGqP991+rrrk9HNLJa26h/GRb2ZH+6JlsPVnY0OzxTrL+AXAJ4QCIbmo07cXRWRFyNTk7GVU4U=;XOm1T4qRSo8mPxP4gtx7+A=="
 ---

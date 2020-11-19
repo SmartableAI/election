@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
-    excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
-    publishedDateTime: 2020-11-13T22:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZtJjpUBiWE/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "FLASHBACK: All the times Cuomo expressed skepticism of Trump coronavirus vaccine"
     excerpt: "New York Gov. Andrew Cuomo has repeatedly questioned President Trump’s political motives regarding a coronavirus vaccine and its credibility under his leadership."
     publishedDateTime: 2020-11-15T20:20:21Z
@@ -92,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "NY doctor slams Gov. Cuomo for doubting potential coronavirus vaccine touted by Trump"
+    excerpt: "New York Gov. Andrew Cuomo casting doubt about the coronavirus vaccine because it happened under President Trump's leadership is \"disheartening\" and threatens his credibility, a doctor who has treated critically ill COVID-19 patients in New York City said Saturday."
+    publishedDateTime: 2020-11-14T17:16:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8CfoQCDC3k/vaccine-coronavirus-trump-cuomo-doctor-new-york"
+    ampWebUrl: "https://www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

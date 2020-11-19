@@ -45,6 +45,22 @@ related:
         width: 3256
         height: 2163
         isCached: true
+  - title: "MAGA mean kids want you to be nice to them about Trump losing"
+    excerpt: "Trump's media bullies delighted in \"Leftist Tears.\" Now that Trump lost, they demand we be sensitive to their feelings and entertain wild fantasies."
+    publishedDateTime: 2020-11-10T16:15:00Z
+    webUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/maga-media-mean-kids-want-you-nice-trump-losing-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5faaaa471df1d50018219d0d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
     excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
     publishedDateTime: 2020-11-08T16:58:00Z
@@ -76,20 +92,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BABJHWE75EI6VPQGV5KRJ3QDQU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
-    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
-    publishedDateTime: 2020-11-12T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
     excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"

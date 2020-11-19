@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rick Scott makes 'six-figure' ad buy for Trump in Florida: Report"
+    excerpt: "The pro-Trump ads will run in six to eight Florida media markets"
+    publishedDateTime: 2020-10-29T01:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vm_efSe-LhU/rick-scott-florida-trump-ad-buy-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-florida-trump-ad-buy-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2174a7ee-e71a-459c-82e5-f8cb397e2ee5/c8774beb-3e04-4d52-bb28-8b1db2d46535/1280x720/match/image.jpg"
+        width: 1280
+        height: 718
+        isCached: true
   - title: "Sen. Rick Scott says Hispanics will help Trump win Florida"
     excerpt: "Hispanic voters are going to help President Trump win Florida in the 2020 presidential election, Sen. Rick Scott, R-Fla., said on Monday."
     publishedDateTime: 2020-11-02T19:16:22Z
@@ -79,65 +95,17 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Karl Rove says Trump outperforming polls was 'remarkable achievement'"
-    excerpt: "President Trump went out with a bang in the 2020 presidential election as he defied all polling projections, Fox News contributor Karl Rove said on Monday."
-    publishedDateTime: 2020-11-09T17:13:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RdB1_PC5-MI/karl-rove-trump-outperforming-polls-incredible"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-outperforming-polls-incredible.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County"
-    excerpt: "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population."
-    publishedDateTime: 2020-11-04T18:47:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
-    excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
-    publishedDateTime: 2020-11-09T21:54:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jbXG97U6KZ0/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump's support from Black, Hispanic voters grows from 2016"
-    excerpt: "President Trump’s support among Black and Hispanic voters in the 2020 election appears to have grown since 2016 -- even as he lost support among White voters, according to a Fox News Voter Analysis."
-    publishedDateTime: 2020-11-05T18:28:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-S5oCQvW1g4/trump-black-hispanic-voters-support-grows-from-2016"
+  - title: "Trump gains in Florida polls despite Democrats lead in early voting"
+    excerpt: "President Trump is leading for the first time in Florida polling, according to Real Clear Politics on Tuesday, even as Democrats lead in early voting."
+    publishedDateTime: 2020-10-28T01:17:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/96MEjXZ5sOA/trump-gains-in-florida-polls-despite-democrats-lead-in-early-voting"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30612983-5295-4b6e-845c-e60d5be95cd3/dd15e1f5-fb42-4c4f-9d16-4e5de54c9e73/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -154,22 +122,6 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Melania-Trump-Getty-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "John Leguizamo bashes Florida 'lemmings' after the state was called for Donald Trump in the 2020 election"
-    excerpt: "John Leguizamo bashed Floridians after the state was called for Donald Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-05T13:28:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-leguizamo-bashed-florida-lemmings-state-called-donald-trump-2020-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/John-Leguizamo.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

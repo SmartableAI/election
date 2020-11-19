@@ -29,85 +29,147 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook manually limited New York Post Hunter Biden story: Report"
-    excerpt: "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show."
-    publishedDateTime: 2020-10-30T23:00:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:12:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
-    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
-    publishedDateTime: 2020-11-02T17:07:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMQcrWQeZ3s/twitter-doctored-video-biden-minnesota-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+  - title: "Progressives eye top economic posts in potential Biden cabinet"
+    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
+    publishedDateTime: 2020-10-30T01:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama, Biden to make first joint appearance in Michigan"
+    excerpt: "Democrats are bringing their firepower to Michigan, the critical swing state that helped seal President Trump's 2016 victory. "
+    publishedDateTime: 2020-10-31T17:11:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
+    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
+    publishedDateTime: 2020-10-25T19:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Cook Political Report editor: Time to 'sound the alarm' on Biden's likely victory"
-    excerpt: "Dave Wasserman, US House editor for Cook Political Report, said Tuesday it's time to \"sound the alarm\" that Joe Biden is likely to be the next President of the United States. "
-    publishedDateTime: 2020-10-28T02:02:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u_sFWI_ZIwc/cook-political-report-biden-victory"
-    ampWebUrl: "https://www.foxnews.com/politics/cook-political-report-biden-victory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cook-political-report-biden-victory.amp"
+  - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
+    excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
+    publishedDateTime: 2020-10-22T13:50:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ga-sgS2j8jA/joe-biden-on-court-packing-60-minutes"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20296066937983-e1603462593267.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP-barrett.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Twitter CEO Dorsey pressed by Cruz on restricting Hunter Biden stories: 'Who the hell elected you?'"
-    excerpt: "Sen. Ted Cruz, R-Texas, ripped into Twitter CEO Jack Dorsey, accusing him and his social media platform of improperly censoring reporting from the New York Post that reflected poorly on Joe Biden, despite not acting consistently regarding stories about President Trump."
-    publishedDateTime: 2020-10-28T16:27:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uY-TQeHpTN8/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-grills-twitter-ceo-dorsey-restricting-hunter-biden-stories.amp"
+  - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
+    excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"
+    publishedDateTime: 2020-11-02T00:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a75ac2c0-3ff6-4df6-9779-60be2371201e/3bfc2233-b79f-4a7c-b21e-48a5e273e900/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Twitter flags doctored video purportedly showing Biden addressing wrong state"
-    excerpt: "A since-deleted doctored video of 2020 Democratic nominee Joe Biden made the rounds on Twitter over the weekend."
-    publishedDateTime: 2020-11-02T17:12:00Z
-    webUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-doctored-video-biden-minnesota-florida.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:15:00Z
+    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20304801129214.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
+    excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
+    publishedDateTime: 2020-11-03T23:25:00Z
+    webUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b9f7b35-9c4c-4a96-9f4a-6ae787d28f60/ff0296af-0333-4f3c-842f-95a9656028a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "YFlkIrM25cOdG5PiaL5esHTj0w4T5siQ7W6IkS/cn/wWz25Ji6ZPghMQX+maekASB1+gus4DWwpFNqVnW3ayuMdJiOXHkz5BL9rSJ7UTTiYORRVYkVDzJoFd/KNCSV64sRtdPjziE/1VmuJWGBKhqdn/5pQ0AbtunGTJbcsT84jYRp/8QZDW2XuJV8IUFOAtmG8DG6yJWz81dbpqzg/CCHRzUEOsGQf8W8MHakRoFAe4RzSn3v38v3Z2gMU5TGrCLg89y8uyWS86jIMrmMC47q51GlnBX5MHcXWNvyf4mmhdkPVu1Rkr3xXVqODMT/s35lJwZh2QGzwk9yKUNTNZaT06ND0QkPkF0i/HqxLHYLg=;hhiecJKwBMySXzV5xE81ig=="

@@ -47,22 +47,6 @@ related:
         width: 814
         height: 407
         isCached: true
-  - title: "Tucker Carlson Interviews Bin Laden Niece Who Said She’s Gotten More Backlash for Trump Support Than for Her Last Name"
-    excerpt: "Amid the thousands and thousands of news cycles in the past few months, you may have missed that back in September, Noor bin Ladin — niece of Osama bin Laden — endorsed President Donald Trump for reelection."
-    publishedDateTime: 2020-10-17T18:05:00Z
-    webUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/"
-    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-interviews-bin-laden-niece-who-said-shes-gotten-more-backlash-for-trump-support-than-for-her-last-name/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 51
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Tucker-Carlson-Noor-bin-Ladin-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
     excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
     publishedDateTime: 2020-10-22T22:55:00Z

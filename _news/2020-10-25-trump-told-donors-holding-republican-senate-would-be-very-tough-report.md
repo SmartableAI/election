@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-donors-republican-senate-very
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-donors-republican-senate-very-tough.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 533
     isCached: true
-
-related:
-  - title: "FBI, Mueller received Trump transition records from GSA in secret: Senate report"
-    excerpt: "Former Special Counsel Robert Mueller and the FBI gained access to Trump transition team records during their Russia investigation through the General Services Administration, according to a report from Senate Republicans."
-    publishedDateTime: 2020-10-24T09:41:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8I-mIYYKgt8/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report"
-    ampWebUrl: "https://www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/258329fb-0604-4640-8978-fb5d8bba0899/3b283e69-2893-40dc-88b6-aba91f19b82d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KPeR/9p0NCOSQDRo/RkrR/X/kDX5Wo7+1Y6rGOwGnjiv9sRQvunrcyb3qZOBoj6uqd/dG4sduF7Bh6Gnad8gBzsDVOqlHML1wIpLExUFJZT4Gvuv94albEx+VPdfbmhfZIBwajfsPCZ7m0ah524UZ3H1//tWaZz0hK7N7XFPrthJigTx1wA3PoNIrsxfrGS6uz0YMbU2zGECrfMlZ7UdXob1MeoSTNIMQMATiJtIdMYio0bGB9BnaZ+NEx7lEHsbIn8PYHL4WK/FyTIeLN00UvCaY+u55M8y+eJ47ovxIjI/g8+hwMoJmQU+dAhhMbMecocDoGtqpzDEXMqFmzXu67IlGsewKOLsyqLmTzPGcw8=;+5zSf4GTiimEWBGqFBKRdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
-    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
-    publishedDateTime: 2020-10-21T13:00:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 55
   - title: "Pence drops by New Hampshire to read teleprompter"
     excerpt: "The vice president will never be accused of being a great orator, or terribly inspiring on the stump. And he didn’t exceed expectations Wednesday. Even when he adopts a folksy tone à la George W. Bush,"
     publishedDateTime: 2020-10-21T21:46:00Z

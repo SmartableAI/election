@@ -39,6 +39,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
+    excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
+    publishedDateTime: 2020-10-21T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/21/trump-biden-debate-curve-grade-on-truth-facts-fitness-column/5991855002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991855002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991855002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/ce9bad06-224d-4cde-889b-6541e32030b5-GTY_1281118864.jpg?auto=webp&crop=5055,2843,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Wants NYPD To Let Officer Who Proclaimed ‘Trump 2020’ Over Police Horn To Return To Work"
     excerpt: "President Donald Trump voiced his support for a New York Police Department officer who was suspended Sunday for saying \"Trump 2020\" over a patrol vehicle's loudspeaker while on duty, with Trump tweeting \"Get that great Officer back to work!"
     publishedDateTime: 2020-10-27T17:30:00Z
@@ -55,22 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ice Cube Explains Why He Worked With Donald Trump’s Team, But Draws Pushback In Heat Of 2020 Presidential Race"
-    excerpt: "When a senior adviser to Donald Trump’s presidential campaign thanked Ice Cube for working with the White House on a plan for Black America, it immediately triggered questions of who he was"
-    publishedDateTime: 2020-10-15T02:30:00Z
-    webUrl: "https://deadline.com/2020/10/ice-cube-donald-trump-joe-biden-1234597770/"
-    ampWebUrl: "https://deadline.com/2020/10/ice-cube-donald-trump-joe-biden-1234597770/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/ice-cube-donald-trump-joe-biden-1234597770/amp/"
+  - title: "Trump Says Sudan to Be Removed From Terrorism List"
+    excerpt: "President Donald Trump says Sudan will be removed from the U.S. list of state sponsors of terrorism, a move that would open the door for the African country to get the international loans and aid that are essential for reviving its battered economy and rescuing the country’s transition to democracy."
+    publishedDateTime: 2020-10-20T01:21:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-19/trump-says-sudan-will-be-removed-from-terrorism-list"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 55
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_19077416721764.jpg?w=1024"
-        width: 1024
-        height: 731
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Hs3CXsq7Dy/HjCDkIihuP/YD3B42mnrkWsSiek2ooJb1RL4TWo5ADexK59oFzjwsPGSfW6dovv08d/Dd9/xOHzIfpA6WRcsHJsSqnXaqnveQWwE01iLCv9bNOOUdDgxUTynHu6WK+lcmJ7PsFaHYkc6iG58ZIudOFxdZGMbNWC2D/GuzTbXQYLr2sTF9fva/4/hpSMQDlIXnNtNYoJBdKqZD9Yd2LmjIOGcYLr9HssCor7ZjpVlU8ABEENeEFFGl/vTvXio3WLHEfHj3/HKI5vR9cOEMsZPXsNhgybgJGrIMtESCo2IoZ7kM4QMl5wlTlA8cXUG3cZN3GVdLfGhqDJA+yXDPcI9NrLGD3XFXF7c=;wXDcLGQcgqAgukadQq/yqQ=="
 ---

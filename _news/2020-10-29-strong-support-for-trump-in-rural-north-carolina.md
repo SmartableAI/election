@@ -29,113 +29,116 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters rally at US Embassy in Jerusalem"
-    excerpt: "A convoy of cars decorated with American flags and Trump 2020 banners drove from Tel Aviv to Jerusalem, holding a rally outside the U.S. Embassy in support of the American president ahead of next week"
-    publishedDateTime: 2020-10-27T18:38:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-supporters-rally-us-embassy-jerusalem-73861040"
+  - title: "Report: Trump Paid Nearly $200,000 In Taxes To China"
+    excerpt: "A report from the New York Times reveals a decade of Donald Trump’s unsuccessful business activities in China, including an undisclosed bank account that paid nearly $200,000 in taxes, undermining his own exaggerated claims of Hunter Biden’s business dealings there,"
+    publishedDateTime: 2020-10-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_33227a247da641f9860ed82b53e0118f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9011cc4e3fc4181ce3e597%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1994"
+        width: 1199
+        height: 799
         isCached: true
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Bullhead City, Arizona"
-    excerpt: "Trump weighed in on two nights of clashes with Philadelphia police and store break-ins following the fatal shooting by police of Walter Wallace Jr."
-    publishedDateTime: 2020-10-28T18:57:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
+  - title: "Alleged China-Fighter Donald Trump Has Secret Chinese Bank Account"
+    excerpt: "Another big scandal — and huge conflict of interest — has surfaced from the tax returns obtained by the New York Times."
+    publishedDateTime: 2020-10-21T03:03:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "WATCH: Trump speaks at campaign rally in Goodyear, Arizona"
-    excerpt: "Trump paused his campaign speech in Bullhead City, Arizona to admire what he identified as a fighter jet flying by."
-    publishedDateTime: 2020-10-28T23:17:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-bullhead-city-arizona"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-11T023606Z_1406756087_RC22WI9SJAA6_RTRMADP_3_USA-ELECTION-TRUMP-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
-    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
-    publishedDateTime: 2020-10-21T17:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
-    excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
-    publishedDateTime: 2020-10-29T22:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-live-trump-holds-thursday-rally-in-tampa/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 75
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1272406110-1200x801.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/a51/9c0/644d15d0ac07c959530778ef6a92348a81-president-trump-in-China.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 801
+        height: 632
         isCached: true
-  - title: "WATCH: Thousands of Trump Fans Stranded in Freezing Cold Hours After Nebraska Rally, 7 Reportedly Hospitalized"
-    excerpt: "Thousands of supporters were stranded in the freezing cold following President Donald Trump's rally in Nebraska due to a shortage of buses, including at least seven who were reportedly hospitaliz"
-    publishedDateTime: 2020-10-28T11:12:00Z
-    webUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-thousands-of-trump-fans-stranded-in-freezing-cold-hours-after-nebraska-rally-7-reportedly-hospitalized/amp/"
+  - title: "F-16 Intercepts Plane Flying Close To Trump Rally, Deploys Signal Flares"
+    excerpt: "The U.S. Federal Aviation Administration had placed the airspace that the unauthorized plane flew into under temporary restriction due to Trump's campaign rally."
+    publishedDateTime: 2020-10-29T03:38:00Z
+    webUrl: "https://www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160"
+    ampWebUrl: "https://www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/f-16-intercepts-plane-flying-close-trump-rally-deploys-signal-flares-3072160?amp=1"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 55
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Omaha-stranded.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/11/pakistan-has-a-fleet-of-about-50-f.jpg"
+        width: 1024
+        height: 563
         isCached: true
-  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
-    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
-    publishedDateTime: 2020-10-29T22:52:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+  - title: "Trump ‘is hemorrhaging support’ and is flailing badly to win it back: reporter"
+    excerpt: "President Donald Trump is trailing Democratic rival Joe Biden in the polls, and one veteran journalist said that he seems clueless about how to stop the bleeding. Journalist Alex Wagner, the host of Showtime’s “The Circus,"
+    publishedDateTime: 2020-10-21T12:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/01/Trump-Justin-Follett-2-e1552430064870-764x430.jpg"
+        width: 764
+        height: 430
+        isCached: true
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
+        isCached: true
+  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
+    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
+    publishedDateTime: 2020-10-20T11:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 64
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Report: Donald Trump, Grifter Incarnate, Charges Taxpayers for Water He Drinks at Mar-a-Lago"
+    excerpt: "Should the results be contested—and Trump has made it clear he hopes they will be—Justice Beer Bong has a plan: Moments before Amy Coney Barrett was confirmed as Donald Trump’s third ..."
+    publishedDateTime: 2020-10-27T00:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-mar-a-lago-water/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 64
+    images:
+      - url: "https://media.vanityfair.com/photos/591c80a99f80a24c7fb1c174/master/pass/Trump-Mansion-Sell.jpg"
+        width: 1544
+        height: 1029
+        isCached: true
 
 secured: "1yvoNitX44NF1eOwm5co+wZqx4mNpl1I2NGW53LqurUTk3GBq3Yw8IUM2rFV7DELu4ufAkKZF22ZJEaeV9U2/q23qnUFggY1lxfpU5YzBTel1LWB0AwA7yE2nszSxXDfewawl5ILEZ9sOKDV0vpvDXCWwl7ymOjo2o0cVOxvPyLTWI6S0kUpaBg8woPhYB2LEAQZg32xfwOVMLaEju6cKBPgIYRZrhHKtC4NH5TJg8otfgPyZRXw+OynLiTBNQchr4VKH/VTCa0mZYFI1ODutC+nOqMealotRn8ZBQDt5jJ2AHQELASow/ZXTTUPDJZigtOMbAdvUPeJdQpG2a3hhGk5lIWMjHVdCnjMpJFd9jU=;KnayF/C5Q4euQXbZ0/q35w=="
 ---

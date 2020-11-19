@@ -21,53 +21,99 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
-    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
-    publishedDateTime: 2020-10-22T17:39:00Z
-    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump made many promises in 2016 and early in his term. Which has he kept and what is he still working on?"
-    excerpt: "But not on others such as bringing back coal and replacing Obamacare. Trump: Biden against 'oil, guns and God' President Donald Trump says he's not a politician. As proof, the real estate developer points to the promises he made both on the 2016 campaign ..."
-    publishedDateTime: 2020-10-27T14:18:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/politics/elections/2020/10/27/trump-campaign-promises-judges-wall-health-care-did-he-deliver/5927100002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5927100002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927100002"
+  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
+    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
+    publishedDateTime: 2020-10-20T08:54:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 104
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/a6cf6981-2aba-49a7-8581-aa5bd30b4748-Promo_art-01.png?auto=webp&crop=864,486,x1000,y802&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Conservative news sites are misleading millions of readers about voter fraud, pushing debunked conspiracy theories amplified by President Trump"
-    excerpt: "Right-leaning news sites with millions of readers have published dozens of false or misleading headlines and articles that back unsubstantiated claims by President Donald Trump on voter fraud."
-    publishedDateTime: 2020-10-25T18:18:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-conservative-media-voter-fraud-misinformation-20201025-igkbg6qbpraufboetf7pxq6o74-story.html?outputType=amp"
+  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
+    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
+    publishedDateTime: 2020-10-21T03:28:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 89
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://www.chicagotribune.com/resizer/i9c1o9nbm-hxcciyCgULDOsWMnM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ONYTZMGAMNHETHSZOHDVVCXTKU.aspx"
+      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
+    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
+    publishedDateTime: 2020-10-20T10:04:00Z
+    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Mike Pence plans Trump campaign rally in Oakland County Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a campaign rally for President Donald Trump in Michigan this week. Pence plans to host a campaign rally in Oakland County on Thursday. The Trump campaign did not provide additional details Monday afternoon."
+    publishedDateTime: 2020-10-19T18:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WLTW56MQKBEXVP7X63FNRRCXLU.JPG"
+        width: 917
+        height: 688
+        isCached: true
+  - title: "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey"
+    excerpt: "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?"
+    publishedDateTime: 2020-10-20T13:35:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5988271002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/55052bf3-daaf-4435-a4a0-1ed3baf804a5-AP20293762278951.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
+    publishedDateTime: 2020-10-23T17:53:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OKWmU3KyZeRWLEmHd3p9stj/WkC1irdxuqF2Zf1JjtgfjXBN+jsy0lxP7q/yYTTKKEX+adlFOXgVe0inptyC4Yrv2drFGjM8UJvExrnllHjL0hg9wlSCfE59NkIMTYd/V/xn8yJ07r0Xus0nX7sPWb1SMkfbnrqBS4tKSm6KB1++OT8a0UiaqTLlzelGoJbNCjMc38Q3jrj6PVQTGKjChawAWjRhmMwPwK50oPF7s9bFK8B6EZ57KvpX4Li+LowV6o8hDR9TN4Jp83ZgVzkqouNYeJCOVFW8zOQJKOhmd3QJVGlyLP1oVdKdYUqhHWUGgpUo+nAfjDPWsdFugdnj84cZbEJYBb1AeSv1wExUSxo=;spbJfpduBRUJZwrIHy2c1Q=="

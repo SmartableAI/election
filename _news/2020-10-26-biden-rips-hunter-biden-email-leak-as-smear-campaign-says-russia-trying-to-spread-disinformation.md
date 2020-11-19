@@ -32,99 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
-    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T08:03:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+  - title: "Biden counting on press, Big Tech to protect him from answering questions: Cruz"
+    excerpt: "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings."
+    publishedDateTime: 2020-10-21T16:06:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bill McGurn slams 'outrageous behavior' from media suppressing Hunter Biden allegations"
+    excerpt: "After Hunter Biden’s former business associate Tony Bobulinsky gave an interview on Fox News’ “Tucker Carlson Tonight” Tuesday, Wall Street Journal columnist Bill McGurn reacted to the interview pointing out that the story has been covered up by the media and social media companies."
+    publishedDateTime: 2020-10-28T17:38:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zilQIo16iUo/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-mcgurn-media-cover-up-hunter-biden-emails-tony-bobulinski.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden 'lying to the American people' about son Hunter's business dealings: Rep. Stefanik"
+    excerpt: "Joe Biden is \"lying\" about his son Hunter Biden's business dealings, Rep. Elise Stefanik told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-10-24T13:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xAv-UX9vSi8/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-trump-burisma-business-china-election-trump-new-york-elise-stefanik.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:16:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:12:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+  - title: "Biden's Amtrak trips prompt House Republican scrutiny on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-republican-scrutiny-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 124
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Progressives eye top economic posts in potential Biden cabinet"
-    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
-    publishedDateTime: 2020-10-30T01:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+  - title: "2020 Hindsight on Impeachment Trial and Unravelling Biden Family Business Deals"
+    excerpt: "Failing to get ahead of what has become the drip, drip of new details on Hunter Biden’s business dealings – and the potential ties to his father – could prove"
+    publishedDateTime: 2020-10-28T17:30:00Z
+    webUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952"
+    ampWebUrl: "https://townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/fredlucas/2020/10/28/2020-hindsight-on-impeachment-trial-and-unravelling-biden-family-business-deals-n2578952?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: Townhall
+      domain: townhall.com
+    quality: 81
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden campaign dodges questions about Bobulinski meeting claims, dismisses ‘smear campaign’"
-    excerpt: "The Biden campaign on Thursday again refused to address new allegations about Democratic presidential nominee Joe Biden’s alleged role in his son’s business dealings, dismissing the claims as a “smear campaign.”"
-    publishedDateTime: 2020-10-29T22:07:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvUZ0Z8dRBo/biden-questions-bobulinski-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c7dba56-45b1-4fee-9376-8cceaabcc38e/42bb6143-3aa8-475a-96b8-002346f36c9e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
-    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
-    publishedDateTime: 2020-10-27T23:37:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:15:00Z
-    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "GFGJHrACqoBwt1jRsFlq2DDT3d1uk/7VKT4oAFAUReTct5D29JKQALgp3dDm0DNz/QbdKBGDnk2IlvTrFK1w8XBdvNByfCpXjuwfqn80qY6mYU6j+B3zOEjPKcaQyXoQ51tE4lzEOLCCZkVQRdeBXP6CyjOY5fXIwWbgQcIlm2P2bJ0GC23AwrkiYkXSdyQsvb0BGFs+eLotiWbi4AuXpwTP+6akIyeDF6o9nWhLtm+6LytIpEBMOezrLRp61fXnPYOqqJ1BZhsmXpPc4o8N/2+W4swN9J2IdAVWMZTlWyMzL9Im2XE1PhqjcHQLmTV10F/5NecZTvOnwEVf4+8+jyzXgLtjIvyZSD/wg6TJzXBMRhto1ORmcXNdlTFEcvlFrZw+oyTHjLFVr7Fn9NpMxYZk4QUDj5dt9tDNmBGgnYg2uHaQzX12zui4OSMJZMW1a7QQI9uKqEgsvYGRb0y3MWjMk4PPL+jKOVgYqcbsOJyV/1MOV8efOfQaKVLRVpG4wurV3tYnA2Bd1oWp/W2sng==;eZ+XdoF9Zsnu0tADpXrHDQ=="

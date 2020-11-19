@@ -77,22 +77,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump Sons Hint At 2024 Runs As President’s Polling Looks Dire"
-    excerpt: "A number of prominent Republicans, including Trump allies, have made trips to early primary states amid the ongoing 2020 election."
-    publishedDateTime: 2020-10-24T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f943e3b7a08c6884f937002%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3617%26cropY1%3D340%26cropY2%3D2633"
-        width: 1200
-        height: 761
-        isCached: true
   - title: "Minority pushes Trump agenda largely unpopular among tribes"
     excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
     publishedDateTime: 2020-10-24T17:57:00Z
@@ -109,21 +93,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "What to make of the 'kinder, gentler' Donald Trump"
-    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
-    publishedDateTime: 2020-10-25T17:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
-    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
+  - title: "Kamala Harris fires back at President Trump and other Republicans who mockingly mispronounce her name"
+    excerpt: "Mispronouncing Harris' name has become one of President Trump's frequent jokes at his campaign rallies."
+    publishedDateTime: 2020-10-31T14:48:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.insider.com/5f9d610969331a0011bc68dd?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "President Donald Trump handily wins Kentucky once again"
     excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
@@ -187,47 +171,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
-    excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
-    publishedDateTime: 2020-10-24T22:29:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-donald-trump-votes-2020-election-20201024-spapuvis2jbppjzvkuhbknoocu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
-    images:
-      - url: "https://www.chicagotribune.com/resizer/KgzswDY0nyTc_DHTjjDMvp_i5VY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IAWGT7FNMS4XFPH4KLRRHBJQGQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Donald Trump's Presidency Has Changed The Media"
-    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
-    publishedDateTime: 2020-10-25T11:51:00Z
-    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Foreign students show less zeal for US since Trump took over"
-    excerpt: "On a recruiting trip to India’s tech hub of Bangalore, Alan Cramb, the president of a reputable Chicago university, answered questions not just about dorms or tuition but also American work visas."
-    publishedDateTime: 2020-10-25T22:47:00Z
-    webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "CBS News projects Pres. Trump wins Indiana"
     excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-04T02:47:00Z
@@ -268,22 +211,6 @@ related:
       - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Vice-President Mike Pence to miss Trump Supreme Court vote"
-    excerpt: "President Mike Pence is expected to miss a vote confirming Donald Trump's Supreme Court nominee, his aides have said. Mr Pence will reportedly stay in Minnesota where he is campaigning. Democrats are trying desperately to delay the vote as the Republican-controlled Senate nears confirmation."
-    publishedDateTime: 2020-10-26T23:15:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54693599"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54693599"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54693599"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 90
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/100E7/production/_115076756_acbindex.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Mike Pence: ‘Show them Michigan is Trump country’"
     excerpt: "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,"
@@ -332,6 +259,22 @@ related:
       - url: "https://www.dailypress.com/resizer/ViTXaWpsZsnPSk2_BYdQmIIprrM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7O5QYGEJYFLJRZ6GTUVFO5HLA.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "VP Pence, in Arizona, says enthusiasm for Trump greater now than in 2016"
+    excerpt: "PHOENIX — Vice President Mike Pence, campaigning Friday in Arizona ahead of Election Day, believes enthusiasm for President Donald Trump is greater now than it was in 2016. Pence told KTAR News ..."
+    publishedDateTime: 2020-10-30T17:45:00Z
+    webUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/"
+    ampWebUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 89
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
+        width: 620
+        height: 370
         isCached: true
   - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
     excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
@@ -429,6 +372,17 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Mike Pence: The Calm To Trump's Storm"
+    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 70
   - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
     excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
     publishedDateTime: 2020-10-30T13:14:00Z
@@ -445,28 +399,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
-    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
-    publishedDateTime: 2020-10-25T15:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
-    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
-    publishedDateTime: 2020-10-25T12:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
-    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Locals Teed Off About New Trump Golf Course In Scotland"
     excerpt: "On the roof of his house overlooking the sea in northeast Scotland, David Milne stands below a Mexican flag and stares down at a palatial golf clubhouse owned by Donald Trump. Milne has been a major opponent of the development ever since the US president began building the Trump International Golf Links near the village of Balmedie in 2006."
     publishedDateTime: 2020-10-30T04:46:00Z
@@ -517,15 +449,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 40
-  - title: "Denver Groups to Remove Trump Letter From Food-Aid Boxes"
-    excerpt: "A coalition of anti-hunger groups in Denver have been removing letters from President Donald Trump from inside federal food assistance boxes that address recipient families."
-    publishedDateTime: 2020-10-29T15:51:00Z
-    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-29/denver-groups-to-remove-trump-letter-from-food-aid-boxes"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

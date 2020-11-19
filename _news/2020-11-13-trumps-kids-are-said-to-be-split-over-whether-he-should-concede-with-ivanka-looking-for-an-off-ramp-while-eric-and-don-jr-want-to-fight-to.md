@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to break silence with vaccine update after criticism he's ignored pandemic"
-    excerpt: "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic."
-    publishedDateTime: 2020-11-13T22:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
     images:
-      - url: "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "LtV4vcDIYOlRDQ0nm+NRo+hm2klTzTuVqKRx8vDsCZhDYJrCfZLXbt52ao4XA49cjuJgPjvmfnFyNZLFoNWdvrHhp9DPbGc6gxBfmTonY/SXHhq3OaHtNmFHVhQquJY7vgK16CCL1tHOR8lN64ZbOuKus1LigAYt128XcXOqzZjBY6hANcldpumcCM2lVHtHAFMLcYXPKkrYa+yaEbLmRHZgw+PQhpCA77duKCBiz5qWt6upspXbYB63AWU3T7wdNGPZE5X8Q+JPhOHc3H34zqTXf928hHUg9Brj7PS3dNTXjDh8akbQZcMct9MDhDQApgIrmP2b9vhgxhMOy5gvBfhWABSswvZWtQR3ObQtnkU=;P4Y9BPadxdZ68YGvxomL9w=="

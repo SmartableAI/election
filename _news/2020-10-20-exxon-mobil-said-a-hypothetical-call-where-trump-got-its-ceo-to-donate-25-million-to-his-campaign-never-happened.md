@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-c
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
 type: article
 quality: 103
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,52 +31,95 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
-    excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10"
+  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
+    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
+    publishedDateTime: 2020-10-20T08:54:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
-    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
-    publishedDateTime: 2020-10-17T22:54:00Z
-    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
-    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
+    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
+    publishedDateTime: 2020-10-21T03:28:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 66
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+  - title: "Vice President Mike Pence plans Trump campaign rally in Oakland County Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a campaign rally for President Donald Trump in Michigan this week. Pence plans to host a campaign rally in Oakland County on Thursday. The Trump campaign did not provide additional details Monday afternoon."
+    publishedDateTime: 2020-10-19T18:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
+      name: MLive
+      domain: mlive.com
+    quality: 86
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WLTW56MQKBEXVP7X63FNRRCXLU.JPG"
+        width: 917
+        height: 688
         isCached: true
+  - title: "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey"
+    excerpt: "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?"
+    publishedDateTime: 2020-10-20T13:35:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5988271002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/55052bf3-daaf-4435-a4a0-1ed3baf804a5-AP20293762278951.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
+    publishedDateTime: 2020-10-23T17:53:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘Please like me’: Trump asking suburban women to vote, but are they behind him?"
+    excerpt: "Over the past few months of campaigning, U.S. President Donald Trump has been trying to appeal to a demographic he is losing a grip on — suburban women. And according to Clifford Young ..."
+    publishedDateTime: 2020-10-23T03:20:00Z
+    webUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/"
+    ampWebUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
 
 secured: "DRqN6kPU7uvL4jLdx/k1vrBEDl89irZd81lMl3UBLT2BcaqclP19I2r3K/98aGI6Y/8ro2a8tLzJwoYHm6DdG0sRxmuiIxjW0v9ZrAksg2kHwU0pJs5h0GmaBwiKWLVYmndqx+cpAz1PvUsGgz7cbKcYTtQnNtZxg7PBRGCxthWDxY05H72z9XWQ1RCeDBXs14jHNR4Bx1sh+kqxpOrW5HxMoDqh704dc3OjY7v944kKmojsszOsGgYVmNMbBZiC2aqrlolsM664y+OLUKWMCNo2DO2NOQDTC8nSvVZTyZS/eS1uKk+Dtfq818xwFP5GlHVvsobinyUCFWHTbdYfIWlFXVHMOdQulQ7aGVdLMOY=;tCvfBPfKYVZSUmKtsMolcw=="
 ---

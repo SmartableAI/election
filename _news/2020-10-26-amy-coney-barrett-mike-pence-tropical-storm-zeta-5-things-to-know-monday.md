@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amy Coney Barrett's confirmation is the start of Pence's accomplishment of a lifetime"
+    excerpt: "When President Donald Trump and Vice President Mike Pence attended a gathering of social and religious conservatives during the 2016 campaign for the White House, both tried to woo the voting bloc."
+    publishedDateTime: 2020-10-29T10:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/27/amy-coney-barrett-supreme-court-confirmation-abortion-mike-pence/5991035002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5991035002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5991035002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d94c5929-c678-47d5-9e04-569b3d8d692d-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "cw0S1TO6HHy7YJ8fjyaMeMnrQqzZuFp/VDjupJbbGu2OIQ+KHovikRYb80MCSmAp8ZVuOWSkMbNh1mFWQXlZ0XUjtg+Pds9ZYND1Q6mRNZ7ua7QtwU9wffF7o6qylawO5GafV/pJ99QQwoeRMaLJSa532cnLcTr9IPxon3ctyaRK6HLij86FPkQcOYEKks7YYT6dGBH0fmQNtQflB2ctyW5sKIWD0z6rXxxptLK6ob/Dtt4fNwFdn8SB6DuKZIKaVBRJcSB0SM33TYSDkVTK2JxJWtn46C6mkll8hDJZyVeFk8y7wvVwXUmMv/DQdbGug7zR4RpvYd7NtFqrdw/GwnPXIAqmMbp6jbG4vVQ5C5U=;uPJAVZX9DWJITB8oQwa+ag=="
 ---

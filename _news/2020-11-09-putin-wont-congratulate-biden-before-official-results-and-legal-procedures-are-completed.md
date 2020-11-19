@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
-    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
-    publishedDateTime: 2020-11-08T16:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
+  - title: "Australian politics live: Scott Morrison officially congratulates US president-elect Joe Biden"
+    excerpt: "Energy Minister Angus Taylor declared #watergate over, after the Australian National Audit Office reported earlier this year on the government’s $80m purchase of water entitlements from Eastern Australian Agriculture in 2017."
+    publishedDateTime: 2020-11-12T00:41:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news?page=with:block-5fac7f0c8f086b290cc55435"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403"
+        width: 600
+        height: 360
         isCached: true
   - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
     excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."

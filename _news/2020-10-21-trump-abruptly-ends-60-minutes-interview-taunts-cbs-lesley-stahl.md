@@ -160,22 +160,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "QAnon supporters behind canceled Pence fundraiser gave Trump $1 million"
-    excerpt: "The couple made their donation in August before a scheduled fundraiser with Pence was canceled after their promotion of the QAnon conspiracy theory came to light."
-    publishedDateTime: 2020-10-17T13:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/qanon-supporters-behind-canceled-pence-fundraiser-gave-trump-1-million-n1243759"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243759"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243759"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420816/201016-qanon-se-222p_21fd7d7d084c8aa0a512e1925ea27f26.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
   - title: "Lesley Stahl challenges Pence on Trump's '60 Minutes' meltdown"
     excerpt: "\"60 Minutes\" host Lesley Stahl challenged Vice President Pence on President Trump's decision to storm out of his int"
     publishedDateTime: 2020-10-26T04:51:00Z
@@ -191,38 +175,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Donald Trump's Fake Populism"
-    excerpt: "The mess the nation faces is bigger than Donald Trump. If he is voted out in November, the people who cast ballots for him will remain, pining for the policies he promoted. About 40 percent of American voters want tariffs and a border wall."
-    publishedDateTime: 2020-10-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16stockman/merlin_168748716_43a40eab-bb9b-42ae-81b8-b28c2616078f-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Science journal editor calls out Trump administration"
-    excerpt: "H. Holden Thorp wrote that the FDA Commissioner was pressured by the White House to overstate the benefits of convalescent plasma."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.nbcnews.com/science/science-news/science-journal-editor-calls-out-trump-administration-n1243552"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243552"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243552"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420453/201016-stephen-hahn-mn-1125_30f64aa6510cffa45dee1bf96ae50eaa.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "'60 Minutes' bothers Trump with the truth about the economy"
     excerpt: "Trump's insistence that he created the strongest economy in history is demonstrably ridiculous, and insisting otherwise doesn't turn fiction into fact."

@@ -61,20 +61,20 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Analysis: A newly restrained Trump faces the same old problems"
-    excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
-    publishedDateTime: 2020-10-23T06:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-analysis-idUSKBN2780M0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780M0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780M0"
+  - title: "Trump sticks to re-election rally strategy as COVID-19 roars back in U.S"
+    excerpt: "With less than a week of voting left, President Donald Trump pushed ahead on Wednesday with mass rallies despite a U.S. surge in COVID-19 cases and mounting criticism that he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/with-six-days-left-in-race-trump-heads-to-arizona-and-biden-delivers-covid-19-speech-idUKKBN27D0FG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27D0FG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27D0FG"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 139
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538560388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0D0"
-        width: 703
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539136962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R08B"
+        width: 817
         height: 545
         isCached: true
   - title: "AP Explains: What's next for Trump's Supreme Court nominee"
@@ -93,54 +93,33 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "UK-US trade pact opposed with Trump, cows and pigs as props"
-    excerpt: "Demonstrators dressed as chickens, a cow and President Donald Trump gathered near the Houses of Parliament to protest a proposed U.S.-U.K. trade deal that activists say will lower food standards"
-    publishedDateTime: 2020-10-24T13:29:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/uk-us-trade-pact-opposed-trump-cows-pigs-73804135"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_e8ab5ff369224d3fa5c863ea6681009a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fact Checkers Say Trump Built A Wall Of False Claims On Immigration"
-    excerpt: "Washington Post fact checkers find Donald Trump has made more false or misleading statements about immigration than any other issue."
-    publishedDateTime: 2020-10-26T04:13:00Z
-    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/"
-    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/10/26/fact-checkers-say-trump-built-a-wall-of-false-claims-on-immigration/amp/"
+  - title: "Industries To Invest In When President Trump Is Reelected"
+    excerpt: "Looking for an investment edge in your retirement account following the election? The reelection of President Trump is likely to benefit stocks in these industries."
+    publishedDateTime: 2020-10-27T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/"
+    ampWebUrl: "https://www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriscarosa/2020/10/27/industries-to-invest-in-when-president-trump-is-reelected/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f696e289718d032d07249a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5990%26cropY1%3D0%26cropY2%3D3369"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9799710fd1b76a1a9b8a05%2F0x0.jpg%3FcropX1%3D16%26cropX2%3D6000%26cropY1%3D76%26cropY2%3D3441"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump claimed during the debate the GOP will take back the House on Election Day. That is unlikely."
-    excerpt: "\"I think we're going to win the House,\" President Trump said of Republicans during the debate. That is contrary to what most election experts think."
-    publishedDateTime: 2020-10-24T15:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+  - title: "Trump officials tout progress on border wall before election"
+    excerpt: "Top Trump administration officials visited Texas five days before Election Day to announce they have nearly completed 400 miles of U.S.-Mexico border wall, trying to show progress on perhaps the president's best-known campaign promise four years ago."
+    publishedDateTime: 2020-10-29T20:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-tout-progress-on-border-wall-before-election-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "President Trump Suggests He Will Fire Dr. Fauci After the Election"
     excerpt: "(OPA-LOCKA, Fla.) — President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens ..."
     publishedDateTime: 2020-11-01T00:00:00Z
@@ -187,20 +166,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "How the Trump Campaign is Trying to Suppress the Black Vote"
-    excerpt: "Trump has a tendency to say the quiet part out loud, but in Wilmington, he was practically shouting that not all votes are created equal. And in North Carolina in particular, that means one thing: suppress Black voters."
-    publishedDateTime: 2020-10-22T11:42:00Z
-    webUrl: "https://time.com/5902729/black-voter-suppression-2020/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/black-voter-suppression-2020.jpg"
-        width: 2400
-        height: 1482
-        isCached: true
   - title: "Judge: US can't replace Trump in columnist's slander suit"
     excerpt: "A federal judge on Tuesday denied President Donald Trump's request that he be replaced as the defendant in a defamation lawsuit alleging he raped a woman in a Manhattan department store in the 1990s."
     publishedDateTime: 2020-10-27T20:40:00Z
@@ -212,17 +177,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
-    excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
-    publishedDateTime: 2020-10-24T16:02:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "JbPXcGs3iv7E5L5X/RJpKBczFVOU7jgrwMWWRde7fkWOz8AmXsnXW3Lvf60Eujkyu4k5npPbRTI4cbVXebqGR0+67JoH0XMsEM+Hd9FcTYZFSTlB3BaAbXruYN0fzspmBOaiO2yLb+7j71hc+YWSbPcr4KLZ8L3pirqUkSbxBMDVXc/NdnsHWjGJ7xjeWislktyafWtYGHvXeJ2fMxAhbMicmEbLj60bzLzPjixrOCVV++gAGyUZIFAzjGzZoTBMKhkGMOpvNn7etWmkoklT67DMO00jraMF1WICuOdyIgIGD2z8fb3/SBA5MdPSG/YjLD31CypAxT8atUgIJcgXmNLg1gDz/pptr2lyB+zQHsw=;wlacn5i2NaCwKWxn0dv55A=="
 ---

@@ -29,28 +29,12 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
-    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
-    publishedDateTime: 2020-10-29T10:35:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 132
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Boat parades, road rallies buoy Trump and his supporters"
-    excerpt: "Soon he was leading nearly 300 combines and tractors pulling hay wagons and manure spreaders through the western Ohio village of Fort Recovery, one of many parades nationwide organized by a swell of grassroots supporters for President Donald Trump."
-    publishedDateTime: 2020-10-24T15:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/boat-parades-road-rallies-buoy-trump-and-his-supporters/2020/10/24/1c60470c-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump’s agenda in areas long considered Democratic territory"
+    publishedDateTime: 2020-10-24T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/minority-pushes-trump-agenda-largely-unpopular-among-tribes/2020/10/24/be682fd8-160a-11eb-a258-614acf2b906d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -61,149 +45,216 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump celebrates at White House as Supreme Court nominee confirmed"
-    excerpt: "President Donald Trump reveled in one of his signature achievements on Monday at a White House ceremony to celebrate U.S. Senate confirmation of his third Supreme Court nominee, Amy Coney Barrett, eight days before the election."
-    publishedDateTime: 2020-10-27T04:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-idINKBN27A0CX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27A0CX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27A0CX"
+  - title: "Here’s Why Massive Rallies May Do Trump More Harm Than Good"
+    excerpt: "Polls show the tightly-packed events are unpopular – and potentially damaging to Trump – as concerns abound over the spread of coronavirus."
+    publishedDateTime: 2020-10-29T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/heres-why-massive-rallies-may-do-trump-more-harm-than-good/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538916881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q02G"
-        width: 777
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b2c831150bf866feb830e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D0%26cropY2%3D2531"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump Pins Hopes on Rallies That Could Be Sealing His Defeat"
-    excerpt: "President Donald Trump’s push for a second poll-defying victory is relying on a hallmark of his first -- raucous campaign rallies that Trump sees as a crucial sign of voter enthusiasm but that ..."
-    publishedDateTime: 2020-10-27T08:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+  - title: "West Virginia voters laud Trump for trying to save coal"
+    excerpt: "Four years after Donald Trump donned a miner’s helmet at a West Virginia campaign rally and vowed to save a dying industry, coal has not come roaring back"
+    publishedDateTime: 2020-10-30T06:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/west-virginia-voters-laud-trump-save-coal-73919061"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiKt14agS3Io/v0/360x-1.jpg"
-        width: 360
-        height: 230
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump remakes Supreme Court as Senate confirms Amy Coney Barrett"
-    excerpt: "The Republican-led U.S. Senate handed President Donald Trump a major pre-election political victory on Monday by confirming his Supreme Court nominee Amy Coney Barrett as he delivered a dramatic conservative overhaul of the nation's top judicial body."
-    publishedDateTime: 2020-10-27T00:30:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN27C00H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C00H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C00H"
+  - title: "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole"
+    excerpt: "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false."
+    publishedDateTime: 2020-10-20T14:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1538910364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q009"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
-    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
-    publishedDateTime: 2020-11-02T16:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
+  - title: "Donald Trump triumphantly returns to Arizona to celebrate the 'end' of the pandemic"
+    excerpt: "Ignore the rising number of new COVID-19 cases. The rising hospitalizations. The deaths. IT'S OVER! (Or so the White House says.)"
+    publishedDateTime: 2020-10-28T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/28/trump-arizona-celebrate-end-pandemic/3759732001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3759732001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3759732001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
-    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
-    publishedDateTime: 2020-11-03T04:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign files lawsuit requesting Nevada court to block election officials from counting early votes"
-    excerpt: "A Carson City judge denied the request for a temporary restraining order to stop ballot-counting but scheduled an evidentiary hearing for next week."
-    publishedDateTime: 2020-10-24T22:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nevada-court-halt-early-vote-counting-lawsuit-2020-10?amp"
+  - title: "Video shows a man holding up a hand gesture tied to white supremacy behind Trump at his Florida rally"
+    excerpt: "The rallygoer was filmed repeatedly flashing an \"OK sign\" while standing behind President Trump during his speech in The Villages on Friday."
+    publishedDateTime: 2020-10-24T09:12:00Z
+    webUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-man-at-trump-rally-florida-makes-white-supremacy-gesture-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 122
+    quality: 110
     images:
-      - url: "https://i.insider.com/5f7646e80ab50d00184adb29?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f93ea254743a3001216b757?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump campaign tapes voters at drop boxes, threatens lawsuit"
-    excerpt: "The Trump campaign has been videotaping people as they deposit ballots in drop boxes in Philadelphia in what it says is an attempt to catch violations, surveillance that the battleground state’s Democratic attorney general suggested could amount to illegal intimidation."
-    publishedDateTime: 2020-10-24T08:27:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
+  - title: "Trump attends church service in Las Vegas"
+    excerpt: "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)"
+    publishedDateTime: 2020-10-18T19:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Factbox: What a second Trump term would mean for U.S. financial policy"
-    excerpt: "A victory by U.S. President Donald Trump on Tuesday would continue his administration's four-year deregulatory streak, which has delivered at least $40 billion in gains to banks and other financial firms,"
-    publishedDateTime: 2020-11-03T00:17:00Z
-    webUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump calls Supreme Court voting decision 'horrendous'"
-    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
-    publishedDateTime: 2020-11-03T09:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
-    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
-    publishedDateTime: 2020-10-28T23:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
+  - title: "Trump pushes rosy virus message: 'I look fine'"
+    excerpt: "President Donald Trump was again downplaying the severity of the coronavirus on Monday during a rally in Arizona. \"The pandemic is rounding the turn. Vaccines are coming. And I look fine, don't I?\" Trump said,"
+    publishedDateTime: 2020-10-20T01:48:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/20/trump-pushes-rosy-virus-message-i-look-fine/5987060002/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3caf549b-a00f-4373-959e-1e28aadff5f6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "GOP's Romney, long a Trump critic, voted — but not for Trump"
+    excerpt: "Republican Sen. Mitt Romney said Wednesday that he's voted in the Nov. 3 election — but not for the leader of his party."
+    publishedDateTime: 2020-10-22T00:16:00Z
+    webUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "As one of the top officials on the country's largest Native American reservation, he's a proud Donald Trump supporter."
+    publishedDateTime: 2020-10-26T02:29:00Z
+    webUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minority-pushes-trump-agenda-largely-unpopular-among-tribes-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Living statues paint Trump as racist 'relic'"
+    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
+    publishedDateTime: 2020-10-28T15:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "With Lil Wayne, Ice Cube And 50 Cent, Trump Makes Final Push For Black Voters"
+    excerpt: "The Trump campaign has spent more than $20 million on a strategy to appeal to Black voters, Polls show Trump has improved narrowly with young Black voters, particularly men."
+    publishedDateTime: 2020-10-30T09:01:00Z
+    webUrl: "https://www.npr.org/2020/10/30/929177685/with-lil-wayne-ice-cube-and-50-cent-trump-makes-final-push-for-black-voters"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 102
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/29/gettyimages-1228710316-1-_wide-26cc6b1e416775704e54529a03f318199710494a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Stimulus Package 2: Trump Warns Stepping in if GOP Opposes Big Bill"
+    excerpt: "As stimulus bill negotiations inch closer toward a deal, President Donald Trump is urging GOP senators to support a multi-trillion dollar package."
+    publishedDateTime: 2020-10-19T09:29:00Z
+    webUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/"
+    ampWebUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/stimulus-bill-2-Trump-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
+  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
+    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
+    publishedDateTime: 2020-10-21T03:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
+    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
+    publishedDateTime: 2020-10-26T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Administration Sets Record Low Limit for New U.S. Refugees"
+    excerpt: "The Trump administration has slashed the number of refugees it will allow to resettle in the United States in the coming year, capping the number at 15,000, a record low in the history of the country's modern refugee program."
+    publishedDateTime: 2020-10-28T12:40:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-28/trump-administration-sets-record-low-limit-for-new-us-refugees?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "pIbKH8Clkd04X5yRQmA6pAMcyPWPcle8PZhV9FFmCmDOLdxEKuo8HwUGPyR3HIOrtPCrFs/TW054wY50gPh++VLjnvNpRLUu3Wwn+whIYSDooyIFEvCzm/6wmOoZZpMMJG8Iz70mBsBzaiLcP8B8hMmIxoLQYlu9PAwfE90x2j+Im2pg/nWWe5aj8V2y4toUHG0RljwHRxu8YW1yEhGfdVdC+LN4SVwNW4R12faIWrzCcxJqY2F3BoNYf7I4LytED71K+pwQuzHRYE1DJHk0vDOLHrTTUS+OcNqejbjUCTmZxHTTB94VTaLFi6iHvArcyMLJthGdXLrjJUp4KxphYYFOGN8fVMn7ebtwcKJ+uKE=;GAX+inonTWjOvKV/JAG/Bg=="
 ---

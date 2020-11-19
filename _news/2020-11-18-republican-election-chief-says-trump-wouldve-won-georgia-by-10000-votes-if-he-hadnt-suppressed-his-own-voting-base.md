@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
-    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
-    publishedDateTime: 2020-11-10T20:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
     excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
     publishedDateTime: 2020-11-17T22:54:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
-    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
-    publishedDateTime: 2020-11-10T21:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
-        width: 818
-        height: 545
         isCached: true
   - title: "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?"
     excerpt: "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false."

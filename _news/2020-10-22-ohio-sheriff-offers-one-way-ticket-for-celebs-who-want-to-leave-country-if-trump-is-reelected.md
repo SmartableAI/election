@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump prays for 'wisdom and grace' to lead country in call with evangelical leaders"
-    excerpt: "President Trump thanked everyone who prayed for him after recovering from the coronavirus on a campaign prayer call with evangelical leaders."
-    publishedDateTime: 2020-10-14T17:42:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
+  - title: "FBI Director Christopher Wray will be removed from post if Trump is re-elected, source tells Fox News"
+    excerpt: "Reports are surfacing that President Trump will fire FBI Director Christopher Wray should he win reelection next Tuesday."
+    publishedDateTime: 2020-10-26T01:10:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ieKOSqF2a4/fbi-director-christopher-wray-will-be-removed-reelection"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-director-christopher-wray-will-be-removed-reelection.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

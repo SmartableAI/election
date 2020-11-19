@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Records Shed New Light on Chinese Business Pursuits"
+    excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
+    publishedDateTime: 2020-10-21T10:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Reports of Trump's secret Chinese bank account spark controversy"
+    excerpt: "There's a lot to unpack in the new reporting, but it's probably worth dwelling on Trump's previously undisclosed bank account in China."
+    publishedDateTime: 2020-10-21T19:35:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/reports-trump-s-secret-chinese-bank-account-spark-controversy-ncna1244186"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244186"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244186"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_25/3390933/200618-trump-xi-mn-1030_3e485175a14ddbfa89b54f94cfca7782.jpg"
+        width: 2476
+        height: 1238
         isCached: true
   - title: "In deep-blue New York City, a gated beachfront haven where Trump flags fly."
     excerpt: "Trump’s hometown, New York City, has not exactly been hospitable to him as a politician. In the 2016 election, Hillary Clinton outpolled him here more than four to one. His home borough within the city,"

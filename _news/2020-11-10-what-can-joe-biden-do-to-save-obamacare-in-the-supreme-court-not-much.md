@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-car
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/joe-biden-affordable-care-act-supreme-court/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109110740-us-job-market-recovery-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden gaining support from suburban counties in North Carolina"
-    excerpt: "NBC's Chuck Todd takes a look at how Joe Biden is receiving more support in suburban counties in North Carolina than Hillary Clinton or Barack Obama did in their presidential races."
-    publishedDateTime: 2020-11-04T02:10:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-gaining-support-from-suburban-counties-in-north-carolina-95273029806"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95273029806"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95273029806"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/nbc_mo_2020_ctodd_nc_suburbs_201103_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden tells supporters, 'We're on track to win'"
     excerpt: "Joe Biden speaks to supporters in Delaware as votes are still being counted and says they \"feel very good about where we are.\""

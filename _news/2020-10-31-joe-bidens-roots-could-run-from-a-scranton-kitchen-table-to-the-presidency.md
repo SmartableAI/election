@@ -87,6 +87,38 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "'Joe Biden is a pathological liar'"
+    excerpt: "This coming Tuesday, as you head off to the polls to cast your vote, remember this: Joe Biden is a pathological liar. Donald Trump may be rude and crude. He may be abrasive and off-putting."
+    publishedDateTime: 2020-10-31T15:24:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/30/election_2020_biden_10535_c0-462-5540-3693_s1200x700.jpg?e91805f964fdadf5aa64424b61ee83dd151a855b"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
+    excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-11-02T05:29:00Z
+    webUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572"
+    ampWebUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/08/tedros-can-call-also-on-some-top-level.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "HisScgdeFZTMhj2UbtzlMQc9l+3FJT/23+YX7F35gjTBOKDYxdH8H7CoA6/P6KCYjasmm8sR+QpYqb574f+eMNjmAn7nLYkg5hxkjzHeJ8qSfBPK/AOkWTs+NavT2Yk6RMz4LkAvEDVEkL8zjBFWs7YBXI59IChWdKEZUSSaE4iqyVy33KeJ/8s0CqyHrXKj1Ym5QBeXshrm3+ycyn2luycv08KAmgaPYiuU0l1K7LLroSGMR65qY43zA27O5z2bQWm3BEQedRZpnjowg0F1eYeYMhRfAEZyk6VbpCADqm6glTCOXuNo9zCB5gGjDHa9wrRMC+gA/oUFTH8duHBO0YL3Vj/xRnXYYJgR/5mjEus=;/0sIIjjVrI7LTMOP6uw2Jw=="
 ---

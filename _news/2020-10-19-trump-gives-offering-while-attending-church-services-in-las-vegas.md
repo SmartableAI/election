@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign sues in Nevada to stop Vegas-area vote count"
-    excerpt: "The Trump campaign and Nevada Republicans asked a state judge on Friday to stop counting Las Vegas-area mail-in ballots as the president and his supporters continue to question the safety and validity of mail-in votes. "
-    publishedDateTime: 2020-10-25T01:42:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tLfkrv4aL0/trump-campaign-sues-nevada-vote-count"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
+  - title: "'Nodding lady' at Trump town hall accuses critics of targeting her employees"
+    excerpt: "\"Nodding lady\" Marya Joli says her employees have been receiving hate messages since her appearance on an NBC town hall."
+    publishedDateTime: 2020-10-21T12:52:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SBDgWZZ1Xfs/nodding-lady-trump-town-hall-hate-messages"
+    ampWebUrl: "https://www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac958ce0-57ba-4d05-ac83-25240a9d313b/bfa77b11-e55a-4bb2-b168-68da17b20bff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/120832826_10157610663063365_1553076211698567708_n.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "mE3iRNwO4oippICvl2g9bCjANmb1u1qAqqckz/u89ozyWi4UlAbASWUkICIjAIjtB79rh2WzeyVcXH//OVSc1bhRKtrp1Uu84JEnGF+8WxQTr7gEzg6YHUOeMiqblYdUTTnm2JyKODXr0G+TuzFsHWKBqQOmuJ3bIy2yrWjMcXmhnXnVrsuaBZgWsxjI98uhMJHcemOwW3Hw0w3WGBb8ddNEJFirknwbOij8CivhUGiOFV97vBN7wrBofGBaHKnTDOFsJQ21W7gqutiW0BcCfEg+3tLVgJ84AgZb5VFGO4N38jvjZXwh8BlqtL7ZRlOoeDC+cQ1C6T4W1OfkMB9cfqQqBr/1Hf6/wU7rgswp9nE=;CJDFEKIjD/8YnRLbvfjqYA=="

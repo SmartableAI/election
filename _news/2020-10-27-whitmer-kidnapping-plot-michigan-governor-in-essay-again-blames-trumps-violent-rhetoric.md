@@ -31,37 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer"
-    excerpt: "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer."
-    publishedDateTime: 2020-10-09T17:48:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
+  - title: "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled"
+    excerpt: "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life."
+    publishedDateTime: 2020-10-25T14:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xbc2uIw7wno/michigan-whitmer-fbi-trump-kidnapping-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be47d82d-1098-4959-81fb-ebb7efcd8410/ff36284e-e18e-44e7-8537-27074370157a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI, Mueller received Trump transition records from GSA in secret: Senate report"
+    excerpt: "Former Special Counsel Robert Mueller and the FBI gained access to Trump transition team records during their Russia investigation through the General Services Administration, according to a report from Senate Republicans."
+    publishedDateTime: 2020-10-24T09:41:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8I-mIYYKgt8/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-mueller-received-trump-transition-records-from-gsa-in-secret-senate-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/258329fb-0604-4640-8978-fb5d8bba0899/3b283e69-2893-40dc-88b6-aba91f19b82d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump administration proposes change to rules governing international students in US"
+    excerpt: "The Trump administration is proposing another major change to student visa rules, adding a fixed end date of up to four years. "
+    publishedDateTime: 2020-10-30T18:38:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hqQjAZsZEI4/trump-administration-international-students-us-rules"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-international-students-us-rules.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39212e9e-69cc-4ce5-8f14-e6ea3a89b03b/695cc4df-9d23-491b-84e0-012d477f09de/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI reveals alleged Whitmer kidnapper plotter also wanted to hang Trump, disproving Democrats' narrative"
+    excerpt: "Some Democrats have blamed the president's inflammatory rhetoric with inciting the kidnap scheme."
+    publishedDateTime: 2020-10-29T01:49:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/amBamIwQlq8/fbi-whitmer-kidnap-hang-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-whitmer-kidnap-hang-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "New anti-Trump Christian PAC targets Michigan, Pennsylvania voters"
-    excerpt: "A new bipartisan super PAC hoping to convince Christian voters to reject President Trump launched a six-figure television and digital ad buy on Tuesday, aimed especially at Michigan and Pennsylvania."
-    publishedDateTime: 2020-10-13T19:43:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eB3jfnjtEKU/anti-trump-christian-pac-ad-buy-michigan-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/anti-trump-christian-pac-ad-buy-michigan-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-trump-christian-pac-ad-buy-michigan-pennsylvania.amp"
+  - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
+    excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."
+    publishedDateTime: 2020-10-19T13:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DUUuYsTN_ww/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/AP20153836517351.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Gov. Whitmer: When Trump Attacks Me, The \"Violent Rhetoric\" Increases, It's Anti-American"
+    excerpt: "Gov. Gretchen Whitmer (D-MI) on being attacked by President Donald Trump: \"Every time he focuses on my state or on me, we see the violent rhetoric increase. We see the threats online increase. It's dangerous."
+    publishedDateTime: 2020-10-29T11:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/29/gov_whitmer_when_trump_attacks_me_the_violent_rhetoric_increases_its_anti-american.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 56
+    images:
+      - url: "https://assets.realclear.com/images/52/525518.jpg"
+        width: 1068
+        height: 800
         isCached: true
 
 secured: "b1aog+WHYe/zySffJXQ2nSMR2i7cXXy2v0oFq4XX8w9RM4js5l6jWa5Dvk2AMucnw9Ozx/IHjOCu4iD5+iAYOxaCM08bNcG7ipekRMYBuh6oucZPp2uymMRiQbfOE8t0cpulTo6vsN6b0U8plnWFyBUZXDV4AmUR81rtoKtUdnvcolH9g+U/PG1j7K9WnQspghSZsgmCL4H0CQP7F1Dmj3dH0EMfl1AShNqa6YiI2Gw1/EQvPQWKB8Y4lV+e+1y6lkub9l9PWpQfM88Zz97DMd/Q2/ZKbXG6d7mh7QsLT2s+78L2akUbdMfzXwpfwpAFrSy8mY8GX/BFFKXydk9+8wu5w8EuE3nNNK5OaNmGkCE=;dT/nNTbJlDc852o4WWYRXw=="

@@ -31,37 +31,145 @@ images:
     isCached: true
 
 related:
-  - title: "Biden campaign manager says he's 'going to make good' on 'progressive' agenda"
-    excerpt: "Joe Biden’s deputy campaign manager said Sunday the president-elect ran a “progressive and aggressive agenda” during his race for the presidency and will follow through on those commitments now that he has won."
-    publishedDateTime: 2020-11-09T02:39:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EACpodePx1Q/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives"
-    ampWebUrl: "https://www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deputy-campaign-manager-says-joe-biden-will-not-forget-progressives.amp"
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:12:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Progressives eye top economic posts in potential Biden cabinet"
+    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
+    publishedDateTime: 2020-10-30T01:40:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama, Biden to make first joint appearance in Michigan"
+    excerpt: "Democrats are bringing their firepower to Michigan, the critical swing state that helped seal President Trump's 2016 victory. "
+    publishedDateTime: 2020-10-31T17:11:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
+    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
+    publishedDateTime: 2020-10-25T19:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8dea0373-0e3a-4553-a06f-06cb35f47eeb/c05a3bbe-6cb4-408e-83fb-cd62b8ad9f62/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Sanders tells 'Squad' of need to push Biden to be 'most progressive president since FDR'"
-    excerpt: "Sen. Bernie Sanders, I-Vt., said in an interview that left-wing lawmakers and supporters need to push Democratic nominee Joe Biden to be the “most progressive president” since President Franklin Delano Roosevelt."
-    publishedDateTime: 2020-11-02T15:18:00Z
-    webUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-squad-interview-biden-progressive-push.amp"
+  - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
+    excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
+    publishedDateTime: 2020-10-22T13:50:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ga-sgS2j8jA/joe-biden-on-court-packing-60-minutes"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e29b2d3a-56bb-4140-af21-49ebcecc0ad8/a48331e4-06b1-4626-a48a-ce62b0bd0f04/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP-barrett.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
+    excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
+    publishedDateTime: 2020-10-28T16:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAhQImxanro/doj-citing-hunter-biden-story-justice-thomas-supports-changes-to-section-230-in-letter-to-congress"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
+    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
+    publishedDateTime: 2020-10-27T17:15:00Z
+    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
+    excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
+    publishedDateTime: 2020-11-03T23:25:00Z
+    webUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b9f7b35-9c4c-4a96-9f4a-6ae787d28f60/ff0296af-0333-4f3c-842f-95a9656028a0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "9bb4BDRF7BIzBpIzmdkLb560XmpPzEno4c/56jUe6wTjiZcsoVxsRqe9pErTs++LXGN7RtkK9BwalJ0xIezPucohGXomZ/GlGryE/RL/jao15hguBh9KYdIjGCCszG6YuWg3G2Z5f4oTPWK7eX7/pS+rtNpCu8Gjhn4Am9WlNxAFoEjSW2f4lcc3jR3tm1HcgtgRD1q3z9nH63JiQvZiiW9+PLirrrh/DJlk4gYlj5RpsraXu6z8epasvfCS6Kz1Kioj2exK0iDZGlVpPmOXr3jgPwGAfga5A2WcKZvz54C/zhxgPnHu+L4EMqN9zYPi2+i/+owNVP1PwQEYRHP09UowznRIkvM2Y2vjWaYoR/E=;1q1FjYGgm/EoZIQTw0jf0A=="

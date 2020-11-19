@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244885"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244885"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: NBC News
@@ -30,24 +30,6 @@ images:
     width: 2500
     height: 1400
     isCached: true
-
-related:
-  - title: "Trump struggles to defend lie about Mexico 'paying for the wall'"
-    excerpt: "Trump claims to have yet another idea to get Mexico to pay for a border wall. In reality, it's a fresh con, intended to take the place of an old con."
-    publishedDateTime: 2020-10-22T13:38:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-defend-lie-about-mexico-paying-wall-ncna1244269"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244269"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244269"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3392970/200626-trump-border-wall-jm-1339_c2377799002c4533c808cda3853168ae.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "+XUu3hdCtPyxaVEfBT+VHTO789rhRlUalcQmm5HWHbIKT/02TcKQRnDgoITJtv0sa+EhSMY3sa/ofm+oZ5DRHdsusyq7ljaO1B4x/92HlejdGFXW3kiXCHYz/rLfnmOLC3MhFsK1l2j0Pm00lChozkkmczwgL0pIdB5f+5QkESQhA8qb11dtXUBcx3jyFO1qevho6LP+9qNHkBbm8ErgTWIk4O7JLOtav0h1WFAur9sCmSuvfngFqOjs7R0vprXc1cPU1B1gV5t7emJf+SfV9M9BOyZcd33968Zod//4YLEcmeigKwTtq6ytrN3npVctWk2/PyCZjJ5oLmlumWQQ3tYKMA+igMI7JJdULp18B1c=;B+DnDsPbsgjLdp5JlCidwQ=="
 ---

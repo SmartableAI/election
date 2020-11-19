@@ -79,19 +79,37 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Strong support for Trump in rural North Carolina"
-    excerpt: "Driving through West Jefferson, North Carolina one can see far more support for President Donald Trump than Joe Biden. In 2016, 70% of Ashe County residents voted for Trump. (Oct. 28)"
-    publishedDateTime: 2020-10-28T21:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/strong-support-trump-rural-north-carolina/6062195002/"
+  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
+    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
+    publishedDateTime: 2020-10-28T15:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/525b0a94-06be-4f52-a31c-4991d8226ed8_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Man arrested at Trump rally with South Dakota's Noem"
+    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
+    publishedDateTime: 2020-10-28T17:57:00Z
+    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "WATCH LIVE: Trump Holds Rally in Tampa on Thursday"
     excerpt: "President Donald Trump is scheduled to speak to supporters on Thursday afternoon in Tampa, Florida, before heading to an evening rally in Fayetteville, North Carolina."
@@ -125,17 +143,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
-    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
-    publishedDateTime: 2020-10-29T22:52:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "jxKFFZOANM9Etxblk6KTvVnnMkiqiCDBn16pQdo8/Mc9K5PGG1zmGX4FVQdjtDAyIFZyr9w/u8nEG7dggomeAP354QN2uG6V35k7/1CMcC8dK4X7/UNqvxAtxalWiErrknV8eFEz01rSaDfpnlurDsTaRL/cXM/tIbvSNf3SKuh/5IRh+eZLQLo5HbM6gFvtFNIy74HSkR5GGhY/VCUmUBqGlQchTkMACIBfiT5PyiRg+fKX62fjf97pEUdQkUqUtZAyvz2bHi1bt/1joHM3eXpGxPdK99kCdbzeoBiTclcTupOKSBbvIjWl01elZS11ezD8m4SNWIRC/sd/kUKiVzaU3q6T8Us6+5eR/80yYcs=;LgT1E1X8uK2aqX0Yxi5H0A=="
 ---

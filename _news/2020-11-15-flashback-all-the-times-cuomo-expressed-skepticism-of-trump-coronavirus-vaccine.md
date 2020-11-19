@@ -79,21 +79,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump calls out Cuomo on stunting vaccine distribution during Rose Garden speech"
-    excerpt: "In a Rose Garden address Friday, President Trump announced that a  coronavirus vaccine will be readily available to the public as soon as April, but then took aim at Democratic New York Gov. Andrew Cuomo after he condemned the Trump administration’s vaccine roleout plan as “flawed” and suggested he would"
-    publishedDateTime: 2020-11-13T22:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZtJjpUBiWE/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-out-cuomo-on-stunting-vaccine-distribution-during-rose-garden-speech.amp"
+  - title: "NY doctor slams Gov. Cuomo for doubting potential coronavirus vaccine touted by Trump"
+    excerpt: "New York Gov. Andrew Cuomo casting doubt about the coronavirus vaccine because it happened under President Trump's leadership is \"disheartening\" and threatens his credibility, a doctor who has treated critically ill COVID-19 patients in New York City said Saturday."
+    publishedDateTime: 2020-11-14T17:16:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8CfoQCDC3k/vaccine-coronavirus-trump-cuomo-doctor-new-york"
+    ampWebUrl: "https://www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vaccine-coronavirus-trump-cuomo-doctor-new-york.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b59ed4f-70a2-4339-a427-fe424897bc6b/100d8a49-0939-4dfb-bd5f-0ca17b299bb4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "I3kMFEqJ5G/8BHnvywzwfAoEf2aAII3EMWeR9Hi3jLkqqINqoQoadZvsIDoonSnrSpXqbcXVwbOI0gIUVneyznnHUZ7vBzq1ZuC1kwBJJcr56PtV9lGJwG2/ouHRujzNeLscLyde7xx7JTUzxngxZg7ii48NCM0RNd1UMO87RKq2tW1Nc2jEigTcvYG73P3u6WC4MSVLcd2YWAOe2XEDjYXn32ZFgMIoihS/ZEQbjo/qHsOhHZeA3+IXH5IIX409t+abMSz7rUaimgn4vdqQXy0AbeQuuadIkDQvsLhoDFMhu90jKNl3XoK3WTWb3+VTEBYK+xk4PeB1hpQfbclF5MgO2D6JbdAdU/G/Mv8FBv0=;QrtYCo7CbjryNlLRjhqyOg=="

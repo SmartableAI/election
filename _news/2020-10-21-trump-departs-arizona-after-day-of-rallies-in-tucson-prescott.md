@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.palmbeachpost.com/amp/3686632001"
 cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3686632001"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Palm Beach Post
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling"
-    excerpt: "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\""
-    publishedDateTime: 2020-10-16T11:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?format=jpeg"
-        width: 2500
-        height: 1249
-        isCached: true
 
 secured: "pZSVyb/pGzvFfXhm8nxSGMDF6OuoqsjGFdYG9pQXZ9MFI8dS+O1IPjgBMYy+onp3DwGz7/O/l15d6Zgv38qPQKAYmi5gHXO6L5Z4iAz0XESYTx6+zREPmHt6ewiFQu3H/esBTWE5DQ+vmDUAl6nmK3MfWjIv9MeLtj07Hlrvtue5MVeJnZtW497MOsX7JmruB34hSQzK22L6ahWsVpMT2UA45qCuyGtDJY83FH4kRQADVH+G/COrrxlQSmckQqpYanQZgG2DQti+0I/pIB4VLegWbHsFpQEW6MngTGtv0pjnTOl8shnv1BouBCNrqmg1+zhwj0mCxLoNTWBM3EdA3+jz3jqYUHwEA5++3Yv0Oyc=;+5nsAOU6kqZVILr0XxkvJA=="
 ---

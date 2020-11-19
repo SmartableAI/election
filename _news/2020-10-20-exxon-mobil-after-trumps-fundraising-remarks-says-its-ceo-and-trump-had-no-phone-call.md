@@ -31,83 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
-    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
-    publishedDateTime: 2020-10-15T23:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
+  - title: "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes"
+    excerpt: "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate."
+    publishedDateTime: 2020-10-23T09:42:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
-        width: 816
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1657664/donald-trump.jpg"
+        width: 2500
+        height: 1563
         isCached: true
-  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
-    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
-    publishedDateTime: 2020-10-19T17:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
+  - title: "Presidential historian Meacham describes Trump supporters as 'anguished' white guys with 'a lizard brain'"
+    excerpt: "Presidential historian Jon Meacham referred to President Trump's supporters as \"anguished, nervous\" white men with a \"lizard brain\" during post-debate coverage of the second and final showdown between"
+    publishedDateTime: 2020-10-23T15:11:00Z
+    webUrl: "https://thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white"
+    ampWebUrl: "https://thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/trumprally8_06202020_gettyimages.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
-    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
-    publishedDateTime: 2020-10-13T15:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+  - title: "Rapper Lil Wayne’s Trump Endorsement Sparks Controversy on Twitter"
+    excerpt: "Getty Rapper Lil Wayne shares a photo with Trump and endorses his Platinum Plan on Twitter. Rapper Lil Wayne Just had a great meeting with @realdonaldtrump The 38-year-old “Lollipop” rapper endorsed the Platinum Plan,"
+    publishedDateTime: 2020-10-29T23:18:00Z
+    webUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/"
+    ampWebUrl: "https://heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/lil-wayne-trump-endorsement-twitter/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
-    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
-    publishedDateTime: 2020-10-17T17:40:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 71
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "In Mesa, Donald Trump Jr. talks up dad's record at 'Latter-day Saints for Trump' event"
-    excerpt: "In the second day of a campaign swing through Arizona, Donald Trump Jr., the president's oldest son, talked up his father's record to voters at a \"Latter-day Saints for Trump\" event in Mesa."
-    publishedDateTime: 2020-10-16T17:52:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/15/donald-trump-jr-rallies-voters-latter-day-saints-trump-event-mesa-arizona/3669336001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3669336001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3669336001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PPHX/97d25905-0025-4752-a201-bff208fbe3b8-trumpjunior-p2.JPG?auto=webp&crop=3499,1969,x0,y79&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-89.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
 
 secured: "veyfhcbFf4USVVFw5N9jpTUgbFJzeREecs7kFVQ+NoFr/rhulMmM9WHkg1R+R1M2mCeuJ/FhargD2W+VgMHO+vmnpTC4TmGfL7Iw4vdEeP0eFf9yCe19w82LTuDAZUeJXyr8z6RXfgfirsuOCDm0AbDFFKNM4+xUoUof/JRHECJkBM/6XtIwyttXPVrcjTCda14vTMMxvbJNZLjD288PEoeeyA1VVmoknppI+JJR4f93OHorMBBh5quMKMOXiRywkd1e+Tscm3LoXaNlejxkX+yMUdce0vgeBDy5IFkHJ9Njqj3dHGcXRAEQ2khj7QodtBoAQ1R8/xgxorl2FRO+fT/XUfDjMNJSYT3wRn0zXJE=;AR3evwq0VI5p9nQOrljm9w=="

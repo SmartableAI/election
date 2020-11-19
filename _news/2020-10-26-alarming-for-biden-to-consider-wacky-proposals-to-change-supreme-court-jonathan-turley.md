@@ -31,52 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T12:35:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+  - title: "Hunter Biden engaged in ‘raw influence-peddling’ on grand, global scale: Turley"
+    excerpt: "Joe Biden and his family engaged in \"legal corruption\" despite claims of no wrongdoing, Fox News contributor Jonathan Turley argued Wednesday."
+    publishedDateTime: 2020-10-28T14:12:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/59uqOKu4B-c/hunter-biden-joe-scandal-election-corruption-jonathan-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-joe-scandal-election-corruption-jonathan-turley.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T20:03:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's Ukraine Defense Rests on a Bogus Premise"
-    excerpt: "The crux of Joe Biden’s Ukraine corruption scandal defense rests on his contention that he traveled to Ukraine during his tenure as Vice President to demand that they fire their"
-    publishedDateTime: 2020-10-30T04:01:00Z
-    webUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046"
-    ampWebUrl: "https://townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/daveseminara/2020/10/30/bidens-ukraine-defense-rests-on-a-bogus-premise-n2579046?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/297/dfafdd3d-fbb8-4a45-9703-7ce591525b28.jpg"
-        width: 650
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
         height: 340
         isCached: true
 

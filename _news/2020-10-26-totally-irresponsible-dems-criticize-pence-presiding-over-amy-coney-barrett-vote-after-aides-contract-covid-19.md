@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6033173002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6033173002"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Amy Coney Barrett's confirmation is the start of Pence's accomplishment of a lifetime"
+    excerpt: "When President Donald Trump and Vice President Mike Pence attended a gathering of social and religious conservatives during the 2016 campaign for the White House, both tried to woo the voting bloc."
+    publishedDateTime: 2020-10-29T10:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/27/amy-coney-barrett-supreme-court-confirmation-abortion-mike-pence/5991035002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5991035002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5991035002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d94c5929-c678-47d5-9e04-569b3d8d692d-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "wEaAWd1/bVnfwJC2dAgSX6c/LeXEOWS42zjh0cOH2XtaJYkdFWr1cI4Pkox1NidIir7UyzbEIb/Lk+38IR+Je4dKtE/QW1OKMQp1ANjouwFT4zgZPnfH2VsemUCXJwSrPPjUt0MZzJaZTdjp6sZCSCnh5dcbsGTX7EK0UOhhVrQd3c0DxHCcNZDV5MT0x7HkDKe1W35bDffGc82cxKAHnCN0zpfGvq/WnMiiLpUkGhOHcaAbQX0QTcvRd34l6WV74YQM/yT4iL6/aOZd0w2F8i55ll2Ea034GaPPoxRzLPSrIDOOZXVGV35BCfUzM43VbfTnZpYa+J7RNRTMmd/2fg23fwbzu7P4DTRKkGVrdpU=;kyLJV2QDebEECRXfaNscvw=="

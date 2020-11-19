@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-philadelphia-police-shooting-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-philadelphia-police-shooting-terrible-event-rioting-biden-supports.amp"
 type: article
 quality: 173
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
-    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
-    publishedDateTime: 2020-10-21T19:07:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 52
 
 secured: "ndur69B/pqRgls5yhAY1+yrX+FpfjpcckyhuNIjx84mLWuYhgWPolbIqwa+4mmMP99mRfUujtBZ7nBwgPD01R2nhPhsKwHpW98Widdn2jso6PKSfCrr2SxedeVwQU2IPiz46DJjD/Of+WYstB1DUAtpm5NNcXaZI9IBOkDN8QKy2qGiZk4f7sXSXdFk+SbS6B5/TqbcrqI4vSDPsCYqWyt1SLnQPKmA53kBYh3A8qfsk8BBZURBFBe6nJi4v8xRs7sl+cCiEmYhLvjLphvrrcZVbLgEiDEZCgWjTRlna9ZZqPQKQd/aTLiz4Vx9RWyTrqU5SUzPhMnfyLQugffboJdTxx3//j3OckisR7Zmj2uM=;BqjBfLy2q83rP7pikwiudA=="
 ---

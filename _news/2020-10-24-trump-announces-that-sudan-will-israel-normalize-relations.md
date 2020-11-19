@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "After Sudan, Trump Predicts Saudis To Forge Israel Ties"
-    excerpt: "US President Donald Trump predicted Friday that Saudi Arabia would soon forge ties with Israel after brokering an agreement for Sudan to normalize ties with the Jewish state. Speaking to reporters as he held a three-way phone conversation with the prime ministers of Israel and Sudan,"
-    publishedDateTime: 2020-10-23T18:05:00Z
-    webUrl: "https://www.ibtimes.com/after-sudan-trump-predicts-saudis-forge-israel-ties-3068459"
+  - title: "Trump says US will remove sanctions on Sudan in historic new chapter in relations"
+    excerpt: "Trump tweeted that he will remove Sudan from the state sponsors of terrorism list in a historic move that marks a new chapter in relations between the two countries."
+    publishedDateTime: 2020-10-20T01:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-spoke-to-the-leaders.jpg"
-        width: 1024
-        height: 682
+      - url: "https://s.abcnews.com/images/Politics/pompeo-sudan-ap-jc-201019_1603141774822_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Ahead of U.S. poll, Trump ends a U.S. restriction applying to Israeli settlements"
+    excerpt: "The Trump administration lifted a decades-old ban on Wednesday that had prohibited U.S. taxpayer funding for Israeli scientific research conducted in Jewish settlements in occupied territory, drawing Palestinian condemnation."
+    publishedDateTime: 2020-10-28T14:37:00Z
+    webUrl: "https://www.reuters.com/article/worldNews/idUSKBN27D23Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D23Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539130142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R186"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "H5taUhlpkncqoC7y4+yIhQKm4OghbC1Cb6qwb/xDA6Dbek+AgHoW8mmFFgSPxjvzYqvBcabNVjs/agvMU4fpQLCvFlQWgAqku4U7OB8kaoOnlj2iaspxBhHQU9qXiEcnvEygJr+a7JXmVe1WR44659iaDS8laa+YqiOJOP6lg1Vd6F+nBmW2pV/t/t/LylSa2viI8M9CQUT9dwgaApnu2kFY+H9NIBdBDV/5MoVOx9yTi92eDJe5byhEUSDBrzmbENCRRytXinKLnzhN5WPvUiYzo9IFtrLTFjStUa5SJ+DorZtVxk/GUap8GN9N99AGKnZ/HKH6SLrczle6kvxg6eMQ+Nw7vOuzMVFB40OTqqs=;XvBzpMjBv86EMw0VNH3qVw=="

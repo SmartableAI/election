@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/man-arrested-in-north-carolina-had-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/man-arrested-in-north-carolina-had-van-full-of-guns-explosives-planned-to-assassinate-joe-biden-report.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,56 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations"
+    excerpt: "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday."
+    publishedDateTime: 2020-10-23T18:16:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "FBI agrees with DNI Ratcliffe that Hunter Biden laptop, emails not part of Russian disinformation campaign"
+    excerpt: "EXCLUSIVE: The FBI on Tuesday said they have “nothing to add” to the statement Director of National Intelligence John Ratcliffe that the laptop and emails purportedly belonging to Hunter Biden are not being investigated as Russian disinformation, Fox News has learned."
+    publishedDateTime: 2020-10-21T01:41:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uXqPS4YO5I/fbi-says-they"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-says-they.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-says-they.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Media needs to ask Joe Biden these three questions amid son's allegations: Gowdy"
+    excerpt: "Joe Biden and his son, Hunter, should be asked by the mainstream media the same questions President Trump and his children were asked in 2016 about business dealings, former House Oversight Committee Chair Trey Gowdy argued Thursday."
+    publishedDateTime: 2020-10-29T17:08:00Z
+    webUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-joe-hunter-tony-bobulinski-question-answer-trey-gowdy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a838606-a658-4f83-a78b-1c04e4ac7325/38976114-6a10-4ddc-9172-4ccc577f45b9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BcCxoov+NTdAdg3tmk/ezpVrmNDkKIuqpTk/bHX/Ikj8pU2Y1Wvd6A/mvWw0Vh39Lx8hEuPe+ZdiGpNlEJ3/cBseVK6MFP9V5RHyNPcTrIRsBeX0aekFc1jGCMsz7pCTyrpiojR8hIpzLcmKaYCnCWfN/Pyc4mZPhOF6jOsQmjzyxWJNsfA2LJjFD5jYyfYNy8rW0H//pStoKkr5ck3E/xX8cdEuofc1M74W2FhziT92MKDaWar7JiyZ4a2YMqnbdjgNwBdMH/6FdDbbCG9iRs1/Nt+A9dp1nM4UZHN1sTDZQzxbIQSH0aN0W2D2F9OeGFOu1GhNEfOj2lTzJp2C7dvCmj1QXv4iCMBYmDudTHs=;Bt7Jxtxopq+nU8TobEDEXg=="
 ---

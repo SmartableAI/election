@@ -74,22 +74,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden transition hangs in limbo, awaiting GSA certification"
-    excerpt: "The Biden transition is hanging in limbo, awaiting the General Services Administration’s certification, which will give President-elect Joe Biden and his team the power to make decisions about the future of the federal government-- but the incoming administration is \"moving forward\" anyway, urging the"
-    publishedDateTime: 2020-11-10T19:46:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNjrYfCb_hc/biden-transition-in-limbo-awaiting-gsa-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "NASA chief says he does not plan to serve in Biden administration"
     excerpt: "Bridenstine said his decision was driven by a desire to support the “best interest” of NASA and the country’s space exploration goals as a whole, rather than any partisan leanings."
     publishedDateTime: 2020-11-10T00:06:08Z
@@ -234,22 +218,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York"
-    excerpt: "New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up."
-    publishedDateTime: 2020-11-09T03:08:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6rfbHRDKI8/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave"
-    ampWebUrl: "https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2997629b-2b98-4b64-9e18-914a71bf9f87/39f3d7bb-e234-49df-b1ce-c519ede703ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
     excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
     publishedDateTime: 2020-10-29T14:07:17Z
@@ -327,20 +295,6 @@ related:
       - url: "https://images.wsj.net/im-251110/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-11-03T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "vmZGf3nEzx4FoR6brjrgNEoRhfcVlIUoudSZJbJ4uCXg0gQxYH1phwVmFMiPPkACl8bKHa7rwscqGu97tC8gpK/WQhyc9KT3fmjcMrTWyJApDa9MmE3IOcwhchSasHq+IYIs7UsG29idxTEs1qB6B9voI5IHaMaZZ2ZtcQfLL4Cc92tjNqBwmoQy8y6yhKrE1s3PAzmJMh/d1bv1fHZNEGFnUx4Oe9Umsr7FL4hor1mOLyoYwQWWqyHBUl39pgIdd2wyaQjQf1tK8Lqx+Ao6bHx+DobDIdEg0H3XObz6Z3UK6Y2P6/4NwnuWzZ5OH3bExoMFK6KZ0UVUuVO0YTlwaflOxcj9wlNb8I3M21PVW/x2ZHNOCstimQ6QzvRYEFTMS9/zpJGgNa6Eo4G+gWnhDFvlxi6CWgmnfkuUqMUB0+L0/5ThcLMEN7EdmDrs7hq0a3L+66wKbi4tBkMe92TjryRsb67XJGO5HTYMypRcrVzrjJ2NVUobYPUOZFccosPMde5zd5UPy5eFpWmcAcSApg==;xP/ZBuKUVZo32jg/2TLM+w=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 355
+published: true
 
 provider:
   name: Fox News
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
-    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T08:03:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Progressives eye top economic posts in potential Biden cabinet"
     excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
     publishedDateTime: 2020-10-30T01:40:10Z
@@ -63,33 +47,81 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden campaign dodges questions about Bobulinski meeting claims, dismisses ‘smear campaign’"
-    excerpt: "The Biden campaign on Thursday again refused to address new allegations about Democratic presidential nominee Joe Biden’s alleged role in his son’s business dealings, dismissing the claims as a “smear campaign.”"
-    publishedDateTime: 2020-10-29T22:07:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvUZ0Z8dRBo/biden-questions-bobulinski-meeting"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-bobulinski-meeting.amp"
+  - title: "Obama, Biden to make first joint appearance in Michigan"
+    excerpt: "Democrats are bringing their firepower to Michigan, the critical swing state that helped seal President Trump's 2016 victory. "
+    publishedDateTime: 2020-10-31T17:11:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDZVfeWq3aQ/obama-biden-first-joint-appearance-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-biden-first-joint-appearance-michigan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c7dba56-45b1-4fee-9376-8cceaabcc38e/42bb6143-3aa8-475a-96b8-002346f36c9e/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304657210535.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rep. Jim Jordan on reviewing and authenticating purported Hunter Biden emails"
+    excerpt: "Rep. Jim Jordan, R-Ohio, who said his staff reviewed and independently authenticated the purported emails from Hunter Biden’s laptop, told “Sunday Morning Futures” that “they’re as real as real can be.”"
+    publishedDateTime: 2020-10-25T19:58:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WxG05FrYsd8/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-jim-jordan-on-reviewing-and-authenticating-purported-hunter-biden-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
+    excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
+    publishedDateTime: 2020-10-22T13:50:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ga-sgS2j8jA/joe-biden-on-court-packing-60-minutes"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP-barrett.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden campaign pushing voters to be ‘a part of the political process’, ex-Obama aide says"
+    excerpt: "In the final hours before Election Day, the Biden campaign is trying to convince Americans that voting is more important than ever, former Barack Obama personal aide Reggie Love told “Your World with Neil Cavuto.”"
+    publishedDateTime: 2020-11-02T00:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySsZkhyUKsw/reggie-love-biden-campaign-2020-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reggie-love-biden-campaign-2020-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5917c623-7f84-4354-be17-763d711fe936/8bc4d7a4-d627-47c5-916c-72ddd72c5b10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
-    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
-    publishedDateTime: 2020-10-27T23:37:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
+  - title: "DOJ, citing Hunter Biden story, Justice Thomas, supports changes to Section 230 in letter to Congress"
+    excerpt: "The Department of Justice (DOJ) on Tuesday sent a letter to congressional leaders advocating for changes to Section 230 of the Communications Decency Act, a law passed about 25 years ago that prevents tech companies from being sued for user content posted on their platforms. "
+    publishedDateTime: 2020-10-28T16:09:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cAhQImxanro/doj-citing-hunter-biden-story-justice-thomas-supports-changes-to-section-230-in-letter-to-congress"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 140
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be276ed1-e6a3-4a5a-933b-707157d6ae65/651c60c4-05f1-4959-8be6-3f5ba1ed74b6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -109,21 +141,35 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
-    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
-    publishedDateTime: 2020-10-26T02:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
+  - title: "Progressive PAC touts Biden's 'ambitious' policies if he wins presidency"
+    excerpt: "Known for its support for progressive initiatives such as the Green New Deal and Medicare For All, the PCCC originally endorsed Sen. Elizabeth Warren for president."
+    publishedDateTime: 2020-11-03T23:25:00Z
+    webUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d83e8ba2-3baf-4881-ba00-146146946f25/fad58832-89f0-405f-9f53-c0961608987b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b9f7b35-9c4c-4a96-9f4a-6ae787d28f60/ff0296af-0333-4f3c-842f-95a9656028a0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-11-03T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "2ubdoRO3tpDbjY0GKvjTG+2a9/rogaOFnSMVUss/pvtjqLRNXv4nDEu/7aiqOdFiPwQRsK79z+SnLrI831DX1TGdh7Yo69ozpKgE8nd3PXkyr49L4Gt8uDfyorlwptYCXg+wEIU+FEdspg04EYVpDk2K9LRu2E2skuJ2vP4cNcZ2w6HOcMQnxf2zUyqDU0YR5+JDiu+29zo1q04Wap3MU1r9e0dDwBPKQRGC3ULVc69nKrSpg2ekmoPK3C+EUUYem15EPGe9uUn7eh5N2bSlTaqolwMgpHvvD34x5g7dhmSpMqy59TrpsWZJWjoba58ZfZW5sTVni8gPvVadsSJMmc589/B1FhGgO6Rqfp4EmIY=;PrScCKq7dVE4jBPmOlcS1Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-men
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp"
 type: article
 quality: 136
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's new political strategy: Attack Biden by attacking Fauci, scientists: ANALYSIS"
+    excerpt: "With just two weeks to go until Election Day and polls showing his Democratic opponent Joe Biden with a formidable edge in the polls, President Donald Trump has stepped up his attacks -- on science and scientists."
+    publishedDateTime: 2020-10-19T23:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
     excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
     publishedDateTime: 2020-10-22T17:37:00Z

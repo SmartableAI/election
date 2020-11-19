@@ -32,51 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T12:35:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+  - title: "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy"
+    excerpt: "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,"
+    publishedDateTime: 2020-10-28T20:35:00Z
+    webUrl: "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 110
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "‘Alarming’ for Biden to consider ‘wacky’ proposals to change Supreme Court: Jonathan Turley"
-    excerpt: "Democratic presidential nominee Joe Biden calling the Supreme Court “out of whack” is \"alarming,” Fox News contributor Jonathan Turley said Monday."
-    publishedDateTime: 2020-10-26T20:18:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOpITkJDE-Y/biden-supreme-court-packing-wacky-proposals-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-packing-wacky-proposals-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
-    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
-    publishedDateTime: 2020-10-26T20:03:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee29d0-c3c3-44ce-bfe5-fc7de7e56021/ace30db7-d411-4eb0-8ba1-fad27222a5e3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

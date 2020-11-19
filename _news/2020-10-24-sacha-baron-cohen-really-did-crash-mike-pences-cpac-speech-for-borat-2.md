@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
-    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
-    publishedDateTime: 2020-10-23T17:53:00Z
-    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
-    images:
-      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2"
     excerpt: "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,"
     publishedDateTime: 2020-10-18T18:46:00Z
@@ -70,52 +56,6 @@ related:
       - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1"
         width: 600
         height: 315
-        isCached: true
-  - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for 5 Hours’ to Prank Mike Pence"
-    excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank V"
-    publishedDateTime: 2020-10-18T03:20:00Z
-    webUrl: "https://www.vulture.com/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    ampWebUrl: "https://www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    cdnAmpWebUrl: "https://www-vulture-com.cdn.ampproject.org/c/s/www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    type: article
-    provider:
-      name: Vulture
-      domain: vulture.com
-    quality: 62
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/40a/1c1/e947ad9bcec542e1e4e5c8d59bb795d3c1-17-sacha.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for Five Hours’ to Prank Mike Pence"
-    excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank “Vice Premier” Mike Pence at the film’s climax: He snuck into the Conservative Political Action Conference in late February and did a whole lot of disguised waiting."
-    publishedDateTime: 2020-10-17T16:26:00Z
-    webUrl: "https://www.vulture.com/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    ampWebUrl: "https://www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    cdnAmpWebUrl: "https://www-vulture-com.cdn.ampproject.org/c/s/www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    type: article
-    provider:
-      name: Vulture
-      domain: vulture.com
-    quality: 60
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/40a/1c1/e947ad9bcec542e1e4e5c8d59bb795d3c1-17-sacha.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Trump No Fan Of Sacha Baron Cohen"
-    excerpt: "US President Donald Trump said Friday he has not been a fan of Sacha Baron Cohen -- even before a clip from the British comedian's new Borat movie forced his lawyer Rudy Giuliani into an awkward explanation."
-    publishedDateTime: 2020-10-24T05:06:00Z
-    webUrl: "https://www.ibtimes.com/trump-no-fan-sacha-baron-cohen-3068744"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/24/while-the-plot-of-the-new-borat-film.jpg"
-        width: 1024
-        height: 608
         isCached: true
   - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
     excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."

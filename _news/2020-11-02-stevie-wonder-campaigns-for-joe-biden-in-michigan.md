@@ -32,85 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden blames Trump's 'liberate Michigan' tweet for plot to kidnap Michigan governor"
-    excerpt: "Joe Biden said President Donald Trump bears blame for the alleged domestic terrorist plot to kidnap Michigan Gov. Gretchen Whitmer, pointing in a speech Friday to Trump's calls on Twitter to \"liberate Michigan\" in the wake of the Democratic governor's coronavirus-related restrictions.\n    \n"
-    publishedDateTime: 2020-10-16T22:53:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
+  - title: "'Shoot your shot': Obama nails three-pointer while campaigning with Biden in Michigan"
+    excerpt: "Barack Obama called game.\n    \n"
+    publishedDateTime: 2020-11-01T03:02:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pp3f09Ilw9s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/obama-basketball-video-michigan-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 184
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031163509-obama-flint-michigan-1031-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Virginia governor says Trump's rhetoric emboldened foiled kidnappers"
-    excerpt: "Virginia Gov. Ralph Northam on Wednesday said President Donald Trump's rhetoric is \"emboldening\" white supremacists such as the individuals involved in an alleged plot to kidnap him and Michigan Gov. Gretchen Whitmer.\n    \n"
-    publishedDateTime: 2020-10-14T13:41:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SzYu4eRFGO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
+  - title: "CNN Polls: Biden leads in Michigan and Wisconsin, with tighter races in Arizona and North Carolina"
+    excerpt: "Former Vice President Joe Biden holds an advantage in the upper Midwest states of Wisconsin and Michigan, according to CNN Polls conducted by SSRS, but the race between Biden and President Donald Trump is tighter in the battlegrounds of Arizona and North Carolina.\n    \n"
+    publishedDateTime: 2020-10-31T21:33:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q4e0ZTMQ-7M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/31/politics/cnn-polls-michigan-wisconsin-arizona-north-carolina/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/31/politics/cnn-polls-michigan-wisconsin-arizona-north-carolina/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190204192854-04-northam-presser-0202-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The hunt for Michigan's lost Democrats: Can Biden lure them back?"
-    excerpt: "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state."
-    publishedDateTime: 2020-10-10T11:07:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242711"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418883/201009-michigan-democrats-mn-1304_e23e089ca533a52caa24227b46e84fd2.jpg"
-        width: 8256
-        height: 5202
-        isCached: true
-  - title: "A Trump road rally unfolds in Michigan."
-    excerpt: "With just over three weeks left until Election Day, hundreds of supporters of President Trump took to Michigan’s highways on Sunday afternoon for a loud and visible display of devotion to their candidate."
-    publishedDateTime: 2020-10-12T12:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-briefing-bay-city/12elections-briefing-bay-city-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say"
-    excerpt: "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union."
-    publishedDateTime: 2020-10-09T18:38:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/trump-steel-tariffs-raised-prices-shriveled-demand-led-job-losses-n1242695"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242695"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242695"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 120
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418782/201009-steel-michigan-mn-0850_f7e28b4683f076efb1969aa400ae6663.jpg"
-        width: 2500
-        height: 1462
         isCached: true
 
 secured: "ADAFYaJD3cgVQ+6y3NzRm8c+pkgaikF+dhWRYZlhiD6uUcJbEhlOFMbficVk0cio+R+/DBcDKol//hp08Shh7KW0i4+Q2uC12JIDvEWdLTYJdBNU4xT+gPKJ9wN3Hb7ki5nx4cZ0nwDMUgIKyWOQdiwZHdNsyqOYfsc8NdMDbmIehflG4qGWVbSPDiWmj4Wm/iI3NSNFc4AnH7qG7m1OifV3e0hZHtzHUou/389qsIboeSwPLLK6+yL/yrFadLZD59qQohbwziNNoOPQMXJlZHOg2kMER/yTiyeXzXBVHVXouk5SIOC+BSG2yhS4r9LXZsJ3kcMWm7rl1+papDlyG2gki+828jkQFp9AMOsafgPNk2FGuu0IBl1Lgnbi3EIXVPQ/H+/n+IqaCef6aafmweJRALbFFFV6jhe7Tw9O5EYtkTKADbLBHgeoCvJNhLpma/YZ8dylwWPPRrm66xwb2gumk16Yy4WTBzYLjegYBF4V0bl7qw97xJrCtnmERBow5jY8jr4CMwGWTnAuc3IfGA==;D12ri/APt7tfL2zqvNY6kA=="

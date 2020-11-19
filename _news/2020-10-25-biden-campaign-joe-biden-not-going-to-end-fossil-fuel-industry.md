@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Could Joe Biden Actually Bring America Back Together?"
-    excerpt: "President has long valorized comity and respect in the political arena, but the country’s deepest cleavages are now imprinted on Americans’ party affiliations."
-    publishedDateTime: 2020-10-17T19:08:00Z
-    webUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together"
-    ampWebUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
-    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 135
-    images:
-      - url: "https://media.newyorker.com/photos/5f8a0f7b994428c9a71a8f3e/master/pass/Luo-Biden.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "A Biden Landslide? Some Democrats Can’t Help Whispering"
     excerpt: "Democrats are still haunted by the ghosts of 2016. But some are allowing themselves to contemplate a Biden victory big enough to reorder the nation’s politics."
     publishedDateTime: 2020-10-21T09:59:00Z
@@ -159,22 +143,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-landslide-top/merlin_178713780_0331426e-fb13-423f-84cb-9a6f19e16007-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden makes late push to flip the Senate"
-    excerpt: "The Democratic nominee is hitting Georgia and Iowa this week, while Jill Biden campaigned with the Democratic Senate candidate in Maine."
-    publishedDateTime: 2020-10-28T20:10:00Z
-    webUrl: "https://www.politico.com/news/2020/10/27/biden-democrats-senate-433032"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/27/biden-democrats-senate-433032"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/89/67/b3640b0c42d5afcfc67a0dcd7655/201027-biden-ga-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Biden’s Caution: Wise Campaign Tactic or Misguided Gamble?"
     excerpt: "Joe Biden is counting on voters to view him as a safe and steady alternative to a president who regularly dismisses virus precautions. But his measured campaign pace may be scrutinized if he loses."
@@ -207,22 +175,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/30/opinion/30goldberg1a/30goldberg1a-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
-    excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
-    publishedDateTime: 2020-10-18T23:09:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94105157774"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "At End of Bitter Campaign, Joe Biden Anguishes Over ‘My Only Surviving Son’"
     excerpt: "Hunter Biden’s business dealings have provided President Trump with plenty of political ammunition, while making an already complicated father-son relationship even more so."

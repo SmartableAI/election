@@ -31,173 +31,111 @@ images:
     isCached: true
 
 related:
-  - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
-    excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
+  - title: "Trump lost the ratings battle: What that really means"
+    excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means"
+    ampWebUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
-    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
-    publishedDateTime: 2020-10-21T05:26:00Z
-    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+  - title: "Frank Bruni column: That’s the last we need to hear from Trump"
+    excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, Tennessee, it was President Donald Trump who seemed to be running on fumes."
+    publishedDateTime: 2020-10-23T14:53:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
-    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
-    publishedDateTime: 2020-10-16T04:42:00Z
-    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
-    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
-    publishedDateTime: 2020-10-16T06:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/mRvxJ7qfTKtJnOi7GWgrW3GLonA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DOEMDVZDDVC4HA4DPWDEWCIR3I.jpg"
         width: 1200
-        height: 600
+        height: 843
         isCached: true
-  - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
-    excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
-    publishedDateTime: 2020-10-15T18:13:00Z
-    webUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746"
-    ampWebUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
+  - title: "‘What’s happening out there’ with Black men and Trump?"
+    excerpt: "Tens of thousands of Black men, mostly, in jail. And you know what? They remember it because if you look at what’s happening with the voting right now, they remember that you treated them very, very badly."
+    publishedDateTime: 2020-10-23T15:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
-        width: 1024
-        height: 664
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMR5PFALTUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 935
         isCached: true
-  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
-    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
-    publishedDateTime: 2020-10-16T15:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
+  - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
+    excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
+    publishedDateTime: 2020-10-21T18:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/election-2020-feds-investigating-voter-email-threats-purportedly-from-proud-boys/3713840001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713840001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713840001"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/7c0ccccb-0363-499d-b1b3-c8b2156822f0-14_XXX__JG_Georgia_Vote_11_6_2018_jmg_39800.JPG?auto=webp&crop=4175,2348,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+  - title: "Trump returns to the campaign trail as he trails Biden in key battleground states"
+    excerpt: "President Trump is back on the campaign trail, making stops in Michigan, Wisconsin, Nevada and California over the weekend. But a CBS News Battleground Tracker poll shows him trailing Joe Biden in key states."
+    publishedDateTime: 2020-10-18T22:27:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-returns-to-the-campaign-trail-as-he-trails-biden-in-key-battleground-states/"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 59
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
     images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/18/4a1039c6-6332-4bb1-a509-7b37ee250375/thumbnail/1200x630/ab0566d3cd5aaaa61ab62148c66ae871/1018-en-jiang-568508-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+  - title: "Let's talk about how Trump's hands don't match his face and what that says about America right now"
+    excerpt: "The President has always asked Americans to suspend their reason, but now the tells that he is not what he seems are so obvious it's an insult."
+    publishedDateTime: 2020-10-25T12:31:00Z
+    webUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-myths-and-facade-are-falling-apart-presidential-election-2020-10?amp"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
+      - url: "https://i.insider.com/5f92dd80abcd0c0018d694d0?width=1200&format=jpeg"
+        width: 880
+        height: 440
         isCached: true
-  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
-    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
-    publishedDateTime: 2020-10-14T12:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+  - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
+    excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
+    publishedDateTime: 2020-10-23T19:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "Donald Trump's \"Serial Bad Behavior\" at NBC"
-    excerpt: "In 2011, Donald Trump was toying with running for president and NBCUniversal was unhappy about it. By then, The Apprentice had been succeeded by Celebrity Apprentice, and while the show wasn’t ..."
-    publishedDateTime: 2020-10-16T01:23:00Z
-    webUrl: "https://www.hollywoodreporter.com/news/donald-trumps-bad-behavior-at-nbc-2"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 55
-    images:
-      - url: "https://www.hollywoodreporter.com/assets/1603914389/images/brand/writerimage-thr.jpg?586d922fb9575801bd71"
-        width: 383
-        height: 383
-        isCached: true
-  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
-    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
-    publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
-        width: 1024
-        height: 673
-        isCached: true
+    quality: 65
 
 secured: "lha58caB/gp6S/hFidTmpn/Jn3wUlgTZfi8X1pMa+7/NbGT39i+g7/XarOCyDzqdEBoToV/G9aDlhrO6UH70SEcFA4hxeqrcQBofVEgyzvVMXzHRRxoEqlGvAhknKv/GqEP/ItpOTmq6FgfkhHylf2R7eKfh7pL2DedqqM6QOc3eWzdMxE/Wikpbo+/oQFsmLZXyLJixJvuvCeNVnBKlHt/3k1u9vN213oMJF6WZKjUBKFz6rOey7lqoq24BEiV8Q3SiebJbRjJVAfFWq8/QKiaqkFgBjWV2ClXl99h/EBR+zHkGfhFbZ9s55ydm6Tfmm1KoIAUA/YvyQHBZ4MLR0y8os5lJYMeXoIrv6rnLu1ZrkwrqPw5RAJkRpuRs9oqpTcGu+hxlp+SjvOvRDo1o7wErpEeY2/gwhxiE9Un4bJP1tIN9Vy5ER/dlroJMHXtrAet4IQKc+ct2F89aQT27PIF8FoKjqOjNIIi+TBQLkNpXTduSoVdd7gsThsh+h18n9SN6Gnve3hY0ljHuKU1Sfg==;dua3bGPE3y4F3HAKds9nvQ=="
 ---

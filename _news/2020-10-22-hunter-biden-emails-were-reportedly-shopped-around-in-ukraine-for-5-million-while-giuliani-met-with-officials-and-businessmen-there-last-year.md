@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
-    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
-    publishedDateTime: 2020-10-16T03:43:00Z
-    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ZkvXnxnnYDDeGTZ4nTCdaztnjgWhnsIRMfdUTgZtWvqiRt7PLb7TLcAwPf0JXTDPiubetYEyDpRVaItjJ9x7F6Y83bPdKCEJxVH0v1p7FNiNJjquMNzG2crc2vErNyhqJ1wbCfD9PIXykR1ceywIdO0WnHksIErodvq9zBjI0PXrvIL9BhzZIMHJoxJsfEWUEIza8eq0vbaLK8e+PJ5TdAy9Mwd0hN+p6AsaIW6E8/hJ5QRGFOrn/dC4we21d8LONNvmZgX9XF5RsNtsPCa6C3evlpIMS6PBaqo9k2h/6XPOv21WnzkfO8qupmQ54xdBeSFA6ObbM6OHfjmu2QAMs2aE5CxzklMVLMSkV6Yti+dO8BcsAsAJGlQa8d1RRoLXX/TIIs7kcFFOEHteiBn4kkYR5FovtiBAIU5W+Si48l0/ghPbVUXFboostIJM+w1+V44/I346q6GSyZyIdTNNLr+GSJIyNAfQdS1T0vjS/OfBNYjP1k4Fth+YKEfqCDAzJvaXzrOPveob2GjI8dapbg==;iz/nqFMMN9ZKCU9W9PYhNA=="
 ---

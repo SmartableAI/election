@@ -132,22 +132,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden transition argues agency review teams represent 'diversity of ideology and background'"
-    excerpt: "President-elect Joe Biden’s transition team is naming members to its agency review teams in an apparent effort to appeal to progressives – although they can't officially get to work until the General Services Administration under President Trump acknowledges the 2020 election results."
-    publishedDateTime: 2020-11-11T01:51:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FeeG-PicFVo/biden-transition-agency-review-teams"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-agency-review-teams.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315762900391.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
     excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
     publishedDateTime: 2020-11-17T21:22:36Z

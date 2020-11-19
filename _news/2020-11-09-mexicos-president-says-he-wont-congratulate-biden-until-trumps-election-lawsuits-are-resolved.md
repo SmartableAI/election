@@ -295,6 +295,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "China finally congratulates Joe Biden, Kamala Harris on election victory"
+    excerpt: "Beijing sent belated felicitations after Biden spoke with the leaders of U.S. allies Japan, South Korea and Australia."
+    publishedDateTime: 2020-11-13T10:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/biden-election-china-trump/2020/11/13/b25961f4-2586-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 154
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAONIORFQ4I6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 1049
+        isCached: true
   - title: "Trump backtracks on acknowledging Biden won election, concedes 'nothing'"
     excerpt: "President Donald Trump backtracked after appearing on Sunday to acknowledge for the first time that Joe Biden won the Nov. 3 election, saying he conceded \"nothing\" and repeating his unfounded claims of widespread voting fraud."
     publishedDateTime: 2020-11-15T20:52:00Z
@@ -356,6 +372,22 @@ related:
     quality: 153
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/5ef664d9-20fb-4e4e-be16-0c91448feb47-Trump_motorcade.jpg?auto=webp&crop=3233,1819,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "After Biden-Harris speeches, CNN's Don Lemon expresses emotional relief, rips 'PTSD' of Trump era"
+    excerpt: "CNN's Don Lemon felt relief at news of apparent Biden election win, saying marginalized people have suffered 'PTSD,' 'whiplash' under President Trump."
+    publishedDateTime: 2020-11-08T07:49:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/11/07/cnn-don-lemon-president-trump-joe-biden-kamala-harris/6211859002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6211859002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6211859002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 152
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/01/USAT/e866f5de-ccf2-4c21-94b1-c60fd9f80071-AP_CNN-Lemon.JPG?auto=webp&crop=2786,1567,x0,y630&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -470,6 +502,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541259966&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BF"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden Would Make a Better Wartime President Than Donald Trump: Poll"
+    excerpt: "A new poll conducted for Newsweek found that Americans of all ages and religions would prefer Biden to lead the U.S. through a conflict."
+    publishedDateTime: 2020-10-20T10:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 150
+    images:
+      - url: "https://d.newsweek.com/en/full/1655458/donald-trump-joe-biden-poll-election-2020.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Harris’s ancestral village in India gets festive as Biden leads count"
     excerpt: "Villagers in the Indian ancestral home of Kamala Harris painted slogans on roads wishing her victory on Thursday, as Joe Biden, her Democrat running mate in the U.S. presidential election, moved closer to the White House."
@@ -807,6 +855,22 @@ related:
         width: 1117
         height: 545
         isCached: true
+  - title: "What a Joe BIden-Kamala Harris administration means for markets, tech, healthcare, cannabis, and Donald Trump"
+    excerpt: "The AP, NBC, CNN, The New York Times, and The Washington Post called the presidential election for Joe Biden shortly after 11 a.m. ET Saturday."
+    publishedDateTime: 2020-11-09T03:22:00Z
+    webUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-a-biden-harris-administration-impacts-business-politics-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/5fa81e7d1df1d500182197b1?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "4-year-old twin girls dress as presidential candidates Donald Trump and Joe Biden"
     excerpt: "Footage showing Koti and Haven dressed as President Donald Trump and former Vice President Joe Biden has garnered millions of view on TikTok."
     publishedDateTime: 2020-10-29T19:42:00Z
@@ -870,6 +934,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541025758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden Projected to Spend Twice as Much as Trump on TV Ads by Election Day, Analysis Finds"
+    excerpt: "A new analysis find that President Donald Trump and Democratic presidential nominee Joe Biden will spend a combined total of between $2.75 billion and $2.8 billion by November 3, but Biden's campaign will double the amount Trump will spend on television advertising."
+    publishedDateTime: 2020-10-21T00:29:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1655985/biden-trump-supporters.jpg"
+        width: 3000
+        height: 2061
         isCached: true
   - title: "Live election updates: Biden visits church day after victory; Trump golfs again after defeat"
     excerpt: "Romney says Trump is \"not disappearing by any means\" after defeat; the president golfs for a second day, and AOC says she almost didn't run again."
@@ -1095,19 +1175,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "World reacts with surprise, worry to 1st Biden-Trump debate"
-    excerpt: "Many across the world looked on largely aghast as the first debate between President Donald Trump and Democratic challenger Joe Biden devolved into a verbal slugfest short on substance but heavy with implications for America’s international image."
-    publishedDateTime: 2020-10-01T17:55:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/foreign-observers-note-chaos-rancor-us-debate-73333539"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/foreign-observers-note-chaos-rancor-us-debate-73333539"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/foreign-observers-note-chaos-rancor-us-debate-73333539"
+  - title: "Trump, Biden go on offense in states they're trying to flip"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden have been on offense, with each campaigning in states they're trying to flip during the Nov. 3 election that's just over two weeks away"
+    publishedDateTime: 2020-10-19T08:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-offense-states-flip-73688850"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-offense-states-flip-73688850"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-offense-states-flip-73688850"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_86ed6ed498f84b80a62d9c0d7208808f_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-gty-jef-201018_1603054579958_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1126,6 +1206,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Vi2vQBmtbG_CzDrT297oq_cWvPg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RGXRTMVD4AR7VPRBZC54SUHHYU.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump tends to his electoral map, Biden prepping for debate"
+    excerpt: "President Donald Trump is hopping from one must-win stop on his electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the"
+    publishedDateTime: 2020-10-21T05:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb6d675103304f93a7ae8bd46efb9865_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Face to face: Trump, Biden to meet for final debate"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden are set to square off in their final debate Thursday"
@@ -3335,6 +3431,38 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "President Trump takes a break from calling Joe Biden old to reference Bob Hope"
+    excerpt: "Trump tweeted Monday that Anthony Fauci had received more airtime than anyone since Bob Hope, the vaudevillian who died in 2003 at age 100."
+    publishedDateTime: 2020-10-19T20:50:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4C6PTZAQVEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "As Biden and Trump battle for white voters, district-level polls are revealing"
+    excerpt: "They had access to polling conducted at the Congressional district level, which showed Donald Trump gaining ground big time in White working-class House districts. Support our journalism. Subscribe today."
+    publishedDateTime: 2020-10-20T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4MQKMQS4UI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1260
+        isCached: true
   - title: "Trump defends Texas drivers who swarmed Biden bus on highway; FBI investigating"
     excerpt: "According to the Biden campaign, the vehicles surrounded the bus trying to slow it down in the middle of the highway or run it off the road."
     publishedDateTime: 2020-11-03T15:11:00Z
@@ -3544,6 +3672,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 135
+  - title: "Politicians, World Leaders Extend Congratulations to Joe Biden and Kamala Harris"
+    excerpt: "Both Joe Biden and Kamala Harris have received overwhelming support from public figures and world leaders, as the election was called in the Democratic candidates' favor Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770"
+    ampWebUrl: "https://www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/politicians-world-leaders-extend-congratulations-joe-biden-kamala-harris-1545770?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1667116/joe-biden.jpg"
+        width: 2694
+        height: 1848
+        isCached: true
   - title: "Mitch McConnell supports Trump's refusal to concede to President-elect Joe Biden"
     excerpt: "\"President Trump is 100% within his rights to look into allegations of irregularities and weigh his legal options,\" the Senate Majority Leader said."
     publishedDateTime: 2020-11-09T23:48:00Z
@@ -3605,6 +3749,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
+        isCached: true
+  - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
+    excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
+    publishedDateTime: 2020-10-20T02:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/audio/2020/oct/20/us-elections-2020-joe-biden-and-donald-trumps-possible-paths-to-power-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 134
+    images:
+      - url: "https://i.guim.co.uk/img/media/3cc060c73a643a8a3bbc3a5ca533b0640bdcdf98/0_250_7500_4500/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6095e73e7046e1fa21ac3eb05593c3ee"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump says he will score a 'big win,' accuses Democrats of trying to steal election"
     excerpt: "Republican President Donald Trump, in a tweet early on Wednesday, predicted he will win a second four-year term and accused Democrats of attempting to \"steal\" the election from him, without citing any evidence."
@@ -4312,6 +4470,22 @@ related:
     quality: 129
     images:
       - url: "https://i.insider.com/5fa614b31df1d500182196e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden and Kamala Harris change their Twitter bios to reflect their White House victories"
+    excerpt: "Elect\" and \"Vice President-Elect of the United States,\" respectively."
+    publishedDateTime: 2020-11-07T18:03:00Z
+    webUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-harris-change-twitter-bios-to-reflect-white-house-victories-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 129
+    images:
+      - url: "https://i.insider.com/5f3d59ea42f43f001ddfdcf2?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -6820,34 +6994,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Biden reluctant to comment on Trump's health"
-    excerpt: "Democratic presidential nominee Joe Biden is declining to comment on President Donald Trump's drive outside of Walter Reed to greet supporters. \"I'm not going to comment on any of his conduct or his health,"
-    publishedDateTime: 2020-10-05T17:09:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/biden-reluctant-comment-trumps-health/3625199001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f70190af-6182-4781-938a-f0b213e8c1d7_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden wishes Trump well from campaign trail"
-    excerpt: "With President Donald Trump hospitalized, Joe Biden is wishing him a speedy recovery, but urging him to \"listen to scientists\" and approve nationwide restrictions to stop the spread of the virus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/biden-wishes-trump-well-campaign-trail/3631686001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4b3712af-6ef7-497e-a6d0-b46c3f28d29f_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden has big cash advantage over Trump in final stretch"
     excerpt: "World News Biden has big cash advantage over Trump in final stretch. Posted . U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race wit"
     publishedDateTime: 2020-10-21T21:23:00Z
@@ -7384,6 +7530,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Joe Biden & Kamala Harris to address nation"
+    excerpt: "Watch \"Joe Biden and Kamala Harris to address the nation\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-07T22:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201107230157-joe-biden-and-kamala-harris-to-address-the-nation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/07/story_07596530_1604790724.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Johnson denies his Trump ties weaken UK-US bond under Biden"
     excerpt: "Britain and the United States will work together to support democracy and combat climate change, British Prime Minister Boris Johnson said Sunday, while denying that his close ties to President Donald Trump would hurt U."
     publishedDateTime: 2020-11-08T14:10:00Z
@@ -7719,6 +7879,20 @@ related:
       - url: "https://i.insider.com/5fa85c1d1df1d500182197ce?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Here’s what Kamala Harris is likely to take on as Biden’s vice president"
+    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second in the White House."
+    publishedDateTime: 2020-11-10T05:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 119
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/rawImage.jpg"
+        width: 1700
+        height: 1296
         isCached: true
   - title: "Trump is apparently confused about why news outlets projected the election winner as he rails against the results"
     excerpt: "President Donald Trump has refused to accept his loss and on Sunday questioned the long-standing process of news outlets calling the election."
@@ -8520,6 +8694,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Trump digs in at White House, denying Biden transition help on pandemic, national security"
+    excerpt: "More than two weeks since the election, President Donald Trump remains dug in at the White House, refusing to concede and to help his successor deal with critical and urgent issues: the pandemic ..."
+    publishedDateTime: 2020-11-19T04:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-digs-white-house-denying-biden-transition-pandemic/story?id=74278067"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/white-house-trump-rt-jef-201118_1605723085203_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Legal problems galore await Donald Trump if he loses reelection and his presidential immunity"
     excerpt: "President Trump, his campaign, and his business already face legal scrutiny. Things could get much worse if he loses the White House and its immunity from prosecution."
     publishedDateTime: 2020-11-06T02:27:00Z
@@ -8613,6 +8801,38 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Biden building war chest to battle Trump after the election: report"
+    excerpt: "The Daily Beast reported that Joe Biden is amassing a large pool of funds — not to run his campaign, but to cover the legal expenses of duking it out with President Donald Trump in the event that the election ends up in the courtroom."
+    publishedDateTime: 2020-10-20T18:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 105
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Trump pressures Barr to investigate Bidens as election nears"
+    excerpt: "With just two weeks to go before Election Day, Trump for the first time explicitly called on Barr to investigate the Bidens and even pointed to the nearing Nov. 3 election as reason that Barr should not delay taking action."
+    publishedDateTime: 2020-10-20T19:46:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 105
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "China Is Getting Ready for a World Without Trump"
     excerpt: "Now that Trump appears to be on his way out, and China’s economy is growing again — with parts of Europe and the U.S. resuming lockdowns — the yuan’s outlook is rosy. Reining in excessive currency volatility will be critical if Beijing wants to keep a steady inflow of foreign money."
@@ -8998,6 +9218,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Election 2020: Joe Biden beats defiant Donald Trump; Kamala Harris first woman elected vice president"
+    excerpt: "In a Saturday evening address to the nation, Biden touted the fact that he’s won more votes than any presidential ticket in history, calling his win “a convincing victory, a victory for the people.”"
+    publishedDateTime: 2020-11-08T02:43:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-2020-election-results-live-updates-20201107-q3shnhxtwbczdmctozxemrnvum-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 105
+    images:
+      - url: "https://www.courant.com/resizer/Ee0W9aCN3FWG-v2fbZgPvyrZ73A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KZKWCXLLWNHSTL2ISPRCT3M6EE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "From women to migrants: What does a Biden win mean for Africa?"
     excerpt: "Democrat Joe Biden's victory in the U.S. presidential election is set to affect Africa's 1.3 billion people on issues ranging from climate change and immigration to women's health and human rights, according to academics and analysts."
     publishedDateTime: 2020-11-08T00:17:00Z
@@ -9626,6 +9862,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In debate countdown, Donald Trump holds rally, Joe Biden hits prep"
+    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best"
+    publishedDateTime: 2020-10-20T19:15:00Z
+    webUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 100
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Trump_28260-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Here Are the States Joe Biden or Donald Trump Need to Win"
     excerpt: "As states continue counting their votes, here are the potential pathways to victory for Joe Biden or President Donald Trump."
     publishedDateTime: 2020-11-04T13:59:00Z
@@ -9971,21 +10223,101 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump does what he says he will do. Joe Biden waffles."
-    excerpt: "Worse than his contradictions, Joe Biden is too beholden to the radicals in his party. If he’s elected, we’ll never know who’s really in charge, writes Ed Kovacic of Westlake in a letter to the editor."
-    publishedDateTime: 2020-10-03T16:07:00Z
-    webUrl: "https://www.cleveland.com/letters/2020/10/trump-does-what-he-says-he-will-do-joe-biden-waffles.html"
-    ampWebUrl: "https://www.cleveland.com/letters/2020/10/trump-does-what-he-says-he-will-do-joe-biden-waffles.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/trump-does-what-he-says-he-will-do-joe-biden-waffles.html?outputType=amp"
+  - title: "Elect Joe Biden. Reject Donald Trump."
+    excerpt: "In 2016, we broke tradition in urging you not to vote for Trump. Now we're making our first presidential endorsement. We hope it's our last."
+    publishedDateTime: 2020-10-20T13:42:00Z
+    webUrl: "https://www.indystar.com/in-depth/opinion/todaysdebate/2020/10/20/elect-joe-biden-reject-donald-trump-editorials-debates/5919435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5919435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919435002"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 90
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PCTMRWWNQZB3NPRWOD7VLWW36E.jpg"
-        width: 6000
-        height: 3081
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/PIND/cb16142b-cf63-4af9-bd36-29e73ac7e815-bidenIllo.png?auto=webp&crop=1279,720,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "The Latest: Trump plans to debate Biden despite rule changes"
+    excerpt: "The nonpartisan Commission on Presidential Debates announced Monday that the second and final debate between the two candidates will have each nominee muted while the other delive"
+    publishedDateTime: 2020-10-20T01:04:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/cc/7cc2031e-e7e6-5e22-8d72-187a61d02fb9/5f8dc945c5724.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-20T22:08:00Z
+    webUrl: "https://www.freep.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3696503001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In debate countdown, President Trump holds rally, Joe Biden does prep"
+    excerpt: "President Trump shunned formal debate practice Tuesday, opting for another rally two days ahead of the final presidential debate. Democrat Joe Biden took the opposite approach, holing up for debate prep."
+    publishedDateTime: 2020-10-21T01:49:00Z
+    webUrl: "https://www.wmur.com/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    ampWebUrl: "https://www.wmur.com/amp/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 90
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/trump-rally-ap-1603244064.jpg?crop=1.00xw:0.846xh;0,0.0725xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "In debate countdown, Trump holds rally, Biden does prep"
+    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."
+    publishedDateTime: 2020-10-20T22:33:00Z
+    webUrl: "https://www.chron.com/news/article/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "The Latest: Trump plans to debate Biden despite rule changes"
+    excerpt: "The Latest on the 2020 presidential campaign (all times local): 8:50 p.m. President Donald Trump plans to attend Thursday’s debate with Democratic nominee Joe Biden despite rule changes — opposed by his campaign — that are meant to foster more ordered discussions."
+    publishedDateTime: 2020-10-21T01:16:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Trump tends to his electoral map, Biden eyes Obama boost"
     excerpt: "President Donald Trump is hopping from one must-win stop on the electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."
@@ -10417,6 +10749,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chicago Area Leaders React After Joe Biden, Kamala Harris Projected To Defeat President Donald Trump, VP Mike Pence"
+    excerpt: "Gov. JB Pritzker said \"America elected a President and Vice President who will lead with compassion, restore dignity to the office, and give us hope for a brighter future.\""
+    publishedDateTime: 2020-11-07T21:24:00Z
+    webUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/"
+    ampWebUrl: "https://chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    cdnAmpWebUrl: "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/2020/11/07/chicago-area-leaders-react-after-joe-biden-kamala-harris-projected-to-defeat-president-donald-trump-vp-mike-pence/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 88
+  - title: "50 Cent Would Rather Endorse Donald Trump Than Let Joe Biden Raise His Taxes"
+    excerpt: "Cent is officially the latest celebrity to hop aboard the Trump 2020 train ahead of the presidential election next month. The rapper shared a screenshot of an infographic from the CNBC show Power Lunch on his Instagram account on Monday displaying the top tax rates by state under Joe Biden's suggested tax plan."
+    publishedDateTime: 2020-10-20T16:51:00Z
+    webUrl: "https://www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan"
+    ampWebUrl: "https://www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 87
+    images:
+      - url: "https://media.vanityfair.com/photos/5f8f0243faf1b82d3425a7bc/master/pass/50.jpg"
+        width: 2000
+        height: 1338
+        isCached: true
   - title: "Beyoncé Endorses Joe Biden, Kamala Harris In New Video After Voting For Them"
     excerpt: "Beyoncé made a last-minute endorsement video for the Democratic presidential candidate Joe Biden and vice-presidential candidate Kamala Harris on social media. Beyoncé joined the long list of celebrities endorsing Biden and Harris."
     publishedDateTime: 2020-11-03T03:46:00Z
@@ -10644,6 +11003,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/27/us-president-donald-trump-is-furious-at-journalists.jpg"
         width: 1024
         height: 701
+        isCached: true
+  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-20T15:18:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3696503001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact-checking Donald Trump, Joe Biden in the final presidential debate"
     excerpt: "The final presidential debate between former Vice President Joe Biden and President Donald Trump may have had fewer interruptions, but it wasn’t any more truthful. It was similar to the first ..."
@@ -11014,6 +11389,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Kamala Harris was out on a jog when Joe Biden was declared president-elect"
+    excerpt: "When Joe Biden was declared the winner of the 2020 presidential election by news networks Saturday morning, his running mate Sen. Kamala Harris was out on a jog with her husband Douglas Emhoff. Fox News' Biden campaign correspondent Peter Doocy reported on-air that Harris and Emhoff were jogging near the Biden campaign's headquarters in Wilmington,"
+    publishedDateTime: 2020-11-07T22:14:00Z
+    webUrl: "https://www.chron.com/bayarea/article/politics/article/Kamala-Harris-vice-president-video-jog-reaction-20-15709686.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/17/20227031/7/rawImage.png"
+        width: 599
+        height: 446
+        isCached: true
   - title: "President Donald Trump raised nearly twice as much money in Texas as Joe Biden"
     excerpt: "While public polling shows a close race for the White House in Texas, campaign finance reports leave no doubt who is winning the financial battle. Donald Trump has raised nearly double the amount of money in Texas as Joe Biden has."
     publishedDateTime: 2020-10-28T18:05:00Z
@@ -11137,19 +11526,28 @@ related:
         width: 650
         height: 358
         isCached: true
-  - title: "Joe Biden pulling negative ads as Trump battles COVID-19"
-    excerpt: "Joseph R. Biden’s campaign is pulling negative ads from the air for the time being in light of President Trump’s positive coronavirus diagnosis."
-    publishedDateTime: 2020-10-03T11:06:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/2/joe-biden-pulling-negative-ads-as-trump-battles-co/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 50
   - title: "President Trump & Vice President Pence Hold Rally in Grand Rapids, MI"
     excerpt: "President Trump delivers remarks at a campaign rally in Grand Rapids, MI. It’s the final of five rallies he’s holding on the eve of 2020's Election Day. In 2016, Grand Rapids was his last campaign stop before winning the election."
     publishedDateTime: 2020-11-02T10:21:00Z
     webUrl: "https://www.c-span.org/video/?477687-1/president-trump-vice-president-pence-hold-rally-grand-rapids-mi"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Joe Biden and Senator Kamala Harris Address the Nation"
+    excerpt: "Senator Kamala Harris Speaks at Biden Campaign Event in Fort Worth, Texas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a"
+    publishedDateTime: 2020-11-06T21:58:00Z
+    webUrl: "https://www.c-span.org/video/?477893-1/joe-biden-senator-kamala-harris-address-nation"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 50
+  - title: "Joe Biden and Kamala Harris Victory Speeches"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation from Wilmington, Delaware, after being declared the winners of the 2020 presidential election. President-elect Biden said the American people have \"delivered us a clear victory,"
+    publishedDateTime: 2020-11-09T02:03:00Z
+    webUrl: "https://www.c-span.org/video/?477916-1/president-elect-joe-biden-vice-president-elect-kamala-harris-address-nation&live"
     type: article
     provider:
       name: C-SPAN

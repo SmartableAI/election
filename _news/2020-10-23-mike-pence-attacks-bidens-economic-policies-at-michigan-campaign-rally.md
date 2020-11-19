@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump's new political strategy: Attack Biden by attacking Fauci, scientists: ANALYSIS"
+    excerpt: "With just two weeks to go until Election Day and polls showing his Democratic opponent Joe Biden with a formidable edge in the polls, President Donald Trump has stepped up his attacks -- on science and scientists."
+    publishedDateTime: 2020-10-19T23:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "fS0dQJQAEMFy+mFLCLJ6lTpZxd3Jmu7uUafvd0dZfPQr4539RKMixHa0593ShnvO5Cf5eOs09yKGQkb7Qv5kgj80zUjapB5+Cu9fF0hvgR6efp4R4Rip9yqsgYvTtfdPaci8+cfbr+wSbzZ8KBTC7LTEe9gomBhxHU0+CmcUScyU2S6DrTgM6UPfosWHApXl7Cx7deSZN6HXSfw7Wr7YLo6Ua7NXBO35NX10ClbM80Uuu617pxzbzRiAFeQ020JnPdxlV9uEL2MQRMaPz/vo8WYQOj3u1Unao3u27mxPQycQQsMNB01xoQrM6qhf/kAr3dCzJiLmtDUQbhixW89ATS+bNHT4zWWGospAlktsuV7AZkKZB6pfAecuUdkLY8Fm7ztOLBHut4qwndT9CNSErJRWCkvtXAV8mRe05t906OBYmGuA3SUQ/qWB38suA4tnTJgiysYn8qFB4pSo3ykOubXhE7E4wsS6mDVaj13RPBIGR/GIkbtXWLCtDvdkli0HLhPnCCSrePCxh29sdEgiCw==;KbxS02S+lafSTBJLt89v2A=="
 ---

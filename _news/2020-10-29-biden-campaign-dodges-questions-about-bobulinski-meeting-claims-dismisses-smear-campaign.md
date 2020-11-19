@@ -31,97 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
-    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T08:03:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+  - title: "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls"
+    excerpt: "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. "
+    publishedDateTime: 2020-11-01T21:04:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WhT96bEV-YI/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:12:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gr2E32btmE8/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Progressives eye top economic posts in potential Biden cabinet"
-    excerpt: "The former vice president is believed to be considering a diverse group of individuals for different posts."
-    publishedDateTime: 2020-10-30T01:40:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R2oOYtX7l48/biden-cabinet-picks-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2bf9be-186f-4158-b058-11bf6fe4b802/71d1c024-26eb-4378-a235-3f19a38abe51/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dff98d6f-d7b1-4e88-ad74-8d152941afcd/77e1be30-e89f-49eb-9c49-1f1844ed2954/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire"
-    excerpt: "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. "
-    publishedDateTime: 2020-10-27T23:37:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire"
+  - title: "Biden defends low-key campaign travel schedule, says he's 'not overconfident'"
+    excerpt: "Democratic presidential nominee Joe Biden on Monday defended his light campaign travel schedule, maintaining that he's not overconfident about his odds of defeating incumbent President Trump with one week to go until the November election."
+    publishedDateTime: 2020-10-27T15:47:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tKti5i3Mp50/biden-defends-low-key-campaign-travel-schedule-says-hes-not-overconfident"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 152
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ilhan Omar mobilizing progressives to push Biden further left"
-    excerpt: "Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected."
-    publishedDateTime: 2020-10-27T17:15:00Z
-    webUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-progressives-biden-left.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/2e9828b3-squad-members-together-aoc-omar-tlaib-pressley.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden rips Hunter Biden email leak as 'smear campaign,' says Russia trying to spread disinformation"
-    excerpt: "Democratic presidential nominee Joe Biden slammed the recent reports of his son Hunter’s overseas business dealings, calling them a “smear campaign” and arguing that the information is part of a Russian disinformation campaign."
-    publishedDateTime: 2020-10-26T02:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rips-hunter-biden-email-leak-as-smear-campaign-says-russia-trying-to-spread-disinformation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d83e8ba2-3baf-4881-ba00-146146946f25/fad58832-89f0-405f-9f53-c0961608987b/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20300747868320-e1603801372187.jpg"
         width: 1280
         height: 720
         isCached: true

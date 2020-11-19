@@ -95,20 +95,6 @@ related:
         width: 824
         height: 545
         isCached: true
-  - title: "Biden chooses Ron Klain as chief of staff"
-    excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
-    publishedDateTime: 2020-11-12T02:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/biden-chooses-ron-klain-chief-staff/6260565002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Joe Biden taps Ron Klain as chief of staff"
     excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-12T12:10:00Z
@@ -120,20 +106,6 @@ related:
     quality: 105
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07662910_1605183063.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden names Chief of Staff as Ron Klain"
-    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T18:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -150,6 +122,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden speaks to frontline workers"
+    excerpt: "Watch \"President-elect Joe Biden speaks to frontline health care workers\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T04:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201118191805-president-elect-joe-biden-speaks-to-frontline-health-care-workers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/18/story_07752290_1605727107.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "U.S. congressman Cedric Richmond brings practical streak to Biden White House"
     excerpt: "U.S. Representative Cedric Richmond of Louisiana brings a decade of experience in the House of Representatives, including some outreach to Republicans, to President-elect Joe Biden's administration at a time Democrats will need that skill set."

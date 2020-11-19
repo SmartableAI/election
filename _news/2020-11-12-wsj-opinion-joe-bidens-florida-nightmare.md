@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WSJ Opinion: What Pollsters Miss About Trump"
+    excerpt: "Main Street: A self-described ‘cowboy’ explains why he thinks the president will defy expectations and win again. Image: Brendan Smialowski/AFP via Getty Images"
+    publishedDateTime: 2020-11-03T00:54:00Z
+    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-what-pollsters-miss-about-trump/084C85CB-6793-4837-8B1B-4A88AB6A1D20"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20201102/110220opvidmainstreet/110220opvidmainstreet_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "46Jy/ie2O5F28RWehNN+LTYQEYGxXkaR7ksyUXd7/FkTvvTlulCg/0AwZSAiLZWZUHTzgHK8U38P36cWT1GpolVlDxnoAnrt3+2Do9Oq2XA7nluj4r7TTJX6NIlUrgJa4cxIciZ5Mdflwt0sUwFbw6zH5EXnmCsdvi7GWr61hYjNup7PHaqd7u+6UPMHQSoaq/6mUaViMtV5EtT7k0TxpT1Ozt0LxJCwBliAQ/E5KxzAN8b3GnmplwJ99xlegoIN45zCk1x/an3W9qfrYoIC+XzVchMCNaIWieH09SmR59Z+BHh5UAStuWTk5gpkR1rpyGa3L9o9N9UzsqcMc7bf27qsrVhnrFLLIzQx4d8fL4s=;rNp4O+cvAdhqsKvwrWuu+A=="
 ---

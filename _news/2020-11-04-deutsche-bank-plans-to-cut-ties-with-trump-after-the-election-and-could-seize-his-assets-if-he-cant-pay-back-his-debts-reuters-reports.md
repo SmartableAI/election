@@ -47,21 +47,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
-    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
-    publishedDateTime: 2020-11-05T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
+  - title: "Federal judge rejects Justice Department's effort to defend Trump in E. Jean Carroll rape defamation suit"
+    excerpt: "Trump's statements about the decades-old \"allegations have no relationship to the official business of the United States,\" the judge wrote."
+    publishedDateTime: 2020-10-29T01:09:00Z
+    webUrl: "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
     excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
@@ -79,20 +79,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Living statues paint Trump as racist 'relic'"
-    excerpt: "A week before Election Day, living statues depicting a golden Donald Trump in unflattering poses were on temporary display at the Lincoln Memorial and Trump International Hotel. (Oct. 27)"
-    publishedDateTime: 2020-10-28T15:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/28/living-statues-paint-trump-racist-relic/6054246002/"
+  - title: "Factbox: What a second Trump term would mean for U.S. financial policy"
+    excerpt: "A victory by U.S. President Donald Trump on Tuesday would continue his administration's four-year deregulatory streak, which has delivered at least $40 billion in gains to banks and other financial firms,"
+    publishedDateTime: 2020-11-03T00:17:00Z
+    webUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/33913ed7-8dc4-4054-977e-0a6d261e32d3_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
     excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
     publishedDateTime: 2020-11-07T18:32:00Z

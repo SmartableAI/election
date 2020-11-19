@@ -31,113 +31,142 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Biden win sets scene for storm before the calm"
-    excerpt: "Americans chose Joe Biden as their 46th president. That should usher in a more predictable period for policymaking, and decisive action on containing Covid-19. But he faces three major challenges: voters’ effective rejection of his party’s punchier ideas,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N0NT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N0NT"
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201107&t=2&i=1540367165&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA60HN"
-        width: 990
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
+        width: 818
         height: 545
         isCached: true
-  - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
-    excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
-    publishedDateTime: 2020-11-14T08:00:00Z
-    webUrl: "https://www.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
-    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
-    excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
-    publishedDateTime: 2020-11-09T02:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election/biden-urges-healing-and-cooperation-after-defeating-trump-for-u-s-presidency-idUSKBN27O06Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27O06Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27O06Y"
+  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 119
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M"
-        width: 753
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
+        width: 870
         height: 545
         isCached: true
-  - title: "Biden insider Klain will bring virus-fighting expertise to chief of staff role"
-    excerpt: "Ron Klain was once tapped by Democratic President Barack Obama to safeguard the United States from the threat of a lethal virus. As President-elect Joe Biden's chief of staff, he will take on a similar mission."
-    publishedDateTime: 2020-11-12T08:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-klain-newsmaker/biden-insider-klain-will-bring-virus-fighting-expertise-to-chief-of-staff-role-idUSKBN27S0BY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S0BY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S0BY"
+  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
+    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
+    publishedDateTime: 2020-11-05T08:09:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540919752&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB06G"
-        width: 794
-        height: 545
-        isCached: true
-  - title: "Man threatened to blow up people celebrating Biden victory, FBI building, prosecutors say"
-    excerpt: "A New York City man was arrested Tuesday and is facing federal charges after he allegedly made death threats against people celebrating President-elect Joe Biden's victory. Brian Maiorana, 54, of Staten Island,"
-    publishedDateTime: 2020-11-11T16:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/11/nyc-man-brian-maiorana-threatened-election-violence-against-democrats/6247339002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6247339002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6247339002"
-    type: article
-    provider:
-      name: Statesman Journal
+      name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/29c0c1c0-f434-4b24-beca-761079809f1f-AFP_AFP_8UR76T.jpg?auto=webp&crop=1023,575,x0,y125&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
         width: 1200
-        height: 674
+        height: 675
         isCached: true
-  - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
-    excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
-    publishedDateTime: 2020-11-10T19:29:00Z
-    webUrl: "https://www.washingtonpost.com/video/national/biden-delivers-remarks-on-supreme-court-case-surrounding-affordable-care-act/2020/11/10/b47e38b5-a062-4f52-9754-f0d8a7c094bb_live.html"
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
-    excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."
-    publishedDateTime: 2020-11-05T21:46:00Z
-    webUrl: "https://www.c-span.org/video/?477853-1/joe-biden-urges-patience-election-vote-count-continues-predicts-victory&ICID=ref_fark"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 108
     images:
-      - url: "https://static.c-span.org/assets/images/featured-playlists_icon.png"
-        width: 520
-        height: 485
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
+    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
+    publishedDateTime: 2020-11-12T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "s/51UCy0AVWmbgRjRnI17URqWMVV0kJ0Ne2ntKKELAb1U9ass+7Wg52DlfYzCvNQtrKSVkjHKmw3weTfrtK5iS8yo+c3G9PUxXc9Nao3cH6tsJhZe3UhyO9fK7fqELAi0ev+B8GUyTqJKhV8gY4giCCegK70Yy7hwT9t/0moegtFPEkR1evdIOu3TkHdre0OZQnckOzlsS9Mc/z9eknkcB88uPrmPdirXMpv10kGliBdyWdeRgRhPRmgFzXS87e0EsNd6g5mp5csC/XdZ8nQ/K05GtzNCV5440CLlHF+WeNh8/E7Bka/tp3JO98TrsSPo0sFAiGpj58vIe1Yvq0mDmaoxYuleYItllQsr1fEesXGVEW0qod2W9yglF+7gZdMn3OEB3wSQR1+ar0p28iCdJhcW+4tuqrss3F9EqSaP0ieQO2GMYJMbeBqyORbIRxq7cRDVkDpQcxrCYwtsjCCD6oVHsT3ZiUUjA/nsa07/aY1NH9B24FfOPeVkDnsEUnSEJX8UpP1xb3eBKmu0Z992A==;GyesNZZzq0r1Wh9zufz5bQ=="

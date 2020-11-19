@@ -28,21 +28,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pence to vote in Indiana this week as state's early voting begins"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence are expected to fly to Indiana Friday, to vote in person from the second family’s home state, as early voting kicked off Tuesday."
-    publishedDateTime: 2020-10-06T20:12:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp"
+  - title: "Why Vice President Pence was in northern Maine on Monday"
+    excerpt: "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind."
+    publishedDateTime: 2020-10-19T21:24:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/blFNlmWHj6s/vice-president-pence-northern-maine-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f5f008-69d5-41ad-8f48-c32183c19256/0e9e91f4-e14d-47a0-a9b5-a59f5ba01f77/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293689833377.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Why Vice President Pence was in northern Maine on Monday"
+    excerpt: "When you think of the battlegrounds that could decide whether Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind."
+    publishedDateTime: 2020-10-19T21:28:00Z
+    webUrl: "https://www.foxnews.com/politics/vice-president-pence-northern-maine-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293689833377.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "zDa65U+RE5jJJcYAj9J1cDaSIdGIPMOAYva5LrfUaOgESiALmjmqLkHJovNhgoNZsaiARiPzABgorfIAjNuZ3T2bf4XeRz+wUJCBFXPn9JDdTRJpQcn7syQHy4Z0473RvsZJqUMPhC9+Iu7W0qEMNrSr3e4kpzsQUHPczKD3PlShJqEq2vVGdafxavlHeZPNPZYTVz/n/su1hp1aZT3IZk1DPWIQYAP1Bj1CR4WLZvIeQv/Batz9ht83HRwShFrb86BQfHFdo1xoe/oECQ+f3ES+gGwFx040+HQjB7WI4psQBWkfItBB34ALUO3vIw2VXNLl4BFvgypy5JS+XR6r8oHhhOKisR9fXLRXFBmHCZdt2wuXb/DXwVW8Q/GK3Fx5NfUuiV2++Ju2N7KZzWGBEj0mGwDhWCD7TPTf4X7ZX3YctqNXFZrRy5PfvdplnJm9kEBUic5ED+qWYG5WQ23YNolp0wubuknGIQSbNjSHGXEWD7EvUhJU5UVXzPP94vClr+ZHr7teFzVR5vV6ZgkJEQ==;H/eI9r1zzdjQv7JbK/cucw=="

@@ -27,273 +27,179 @@ images:
     isCached: true
 
 related:
-  - title: "‘What’s happening out there’ with Black men and Trump?"
-    excerpt: "Tens of thousands of Black men, mostly, in jail. And you know what? They remember it because if you look at what’s happening with the voting right now, they remember that you treated them very, very badly."
-    publishedDateTime: 2020-10-23T15:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMR5PFALTUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 935
-        isCached: true
-  - title: "Did Donald Trump deliver to voters with that last debate performance?"
-    excerpt: "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That"
-    publishedDateTime: 2020-10-25T15:00:00Z
-    webUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance"
-    ampWebUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+  - title: "Schumer calls Trump 'a moron' over coronavirus response"
+    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
+    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg"
+      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Trump books are all the 'Rage': 10 books that offer a peek inside the White House"
-    excerpt: "Here are 10 of the most insightful titles about President Donald Trump and his White House, and what we learned from reading them."
-    publishedDateTime: 2020-10-25T14:07:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/10/25/donald-trump-books-inside-white-house-michael-cohen-john-bolton/3498535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3498535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3498535001"
+  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
+        width: 2965
+        height: 1977
         isCached: true
-  - title: "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could"
-    excerpt: "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels."
-    publishedDateTime: 2020-10-29T22:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3746508001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001"
+  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
+    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
+    publishedDateTime: 2020-10-23T21:54:00Z
+    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
+        width: 3500
+        height: 2314
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Column: Tragic presidency of Donald J. Trump may be nearing an end. What will be the final scene?"
-    excerpt: "Analyzing the trajectory of a presidency is not unlike inhabiting a writer’s room at Netflix or HBO. Or reading one's Shakespeare."
-    publishedDateTime: 2020-10-22T11:04:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 112
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://www.chicagotribune.com/resizer/6mufeD3ERAog4qHbq1587isNLCE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PFKIHMHUNNG6LP554DIAN6VLX4.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
-    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
-    publishedDateTime: 2020-10-20T23:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
+    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
+    publishedDateTime: 2020-10-25T03:43:00Z
+    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Comedian Sarah Cooper Doesn’t Need Donald Trump Anymore"
-    excerpt: "Cooper, who has a new Netflix special out, built her name lip-syncing the President. But she has plenty of other plans for the future"
-    publishedDateTime: 2020-10-27T18:34:00Z
-    webUrl: "https://time.com/5899863/sarah-cooper-netflix-trump/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Election Countdown: Kamala Harris stumping Saturday. What about Trump?"
-    excerpt: "With four days to go until Nov. 3, polls seem to say one thing but do voter turnout numbers point to a different result?"
-    publishedDateTime: 2020-10-30T15:43:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/6082893002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6082893002"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/NPPP/0716bd2e-ed3b-4861-b40e-ae39e3712e3f-PBC_Early_Voting_Color_04.jpg?auto=webp&crop=4165,2343,x0,y239&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "With Lil Wayne, Ice Cube And 50 Cent, Trump Makes Final Push For Black Voters"
-    excerpt: "The Trump campaign has spent more than $20 million on a strategy to appeal to Black voters, Polls show Trump has improved narrowly with young Black voters, particularly men."
-    publishedDateTime: 2020-10-30T09:01:00Z
-    webUrl: "https://www.npr.org/2020/10/30/929177685/with-lil-wayne-ice-cube-and-50-cent-trump-makes-final-push-for-black-voters"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 102
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/29/gettyimages-1228710316-1-_wide-26cc6b1e416775704e54529a03f318199710494a.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Twitter slapped yet another Trump tweet about mail-in voting with a 'misleading' label, and stopped other users from retweeting it"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 President Donald Trump has been fact-checked by Twitter. Again. Trump tweeted about mail-in voting on Monday, claiming there were ..."
-    publishedDateTime: 2020-10-27T11:15:00Z
-    webUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-trump-tweet-mail-voting-warning-label-minsinformation-block-retweet-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hundreds of Trump rallygoers were stranded in the cold because there reportedly weren't enough buses to transport them back to their cars"
-    excerpt: "Medics transported at least seven people to the hospital and police officers gave rides to elderly rallygoers."
-    publishedDateTime: 2020-10-28T15:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rallygoers-stranded-in-the-cold-because-of-insufficient-buses-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f9964b669331a0011bc5a67?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Without Florida, There’s Almost No Path for Donald Trump to Stay in the White House"
-    excerpt: "There’s almost no plausible path to a second term for President Donald Trump without winning his adoptive home state. This week in the D.C. Brief, we’re going to take the temperature in ..."
-    publishedDateTime: 2020-10-26T19:33:00Z
-    webUrl: "https://time.com/5903917/trump-florida/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 79
-  - title: "Man arrested at Trump rally with South Dakota's Noem"
-    excerpt: "Police in Maine on Wednesday arrested a man who displayed two weapons at a campaign rally for President Donald Trump where South Dakota Gov. Kristi Noem was appearing. Noem spokeswoman Maggie Seidel said Noem's security detail engaged a man who had two weapons."
-    publishedDateTime: 2020-10-28T17:57:00Z
-    webUrl: "https://www.chron.com/news/article/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Man-arrested-at-Trump-rally-with-South-Dakota-s-15681746.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Living and learning: Donald Trump has never met a mistake he didn’t repeat"
-    excerpt: "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago."
-    publishedDateTime: 2020-10-18T08:05:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: ABC7
+      domain: abc7.com
     quality: 73
     images:
-      - url: "https://www.nydailynews.com/resizer/cYD80D5Ij1vd9mvtNW30qxnUC-Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6PB4IDWS2FHFTPB27EWL7PU5PQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
+        width: 3422
+        height: 2281
         isCached: true
-  - title: "Hometown hate: From the start, Trump has wielded the power of the federal government to hurt NYC"
-    excerpt: "It’s a relatively new Donald Trump tic: to exclaim that his beloved hometown is dying, what with all the restrictions designed to prevent the spread of COVID. We suppose he’d prefer planes full of people (from where,"
-    publishedDateTime: 2020-10-25T19:46:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-hometown-hate-20201025-kmvrnok3yzauxomexolt4jwkue-story.html?outputType=amp"
+  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
+    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
+    publishedDateTime: 2020-10-25T03:34:00Z
+    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 66
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
+    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
+    publishedDateTime: 2020-10-22T14:44:00Z
+    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
     type: article
     provider:
       name: New York Daily News
       domain: nydailynews.com
-    quality: 62
+    quality: 64
     images:
-      - url: "https://www.nydailynews.com/resizer/Bgr0qo_yCZ83rRbUXIEhS3Ci6ZI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NFONZQZR3RDDJKGPUQZJLP2N6Y.jpg"
+      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
         width: 1200
-        height: 799
+        height: 816
         isCached: true
-  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
-    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
-    publishedDateTime: 2020-10-21T03:37:00Z
-    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
+    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
+    publishedDateTime: 2020-10-28T22:34:00Z
+    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
+        width: 1200
+        height: 624
         isCached: true
-  - title: "Trump Plans Battleground Blitz Despite Growing Virus Worries"
-    excerpt: "President Donald Trump plans to intensify an already breakneck travel schedule in the final full week of the presidential campaign despite growing worries about the coronavirus nationwide."
-    publishedDateTime: 2020-10-26T13:51:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-26/trump-to-escalate-campaigning-as-biden-steps-up-own-travel?context=amp"
+  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
+    publishedDateTime: 2020-10-27T20:14:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "How the conservative movement and the rise of the hard right created Donald Trump"
-    excerpt: "Author Edmund Fawcett on how the \"hard right\" — and the conflict within conservatism — led to the Trump calamity"
-    publishedDateTime: 2020-10-25T02:24:00Z
-    webUrl: "https://www.salon.com/2020/10/24/how-the-conservative-movement-and-the-rise-of-the-hard-right-created-you-know-who/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 50
+      name: WXII12
+      domain: wxii12.com
+    quality: 53
     images:
-      - url: "https://media.salon.com/2020/10/trump-reagan-thatcher-1023201.jpg"
-        width: 1692
-        height: 1142
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "haSN3SQrkectYUBPp9lGmdKpmkHM6TkL2yPJM5NIFIYIK02rr9fPKGJgQRHtXkmNu/BnKMGW/Vo+WFov6fmo8Ws60as35NUGKUjCJP4X+He2UGMoH/v4GxvdZYgHQlMCbbQQJ7DBWktoxoUhL3UgkqDlNmQf6C7OSI527UMr6EjHc4sVTAPsrPg4oBwhcnkBI87fswRmoOpK3UcPg+Mn9s3F/Gkpgeix2a2eat1AoJX5ikGPbyk6Z0at70fJSK0mfVTlcPNMqq0ex/f8OicQiY4nsZ84e4vCfLzkiYCd2DfSQ6EcHk4o/OK0WsRCNqVGiwdsWil1qIrpdjaPc/d7W/aSwCPbRpWfKAGRWLwTMNk=;BWzj5n2KBvuQQpJIWyuQcg=="

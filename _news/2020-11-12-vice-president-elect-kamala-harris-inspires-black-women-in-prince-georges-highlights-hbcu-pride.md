@@ -288,22 +288,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
-    excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
-    publishedDateTime: 2020-11-12T12:51:00Z
-    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "‘Put Some Respect on Her Name': Army Vet and Comedian Rita Brent Performs Her Viral Rap About Kamala Harris"
     excerpt: "Comedian Rita Brent’s rap video about Kamala Harris making history as the first Black woman Vice President-elect has gone viral. The rapper and Army veteran joined LX News to talk about the message behind her viral rap and drop some bars of “solidarity magic."
     publishedDateTime: 2020-11-11T21:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6339217002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6339217002"
 type: article
 quality: 139
-heat: 599
+heat: 579
 published: true
 
 provider:
@@ -344,22 +344,6 @@ related:
       - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
-    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
-    publishedDateTime: 2020-10-17T10:07:00Z
-    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
-    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
     excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."

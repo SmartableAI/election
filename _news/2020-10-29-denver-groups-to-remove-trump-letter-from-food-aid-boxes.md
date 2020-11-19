@@ -23,163 +23,469 @@ topics:
   - Donald Trump
 
 related:
-  - title: "NEWSMAKER-Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
-    publishedDateTime: 2020-10-31T10:18:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
+  - title: "Trump says COVID-19 aid deal expected after Nov. 3 election"
+    excerpt: "President Donald Trump said on Tuesday there would likely be a new COVID-19 stimulus package after the Nov. 3 election, reiterating his blame on House Speaker Nancy Pelosi for holding up the federal spending package."
+    publishedDateTime: 2020-10-27T17:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump/trump-says-covid-19-aid-deal-expected-after-nov-3-election-idUSKBN27C2MC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C2MC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C2MC"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 139
+    quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539013189&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1OW"
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
-    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
-    publishedDateTime: 2020-10-25T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
+  - title: "Donald Trump threatens to fire Anthony Fauci after US election"
+    excerpt: "President plays up to chants of ‘Fire Fauci’ at curfew-breaching Florida rally"
+    publishedDateTime: 2020-11-02T06:48:00Z
+    webUrl: "https://www.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    ampWebUrl: "https://amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/nov/02/donald-trump-threatens-to-fire-anthony-fauci-after-us-election"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/c8badd8268933ba924e08c538154c63169eb8efc/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c3b474212f71a4627a0c35b42391f3f6"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump Supporters Push Back Against Victory Statement, Pence Says Votes Still to Count"
-    excerpt: "The president said that he already feels victory is sealed despite ongoing vote counts, vowing legal action to secure his position."
-    publishedDateTime: 2020-11-04T07:37:00Z
-    webUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686"
-    ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
+  - title: "Trump Needs Pence on Campaign Trail Despite Staff COVID Crisis to Woo Evangelicals"
+    excerpt: "Mike Pence's decision to carry on with his campaign commitments despite COVID-19 cases among his staff comes with President Donald Trump trailing in the polls and looking to bolster support among ..."
+    publishedDateTime: 2020-10-27T14:38:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-donald-trump-campaign-evangelicals-1542353?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 133
+    quality: 134
     images:
-      - url: "https://d.newsweek.com/en/full/1664385/trump.jpg"
+      - url: "https://d.newsweek.com/en/full/1658765/pence.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump Sons Hint At 2024 Runs As President’s Polling Looks Dire"
-    excerpt: "A number of prominent Republicans, including Trump allies, have made trips to early primary states amid the ongoing 2020 election."
-    publishedDateTime: 2020-10-24T14:52:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/24/trump-sons-hint-at-future-runs-as-presidents-polling-looks-dire/amp/"
+  - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
+    excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
+    publishedDateTime: 2020-10-28T10:00:00Z
+    webUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625"
+    ampWebUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 134
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f943e3b7a08c6884f937002%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3617%26cropY1%3D340%26cropY2%3D2633"
-        width: 1200
-        height: 761
+      - url: "https://d.newsweek.com/en/full/1659972/president-donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Minority pushes Trump agenda largely unpopular among tribes"
-    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
-    publishedDateTime: 2020-10-24T17:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+  - title: "Factbox: U.S. Supreme Court rules against Trump as legal battles over election continue"
+    excerpt: "With both sides in the U.S. presidential election dueling in court ahead of Tuesday's vote, Democrats scored two significant victories on Wednesday when the U.S. Supreme Court left in place extensions of North Carolina and Pennsylvania's deadlines for receiving mail-in"
+    publishedDateTime: 2020-10-29T10:35:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN27E1HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27E1HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539251364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0TS"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
+    excerpt: "Democratic nominee says Americans are “tired” of president’s lies over Covid"
+    publishedDateTime: 2020-10-20T11:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8e9fbf8f0898b435917f5e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/a74c21eb71b23eab9149e761ce5523336c18ee62/0_259_3908_2346/master/3908.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f8c5581f7751b4b9e4b9612dbcd244a7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
+    excerpt: "Democratic nominee says Americans are ‘tired’ of president’s lies over Covid"
+    publishedDateTime: 2020-10-20T17:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/a74c21eb71b23eab9149e761ce5523336c18ee62/697_678_3211_1927/master/3211.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=caf6831cf2af31c4a6d108308219a8ae"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
+    excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-23T13:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5eab11f9204ad303cc23aeb3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-21T03:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Note: Trump's Fauci feud keeps campaign focus on COVID-19"
+    excerpt: "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,"
+    publishedDateTime: 2020-10-20T10:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "What to make of the 'kinder, gentler' Donald Trump"
-    excerpt: "Florida Man wouldn't even do this stuff' Trump makes his case in North Carolina, Ohio and Wisconsin Pence's chief of st"
-    publishedDateTime: 2020-10-25T17:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump"
-    ampWebUrl: "https://thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/522652-what-to-make-of-the-kinder-gentler-donald-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_smile_042020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "President Donald Trump handily wins Kentucky once again"
-    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
-    publishedDateTime: 2020-11-06T21:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
-    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
-    publishedDateTime: 2020-11-06T01:48:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 120
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Donald Trump won Ohio: A closer look at the campaign in a battleground state"
-    excerpt: "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs."
-    publishedDateTime: 2020-11-06T21:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6161704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
-    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
-    publishedDateTime: 2020-10-25T20:04:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUKKBN27A04S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
+  - title: "Trump says Senate Republicans will go along with COVID aid deal"
+    excerpt: "President Donald Trump predicted on Tuesday that his fellow Republicans in the U.S. Senate would go along if the White House reaches a coronavirus relief deal with Democratic House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-10-20T13:04:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-trump-idUKKBN2751R2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2751R2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2751R2"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538782576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0OK"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538163874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J111"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump, Mnuchin say Pelosi must compromise to reach COVID-19 deal"
+    excerpt: "U.S. President Donald Trump and U.S. Treasury Secretary Steven Mnuchin of Friday said they would back the right deal for more COVID-19 relief but that House Speaker Nancy Pelosi must compromise in order to reach a final agreement."
+    publishedDateTime: 2020-10-23T16:53:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house-idUSW1N2G500I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2G500I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2G500I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538628823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M1DN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump Pins Hopes on Rallies That Could Be Sealing His Defeat"
+    excerpt: "President Donald Trump’s push for a second poll-defying victory is relying on a hallmark of his first -- raucous campaign rallies that Trump sees as a crucial sign of voter enthusiasm but that ..."
+    publishedDateTime: 2020-10-27T08:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/trump-pins-hopes-on-rallies-that-could-be-sealing-his-defeat"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiKt14agS3Io/v0/360x-1.jpg"
+        width: 360
+        height: 230
+        isCached: true
+  - title: "Obama mocks Trump for being 'jealous of COVID's media coverage'"
+    excerpt: "Former President Barack Obama said that President Trump had \"completely [screwed] this up\" and mocked his response to the coronavirus crisis."
+    publishedDateTime: 2020-10-28T12:41:00Z
+    webUrl: "https://www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-barack-obama-mock-donald-trump-jealous-covid-media-coverage-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f99417c69331a0011bc5a24?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "White House Lists 'Ending' Covid-19 Pandemic As Trump Accomplishment"
+    excerpt: "\"The Administration has taken several actions to engage scientists in academia, industry, and government to understand and defeat this disease.\""
+    publishedDateTime: 2020-10-27T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/27/white-house-lists-ending-covid-19-pandemic-as-trump-accomplishment/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98970c2540474cced7684f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D0%26cropY2%3D1631"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "As COVID-19 roars back in U.S., Trump rallies in battleground Arizona"
+    excerpt: "With less than a week of voting left, President Donald Trump on Wednesday held an in-person campaign rally in Arizona despite a U.S. surge in COVID-19 cases and mounting criticism that he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T21:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN27D0FI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27D0FI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27D0FI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As COVID-19 roars back in U.S., Trump stages rallies in Arizona"
+    excerpt: "With less than a week before Election Day, President Donald Trump held an in-person campaign rally in Arizona on Wednesday despite a U.S. surge in COVID-19 cases and criticism he is prioritizing his re-election above the health of his supporters."
+    publishedDateTime: 2020-10-28T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/as-covid-19-roars-back-in-us-trump-rallies-in-battleground-arizona-idUSKBN27D0FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D0FI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539151186&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R1IF"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "GRAPHIC-Trump's stock market - A wild four years"
+    excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
+    publishedDateTime: 2020-10-29T10:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539255040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0U6"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "How Republicans can grow the party's base after Donald Trump is gone"
+    excerpt: "Republican operatives at the Lincoln Project spin wicked videos designed to get under President Donald Trump’s skin. Veterans from the Bush Administration sign up with 43 Alumni for Biden. Retired security officers leap on the blue bandwagon."
+    publishedDateTime: 2020-10-28T22:05:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/27/how-republicans-can-save-party-and-grow-their-base-after-trump-column/6038458002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6038458002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038458002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On virus, Trump and health advisers go their separate ways"
+    excerpt: "A multi-state coronavirus surge in the countdown to Election Day has exposed a clear split between President Donald Trump’s bullish embrace of a return to normalcy and urgent public warnings from the"
+    publishedDateTime: 2020-10-30T05:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Pelosi, Trump administration trade blame over virus aid"
+    excerpt: "The major players in Washington’s COVID relief blame game are trading accusations as they mark time before an election that promises to change the landscape for talks that have dragged on for months"
+    publishedDateTime: 2020-10-30T01:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/pelosi-trump-administration-trade-blame-over-virus-aid/2020/10/29/69d64aba-1a45-11eb-8bda-814ca56e138b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Did Donald Trump Win Arizona in 2016?"
+    excerpt: "The swing state has been called for presidential candidate Joe Biden by the Associated Press, but how did Arizona vote in 2016?"
+    publishedDateTime: 2020-11-04T07:52:00Z
+    webUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680"
+    ampWebUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
+        width: 2500
+        height: 1614
+        isCached: true
+  - title: "Donald Trump has won North Dakota"
+    excerpt: "The state has three electoral votes and was not expected by analysts to be competitive."
+    publishedDateTime: 2020-11-04T00:16:00Z
+    webUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/north-dakota-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa2201b69331a0011bc7288?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democrats demand docs tied to Trump order stripping civil service protections"
+    excerpt: "Democrats on the House Oversight Committee asked the White House on Wednesday to turn over a trove of documents related to a recent order that strips some civil servants of worker protections."
+    publishedDateTime: 2020-10-28T21:16:00Z
+    webUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service"
+    ampWebUrl: "https://thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/523239-democrats-demand-docs-tied-to-trump-order-stripping-civil-service?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_10262020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump Claims Doctors Overcounting Covid-19 Coronavirus Deaths To Make More Money"
+    excerpt: "Here is the response on Twitter from physicians and various medical societies to the statements by Trump during a campaign rally in Wisconsin."
+    publishedDateTime: 2020-10-27T06:30:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/27/trump-claims-doctors-overcounting-covid-19-coronavirus-deaths-to-make-more-money/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 120
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f97ac2143dbbcfe48bf6f3c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
+    publishedDateTime: 2020-10-24T08:54:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN27905G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27905G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27905G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538656184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M191"
+        width: 833
+        height: 545
+        isCached: true
+  - title: "Former President Obama slams Trump as 'jealous of COVID's media coverage' amid record cases"
+    excerpt: "Former President Barack Obama blasted President Donald Trump on Tuesday over the record number of new cases in the coronavirus pandemic."
+    publishedDateTime: 2020-10-27T17:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/27/obama-blasts-trump-over-handling-covid-19-pandemic-media-complaints/3750073001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3750073001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3750073001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/27/USAT/265fdd2d-d6b6-4aeb-9c8b-8aa44f1e360f-obama_orlando_1.jpg?auto=webp&crop=5861,3297,x0,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
+    excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
+    publishedDateTime: 2020-11-03T00:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6101540002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘I voted for a guy named Trump,’ the president says after voting in person in West Palm Beach"
     excerpt: "President Donald Trump cast his in-person vote in West Palm Beach on Saturday morning, and said \"I voted for a guy named Trump.\" He took the opportunity to remind people how secure in-person voting is over mail ballots."
@@ -197,361 +503,375 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Donald Trump's Presidency Has Changed The Media"
-    excerpt: "Navarro asks CNN's chief media correspondent Brian Stelter how Donald Trump's presidency has affected the media and what another four years could bring."
-    publishedDateTime: 2020-10-25T11:51:00Z
-    webUrl: "https://www.npr.org/2020/10/25/927564446/how-donald-trumps-presidency-has-changed-the-media"
+  - title: "Trump says 'hopefully' states won't be allowed to count ballots after Election Day, which is a normal part of the electoral process"
+    excerpt: "The results of elections are never finalized on election night and what Trump desires would actually potentially disenfranchise his own voters."
+    publishedDateTime: 2020-10-28T21:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hopes-states-wont-allowed-count-ballots-after-election-day-2020-10?amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
     images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://i.insider.com/5f99df9069331a0011bc5ed3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Foreign students show less zeal for US since Trump took over"
-    excerpt: "On a recruiting trip to India’s tech hub of Bangalore, Alan Cramb, the president of a reputable Chicago university, answered questions not just about dorms or tuition but also American work visas."
-    publishedDateTime: 2020-10-25T22:47:00Z
-    webUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/foreign-students-show-less-zeal-for-us-since-trump-took-over-2020-10?amp"
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
+  - title: "Trump says he will test for COVID-19 before next presidential debate"
+    excerpt: "U.S. President Donald Trump said on Monday he would test for the coronavirus before the next presidential debate with Democratic candidate Joe Biden this week."
+    publishedDateTime: 2020-10-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-test-idUSKBN2742MA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742MA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742MA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Comedian Sarah Cooper Doesn’t Need Donald Trump Anymore"
+    excerpt: "Cooper, who has a new Netflix special out, built her name lip-syncing the President. But she has plenty of other plans for the future"
+    publishedDateTime: 2020-10-27T18:34:00Z
+    webUrl: "https://time.com/5899863/sarah-cooper-netflix-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/sarah-cooper-interview.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Dr. Fauci's COVID comment angers Pres. Trump"
+    excerpt: "Watch \"Dr. Fauci's COVID comment angers Pres. Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-02T12:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201102124016-dr-faucis-covid-comment-angers-pres-trump/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/02/story_07506271_1604321044.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
-    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
-    publishedDateTime: 2020-11-06T21:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+  - title: "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes"
+    excerpt: "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account."
+    publishedDateTime: 2020-10-23T21:32:00Z
+    webUrl: "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/borat-star-meets-donald-trump-jr-visits-white-house-in-deleted-scene-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
-    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5f934591f21803001222bbe2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Pence brings Trump’s closing message to Florida’s capital city"
-    excerpt: "Pence also continued the Trump administration’s focus on a positive spin about how they have handled the virus. The vice president promised a COVID-19 vaccine by the end of the year and vowed to reopen the economy and schools."
-    publishedDateTime: 2020-10-25T01:47:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
+  - title: "Analysis: 7 takeaways from the final 2020 debate, including Trump’s continued difficulty defending his handling of COVID-19"
+    excerpt: "For Trump, the matchup was perhaps the final opportunity to change the dynamics of a race. For Biden, it was 90 minutes to solidify an apparent lead."
+    publishedDateTime: 2020-10-23T05:22:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/97kzAR_nGPDHLZC-Q7Oo7-zKNaE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NHEONEAJQMOIGPKKWVGV5BFYLM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump will host another White House gathering for Amy Coney Barrett even though the 1st one became a COVID-19 superspreader event"
+    excerpt: "White House chief of staff Mark Meadows said the event will be held outdoors and that the White House would urge people to maintain social distance."
+    publishedDateTime: 2020-10-26T16:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-potential-coronavirus-superspreader-event-amy-coney-barrett-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f96d54b4743a3001216b920?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "2 days after Donald Trump’s visit, Mike Pence returning to Arizona"
+    excerpt: "Vice President Mike Pence is coming back to Arizona on Friday, four days before Election Day, for rallies in Flagstaff and Tucson."
+    publishedDateTime: 2020-10-28T21:44:00Z
+    webUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/"
+    ampWebUrl: "https://ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3657482/2-days-after-donald-trumps-visit-mike-pence-returning-to-arizona/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
     quality: 90
     images:
-      - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
-        width: 800
-        height: 450
+      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_7e3e06fc1c1a4e0891785a8538a2833c-15.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Vice-President Mike Pence to miss Trump Supreme Court vote"
-    excerpt: "President Mike Pence is expected to miss a vote confirming Donald Trump's Supreme Court nominee, his aides have said. Mr Pence will reportedly stay in Minnesota where he is campaigning. Democrats are trying desperately to delay the vote as the Republican-controlled Senate nears confirmation."
-    publishedDateTime: 2020-10-26T23:15:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54693599"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54693599"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54693599"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 90
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/100E7/production/_115076756_acbindex.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Mike Pence: ‘Show them Michigan is Trump country’"
-    excerpt: "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,"
-    publishedDateTime: 2020-10-28T23:49:00Z
-    webUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
+  - title: "Kamala Harris blames Trump for COVID-19 'mass casualty event’ during Michigan visit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said President Donald Trump’s handling of the coronavirus pandemic caused the “greatest mass casualty event s"
+    publishedDateTime: 2020-10-26T04:15:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-blames-trump-for-covid-19-mass-casualty-event-during-michigan-visit.html?outputType=amp"
     type: article
     provider:
       name: MLive
       domain: mlive.com
-    quality: 90
+    quality: 84
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG"
-        width: 1300
-        height: 867
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GJWXLVLC75EXNLWNT2JDQ3BBFM.JPG"
+        width: 4992
+        height: 4006
         isCached: true
-  - title: "Vice President Mike Pence in Iowa to rally support for Trump, Ernst"
-    excerpt: "DES MOINES — Mike Pence and Joni Ernst stood on stage together and waved to the adoring crowd, two elected officials who find their respective re-election bids in real danger of losing in Iowa ..."
-    publishedDateTime: 2020-10-29T22:19:00Z
-    webUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.html"
-    ampWebUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
-    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
+  - title: "If Trump loses the election — experts worry that’s when things could get really ‘weird’"
+    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
+    publishedDateTime: 2020-10-28T15:11:00Z
+    webUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
     type: article
     provider:
-      name: Quad-City Times
-      domain: qctimes.com
-    quality: 90
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 82
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/62/6627b57c-d6bc-53d5-bdbd-d41ae599d8ab/5f9b3d433bf67.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Opinion: Vote for Donald Trump and Mike Pence"
-    excerpt: "Republican Party of Virginia Chairman Rich Anderson makes his party's closing argument on behalf of Donald Trump and Mike Pence."
-    publishedDateTime: 2020-10-31T06:05:00Z
-    webUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html"
-    ampWebUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
+  - title: "If Donald Trump loses the election — experts worry that’s when things could get really ‘weird’"
+    excerpt: "As a Joe Biden election win appears increasingly likely, many in Washington, D.C., are beginning to wonder what will happen between Nov. 3 and Jan. 20. Even if President Donald Trump calmly accepts an election loss,"
+    publishedDateTime: 2020-10-29T10:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/if-donald-trump-loses-the-election-experts-worry-thats-when-things-could-get-really-weird/amp/"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 90
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 78
     images:
-      - url: "https://www.dailypress.com/resizer/ViTXaWpsZsnPSk2_BYdQmIIprrM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7O5QYGEJYFLJRZ6GTUVFO5HLA.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/10/trump-frown-afp.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
-    excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
-    publishedDateTime: 2020-10-30T06:28:00Z
-    webUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029"
-    ampWebUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
+  - title: "Trump administration proposes reversal of homeless policy"
+    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
+    publishedDateTime: 2020-10-27T19:00:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 88
-    images:
-      - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
-    excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
-    publishedDateTime: 2020-10-29T01:04:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/28/mike-pence-flint-systemic-racism-trump/6062946002/"
-    ampWebUrl: "https://amp.freep.com/amp/6062946002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6062946002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/8e0b3abe-1494-47ca-8690-84a0c02238fb-AP20296625847430.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Flint Wednesday"
-    excerpt: "Today the Trump Campaign announced Vice President Mike Pence will hold a rally on Wednesday evening, in Flint."
-    publishedDateTime: 2020-10-26T16:51:00Z
-    webUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/"
-    ampWebUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/23f542e2e71148e6bf2a33da67870ac8.jpg?w=1280"
-        width: 1280
-        height: 853
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
-    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
-    publishedDateTime: 2020-10-28T15:51:00Z
-    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
+  - title: "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases"
+    excerpt: "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer."
+    publishedDateTime: 2020-10-21T15:48:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp"
     type: article
     provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 75
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 74
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
+      - url: "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Who Is Captain Moroni And Why Is He Being Compared To President Trump?"
-    excerpt: "Sen. Mike Lee, (R-Utah), compared President Donald Trump to a figure in the Book of Mormon at an Arizona rally on Wednesday."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574"
-    ampWebUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
+  - title: "VP Mike Pence rallies Trump supporters in NC after staffers test positive for COVID-19 | Charlotte Observer"
+    excerpt: "The Kinston trip was the first of several the Pence family is making to North Carolina this week. Pence and his wife tested negative after aides tested positive."
+    publishedDateTime: 2020-10-25T23:14:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246705331.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/3744da0a-cef0-400a-b2a7-37c4af12ed04/45c6f1a2-030e-4a4c-9097-2e518f9510e2/1280x720/match/image.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "The Trump Administration Asked Celebrities to Film a COVID PSA. They Ghosted."
+    excerpt: "HHS planned a start-studded, taxpayer-funded campaign ostensibly meant to educate the public on the pandemic, but was actually designed as damage control for the president."
+    publishedDateTime: 2020-10-29T20:16:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trum-admin-celebrity-covid-psa/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 72
+    images:
+      - url: "https://media.vanityfair.com/photos/5f9adc08d070eec8d50f0fad/master/pass/Trump10.29.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
+    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
+    publishedDateTime: 2020-10-21T01:37:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/28/us-president-donald-trump-campaigns-in-arizona-promising.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Pence continues Hoosier streak of one-term vice presidents"
-    excerpt: "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term."
-    publishedDateTime: 2020-11-07T18:45:00Z
-    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html"
-    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
-    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
+  - title: "As COVID-19 hospitalizations set Ohio record, Vice President Mike Pence in Cincinnati today to hold rally for Trump re-election"
+    excerpt: "Attendees will be admitted to the Lunken event between 4 and 5:30 p.m. Temperature checks will be conducted and attendees will be given masks."
+    publishedDateTime: 2020-10-20T19:39:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/20/ohio-election-2020-vp-mike-pence-visits-cincinnati-stump-trump/3711735001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3711735001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3711735001"
     type: article
     provider:
-      name: Northwest Indiana Times
-      domain: nwitimes.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
-    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
-    publishedDateTime: 2020-10-30T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Foreign Students Show Less Zeal for US Since Trump Took Over"
-    excerpt: "America has been considered the premier destination for international students, with the promise of an education at top-notch universities leading to job opportunities."
-    publishedDateTime: 2020-10-25T15:29:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-25/foreign-students-show-less-zeal-for-us-since-trump-took-over?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "RI's House Speaker in Tight Race in Pro-Trump District"
-    excerpt: "Rhode Island's Democratic House speaker is in a tight race as he campaigns to hang on to his legislative seat in a district that went for Donald Trump in 2016."
-    publishedDateTime: 2020-10-25T12:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district"
-    ampWebUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/indiana/articles/2020-10-25/ris-house-speaker-in-tight-race-in-pro-trump-district?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Locals Teed Off About New Trump Golf Course In Scotland"
-    excerpt: "On the roof of his house overlooking the sea in northeast Scotland, David Milne stands below a Mexican flag and stares down at a palatial golf clubhouse owned by Donald Trump. Milne has been a major opponent of the development ever since the US president began building the Trump International Golf Links near the village of Balmedie in 2006."
-    publishedDateTime: 2020-10-30T04:46:00Z
-    webUrl: "https://www.ibtimes.com/locals-teed-about-new-trump-golf-course-scotland-3072966"
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 57
+  - title: "White House COVID-19 Outbreak: Why Mike Pence Is Being Called ‘Grossly Negligent’ After Staff’s COVID Diagnosis"
+    excerpt: "Trump administration and campaign officials faced questioning about Vice President Mike Pence’s planned travel in the upcoming week after two of his top aides tested positive for COVID-19."
+    publishedDateTime: 2020-10-26T20:34:00Z
+    webUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296"
+    ampWebUrl: "https://www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-covid-19-outbreak-why-mike-pence-being-called-grossly-negligent-after-3070296?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/29/david-milne-seen-on-a-hillside-above-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/26/us-vice-president-mike-pence-will-give-the.jpg"
         width: 1024
-        height: 705
+        height: 746
         isCached: true
-  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
-    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
-    publishedDateTime: 2020-11-04T06:21:00Z
-    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
+  - title: "The Latest: Trump Supporters Delayed in the Cold After Rally"
+    excerpt: "Throngs of people who attended a campaign rally held by President Donald Trump at a Nebraska airport had to wait around in frigid weather for hours after it ended before they could get back to their cars."
+    publishedDateTime: 2020-10-28T14:22:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-28/the-latest-trump-supporters-delayed-in-the-cold-after-rally?context=amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Vice President Pence Trump Campaign Rally in Elm City, North Carolina"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Elm City, North Carolina. He touted the administration's achievements and spoke about its efforts to rebuild the military, support law enforcement,"
-    publishedDateTime: 2020-11-04T18:59:00Z
-    webUrl: "https://www.c-span.org/event/?477602/c2020-vice-president-pence-holds-rally-elm-city-nc"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Democrats, Trump Eye Coronavirus Stimulus Deal in Lame Duck Session"
+    excerpt: "The House speaker said she’s confident in a Biden victory and plans to deliver him a ‘clean slate’ if he wins and assumes office in January."
+    publishedDateTime: 2020-10-29T22:52:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-29/democrats-trump-eye-coronavirus-stimulus-deal-in-lame-duck-session?context=amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "President Trump and Vice President Pence Hold Rally in Traverse City, Michigan"
-    excerpt: "Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City, Michigan. President Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City,"
-    publishedDateTime: 2020-11-02T22:41:00Z
-    webUrl: "https://www.c-span.org/video/?477685-1/president-trump-vice-president-pence-speak-rally-traverse-city-michigan"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Fox News’ Stirewalt: Not Helpful for Trump to Brag About Big Rallies When People Still Really Concerned About Covid"
+    excerpt: "Fox News politics editor Chris Stirewalt argued that President Donald Trump's big campaign rallies might be good for Republicans, but it doesn't help him when so many people are still concer"
+    publishedDateTime: 2020-10-27T20:32:00Z
+    webUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/fox-news-stirewalt-not-helpful-for-trump-to-brag-about-big-rallies-when-people-still-really-concerned-about-covid/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 46
-  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
-    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
-    publishedDateTime: 2020-11-04T03:22:00Z
-    webUrl: "https://www.c-span.org/event/?477685/"
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/stirewalt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Administration Reportedly Had to Exclude a Bunch of Anti-Trump Celebs From $250 Million Coronavirus Ad Campaign"
+    excerpt: "A total of 264 celebrities and public figures were excluded from a $250 million advertising contract, which aimed to \"defeat despair and inspire hope\" amid the coronavirus pandemic for being too critical of President Donald Trump and his policies,"
+    publishedDateTime: 2020-10-29T21:19:00Z
+    webUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/"
+    ampWebUrl: "https://www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/trump-administration-reportedly-had-to-exclude-a-bunch-of-anti-trump-celebs-from-250-million-coronavirus-ad-campaign/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 40
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1203665058-1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CNN covers how Scott Atlas, Trump's Fox News doctor, drove down Florida's COVID-19 testing"
+    excerpt: "When you do testing to that extent, you're going to find more people, you're going to find more cases. So I said to my people, slow the testing down, please. AVLON: Now Trump's aides said he was joking after that June rally in Tulsa,"
+    publishedDateTime: 2020-10-30T05:04:00Z
+    webUrl: "https://www.mediamatters.org/coronavirus-covid-19/cnn-covers-how-scott-atlas-trumps-fox-news-doctor-drove-down-floridas-covid-19"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
-    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
-    publishedDateTime: 2020-10-30T07:24:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
+      name: Media Matters for America
+      domain: mediamatters.org
+    quality: 45
+    images:
+      - url: "https://cloudfront.mediamatters.org/static/D8Audio/2020/10/29/new_day_with_alisyn_camerota_and_john_berman_-_08_40_28_am_1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
+    excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"
+    publishedDateTime: 2020-10-21T18:11:00Z
+    webUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
-    publishedDateTime: 2020-11-03T16:52:00Z
-    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 41
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/WUSA_05-17-2020_10.37.29-0002-796x430.jpg"
+        width: 796
+        height: 430
+        isCached: true
 
 secured: "4PilVl/+/ywZbeyn9Uoe9RtH3wFkMYYxMcCI7bU8DNtQYYBvtcKxnVQJMGoRW16OR4W32aGwXj/2HpItMlP+By/Kx2+jmQpt78qZ//H2dlLn3G8aL6PutfoerLflNzNytE9D6bhLcnPqJ8zEHNvgKvYklXb14wPbPTVT+oLlFOnEI2uoEcsKfSzS23cwJ7aEW6Zp05YeF1qHs3XaGbJA9FgiApXwauFI1FCff08j/bQcXAsLVyBPCdSFV087O8IFzOqzPAl7XDc7x8xncoSwfwuao3iWdjoqT44PzmN0mlNVj+OwXNUNf45b4S10vmep1NTx/Fils5CgLRLpst8P8DC8poYlG5fgMVlrJ94G+Bk=;qY9tzH2yKYHFlO/o8L3DxQ=="
 ---

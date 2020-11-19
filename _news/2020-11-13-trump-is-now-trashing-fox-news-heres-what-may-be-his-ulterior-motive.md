@@ -29,93 +29,145 @@ images:
     isCached: true
 
 related:
-  - title: "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail"
-    excerpt: "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday."
-    publishedDateTime: 2020-11-05T18:35:00Z
-    webUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225"
-    ampWebUrl: "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1"
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg"
-        width: 3256
-        height: 2163
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
+        width: 818
+        height: 545
         isCached: true
-  - title: "'The 900-pound gorilla when it comes to the Republican Party': GOP wrestles with Trump defeat"
-    excerpt: "GOP presidential nominee said Trump is likely to cast a long shadow over the Republican Party, even after he is out of office."
-    publishedDateTime: 2020-11-08T16:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/mitt-romney-republicans-wrestle-response-trumps-defeat/6213267002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6213267002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6213267002"
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
+        isCached: true
+  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
+        width: 870
+        height: 545
+        isCached: true
+  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
+    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
+    publishedDateTime: 2020-11-05T08:09:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘What’s the downside for humoring him?’: A GOP official’s unintentionally revealing quote about the Trump era"
-    excerpt: "What is the downside for humoring him for this little bit of time? No one seriously thinks the results will change,” the official said. “He went golfing this weekend. It’s not like he’s plotting how to prevent Joe Biden from taking power on Jan."
-    publishedDateTime: 2020-11-10T22:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/whats-downside-humoring-him-gop-officials-unintentionally-revealing-quote-about-trump-era/?outputType=amp"
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BABJHWE75EI6VPQGV5KRJ3QDQU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Clyburn to Trump: 'The campaign is over'"
-    excerpt: "The highest-ranking Black member of Congress is urging President Donald Trump to stop challenging the results of the 2020 general election and start finding ways to work with the incoming administration."
-    publishedDateTime: 2020-11-09T20:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/09/clyburn-trump-the-campaign-over/6225991002/"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 108
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/745c6da7-56ff-4258-841e-bdf763751241_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Lil Wayne Shows His Support for Donald Trump After Having a 'Great Meeting' with the President"
-    excerpt: "Lil Wayne is expressing support for Donald Trump. The rapper, 38, shared a photo with Trump, 74, on Twitter Thursday, saying that they had a \"great meeting.\" Lil Wayne (né Dwayne Michael Carter Jr.) also praised the president's Platinum Plan,"
-    publishedDateTime: 2020-10-30T02:03:00Z
-    webUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/"
-    ampWebUrl: "https://people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/lil-wayne-meets-trump-and-praises-his-platinum-plan/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 63
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F29%2Flil-wayne.jpg"
-        width: 1500
-        height: 781
-        isCached: true
-  - title: "'They Deserve Any Mockery They Get.' Prank Callers Flood Trump's Voter Fraud Hotline, Forcing the President's Campaign to Create New Ones"
-    excerpt: "In response, prank callers have been flooding the number—as well as additional numbers the campaign has set up—with spam calls. Despite the fact that there have been no legitimate allegations of widespread voter fraud,"
-    publishedDateTime: 2020-11-09T23:19:00Z
-    webUrl: "https://time.com/5909443/trump-hotline-prank-calls-voter-fraud-election-tiktok/?linkId=104031968"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 52
 
 secured: "lSIKXySyT5ua7LfWxa03der+2gteZ6LmF7VOHDraRghh45NG8DeAAEeSwWeCUM6GdUi/4fqQQS36qnBlGR1xTyfD52Y/E9AjxbTI5fLe0Q8j3eV0OVMS9Ofq3p0dAzQtUYB9ecQxEmFWOYqhdESt7Zh666aLfooNsqjWyCWxu98b4XFFuljYWRJkGO8YuZZnkPJGEcqV+kLBh4qKIVKmnFVtM83SeX5+tbbg7YHyYIy/TRrzjyDizdavR0HrV0n5pZ1BV+rBvUk9U7EtKsPFy6+/qArYnjhHCn/Xyu+Kgkei3FA1KwYaQNodQv+ouVeF7wczHctJZeSizID7nTpPubvg8RWxoVVNJB8L6N6yB4k=;H58j6Nn96DZu4elokKRCdw=="
 ---

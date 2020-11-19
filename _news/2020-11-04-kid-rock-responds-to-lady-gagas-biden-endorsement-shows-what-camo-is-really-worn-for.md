@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6148835002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6148835002"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
+    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
+    publishedDateTime: 2020-10-30T18:25:00Z
+    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Verbum Ultimum: Joe Biden for President"
     excerpt: "Joe Biden is the only acceptable option on Nov. 3. by The Dartmouth Editorial Board \\| 28 minutes ago. With Election Day a mere four days"
     publishedDateTime: 2020-10-30T06:33:00Z

@@ -47,6 +47,54 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Biden holds campaign rally in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-29T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida"
+    ampWebUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden’s long political career features several policy shifts"
+    excerpt: "On issues including criminal justice reform, foreign wars and the economy, Biden’s views have evolved over time. Joe Biden's views on various issues have evolved over his 50-year political ..."
+    publishedDateTime: 2020-10-31T12:39:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/31/bidens-career-evolution"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/09/AP_20271593726889-1.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Warren has expressed interest in being Biden's Treasury secretary: report"
+    excerpt: "Sen. Elizabeth Warren (D-Mass.) has expressed interest in serving as Democratic presidential nominee Joe Biden’s Treasury secretary if he defeats President Trump in next week’s race for the White House,"
+    publishedDateTime: 2020-10-30T00:59:00Z
+    webUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report"
+    ampWebUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/warrenelizabeth_bidenjoe_020120gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
     excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
     publishedDateTime: 2020-10-30T06:41:00Z
@@ -60,6 +108,34 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
         width: 1722
         height: 979
+        isCached: true
+  - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
+    excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
+    publishedDateTime: 2020-10-31T15:39:00Z
+    webUrl: "https://www.reuters.com/news/picture/a-longtime-fixture-in-us-politics-biden-idUSKBN27G0EV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
+        width: 810
+        height: 467
+        isCached: true
+  - title: "Can Joe Biden's Campaign Message Carry Him Over The Finish Line?"
+    excerpt: "Joe Biden has had a remarkably consistent campaign message. He was running, he said, to restore the soul of the nation. His campaign was — in essence — about human decency and character."
+    publishedDateTime: 2020-11-02T11:16:00Z
+    webUrl: "https://www.npr.org/2020/11/02/930234714/can-joe-bidens-campaign-message-carry-him-over-the-finish-line"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid"
     excerpt: "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg."
@@ -136,15 +212,6 @@ related:
       name: New Haven Register
       domain: nhregister.com
     quality: 55
-  - title: "Joe Biden Campaigns in Durham, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
-    publishedDateTime: 2020-10-18T19:00:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "SSiTGVNECR8I1oYDVaIEFTROapYEOnyhAPgwF4zegK9yZy4fcAhCjw5ID2ItjcrIt+AKs8jwHnDbP48957hdHFaP67HRhqsW5fit/m5jXhywyksaHRf9I8BBYNAgdJZs6MfhXqzhY9cAskUDVwpVuD4rHP+3G5d76UnsZ/mPbaB0eHFseVAH+4HH5wXPOE68DA4lw8mUAZj0DqfMxNp5mQnxx5FueHVbyYiFgCX6VOOw1BsUFA2b1I9pBzWm76fzP3wPEG0C/LwNVGl2V21fYQzk/ch/sBsXfA5PMdRgP5ycq9XDFNr9qlznlrWbLfmxvvYT4dzRPhlU6WVPA5A3Dp9qk7i/lJSnDzzvnRWsJfE=;hR2yeznLpcrehHckOkfPMw=="
 ---

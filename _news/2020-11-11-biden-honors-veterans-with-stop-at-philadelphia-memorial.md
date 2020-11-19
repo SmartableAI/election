@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden team delays releasing readouts of calls with foreign leaders"
-    excerpt: "President-elect Joe Biden’s transition team has only been in action for a few days but is already sparking concerns about transparency with the way it is handling putting out details of calls to foreign leaders -- releasing them long after other governments have done so."
-    publishedDateTime: 2020-11-11T19:55:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TpfTq1_dqoo/biden-team-delays-releasing-readouts-calls-foreign-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-delays-releasing-readouts-calls-foreign-leaders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Turner_Gillian.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "House leaders urge Democrats not to join team Biden to maintain majority"
     excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
     publishedDateTime: 2020-11-16T03:09:07Z
@@ -170,6 +154,34 @@ related:
       - url: "https://images.wsj.net/im-256627?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-21T21:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-22T06:48:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "iQc835KFDwoW+caDAdbX7ydvcjLbNz/RgsFnl89MaKpQnWe8gG373mZG8eoZg5k6uQ1lIgdhPZEmInA+EKTu66M8B6s9oxSBrG6ta6JG0NQL23TSSC6wGvvLJhqhqjwqyhVDcofG1I1vLTgng4J74lyyC6ZFYMMFZCuC1i8RzTY4t4i+PGCqZBZi8L8ylD7SBE05CbKFrC9/N8swGwy3Jybb0RDRPdUyz6WmQnacxXoRvYAt4eCtmlFjbfmzFt5qeny6SOaN2u+s4GVfeB/dBrWRgwHfnfcvFWe4A9V/MyCRqDUOaYZJpkTXLOxS/x0d13wo24hqtsamTnsGh3s04ULSQIQ/8ov/pPXEo2hSQAc=;XEy6Oj5dAnOaCr3doc85DQ=="

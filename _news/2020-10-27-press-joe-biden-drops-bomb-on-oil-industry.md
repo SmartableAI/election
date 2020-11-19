@@ -63,37 +63,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden tests negative for COVID-19, campaign says"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden tested negative for COVID-19 on Saturday, his campaign said in a statement."
-    publishedDateTime: 2020-10-24T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-health-idUSKBN2790NR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2790NR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2790NR"
+  - title: "Biden endorses Democratic challenger in Texas House district"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538697782&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0EP"
-        width: 862
-        height: 545
-        isCached: true
-  - title: "'I am home': Biden’s roots could run from a Scranton kitchen table to the presidency"
-    excerpt: "SCRANTON – This is where Joe Biden said he learned everything he needed to know about politics. The general election on Nov. 3 will determine if North Washington Avenue is just the leafy street ..."
-    publishedDateTime: 2020-10-23T18:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/joe-bidens-scranton-pennsylvania-roots-could-stretch-to-the-white-house/6007590002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6007590002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6007590002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/PPYR/b096941f-08b7-402c-bef2-164059312d2f-HES-DR-101420-scranton-07.jpg?auto=webp&crop=3507,1973,x0,y116&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
     excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
@@ -110,6 +94,22 @@ related:
       - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
     excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
@@ -141,37 +141,51 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
-    excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
-    publishedDateTime: 2020-10-17T10:11:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
+  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
+    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
+    publishedDateTime: 2020-10-23T17:06:00Z
+    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
+    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg"
-        width: 5000
-        height: 2499
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
+        width: 1024
+        height: 611
         isCached: true
-  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
-    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-20T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "That should make him president: Joe Biden shows up — and shows he's learned the lesson of 2016"
+    excerpt: "In his final debate performance of the 2020 campaign (and with any luck, his last one ever), the president fumbled the one attack line that his campaign had prepared against Joe Biden for years."
+    publishedDateTime: 2020-10-22T00:00:00Z
+    webUrl: "https://www.salon.com/2020/10/23/that-should-make-him-president-joe-biden-shows-up--and-shows-hes-learned-the-lesson-of-2016/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 43
+    images:
+      - url: "https://media.salon.com/2020/10/joe-biden-debate-1022204.jpg"
+        width: 1692
+        height: 1142
         isCached: true
 
 secured: "bCg/NRaHug2MrrtpIl3t7t2z7WGi7AFqi4f+NSewHgie6ir10o3Anuo8RDQzWWd2uH4MeqUQn5B0ElD8SQ9XQ8VuFi++28HKDZ/mIftDs7p1W/VB0N7AZvzuCd52tmVTb4WvJg0Pl4wMYQ8giK0ffcPXkQEGnbuaTuxeQHJjDxlmknDiGExa5JBGYWj3CR3+cFoPWtwRO1WIrLU8jyRyKJgMPRXCGksV2O4+tLzWiS6FRHg4N5LH+8vpc8EU+SfEjslJvt1eKzlEqHL/SwDfDNm71VBLPLLfEdJMaWrhNZNGsqzNpEr6Fttj7zm+/RKF71hvSgTPgm0Gl5dzZU0FUkR5Px4fpmGv7qxC6zGOl6d2CPy9Bz5YliOdx3kAXa5ZVgzbV+aefhxaPm51FL+mZI5nwxRmBQU3VaQdITV8k7CpFgyfe+5p5LqRa3rroheTBgnB1B9aCYiS/qnZdjO5AmfS9USirOy035MsLqghCAGz2wqGerCjzuDQrtVvhVSz6MSoal0WnLzXn4Fphi8pDQ==;D5dOYxVGevQo6PB3QPge9w=="

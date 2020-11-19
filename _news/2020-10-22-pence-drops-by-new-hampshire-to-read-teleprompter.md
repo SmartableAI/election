@@ -37,17 +37,6 @@ related:
         width: 1024
         height: 755
         isCached: true
-  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
-    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
-    publishedDateTime: 2020-10-21T13:00:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 55
   - title: "Vice President Pence Remarks at Campaign Rally in New Hampshire"
     excerpt: "President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence delivers remarks at a campaign rally in Portsmouth, New Hampshire. Vice President Pence spoke at a Trump campaign rally in Selma,"
     publishedDateTime: 2020-10-21T17:38:00Z

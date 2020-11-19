@@ -31,69 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
-    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
-    publishedDateTime: 2020-10-28T07:08:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+  - title: "Trump takes aim at familiar target: Obama"
+    excerpt: "Hours before former President Barack Obama headlined his first in-person rally for Democratic presidential nominee Joe Biden, President Trump’s re-election campaign took aim at both Obama and Biden."
+    publishedDateTime: 2020-10-21T20:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCts-RsTNy0/trump-takes-aim-at-an-old-and-familiar-target-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9c8eb4-85dd-456e-93e6-f7e90207a826/48b8e16c-a1dd-4ef8-8eed-517736fdd999/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
-    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
-    publishedDateTime: 2020-10-22T02:20:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+  - title: "Obama Gives Us One of the Best Reasons to Dump Trump"
+    excerpt: "Dean Obeidallah writes that while Americans have many reasons to vote Donald Trump out of office, former President Barack Obama came up with another compelling argument to vote for Joe Biden and Kamala Harris: It won't be so exhausting."
+    publishedDateTime: 2020-10-28T11:48:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/28/obama_gives_us_one_of_the_best_reasons_to_dump_trump_527601.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "RNC speaker Kim Klacik falls short in House bid despite viral campaign ad, Trump support"
-    excerpt: "Republican newcomer Kim Klacik fell short on Election Day in her bid to win a U.S. House seat in a Maryland district that includes inner-city Baltimore."
-    publishedDateTime: 2020-11-04T06:28:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAtCWORKoZA/baltimore-kim-klacik-kweisi-mfume-maryland-7-district"
-    ampWebUrl: "https://www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/baltimore-kim-klacik-kweisi-mfume-maryland-7-district.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations"
-    excerpt: "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said."
-    publishedDateTime: 2020-11-02T22:51:00Z
-    webUrl: "https://www.wsj.com/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations-11604355223"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "https://images.wsj.net/im-253655/social"
-        width: 1280
-        height: 640
+      - url: "https://assets.realclear.com/images/52/525446_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "/E3aW/xlC6TTntJSX7e90i8KZDGer4DWerHtwmgLHuljmOVCdvuwv9B80+eie+8HyUpa4UyyIFvtka0dcAVgwTnvLi4rYqjWCWqATSDIZIBCM8n7SWY55GO9RXLuxxYWt6E9elpyomSnFWjGwtAoYAp91t6qSsIMgm1kBnW2krVf99NONG3EMQbdGa9OB1TqiTnP55sUed7ac+Vv7ALKcMMjN5EeEgV7wc0FFbmeL3SKQdVJzA+zG7CapgCsi6Prjz7Lc7oOSj7rZFPwGHsvf/NHAeWn9V/r28AGXLkyKxYOUoh/NfgAF8pos3Ss3uDE2AH9UhSYICko2M+IwEonYAONRfT0ffVSHuciFmlbK8I=;WfsdwbmAHQxwRzfh7OJOcQ=="

@@ -31,53 +31,80 @@ images:
     isCached: true
 
 related:
-  - title: "Trump accuser E. Jean Carroll files motion against Justice Department"
-    excerpt: "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit."
-    publishedDateTime: 2020-10-06T04:01:00Z
-    webUrl: "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
+  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
+    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
+    publishedDateTime: 2020-11-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
-    excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
-    publishedDateTime: 2020-10-27T16:39:00Z
-    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/"
-    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
-        width: 1200
-        height: 651
-        isCached: true
-  - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
-    excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
-    publishedDateTime: 2020-10-07T06:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/election-2020-trump-campaign-ruled-against-in-ballot-counting-lawsuit/5902285002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5902285002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902285002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/31/PNJM/284dd463-8af7-4ae5-a440-d2adf017a73f-AP20091840255665.jpg?auto=webp&crop=3718,2091,x1,y36&format=pjpg&width=1200"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Deutsche Bank plans to cut ties with Trump after the election and could seize his assets if he can't pay back his debts, Reuters reports"
+    excerpt: "The German lender is seeking to dump millions of dollars of Trump debt and sees a Trump loss as its best exit strategy, officials told Reuters."
+    publishedDateTime: 2020-11-03T20:12:00Z
+    webUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deutsche-bank-trump-ties-debts-after-election-reuters-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fa12e611df1d500182187c3?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out"
+    excerpt: "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits."
+    publishedDateTime: 2020-11-09T15:56:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Factbox: What a second Trump term would mean for U.S. financial policy"
+    excerpt: "A victory by U.S. President Donald Trump on Tuesday would continue his administration's four-year deregulatory streak, which has delivered at least $40 billion in gains to banks and other financial firms,"
+    publishedDateTime: 2020-11-03T00:17:00Z
+    webUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
+    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
+    publishedDateTime: 2020-11-07T18:32:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "XUC4y3y4DXNN10NkwfVYrbvenfGbIG3r49cXkqW0scMuTHLF82QY5TvsqMRQsukoHGO/SkSYlrX6+Bl20gM0KXrMRFbjYX7to2wzH42p7LQ/eLQAqgEEwzR+wxDepymU1mcMr6lP1kxA5zNDXr+EJu127jsjER7hEfMRTdjw2Srh9azoKHWQab+cCPo7+6iobUBc6WyYXen7id9s9P+6TWkIrYJXTHtV4YETGExqjrU42BneKcXBsSVvIVDRR5WtHpINvqF//w/CPYrMHeEGOp1+y8lkNH535famh47g7t4qHoUnE42z6Y6OlEGt1zLavveoI39xbefn0szwNhHZWSicqMIhNsJXGYQ6wizja4AX64uILNlK/7jhBmXDq5arHF0QPojNZ02AvnY+xiJ/AsEFf1XyFoDho4kTKFh34bsrNboQlfUPoczqrx43Bhg8wJbHYMq97F428zVbrUXsXQNMG3yKuIZ6bHB5/czHXrel34mAkCYZRNjZLNWI13QuAVwqhh7EK/z2YWsl/iwwpw==;vUWLn5LqEan9bc8FRuSnfQ=="

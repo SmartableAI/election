@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Vice President Mike Pence to visit Tallahassee on Saturday"
+    excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday. The news came Friday morning from ABC News, which was on a media call"
+    publishedDateTime: 2020-10-19T14:21:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3709719001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence set to campaign in Tallahassee on Saturday"
     excerpt: "Vice President Mike Pence is planning a visit to Tallahassee on Saturday, October 24, according to ABC News. Details have not been released about where or when the rally will be held. ABC 27 is reaching out to his staff to confirm that information."
     publishedDateTime: 2020-10-19T12:25:00Z
@@ -43,37 +59,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Mike Pence to hold rally Monday in York County"
-    excerpt: "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!"
-    publishedDateTime: 2020-10-18T19:31:00Z
-    webUrl: "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/"
-    ampWebUrl: "https://amp.ydr.com/amp/3703933001"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001"
+  - title: "See what Mike Pence's rally in York County looks like"
+    excerpt: "Vice President Mike Pence visited York County on the final day Pa. residents are eligible to vote in the 2020 Election."
+    publishedDateTime: 2020-10-19T20:28:00Z
+    webUrl: "https://www.ydr.com/story/news/2020/10/19/mike-pence-rally-pa-election-2020-york-county/5982553002/"
+    ampWebUrl: "https://amp.ydr.com/amp/5982553002"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
     type: article
     provider:
       name: YDR
       domain: ydr.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/06/07/PPYR/da6f4f53-0dec-4b1e-94a0-66b032fdc6f5-YDR-CC-6619-MikePence11.JPG?auto=webp&crop=3025,1693,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Pence to visit Portsmouth this week"
-    excerpt: "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel."
-    publishedDateTime: 2020-10-19T03:08:00Z
-    webUrl: "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
-    ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+        height: 672
         isCached: true
   - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
     excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
@@ -123,19 +123,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
-    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
-    publishedDateTime: 2020-10-22T19:43:00Z
-    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
-    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
-    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+  - title: "Vice President Mike Pence to visit northwest Ohio on Friday"
+    excerpt: "Vice President Mike Pence will be making a stop in northwest Ohio Friday, Oct. 23. According to the President's website, State Representative Haraz Ghanbari and State Senator Theresa Gavarone will join the Vice President for a Make America Great Again Victory Rally in Swanton."
+    publishedDateTime: 2020-10-22T02:24:00Z
+    webUrl: "https://www.wzzm13.com/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
     type: article
     provider:
-      name: The Ledger
-      domain: theledger.com
+      name: WZZM
+      domain: wzzm13.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://media.wzzm13.com/assets/WTOL/images/c07e0669-34dd-4a27-9728-6b8e285f7bee/c07e0669-34dd-4a27-9728-6b8e285f7bee_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
+    excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
+    publishedDateTime: 2020-10-23T12:21:00Z
+    webUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+    ampWebUrl: "https://amp.jconline.com/amp/3731210001"
+    cdnAmpWebUrl: "https://amp-jconline-com.cdn.ampproject.org/c/s/amp.jconline.com/amp/3731210001"
+    type: article
+    provider:
+      name: Journal & Courier
+      domain: jconline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -154,22 +170,6 @@ related:
       - url: "https://media.wtsp.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Vice President Mike Pence delivers absentee ballot in Indy"
-    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
-    publishedDateTime: 2020-10-23T21:18:00Z
-    webUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/"
-    ampWebUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
-    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 75
-    images:
-      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/10/IMG_2047.jpg?w=1280"
-        width: 1280
-        height: 851
         isCached: true
   - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
     excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
@@ -203,54 +203,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
-    excerpt: "Pence will hold a 'Make America Great Again!' event in Kinston, which is in Lenoir County. The rally is set for 6 p.m."
-    publishedDateTime: 2020-10-25T07:32:00Z
-    webUrl: "https://www.12news.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 75
-    images:
-      - url: "https://media.12news.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Vice President Mike Pence talks up Supreme Court nominee in Columbus stop"
-    excerpt: "Vice President Mike Pence denounced what he sees as attacks on religion by those opposing Amy Coney Barrett’s nomination to the U.S. Supreme Court during a campaign stop in Columbus on Monday ..."
-    publishedDateTime: 2020-10-13T16:24:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
-    ampWebUrl: "https://amp.dispatch.com/amp/5970066002"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5970066002"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/d608d6f5-7e4a-42d6-ad03-5b9f82063bce-pence_inside_ac_11.jpg?auto=webp&crop=3282,1846,x0,y418&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule"
-    excerpt: "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania"
-    publishedDateTime: 2020-10-16T02:52:00Z
-    webUrl: "https://www.ydr.com/story/news/2020/10/15/vp-mike-pence-pa-saturday-tickets-schedule/3673423001/"
-    ampWebUrl: "https://amp.ydr.com/amp/3673423001"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3673423001"
-    type: article
-    provider:
-      name: YDR
-      domain: ydr.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Details of Vice President Mike Pence visit to Tallahassee still up in the air"
     excerpt: "Mike Pence will fly to Tallahassee Saturday after promoting early voting in Pennsylvania. But no one yet can say exactly where and when he'll be in town."
     publishedDateTime: 2020-10-22T16:12:00Z
@@ -267,33 +219,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Mike Pence to campaign in Greenville on Tuesday in rare pre-election SC rally"
-    excerpt: "Pence helped kick-off U.S. Sen. Lindsey Graham's reelection campaign a year and a half ago with rallies in Myrtle Beach and Greenville, and his return to the state could be"
-    publishedDateTime: 2020-10-25T01:00:00Z
-    webUrl: "https://www.postandcourier.com/politics/vp-mike-pence-to-campaign-in-greenville-on-tuesday-in-rare-pre-election-sc-rally/article_cebcf6ce-165b-11eb-a502-abfe9d3680e0.html"
+  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
+    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
+    publishedDateTime: 2020-10-22T10:05:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
     type: article
     provider:
-      name: Post and Courier Charleston
-      domain: postandcourier.com
-    quality: 65
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/da/fda94d6a-165c-11eb-bae7-7b6abc6ad9c9/5c9fafc8993dc.image.jpg?resize=840%2C630"
-        width: 840
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence coming to West Mifflin for rally Friday"
-    excerpt: "Vice President Mike Pence will be in West Mifflin on Friday for a Make America Great Again Victory Rally. Pence will be joined by Rep. Mike Kelly and Luke Negron at the event, which will be held at Lynx FBO Pittsburgh on Lebanon Road."
-    publishedDateTime: 2020-10-22T11:11:00Z
-    webUrl: "https://www.wpxi.com/news/top-stories/vice-president-mike-pence-coming-west-mifflin-rally-friday/MMWS27SUUNCJ7L2GVEX4WNK6KU/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 55
-    images:
-      - url: "https://www.wpxi.com/resizer/k80XdFUY9-oMERdPVWgTMszBQPM=/1200x628/d1hfln2sfez66z.cloudfront.net/08-27-2020/t_1b5fc946b12544e2ada6fbef1564f361_name_Mike_Pence_What_you_need_to_know_5f47b61b836f805692005f63_1_Aug_27_2020_13_44_39_poster.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "Thousands of supporters turn out for Vice President Pence’s Capital City Airport campaign event"
+    excerpt: "NEW CUMBERLAND, Pa. (WHTM) – Thousands of supporters of Vice President Mike Pence lined up outside of Capitol City Airport this afternoon in New Cumberland. Prior to Pence’s scheduled appearance, supporters were waiting eagerly to get into the event at ..."
+    publishedDateTime: 2020-10-19T23:48:00Z
+    webUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/politics/election/thousands-of-supporters-turn-out-for-vice-president-pence-at-capital-city-airport/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 63
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/10/vlcsnap-2020-10-19-19h37m12s508.png?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
     excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."
@@ -320,29 +276,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vice President Mike Pence to hold campaign rally in South Carolina on Tuesday"
-    excerpt: "Campaign officials say all attendees “will be given a temperature check, masks which they are instructed to wear, and access to hand sanitizer.”"
-    publishedDateTime: 2020-10-25T07:23:00Z
-    webUrl: "https://www.live5news.com/2020/10/24/vice-president-mike-pence-hold-campaign-rally-south-carolina-tuesday/"
+  - title: "Vice President Mike Pence campaigns on administration's record during Waterford visit"
+    excerpt: "Vice President Mike Pence made a campaign stop Thursday in Michigan, one of 2020's battleground states this election for a Make America Great Again! event in Waterford Township. During his stop, the VP said Michigan voters were part of a movement that elected Donald Trump president in 2016 and encouraged voters to do the same in 2020."
+    publishedDateTime: 2020-10-22T18:12:00Z
+    webUrl: "https://www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit"
+    ampWebUrl: "https://www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit.amp"
     type: article
     provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 52
-    images:
-      - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
-    excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
-    publishedDateTime: 2020-10-23T22:43:00Z
-    webUrl: "https://fox59.com/video/vice-president-mike-pence-rallies-bese-during-maga-rally-in-fort-wayne/5962269/"
-    type: article
-    provider:
-      name: FOX59 News
-      domain: fox59.com
-    quality: 35
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 48
 
 secured: "SzRAxoog9BhjPG3nrT0wZuufUEOmEpUJtuqC9AC29HETQ0uYUnO5cPq5nHsd4p4b+fnENujzRXswwh1v1VhOFs+CZ4EBmy5hRS3VmRZQ13pkjCRTjcHVuPiUNqzNf8BEYcNRhGtLrBFJghgTFpbE5JgSZbXxrlAuu47EjAE2iewtXJ/5QBPxOO1+f+8JnyKjAZajeebb30WMnVGEunZ53JOT2zl3xzh4cxkcBKln0BZ4BdFQUgacWoNRhu6vQMQ1YKDeYotSbVZqpH4RsxWK3B4lg+id8gRNxn+BT8aK8HXDfhIWFK6LxXIK8fu4JfhLVgAnqVFaKnAnHJ3z/PTr6/D4cQfUXnAYjqT4Vi36R1AHwt2y05aE/90ZUDupVg7ExiOkG3H5FDHeDUBG4kr/FLv8v2s+Sa7MamXmcUCxCZy50eXdp+zjb/KduGKUzBcrVXSyiDltWJgDA/7/r6WnOLyvpli8P6QkMXvBRG387DRg4If/5VF1xwuLHzMxyFwMs+TstixRG0numzr+RY9hRA==;qV445Xl8pcV1oiLQmodmEg=="
 ---

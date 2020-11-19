@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
 type: article
 quality: 125
-heat: 285
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is America ready to return to the Obama-Biden foreign policy?"
+    excerpt: "The Obama/Biden reset policy with Russia backfired as Russia annexed Crimea from Ukraine in 2014 and entered the Syria civil war in 2015,"
+    publishedDateTime: 2020-10-23T19:30:00Z
+    webUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_110916getty.jpg"
+        width: 646
+        height: 363
+        isCached: true
   - title: "Police: Florida man stole bulldozer, ran down Biden signs"
     excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
     publishedDateTime: 2020-10-26T13:24:00Z
@@ -47,51 +63,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden’s long political career features several policy shifts"
-    excerpt: "On issues including criminal justice reform, foreign wars and the economy, Biden’s views have evolved over time. Joe Biden's views on various issues have evolved over his 50-year political ..."
-    publishedDateTime: 2020-10-31T12:39:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/10/31/bidens-career-evolution"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+  - title: "America is changing. Joe Biden can help us through the transformation."
+    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
+    publishedDateTime: 2020-10-29T19:57:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
     type: article
     provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2020/09/AP_20271593726889-1.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Warren has expressed interest in being Biden's Treasury secretary: report"
-    excerpt: "Sen. Elizabeth Warren (D-Mass.) has expressed interest in serving as Democratic presidential nominee Joe Biden’s Treasury secretary if he defeats President Trump in next week’s race for the White House,"
-    publishedDateTime: 2020-10-30T00:59:00Z
-    webUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report"
-    ampWebUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 124
-    images:
-      - url: "https://thehill.com/sites/default/files/warrenelizabeth_bidenjoe_020120gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
-    excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
-    publishedDateTime: 2020-10-31T15:39:00Z
-    webUrl: "https://www.reuters.com/news/picture/a-longtime-fixture-in-us-politics-biden-idUSKBN27G0EV"
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
-        width: 810
-        height: 467
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
         isCached: true
   - title: "The Top 5 Richest Backers Of Joe Biden"
     excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
@@ -107,52 +109,49 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "'Joe Biden is a pathological liar'"
-    excerpt: "This coming Tuesday, as you head off to the polls to cast your vote, remember this: Joe Biden is a pathological liar. Donald Trump may be rude and crude. He may be abrasive and off-putting."
-    publishedDateTime: 2020-10-31T15:24:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/30/joe-biden-is-a-pathological-liar/"
+  - title: "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end"
+    excerpt: "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads."
+    publishedDateTime: 2020-10-19T13:24:00Z
+    webUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg"
+        width: 1419
+        height: 709
+        isCached: true
+  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
+    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
+    publishedDateTime: 2020-10-24T21:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 75
+    quality: 68
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/30/election_2020_biden_10535_c0-462-5540-3693_s1200x700.jpg?e91805f964fdadf5aa64424b61ee83dd151a855b"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
         width: 1200
         height: 700
         isCached: true
-  - title: "Lady Gaga Criticized Over Joe Biden Endorsement Video"
-    excerpt: "Lady Gaga criticized after campaigning for Joe Biden in a new video Several netizens slammed the singer’s appeal Others thanked Gaga because she inspired them to vote Lady Gaga received mixed responses from the netizens after sharing a video campaigning for Democratic presidential candidate Joe Biden."
-    publishedDateTime: 2020-11-02T05:29:00Z
-    webUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572"
-    ampWebUrl: "https://www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lady-gaga-criticized-over-joe-biden-endorsement-video-3074572?amp=1"
+  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
+    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
+    publishedDateTime: 2020-10-22T08:50:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/08/tedros-can-call-also-on-some-top-level.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Conservative group’s claim that Joe Biden backs sex changes for kids is False"
-    excerpt: "Biden has stated opposition to discrimination against transgender people, he has not said he supports sex changes for children. In a tweet promoting its new attack ad, a conservative super PAC claims: \"Joe Biden says he supports sex changes for kids."
-    publishedDateTime: 2020-10-29T03:27:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/oct/27/american-principles-project/conservative-groups-claim-joe-biden-backs-sex-chan/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 52
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
 
 secured: "wvt9B9CQ6msZaieFyf3+lRuX63CEXiqIFVfV2TsRC6rrtzrjhEB6t30ZvaqS6eVsehOb4OWRpuZDZiPkujOj2t8+apBMaSy6uXS0PNED3/5jnHAD1NxgIhKKx/53ML482gVRBTVI1Fmhs8P2rkhORYrZXi+/Rw6q8+AhLWdEXoPjgm1BEO7wQ5TaSACCW//NjFW4BYIiFUdbZJNaaUCpD8hueP8Mv3hSoff8iRweOz1on/DVGPrvgajcN/juElc8GJkYT9QSxWqOzNQfbJq+c+ay7KFMsO07LwndKcEDBwyJTWuI3XcDvFbCDIBiZX4nFHcZ+EXSrZwBPqo55pTFIo/yiVJjg1peFWIDo+HkSe+3bdyPMS5trEOGMtQlcNzuT9ZGhCQO2vy1ThJYwOqggsPupo8/aoDd/CaBQ1eH9s9IZzd3NzJ4rZDFm7daZvAAN3b4Z0J6TzgZvLIuSZAkizACuTZaP9W65+Hca4jzcAwY6PwnMIADkZEpc8H3pNFNbUL2g96PZvAO2Wp7ikh8lQ==;ybf5qpvkXJNZMGGa/Lr+qw=="
 ---

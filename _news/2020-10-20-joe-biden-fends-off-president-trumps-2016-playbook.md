@@ -32,1737 +32,1180 @@ images:
     isCached: true
 
 related:
-  - title: "Biden claims 'mandate' while election vs. Trump remains undecided"
-    excerpt: "Joe Biden didn't declare victory Friday night over President Trump in the race for the White House, but he emphasized that he's \"going to win\" the presidential election."
-    publishedDateTime: 2020-11-07T04:50:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3zf-sXm-5Rs/biden-speech-mandate-trump-undecided"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-mandate-trump-undecided.amp"
+  - title: "Debate commission says it will mute Trump, Biden while opponent talks"
+    excerpt: "The Commission on Presidential Debates (CPD) will mute President Trump and former Vice President Joe Biden during the two-minute response times allotted to their opponents for commenting on topics during Thursday's debate in Nashville."
+    publishedDateTime: 2020-10-20T00:04:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWFsn9AP8iU/debate-commission-mute-rules-trump-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 205
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20312149632605.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live Updates: Biden team can’t get intelligence reports until Trump concedes election"
-    excerpt: "President Donald Trump’s unwillingness to concede the 2020 presidential election has delayed the process by which national security information can be shared with President-Elect Joe Biden, the national intelligence director’s office said on Tuesday."
-    publishedDateTime: 2020-11-11T03:36:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMNvs08phtI/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-team-cant-get-intelligence-reports-until-trump-concedes-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 198
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef92bb4a-9427-41f5-923b-1b205b940f6c/d81fa819-7e7a-4d3d-acbc-e6a0b75618e1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Former Trump rivals Jeb Bush, John Kasich congratulate Biden on projected election victory"
-    excerpt: "Bush and Kasich each ran unsuccessful bids against Trump to secure the GOP nomination during the 2016 cycle."
-    publishedDateTime: 2020-11-07T20:58:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5gkMubdMIxY/trump-rivals-jeb-bush-john-kasich-congratulate-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rivals-jeb-bush-john-kasich-congratulate-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rivals-jeb-bush-john-kasich-congratulate-biden.amp"
+  - title: "Poll shows Trump gaining on Biden, still lagging among key demographics"
+    excerpt: "President Trump has narrowed the gap in his race with former Vice President Joe Biden, but still needs to win over certain voter demographics if he expects to maintain the presidency in November, according to a poll released Tuesday."
+    publishedDateTime: 2020-10-20T20:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cESP3Erzvqc/poll-trump-narrows-gap-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/poll-trump-narrows-gap-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/poll-trump-narrows-gap-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 195
+    quality: 190
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de0caf77-51bd-4b88-b97c-0610014cd030/78755833-b4fd-4cbc-b064-c1f84122fe96/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump has no plans to immediately concede election as Biden leads in battlegrounds, source says"
-    excerpt: "President Trump does not have plans to immediately concede the election, despite Democratic nominee Joe Biden leading in key states that could deliver him enough electoral votes to declare him the winner of the 2020 presidential race, a senior aide told Fox News. "
-    publishedDateTime: 2020-11-06T14:31:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tl2C1srr8Dg/trump-no-plans-immediately-concede-election-biden-battlegrounds"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-no-plans-immediately-concede-election-biden-battlegrounds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-no-plans-immediately-concede-election-biden-battlegrounds.amp"
+  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
+    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
+    publishedDateTime: 2020-10-26T18:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 193
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Top Republicans line up behind Trump election fight, as Biden rips president for not conceding"
-    excerpt: "Top Republican officials are continuing to back President Trump's quest to challenge the 2020 presidential election via recounts and allegations of voter fraud, days after Fox News and other media outlets projected Democrat Joe Biden as the winner."
-    publishedDateTime: 2020-11-11T14:27:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JDukxKRMpE/top-republicans-behind-trump-election-fight-biden-criticism"
-    ampWebUrl: "https://www.foxnews.com/politics/top-republicans-behind-trump-election-fight-biden-criticism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-republicans-behind-trump-election-fight-biden-criticism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 193
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c089f5f-64da-4671-bc70-be102e4a6f54/4b72dbdd-364c-4688-91ac-b5c0c9a95738/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Businessman wagers $5M on Trump winning election: report"
-    excerpt: ""
-    publishedDateTime: 2020-11-03T04:56:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v0GHIz86Ld8/businessman-wagers-5m-on-trump-winning-election-report"
-    ampWebUrl: "https://www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/businessman-wagers-5m-on-trump-winning-election-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pro-Trump boaters hold final San Diego Bay parade before Election Day"
-    excerpt: "San Diego Bay had one last pro-Trump boat parade before Election Day over the weekend, with hundreds of vessels hitting the water to declare support for the president’s reelection, according to local reports."
-    publishedDateTime: 2020-11-03T03:32:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ubUfQj5aiwM/san-diego-bay-pro-trump-boat-parade-election-day"
-    ampWebUrl: "https://www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/san-diego-bay-pro-trump-boat-parade-election-day.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/boat1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump vows to challenge Biden wins in swing states: 'We will win'"
-    excerpt: "President Trump on Thursday swore that his campaign would continue to file legal challenges in states where Democratic nominee Joe Biden is projected to win, as the path for Trump to reach 270 electoral votes, the number necessary to win the presidency, continues to narrow. "
-    publishedDateTime: 2020-11-05T18:41:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DNuoV7H7PxQ/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-challenge-biden-wins-in-swing-states-we-will-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden overtakes Trump in Georgia count as tally nears completion"
-    excerpt: "Democratic nominee Joe Biden pulled ahead of President Trump early Friday in the race for Georgia’s 16 electoral votes."
-    publishedDateTime: 2020-11-06T10:06:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBMa7CywdSo/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-overtakes-trump-in-georgia-count-as-tally-nears-completion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to deliver speech as ballot count shows him ahead of Trump"
-    excerpt: "Democratic presidential nominee Joe Biden will deliver a speech to the country in the coming hours."
-    publishedDateTime: 2020-11-06T18:53:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pF7DGQ8xGzk/biden-to-speak-friday-night"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-speak-friday-night.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-speak-friday-night.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump supporters protest media projections of Biden win"
-    excerpt: "Supporters of President Trump took to the streets Saturday to voice their distrust in the media's projection that Joe Biden won the presidential election. "
-    publishedDateTime: 2020-11-07T23:44:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhgHDR5FKwg/trump-supporters-protest-media-projections-of-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-protest-media-projections-of-biden-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12363a9b-25a5-4281-8663-7365a1a6bad6/548eee09-dc74-494d-87b3-95024962529c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden beat Trump by less than 276,000 votes in key swing states"
-    excerpt: "They’re still counting the votes in a handful of the key battleground states in the presidential election – but a look at where the current vote totals stand points to a second straight White House race decided by razor thin margins."
-    publishedDateTime: 2020-11-09T23:52:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IDVuki1p9Wk/biden-beat-trump-votes-swing-states"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-beat-trump-votes-swing-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-beat-trump-votes-swing-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump, Biden celebrate Pfizer revealing coronavirus vaccine progress"
-    excerpt: "President Trump and President-elect Joe Biden both celebrated the news that a coronavirus vaccine being developed by Pfizer and BioNTech was found to be more than 90% effective in preventing COVID-19 in their Phase 3 clinical trial."
-    publishedDateTime: 2020-11-09T14:13:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RUbHFRsOLvw/trump-biden-reactions-pfizer-coronavirus-vaccine-progress"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-reactions-pfizer-coronavirus-vaccine-progress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-reactions-pfizer-coronavirus-vaccine-progress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bbc13b4-1f56-4e92-bf92-f59eae3e2c72/ba2b00a5-6919-4658-b791-69cb020dc983/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden camp asks for $30M in fundraising appeal to beat Trump's lawsuits"
-    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
-    publishedDateTime: 2020-11-11T03:07:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HEBrSq3in58/biden-30-million-fight-fund-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-30-million-fight-fund-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-30-million-fight-fund-legal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c8dea53-4de8-40b4-8126-bb46a63e6869/070dd55d-34c0-4591-9d11-a475a63ecac4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden team can’t get intelligence reports until Trump concedes"
-    excerpt: "The General Services Administration must first ascertain the winner of the election before providing intelligence briefings to the next administration."
-    publishedDateTime: 2020-11-11T00:01:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JxO6Reicdbg/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-cant-get-intelligence-reports-until-trump-concedes-says-national-intelligence-directors-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315708083434-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live Updates: Top Republicans back Trump's election fight"
-    excerpt: "Top Republican officials are continuing to back President Trump's quest to challenge the 2020 presidential election via recounts and allegations of voter fraud, days after Fox News and other media outlets projected Democrat Joe Biden as the winner."
-    publishedDateTime: 2020-11-12T05:20:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qc9Oee34M4Q/live-updates-top-republicans-back-trumps-election-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-top-republicans-back-trumps-election-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-top-republicans-back-trumps-election-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/709b06b6-d533-4082-a1da-c929b8cf3b15/8fcfeb95-2900-464f-b5c4-b5a5ff9fe1cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump 'undermining' his legal team with claims of stolen election: Turley"
-    excerpt: "President Trump needs to \"tap down the rhetoric\" about claims of Democrats stealing the election, Fox News contributor Jonathan Turley argued Friday."
-    publishedDateTime: 2020-11-06T15:16:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZqW56UiCtVQ/election-trump-legal-challenge-jonathan-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/election-trump-legal-challenge-jonathan-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-trump-legal-challenge-jonathan-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden lead in Pennsylvania over Trump has grown to more than 50,000 votes"
-    excerpt: "Presidential-elect Joe Biden is now leading President Trump by over 50,000 votes in Pennsylvania, a state where Trump is contesting the results of the election days after Biden was declared a winner. "
-    publishedDateTime: 2020-11-11T23:56:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FYUuD92nuMo/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-bidens-lead-over-president-trump-has-grown-to-more-than-50000-votes-in-pennsylvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/275b1a55-90dc-46ac-9fd8-cac793143d93/2f478fb5-5463-4a65-80c3-b39b2d46e698/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump vows more legal moves, as top Republicans mum on projected Biden win"
-    excerpt: "Despite Joe Biden being projected as the next president-elect, President Trump is pushing forward with legal challenges as vote tallies continue, and Republican leaders have largely avoided weighing in on the latest developments."
-    publishedDateTime: 2020-11-08T14:30:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4L0C03oAKK0/trump-legal-moves-top-republicans-mum-projected-biden-win"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-legal-moves-top-republicans-mum-projected-biden-win.amp"
+  - title: "Trump claims he could out-raise Biden by calling Wall Street, energy execs"
+    excerpt: "The president he has avoided doing so because he would be “totally compromised” by the donors."
+    publishedDateTime: 2020-10-20T00:59:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Lg9l5Dzy8M/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 188
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bd0c668-2bcb-4147-b32b-86ea3ab8d555/4d16ccff-2265-470b-a895-3813dc29f8ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
-    excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
-    publishedDateTime: 2020-11-02T23:10:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xU0pBgLS-n8/rand-paul-election-2020-trump-senate-races-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
+  - title: "Democratic senators call on FBI not to investigate Biden family before election"
+    excerpt: "Sens. Ron Wyden, D-Ore., and Chuck Schumer, D-N.Y. wrote a letter to FBI Director Christopher Wray demanding the FBI “reject pressure” to investigate the Biden family after the Hunter Biden email story from the New York Post. "
+    publishedDateTime: 2020-10-22T20:59:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhdM5RGtwuk/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 187
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3801dba0-03c3-4ccd-ad53-ea6f9494bada/ede4d4b7-fe76-4b53-b11b-e60c86c1df65/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says he has ‘no doubt’ he will defeat Trump when vote count is finished"
-    excerpt: "Joe Biden says he has “no doubt” that once the vote count is complete, he’ll defeat President Trump to win the White House."
-    publishedDateTime: 2020-11-05T22:38:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_A8SqgrSOfw/biden-no-doubt-defeat-trump-votes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-doubt-defeat-trump-votes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live Updates: Biden beat Trump by less than 276,000 votes in key swing states"
-    excerpt: "They’re still counting the votes in a handful of the key battleground states in the presidential election – but a look at where the current vote totals stand points to a second straight White House race decided by razor thin margins."
-    publishedDateTime: 2020-11-10T03:26:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p5QtbmWflKQ/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-beat-trump-by-less-than-276000-votes-in-key-swing-states.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b99a4e3-6bcd-43e9-a247-8a7918778ec3/a6b15013-5673-4df4-9c59-2299f9efc77c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden wins presidency, Trump denied second term in White House, Fox News projects"
-    excerpt: "Democratic presidential nominee Joe Biden has defeated incumbent President Donald Trump, denying him a second term in the White House, Fox News projects."
-    publishedDateTime: 2020-11-07T16:39:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Svcmdu8Pfhs/biden-wins-presidency-trump-fox-news-projects"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-wins-presidency-trump-fox-news-projects.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wins-presidency-trump-fox-news-projects.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
-    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
-    publishedDateTime: 2020-11-11T03:36:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Concha: 'Shy Trump voters' missed again as polls overstated Joe Biden's support"
-    excerpt: "The \"shy Trump voter\" emerged for a second straight presidential election, The Hill media reporter Joe Concha said on Thursday, as many polls ended up overstating the support for Democrat Joe Biden."
-    publishedDateTime: 2020-11-05T14:44:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V6uvoGG9NoQ/joe-concha-polls-wrong-shy-trump-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-concha-polls-wrong-shy-trump-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-polls-wrong-shy-trump-voters.amp"
+  - title: "Biden supports muting mic at debate, braces for more 'personal attacks' from Trump"
+    excerpt: "Democratic nominee Joe Biden says he supports rule changes by the Commission on Presidential Debates to mute candidates' microphones during the next faceoff scheduled to take place on Thursday."
+    publishedDateTime: 2020-10-21T00:42:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hnm3JRCaBek/biden-supports-muting-mic-at-debate-braces-for-more-personal-attacks-from-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-supports-muting-mic-at-debate-braces-for-more-personal-attacks-from-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supports-muting-mic-at-debate-braces-for-more-personal-attacks-from-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 184
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump remains defiant in election battle, prepares to take fight to courts: report"
-    excerpt: "President Trump has been brushing aside advice from some campaign advisers who are privately urging him to prepare for a possible election loss, according to a report."
-    publishedDateTime: 2020-11-07T08:52:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fzu0xDngps/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-remains-defiant-in-election-battle-prepares-to-take-fight-to-courts-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310605572803.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden plans to rejoin Paris Agreement and WHO, undo other Trump decisions on Day 1"
-    excerpt: "President-elect Joe Biden plans, on his first day in the White House, to enact four executive orders rolling back President Trump's efforts on a number of issues, the campaign told Fox News on Monday."
-    publishedDateTime: 2020-11-10T01:12:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OcphD_JBmgQ/biden-executive-orders-day-one"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-day-one.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-day-one.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/960b2918-9ba8-4b0c-b3a3-34b2104389ca/fad2a428-7655-40df-8fcc-842443bc6012/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden transition team not ruling out legal action if Trump admin doesn't cooperate"
-    excerpt: "A transition official told Fox News the Biden transition team isn't taking legal action off the table to ensure a smooth transition from Trump's administration."
-    publishedDateTime: 2020-11-10T08:56:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prqMAtunrs0/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-not-ruling-out-legal-action-if-trump-admin-doesnt-cooperate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20314637667262.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "All eyes on Pa., other battlegrounds as Biden increases lead, Trump vows legal fight"
-    excerpt: "Democratic nominee Joe Biden was on the brink of securing the 270 electoral votes needed to win the presidency Saturday as he increased his lead in Pennsylvania and other key battleground states -- while President Trump forged ahead with a legal fight."
-    publishedDateTime: 2020-11-07T15:11:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQiXdJjuRUk/pa-battlegrounds-biden-trump-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/pa-battlegrounds-biden-trump-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-battlegrounds-biden-trump-legal-fight.amp"
+  - title: "Fox News Poll: Trump gains in Ohio, Biden ahead in Michigan, Pennsylvania, Wisconsin"
+    excerpt: "Donald Trump holds a narrow advantage in Ohio, while voters in the three battleground states that put him over the top in 2016 prefer Joe Biden"
+    publishedDateTime: 2020-10-21T22:01:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zqXVRJCXz-M/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 183
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
+    excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
+    publishedDateTime: 2020-10-21T02:09:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXoaSe8Ouo4/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Spoiler alert? Difference between Trump, Biden in key swing states is Libertarian votes"
-    excerpt: "Election results revealed a striking data point: votes cast for third-party Libertarian candidate Jo Jorgensen in key swing states exceeded the margin between votes for President Trump and President-elect Joe Biden. "
-    publishedDateTime: 2020-11-10T21:45:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3PVvuzPnMs/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states"
-    ampWebUrl: "https://www.foxnews.com/politics/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/libertarian-jo-jorgensen-difference-for-joe-biden-key-swing-states.amp"
+  - title: "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings"
+    excerpt: "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter."
+    publishedDateTime: 2020-10-20T12:44:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20313107857951.jpg"
-        width: 5094
-        height: 3396
-        isCached: true
-  - title: "Candace Owens blasts 'despicable' Obama book claiming Trump election was racist reaction"
-    excerpt: "The suggestion by former President Barack Obama that President Trump’s rise to power was a product of racism is \"absolutely despicable,\" author and activist Candace Owens told “Hannity” Thursday."
-    publishedDateTime: 2020-11-13T04:42:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ssX7HvtLPVg/candace-owens-barack-obama-donald-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/candace-owens-barack-obama-donald-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-barack-obama-donald-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5630b133-b478-42fd-ab9e-1d6d49478b5e/b9e250a1-7324-4a44-ab3e-a98150b248c5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump claims Dems are trying to 'steal' election, says he'll win if 'legal votes' are counted"
-    excerpt: "A defiant President Trump on Thursday said he and his campaign will “not allow corruption to steal” the election during a press conference at the White House, while maintaing that he will win the 2020 presidential race despite a dwindling path toward reelection as votes continue to come in."
-    publishedDateTime: 2020-11-06T01:33:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VfttQGQmhPQ/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-win-if-legal-votes-are-counted-says-dems-are-trying-to-steal-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
+    quality: 180
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "How Georgia voted: Biden bolstered by big cities, while Trump sees major turnout in rural areas"
-    excerpt: "For the first time in decades, Georgia was a crucial swing state in the presidential race."
-    publishedDateTime: 2020-11-11T21:25:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NBhul2O8FBc/how-georgia-voted-trump-biden-election"
-    ampWebUrl: "https://www.foxnews.com/politics/how-georgia-voted-trump-biden-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-georgia-voted-trump-biden-election.amp"
+  - title: "Trump calls Biden's 'transition from' oil comments 'perhaps most shocking admission ever made'"
+    excerpt: "President Trump said Democratic nominee Joe Biden’s remarks on transitioning away from the oil industry were “perhaps the most shocking admission ever made during a debate.”"
+    publishedDateTime: 2020-10-23T22:11:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbEiQnQfFMA/trump-biden-transition-from-oil-shocking-admission"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-transition-from-oil-shocking-admission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-transition-from-oil-shocking-admission.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 178
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/2020-Georgia-Voting-1.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297083042965-e1603466224157.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Graham encourages Trump to mount presidential bid in 2024 should election challenges 'fall short'"
-    excerpt: "Sen. Lindsey Graham said Monday he would encourage President Trump to consider running again for the White House in 2024 if his efforts challenging the results of the 2020 presidential election \"fall short.\""
-    publishedDateTime: 2020-11-09T16:34:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRR_R0KFgUA/graham-trump-2024-campaign-legal-battles-fall-short"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-trump-2024-campaign-legal-battles-fall-short.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-trump-2024-campaign-legal-battles-fall-short.amp"
+  - title: "Blackburn: Trump should focus on his 'incredible record' at presidential debate, not 'Biden Inc.'"
+    excerpt: "President Trump should focus on his own accomplishments during Thursday night's second and final presidential debate against Joe Biden, Sen. Marsha Blackburn, R-Tenn., told \"Special Report\" Wednesday."
+    publishedDateTime: 2020-10-21T23:27:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBqtjIl9JDM/presidential-debate-trump-biden-incorporated-marsha-blackburn"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 177
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Live Updates: Bipartisan group urges Trump administration to begin post-election transition process"
-    excerpt: "The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”"
-    publishedDateTime: 2020-11-09T04:58:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDwNcFKL93A/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7994c178-a9a3-49b0-b7c5-c6545797cb45/cf423e11-3eb9-4c8a-87fb-7ac318808722/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a0259c0-cd63-451e-9bfc-4b10f89422b0/6f81371c-788e-4c73-85c3-98b4d445127d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Dr. Ronny Jackson, new Texas congressman, says Joe Biden should have cognitive test like Trump did"
-    excerpt: "Dr. Ronny Jackson, the incoming Texas congressman and former White House physician to President Trump, called out the left for failing to demand a rigorous cognitive screening for President-elect Joe Biden, saying \"there's something going on\" with the Democrat's mental acuity."
-    publishedDateTime: 2020-11-13T20:26:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/peMBzY25gPQ/ronny-jackson-texas-joe-biden-needs-cognitive-test"
-    ampWebUrl: "https://www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronny-jackson-texas-joe-biden-needs-cognitive-test.amp"
+  - title: "Supreme Court agrees to hear key cases on Trump immigration policies"
+    excerpt: "The Supreme Court announced Monday that it will hear two key cases related to President Trump's immigration policies."
+    publishedDateTime: 2020-10-19T13:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRDc_IHiV7c/supreme-court-trump-immigration-policy-cases-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/ronny-jackson4.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdc7dd2e-ec8a-4ca3-b01b-377e42699889/72e0bd63-e065-4820-8514-d3eaddd6c56a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama to hit trail for Biden, takes to airwaves for Senate Democrats"
+    excerpt: "Obama is starring in new campaign commercials for Democrats locked in key Senate races, as the party hopes to win back the majority in the chamber for the first time in six years."
+    publishedDateTime: 2020-10-20T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fU30Ana0OXU/obama-trail-biden-airwaves-senate-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trail-biden-airwaves-senate-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trail-biden-airwaves-senate-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36b8ecdc-458b-440e-9add-164aea9990e1/8b1a2c74-0af6-45fb-b024-7391f3aedd59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump slams debate moderator Welker as 'terrible,' 'totally partisan'"
+    excerpt: "President Trump said he is ready for Thursday's debate against Democratic presidential nominee Joe Biden, but claimed that it will not be fair because the moderator, NBC's Kristen Welker, will be biased against him."
+    publishedDateTime: 2020-10-20T13:12:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqO0LmFk3KQ/trump-slams-debate-moderator-kristen-welker"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1df101ed-4ddd-407f-ae39-a12f276397cf/a6fdfdd2-0702-448a-93c1-a621b104cc66/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Special Ops commander who oversaw bin Laden raid endorses Biden"
+    excerpt: "The Special Operations Commander who led the mission to assassinate Osama Bin Laden says he is a conservative but voted for Joe Biden. "
+    publishedDateTime: 2020-10-21T21:44:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Bp5jrgkBrA/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7f9ff4-65e4-4165-9aa4-5efe700736a5/b71debd9-2387-43bb-9caa-7bf76d7cb037/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump’s Mission: Burn it down"
+    excerpt: "Trump can’t beat Biden as Biden is currently defined."
+    publishedDateTime: 2020-10-22T19:39:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says he and Obama 'made a mistake' on immigration policy"
+    excerpt: "Democratic presidential nominee Joe Biden said he and former President Barack Obama \"made a mistake\" by failing to achieve comprehensive immigration reform during their eight years in office. "
+    publishedDateTime: 2020-10-23T12:54:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPiqCfOHQ0/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b47ea41b-82aa-4802-bc90-d22a3e9cf8cf/32778a69-9684-4068-8821-fc6227b6442b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden will ‘campaign aggressively’ in final stretch, top aide insists"
+    excerpt: "When it comes to the number of in-person campaign events being held in the White House race, President Trump is lapping Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-23T08:03:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m7S3hNtXlns/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-campaign-aggressively-in-final-stretch-top-aide-insists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297057827109.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden announces 'fight fund' for vote count battle"
-    excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
-    publishedDateTime: 2020-11-04T19:40:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4b_EzRtBy4/joe-biden-announces-fight-fund-for-vote-count-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+  - title: "Landlord threatens tenants with rent hike if Biden wins: reports"
+    excerpt: "A group of trailer park tenants in Colorado received an alleged letter from their landlord telling them their rents would “most likely” double if Joe Biden beats President Trump on Election Day, according to local reports."
+    publishedDateTime: 2020-10-23T01:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwUD3TaWcX0/landlord-threatens-rent-hike-biden-wins"
+    ampWebUrl: "https://www.foxnews.com/politics/landlord-threatens-rent-hike-biden-wins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/landlord-threatens-rent-hike-biden-wins.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "More Americans voted for Donald Trump this year than in 2016"
-    excerpt: "President Trump received more votes in the 2020 presidential election than he did in the 2016 presidential election as Joe Biden also surpassed the 2016 vote total for Hillary Clinton. "
-    publishedDateTime: 2020-11-04T16:12:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CcV8CrRmT_g/more-americans-voted-for-donald-trump-this-year-than-in-2016"
-    ampWebUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden’s campaign insists former VP ‘will be the next president’"
-    excerpt: "Joe Biden’s presidential campaign on Thursday declared that “our data shows that Joe Biden will be the next president of the United States.”"
-    publishedDateTime: 2020-11-05T18:00:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gMjnTd5av4M/bidens-campaign-stresses-former-vp-will-be-the-next-president"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-stresses-former-vp-will-be-the-next-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec2a8c02-cc1e-4e42-b020-ba1eb44686c1/1ab56d55-404c-4ecc-9a0d-37e66fee703f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to receive additional Secret Service protection: report"
-    excerpt: "Democratic presidential nominee Joe Biden will receive a beefed-up Secret Service detail starting Friday as the candidates wait for the presidential race to be called, according to a report."
-    publishedDateTime: 2020-11-06T11:06:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QO4nVxZgS2M/biden-to-receive-additional-secret-service-protection-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-receive-additional-secret-service-protection-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20310779175857.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20296696561482.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Jimmy Carter congratulates President-elect Joe Biden on White House win"
-    excerpt: "The 39th U.S. President, Jimmy Carter, congratulated the 46th President-elect, Joe Biden, on Saturday, saying he is looking forward to \"seeing positive change.\""
-    publishedDateTime: 2020-11-07T20:42:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FG9KLiX0cxM/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win"
-    ampWebUrl: "https://www.foxnews.com/politics/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jimmy-carter-congratulates-president-elect-joe-biden-on-white-house-win.amp"
+  - title: "Trump addresses addiction, depression due to COVID-19 lockdowns"
+    excerpt: "President Trump on Friday warned of depression and addiction, which health professionals says is on the rise amid coronavirus lockdowns, during the final 2020 presidential debate. "
+    publishedDateTime: 2020-10-23T15:33:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey26iAP4UW8/trump-addiction-depression-covid-19-lockdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-addiction-depression-covid-19-lockdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-addiction-depression-covid-19-lockdowns.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lindsey Graham says he will support Biden's Cabinet choices"
-    excerpt: "Staunch ally of President Trump, Sen. Lindsey Graham, R-S.C., said he would work with Democratic presidential nominee Joe Biden to build a Cabinet, if he wins the presidency."
-    publishedDateTime: 2020-11-07T02:16:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XGxqDJjzaWw/lindsey-graham-support-biden-cabinet"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-support-biden-cabinet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b7c3eb7-f9bf-44f3-b8e5-d61b2e829de8/1f72c549-5888-45a0-afff-e692e658f109/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Legal fights continue after Biden named president-elect"
-    excerpt: "President Trump is planning to bring back his large-scale rallies which will focus on his “ongoing litigation” as he challenges the results of last week’s election."
-    publishedDateTime: 2020-11-09T04:58:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OV6esyROh0s/live-updates-election-legal-fights-after-biden-victory"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb3c427-e2dd-4e89-8b70-c65820bfcf82/9a2421f7-c8d1-4e3a-98f0-4dc455f9d172/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden wins presidency but struggles with these voters"
-    excerpt: "Former Vice President Joe Biden may have crossed the Electoral College threshold to win the 2020 presidential race – but he did so while losing support from some demographics that Democrats had expected to help carry them to a landslide victory."
-    publishedDateTime: 2020-11-11T02:15:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIRsx6cOSgA/biden-wins-presidency-struggles-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-wins-presidency-struggles-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wins-presidency-struggles-voters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315765327815.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297131258514-e1603453165786.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden selects Ronald Klain as White House chief of staff"
-    excerpt: "The Biden-Harris transition team is expected to announce more cabinet picks over the next several days."
-    publishedDateTime: 2020-11-12T01:07:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SxHdIX8kSM/biden-selects-ronald-klain-white-house-chief-of-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-selects-ronald-klain-white-house-chief-of-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-selects-ronald-klain-white-house-chief-of-staff.amp"
+  - title: "Florida man stole bulldozer, ran down Biden signs"
+    excerpt: "A 26-year-old man has been accused of stealing a bulldozer from a Florida construction site, driving it into a neighborhood and knocking down campaign signs for Democratic presidential nominee Joe Biden, according to authorities and homeowners."
+    publishedDateTime: 2020-10-26T18:03:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5liMovvhVCM/florida-man-stole-bulldozer-ran-down-biden-signs"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live Updates: Biden's lead grows in Pennsylvania"
-    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
-    publishedDateTime: 2020-11-12T05:20:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f04fe45e-87a1-475d-a66b-295fbe3e130c/c7912994-fd52-4144-aeca-86b794a1b61b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump warns Dems aiming to take the Senate, double downs on final victory"
-    excerpt: "President Trump took to Twitter early Friday to warn his followers that Democrats have their sights set on winning the Senate, but vowed that Republicans would ultimately prevail, despite what looked like an uphill climb."
-    publishedDateTime: 2020-11-06T08:50:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vi9kzdQWvUM/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-warns-dems-aiming-to-take-the-senate-double-downs-on-final-victory.amp"
+  - title: "Many Trump supporters feel need to hide their support for president: poll"
+    excerpt: "A new poll in the battleground state of New Hampshire indicates that voters who back President Trump are far less likely to express their support publicly than those who back Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-20T20:14:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CK1f6AghPc/trump-supporters-hide-their-support"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hide-their-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hide-their-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden calls for unity, but some fellow Democrats contradict message with spite toward Trump supporters"
-    excerpt: "The message of unity in the president-elect's victory speech was consistent with much of the rhetoric of his presidential campaign. It was also in line with how Biden comported himself during his many years in the Senate -- he was a dealmaking moderate, not a rancorous partisan. "
-    publishedDateTime: 2020-11-10T15:36:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zDgpO3I8NnM/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-for-unity-but-some-fellow-democrats-contradict-message-with-spite-toward-trump-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's sister, despite calls for unity, scoffs at suggestion Biden, Trump could work together: 'Why?'"
-    excerpt: "Not everyone close to Joe Biden is on board with the president-elect's recent message of political unity."
-    publishedDateTime: 2020-11-10T16:34:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo7NDG524OM/biden-sister-valerie-owens-trump-unity"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sister-valerie-owens-trump-unity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sister-valerie-owens-trump-unity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313107857951.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/IMG_2240.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden lawyer accuses Trump of trying to 'interfere with the inevitable' as transition awaits GSA funds"
-    excerpt: "Lawyers for President-elect Joe Biden's transition team accused President Trump and his allies of trying to \"interfere with the inevitable\" as the president refuses to concede the election and continues to pursue legal challenges to ballots in several states."
-    publishedDateTime: 2020-11-11T13:04:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/27mVMsDGMnI/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-lawyer-accuses-trump-interfering-inevitable-transition-gsa-funds.amp"
+  - title: "Trump 'coyote' remark confuses Twitter, including Georgia state Democrat"
+    excerpt: "When President Trump suggested at the Thursday presidential debate that the more than 500 migrant children who the government hasn’t been able to reunite with their parents were brought to the border by coyotes, many on social media were left confused."
+    publishedDateTime: 2020-10-24T04:15:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KJFaQyPGq4U/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coyote-remark-confuses-twitter-including-georgia-state-democrat.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kendrick.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
-    excerpt: "Nearly three-quarters of regional voters turned out for Biden."
-    publishedDateTime: 2020-11-11T22:05:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1QVVz3KmJrI/biden-won-silicon-valley-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
+    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
+    publishedDateTime: 2020-10-26T12:35:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OKvJtRcm96Q/biden-staff-misspoke-60-minutes-free-public-college-cost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c45b08f-c341-42d0-9197-8605f61f1988/5c039d53-2a9a-4699-8848-5afb02b4bff3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Ronald Klain, Biden's new chief of staff, raises eyebrows with 2014 tweet saying elections are 'rigged'"
-    excerpt: "President-elect Biden's newly announced pick for White House chief of staff is raising eyebrows over a 2014 tweet that suggests elections are \"rigged.\""
-    publishedDateTime: 2020-11-12T13:04:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZdZOjh1xPc/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged"
-    ampWebUrl: "https://www.foxnews.com/politics/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronald-klain-bidens-wh-chief-of-staff-raises-eyebrows-with-2014-tweet-saying-elections-are-rigged.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Screen-Shot-2020-11-11-at-9.47.20-PM.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
-    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
-    publishedDateTime: 2020-11-12T14:14:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden family joins president-elect on victory speech stage, Hunter included"
-    excerpt: "Ahead of President-elect Joe Biden’s 2020 election victory speech Saturday night, he said his family would be present for the event, raising questions about whether that included his son Hunter would be involved."
-    publishedDateTime: 2020-11-08T02:57:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p09IbPPdasw/biden-family-president-elect-victory-speech-hunter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-president-elect-victory-speech-hunter.amp"
+  - title: "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate"
+    excerpt: "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday."
+    publishedDateTime: 2020-10-19T18:24:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313075068424.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Sanders confident Biden will follow through on progressive policy promises"
-    excerpt: "Sen. Bernie Sanders indicated on Tuesday that he was confident President-Elect Biden wouldn't abandon the progressive policies their two teams agreed to prior to the election. "
-    publishedDateTime: 2020-11-12T01:17:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s757465g1PY/bernie-sanders-biden-progressive-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-biden-progressive-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-biden-progressive-policies.amp"
+  - title: "Trump team will monitor final presidential debate ‘mute button’ technician"
+    excerpt: "President Trump’s campaign intends to monitor the technician in charge of the mute button at Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T00:18:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g4C_hP5jaks/trump-team-will-monitor-final-presidential-debate-mute-button-technician"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-team-will-monitor-final-presidential-debate-mute-button-technician.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-will-monitor-final-presidential-debate-mute-button-technician.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38c15bac-b08b-4c27-ab09-f212508be9ca/4feba043-abda-40b4-a4c6-8931f9eb1eb8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e9e4150-79fb-4230-a4e4-92c3aecd2a62/887ce490-7c93-4c65-abd8-8a80fb2243d0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden visits his late son Beau's gravesite after being named president-elect"
-    excerpt: "President-elect Joe Biden on Sunday visited the cemetery where several family members, including his late son Beau, are buried at the Catholic church near his home in Delaware."
-    publishedDateTime: 2020-11-08T20:47:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e_5QqmYyB9I/joe-biden-beau-grave-first-day-president-elect-catholic"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-beau-grave-first-day-president-elect-catholic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-beau-grave-first-day-president-elect-catholic.amp"
+  - title: "Trump's Middle East peace deals 'rejected conventional wisdom': State Dept."
+    excerpt: "President Trump's Middle East peace deals, including the latest Friday between Israel and Sudan, are \"unprecedented\" for the region, State Department spokeswoman Morgan Ortagus said."
+    publishedDateTime: 2020-10-24T18:50:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZmxoZXQDLPk/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus"
+    ampWebUrl: "https://www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/israel-sudan-trump-peace-deal-middle-east-state-department-morgan-ortagus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump to participate in Veterans Day ceremony at Arlington National Cemetery"
-    excerpt: "President Trump on Wednesday is attending a ceremony at Arlington National Cemetery to mark Veterans Day -- Trump’s first public event since he was projected to have lost the presidential election to President-elect Joe Biden."
-    publishedDateTime: 2020-11-11T15:57:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyWqRCig5JI/trump-veterans-day-ceremony-arlington-national-cemetary"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veterans-day-ceremony-arlington-national-cemetary.amp"
+  - title: "Biden would return to Obama-era immigration policies if elected, report says"
+    excerpt: "EXCLUSIVE: Joe Biden, if elected president, would undo a number of key Trump administration’s policies related to immigration, and specifically illegal immigration, a new report predicts -- concluding that the differences between the two candidates on the issues is “stark.”"
+    publishedDateTime: 2020-10-21T16:57:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXN1yLgMO34/biden-obama-era-immmigration-policies-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-era-immmigration-policies-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-era-immmigration-policies-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89208490-6f66-4e59-8e38-b11e83bcc088/92f41bd7-6f93-48d6-aca2-5568cb62f8b6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "More Senate Republicans say Biden should start receiving classified briefings"
-    excerpt: "A growing number of Senate Republicans this week have said that President-elect Joe Biden should begin receiving classified briefings, even as President Trump has refused to concede and as the General Services Administration has yet to officially certify the former vice president’s transition."
-    publishedDateTime: 2020-11-12T19:57:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eXSka5I06g/senate-republicans-biden-classified-briefings"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-republicans-biden-classified-briefings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-republicans-biden-classified-briefings.amp"
+  - title: "Biden slams Trump as he distances himself from progressives: 'He thinks he's running against somebody else'"
+    excerpt: "The heated exchange occurred after Biden was asked to address Americans who are concerned about a shift toward socialized medicine."
+    publishedDateTime: 2020-10-23T02:56:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uuD2zqAfQow/biden-slams-trump-health-care-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden business associate's text messages indicate meeting with Joe Biden"
+    excerpt: "EXCLUSIVE: Text messages obtained by Fox News show the CEO of a Jim and Hunter Biden joint venture with a Chinese energy firm discussing a meeting with Joe Biden in May 2017, despite past claims from the former vice president that he did not talk about his son's business dealings."
+    publishedDateTime: 2020-10-22T18:34:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nZUreaZYU6A/hunter-biden-business-associate-text-messages-joe-biden-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-associate-text-messages-joe-biden-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-associate-text-messages-joe-biden-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign adviser Lewandowski predicts clear election winner with Trump victories in major swing states"
-    excerpt: "President Trump has warned that Americans may not learn the results of the presidential election until well after Election Day due to certain battleground states extending the deadline for accepting mailed ballots, but Trump campaign senior adviser Corey Lewandowski predicted that Trump will win so decisively"
-    publishedDateTime: 2020-11-01T15:08:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/muP_8kyz5sk/trump-campaign-adviser-lewandowski-election-predictions-swing-states"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-lewandowski-election-predictions-swing-states.amp"
+  - title: "Former ICE director blasts Biden for Obama administration’s immigration policy"
+    excerpt: "Former ICE Director Tom Homan on Saturday blasted 2020 Democratic presidential candidate Joe Biden for attacking the Trump administration about their apparent family separation policy."
+    publishedDateTime: 2020-10-25T02:24:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSnLAExWIMk/former-ice-director-trump-biden-obama-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-ice-director-trump-biden-obama-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be367b42-5921-461d-b8a2-7cd1b5de3963/800d4d41-4d0a-4de7-bd12-e9bff97e3c9d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Top GOPers say to wait for vote counts after Biden projected to beat Trump, others congratulate new president"
-    excerpt: "Some Republicans are insisting that Americans wait for vote counts to be finalized and certified after the Fox News Decision Desk projected that President-elect Biden will beat President Trump and become the 46th president of the United States, while others congratulated Biden on his win Saturday."
-    publishedDateTime: 2020-11-07T20:01:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uyWOZ24HD7Q/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president"
-    ampWebUrl: "https://www.foxnews.com/politics/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-gopers-say-to-wait-for-vote-counts-after-biden-projected-to-beat-trump-others-congratulate-new-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump decries initial lead that 'miraculously' disappeared, urges Biden not to 'wrongfully claim' White House"
-    excerpt: "President Trump on Friday night decried his initial lead in the presidential race that he watched \"miraculously disappear as the days went by.\" "
-    publishedDateTime: 2020-11-07T00:19:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XqOUnozgs0k/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-initial-lead-miraculously-disappeared-urges-biden-not-to-wrongfully-claim-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5af99d19-0b2c-443c-9ed5-10c7bd64355f/50da4d6e-e09f-49a2-8cba-f32ab313007b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "FLASHBACK: Biden said two months ago he would not declare victory until election was independently certified"
-    excerpt: "Way back in the first 2020 presidential debate in September, former Vice President Joe Biden pledged that he would not declare victory in the election before the results were “independently certified.”"
-    publishedDateTime: 2020-11-12T01:31:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fW7agtzF6c4/biden-victory-election-independently-certified"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-victory-election-independently-certified.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-victory-election-independently-certified.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315794984780-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Fauci said Trump 'asking for trouble' with potential super spreader rallies – but silent on Biden celebrations"
-    excerpt: "Dr. Anthony Fauci, the nation’s top disease expert, warned last month that President Donald Trump was “asking for trouble” by holding large rallies amid the ongoing coronavirus pandemic, but has so far been silent on celebrations being held nationwide over Joe Biden’s presidential win.  "
-    publishedDateTime: 2020-11-09T02:03:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RFt8G6FAdBo/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations"
-    ampWebUrl: "https://www.foxnews.com/politics/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-trump-asking-trouble-super-spreader-rallies-silent-biden-celebrations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20313462552279.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
-    excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
-    publishedDateTime: 2020-11-10T20:19:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQYSojMRAUc/biden-uk-france-germany-as-transition-gets-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae6a8da7-031f-4f6a-8706-76b1845676c5/d5243f3e-9afd-4d22-b217-b5218052c03e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024"
-    excerpt: "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024."
-    publishedDateTime: 2020-11-11T00:08:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7no2jXBuGVE/rubio-says-trump-would-again-be-frontrunner-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb29866c-2b95-48fc-a56b-01a88cc60f21/126b8d97-2ce4-4707-9d37-9343a2d7451d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
-    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
-    publishedDateTime: 2020-11-05T17:51:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lQ6yDXw0sgY/trump-campaign-predicts-victory-trump-alive-and-well"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pennsylvania GOP senator calls on Trump to cooperate with Biden transition"
-    excerpt: "Sen. Pat Toomey called on President Trump to start cooperating with President-elect Joe Biden's transition team, becoming one of the few sitting GOP lawmakers to do so."
-    publishedDateTime: 2020-11-11T13:27:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVEzIhDVN4I/gop-senator-calls-on-trump-to-cooperate-with-biden-transition"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Toomey-.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
-    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
-    publishedDateTime: 2020-11-12T21:26:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
-    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
-    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
-    publishedDateTime: 2020-11-04T07:51:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+  - title: "New Hampshire newspaper backs Biden, first Democrat for president in 100 years"
+    excerpt: "One of the nation's most prominent conservative-leaning newspapers endorsed Joe Biden for president on Sunday, marking the first time the publication has endorsed a Democratic presidential candidate in over 100 years."
+    publishedDateTime: 2020-10-25T19:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/90vbbqrnN5g/biden-endorsement-conservative-new-hampshire-union-leader-newspaper"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-endorsement-conservative-new-hampshire-union-leader-newspaper.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's first move as president-elect? Mask mandate for all. Here's how he plans on doing it."
-    excerpt: "One of Joe Biden's first priorities as president-elect will be implementing mask mandates nationwide by working with governors. The future 46th president, however, says if they refuse than he will go to mayors and county executives and get local masking requirements in place."
-    publishedDateTime: 2020-11-08T23:48:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pjl7GXYW3TI/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-first-move-as-president-elect-mask-mandate-for-all-heres-how-he-plans-on-doing-it.amp"
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:11:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7421506b-3c80-471a-9cde-a73afeeafe0c/b6f05093-8627-4221-affe-14df9dac7fbb/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tomi Lahren on final presidential debate: Time for Joe Biden to 'face the music'"
+    excerpt: "Fox Nation host Tomi Lahren and country music star John Rich appeared on \"Fox & Friends\" to preview the second presidential debate just hours before it airs."
+    publishedDateTime: 2020-10-22T15:40:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yE8YPf4_mp0/tomi-lahren-trump-biden-final-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cruz blasts media for not 'even pretending to do their job' on Hunter Biden story"
+    excerpt: "Sen. Ted Cruz, R-Texas slammed the mainstream media on Thursday for ignoring the ongoing scandal surrounding Hunter Biden’s overseas business interests, saying they were \"not even pretending to do their job\" to address the story. "
+    publishedDateTime: 2020-10-23T00:51:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1N4NXmg6nU/cruz-media-hunter-biden-story-not-doing-job"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aac24991-ce67-4b55-aa14-e4fb7598b45f/e886a4a3-d92f-4c25-99dc-85f4d88cb546/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s Team Pressures Trump Administration to Declare Him Election Winner"
-    excerpt: "A standoff between Joe Biden and President Trump over the results of the election is complicating the president-elect’s ability to prepare for the White House."
-    publishedDateTime: 2020-11-10T20:20:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
+  - title: "FBI asks to interview Hunter Biden ex-associate Bobulinski, Senate committee says"
+    excerpt: "The FBI has asked former Hunter Biden business associate Tony Bobulinski to sit for an interview Friday, Bobulinski's lawyers told the Senate Homeland Security Committee, which released a statement Friday."
+    publishedDateTime: 2020-10-23T15:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DkexfYKoCcg/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-interview-request-hunter-biden-ex-associate-tony-bobulinski-senate-committee.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 163
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
-      - url: "https://images.wsj.net/im-257774/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/087c9684-40ad-4fde-977b-fd7d68851af4/ca3f5960-1252-4b92-8d2d-a152cc141674/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Biden's lead over Trump in Arizona drops below 15K votes, but comeback unlikely: report"
-    excerpt: "The Fox News Decision Desk projected a Biden victory in Arizona on Nov. 3"
-    publishedDateTime: 2020-11-11T00:50:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lv7ljIpXwnc/biden-lead-trump-arizona-15k-comeback-unlikely"
+  - title: "Biden pressed over debate comment that he would 'transition from the oil industry'"
+    excerpt: "After the final debate on Thursday night, Democratic presidential nominee Joe Biden was pressed by reporters on his comments about fossil fuels, following his remarks that he plans to \"transition from the oil industry.\""
+    publishedDateTime: 2020-10-23T14:17:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8a93LtPsXgk/biden-pressed-debate-comment-transition-oil-industry"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-debate-comment-transition-oil-industry.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "How Biden, McConnell could find themselves in familiar role as negotiating partners"
+    excerpt: "If Republicans hold the Senate and Biden defeats President Donald Trump to win the presidency, Biden and McConnell would find themselves in the familiar role of negotiating partners."
+    publishedDateTime: 2020-10-24T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8mlj3c1_G2k/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mcconnell-could-find-themselves-familiar-role-negotiating-partners.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36de7344-1c5d-466a-87f1-bd5a43999626/c5881c61-4096-419b-ad06-310ffbb67460/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
+    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
+    publishedDateTime: 2020-10-22T02:20:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donna Brazile confident Joe Biden will handle Hunter email controversy: 'Bring it up!'"
+    excerpt: "Joe Biden should not let President Trump interrupt him during the final presidential debate Thursday night, former DNC Interim Chair Donna Brazile argues."
+    publishedDateTime: 2020-10-22T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pa5seKo_ce4/biden-debate-trump-hunter-email-controversy-donna-brazile"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden pressed on Hunter Biden business questions at debate, insists 'nothing was unethical’"
+    excerpt: "Vice President Joe Biden denied taking money from foreign actors on Thursday as President Trump took him to task over details surrounding his son's business dealings in Russia."
+    publishedDateTime: 2020-10-23T01:57:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OdDBtIAhf0/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53c5bd67-5e0e-45c5-bf8d-6d99eff60090/fc5e7bac-df8d-4b30-9726-44e921fed04b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
+    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
+    publishedDateTime: 2020-10-21T03:53:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Biden-Presser-AP-1.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden allegations likely why Obama didn’t encourage Biden to run for president: Sen. Johnson"
-    excerpt: "The allegations against Hunter Biden are likely the reason why former President Obama “did not encourage the vice president to run” for president, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Sunday Morning Futures” in an exclusive interview."
-    publishedDateTime: 2020-11-01T18:36:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RGQX0Dg_BaQ/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-why-obama-didnt-encourage-biden-run-ron-johnson.amp"
+  - title: "McEnany claims debate moderator Kristen Welker gave Biden 'some cover' by eschewing foreign policy"
+    excerpt: "White House press secretary Kayleigh McEnany accused NBC News correspondent Kristen Welker Tuesday of giving Democratic nominee Joe Biden \"cover\" in this week's presidential debate by ignoring foreign policy as a topic."
+    publishedDateTime: 2020-10-20T20:27:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8nlIHSEDwo/kayleigh-mcenany-second-debate-kristen-welker"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump campaign claims public polling was used as a ‘voter suppression tactic’ against him in Wisconsin"
-    excerpt: "The leadup to Nov. 3 had polls showing former Vice President Joe Biden with a healthy lead in Wisconsin over President Trump by a margin of 6.7% just weeks before Election Day, according to Real Clear Politics polling – a lead that Trump’s campaign has called  a form of “voter suppression.”"
-    publishedDateTime: 2020-11-04T21:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/URewOeZ9QTA/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-claims-public-polling-was-used-as-a-voter-suppression-tactic-against-him-in-wisconsin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/218735bc-a4eb-4254-9c9a-bd895165e956/f1085213-9e82-42a5-91eb-29a5dce42708/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "How Joe Biden Won the Election: Votes From Blue America With Few Gains in Trump World"
-    excerpt: "The President-elect marshaled core Democratic and suburban voters, stitching together many of the diverse constituencies who twice elected President Obama. But there was no wave of change. Mr. Trump increased turnout among his core voters,"
-    publishedDateTime: 2020-11-09T00:08:00Z
-    webUrl: "https://www.wsj.com/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
-    ampWebUrl: "https://www.wsj.com/amp/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-joe-biden-won-the-election-votes-from-blue-america-with-few-gains-in-trump-world-11604862528"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 158
-    images:
-      - url: "https://images.wsj.net/im-249728/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "‘SNL’ basically endorses Joe Biden in pre-election episode"
-    excerpt: "The final episode of “Saturday Night Live” before Tuesday’s presidential election went much further than the show did in 2016."
-    publishedDateTime: 2020-11-01T17:48:00Z
-    webUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/"
-    ampWebUrl: "https://nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/01/snl-basically-endorses-joe-biden-in-pre-election-episode/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/snl.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Biden Makes Gains in Three States as Trump Lashes Out Over Vote Count"
-    excerpt: "Joe Biden surpassed President Trump by several hundred votes in Georgia and increased his lead in Nevada, while Mr. Trump’s lead in Pennsylvania narrowed, according to the Associated Press."
-    publishedDateTime: 2020-11-06T12:41:00Z
-    webUrl: "https://www.wsj.com/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-results-trump-biden-11-06-2020-11604665986"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-256148/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Celebrities react to Trump's election update"
-    excerpt: "Chris Evans, Mark Ruffalo and more stars took to social media to slam Trump's address as the 2020 presidential election continues."
-    publishedDateTime: 2020-11-06T02:43:00Z
-    webUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update"
-    ampWebUrl: "https://www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/celebrities-react-trump-election-update.amp"
+  - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
+    excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been. "
+    publishedDateTime: 2020-10-23T19:24:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RYo8m8FLfzU/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 161
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Chris-Evans-Mark-Ruffalo-Patricia-Arquette.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump Allies Push Forward With Election Lawsuits"
-    excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
-    publishedDateTime: 2020-11-07T06:06:00Z
-    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=business_minor_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-256340/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump reportedly has no plans to concede presidential race to Biden"
-    excerpt: "President Trump is not prepared to concede the presidential race to Joe Biden, despite being told by his counselors that it would be the right thing to do, according to a report Friday. Other"
-    publishedDateTime: 2020-11-06T16:05:00Z
-    webUrl: "https://nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/"
-    ampWebUrl: "https://nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/06/trump-reportedly-has-no-plans-to-concede-race-to-biden/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/donald-trump-12.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden Wins 2020 Presidential Election, AP Says"
-    excerpt: "The Democrat will become the 46th president of the United States after crossing 270 electoral votes, the Associated Press said. Mr. Trump hasn’t conceded the race."
-    publishedDateTime: 2020-11-07T16:38:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wins-2020-presidential-election-ap-says-11604766914"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-256726/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Election 2020: What Are the Trump Legal Claims?"
-    excerpt: "As President Trump and his allies pledged to intensify legal efforts to contest the presidential election, many of their lawsuits are limited in scope, making them unlikely to produce large vote swings even if successful."
-    publishedDateTime: 2020-11-09T04:03:00Z
-    webUrl: "https://www.wsj.com/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
-    ampWebUrl: "https://www.wsj.com/amp/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/election-2020-what-are-the-trump-legal-claims-11604876612"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-256986/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Many Republicans Back Trump on Challenges to Election Result"
-    excerpt: "As Joe Biden prepares his White House transition plans and President Trump continues to fight the election results, many Republican lawmakers are sticking with Mr. Trump for now and declining to call the Democratic winner the president-elect."
-    publishedDateTime: 2020-11-09T12:46:00Z
-    webUrl: "https://www.wsj.com/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
-    ampWebUrl: "https://www.wsj.com/amp/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-republicans-back-trump-on-challenges-to-election-result-11604925680"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-257088/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Gained, Trump Stalled in the Nation’s Suburbs"
-    excerpt: "While Joe Biden did well in a range of communities, voters in working-class suburbs had different priorities than those closer to big cities."
-    publishedDateTime: 2020-11-09T16:00:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-gained-trump-stalled-in-the-nations-suburbs-11604937011"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-257050/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Vaccine Jolts Markets in a Way Biden and Trump Couldn’t"
-    excerpt: "The U.S. presidential race mattered for investors but other things matter more, especially the Federal Reserve and the prospects of Covid-19 vaccine candidates."
-    publishedDateTime: 2020-11-09T16:23:00Z
-    webUrl: "https://www.wsj.com/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
-    ampWebUrl: "https://www.wsj.com/amp/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vaccine-jolts-markets-in-a-way-biden-and-trump-couldnt-11604938629"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-257208/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden Says Standoff With Trump Administration Won’t Stop Transition"
-    excerpt: "Joe Biden called President Trump’s unwillingness to concede the election an “embarrassment” but said it wouldn’t impede his White House transition, despite a standoff with the administration that is preventing the president-elect’s team from accessing key resources."
-    publishedDateTime: 2020-11-11T00:19:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-team-pressures-trump-administration-to-declare-him-election-winner-11605021649"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-257774/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Latest Updates: Biden Elected President but Trump Challenging Result"
-    excerpt: "Latest updates from the transition period after the election."
-    publishedDateTime: 2020-11-10T16:29:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020"
-    ampWebUrl: "https://www.wsj.com/amp/livecoverage/latest-updates-biden-trump-election-2020"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/latest-updates-biden-trump-election-2020"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden Faces Choice on Trump’s Economic Sanctions"
-    excerpt: "Among the foreign-policy challenges facing President-elect Joe Biden will be the question of what to do with an array of punitive economic sanctions that have been President Trump’s primary tool for confronting U."
-    publishedDateTime: 2020-11-11T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-intensified-u-s-financial-warfare-leaving-it-for-biden-11605101245"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-257923/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "China Congratulates Joe Biden on Election Victory"
-    excerpt: "China congratulated U.S. President-elect Joe Biden and Vice President-elect Kamala Harris, becoming one of the last major powers to join an international chorus of well-wishes for their election victory."
-    publishedDateTime: 2020-11-13T16:23:00Z
-    webUrl: "https://www.wsj.com/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
-    ampWebUrl: "https://www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-congratulates-joe-biden-on-election-victory-11605266618"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-259547/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump wants Supreme Court to decide election, cites unfounded fraud claims"
-    excerpt: "President Trump said the US Supreme Court should decide the presidential election due unfounded claims of “illegal voting.” Trump made the allegations in a tweet issued early Friday"
-    publishedDateTime: 2020-11-06T08:22:00Z
-    webUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/"
-    ampWebUrl: "https://nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/06/trump-wants-supreme-court-to-decide-election-cites-fraud-claims/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/6018BC60-DEB7-4350-9B71-F41D3351924F.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'"
-    excerpt: "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden."
-    publishedDateTime: 2020-11-04T04:44:00Z
-    webUrl: "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection"
-    ampWebUrl: "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Jemele-Hill-TWEET.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "CNN fact-checks Biden's proposed mask mandate"
-    excerpt: "CNN's fact-checks of Joe Biden are few and far between, but the Democratic nominee's recent call for a mask mandate was apparently egregious enough that the anti-Trump outlet could not ignore."
-    publishedDateTime: 2020-11-03T03:25:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-fact-checks-bidens-proposed-mask-mandate-there-appears-to-be-no-legal-authority-that-would-allow-it.amp"
+  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
+    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
+    publishedDateTime: 2020-10-23T17:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden announces 'fight fund' for vote count battle"
-    excerpt: "Democratic presidential nominee Joe Biden on Wednesday announced the formation of what he's calling the “Biden Fight Fund,” touting it as the “largest election protection effort ever assembled” as he and President Trump compete for key battleground states in the 2020 presidential race."
-    publishedDateTime: 2020-11-04T19:47:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-announces-fight-fund-for-vote-count-battle.amp"
+  - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
+    excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"
+    publishedDateTime: 2020-10-20T19:53:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour"
+    ampWebUrl: "https://www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 144
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/824d9870-396a-400f-9f76-99cebd547a7d/08b76cfc-6765-4dae-bfb2-c32b6002e47c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23d0ced5-35cd-4c65-bd68-90fc2c44909e/cc99c12a-752d-44dd-a3fe-d312ae773476/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "More Americans voted for Donald Trump this year than in 2016"
-    excerpt: "President Trump received more votes in the 2020 presidential election than he did in the 2016 presidential election as Joe Biden also surpassed the 2016 vote total for Hillary Clinton."
-    publishedDateTime: 2020-11-04T17:41:00Z
-    webUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016"
-    ampWebUrl: "https://www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-americans-voted-for-donald-trump-this-year-than-in-2016.amp"
+  - title: "Stars who have endorsed Trump for president"
+    excerpt: "Roseanne Barr, Trace Adkins and Kirstie Alley have spoken out in favor of Donald Trump in the 2020 presidential election"
+    publishedDateTime: 2020-10-20T12:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/stars-endorsed-trump-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/stars-endorsed-trump-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/stars-endorsed-trump-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Donald Trump, the President His Detractors Loved to Hate"
-    excerpt: "A friend reported that I disappointed his wife with the insufficient intensity of my dislike."
-    publishedDateTime: 2020-11-14T03:43:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-the-president-his-detractors-loved-to-hate-11605307421"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-258590/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Groups Supporting Trump Expected to Rally Near White House"
-    excerpt: "Supporters of President Trump including some far-right groups say they plan to march near the White House on Saturday in support of the president, who hasn’t conceded the election to President-elect Joe Biden."
-    publishedDateTime: 2020-11-13T23:54:00Z
-    webUrl: "https://www.wsj.com/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
-    ampWebUrl: "https://www.wsj.com/amp/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/groups-supporting-trump-expected-to-rally-near-white-house-11605293690"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-259769/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Jason Aldean's wife Brittany stands up for fellow Republicans, Trump after backlash from Biden supporters"
-    excerpt: "Brittany Aldean, the wife of country singer Jason Aldean, shared her continued support for Donald Trump after facing criticism for lamenting Joe Biden’s win in the election."
-    publishedDateTime: 2020-11-08T16:21:00Z
-    webUrl: "https://www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden"
-    ampWebUrl: "https://www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jason-aldean-wife-brittany-fellow-republican-turmp-backlash-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/GettyImages-968691066.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/0ab15917-johnny-rotten-sex-pistols-reuters.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump Heads to Golf Course as Nation Awaits Election Outcome"
-    excerpt: "President Trump arrived at his golf club in Sterling, Va., on Saturday morning as Joe Biden held a lead in key states that could soon determine a winner. Mr. Trump left the White House wearing a MAGA hat,"
-    publishedDateTime: 2020-11-07T16:24:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/tOAf4FOO0zS5DXQirGZO"
+  - title: "ABC News has completely ignored Hunter Biden laptop scandal, study says"
+    excerpt: "ABC News completely ignored the ongoing scandal surrounding a laptop and hard drive purportedly belonging to Hunter Biden, according to the Media Research Center."
+    publishedDateTime: 2020-10-22T20:31:00Z
+    webUrl: "https://www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-256759?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "McConnell, Other GOP Leaders Back Trump in Questioning Election Results"
-    excerpt: "In his first comments since President-elect Joe Biden secured enough electoral votes to win the White House, Sen. Mitch McConnel (R., Ky.) joined other senior Republican lawmakers backing President Trump’s decision not to concede the election."
-    publishedDateTime: 2020-11-10T00:11:00Z
-    webUrl: "https://www.wsj.com/video/mcconnell-other-gop-leaders-back-trump-in-questioning-election-results/8BDD420F-44B1-4B03-99EE-E69D908908C1.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "http://m.wsj.net/video/20201109/110920gopreax2/110920gopreax2_1280x720.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump and Biden Make Separate Veterans Day Appearances"
-    excerpt: "President Trump observed Veterans Day at Arlington National Cemetery, making his first official appearance since the election was called in favor of Joe Biden. As steady rain fell, Mr. Trump visited the Tomb of the Unknown Soldier,"
-    publishedDateTime: 2020-11-11T22:19:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/iXfSuKNfQPRRYUpTEmON"
+  - title: "Joe Biden hides in his basement as corruption claims mount"
+    excerpt: "Apparently, malignant actors inside of Iran posing as members of a fringe group and attempting to intimidate voters here in the U.S. with violent threats, likely in an effort to help Joe Biden. We'll have a lot more coming up throughout the hour."
+    publishedDateTime: 2020-10-24T12:31:00Z
+    webUrl: "https://www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount"
+    ampWebUrl: "https://www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/joe-biden-hides-in-his-basement-as-corruption-claims-mount.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-258521?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "President Trump Signals Possibility of Losing the Election"
-    excerpt: "President Trump on Friday appeared to acknowledge the possibility of losing the election to President-elect Joe Biden, after weeks of alleging election fraud without providing evidence. He has not conceded to Biden."
-    publishedDateTime: 2020-11-14T00:51:00Z
-    webUrl: "https://www.wsj.com/video/president-trump-signals-possibility-of-losing-the-election/5DBD494B-4763-434D-848F-7CAC25211DA3.html"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "http://m.wsj.net/video/20201113/111320.trump.lockdown.remarks/111320.trump.lockdown.remarks_1280x720.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Weighs Legal Action to Force Trump Administration to Recognize Win"
-    excerpt: "President-elect Joe Biden’s transition team is considering legal action if the Trump administration doesn’t formalize Mr. Biden’s win and give him access to crucial government resources. The General Services Administration,"
-    publishedDateTime: 2020-11-10T10:36:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/wAHSpKqHqtGFucQhwbur"
+  - title: "Nuns wearing MAGA masks spotted behind Trump at rally"
+    excerpt: "A group of Trump-loving nuns gained attention on social media Saturday after they were spotted wearing MAGA masks with their habits and cheering on the president behind him at his rally in Circleville,"
+    publishedDateTime: 2020-10-25T00:17:00Z
+    webUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuns-maga-masks-trump-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/181cfcca-2a48-4e5d-8d4b-11a506858939/daa0e4ed-79eb-48d3-a9fe-7476913978fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What in the World if Trump Wins?"
+    excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
+    publishedDateTime: 2020-10-26T22:00:00Z
+    webUrl: "https://www.wsj.com/articles/what-in-the-world-if-trump-wins-11603749240"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-249650/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden staff tells '60 Minutes' he misspoke on cost of free public college"
+    excerpt: "Democratic presidential nominee Joe Biden said that the government could provide four-year college educations for $150 billion, only for his campaign to later admit it would really be closer to double that amount."
+    publishedDateTime: 2020-10-26T20:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staff-misspoke-60-minutes-free-public-college-cost.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f97dbe4b-62c0-462c-8059-002145630ed5/d4bf3422-a643-4c11-970c-71408d100367/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Longstanding claims of Biden corruption all but confirmed with Hunter’s emails"
+    excerpt: "As the New York Post reported, emails on Hunter Biden’s hard drive reveal that on April 16, 2015, Joe Biden met with a high-level official of a controversial Ukrainian energy company, Burisma ..."
+    publishedDateTime: 2020-10-24T18:38:00Z
+    webUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/"
+    ampWebUrl: "https://nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/24/biden-corruption-claims-all-but-confirmed-with-hunter-emails/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/joe-biden-70.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:16:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "50 Cent says 'F--k Donald Trump' one week after expressing support for president"
+    excerpt: "Chelsea Handler has been outspoken about 50 Cent's support for Donald Trump in opposition to Joe Biden's tax plan"
+    publishedDateTime: 2020-10-27T00:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/50-cent-fk-donald-trump-after-support-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/50-Cent-Chelsea-Handler.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
+    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
+    publishedDateTime: 2020-10-19T18:55:00Z
+    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 129
     images:
-      - url: "https://images.wsj.net/im-257657?size=1.5"
-        width: 1280
-        height: 853
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump campaign predicts victory as early as Friday: 'Donald Trump is alive and well'"
-    excerpt: "President Trump's campaign remained confident Thursday, predicting not only that the incumbent Republican will win the 2020 election, but that the result could become apparent as soon as Friday."
-    publishedDateTime: 2020-11-05T18:51:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-victory-trump-alive-and-well.amp"
+  - title: "Michael Moore tells progressives Biden could be pressured to pass Medicare-for-all"
+    excerpt: "Filmmaker Michael Moore urged backers of Sen. Bernie Sanders to get out and vote for Democratic presidential nominee Joe Biden, arguing they could help push the former vice president leftward to pass progressive priorities like Medicare-for-all."
+    publishedDateTime: 2020-10-21T20:17:00Z
+    webUrl: "https://www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5710a1ac-db7a-49d3-a506-14afea4ee0a5/42e2636e-cea3-4feb-934a-e956db5e7c88/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Michael-Moore-Reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
+    excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
+    publishedDateTime: 2020-10-21T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/michael-steele-Getty-Images.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donna Brazile confident Joe Biden will handle Hunter email controversy: 'Bring it up!'"
+    excerpt: "Joe Biden should not let President Trump interrupt him during the final presidential debate Thursday night, former DNC Interim Chair Donna Brazile argues."
+    publishedDateTime: 2020-10-22T17:19:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a4e50fd-4c23-439d-80f7-49e52e97e38f/a9329981-36ac-41e7-ba5e-003e86bcdb76/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "NBA player J.R. Smith blasts 'F--k Donald Trump' song, flips off pro-Trump supporters"
-    excerpt: "Los Angeles Lakers guard J.R. Smith was excited about former Vice President Joe Biden’s victory over President Trump in the 2020 presidential election."
-    publishedDateTime: 2020-11-09T22:51:00Z
-    webUrl: "https://www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters"
-    ampWebUrl: "https://www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/lakers-jr-smith-donald-trump-song-flips-off-pro-trump-supporters.amp"
+  - title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
+    excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been."
+    publishedDateTime: 2020-10-23T19:28:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 121
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/Daniel-Canova.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump Plans Veterans Day Appearance, His First Since Race Was Called for Biden"
-    excerpt: "President Trump is set tomorrow to make his first public appearance since the Associated Press declared Joe Biden the winner of the presidential election. On Wednesday, the president and first lady Melania Trump plan to visit Arlington National Cemetery to mark Veterans Day,"
-    publishedDateTime: 2020-11-11T08:58:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/IOiPfOSGjIiAk662pkue"
+  - title: "Pressure builds for NBC's Kristen Welker to address Hunter Biden at debate: ‘This is a moment of truth'"
+    excerpt: "Pressure is building for NBC News’ Kristen Welker to address the ongoing scandal surrounding a laptop purportedly belonging to Hunter Biden during Thursday night’s final presidential debate as the mainstream media has essentially dismissed the story."
+    publishedDateTime: 2020-10-22T18:19:00Z
+    webUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question"
+    ampWebUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 126
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
     images:
-      - url: "https://images.wsj.net/im-257950?size=1.5"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Kristen-Welker-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'"
+    excerpt: "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid."
+    publishedDateTime: 2020-10-20T20:50:00Z
+    webUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020"
+    ampWebUrl: "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4284e8ac-4bba-4f37-827e-83cfc7b6b39f/32e33807-bba9-4a35-8092-3c75f6e1dcde/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
-  - title: "Republicans Hold Top Election Roles in Some States Trump Says Are Skewing Counts"
-    excerpt: "President Trump complained during his Thursday press conference that vote-counting in the outstanding states is being overseen by Democrats, even though Republicans occupy key roles in several battlegrounds."
-    publishedDateTime: 2020-11-06T02:30:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/lqzGpvA9JzaY5IuAShEC"
+  - title: "Dan Gainor: At presidential debate, Trump interrupted by Welker all night but he still manages to do this"
+    excerpt: "At the presidential debate moderator Kristen Welker spent all night interrupting Trump. But despite that, the evening didn’t go anywhere near as she planned."
+    publishedDateTime: 2020-10-23T05:17:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 125
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
     images:
-      - url: "https://images.wsj.net/im-256071?size=1.5"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82d4f01d-11f1-4c7a-a121-24b4a06cbaf5/023358d8-3978-4abe-a487-ee1a3403408a/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
-  - title: "McConnell Backs Court Challenges; Toomey Says Trump Was 'Hard to Watch'"
-    excerpt: "Senate Majority Leader Mitch McConnell (R., Ky.) backed President Trump’s legal challenges to vote counting still under way in the presidential election Friday, but did not second his unsubstantiated claim that the election was rigged against him."
-    publishedDateTime: 2020-11-07T02:24:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/x7emWiaqiV0SQ6jnMhnJ"
+  - title: "Some media liberals urge revenge, payback if Trump loses"
+    excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
+    publishedDateTime: 2020-10-21T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/some-media-liberals-urge-revenge-payback-if-trump-loses"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Fox News
+      domain: foxnews.com
     quality: 115
     images:
-      - url: "https://images.wsj.net/im-256198?size=1.5"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc6cce86-a83c-48ed-9313-0f297469ba42/5177576a-8942-4aa9-b4bd-d612b069c42d/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
-  - title: "Trump Won't Go Quietly, Romney Says"
-    excerpt: "Utah Sen. Mitt Romney on Sunday said that he didn't expect President Donald Trump to \"go quietly into the night\" and concede the election to President-elect Joe Biden. \"I would prefer the world would be watching a more gracious departure,"
-    publishedDateTime: 2020-11-08T16:17:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/4GbOMFkCGxaD5b2vEzuP"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-256963?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Trump Back at Golf Course Sunday"
-    excerpt: "President Trump returned Sunday morning to his golf club in Sterling, Va. Mr. Trump arrived at Trump National Golf Club at 9:57 a.m. He also golfed Saturday, arriving just before the Associated Press called the race for Joe Biden."
-    publishedDateTime: 2020-11-08T20:26:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/5PLvEGpb57Jc98fhfCnk"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 95
-  - title: "Biden's War Against the South"
-    excerpt: "Joe Biden has said he wants to be president of ALL the states and that he doesn't see red states and blue states. But his economic policies are a de facto war against the high-growth red states"
-    publishedDateTime: 2020-11-03T11:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/03/bidens_war_against_the_south_144587.amp.html"
+  - title: "Trump Camp's Steve Cortes: 2020 Election is \"Morning In America\" vs. Biden's \"Dark Winter\""
+    excerpt: "Steve Cortes, Trump spokesman, told FNC's Jesse Watters that, for President Trump, it is \"Morning in America\" vs. Joe Biden's \"Dark Winter\" election. STEVE CORTES: Joe Biden thinks screaming at people and calling voters chump is a winning strategy."
+    publishedDateTime: 2020-10-25T15:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/25/trump_camps_steve_cortes_2020_election_is_morning_in_america_vs_bidens_dark_winter.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/52/525922_5_.jpg"
+      - url: "https://assets.realclear.com/images/52/525104.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "The Media Officially Becomes the Communications Department for Joe Biden"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
         width: 750
         height: 500
         isCached: true
+  - title: "To All Those Biden Supporters Out There, Here's the Bill He Wants to Leave Us as President"
+    excerpt: "President Joe Biden will wreck the economy. Are we talking about another depression like Trump says on the stump? Probably not, but it’s not going to be pretty.The Wall Street"
+    publishedDateTime: 2020-10-20T16:40:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 75
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Joe Biden Dismisses Hunter Biden Claims: \"Same Garbage From Rudy Giuliani, Trump's Henchmen\""
+    excerpt: "Joe Biden addressed the allegations about his son Hunter Monday during an interview with WISN-12 in Wisconsin, saying Senate Homeland Security Chairman Ron Johnson \"should be ashamed of himself\" for taking serious allegations from \"Trump's henchman Rudy Giuliani."
+    publishedDateTime: 2020-10-21T23:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/biden_dismisses_hunter_biden_claims_same_garbage_from_rudy_giuliani_trumps_henchmen.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/524768.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Joe Biden Dismisses Hunter Biden Claims: \"Same Garbage From Rudy Giuliani, Trump's Henchmen\""
+    excerpt: "Joe Biden addressed the allegations about his son Hunter Monday during an interview with WISN-12 in Wisconsin, saying Senate Homeland Security Chairman Ron Johnson \"should be ashamed of himself\" for taking serious allegations from \"Trump's henchman Rudy Giuliani."
+    publishedDateTime: 2020-10-24T09:26:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/biden_dismisses_hunter_biden_claims_same_garbage_from_rudy_giuliani_trumps_henchmen.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/524768.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "How Trump's Foreign Policy Confounds the Old Guard"
+    excerpt: "President Donald Trump's approach to foreign policy has been subjected to harsh criticism since before he took office. His emphasis on criticizing past American interventions in foreign conflicts and his decision to employ the term He didn't dismiss the claims,"
+    publishedDateTime: 2020-10-23T19:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/how_trumps_foreign_policy_confounds_the_old_guard_527245.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525015_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "I Directly Dealt With Joe Biden--He's Lying About Deals in China"
+    excerpt: "Tony Bobulinski, a former business partner of Hunter Biden, accused former VP Joe Biden of lying about his role in his son's international dealings during a statement to the WH press corps just 90 minutes before Thursday's presidential debate."
+    publishedDateTime: 2020-10-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/24/i_directly_dealt_with_joe_biden--hes_lying_about_deals_in_china_527342.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524931_5_.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "'The Tape' Shows Biden Is Lying About Fracking"
+    excerpt: "Democratic nominee Joe Biden is lying. On Thursday, during the final 2020 presidential debate, Biden denied ever saying he opposes fracking. But he absolutely did. To claim otherwise, as the former vice president did Thursday evening,"
+    publishedDateTime: 2020-10-23T19:16:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/the_tape_shows_biden_is_lying_about_fracking_527327.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524968_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Hunter's Emails Confirm Claims of Biden Corruption"
+    excerpt: "Thanks to three brave Americans, we now know that Joe Biden has long misled the public about his involvement with his family’s foreign business entanglements while he served as vice president."
+    publishedDateTime: 2020-10-25T18:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/hunters_emails_confirm_claims_of_biden_corruption_527427.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden campaign agrees to remove retired general from ad after he complains"
+    excerpt: "Former Vice President Joe Biden's campaign will remove a portion of an ad that features a retired general after he objected to being included in it."
+    publishedDateTime: 2020-10-19T21:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/biden-campaign-agrees-to-remove-retired-general-from-ad-after-he-complains"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/biden-campaign-agrees-to-remove-retired-general-from-ad-after-he-complains?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/biden-campaign-agrees-to-remove-retired-general-from-ad-after-he-complains?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "sF8+R6Aot8Uf2r5P1NeD7jHhi6Wbq/EvjEM9auPlsohlsajxhBQJ0khRZ6gxOZ/7DrPQEC3NefyAuBuv1KBl7burmOReRejuKQzE5W7b8KMzPwe0maI8DR6T5uF818qjSobA2EA8bRSn0WgfbfdtTQEF32V9JNXmO+L9kN4S1w+iV1LkX2DnuiBZAnx0z9kxBXqyyLrHPVa8nfrk6iSyfX7Bt3Ynm1Id71w4wgmWTndwaBT6LlOwXtW2Xse9zp3aab2TbOHeNWVwj1I41OATFZPdeyCvXJ84gI7wnUV6Dm1c2obbaojCN6VNGzk2bbe49wH6mrtERAKXx/by8Ft7ggZoevRh1rEwVborYhv2QIDRPzFnrPs5vTV/l1BnogG6B1o74gtJV6Svqy95mMULaI0R7ltraZ3IbksRwCO8Lk+AOaMbe9Kz5dQDxcLLgqrBG4UuFRQD5im8FNh8ORd7ICKqSkCKdcxaaS1LCPWUiEEW+KxcJdQh8SW2pxkZXGJ3YsKeCJBMWIubYSPrDxhRnA==;1JQmATywebkwFweQbvkCGg=="
 ---

@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Doctors groups rip Trump for touting 'baseless' conspiracy theory over COVID-19 death count"
-    excerpt: "Medical groups such as the American Medical Association denounced President Trump's claim that doctors inflate COVID-19 deaths, calling it \"malicious.\""
-    publishedDateTime: 2020-11-03T00:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/trump-claims-doctors-profiting-attributing-deaths-covid-19/6101540002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6101540002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6101540002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
     excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."
     publishedDateTime: 2020-11-14T10:47:00Z

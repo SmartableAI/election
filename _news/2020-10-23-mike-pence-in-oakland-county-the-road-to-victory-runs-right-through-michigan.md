@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence holding campaign rally in Oakland County"
+    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
+    publishedDateTime: 2020-10-21T12:20:00Z
+    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html"
+    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
+        width: 698
+        height: 392
+        isCached: true
   - title: "Mike Pence campaigns in Oakland County today"
     excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township this afternoon with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
     publishedDateTime: 2020-10-22T10:00:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in South Carolina on Tuesday"
+    excerpt: "Campaign officials say all attendees “will be given a temperature check, masks which they are instructed to wear, and access to hand sanitizer.”"
+    publishedDateTime: 2020-10-25T07:23:00Z
+    webUrl: "https://www.live5news.com/2020/10/24/vice-president-mike-pence-hold-campaign-rally-south-carolina-tuesday/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 52
+    images:
+      - url: "https://www.live5news.com/resizer/xYNk5LfUmwdqaDzypZKMR-Faiwg=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/ZIPDC6UTKZD2BLSWDSTI7LDJTE.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fzzXxwl1/UoNbZfKWZoOUfHRd8VMwevSduc96xO6SDlMRJWLsP3/GaQSgZPpf3uv5DzO0MFbC/sqxsSRDpBpuHztFXLaZRD83PVFTvOZ4vOukLkrQ29ccqSeiTXNdrb5lOiY0whYzrBKz5SOcrzg+Yd7u9E5JsA0GRmHSPBMi81J8PFm4rFbHAa/0aqi1MyC7qHNRaqDRszeWGaAI6kKWLwH9CtueLSOkNJeL0Ort5HSLzf6N0E4hqBQUrMZ0crkeUcKKhBywsW/uMgjHNbYznOC165M/Q2LfpKTyJkWdwK59CufHB1SQ55s7KA3g67RdWD5VqxwzcfCEBoKC7OQRPiHVMFs3mmBEklDiL3+rJhOavV1iHzKkK7CsReZ/As6J8axMePV/9eg3JWRsAtKYissR9jgbMidztyXnjO2YWr023GAIGZvrlSYIJibsohy1ofsDCcACwa9NgKdZKAOKD/fIPMuVFGmxf30yMTRG9QU8luEyZiMF7KDwOBVU/KhljDXJAiU6TL21kQ6demy5A==;gMt6a/BLLJS0kXnueaCUkQ=="

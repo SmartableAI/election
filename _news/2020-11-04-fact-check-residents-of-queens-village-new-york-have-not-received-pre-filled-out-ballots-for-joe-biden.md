@@ -31,199 +31,142 @@ images:
     isCached: true
 
 related:
-  - title: "Biden may face pressure to reshape Powell's Fed in first year"
-    excerpt: "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more"
-    publishedDateTime: 2020-11-10T11:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q1FR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q1FR"
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540687400&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA90SI"
-        width: 806
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
+        width: 818
         height: 545
         isCached: true
-  - title: "Biden's beach hideaway has political sun shining on Rehoboth"
-    excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
-    publishedDateTime: 2020-11-15T16:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d326617ed726417583bc6e83f3dd359f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GEORGIA RESULTS: Biden is projected winner of Georgia"
-    excerpt: "President-elect Joe Biden became the winner of Georgia's 16 electoral votes, Decision Desk HQ projected Saturday."
-    publishedDateTime: 2020-11-16T01:50:00Z
-    webUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020"
-    ampWebUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fb00e441c741f0019ac9d9a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "What mandate? Biden's agenda faces a divided Congress"
-    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
-    publishedDateTime: 2020-11-15T18:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
-    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
-    publishedDateTime: 2020-11-17T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
-        width: 749
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
         height: 545
         isCached: true
-  - title: "Virginia Latino voters excited for Biden presidency"
-    excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
-    publishedDateTime: 2020-11-17T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
         isCached: true
-  - title: "Read former President George W. Bush's full statement congratulating President-elect Joe Biden"
-    excerpt: "\"Though we have political differences, I know Joe Biden to be a good man, who has won his opportunity to lead and unify our country,\" he said."
-    publishedDateTime: 2020-11-08T18:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/read-george-w-bushs-full-statement-congratulating-joe-biden/6214070002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6214070002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6214070002"
+  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
+        width: 870
+        height: 545
+        isCached: true
+  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
+    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
+    publishedDateTime: 2020-11-05T08:09:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/93529e1e-bf69-405c-ac3a-5ad8a1a615f7-AFP_AFP_8UV2MW.jpg?auto=webp&crop=2705,1521,x0,y228&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
-  - title: "'This is proof': Biden's win reveals power of Black voters"
-    excerpt: "Power. Respect. Finally."
-    publishedDateTime: 2020-11-09T22:25:00Z
-    webUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/this-is-proof-bidens-win-reveals-power-of-black-voters-2020-11?amp"
+  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
-  - title: "Biden may face pressure to reshape Powell's Fed in first year"
-    excerpt: "But over his first year in office Biden will have to decide how deep an imprint he wants to put on the U.S. central bank, and particularly whether Fed Chair Jerome Powell's push this year to refocus it on job growth has earned enough credibility among Democrats to be reappointed."
-    publishedDateTime: 2020-11-10T21:24:00Z
-    webUrl: "https://www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-2020-11?amp"
+  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
+    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
+    publishedDateTime: 2020-11-12T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "2020 Daily Trail Markers: Biden pleads with Democrats and Republicans to come together for COVID-19 relief bill"
-    excerpt: "\"The idea the president is still playing golf and not doing anything about it is beyond my comprehension,\" the president-elect said. \"What is he doing?\""
-    publishedDateTime: 2020-11-16T23:53:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-biden-pleads-with-democrats-and-republicans-to-come-together-for-covid-19-relief-bill-2020-11-16/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Forbes
+      domain: forbes.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
-    excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."
-    publishedDateTime: 2020-11-14T18:31:00Z
-    webUrl: "https://www.cbsnews.com/video/iran-expands-stockpile-enriched-uranium-joe-biden-challenge/"
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 93
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Chrissy Teigen Makes First Public Appearance Since Pregnancy Loss at Joe Biden Campaign Rally"
-    excerpt: "Chrissy Teigen made her first public appearance since her pregnancy loss in September. The 34-year-old cookbook author joined her husband, John Legend, and their two children, Luna and Miles, at Joe Biden’s campaign rally in Philadelphia."
-    publishedDateTime: 2020-11-03T21:44:00Z
-    webUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden"
-    ampWebUrl: "https://www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/media/videos/chrissy-teigen-makes-first-public-appearance-since-pregnancy-loss-at-joe-biden?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 64
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-11/eto_trending_chrissy_biden_rally_110320.jpg?h=d1cb525d&itok=eWlNVjNb"
-        width: 1280
-        height: 720
+        height: 675
         isCached: true
 
 secured: "SSCYfXGChR3t/Fk6v/Yx8fbOXE5YSBbbOByx62ldgxNMR7POFpOuBPWTTjlC+xA10FcN3XwPHXH3tOv0mUps/8fdia3wIeoXXlQJgu7O1tJq2416aLDnJimvZIJR3DNekJIPF1CT3CL59cLNHbCxDY/8LpVXQkmp+BAneH+EVx7Z6XlHCqR93v/eGoXwTkUm78PxwwFDXJoo/iuroOu5jrLG6gD8ZVrf7yrji2QB9f3sbhvcr8EDTztXQUV2RjgAdAyrj/bm0nDNZ5/E0L8sc+mYAQdZXgVfk5tvnyyRKzU16Tu+99nUvOwjQ/T/pIhbSqqyIhFNrKOD1j0aR/pZ9e7FcfhoEtEGWPXDhRTjaVk=;bSTO9l/VwMROAizP3PyjNA=="

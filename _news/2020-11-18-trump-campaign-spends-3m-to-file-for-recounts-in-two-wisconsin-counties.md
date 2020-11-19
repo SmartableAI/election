@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-partial-recount-two-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-partial-recount-two-wisconsin-counties.amp"
 type: article
 quality: 174
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign says president will 'immediately' request a recount in Wisconsin"
-    excerpt: "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. "
-    publishedDateTime: 2020-11-04T18:30:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp"
+  - title: "Ivanka Trump in Wisconsin touted father's pledge to return jobs to US"
+    excerpt: "Ivanka Trump made her second visit to Wisconsin in just two weeks in an effort to drum up support for her father in a battleground state that will prove crucial to this year's election outcome. "
+    publishedDateTime: 2020-10-21T01:03:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/791c6f0a-8505-4efb-bed7-8e4b4d281a93/f53a79c0-7494-41ab-848c-939f9a336fe6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rove breaks down Trump's 'path to victory' through Michigan, Pennsylvania, Wisconsin"
+    excerpt: "The fate of President Trump's reelection bid will ultimately come down to the three battleground states that put him over the top in 2016: Michigan, Wisconsin, and Pennsylvania, former George W. Bush adviser Karl Rove predicted Monday."
+    publishedDateTime: 2020-10-27T00:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmAKogyMUxU/rove-trump-path-victory-michigan-pennsylvania-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rove-trump-path-victory-michigan-pennsylvania-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230f52b5-e037-423b-befd-decdc0aec4bb/fb87aa77-b8d5-474e-8b02-5f88d81f5529/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

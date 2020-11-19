@@ -29,194 +29,189 @@ images:
     isCached: true
 
 related:
-  - title: "America is changing. Joe Biden can help us through the transformation."
-    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
-    publishedDateTime: 2020-10-29T19:57:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+  - title: "Biden, Cunningham hold narrow leads in North Carolina: poll"
+    excerpt: "Democratic presidential nominee Joe Biden has a narrow lead over President Trump in North Carolina, while Democrat Cal Cunningham holds a similarly slim lead in the Tarheel State’s marquee Senate race in a new survey released Thursday."
+    publishedDateTime: 2020-10-29T19:54:00Z
+    webUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll"
+    ampWebUrl: "https://thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/523411-biden-cunningham-hold-narrow-leads-in-north-carolina-poll?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/bidenjoe_102720getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe Biden urges patience, unity as he waits with the rest of America"
-    excerpt: "Joe Biden — like the rest of America — is still waiting. Despite being on the cusp of the presidency, Biden did not give the victory speech he and his campaign hoped he would deliver on Friday night."
-    publishedDateTime: 2020-11-07T14:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6201879002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002"
+  - title: "Watch live: Biden holds campaign rally in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden will hold a drive-in campaign rally Thursday night in Tampa, Fla.The event is scheduled to begin at 6:30 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-29T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida"
+    ampWebUrl: "https://thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/523445-watch-live-biden-holds-campaign-rally-in-florida?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/8fe8140d-f5ef-4032-bf35-6123ab4fbc90-AP20312142716387.jpg?auto=webp&crop=3983,2240,x0,y0&format=pjpg&width=1200"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden’s long political career features several policy shifts"
+    excerpt: "On issues including criminal justice reform, foreign wars and the economy, Biden’s views have evolved over time. Joe Biden's views on various issues have evolved over his 50-year political ..."
+    publishedDateTime: 2020-10-31T12:39:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/31/bidens-career-evolution"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/31/bidens-career-evolution"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/09/AP_20271593726889-1.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Warren has expressed interest in being Biden's Treasury secretary: report"
+    excerpt: "Sen. Elizabeth Warren (D-Mass.) has expressed interest in serving as Democratic presidential nominee Joe Biden’s Treasury secretary if he defeats President Trump in next week’s race for the White House,"
+    publishedDateTime: 2020-10-30T00:59:00Z
+    webUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report"
+    ampWebUrl: "https://thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523508-warren-has-expressed-interest-in-being-bidens-treasury-secretary-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/warrenelizabeth_bidenjoe_020120gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "North Carolina man with van full of guns asked 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-23T11:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740228001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Corporate America says it is ready to work with Biden"
-    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
-    publishedDateTime: 2020-11-09T21:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+  - title: "Spurs Coach Gregg Popovich endorses Joe Biden for U.S. President"
+    excerpt: "San Antonio Spurs Coach Gregg Popovich says he's standing with Democratic presidential nominee Joe Biden. The Lincoln Project released a political ad Thursday featuring Popovich, an Air Force veteran,"
+    publishedDateTime: 2020-10-30T06:41:00Z
+    webUrl: "https://www.houstonchronicle.com/news/local/article/Spurs-Coach-Gregg-Popovich-endorses-Joe-Biden-for-15686947.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/77/62/20184206/3/rawImage.jpg"
+        width: 1722
+        height: 979
+        isCached: true
+  - title: "A longtime fixture in U.S. politics, Biden seeks to win elusive prize"
+    excerpt: "Democratic U.S. presidential nominee and former Vice President Joe Biden during an appearance in Wilmington, Delaware, U.S., September 4, 2020. REUTERS/Kevin Lamarque"
+    publishedDateTime: 2020-10-31T15:39:00Z
+    webUrl: "https://www.reuters.com/news/picture/a-longtime-fixture-in-us-politics-biden-idUSKBN27G0EV"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 105
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
-        width: 817
-        height: 545
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510681&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9U09B"
+        width: 810
+        height: 467
         isCached: true
-  - title: "Polls showed Biden had a substantial lead. Why didn't Americans wake up to a winner?"
-    excerpt: "Election polls showed Joe Biden had a national lead over Donald Trump. So are the polls wrong? It's not that simple."
-    publishedDateTime: 2020-11-04T23:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/polls-biden-had-lead-over-trump-election-results-unclear-wednesday/6158248002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6158248002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158248002"
+  - title: "North Carolina: Vice President Mike Pence says GOP remains optimistic about winning reelection bid"
+    excerpt: "With just hours left for voters to cast their ballot, WXII 12 News anchor Kenny Beck did a one-on-one interview with Vice President Mike Pence and former Democratic presidential candidate Pete Buttigieg."
+    publishedDateTime: 2020-11-03T22:57:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-vice-president-mike-pence-buttigieg-election/34564770"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: WXII12
+      domain: wxii12.com
+    quality: 76
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-buttigieg-0124-1604439289.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden stops at childhood home, thanks voters in Scranton"
-    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
-    publishedDateTime: 2020-11-03T17:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
+  - title: "Vice President Mike Pence making two campaign stops in North Carolina this weekend"
+    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
+    publishedDateTime: 2020-10-30T06:18:00Z
+    webUrl: "https://abc11.com/politics/vp-pence-making-two-campaign-stops-in-north-carolina-this-weekend/7463634/"
+    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7463634/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: WTVD
+      domain: abc11.com
+    quality: 69
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
-    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
-    publishedDateTime: 2020-11-05T22:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden"
-    excerpt: "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden."
-    publishedDateTime: 2020-10-28T04:13:00Z
-    webUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Here’s What We Know About Joe Biden’s COVID-19 Plan"
-    excerpt: "Biden gave a speech on his COVID-19 plan on Oct. 23, and he and running mate Senator Kamala Harris have circulated a seven-point plan for “beat [ing] COVID-19 and get [ting] our country back on track."
-    publishedDateTime: 2020-10-30T18:25:00Z
-    webUrl: "https://time.com/5905502/biden-covid-19-plan/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
-    excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
-    publishedDateTime: 2020-11-05T21:42:00Z
-    webUrl: "https://www.chron.com/news/election2020/article/lizzo-election-2020-tiktok-15704664.php"
-    ampWebUrl: "https://www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
-        width: 873
-        height: 759
-        isCached: true
-  - title: "Joe Biden: We can restore the soul of our nation | Raleigh News & Observer"
-    excerpt: "The Editorial Board invited both presidential candidates to make their case to voters."
-    publishedDateTime: 2020-10-29T08:00:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article246778127.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/53fd7af8-cdff-4f51-9f62-2cf621c1da9f/913d99e9-deef-42dd-bbd0-15b9cd8cce1f/1280x720/match/image.jpg"
-        width: 1279
+      - url: "https://cdn.abcotvs.com/dip/images/7398556_102720-wtvd-Tim-5pm-Pence-in-Greensboro-vid.jpg"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Brad Pitt Calls Joe Biden A President For 'All Americans' In New Campaign Ad"
-    excerpt: "Actor Brad Pitt narrated the new campaign ad for Joe Biden's presidential campaign, praising him as a \"president for all Americans\" and someone who understands \"their hopes, their dreams, their pain.\""
-    publishedDateTime: 2020-10-26T03:22:00Z
-    webUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609"
-    ampWebUrl: "https://www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/brad-pitt-calls-joe-biden-president-all-americans-new-campaign-ad-3069609?amp=1"
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-25T12:37:00Z
+    webUrl: "https://www.azcentral.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3740228001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/25/brad-pitt.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "False video of Joe Biden viewed one million times on Twitter"
-    excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
-    publishedDateTime: 2020-11-01T23:31:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/false-video-of-joe-biden-viewed-one-million-times-on-twitter/article_e5065a39-ad32-5c68-8f22-112469642ee0.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden Holds Canvas Kick Off Event Near Pittsburgh"
-    excerpt: "T14:40:00-05:00 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh. 2020 Democratic presidential candidate Joe Biden speaks at a canvas kick off event for campaign volunteers working in the suburbs northwest of Pittsburgh."
-    publishedDateTime: 2020-11-02T18:48:00Z
-    webUrl: "https://www.c-span.org/video/?477703-1/joe-biden-holds-canvas-kick-event-pittsburgh"
+  - title: "North Carolina man with van full of guns, explosives asked, 'Should I kill Joe Biden?' online, authorities say"
+    excerpt: "A man indicted last month on child pornography charges had traveled near Biden’s home and wrote a checklist that ended with the word “execute.\""
+    publishedDateTime: 2020-10-26T03:17:00Z
+    webUrl: "https://www.freep.com/story/news/nation/2020/10/23/man-van-full-guns-had-plans-execute-joe-biden/3740228001/"
+    ampWebUrl: "https://amp.freep.com/amp/3740228001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3740228001"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence making 2 more campaign stops in North Carolina"
+    excerpt: "Vice President Mike Pence is making his second and third campaign stops in North Carolina in three days for President Donald Trump's reelection bid. Pence was scheduled to hold rallies at Piedmont Triad International Airport in Greensboro at midday Tuesday and at the Wilmington airport in the evening."
+    publishedDateTime: 2020-10-27T08:18:00Z
+    webUrl: "https://www.nhregister.com/news/article/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Mike-Pence-making-2-more-campaign-stops-in-North-15677239.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 55
 
 secured: "T2ysAHcvMQ86T9AoNw56oCWgdmEvVL0E4bZ6Zd2lHCFbAwY16k0Y2euqQrCuQMWXPGlmVj00wt4+H3qaD66KJi9N2TlsWeF1YNirVB4sXWFJsHuuABDQVucpKq2jHs5Wvg9G5E/OnyjRDnW+9Dc2revs5PdCFwMDlsJbLWAeLWYWTqSilQUPbNk5nz2vAA7A6U/zhcyylKI/iunbJ7nNppbcTdyFliCgACXfo+JMUSFjNi+lKVM8Wa9YxfwQjCOKYEJopYUV7Fy/DzKZWqCGAOnBYCaO6cO6ZdnULAj4f7z3Jec++8lro0+MWRepR1psJgotFdbDNnvsGr0QfhKh9jWAGQXRVcVAEWcl5Enu0qA=;+7rtbbjJXsjF4G2sum3ILQ=="
 ---

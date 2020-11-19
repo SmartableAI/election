@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ben Carson blasts Biden's plan for American suburbs: 'We want people to be able to have choice'"
+    excerpt: "Secretary of Housing and Urban Development Dr. Ben Carson sounded the alarm Tuesday over Joe Biden's plan to reinstall an Obama-era low-income housing regulation that the Trump administration rolled back in July. "
+    publishedDateTime: 2020-10-21T04:11:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMSD3MCTskQ/ben-carson-biden-plan-suburbs-identity-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/ben-carson-biden-plan-suburbs-identity-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-carson-biden-plan-suburbs-identity-politics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/728ec57f-b3ef-49e4-ae0e-af99076eb5fe/1ace783d-1313-4c5b-8493-dbc0fc3ec261/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PdrU1ZCjXQcjCRnTQNBMZxLxE6vv18nex2QxG8u9KGdWTcVoAo7EwiT0pS4aAYRwAssIIkbxx0Wp7b05YGmXOer8yNFiJapuXScnEuG0JkAENXhZgsjZvBo9sAzAk4x2bsvMKgvx5BTJIop560vUVvKtmuTsYt/HIoGjOgiwnH5LuzBYkWn7moXOISlfqk0yDxjKmf6w7XQ1sMY7YdHrjM5peywB2VqkQ/t7OqX6keJHVcxzDX6Viw47id9vV7qCk+HvLczozFJC3l0fJqh3LPtStGwtxWtUWgel7PJEbJ0WkNfDzOVxYTfJsBqQZxnJVTUnl5nF2qzBhMX5cFgvsf8nYm4b3/DdtLhliwJ9e0A=;A3Dky5VECFEWkQuvvrRItQ=="
 ---

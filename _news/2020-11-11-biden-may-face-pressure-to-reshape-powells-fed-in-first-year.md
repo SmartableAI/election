@@ -137,36 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
   - title: "'This is proof': Biden's win reveals power of Black voters"
     excerpt: "Power. Respect. Finally."
     publishedDateTime: 2020-11-09T22:25:00Z

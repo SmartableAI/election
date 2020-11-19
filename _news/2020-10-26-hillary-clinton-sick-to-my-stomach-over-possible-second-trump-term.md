@@ -31,145 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
-    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
-    publishedDateTime: 2020-10-14T18:58:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
-    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+  - title: "Trump administration pitches second-term policies to Indian Country"
+    excerpt: "The Trump administration is promising the Native American community improved infrastructure, increased business opportunities, higher quality education, and better health care should he be elected for a second term."
+    publishedDateTime: 2020-10-22T15:24:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gXh1GWG4AzI/trump-administration-releases-policy-pitch-to-indian-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/screen-shot-2018-06-22-at-7.04.19-am-10604.jpg"
+        width: 948
+        height: 702
         isCached: true
-  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
-    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
-    publishedDateTime: 2020-10-15T21:02:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+  - title: "Trump, once Presbyterian, now says he's a 'nondenominational Christian'"
+    excerpt: "Trump emphasized that his parents taught him the importance of faith and prayer throughout his life."
+    publishedDateTime: 2020-10-24T19:52:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lP9Gdf_h2As/trump-identifies-non-denominational-christian"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-identifies-non-denominational-christian.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Coffee Bean Caucus that predicted Hillary Clinton victory backs Biden"
-    excerpt: "The Iowa diner known as Hamburg Inn No. 2 first made its way onto the national political map when Ronald Reagan, one of the most popular presidents of his era, stopped there on a post-White House speaking jaunt."
-    publishedDateTime: 2020-10-20T19:27:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9vxa8M1fEng/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+  - title: "Pollster Frank Luntz: If Trump defies polls again 'my profession is done'"
+    excerpt: "Republican pollster Frank Luntz told Fox News’ Bret Baier on Thursday night, that his \"profession is done\" if President Trump wins re-election come Nov. 3, and proves the national polls wrong yet again."
+    publishedDateTime: 2020-10-23T21:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCF-h7bsK_s/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
+    ampWebUrl: "https://www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/20201016_093151-e1603217428414.jpg?ve=1&tl=1"
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/10/23/990505083001_6204035840001_6204035992001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump administration considers early biometric screening for visa seekers"
+    excerpt: "Some officials raise concerns about retaliation against American travelers"
+    publishedDateTime: 2020-10-28T19:02:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzCY2C0kD0A/trump-administration-biometric-screening-visa-seekers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-biometric-screening-visa-seekers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297478049298.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Wisconsin voter who backed Hillary Clinton in 2016: Trump policies have helped my family"
-    excerpt: "Accompanied by two other voters on “Fox & Friends” to discuss the 2020 presidential election, a Wisconsin woman who has been a lifelong Democrat said she is likely switching over to supporting President Trump."
-    publishedDateTime: 2020-11-02T14:48:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXlYWXGkWKk/wisconsin-voter-backed-clinton-trump-policies-helped-family"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
+  - title: "Trump administration moves to change H-1B guest worker program to prioritize higher-wage applicants"
+    excerpt: "The Department of Homeland Security moved to make a significant change to the controversial guest worker program that would prioritize higher-paid applicants."
+    publishedDateTime: 2020-10-28T22:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yiNVTjDJetI/trump-dhs-h1b-guest-worker-rule"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-h1b-guest-worker-rule.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
-    excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "
-    publishedDateTime: 2020-10-17T05:24:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bHP7LJuG1HI/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
-    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
-    publishedDateTime: 2020-10-07T00:54:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump downplays Obama's return to campaign trail, says he was 'all over the place' for Hillary Clinton"
-    excerpt: "Trump: “There is nobody that campaigned harder for “Crooked” Hillary Clinton than Obama.\""
-    publishedDateTime: 2020-10-22T01:36:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsRA27UQlM8/trump-obama-return-campaign-speech-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7f9ff4-65e4-4165-9aa4-5efe700736a5/b71debd9-2387-43bb-9caa-7bf76d7cb037/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89e0be-ca89-4feb-92e9-50c0498d22ce/78ae422c-3438-47c6-9791-096f72831c10/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
-    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
-    publishedDateTime: 2020-10-11T22:42:00Z
-    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
+  - title: "New York State Republican Candidates Fight Shadow of Trump"
+    excerpt: "GOP candidates hoping to roll back gains made by New York Democrats in 2018 are trying to differentiate themselves from President Trump."
+    publishedDateTime: 2020-10-25T23:26:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-state-republican-candidates-fight-shadow-of-trump-11603666800"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Hillary Clinton Mocked for Her 'Black Hole of Cringe' Birthday Message to Kamala Harris"
-    excerpt: "Democratic vice presidential candidate Sen. Kamala Harris turned 56 on Tuesday, gathering birthday greetings throughout the day on social media. Many celebrities, politicians, voters, colleagues, friends,"
-    publishedDateTime: 2020-10-20T22:15:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/20/why-hillary-clinton-is-being-mocked-for-her-birthday-message-to-kamala-harris-n2578450"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 57
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2019/60/32c28ada-c980-4373-bb6d-88386aae861c.png"
+      - url: "https://images.wsj.net/im-248736/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
 
 secured: "3sRbi0rgrbfss2tY3Wc0cgH8XjY4XSUgoUNZM0qBjezD7d5Q/2csZda3di9/QsAF30IajwuoC5mI0pniLAitrVXgQVFjMD4VMTlDlqP+kK79fCIk/mb2WzMT6xfQj7nkMMcozvCQP/TddBBdh16foVkm8JVyto+ubWMoHczpkVR41B/MlkmKW0NXzCn8ojmZnipJuzMi5UNkpxmabgl8UJfiIIrE9Tu4/6fSH5R/RZ7ekkILGZ3Klep2b7eYloB1j/7qMy0CnHU8MpA5Wy2TBZ0ZrdQ35B/OxMlVQRFnNQYuU7FaeZ1qYU61Vg1g3Fl8SKN2AYL/CJyv7sXqdKvNkdXqWc+15AMAoTpmJ7fixao=;aXu1Mddh6zd1fY/gfO0Jgg=="

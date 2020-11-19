@@ -62,6 +62,22 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
+    excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
+    publishedDateTime: 2020-10-25T19:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e42e87e-93f1-4e1c-8ded-d69a5bd1bb32/38e3396b-54c0-4f94-b332-93fdfc80e55e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "pD3xUo9bAkhBFd4+OAzVbmHwuZ9mSD1dICqvL5Jgg3Lvg16k9wPvViWWiT5apY8ZDejO9nXOqvD7YrUhsAgdVTv7KeditLzw6FhuvoBZmEP1VBWtphgbxrUKfFa3Gt47iJt3A6t4c0ZzRMf9eWGR9eRVs6tZp/+ElKg8J9+zaO1JEBR3d3ewT7io0ZVBXhPlxWPxIsXZxgEktUMvOBDW9GAxUdH0Cfk+1PRO2eZJJDsv65bQpH7zXK1P51GIs4GZTIMkFMBCfNnrXP4zMrUabAA6c//3Ge8PtxMrV9t5YepRrvr7RkC1T89j3xei0eYUIH0Ln3nYD69vzgMb1fIPi6QeAz72FTERcnjyMlrnEP8=;hx0qyHTtuBgZ0EvQiFqvoQ=="
 ---

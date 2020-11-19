@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-senator-says-hell-step-in-if-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senator-says-hell-step-in-if-biden-doesnt-receive-intel-briefings-by-friday.amp"
 type: article
 quality: 169
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
+    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
+    publishedDateTime: 2020-11-12T21:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "MHo4GGnS24s+DYiUZ2QCrQwGuSyHsCPm0I+SZ6jozHXkQfkbecVZ5jiE4u6RiHI90F/06jO/JpAy2GcKc6k2OZAm/mmd/W2WmHqHMHVfQEjxkm6ApDuA1nlMd8xve5ku4IApHKWtoWfiPjjc2PjQFPoPf54CfGg/ZRHt/EU9xkLjhXRJXsZzWQRGrs7hgBHePv95A0KF1+qDVajwAkKQJihhLWLp779w8DCr4rhD/Eh8RqFlG+RJo5OYIOKGSiad3FGVjJsevIDnKIOdcMZNXsLPzY6tH1hnTlnYCyZsl0mFtSdIlLgxWfW5/kZKdz7CxrGpo13AVWAu4Eo47SKqwX1ob0SwW/McO0wxs5QShxU=;xDjrhWBOmYf0aEf7Z4TQXQ=="
 ---

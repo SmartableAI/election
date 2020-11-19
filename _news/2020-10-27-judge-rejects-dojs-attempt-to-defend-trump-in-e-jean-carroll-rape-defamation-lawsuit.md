@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Judge says Justice Department cannot defend Trump in E. Jean Carroll rape defamation suit"
-    excerpt: "WASHINGTON — A federal judge on Tuesday rejected an attempt by the Department of Justice to represent President Donald Trump in a defamation lawsuit brought by E. Jean Carroll, who has claimed that he sexually assaulted her in the 1990s. The judge denied ..."
-    publishedDateTime: 2020-10-27T14:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/judge-says-justice-department-cannot-defend-trump-e-jean-carroll-n1244924"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244924"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244924"
+  - title: "Barr's defense of Trump in E. Jean Carroll's suit could give presidents carte blanche"
+    excerpt: "If President Donald Trump and the Justice Department have their way, presidents will be legally permitted to defame anyone during their four (or eight) years in office. On Wednesday, a federal judge in Manhattan will hear arguments on the Justice Department's motion to substitute the United States for Trump as the defendant in a defamation suit."
+    publishedDateTime: 2020-10-21T09:20:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/barr-s-defense-trump-e-jean-carroll-s-suit-could-ncna1244088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244088"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 126
+    quality: 128
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423320/201027-e-jean-carroll-jm-0947_7e976c49fd9a505a6adbef38e0a5a311.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421572/201020-ONE-TIME-USE-e-jean-carroll-cs-222p_23661d234dc9620b78178430deffa91b.jpg"
+        width: 3003
+        height: 2096
         isCached: true
 
 secured: "sZkyd1IsIqfQS41RGLaErBx/v32xMLv794tITiGrzml0OlN7MNrBRpSgWVUZPMXU2rBw9BCo3FLoLX8d7VXYeFa7pZtk8FIkoS1tNNbPNBTNbQ9ZhDbldX1xBPSsF4TXrwTGvGD29Q1lNGcuIYwsNWYszHBL5C2cM/WUgWHuCFQwv36Xh7IZBzD6SkmkefxDO4EOKtdM+KWdtOMJQSCDWQVNJgyM76CX764UBvvM4+bwXwIQevY3RMt3+RNw/dSz15o0m2UJYevAM+3hNdoHSsLL15okhBUn2nXSAzhgLmc1iOUvk/PmSRJVrhPS7v2nD2p/01bqdS4TaJMgWnINl6jNO50NdpOLkY6Y7uwuTE8=;xtSn9jmIkeZhURn3dCAH/g=="

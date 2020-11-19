@@ -47,6 +47,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "EXPLAINER: Why AP called North Carolina for Trump"
+    excerpt: "The Associated Press declared Donald Trump the winner in North Carolina after concluding there were not enough ballots left to be counted that would allow Joe Biden to overtake his lead"
+    publishedDateTime: 2020-11-13T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/explainer-why-ap-called-north-carolina-for-trump/2020/11/13/d9cf81ec-25f8-11eb-9c4a-0dc6242c4814_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "SfgYkfV4sPCZcK1GK04a/tsdl+pFuNCScBoCJ8mBqmbWeSeSPqVkmjSjXxrPtvfvAeW2aEPq6wVEDYXvQgqNgPuPrc24iO3to0sKLVF/zzXQZmqZrxf3SK28z58lIqjfVqOacF1KXOuB7svh9jbc+3azVPQBaYBIOELNm/rtW1oz6/SCOjV+F9tUXq7yL24mUeNy8cqvTUA4oeqwVz1RhQGOMZIQ7GB+MyErWjEIHVh0iJeJW+/shW9FkL6iUZUji3PM1As5bOj9Dn4y+qJUzdUrJfNCMn+zu0gfYa2RUn5TJBJFJhp6IYv2DEc3hva7nUr8vDjIrGhE0RUvhhxJtrD+D7d+GNeS+RKbUD4yRU0=;p6RUl2pvrJbVMrDYz2IN6A=="
 ---

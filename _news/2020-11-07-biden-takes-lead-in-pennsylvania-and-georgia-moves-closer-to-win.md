@@ -61,22 +61,6 @@ related:
         width: 846
         height: 545
         isCached: true
-  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
-    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
-    publishedDateTime: 2020-10-14T16:22:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
     publishedDateTime: 2020-11-06T01:06:00Z
@@ -91,47 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
-    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
-    publishedDateTime: 2020-10-06T15:18:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-07T14:16:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
-        width: 5620
-        height: 3747
-        isCached: true
-  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
-    publishedDateTime: 2020-10-06T16:33:00Z
-    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "sp4LT//u1pkNrmnUYwKkTSKqKBKywNGs/RZld5Z2/nfbKuizut4F5pXjyIeDTYqDXEvj3W1gD03u5OtQHB0bFJN9/GIpWpIGEZHYJfrd+C7u6BVjd6h7x+wQ3sSAxbextKfmJAXUZ5UwLm2B+rPFtJdCPxtba6bVnWere+CtWP5SM1Hqe0vSl/+wTDOeuFwPVeIrDI6+1pUwG1ionkpmlc5ygU5o0Qmhz/S0e0bUSJYx7AYiIUFtekH4Ctmo80s4cK99kQ3Uzw/QO9GYRXwG6jH8Xw+2YQuWN6zpM4R6ENq0/LEjFEAK8CB7/T7fB/Wd36bQJoFx6J9QNCkBzkfxaD9ydBTpWlZSFjc+U3eSJha+OBew1W4p6K4pzpQar2sj1kG/fCUK1Q3BzwjmDpvP1ORhY1Uv7vjSBzQ5g+KLFLFbGiWqeneOnFABn4Z9Ef75P7GRJ7RbMqfs1WDXgNYAAN0ok+TXEqZKYKWWbTUwg635k8FkxgHwWyHWGWuQeSO8qe2vxyJ2luEW9pihRiyUVg==;0gqNh9re1e0dQqt9MlOFeQ=="
 ---

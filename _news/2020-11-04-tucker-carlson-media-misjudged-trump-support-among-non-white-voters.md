@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
+    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
+    publishedDateTime: 2020-11-12T14:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
     excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
     publishedDateTime: 2020-11-06T15:18:28Z
@@ -64,35 +80,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
-    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
-    publishedDateTime: 2020-10-26T13:00:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
-    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
+    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
+    publishedDateTime: 2020-10-28T22:38:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
-    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
-    publishedDateTime: 2020-10-27T14:05:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
-    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -111,6 +111,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
+    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
+    publishedDateTime: 2020-11-04T07:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "rCYKFJTs56/asXLvkayHgIMmAmJ5EEtw+zI/5ReNxGBPzSuT6iYNCoUxpV5OnTti3f1ntmywc4lCDn12VCBIMP5TwPu0Uf8FCyJS8gvsW/oLViDt9s5hMRYftZEYjzO9cweusuh5QjP7CwH9tjoDiDOAhofP1HjiOMkhgaswcMTwkBcZvDBzM6YbBoQl3oiA9qWem4qQxM0vcUuwTEH+dIHsVks+DW+7dLjz8LQCM9djLdOVh/WAbugmq3IaTcMx80IHqrZFoo/6L2qkM7v9VrlfAMXTayTkUPiTjr2zCPyykV2i4nyEgHoSYK/U+h+c5oUI3gLffX4U9CJyLERVJ45f7WtiSZagjxCy/9LQyhw=;na97w/rtuCYsk+qRI7KecQ=="

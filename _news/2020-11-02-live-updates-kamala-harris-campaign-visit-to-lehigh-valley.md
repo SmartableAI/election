@@ -101,6 +101,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Kamala Harris makes history as first woman and person of color to be vice president"
+    excerpt: "Kamala Harris, the groundbreaking senator from California, has made history again -- set to become the first female vice president and woman of color in the White House. Harris, 56, the daughter of immigrants,"
+    publishedDateTime: 2020-11-07T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-makes-history-woman-person-color-vice/story?id=73999923"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-philadelphia-rt-jt-201103_1604441807194_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
+        isCached: true
   - title: "Fact check: Photo does not show drunk Kamala Harris throwing up in bushes and staggering around"
     excerpt: "Social media users have been sharing a photo of Democratic vice presidential candidate Kamala Harris, purporting to show her drunk, throwing up, staggering around and being confrontational. However, this is a misleading still image captured from a video Harris posted"
     publishedDateTime: 2020-11-03T15:32:00Z
@@ -200,6 +216,70 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/03/gettyimages-1090431902_wide-5f86d1341e31d8cea4886711884225e6ad094573.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Harris target of more misinformation than Pence, data shows"
+    excerpt: "The report identified more than 1 million mentions since June on Twitter of Kamala Harris with hashtags or terms associated with misinformation about her."
+    publishedDateTime: 2020-10-30T14:52:00Z
+    webUrl: "https://www.fox43.com/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/nation-world/harris-target-of-more-misinformation-than-pence-data-shows/507-65ef2a29-29ff-4471-b331-146f673bf50e"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 100
+    images:
+      - url: "https://media.tegna-media.com/assets/WLTX/images/e5a56073-3a52-4460-a3b0-0f7c7b093733/e5a56073-3a52-4460-a3b0-0f7c7b093733_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Kamala Harris, Mike Pence coming back to NC as candidates trade visits"
+    excerpt: "Kamala Harris will return to North Carolina on Sunday as the pace of visits from vice-presidential candidates accelerates ahead of Tuesday’s election. The Democratic vice-presidential nominee announced plans to appear in Goldsboro and Fayetteville,"
+    publishedDateTime: 2020-10-30T16:09:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/state/north-carolina/article246833557.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 100
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/d085c4d8-a702-4a98-b438-17c39bc87d94/1a9f19a3-c8a5-4459-b22b-18ee19a9344e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris target of more misinformation than Mike Pence, data shows"
+    excerpt: "From July to October, Harris and Republican Vice President Mike Pence have been mentioned almost 48 million times combined on Twitter, compared to only 12 million total mentions of Pence or Virginia Sen. Tim Kaine, who was the Democratic vice presidential ..."
+    publishedDateTime: 2020-10-30T04:57:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-target-of-more-misinformation-than-mike-pence-data-shows/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 100
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=15e44150-d440-549d-97b0-6e61bc69267e&type=primary&q=72&width=1200"
+        width: 1199
+        height: 799
+        isCached: true
+  - title: "More misinformation directed at Harris than Pence"
+    excerpt: "Since being named to the presidential ticket, Harris has been at the center of online misinformation campaigns far more often — four times as much — than the white men who campaigned for the same"
+    publishedDateTime: 2020-10-29T23:24:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/29/more-misinformation-directed-at-harris-than-pence/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 100
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-20-Debate_77097129.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "A tour of Kamala Harris' East Bay, from her place of birth to her Berkeley school"
     excerpt: "Vice President-elect Kamala Harris is often called the “daughter of Oakland,” as she was born in the East Bay city on Oct. 20, 1964, to two immigrant parents. While talking about her Bay Area upbringing during the Oct."
@@ -374,6 +454,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP_20312146734383.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Siri Says How Old Kamala Harris Is When Asked The President's Age [WATCH]"
+    excerpt: "When Siri was asked how old the president is Sunday, it gave users information about Vice-President-elect Kamala Harris instead of properly noting that Donald Trump is 74. The more conspiratorially-minded jumped on the issue,"
+    publishedDateTime: 2020-11-09T16:59:00Z
+    webUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154"
+    ampWebUrl: "https://www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/siri-says-how-old-kamala-harris-when-asked-presidents-age-watch-3079154?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/07/29/siri.jpg"
+        width: 600
+        height: 399
         isCached: true
   - title: "During Texas visit, Kamala Harris urges Democrats to turn out as election approaches and races remain tight"
     excerpt: "by Alex Samuels Oct. 30, 2020 Updated: 8 PM Democratic vice presidential candidate Kamala Harris spoke during a campaign event in Edinburg on Friday. Credit: REUTERS/ Verónica G. Cárdenas FORT ..."

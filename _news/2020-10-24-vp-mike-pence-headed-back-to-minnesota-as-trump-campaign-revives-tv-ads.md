@@ -25,107 +25,97 @@ images:
     isCached: true
 
 related:
-  - title: "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump"
-    excerpt: "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel"
-    publishedDateTime: 2020-10-19T11:27:00Z
-    webUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022"
-    ampWebUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
+  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
+    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
+    publishedDateTime: 2020-10-20T08:54:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
     type: article
     provider:
-      name: NME
-      domain: nme.com
-    quality: 85
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
-  - title: "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2"
-    excerpt: "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,"
-    publishedDateTime: 2020-10-18T18:46:00Z
-    webUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/"
-    ampWebUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 66
-    images:
-      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for 5 Hours’ to Prank Mike Pence"
-    excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank V"
-    publishedDateTime: 2020-10-18T03:20:00Z
-    webUrl: "https://www.vulture.com/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    ampWebUrl: "https://www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    cdnAmpWebUrl: "https://www-vulture-com.cdn.ampproject.org/c/s/www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    type: article
-    provider:
-      name: Vulture
-      domain: vulture.com
-    quality: 62
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/40a/1c1/e947ad9bcec542e1e4e5c8d59bb795d3c1-17-sacha.1x.rsocial.w1200.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
         width: 1200
-        height: 632
+        height: 675
         isCached: true
-  - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for Five Hours’ to Prank Mike Pence"
-    excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank “Vice Premier” Mike Pence at the film’s climax: He snuck into the Conservative Political Action Conference in late February and did a whole lot of disguised waiting."
-    publishedDateTime: 2020-10-17T16:26:00Z
-    webUrl: "https://www.vulture.com/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    ampWebUrl: "https://www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
-    cdnAmpWebUrl: "https://www-vulture-com.cdn.ampproject.org/c/s/www.vulture.com/amp/2020/10/sacha-baron-cohen-explains-how-borat-pranked-mike-pence.html"
+  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
+    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
+    publishedDateTime: 2020-10-21T03:28:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
     type: article
     provider:
-      name: Vulture
-      domain: vulture.com
-    quality: 60
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/40a/1c1/e947ad9bcec542e1e4e5c8d59bb795d3c1-17-sacha.1x.rsocial.w1200.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
         width: 1200
-        height: 632
+        height: 675
         isCached: true
-  - title: "Trump No Fan Of Sacha Baron Cohen"
-    excerpt: "US President Donald Trump said Friday he has not been a fan of Sacha Baron Cohen -- even before a clip from the British comedian's new Borat movie forced his lawyer Rudy Giuliani into an awkward explanation."
-    publishedDateTime: 2020-10-24T05:06:00Z
-    webUrl: "https://www.ibtimes.com/trump-no-fan-sacha-baron-cohen-3068744"
+  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
+    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
+    publishedDateTime: 2020-10-20T10:04:00Z
+    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/24/while-the-plot-of-the-new-borat-film.jpg"
-        width: 1024
-        height: 608
-        isCached: true
-  - title: "Sacha Baron Cohen Really Did Crash Mike Pence's CPAC Speech for 'Borat 2'"
-    excerpt: "A new movie has everyone talking because it's hard to tell what's real and what's creative editing. Like, did Borat crash CPAC for real?"
-    publishedDateTime: 2020-10-24T01:17:00Z
-    webUrl: "https://www.distractify.com/p/did-borat-crash-cpac"
-    type: article
-    provider:
-      name: Distractify
-      domain: distractify.com
-    quality: 54
-    images:
-      - url: "https://media.distractify.com/brand-img/va9DjGt7i/0x0/did-borat-crash-cpac-1603498103928.jpg"
+      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
-  - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
-    excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."
-    publishedDateTime: 2020-10-22T15:47:00Z
-    webUrl: "https://www.imdb.com/news/ni63067400/"
+  - title: "Vice President Mike Pence plans Trump campaign rally in Oakland County Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a campaign rally for President Donald Trump in Michigan this week. Pence plans to host a campaign rally in Oakland County on Thursday. The Trump campaign did not provide additional details Monday afternoon."
+    publishedDateTime: 2020-10-19T18:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 35
+      name: MLive
+      domain: mlive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WLTW56MQKBEXVP7X63FNRRCXLU.JPG"
+        width: 917
+        height: 688
+        isCached: true
+  - title: "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey"
+    excerpt: "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?"
+    publishedDateTime: 2020-10-20T13:35:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5988271002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/55052bf3-daaf-4435-a4a0-1ed3baf804a5-AP20293762278951.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "‘Please like me’: Trump asking suburban women to vote, but are they behind him?"
+    excerpt: "Over the past few months of campaigning, U.S. President Donald Trump has been trying to appeal to a demographic he is losing a grip on — suburban women. And according to Clifford Young ..."
+    publishedDateTime: 2020-10-23T03:20:00Z
+    webUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/"
+    ampWebUrl: "https://globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7412743/donald-trump-us-election-suburban-women/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 51
 
 secured: "abrOrGVR1MEU7SEBgk8j8JBRKoIK+85GWCqTfNMgVmbpBF43tn26dPezI9aPc2hV/kRvGFU8lyKGM12YkaRF9A/JStM+YV2u9xuOBmmQsPJrdSjaLVhiWVznSFHbH2RgsJhBpS6HH7/QzNF4vLHLiIZLNQ95CIzbceBfZ9FgdFw9j4sle1En9FAFXwPLm9YuAkKH3fboJR/4CkmobSg0RUKRvzE3br4Mzt1fLneTYeVRpNU5hvKNxgRdlbQJksd2LY4aq38h1ZJE3G8CXxv0wIYnClLkIXouTDLC4QcA6Ghctd77cDKs5+OV/oJd1v4El13nG3p2xdlnmC4KOm+frkSk3wWW6IoZjcIMuF0btV4=;riulLyEsLguAGFS+Cu6AfQ=="
 ---

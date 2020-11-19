@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Column: Tragic presidency of Donald J. Trump may be nearing an end. What will be the final scene?"
+    excerpt: "Analyzing the trajectory of a presidency is not unlike inhabiting a writer’s room at Netflix or HBO. Or reading one's Shakespeare."
+    publishedDateTime: 2020-10-22T11:04:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/theater/chris-jones/ct-ent-trump-president-final-scene-1025-20201022-6lk5dyxwtba7xi762dsdaf2bhq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/6mufeD3ERAog4qHbq1587isNLCE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PFKIHMHUNNG6LP554DIAN6VLX4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Deutsche Bank eager to cut Trump ties - sources"
     excerpt: "Posted . Deutsche Bank is tired of the negative publicity over its lending to Donald Trump, according to Reuters sourc"
     publishedDateTime: 2020-11-03T12:37:00Z

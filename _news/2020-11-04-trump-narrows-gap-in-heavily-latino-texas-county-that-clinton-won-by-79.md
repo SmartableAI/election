@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-narrows-gap-to-5-in-heavily-latino-texas-county-that-clinton-won-by-60.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wisconsin voter who backed Hillary Clinton in 2016: Trump policies have helped my family"
+    excerpt: "Accompanied by two other voters on “Fox & Friends” to discuss the 2020 presidential election, a Wisconsin woman who has been a lifelong Democrat said she is likely switching over to supporting President Trump."
+    publishedDateTime: 2020-11-02T14:48:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FXlYWXGkWKk/wisconsin-voter-backed-clinton-trump-policies-helped-family"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-voter-backed-clinton-trump-policies-helped-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign, GOP to appeal to Nevada Supreme Court to halt Vegas-area mail-in ballot count"
     excerpt: "LAS VEGAS (AP) — President Donald Trump’s re-election campaign and Nevada Republicans filed notice Monday that they’ll ask the state Supreme Court to stop the count of mail-in ballots in Clark County, the state’s most populous and Democratic-leaning county, including Las Vegas."
     publishedDateTime: 2020-11-03T15:32:38Z

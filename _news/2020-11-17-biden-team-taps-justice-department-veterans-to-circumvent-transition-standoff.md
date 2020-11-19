@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's endgame comes into view"
+    excerpt: "In the real world, President-elect Joe Biden continues to hurtle toward his January 20 inauguration.\n    \n"
+    publishedDateTime: 2020-11-13T04:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDzjaGI737A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Watch Trump refuse to acknowledge reality at press conference"
     excerpt: "President Donald Trump inched closer to acknowledging he will not be president after January 20, but stopped well short of recognizing his loss when vowing his administration wouldn't order new coronavirus lockdowns.\n    \n"
     publishedDateTime: 2020-11-13T22:42:08Z
@@ -304,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lawsuits that tried to disrupt Biden's wins in four states are withdrawn"
+    excerpt: "Voters in four states who had brought longshot lawsuits to disrupt President-elect Joe Biden's win and went nowhere in court have dropped their cases Monday morning.\n    \n"
+    publishedDateTime: 2020-11-16T16:43:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CMIOj2nRiG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/lawsuits-michigan-pennsylvania-wisconsin-georgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia audit on track to finish Wednesday and affirm Biden win, official says"
     excerpt: "Georgia is on a \"good schedule right now\" to finish an audit of the presidential election by Wednesday and thus certify its results by Friday, a top state voting official says, and the vast majority of counties are reporting results that are \"spot dead on\" to the initial tallies or finding only minor"
     publishedDateTime: 2020-11-17T23:36:17Z
@@ -416,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats seek to avoid scorched-earth fight with White House over transition to Biden administration"
+    excerpt: "House Speaker Nancy Pelosi and President-elect Joe Biden's team are arguing that it makes the most strategic sense for now to let public pressure build on President Donald Trump for preventing the transition from officially taking place, rather than using the power of the House Democrats' majority to"
+    publishedDateTime: 2020-11-16T20:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MM5mORpkGOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "John Kelly blasts Trump for not helping with the transition: 'The downside to not doing so could be catastrophic'"
     excerpt: "Former White House chief of staff John Kelly issued an on-the-record statement Friday night lambasting President Donald Trump for not helping with the transition to a new Biden administration.\n    \n"
     publishedDateTime: 2020-11-14T00:35:27Z
@@ -432,22 +480,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden signals next debate may not happen if Trump remains contagious"
-    excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
-    publishedDateTime: 2020-10-07T01:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "Pence faces a new test after 4 years of fealty to Trump"
     excerpt: "The VP is staring at a deadlier phase of a pandemic and a Senate race that could reverse years of his work. He’ll have to get through Trump first."
     publishedDateTime: 2020-11-17T09:46:00Z
@@ -463,22 +495,6 @@ related:
       - url: "https://static.politico.com/d0/67/1ca12bb341dea34d3eca57d53aa3/gettyimages-1285534426-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Top Trump campaign official ridicules Joe Biden's mask-wearing after president, allies infected"
-    excerpt: "A top adviser to President Donald Trump's campaign on Sunday ridiculed 2020 Democratic presidential nominee Joe Biden's mask-wearing even as President Donald Trump remains hospitalized with Covid-19."
-    publishedDateTime: 2020-10-04T14:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/top-trump-campaign-official-ridicules-joe-biden-s-mask-wearing-n1242041"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242041"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242041"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 138
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417375/201004-jason-miller-nbc-mtp-jm-1120_51996a489e320063ba7030e9fc079abf.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
     excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
@@ -592,6 +608,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
+    excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
+    publishedDateTime: 2020-11-16T13:00:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/16/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16transition-briefing-promo1/16transition-briefing-monday-lede-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
     excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
     publishedDateTime: 2020-11-13T17:35:00Z
@@ -608,19 +640,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden leads Trump by 5 points in Iowa poll"
-    excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
-    publishedDateTime: 2020-10-07T20:16:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/biden-theresa-greenfield-iowa-poll-427373"
+  - title: "Joe Biden speaks about the economy as the virus surges and vaccine hopes rise."
+    excerpt: "Biden Jr. addressed the slowing American economic recovery on Monday, amid the crosswinds of rising coronavirus deaths and soaring optimism over a vaccine. His speech comes at a perilous moment for the recovery from the pandemic recession."
+    publishedDateTime: 2020-11-16T19:56:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/business/joe-biden-speaks-about-the-economy-as-the-virus-surges-and-vaccine-hopes-rise.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
     images:
-      - url: "https://static.politico.com/b2/39/20bc8774471e8cbc76ab33dc4b89/200520-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/11/16/business/16markets-brf-biden2/merlin_180108033_2dd4beda-c70d-42ea-9e07-179ef37099f9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Pressures Trump for Access to Federal Resources"
     excerpt: "President-elect Joseph R. Biden Jr. spoke with a group of health care workers on Wednesday, pressuring the Trump administration to authorize giving him access to federal resources to plan his coronavirus response."

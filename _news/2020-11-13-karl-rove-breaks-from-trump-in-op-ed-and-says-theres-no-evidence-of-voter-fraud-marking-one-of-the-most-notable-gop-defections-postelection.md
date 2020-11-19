@@ -346,6 +346,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump fires nation's top election security official who disputed fraud claims"
+    excerpt: "Trump fires nation's top election security official who disputed fraud claims President Trump has fired his top cybersecurity official, Christopher Krebs, who headed the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency."
+    publishedDateTime: 2020-11-19T04:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-fires-nations-top-election-security-official-who-disputed-fraud-claims/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/44d89efe-cdba-4fa9-b636-d80853601e95/thumbnail/1200x630/73404517a7e41e157ff23fc7164f1b21/1118-cbsn-trumpfiresofficial-590402-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The head of Trump's legal team that is challenging the 2020 election results reportedly tests positive for coronavirus"
     excerpt: "Several other officials in Trump's inner circle have recently contracted the virus, including HUD Secretary Ben Carson and chief of staff Mark Meadows."
     publishedDateTime: 2020-11-09T20:13:00Z
@@ -377,6 +391,20 @@ related:
       - url: "https://i.insider.com/5faa71cb1df1d50018219c6e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Senate Intelligence Committee's top Democrat reacts to Trump firing election security official"
+    excerpt: "President Trump fired his administration's top election security official, Christopher Krebs, who headed the Cybersecurity and Infrastructure Security Agency. The agency disputed Mr. Trump's numerous unfounded claims of voter fraud in the 2020 election."
+    publishedDateTime: 2020-11-19T04:26:00Z
+    webUrl: "https://www.cbsnews.com/video/senate-intelligence-committees-top-democrat-reacts-to-trump-firing-election-security-official/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/e5e4a422-2a59-43f7-9af5-248ce9aa6e38/thumbnail/1200x630/5697230b8b86fb94ed2cb464eb0395e1/1118-cbsn-maz-senateintelligencekrebs-590581-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Republicans leaders privately described Trump as a political liability and warned they face losing Senate runoffs"
     excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."

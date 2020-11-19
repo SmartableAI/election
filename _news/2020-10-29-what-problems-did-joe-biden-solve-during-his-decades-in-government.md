@@ -55,6 +55,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Biden says he'll create a commission to decide whether to reform the federal judiciary and pack the courts: 'It's getting out of whack'"
+    excerpt: "Court packing alone could \"turn the Supreme Court into just a political football,\" Democratic nominee Joe Biden told CBS News."
+    publishedDateTime: 2020-10-22T14:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f91858eabcd0c0018d68fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "B3W96fEze2WDh28h1UOILMMhw4rwd55TRe5SLY9qq1pgEelVgNTtU8Vs78Ej7SWCbJno6ppvqUMG5nt9aMBfEfYtukcmVAk50PY6bX8VNwpwmR+MoVtZtIOEmaWggL1Ax6kkj0ELaE3qdqxTuOI8+aX5oDvDSA1fnSqKlo1L451em2+UDfWi5lVvf3E/LK8nb+0TlJUFxEuM9tkSVml05jgmbXiGyfHU8zK3Me0Anso+/WY7QKXF444Sah5uN5wyCjtn5trFRvDDduSByB8O8CGj+X8HqxtJsfNzL8EuLBRfvhMBbxpKkquGd4/Fy71aK8pM/Um/BXFXktUogQ9tfVMnfMy7t+agcDUw/B6fP1s=;IiwT0/RsSd+sXgWlhZR7sw=="
 ---

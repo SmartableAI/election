@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "I'm a Republican Former Elections Official. I Choose Democracy Over Trump | Opinion"
-    excerpt: "It wasn't until I became the executive director of New York City's Board of Elections that I had an up-close view of how complex and difficult it is to manage an election in the largest city in the country."
-    publishedDateTime: 2020-10-28T10:00:00Z
-    webUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625"
-    ampWebUrl: "https://www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/im-republican-former-elections-official-i-choose-democracy-over-trump-opinion-1542625?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 134
-    images:
-      - url: "https://d.newsweek.com/en/full/1659972/president-donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "‘We need you’: GOP hunts for new voters in Trump territory"
     excerpt: "President Donald Trump’s campaign has a bold theory for how he will win reelection: It can tap a universe of millions of supporters who did not vote for him in 2016 but will do so this time"
     publishedDateTime: 2020-10-28T04:47:00Z
@@ -127,22 +111,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "GRAPHIC-Trump's stock market - A wild four years"
-    excerpt: "The four years since President Donald Trump's 2016 election victory have been a period like no other for the U.S. stock market."
-    publishedDateTime: 2020-10-29T10:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-markets-stocks-idUSL1N2HC1UL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1UL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1UL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201029&t=2&i=1539255040&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9S0U6"
-        width: 817
-        height: 545
-        isCached: true
   - title: "As virus surges, Trump rallies keep packing in thousands"
     excerpt: "Donald Trump’s campaign rallies are among the nation’s biggest events held in defiance of coronavirus-related crowd restrictions"
     publishedDateTime: 2020-10-30T01:13:00Z
@@ -158,38 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "On virus, Trump and health advisers go their separate ways"
-    excerpt: "A multi-state coronavirus surge in the countdown to Election Day has exposed a clear split between President Donald Trump’s bullish embrace of a return to normalcy and urgent public warnings from the"
-    publishedDateTime: 2020-10-30T05:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/on-virus-trump-and-health-advisers-go-their-separate-ways/2020/10/30/2e282898-1a69-11eb-8bda-814ca56e138b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Did Donald Trump Win Arizona in 2016?"
-    excerpt: "The swing state has been called for presidential candidate Joe Biden by the Associated Press, but how did Arizona vote in 2016?"
-    publishedDateTime: 2020-11-04T07:52:00Z
-    webUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680"
-    ampWebUrl: "https://www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/did-donald-trump-win-arizona-2016-election-1544680?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1664377/trump-arizona-2016.jpg"
-        width: 2500
-        height: 1614
         isCached: true
   - title: "Donald Trump has won Missouri"
     excerpt: "The state has 10 electoral votes and was not expected to be competitive. It has voted for a Republican president in nine of the last 12 elections."
@@ -255,17 +191,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Slovenian premier endorses Trump's reelection, joins others"
-    excerpt: "Slovenian Prime Minister Janez Jansa endorsed U.S. President Donald Trump’s reelection on Friday, saying Joe Biden would be a weak leader."
-    publishedDateTime: 2020-10-25T17:57:00Z
-    webUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/slovenian-premier-endorses-trumps-reelection-joins-others-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Jewish cemetery in Michigan vandalized with 'Trump,' 'MAGA' before Trump's rally"
     excerpt: "Tombstones at the Ahavas Israel Cemetery in Grand Rapids were vandalized with \"Trump\" and \"MAGA\" before Trump arrived for his final campaign rally."
     publishedDateTime: 2020-11-03T14:06:00Z
@@ -376,20 +301,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Has Sold $118 Million Worth Of Property Since Taking Office"
-    excerpt: "While other Trump Organization ventures have grabbed more headlines, the president’s company has quietly struck more than 100 small deals—that all add up."
-    publishedDateTime: 2020-10-26T10:42:00Z
-    webUrl: "https://www.forbes.com/sites/chasewithorn/2020/10/26/trump-has-sold-118-million-worth-of-property-since-taking-office/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f939566a39fd9a825850db6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Impact of Wisconsin flipping for Biden"
     excerpt: "Watch \"Impact of Wisconsin flipping for Biden\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-04T21:47:00Z
@@ -415,6 +326,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Wisconsin to hold partial vote recount as fuming Trump denies defeat"
+    excerpt: "U.S. President Donald Trump's re-election campaign on Wednesday requested a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
+    publishedDateTime: 2020-11-19T02:11:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/biden-to-focus-on-coronavirus-as-trump-pushes-to-overturn-election-idUSKBN27V05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201118&t=2&i=1541639787&r=LYNXMPEGAH155&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Former Wisconsin Governor Scott Walker on Trump campaign's calls for a recount"
     excerpt: "Former Wisconsin Governor Scott Walker joined \"CBS This Morning\" to discuss the Trump campaign's calls for a recount of the votes in the state."
     publishedDateTime: 2020-11-05T14:10:00Z
@@ -428,38 +353,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/05/e55ea2cc-53b1-4947-b90a-e4ec6d86aa50/thumbnail/1200x630/3ac169127219e7a3bf871c8b9b7c514c/cbsn-fusion-former-wisconsin-governor-scott-walker-on-trump-campaigns-calls-for-a-recount-thumbnail-581439-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
-        isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 100
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
         isCached: true
   - title: "Trump campaign says more legal action coming, predicts victory as early as Friday"
     excerpt: "President Donald Trump's campaign said on Thursday it expected to launch additional legal action in Pennsylvania and Nevada and predicted that the Republican incumbent would emerge victorious in the U."
@@ -549,22 +442,6 @@ related:
       - url: "https://i.insider.com/5f969bc0f21803001222bdb5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump administration proposes reversal of homeless policy"
-    excerpt: "A new federal plan to end homelessness released last week by the Trump administration calls for a reversal of Obama-era “housing first” policies. The plan, released Oct. 19, is the first from the United States Interagency Council on Homelessness since President Donald Trump fired its executive director last year and replaced him with Robert G."
-    publishedDateTime: 2020-10-27T19:00:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-administration-proposes-reversal-of-15678824.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-proposes-reversal-of-15678824.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Trump camp drops Nevada appeal in mail ballot counting case"
     excerpt: "A legal effort in Nevada by the Donald Trump campaign and state Republicans to stop the count of mail ballots in Las Vegas is over. A document submitted in an appeal pending before the state Supreme Court says a settlement was reached requiring Clark County election officials to add “additional observation access” at a ballot processing facility in Las Vegas."

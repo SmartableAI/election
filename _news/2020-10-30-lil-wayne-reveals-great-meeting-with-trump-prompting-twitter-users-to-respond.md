@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/lil-wayne-trump-great-meeting.amp"
 type: article
 quality: 130
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: Fox News
@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "John Legend appears to jab at Trump fans Ice Cube, Lil Wayne during rally for Kamala Harris"
-    excerpt: "John Legend appears to be shading a few colleagues in the music industry.  During a final rally for Democratic vice presidential nominee Sen. Kamala Harris in Philadelphia, Legend took the stage to perform with fellow artist Common,"
-    publishedDateTime: 2020-11-03T06:30:00Z
-    webUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-legend-appears-to-jab-at-trump-fans-ice-cube-lil-wayne-during-rally-for-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/John-Legend.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ice Cube On Turning Down Kamala Harris Group Zoom Call: \"I Want To Get Things Done\""
-    excerpt: "Ice Cube said in an interview on the FOX Soul program \"Cocktails with Queens\" that he passed on a request from Democratic nominee for vice president Sen. Kamala Harris to participate in a Zoom group call because it would be full of \"entertainers\" and \"wasn't going to be productive."
-    publishedDateTime: 2020-10-30T11:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/ice_cube_on_turning_down_kamala_harris_group_zoom_call_i_want_to_get_things_done.html"
+  - title: "Lil Wayne Meets With Trump: \"He Listened,\" Platinum Plan Will \"Give The Community Real Ownership\""
+    excerpt: "Rapper Lil Wayne tweeted a photo of him and President Donald Trump and praised him for his actions on criminal justice reform following a meeting on Thursday. Lil Wayne said the president \"listened to what we had to say\" and gave a shoutout to the Platinum Plan."
+    publishedDateTime: 2020-10-30T09:49:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/30/lil_wayne_meets_with_trump_he_listened_platinum_plan_will_give_the_community_real_ownership.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 59
+    quality: 52
     images:
-      - url: "https://assets.realclear.com/images/52/525640.jpg"
-        width: 1008
-        height: 756
+      - url: "https://assets.realclear.com/images/52/525641.jpg"
+        width: 1226
+        height: 918
         isCached: true
 
 secured: "kPaFp9wsylJl40GlEhrcQZCDqd4deNIJ40j/yxgWxhLrUkVqtg/SRZ7F8Xc0JDyN9+Mo1m6hTzWteKlOuN9Pofy/BsAuEpuyoheINZjPBAlb/X7RMQGjvGS9J7QNpBOkR3jTYJVKVxzSACyzPqVirxkn4EYrEj3dHqFK1wx3O5ieQFygPUVS/M6PQAv39dLnJvudrkvb96qv6uSxcbqq1QopZH2aoczo93shAp3D2WAix7+8OlcIPX9rgD+1lk9NwQ8oJYlyjT1Q13I6G54CGd5hnEeiqtsT5kmHmoYq3oAXRhyWPJTJo9hUcQa5U05izJiIS8ddew9Dp/Qt1+65Ph2BsD4Wb67/865qUSietLc=;YPkWeIEzLUevbD7s93WC8g=="

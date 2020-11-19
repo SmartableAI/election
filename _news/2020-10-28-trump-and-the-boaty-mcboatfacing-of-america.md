@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pitches economic plan for Hispanic Americans -- 6 days before the election"
-    excerpt: "President Donald Trump announced a two-page second-term vision for the Hispanic American community -- the \"American Dream Plan\" -- to rallygoers in Arizona on Wednesday, six days before Election Day.\n    \n"
-    publishedDateTime: 2020-10-29T00:37:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ia8fFmnVjdg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/donald-trump-american-dream-plan-hispanics/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201028191318-trump-phoenix-1028-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "HIPAA and what it means for Trump, his doctor and the American public"
-    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-07T11:25:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Lil Wayne met with Trump and praised the President's plan for Black Americans"
     excerpt: "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n"
     publishedDateTime: 2020-10-30T14:04:31Z
@@ -96,19 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The One Pollster in America Who Is Sure Trump Is Going to Win"
-    excerpt: "Robert Cahaly’s polls have Arizona, Michigan and Florida in the president’s column. It’s hard to find another pollster who agrees with him. But they didn’t believe him in 2016 either."
-    publishedDateTime: 2020-11-03T02:21:00Z
-    webUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.html?pageType=LegacyCollection&collectionName=Polls+and+Voters&label=Polls+and+Voters&template=storyline_band_recirc"
-    ampWebUrl: "https://www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/article/trump-polls-trafalgar-group.amp.html"
+  - title: "Trump Killed the Pax Americana"
+    excerpt: "The Pax Americana arguably dated from the enactment of the Marshall Plan in 1948; that is, from the moment when a conquering nation chose to help its defeated foes rebuild rather than demanding that they pay tribute."
+    publishedDateTime: 2020-10-29T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/opinion/trump-trade-international-relations.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/11/03/us/politics/03trafalgar-promo/03trafalgar-promo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/01/opinion/sunday/01-icon-krugman/01-icon-krugman-facebookJumbo-v9.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -127,6 +95,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02campaign1/02campaign1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Dems struggle in rural America as Trump holds steady"
+    excerpt: "But it’s a different story in some pockets of rural America. Long-tenured House Democrats from Oregon timber country to Midwest dairy land are watching their reelection races tighten even as their party presses for bigger gains in nearly every major metro area in the country."
+    publishedDateTime: 2020-10-27T22:04:00Z
+    webUrl: "https://www.politico.com/news/2020/10/27/house-democrats-rural-america-431296"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/96/00/92fe63b04b4d84fb9fcfdf6419af/200129-peter-defazio-ap-773.jpg"
+        width: 4148
+        height: 2764
         isCached: true
 
 secured: "ydWORL1ayXUA1RXBiB4LsOybm6b47HYpg8Mw71h3STXZI7R+VWzsVqQgrFIGV2Bc+K5Ej2S0azPBXBUAEgQ+RNITL/CgsO+Pi0SAF9YlK7UtjWPx6J/CSP+dmX6qXw84uUR1PC/VIjozpwpz+ydN9v/t0tfivHERHYjX4gVudzK5QcMZFEqt9K6c3CP5y3ipF5YgK3iHJRBmLwCdmJdx9+3LXswEZUofRlwnIAGgsVd3/9bfDmok3avnfUOhibbcI6l+3WPTJgnC68BZwVVl/YINkKcU7TzMPpFyGqgUVsz4weYMouioJwQJbtGyBuexwIwjXAdh6f7iN6XLat3I+bGOHhpHka0xqACdPRno3y0=;oUx3mh3Z806XXBCYapgjog=="

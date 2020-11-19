@@ -508,7 +508,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1042,7 @@
       "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1137,7 +1137,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 899,
+      "heat": 779,
       "tags": null,
       "images": [
         {
@@ -1234,6 +1234,49 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams.md",
+      "title": "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams",
+      "excerpt": "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "originalUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984",
+          "width": 911,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "publishedDateTime": "2020-10-30T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -1346,7 +1389,7 @@
       "originalUrl": "https://www.desmoinesregister.com/story/news/politics/2020/10/29/vice-president-mike-pence-holds-des-moines-make-america-great-again-rally/6062552002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1381,21 +1424,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-29-vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday.md",
-      "title": "Vice President Mike Pence to speak at rallies in Arizona on Friday",
-      "excerpt": "Vice President Pence will speak at the 'Make America Great Again!' Victory Rally events in both Flagstaff and Tucson.",
+      "path": "_news/2020-10-29-mike-pence-in-wilmington-choice-is-whether-america-remains-america.md",
+      "title": "Mike Pence in Wilmington: Choice is 'Whether America remains America'",
+      "excerpt": "The vice president spoke during a campaign visit to Wilmington where he addressed the current administration's record and urged attendants to vote.",
       "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
-      "originalUrl": "https://www.12news.com/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
+      "webUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
+      "originalUrl": "https://www.starnewsonline.com/story/news/2020/10/27/vice-president-mike-pence-holds-rally-wilmington/6047599002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://media.12news.com/assets/KPNX/images/e11fcc2c-073e-4be5-bad4-2142c1b92b23/e11fcc2c-073e-4be5-bad4-2142c1b92b23_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://www.gannett-cdn.com/presto/2020/10/28/NSTN/bcc67ab6-2a37-4a48-a380-5dbd588ecad8-NCWIL-102720-PG-PENCE32.JPG?auto=webp&crop=1999,1125,x0,y135&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1403,13 +1446,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f",
-      "publishedDateTime": "2020-10-28T22:16:00-07:00",
+      "ampWebUrl": "https://amp.starnewsonline.com/amp/6047599002",
+      "cdnAmpWebUrl": "https://amp-starnewsonline-com.cdn.ampproject.org/c/s/amp.starnewsonline.com/amp/6047599002",
+      "publishedDateTime": "2020-10-29T05:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
+        "name": "Star-News",
+        "domain": "starnewsonline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1421,50 +1464,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
-      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
-      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Joe Biden"
       ]
     }
   ],

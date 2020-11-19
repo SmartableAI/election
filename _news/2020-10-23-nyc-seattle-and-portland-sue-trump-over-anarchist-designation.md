@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/2
 webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484"
 type: article
 quality: 115
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: Politico
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump gloats about US Marshals' killing of Portland 'antifa' suspect"
-    excerpt: "President Donald Trump on Thursday gloated over the September killing of Portland, Oregon, murder suspect Michael Reinoehl by law enforcement officers who had been deputized as US Marshals.\n    \n"
-    publishedDateTime: 2020-10-16T03:26:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "NYC, Seattle and Portland to sue Trump over 'anarchist' designation"
     excerpt: "New York and its fellow cities branded anarchist jurisdictions by the Trump administration will file a lawsuit Thursday challenging a move to pull their federal funds. The Justice Department last month slapped the label on New York,"
     publishedDateTime: 2020-10-22T17:34:00Z

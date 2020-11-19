@@ -47,21 +47,37 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "A 26-year-old man has been accused of stealing a bulldozer from a Florida construction site, driving it into a neighborhood and knocking down campaign signs for Democratic presidential nominee Joe Biden, according to authorities and homeowners."
-    publishedDateTime: 2020-10-26T18:03:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5liMovvhVCM/florida-man-stole-bulldozer-ran-down-biden-signs"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-man-stole-bulldozer-ran-down-biden-signs.amp"
+  - title: "Coffee Bean Caucus that predicted Hillary Clinton victory backs Biden"
+    excerpt: "The Iowa diner known as Hamburg Inn No. 2 first made its way onto the national political map when Ronald Reagan, one of the most popular presidents of his era, stopped there on a post-White House speaking jaunt."
+    publishedDateTime: 2020-10-20T19:27:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9vxa8M1fEng/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f04fe45e-87a1-475d-a66b-295fbe3e130c/c7912994-fd52-4144-aeca-86b794a1b61b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/20201016_093151-e1603217428414.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Laptop connected to Hunter Biden linked to FBI money laundering probe"
+    excerpt: "The FBI’s subpoena of a laptop and hard drive purportedly belonging to Hunter Biden came in connection with a money laundering investigation in late 2019, according to documents obtained by Fox News and verified by multiple federal law enforcement officials who reviewed them. "
+    publishedDateTime: 2020-10-22T01:08:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUeMnEB3iH4/laptop-hunter-biden-linked-fbi-money-laundering-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "AOC claims young voters will choose Biden because they can influence him more easily"
     excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., said that young Americans will vote for Democratic presidential nominee Joe Biden, not because they think he is “their favorite person” but because they believe they can more easily sway him to act on behalf of their interests."
@@ -78,6 +94,49 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86013dd9-61fb-4c71-84ef-02bc3da60248/f1bf3308-3ad3-485e-9fa1-66cba83206e8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sources tell Fox News FBI has possession of purported Hunter Biden laptop"
+    excerpt: ""
+    publishedDateTime: 2020-10-20T22:48:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L3kraosJ3u0/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+  - title: "Tucker: American power centers align to get Joe Biden elected"
+    excerpt: "Kamala Harris 22 years younger than Joe Biden is. So if Joe Biden wins next month, at some point, possibly sooner than we expect, Kamala Harris will control the White House, the Federal government. And that is a concern because very few people in the Democratic Party,"
+    publishedDateTime: 2020-10-24T12:32:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-american-power-centers-align-to-get-joe-biden-elected.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59de329c-bbe9-486e-868c-2cf2fbcebbac/7b6e4a68-63c7-43d2-9e9d-23ca176bc0de/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI holding laptop allegedly containing Hunter Biden business emails: officials"
+    excerpt: "FBI in possession of Hunter Biden's purported laptop, sources say The FBI is in possession of the laptop purportedly belonging to Hunter Biden which allegedly contained emails revealing details of his foreign business dealings,"
+    publishedDateTime: 2020-10-21T09:21:00Z
+    webUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials"
+    ampWebUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Joe-Hunter-Biden-FBI-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
     excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"

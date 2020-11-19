@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.desmoinesregister.com/amp/6062552002"
 cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6062552002"
 type: article
 quality: 89
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://dailyiowan.com/wp-content/uploads/2020/10/102920-Pence-KG018-900x600.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in Des Moines, IA"
+    excerpt: "Vice President Mike Pence is in Des Moines today, holidng a \"Make-America-Great-Again\" Rally for President Trump's reelection campaign. KTIV App Users: To watch the rally on KTIV.com, click here. The rally takes place at the Des Moines International Airport and is just two days after President Donald Trump's campaign event in Omaha,"
+    publishedDateTime: 2020-10-29T19:36:00Z
+    webUrl: "https://ktiv.com/2020/10/29/watch-live-vice-president-mike-pence-holds-campaign-event-in-des-moines-ia/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 52
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/10/Pence-in-Carter-Lake-IA.jpg"
+        width: 720
+        height: 405
         isCached: true
   - title: "Vice President Mike Pence holds rally for about 300 at Erie International Airport"
     excerpt: "See video of Vice President Mike Pence, who held a rally for about 300 at North Coast Air section at Erie International Airport in Millcreek Township."

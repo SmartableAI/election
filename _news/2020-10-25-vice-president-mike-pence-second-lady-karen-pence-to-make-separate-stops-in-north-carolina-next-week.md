@@ -27,30 +27,101 @@ images:
     isCached: true
 
 related:
-  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
-    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
-    publishedDateTime: 2020-10-23T20:52:00Z
-    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
-    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
-    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+  - title: "Jill Biden, Mike Pence to make stops in Detroit, Pontiac this week"
+    excerpt: "More:President Trump in Michigan: Joe Biden is lost to 'sick' liberals Also in Michigan election tours, Vice President Mike Pence is scheduled to hit Pontiac on Thursday and Ivanka Trump and Pete Buttigeig are in the Grand Rapids area today. Trump is ..."
+    publishedDateTime: 2020-10-19T20:24:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/19/jill-biden-mike-pence-detroit-pontiac-michigan/3710604001/"
+    ampWebUrl: "https://amp.freep.com/amp/3710604001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3710604001"
     type: article
     provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 70
-  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
-    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
-    publishedDateTime: 2020-10-20T14:27:00Z
-    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 55
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://www.gannett-cdn.com/-mm-/05208a420be8c489fe9ef8bb2fd732a59d2a9bf9/c=0-98-1920-1183/local/-/media/2015/09/09/DetroitFreePress/DetroitFreePress/635774172406625329-obama-09.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Vice President Mike Pence to hold rally in Portsmouth"
+    excerpt: "Less than two weeks before the election, Vice President Mike Pence will visit the city on Wednesday for an afternoon rally at Port City"
+    publishedDateTime: 2020-10-19T14:40:00Z
+    webUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth"
+    ampWebUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201019&Category=NEWS&ArtNo=201019599&Ref=AR"
+        width: 2000
+        height: 1694
+        isCached: true
+  - title: "Vice President Pence to visit Portsmouth this week"
+    excerpt: "Vice President Mike Pence is scheduled to return to New Hampshire for a campaign event. Sources said Pence will be in Portsmouth for the event, but exact details of the visit have not been released. President Donald Trump’s son Eric Trump is scheduled be in Manchester on Monday for an event at the DoubleTree Hotel."
+    publishedDateTime: 2020-10-19T03:08:00Z
+    webUrl: "https://www.wmur.com/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-in-laconia-922-1600804976.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence to campaign in Michigan again this week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
+    publishedDateTime: 2020-10-21T02:14:00Z
+    webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
+    images:
+      - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
+    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
+    publishedDateTime: 2020-10-21T21:40:00Z
+    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
+    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
+    excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
+    publishedDateTime: 2020-10-22T22:33:00Z
+    webUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/"
+    ampWebUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
+    images:
+      - url: "https://www.clickondetroit.com/resizer/npY4eCLoZPl0ZNqZScty_Y3m7xY=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-22-2020/t_e146ea240b75447f91e717762a8c5a61_name_image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "HN6Ox5XZxKI75ziBBr9qYPuWl0u7wqVuk8KU/6HFT0PAboeGY2s00Yi9qdqU7iynoPhgSSVwEPHvxgT6tzHPEo0sesADBVKNnSvcDdMb5NETnW1PWaBSqo9ZvxKIXVj5xiIQoAYRxgjHb8M6QPX67piZpwtQVpzcaxdNPMDaTWkA43ZBT0D8uKe2LgXYEuCYs+Yb70jrTY9DuptKqsmp78/couHzS228UTYeYZBPYXI5LCU9x94YgeHfp2nOmIU7aA4rkE7QQyjfN0H9Q8Fc+YAYtmB3Z9k2/vEJU4DoELdDfPklnfvAjg/1hYLnkERepz6hPW3i+JCX9YccTMaZJbYd/4iIn56W8fEBXHL3WTY=;aVL09GKgNrGfJAA+WnIing=="

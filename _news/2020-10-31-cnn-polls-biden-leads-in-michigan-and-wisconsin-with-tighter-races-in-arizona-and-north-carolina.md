@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stevie Wonder campaigns for Joe Biden in Michigan"
+    excerpt: "Stevie Wonder went back to his home state to support Joe Biden's presidential campaign, calling the election “the most important one in my lifetime.”"
+    publishedDateTime: 2020-11-02T09:40:00Z
+    webUrl: "https://www.nbcnews.com/video/stevie-wonder-campaigns-for-joe-biden-in-michigan-95135301847"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo95135301847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95135301847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/8be22.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uywH2l/kZ2AWyC2noL6mJhx/ED9ulEj9VX/p4Vn10N+0LVW6QAfDEVn+XPvjV2BiCVrMclyWuwNURKM5jRj9s/uvssawtapSJI7bTPf+nJwNfGPK3BDzo9bS0rUh0jR4gPF+blGihGxX7gwuTw6PJ4bK99gmEY9W0UBvWhTBNZvjtqnDCN2WqzN2ZRVlPF4IK/PgwR1eppWkJ9RvpcPc/B3c1H2UiAzer+N97h+XcLY58A58v9esbGN35tdp0smAcn+bpWvIl91HRbzVgMopDUhlwrvfTxVEDLnpXo4NtYRDPVusexoLCqAOjfweMkrBIkmV6OXSPWA+rPXmmWkBjAdpOghXih3T+bDIqLQfAMM=;0+ywkH8f+B9cMl/b0iEksA=="
 ---

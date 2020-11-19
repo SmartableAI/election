@@ -79,22 +79,6 @@ related:
         width: 733
         height: 545
         isCached: true
-  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
-    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
-    publishedDateTime: 2020-10-16T19:05:00Z
-    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
-    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
     excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
     publishedDateTime: 2020-11-14T13:02:00Z

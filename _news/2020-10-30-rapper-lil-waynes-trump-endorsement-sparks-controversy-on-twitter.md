@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "Exxon Mobil, after Trump's fundraising remarks, says its CEO and Trump had no phone call"
+    excerpt: "Exxon Mobil Corp said there had been no phone call between its chief executive, Darren Woods, and President Donald Trump after the president invoked the company's name at a rally in Arizona on Monday when he said he could raise more money than his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T02:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-exxon-mobil/exxon-mobil-after-trumps-fundraising-remarks-says-its-ceo-and-trump-had-no-phone-call-idUSKBN2750CN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750CN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750CN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538108580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J06F"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Presidential historian Meacham describes Trump supporters as 'anguished' white guys with 'a lizard brain'"
     excerpt: "Presidential historian Jon Meacham referred to President Trump's supporters as \"anguished, nervous\" white men with a \"lizard brain\" during post-debate coverage of the second and final showdown between"
     publishedDateTime: 2020-10-23T15:11:00Z

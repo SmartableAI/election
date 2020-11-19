@@ -58,21 +58,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Twitter masking nearly 20 Trump election tweets after latest round of labeling"
-    excerpt: "Twitter is hiding five new Saturday tweets from President Trump, which it says violate the platform's civic integrity policy."
-    publishedDateTime: 2020-11-07T21:21:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tIxjdeY_4Jo/twitter-masking-new-trump-tweets"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-masking-new-trump-tweets.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-masking-new-trump-tweets.amp"
+  - title: "Rand Paul: Trump's election performance likely to determine who holds Senate"
+    excerpt: "Paul predicts Iowa, NC Senate races 'definitely go the way the president goes'"
+    publishedDateTime: 2020-11-02T23:10:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xU0pBgLS-n8/rand-paul-election-2020-trump-senate-races-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-election-2020-trump-senate-races-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 186
+    quality: 187
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Capture-5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3801dba0-03c3-4ccd-ad53-ea6f9494bada/ede4d4b7-fe76-4b53-b11b-e60c86c1df65/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump rips absentee ballot extensions, says election 'should end on November 3rd'"
     excerpt: "President Trump on Friday panned decisions made by some courts that are allowing mail-in or absentee ballots to be counted if they are received by election authorities after Nov. 3, calling the rulings \"CRAZY and so bad for our Country.\""
@@ -87,38 +87,6 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania AG hit for predicting Trump will lose election before votes even counted"
-    excerpt: "Pennsylvania’s Attorney General Josh Shapiro, a Democrat, found himself in hot water on social media after claiming that President Trump has lost the ability to win the battleground state, just over 24 hours before the polls close on Election Day."
-    publishedDateTime: 2020-11-02T23:34:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k1HjNJjClfY/pennsylvanias-democratic-trump-lose-before-votes-counted"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvanias-democratic-trump-lose-before-votes-counted.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59bbe749-e1d8-4de9-83a4-f2c83d346777/55281509-77bb-4cec-ab55-b33f3f7a3135/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump plans to revive campaign-style rallies as he pursues legal challenges to election results"
-    excerpt: "President Trump is planning to bring back his large-scale rallies that were a hallmark of his presidential run, but these will be focused on his “ongoing litigation” as he challenges the results of last week’s election."
-    publishedDateTime: 2020-11-09T02:54:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pd2ODPKR4iA/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-revive-campaign-style-rallies-as-he-pursues-legal-challenges-to-election-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 178
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -234,22 +202,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign presses Georgia to hand count every ballot"
-    excerpt: "Republican Georgia Rep. Doug Collins is calling on his state to conduct a manual recount of the 2020 election, as President Trump and President-elect Joe Biden were roughly 0.2% apart as counting continued Tuesday morning."
-    publishedDateTime: 2020-11-10T15:28:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WM4ATI6UeL8/trump-campaign-georgia-hand-count-every-ballot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-georgia-hand-count-every-ballot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20311597153404-e1605021250668.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump’s comment at rally raises speculation about Fauci’s future at NIAID"
     excerpt: "President Trump suggested during a Florida rally early Monday that he may fire Dr. Anthony Fauci, the nation's top infectious disease expert, after the election."
     publishedDateTime: 2020-11-02T08:32:36Z
@@ -298,6 +250,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Allies Push Forward With Election Lawsuits"
+    excerpt: "Litigation filed by the Trump campaign and other Republicans has shown little prospect of turning the tide so far, and legal experts from both parties described the efforts as a last stand."
+    publishedDateTime: 2020-11-07T06:06:00Z
+    webUrl: "https://www.wsj.com/articles/trump-allies-push-forward-with-election-lawsuits-11604699544?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-push-forward-with-election-lawsuits-11604699544"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-256340/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Frustrated Trump Voters in Rural Georgia Look to Runoff Elections"
     excerpt: "In the small city of Nashville, Ga., many Trump supporters are angered and emboldened by the president’s apparent loss in their state. Engaging rural voters is critical for Republicans, and conservative political groups have ramped up their efforts to turn out these rural voters."
     publishedDateTime: 2020-11-17T20:17:00Z
@@ -327,54 +295,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Duval.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "What in the World if Trump Wins?"
-    excerpt: "In a second term, expect more chaotic, confident wheeling and dealing overseas."
-    publishedDateTime: 2020-10-26T22:00:00Z
-    webUrl: "https://www.wsj.com/articles/what-in-the-world-if-trump-wins-11603749240"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-in-the-world-if-trump-wins-11603749240"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-249650/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Supporters Vent Frustration in Arizona"
-    excerpt: "Backers of the president have organized rallies at election-administration centers in a few states, voicing skepticism that the 2020 vote is being administered fairly."
-    publishedDateTime: 2020-11-07T12:08:00Z
-    webUrl: "https://www.wsj.com/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-supporters-vent-frustration-in-arizona-11604750401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-256649/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump comes out on top in Montana, netting another three electoral votes"
-    excerpt: "Big Sky Country has delivered a big win for President Trump, as the incumbent has come out on top in Montana, according to NBC News. Trump will take home the state’s three electoral votes,"
-    publishedDateTime: 2020-11-04T06:28:00Z
-    webUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/"
-    ampWebUrl: "https://nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/04/trump-comes-out-on-top-in-montana-netting-another-three-electoral-votes/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Election_2020_Trump_21.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "In Trump Country, Supporters Are Steadfast, but His Personality, Pandemic Wear"
     excerpt: "Virginia’s Buchanan County went big for President Trump in 2016 and is expected to give him another win this year, but even his supporters feel some Trump fatigue after four years of controversy and a pandemic."
@@ -420,19 +340,28 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Trump Supporters Gather in Deep-Blue D.C."
-    excerpt: "A few dozen supporters of President Trump gathered at the foot of the Washington monument Saturday afternoon near a similarly sized band of people cheering the victory of Joe Biden. The Trump supporters waved campaign signs and chanted “four more years,"
-    publishedDateTime: 2020-11-08T04:36:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/Z8tg4tdS1mDKMIzomMiD"
+  - title: "Trump Back at Golf Course Sunday"
+    excerpt: "President Trump returned Sunday morning to his golf club in Sterling, Va. Mr. Trump arrived at Trump National Golf Club at 9:57 a.m. He also golfed Saturday, arriving just before the Associated Press called the race for Joe Biden."
+    publishedDateTime: 2020-11-08T20:26:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/5PLvEGpb57Jc98fhfCnk"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 115
+    quality: 95
+  - title: "A Vote for Trump Is a Vote for America"
+    excerpt: "I wrote that I would likely support Donald Trump because he was the only presidential candidate speaking for working-class Americans. I also viewed the contempt for Trump by the media and elite of both parties as contempt for his supporters as well."
+    publishedDateTime: 2020-10-25T19:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/25/a_vote_for_trump_is_a_vote_for_america_527426.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://images.wsj.net/im-256849?size=1.5"
-        width: 1280
-        height: 853
+      - url: "https://assets.realclear.com/images/52/525119_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Is the Show Finally Over for Donald Trump?"
     excerpt: "RealClearPolitics"

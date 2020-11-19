@@ -31,200 +31,196 @@ images:
     isCached: true
 
 related:
-  - title: "Whitmer tells Trump to stop focusing on her, start focusing on pandemic"
-    excerpt: "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic."
-    publishedDateTime: 2020-10-18T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
+  - title: "New Jersey judge throws out Trump campaign mail-in ballot lawsuit"
+    excerpt: "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  "
+    publishedDateTime: 2020-10-23T04:26:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Whitmer thanks FBI, blames Trump admin after kidnapping plot foiled"
-    excerpt: "Michigan Gov. Gretchen Whitmer blamed the Trump administration for rhetoric that she claimed led to a kidnapping plot against her, after the Trump campaign accused her of encouraging attempts on the president's life."
-    publishedDateTime: 2020-10-25T14:57:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xbc2uIw7wno/michigan-whitmer-fbi-trump-kidnapping-plot"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-whitmer-fbi-trump-kidnapping-plot.amp"
+  - title: "Anti-protesters attack 'Jews for Trump' vehicle convoy in New York City"
+    excerpt: "A “Jews For Trump” vehicle convoy was repeatedly attacked and heckled as it made its way through New York City Sunday morning to show its support of the president, video shows."
+    publishedDateTime: 2020-10-25T19:44:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PND8gQGleCM/anti-protesters-attack-jews-trump-vehicle-convoy-new-york"
+    ampWebUrl: "https://www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anti-protesters-attack-jews-trump-vehicle-convoy-new-york.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be47d82d-1098-4959-81fb-ebb7efcd8410/ff36284e-e18e-44e7-8537-27074370157a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64957c-f086-429b-be60-90d1939c0490/0f5ce448-efab-4db0-be44-9bc4a9b4079a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pollster Frank Luntz: If Trump defies polls again 'my profession is done'"
-    excerpt: "Republican pollster Frank Luntz told Fox News’ Bret Baier on Thursday night, that his \"profession is done\" if President Trump wins re-election come Nov. 3, and proves the national polls wrong yet again."
-    publishedDateTime: 2020-10-23T21:02:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCF-h7bsK_s/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
-    ampWebUrl: "https://www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+  - title: "AOC appears in Vanity Fair in outfits worth $14,000 to curse Trump out"
+    excerpt: "Freshman Democratic congresswoman Alexandria Ocasio Cortez wore thousands of dollars worth of outfits and jewelry for her spread in Vanity Fair magazine's December issue while attacking President Trump for not paying his taxes. "
+    publishedDateTime: 2020-10-29T00:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rIBCa9NSqM/aoc-vanity-fair-outfits-14000-curse-trump-out"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-vanity-fair-outfits-14000-curse-trump-out.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/10/23/990505083001_6204035840001_6204035992001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34f50180-ee67-479f-ae87-813eac9f7a29/38af5f53-6445-4c6c-add9-7556a2a2adc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
-    excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPNjwshtALo/government-sues-melania-trump-best-friend"
-    ampWebUrl: "https://www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
+  - title: "Trump campaign website briefly defaced by hackers making outlandish claims"
+    excerpt: "President Trump’s campaign website was briefly hacked Tuesday, according to reports."
+    publishedDateTime: 2020-10-28T07:08:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/koSNkPEs6Ec/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-website-briefly-defaced-by-hackers-making-outlandish-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ab45625-a326-4a1c-82c6-af5cd7f05f08/5467e445-6504-4c44-b26f-c96e16ddc911/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/beba87ae-315f-4d4f-af9c-349ea7c729e2/cfc957e4-d7a5-46c7-86eb-cab2922961e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Nodding lady' at Trump town hall accuses critics of targeting her employees"
-    excerpt: "\"Nodding lady\" Marya Joli says her employees have been receiving hate messages since her appearance on an NBC town hall."
-    publishedDateTime: 2020-10-21T12:52:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SBDgWZZ1Xfs/nodding-lady-trump-town-hall-hate-messages"
-    ampWebUrl: "https://www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/120832826_10157610663063365_1553076211698567708_n.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
-    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
-    publishedDateTime: 2020-10-16T02:40:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
-    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+  - title: "Tiffany Trump hitting campaign trail in NC, Michigan, other battleground states"
+    excerpt: "President Trump's youngest daughter, Tiffany Trump, will be campaigning for her father in four battleground states, North Carolina, Pennsylvania, Michigan and Minnesota, after keeping a low profile during the 2016 campaign."
+    publishedDateTime: 2020-10-26T13:00:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N8961wMi8CY/tiffany-trump-2020-campaign-trail-trump-daughter"
+    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-2020-campaign-trail-trump-daughter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297040355134.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Judge rejects DOJ attempt to replace Trump as defendant in E. Jean Carroll case"
+    excerpt: "A federal court ruled that the Justice Department cannot take President Trump's place as the defendant in a lawsuit filed by writer E. Jean Carroll, who sued for defamation over Trump's response to her allegations that he raped her in the 1990s."
+    publishedDateTime: 2020-10-27T14:05:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D5Y0Un7KFk8/judge-us-cant-replace-trump-e-jean-carroll-slander-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-us-cant-replace-trump-e-jean-carroll-slander-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a6dfdd4-d81f-4363-93de-7d261a7f9c73/2721936a-8943-4360-804a-30ba90618f18/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
-    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
-    publishedDateTime: 2020-10-25T21:33:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
+    excerpt: ""
+    publishedDateTime: 2020-10-21T00:46:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down"
+    excerpt: "Hay is for…campaign signs. At least on one Tennessee man’s property."
+    publishedDateTime: 2020-10-21T00:44:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump campaign ballot counting lawsuits: What to know"
+    excerpt: "The Trump campaign has filed multiple lawsuits in Pennsylvania, Michigan, Georgia and Nevada as the race remains increasingly tight -- seemingly in favor of a Democratic candidate Joe Biden win."
+    publishedDateTime: 2020-11-06T00:00:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfuLdrF-VMQ/trump-campaign-ballot-counting-lawsuits-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/trump-newsletter-xx.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
-    excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."
-    publishedDateTime: 2020-10-19T13:00:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DUUuYsTN_ww/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
+  - title: "Donald Trump may be the most pro-Jewish president ever"
+    excerpt: "This election, there is no subgroup for whom the stakes are higher than my Jewish co-religionists. That’s because, for starters, Donald Trump is quite possibly the most pro-Jewish president ever —"
+    publishedDateTime: 2020-10-22T12:20:00Z
+    webUrl: "https://nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/"
+    ampWebUrl: "https://nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Florida worker suspended for flying Trump flag from government truck"
-    excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
-    publishedDateTime: 2020-10-15T21:23:00Z
-    webUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag"
-    ampWebUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/10541711c.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "NYPD cop suspended for using loudspeaker to say 'Trump 2020' while on duty"
-    excerpt: "A New York police officer has reportedly been suspended without pay for using the department vehicle’s loudspeaker to proclaim his support for President Donald Trump’s 2020 campaign."
-    publishedDateTime: 2020-10-25T21:20:00Z
-    webUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty"
-    ampWebUrl: "https://www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nypd-cop-suspended-using-loudspeaker-trump-2020-on-duty.amp"
+  - title: "Justice Barrett May Inspire Pro-Life Votes for Trump"
+    excerpt: "Suburban women and religious voters like his judicial appointments, even if his character makes them leery of a second term."
+    publishedDateTime: 2020-10-29T23:00:00Z
+    webUrl: "https://www.wsj.com/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    ampWebUrl: "https://www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/justice-barrett-may-inspire-pro-life-votes-for-trump-11604011835"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/NYPD.jpg"
+      - url: "https://images.wsj.net/im-251976/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "'The Five' react to Trump challenging Dems to impeach him over Supreme Court pick"
-    excerpt: "The political collision course over the Supreme Court is going forward. President Trump set to announce his nominee on Saturday, and Senate Republicans say they have the numbers to hold a vote.  The partisan infighting is just getting started."
-    publishedDateTime: 2020-10-25T19:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick.amp"
+  - title: "Many on Wall Street Who Predicted a Trump Win in 2016 Aren’t So Sure Now"
+    excerpt: "In 2016, a small number of well-known investors and executives predicted that Donald Trump would win the presidential election. This year they aren’t quite so bold."
+    publishedDateTime: 2020-10-28T13:15:00Z
+    webUrl: "https://www.wsj.com/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    ampWebUrl: "https://www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/many-on-wall-street-who-predicted-a-trump-win-in-2016-arent-so-sure-now-11603890007"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e42e87e-93f1-4e1c-8ded-d69a5bd1bb32/38e3396b-54c0-4f94-b332-93fdfc80e55e/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-250339/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Trump teases stepping in if Republicans oppose multi-trillion dollar stimulus package"
-    excerpt: "President Trump hinted he might intervene if Republican senators don't support a second coronavirus stimulus package worth trillions of dollars, during an interview with Charles Benson of WTMJ4 Milwaukee on Saturday. "
-    publishedDateTime: 2020-10-18T20:49:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avJI_CYja3s/trump-threatens-action-if-gop-senators-oppose-coronavirus-stimulus"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-  - title: "Trump Says the Quiet Part Out Loud: He's Losing"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-18T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/17/trump_says_the_quiet_part_out_loud_hes_losing_526678.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "mYSsurTEIQ4HWH7D845LqECOqRcxWdz2eoTsNhlsfGsZNPNXTGNTCGIvV3YzLHT/+f0zAJ8gHO+GtLlNT8RWDLp0kVoVLNKi76NDyFonu3YIHEG8wUEXa+MeX7VrLCB06dmV4EV1ruDny8s5AHTDBknBWfmOsYxix0B5T9VnLAtAfGYheriDbyr1ZUIWyFJKsJraa7dYwH5F6CtTiUmcQAMLLU6zmpx0lBYhcJvVcyInO6srF2QtN8w0m/rlhli8xS5fm9ZXBHOSYw47Kyqs4xR9cpBHnbmgAvuKLz0zIxoJ5Si56XBbG89fm8EN5r3aP40NaSsFcHMA5Q2h0wr+awbHx0ku7ePZxcgud5s6fcY=;bUesLz23JC+t89psEdXnxw=="
 ---

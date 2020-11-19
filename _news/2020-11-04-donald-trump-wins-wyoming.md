@@ -55,38 +55,6 @@ related:
         width: 837
         height: 545
         isCached: true
-  - title: "Donald Trump triumphantly returns to Arizona to celebrate the 'end' of the pandemic"
-    excerpt: "Ignore the rising number of new COVID-19 cases. The rising hospitalizations. The deaths. IT'S OVER! (Or so the White House says.)"
-    publishedDateTime: 2020-10-28T20:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/28/trump-arizona-celebrate-end-pandemic/3759732001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3759732001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3759732001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Trump demolished the walls between politics and sports. He might not like the result."
-    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
-    publishedDateTime: 2020-11-02T20:35:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "For Trump, Conservative Catholics Are The New Evangelicals"
     excerpt: "Four years ago, white evangelicals rallied behind Donald Trump's presidential candidacy, and he reveled in their adulation. \"The evangelicals love me, and I love them,\" Trump said repeatedly on ..."
     publishedDateTime: 2020-10-26T05:00:00Z

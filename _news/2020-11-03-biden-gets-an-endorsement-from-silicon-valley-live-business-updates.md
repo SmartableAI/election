@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/11/02/business/us-economy-coronavi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/02/business/us-economy-coronavirus.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Biden Flips Wisconsin, Fueled by Support From Cities and Suburbs"
+    excerpt: "Rural voters continued to support President Trump, but some counties that swung far to the right in 2016 moved left in 2020."
+    publishedDateTime: 2020-11-05T06:31:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/05/us/wisconsin-election-battleground-state-counties.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/05/us/wisconsin-election-battleground-state-counties-promo-1604552575062/wisconsin-election-battleground-state-counties-promo-1604552575062-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "vrHKAqIemrvN7s3YRh0iMqh+74dNtrA7DWn+vJfXD2SCx9FVpIjF4nRboTEtMeNRfQeKnPw3AY8CAPmV/XMHNwkF0UuVkXFE+Jx3ZcoT/ELgndCiUWMe84SdsXPMScpLS1EG/DH2nYLU1J0e6UFmoxzSzl3R1ycUP7bFOL7iWOcFLuqXz2A4AVSlTJhb7DGfrAsua9bzwCWnllrylVsydfQuBsGydPQN2JDHc9FXZ9qDYf2b8jfIgaQ7Cd9fvAE6dG0EI0Pkj8ra/jVC1GqEdD7wknBzY6k5oRnsSkm/8GcoY7SG28UXct+3IzQ96a+5OMqUqccZZnaAnciHjcns7DAaf+HQzOpD+vgA/gx7IObiQ4qAuCh3L/bzrxgIkBOnkVD8JzwcDvXqqGYVFt5pdEve7l5GSxlavKsc/UyaTD2YDPmveImVZI/ecWjc8hv6zhDZJWpC5P7l+mODci/Fno6EAYA56+J71sxwizYb2NfzPdZvtnvAiwOsF+jWkocDM0l/nGGkKoiVMjx4Vu90hg==;fqAhxm2Tww+x+kKln6g01g=="
 ---

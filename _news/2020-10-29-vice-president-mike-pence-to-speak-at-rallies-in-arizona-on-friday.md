@@ -9,8 +9,8 @@ ampWebUrl: "https://www.12news.com/amp/article/news/politics/elections/vice-pres
 cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/elections/vice-president-mike-pence-to-speak-at-rallies-in-arizona-on-friday/75-3e68b8a0-18f0-4b87-b57b-0be2b16c2f4f"
 type: article
 quality: 75
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: KPNX
@@ -27,65 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams"
-    excerpt: "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters."
-    publishedDateTime: 2020-10-30T16:44:00Z
-    webUrl: "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams"
-    ampWebUrl: "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams"
+  - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
+    excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
+    publishedDateTime: 2020-10-23T17:14:00Z
+    webUrl: "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
+      name: WTVD
+      domain: abc11.com
     quality: 75
     images:
-      - url: "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984"
-        width: 911
-        height: 683
-        isCached: true
-  - title: "VP Mike Pence to visit Tucson, Flagstaff on Oct. 30"
-    excerpt: "Vice President Mike Pence will be making back-to-back stops in Flagstaff and Tucson on Friday, two days after President Trump visited Bullhead City and Goodyear to host \"Make America Great Again\" rallies."
-    publishedDateTime: 2020-10-29T12:50:00Z
-    webUrl: "https://www.fox10phoenix.com/video/865477"
-    ampWebUrl: "https://www.fox10phoenix.com/video/865477.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/865477.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 55
-  - title: "'I truly believe we are on the road to victory': Mike Pence"
-    excerpt: "US Vice President Mike Pence says, “I truly believe we are on the road to victory” and we will make America great again, again."
-    publishedDateTime: 2020-11-04T08:00:00Z
-    webUrl: "https://www.news.com.au/world/i-truly-believe-we-are-on-the-road-to-victory-mike-pence/video/d9599c5e10b5f0639701dc7cc54642cb"
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 55
-    images:
-      - url: "https://content.api.news/v3/images/bin/ea2ec3ab6f13b408dc79cb76b3dfe723"
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "VP Mike Pence to rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania, with a political rally planned for Friday afternoon at the Allegheny County Airport. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at the airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
+  - title: "VP Mike Pence to campaign in Greenville on Tuesday in rare pre-election SC rally"
+    excerpt: "Pence helped kick-off U.S. Sen. Lindsey Graham's reelection campaign a year and a half ago with rallies in Myrtle Beach and Greenville, and his return to the state could be"
+    publishedDateTime: 2020-10-25T01:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/vp-mike-pence-to-campaign-in-greenville-on-tuesday-in-rare-pre-election-sc-rally/article_cebcf6ce-165b-11eb-a502-abfe9d3680e0.html"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 34
-  - title: "VP Mike Pence to hold rally Friday at Allegheny County Airport in West Mifflin"
-    excerpt: "Vice President Mike Pence is stumping again in Western Pennsylvania at a political rally planned for Friday afternoon, campaign officials said. Pence is set to deliver remarks at a “Make America Great Again Victory” rally to be held at Lynx FBO hangar at Allegheny County Airport in West Mifflin,"
-    publishedDateTime: 2020-10-22T22:16:00Z
-    webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 65
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/f/da/fda94d6a-165c-11eb-bae7-7b6abc6ad9c9/5c9fafc8993dc.image.jpg?resize=840%2C630"
+        width: 840
+        height: 630
+        isCached: true
+  - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
+    excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-20T14:27:00Z
+    webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 31
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/1/a1/1a16f6e8-bf8d-5241-80bc-27d0396b55de/5f7b89c2e6f05.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Watch Now: 'I need you to be sure to vote,' Vice President Mike Pence tells 200 supporters at Greensboro rally on Tuesday"
+    excerpt: "A crowd of about 200 people chanted for “four more years” of President Donald Trump on Tuesday afternoon during a campaign rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-28T08:19:00Z
+    webUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.html"
+    ampWebUrl: "https://greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    cdnAmpWebUrl: "https://greensboro-com.cdn.ampproject.org/c/s/greensboro.com/news/local/watch-now-i-need-you-to-be-sure-to-vote-vice-president-mike-pence-tells/article_d542145a-1856-11eb-89c6-43f6047e48af.amp.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 50
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/3/2b/32bbaa04-189a-11eb-96fc-97e1fd38bd2a/5f9886a6215fe.image.jpg?resize=1024%2C713"
+        width: 1024
+        height: 713
+        isCached: true
 
 secured: "b2bs4pDB4gtdke724HPwWUhGrCpTjELH/8mV15WCvEOcFp4hpRmhptYahoIJ65caVJ56qJKC/woKjCD1XKqSoCCqjK/o2yjnuo1Ik7TDhFW+85ihetHX26A8CmnvNLDJF6AG3SnjC31lhuJPCiwPIUuWl5LSuX2aOIZPvMNq0WKUp3DcTAGw94i2mBjr9BFxwOhIM7T3dyCYXujzVxeHX2oT/jeftw8r6TGTgXKoZuRP8bHUCT+cGIRep+8lRMu3/iRED/gaqEBLfaSAJcvkIROq23GEQIi2SDHzS1BOryujKv0iZmmaZASQ3+Aui5/yqcHvXjQhEerRPUu87ekb2X0O7QS5y0h3cuKgeQW90m8=;jv9hQ3edKZEc2lTUzmACnw=="
 ---

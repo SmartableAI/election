@@ -43,19 +43,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
-    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
-    publishedDateTime: 2020-10-22T21:15:00Z
-    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+  - title: "VP Mike Pence visits North Carolina Friday for campaign event"
+    excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
+    publishedDateTime: 2020-10-18T22:48:00Z
+    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-set-visit-north-carolina-friday-campaign-event/KPCAU2WYX5F3BDFJGBHBWM3U54/"
     type: article
     provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 70
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
     images:
-      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
-        width: 625
-        height: 469
+      - url: "https://www.wsoctv.com/resizer/zV_4BOflb47XWP1H_6EqrAt_fCg=/1200x628/d1hfln2sfez66z.cloudfront.net/10-17-2020/t_40c20304e2c34bc0901d5473eb4c8f09_name_HD1__VP_Pence_in_NC__transfer.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
     excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."

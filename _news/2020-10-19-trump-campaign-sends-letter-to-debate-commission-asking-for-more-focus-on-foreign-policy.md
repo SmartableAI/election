@@ -31,81 +31,211 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
-    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
-    publishedDateTime: 2020-10-13T19:01:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+  - title: "Trump traveling to Arizona as Harris stumps in Florida"
+    excerpt: "With the November election just a little over two weeks away, President Trump and the campaign of Democratic rival Joe Biden are heading to key swing states on Monday to make a final appeal to voters."
+    publishedDateTime: 2020-10-19T11:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris reschedules Cleveland trip as Trump gains in Ohio polls"
+    excerpt: "President Trump’s campaign is also scheduled to make stops in Ohio this weekend."
+    publishedDateTime: 2020-10-22T21:19:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvRbNZtt_4o/kamala-harris-cleveland-trip-trump-gains-ohio-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Top pro-Trump super PAC takes aim at Biden in new $10M ad blitz"
+    excerpt: "EXCLUSIVE: A leading super PAC backing President Trump's re-election is amping up a new ad blitz with a $10 million infusion on Monday to run the TV commercial in seven crucial general election battleground states."
+    publishedDateTime: 2020-10-19T10:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sq9yULbLE_M/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cbb0118-df6e-4597-abdb-87f5f36bab9e/25a7b3ac-b9f9-44f7-9a1f-64a06c7df3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump to cast his ballot in Florida, braces for marathon weekend of rallies 10 days before election"
+    excerpt: "President Trump cast his ballot early in West Palm Beach, Fla., on Saturday. "
+    publishedDateTime: 2020-10-24T13:52:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ApTFqy08Gl8/trump-votes-early-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-votes-early-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-votes-early-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298046534268.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
-    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
-    publishedDateTime: 2020-10-10T08:32:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump makes grand entrance at Iowa campaign rally"
-    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
-    publishedDateTime: 2020-10-15T03:31:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+  - title: "NJ Attorney General is suing Trump administration over Tweet"
+    excerpt: "New Jersey Attorney General Gurbir Grewal is suing the Trump administration over claims the president made earlier this year on social media, regarding low-income housing and its connection to rises in crime. "
+    publishedDateTime: 2020-10-20T04:55:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KcbvdFF3xIU/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
-        width: 600
-        height: 332
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Ivanka Trump in Wisconsin touted father's pledge to return jobs to US"
-    excerpt: "Ivanka Trump made her second visit to Wisconsin in just two weeks in an effort to drum up support for her father in a battleground state that will prove crucial to this year's election outcome. "
-    publishedDateTime: 2020-10-21T01:03:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZ_JVUxUJVg/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-makes-second-visit-to-wisconsin-in-two-weeks-to-appeal-to-voters-in-battleground-state.amp"
+  - title: "Trump launches $55M ad blitz in final stretch"
+    excerpt: "President Trump's re-election campaign and the Republican National Committee (RNC) are carpeting the airwaves the final two weeks leading up to Election Day on Nov. 3 with a massive $55 million ad blitz that will run in the key battleground states that will decide the winner of the White House race."
+    publishedDateTime: 2020-10-20T06:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyYR3xwRuMQ/trump-launches-final-55-million-ad-blitz-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/791c6f0a-8505-4efb-bed7-8e4b4d281a93/f53a79c0-7494-41ab-848c-939f9a336fe6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293800513779.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump campaign rejects Taliban support for 2020 reelection"
-    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
-    publishedDateTime: 2020-10-11T15:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+  - title: "First lady Melania Trump back to traveling after coronavirus diagnosis"
+    excerpt: "First lady Melania Trump made her first public appearance since her coronavirus diagnosis on Thursday while traveling to Tennessee with President Trump for the final presidential debate."
+    publishedDateTime: 2020-10-22T19:14:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-TM3sBnacc/melania-trump-coronavirus-first-lady-debate-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/melania-donald-trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump to vote early in Florida this weekend"
+    excerpt: "Early voting in the Sunshine State kicked off to a record-breaking start this week."
+    publishedDateTime: 2020-10-22T21:23:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GuSh8BVW1gs/trump-vote-early-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vote-early-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vote-early-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e588b390-e18a-4922-b5ef-934a422f0ab6/3da60228-cd3e-4220-b890-76aedbf8ec74/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump high schooler sues Florida district for censoring support"
+    excerpt: "A pro-Trump high school student was issued a temporary restraining order after suing his school district that took issue with his elephant statue supporting President Trump."
+    publishedDateTime: 2020-10-24T17:08:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YAvPrWSLhPo/trump-florida-high-school-district-teen-vote-tyler-maxwell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-high-school-district-teen-vote-tyler-maxwell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign sues in Nevada to stop Vegas-area vote count"
+    excerpt: "The Trump campaign and Nevada Republicans asked a state judge on Friday to stop counting Las Vegas-area mail-in ballots as the president and his supporters continue to question the safety and validity of mail-in votes. "
+    publishedDateTime: 2020-10-25T01:42:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tLfkrv4aL0/trump-campaign-sues-nevada-vote-count"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sues-nevada-vote-count.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ac958ce0-57ba-4d05-ac83-25240a9d313b/bfa77b11-e55a-4bb2-b168-68da17b20bff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Melania Trump to travel to Pennsylvania in final stretch of campaign"
+    excerpt: "First lady Melania Trump is hitting the campaign trail this week, traveling to Pennsylvania on Tuesday to speak directly to voters before they cast their ballots in the final stretch before Election Day."
+    publishedDateTime: 2020-10-26T12:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pYXosr2zN_g/melania-trump-travel-pennsylvania-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-travel-pennsylvania-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
+    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T11:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Herschel Walker claps back at those trying to change his mind about casting Trump vote"
+    excerpt: "Former NFL running back Herschel Walker on Sunday addressed critics who have tried to change his mind regarding his plans to vote for President Donald Trump in the November Election."
+    publishedDateTime: 2020-10-25T21:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIt-BDgONOw/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-trying-to-change-his-mind-about-casting-trump-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -125,75 +255,155 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
-    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
-    publishedDateTime: 2020-10-10T15:30:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
+  - title: "Trump Urges Barr to Initiate Investigation into Joe Biden and Son"
+    excerpt: "The president’s request of the attorney general comes as he escalates his campaign to discredit his Democratic opponent two weeks before the election."
+    publishedDateTime: 2020-10-20T19:14:00Z
+    webUrl: "https://www.wsj.com/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
-        width: 2000
-        height: 1264
+      - url: "https://images.wsj.net/im-247269/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Sen. Tammy Baldwin demands Trump help Wisconsin fight COVID-19 surge"
-    excerpt: "Democratic Sen. Tammy Baldwin urged President Trump to send supplies to Wisconsin to tackle the COVID-19 crisis, citing six months of shortages."
-    publishedDateTime: 2020-10-17T17:54:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q2sbwRR4_vU/sen-tammy-baldwin-urges-trump-to-send-supplies-to-wisconsin-as-state-grapples-with-coronavirus-surge"
+  - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
+    excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"
+    publishedDateTime: 2020-10-19T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 139
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Tammy-Baldwin-REUTERS.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/519d1dce-d470-4ec6-8e31-2cc28ea5750b/3f026495-75f6-4585-a64c-271e52683b7a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
-    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
-    publishedDateTime: 2020-10-18T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html#!"
+  - title: "Lightning Will Have to Strike Twice for Trump to Win"
+    excerpt: "A repeat of 2016 would require widespread polling errors that again all work in the president’s favor."
+    publishedDateTime: 2020-10-20T23:24:00Z
+    webUrl: "https://www.wsj.com/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    ampWebUrl: "https://www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 61
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
+      - url: "https://images.wsj.net/im-247433/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Watch Live: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
-    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
-    publishedDateTime: 2020-10-17T23:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html"
+  - title: "'SNL' mocks final debate, voters whose 'entire personality is hating Donald Trump'"
+    excerpt: "Live\" satirized last week’s final presidential debate in this weekend's cold open by first making fun of the novel mute button that was introduced Thursday to keep the candidates from interrupting each other."
+    publishedDateTime: 2020-10-26T04:20:00Z
+    webUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snl-mocks-final-debate-voters-whose-entire-personality-is-hating-donald-trump.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 59
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
     images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12727fc9-d37d-42d9-aaeb-e92957f211ce/58127d0c-5a71-49ac-87da-d85ad71e947b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Donald Trump: I Think We'll Do Better Than 2016, We're Way Ahead Of Where We Were in 2016"
-    excerpt: "The president spoke to reporters Monday as he arrived in Arizona for a campaign event."
-    publishedDateTime: 2020-10-19T18:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/19/donald_trump_i_think_well_do_better_than_2016_were_way_ahead_of_where_we_were_in_2016.html"
+  - title: "ABC News reporter scolds Kamala Harris for speaking to 'Avengers' stars instead of press"
+    excerpt: "ABC News chief White House correspondent Jonathan Karl fired off a snarky tweet directed at vice presidential candidate Kamala Harris on Tuesday night after she held fundraiser with the cast of “The Avengers."
+    publishedDateTime: 2020-10-21T12:42:00Z
+    webUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers"
+    ampWebUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kamala-harris-Jonathan-Karl.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump Drops Legal Challenge in Arizona"
+    excerpt: "Attorneys for the Trump campaign said Friday they’re no longer seeking a court’s intervention into the presidential race in Arizona. The Trump campaign, along with the state and national Republican party,"
+    publishedDateTime: 2020-11-13T18:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/jU8pMZdnj6SyRqNBnYgl"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-259539/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris: Donald Trump Is A Racist, \"It All Speaks For Itself\""
+    excerpt: "Sen. Kamala Harris explained a \"pattern\" of behavior that she believes proves President Trump is a racist during an interview which aired Sunday on \"60 Minutes.\" NORAH O'DONNELL: Do you think the president is racist?"
+    publishedDateTime: 2020-10-26T14:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/26/kamala_harris_donald_trump_is_a_racist_it_all_speaks_for_itself.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 56
+    quality: 90
     images:
-      - url: "https://assets.realclear.com/images/52/524555.jpg"
+      - url: "https://assets.realclear.com/images/52/525187.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Kamala Harris hits back at Trump's 'female socialist' attack"
+    excerpt: "Democratic vice presidential nominee Kamala Harris scoffed at President Trump trying to reduce her to a \"female socialist.\""
+    publishedDateTime: 2020-10-24T23:15:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-hits-back-at-trumps-female-socialist-attack"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/31ab4e6/2147483647/strip/true/crop/2285x1200+0+61/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F47%2Fed%2Faf030a624923b1c46b4c65b1acc7%2Fap20298578010141.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris: More Than Fair To Say Trump Has \"Exhibited A Reckless Disregard For Human Life\""
+    excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a virtual campaign event with Milwaukee voters on Tuesday: \"Frankly, I think that it is more than fair to say that Donald Trump has exhibited a reckless disregard for human life."
+    publishedDateTime: 2020-10-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/20/kamala_harris_more_than_fair_to_say_trump_has_exhibited_a_reckless_disregard_for_human_life.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/524726.jpg"
+        width: 858
+        height: 642
+        isCached: true
+  - title: "Donald Trump Just Lost His Go-To Debate Move"
+    excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump."
+    publishedDateTime: 2020-10-20T18:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/20/donald_trump_just_lost_his_go-to_debate_move_526981.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524696_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "SG1uNCuMQipkic6lQ3tzpiup2HNN7LspwtVnM6w5d6lELN+IluhkEoYZA1/Xyug2I3LEK15STchfZmqC2rBWFobWpioPVu4gujnxRBZZ8Uh7LpX1NAS2FEwVMTq5ygzU1+nz5G485PVIe1RWGqpvZFqyL1i592RkpZD9pWn3KTvCHUYVCE4X7mK/GhKeDoA+fl9js3fo69aZLfPArc5XEFHEy0xqzTuMrXNFrknhiar1Pc66Esz9ZdCiB6GYsxXFBtuO1rTF4gC3UZZaP+fzSuh4b0pZIP0naqFC3aOrquPQ7bGW1lMDFv9RlJX6oSMwsdtT7gm9vxqEuc7oP17tTk/FIl/Lq0GqP092dBigcWk=;9YN8wGU9vNwP3Bmb7lMTmg=="

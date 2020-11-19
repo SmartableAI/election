@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: This one poll is giving Trump backers hope and Democrats anxiety "
+    excerpt: "Poll of the week: A new Des Moines Register/Selzer and Co. poll from Iowa likely voters has President Donald Trump leading Democratic presidential nominee Joe Biden by a 48% to 41% margin.\n    \n"
+    publishedDateTime: 2020-11-01T16:47:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9uGkKLUQXuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/iowa-poll-selzer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/iowa-poll-selzer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201030141258-03-biden-trump-election-night-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump focuses on Covid and slams Democrats for politicizing pandemic in campaign speech"
     excerpt: "First lady Melania Trump focused on the Covid-19 pandemic in her first solo campaign event of 2020 and blasted Democrats for allegedly politicizing the pandemic.\n    \n"
     publishedDateTime: 2020-10-27T21:47:37Z

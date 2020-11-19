@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/midwest-dems-urge-party-to-focus-on
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/midwest-dems-urge-party-to-focus-on-infrequent-black-voters-rather-than-white-voters-who-backed-trump/"
 type: article
 quality: 110
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,68 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Did Donald Trump deliver to voters with that last debate performance?"
+    excerpt: "In the second and final presidential debate, Americans witnessed a much less raucous, more coherent, and more policy-oriented and traditional discussion than the first debate That"
+    publishedDateTime: 2020-10-25T15:00:00Z
+    webUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance"
+    ampWebUrl: "https://thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522638-did-donald-trump-deliver-to-voters-with-that-last-debate-performance?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald3_10222020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump Tells Voters To Change Their Votes—But Only A Few States Allow That"
+    excerpt: "On Twitter, Trump claimed that searches for “can I change my vote” spiked following the last presidential debate."
+    publishedDateTime: 2020-10-28T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/27/trump-tells-voters-to-change-their-votes-but-only-a-few-states-allow-that/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 124
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9890ed25a04196a125a749%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3202%26cropY1%3D0%26cropY2%3D1802"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Forbes Estimates China Paid Trump At Least $5.4 Million Since He Took Office, Via Mysterious Trump Tower Lease"
+    excerpt: "Donald Trump maintained a stake in Trump Tower when he became president, and with it, a financial connection to the Chinese government."
+    publishedDateTime: 2020-10-24T01:19:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/10/23/forbes-estimates-china-paid-trump-at-least-54-million-since-he-took-office-via-mysterious-trump-tower-lease/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f92da59cdd9baa8c7aac7f4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Who Is Trump Debate Guest Tony Bobulinski?"
+    excerpt: "The man alleges he has proof of improper business connections between China and Biden, but will not release them or provide any information"
+    publishedDateTime: 2020-10-23T17:34:00Z
+    webUrl: "https://www.ibtimes.com/who-trump-debate-guest-tony-bobulinski-3068105"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "vZAguDOZwca49TScE9qP8kB7mvRPEgcajAOS6gAD9BfurD+ZoDC2zzoVo2N2ANv94USeiwlHsw65Yj/vXJ9Tkqn/VartAfgpxmHQ0n/LMeua/LtgQ2UqjmRRPnNOt1nFJduvEyq3ipWaqC/zaFFw7cdAbbmmiFDeCHMjvyxIsPp8GV/DZ3VJUb5EqwZZXBmjTezbp/aRUBNB4kPnxG4h8QKoFhgl8B+ngUJPtGbBDUy9boUycxLE7eVaCI6E4iIcTAEHvamsjSsv++ww7KkFOhtg9oAubC3zUwWTqDHfnJd4DAJwftblou+FS5DaSR1lb0zfqeq8Z3AoQMNIfZ/lYKS2nn2TeK9E1GV0xnSrKJZmmytIKiYVVplkEO8dd/k7BfwhE70AJT52yr1U70HLUyvSK5i7+PUedqe0AiiAvPcQYzYd43sJYJiXt3tME3YJY6gN1EIliVR52GYweuL+OPhs/2MyloJBdLAL/PEECH2tkjmQEOqLUHfT7DunABdl5W73zlfvSSzSmq/ayC3peg==;p8U621N4TkixhBT0et3+IA=="
 ---

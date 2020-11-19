@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Prayers ring out in Kamala Harris's ancestral village"
+    excerpt: "Prayers were held in Thulasendrapuram, India, the village where the Democratic vice presidential candidate’s maternal grandfather was born."
+    publishedDateTime: 2020-11-03T22:01:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/524316-prayers-ring-out-in-kamala-harriss-ancestral?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/gettyimages-1229432578_1.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "What are we supposed to call Kamala Harris' husband?"
     excerpt: "But as many in the nation celebrated Biden and Harris' projected win on Saturday, another question quickly arose: what the world will call her husband, who is expected to be the first male spouse of a vice president in U."
     publishedDateTime: 2020-11-07T19:51:00Z
@@ -60,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/07/51c0fd32-c75e-4bf5-a826-67be9934342c/thumbnail/1200x630/c39dfd54a8c3a2e0ab45b66f8ab752ec/gettyimages-1267250943.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President-elect Kamala Harris, a woman of many firsts"
+    excerpt: "The California senator continues to break down more barriers, as America's first female vice president, first Black vice president, and first Asian-American vice president"
+    publishedDateTime: 2020-11-09T16:04:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-vice-president-elect-woman-many-firsts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/09/a7256c56-07f0-4a20-b628-8e006a4e2e50/thumbnail/1200x630/e2e62ee1d6984562b8a5ac5798f86fa7/kamala-harris-1280-getty-1229519918.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -205,6 +237,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Black women and girls cry and cheer over a historic victory for Vice President-elect Kamala Harris"
+    excerpt: "\"It just gives us a sense of hope, a sense of 'You know what? We can do this,'\" one woman told Business Insider about Kamala Harris becoming vice president-elect."
+    publishedDateTime: 2020-11-07T22:00:00Z
+    webUrl: "https://www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-women-and-girls-react-to-kamala-harris-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fa714c2f7d1cb0019e3a66b?width=1200&format=jpeg"
+        width: 610
+        height: 305
+        isCached: true
   - title: "Vice President-Elect Kamala Harris Says She Stands on Shoulders Of All Women Who Fought For Right To Vote"
     excerpt: "Vice President-elect Kamala Harris said she stands on the shoulders of all the women who came before her to fight for women's right to vote on the day that she and President-elect Joe Biden celebrated their victory in the 2020 presidential election."
     publishedDateTime: 2020-11-08T01:06:00Z
@@ -235,6 +283,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kamala Harris speaks to reporters"
+    excerpt: "Watch \"Kamala Harris speaks to reporters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-03T20:28:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201103201045-kamala-harris-speaks-to-reporters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/03/story_07531918_1604434564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Village in India prays Kamala Harris' victory"
     excerpt: "A village in India that was home to the grandparents of Democratic vice presidential candidate Kamala Harris gathered Tuesday to pray for her ticket's win in the U.S. presidential election."
     publishedDateTime: 2020-11-03T20:50:00Z
@@ -263,6 +325,34 @@ related:
         width: 1400
         height: 786
         isCached: true
+  - title: "Kamala Harris to be vice president who graduated from HBCU"
+    excerpt: "Vice President-elect Kamala Harris is the first woman, person of color and graduate of an Historically Black College and University to be elected vice president. Harris graduated from Howard University in 1986."
+    publishedDateTime: 2020-11-09T00:23:00Z
+    webUrl: "https://www.cbsnews.com/video/vp-elect-kamala-harris-projected-win-is-changing-history/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/09/ab397486-f7db-4c19-8886-334111053b66/thumbnail/1200x630/db7e3bc6a388f189adaaf13c2233e0ff/cbsn-fusion-vp-elect-kamala-harris-projected-win-is-changing-history-thumbnail-583789-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President-elect Kamala Harris makes history with 2020 victory"
+    excerpt: "California senator Kamala Harris has made history by becoming vice president-elect. She is the first woman ever elected to the office, as well as the first Black and first Indian-American person to hold the title."
+    publishedDateTime: 2020-11-09T00:03:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-elect-kamala-harris-makes-history-with-2020-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/09/5a4c17f7-e0b1-4384-a9c7-7ea5c23838b9/thumbnail/1200x630/b1da3e2dc1ea0ec28db41af84946f013/1108-en-luciano-583757-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President of Alpha Kappa Alpha sorority on Kamala Harris' historic win"
     excerpt: "Kamala Harris' sorority sisters are celebrating as she prepares to make history as the first woman and first Black American to serve as vice president. Dr. Glenda Glover, the international president and CEO of Alpha Kappa Alpha,"
     publishedDateTime: 2020-11-12T15:56:00Z
@@ -274,6 +364,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/12/981887bc-d40b-43e5-8adf-141e9ec19a05/thumbnail/1200x630/70dc6503a04da406baf9deae10e21b0f/cbsn-fusion-kamala-harris-sorority-alpha-kappa-alpha-historic-win-thumbnail-586635-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President-elect Kamala Harris delivers remarks after projected victory"
+    excerpt: "Vice President-elect Kamala Harris spoke to the nation on Saturday after Joe Biden was projected to win the presidential election. Watch her remarks here."
+    publishedDateTime: 2020-11-08T03:35:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-elect-kamala-harris-delivers-remarks-after-projected-victory/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/08/cb8dc7fd-d795-44e1-a5df-0bb3a1c18b8c/thumbnail/1200x630/bfc6f410af2024cc02bfe44c9d614d7c/kamalaspeech-583378-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -382,6 +486,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/SJM-L-KAMALA-1104-1.jpg?w=1024&h=715"
         width: 1024
         height: 715
+        isCached: true
+  - title: "Kamala Harris poised to be influential vice president"
+    excerpt: "The vice presidency may be the most loosely defined job in American politics. But all indications point to Kamala Harris being a consequential second at the White House."
+    publishedDateTime: 2020-11-09T22:01:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-poised-to-be-influential-vice-15713767.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/64/20229416/3/375x250.jpg"
+        width: 327
+        height: 250
         isCached: true
   - title: "Kamala Harris win inspires women and girls nationwide"
     excerpt: "DETROIT (AP) — When Ashley Richardson-George’s 5-year-old daughter saw Vice President-elect Kamala Harris wearing a white suffragette suit during her prime-time victory speech on Saturday, she ran into her room and came back minutes later wearing a white dress and sweater."

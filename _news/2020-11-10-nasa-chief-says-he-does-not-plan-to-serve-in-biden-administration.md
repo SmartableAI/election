@@ -79,22 +79,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden transition hangs in limbo, awaiting GSA certification"
-    excerpt: "The Biden transition is hanging in limbo, awaiting the General Services Administration’s certification, which will give President-elect Joe Biden and his team the power to make decisions about the future of the federal government-- but the incoming administration is \"moving forward\" anyway, urging the"
-    publishedDateTime: 2020-11-10T19:46:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNjrYfCb_hc/biden-transition-in-limbo-awaiting-gsa-certification"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-in-limbo-awaiting-gsa-certification.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Warren credits Biden win to ‘most progressive economic’ platform ever"
     excerpt: "Joe Biden denied President Trump a second term in the White House last week in part because he ran on “the most progressive economic and racial justice platform” ever, a prominent Democrat wrote Wednesday."
     publishedDateTime: 2020-11-12T06:10:52Z
@@ -223,22 +207,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York"
-    excerpt: "New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up."
-    publishedDateTime: 2020-11-09T03:08:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6rfbHRDKI8/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave"
-    ampWebUrl: "https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2997629b-2b98-4b64-9e18-914a71bf9f87/39f3d7bb-e234-49df-b1ce-c519ede703ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "McEnany: Biden still has not denied substance of allegations about family's business ventures"
     excerpt: "White House press secretary Kayleigh McEnany emphasized the seriousness of emails provided by former Hunter Biden business partner Tony Bobulinski, noting that Joe Biden has yet to clearly refute their validity."
     publishedDateTime: 2020-10-29T14:07:17Z
@@ -316,20 +284,6 @@ related:
       - url: "https://images.wsj.net/im-251110/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Biden's Antifa Dismissal Alarms This Suburban Mom"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-11-03T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/03/bidens_antifa_dismissal_alarms_this_suburban_mom_528339.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/511648_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "UPS found Tucker Carlson's documents relating to Biden that vanished in system"
     excerpt: "After an 'urgent investigation,' UPS located a previously missing package sent to Tucker Carlson he said contained confidential documents about the Biden family."

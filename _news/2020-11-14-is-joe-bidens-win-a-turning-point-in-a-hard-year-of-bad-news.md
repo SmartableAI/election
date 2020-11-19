@@ -47,22 +47,6 @@ related:
         width: 990
         height: 545
         isCached: true
-  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
-    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
-    publishedDateTime: 2020-11-09T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
-        width: 828
-        height: 545
-        isCached: true
   - title: "Facing a divided U.S., Biden and aides plan for the 'hard work of governing'"
     excerpt: "Joe Biden and his advisers on Sunday were working on plans to tackle the crises facing a divided America, first and foremost the raging coronavirus pandemic, a day after the Democrat won enough states to clinch the U."
     publishedDateTime: 2020-11-09T02:15:00Z
@@ -111,6 +95,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden stops at childhood home, thanks voters in Scranton"
+    excerpt: "Democratic nominee Joe Biden stopped by his hometown of Scranton Tuesday, where he thanked voters before moving on to Philadelphia later in the day. Biden has made his working-class upbringing in Scranton a centerpiece of his campaign."
+    publishedDateTime: 2020-11-03T17:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/03/biden-stops-childhood-home-thanks-voters-scranton/6140568002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aa76382f-3127-4dd7-b743-de7fc9046a94_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden delivers remarks on Supreme Court case surrounding Affordable Care Act"
     excerpt: "President-elect Joe Biden speaks on Tuesday concerning Texas v. California, a challenge to the Affordable Care Act from Republican-led states and the Trump administration."
     publishedDateTime: 2020-11-10T19:29:00Z
@@ -124,6 +122,22 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-10-2020/t_c918236f66924754ab90a269d27a0255_name_biden_1109.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
+        isCached: true
+  - title: "Will Lizzo run through the streets naked? Only if Joe Biden wins"
+    excerpt: "Lizzo has not been holding back on the TikToks this election season. In one video posted Wednesday evening, the proud Joe Biden and Kamala Harris supporter weighed the possibility of President Donald Trump being voted out of office."
+    publishedDateTime: 2020-11-05T21:42:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/lizzo-election-2020-tiktok-15704664.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/lizzo-election-2020-tiktok-15704664.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/07/52/20216489/5/rawImage.png"
+        width: 873
+        height: 759
         isCached: true
   - title: "Joe Biden Speaks to Reporters in Wilmington, Delaware"
     excerpt: "Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete. Joe Biden urges patience as all the votes are counted in the 2020 presidential election and says he believes he will be elected when the count is complete."

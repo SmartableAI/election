@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence holds rally in eastern Maine"
-    excerpt: "Vice President Mike Pence spoke to supporters during a campaign rally at Dysart's in Hermon, Maine, on Oct. 19."
-    publishedDateTime: 2020-10-19T23:51:00Z
-    webUrl: "https://bangordailynews.com/2020/10/19/bdn-videos/mike-pence-holds-rally-in-eastern-maine/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Pence-B-LCO-1.jpg?fit=1024%2C625&#038;ssl=1"
-        width: 1024
-        height: 625
-        isCached: true
   - title: "Photo Gallery: Maine Republicans greet Mike Pence in Hermon"
     excerpt: "Speaking to a crowd of several hundred people gathered Monday in a Hermon truck yard, Vice President Mike Pence urged voters to \"go get it done\" with just 15 days remaining before Election Day."
     publishedDateTime: 2020-10-20T11:17:00Z
@@ -99,6 +85,15 @@ related:
         width: 2500
         height: 1425
         isCached: true
+  - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
+    excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
+    publishedDateTime: 2020-10-23T22:43:00Z
+    webUrl: "https://fox59.com/video/vice-president-mike-pence-rallies-bese-during-maga-rally-in-fort-wayne/5962269/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 35
 
 secured: "ehS4iFDoBNNq+29+zZKpLBXLchxdzfCbH+EinvbhdYg8tJZmvmQAWV0pWgNC8MAF5XRNJTQdfoFdAFuiHuJ77oZ34ApHjs49ESB5K2htPO6d2bJ4XKz7RqqlmDREmTcQw+/dpkGngFdw8y5E0D/lU3Uq4gyW/cXqJz0pFMAumq5ZeVVdQWoFKONqIf0hpF2q/z6u/iXQcGvy5t+GGj8W4sZ7bPoJyzh3HoKhtEZkyu1KxQGExr8aV90WSfNxbe9r6mfiMmRCu23tjsftkMw9UHBEY99Qo+pa0QI0vghpfRakAojaio/E9+GCqrrXbCNKKVF5yDilYywWR29DreEwsQu/achNtcUZrqLld+FRXiU=;1Uq3P6wQ26hZfM4oh78Z6Q=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump-friendly Newsmax seeks to cut into Fox’s viewership"
+    excerpt: "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest."
+    publishedDateTime: 2020-11-19T03:14:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_777c7cd132ab4359b233e894a7cdf40a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Newsmax hopes conservative anger at Fox News and a few Trump tweets can boost the much smaller network"
     excerpt: "Newsmax, which wants to draw viewers away from Fox News, has played up conservative criticisms of the network. An anchor said Fox is “jumping right into the tank for the left.”"
     publishedDateTime: 2020-11-10T21:40:00Z
