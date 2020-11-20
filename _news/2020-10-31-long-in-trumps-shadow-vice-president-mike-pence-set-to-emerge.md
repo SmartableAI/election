@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Explainer: Can Trump override the popular vote?"
+    excerpt: "President Donald Trump's latest strategy for attacking the legitimacy of the U.S. election appears to be focusing on a bold power play of persuading Republican state lawmakers to overturn the vote in states won by his Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-20T11:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-electoral-college-explai-idUSKBN28016Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28016Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28016Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882471&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump officials tout progress on border wall before election"
     excerpt: "Top Trump administration officials visited Texas five days before Election Day to announce they have nearly completed 400 miles of U.S.-Mexico border wall, trying to show progress on perhaps the president's best-known campaign promise four years ago."
     publishedDateTime: 2020-10-29T20:33:00Z

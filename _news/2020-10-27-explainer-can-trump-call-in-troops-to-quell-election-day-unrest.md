@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27C1DC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27C1DC"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9799710fd1b76a1a9b8a05%2F0x0.jpg%3FcropX1%3D16%26cropX2%3D6000%26cropY1%3D76%26cropY2%3D3441"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Explainer: Can Trump override the popular vote?"
+    excerpt: "President Donald Trump's latest strategy for attacking the legitimacy of the U.S. election appears to be focusing on a bold power play of persuading Republican state lawmakers to overturn the vote in states won by his Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-20T11:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-electoral-college-explai-idUSKBN28016Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28016Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28016Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882471&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JY"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump officials tout progress on border wall before election"
     excerpt: "Top Trump administration officials visited Texas five days before Election Day to announce they have nearly completed 400 miles of U.S.-Mexico border wall, trying to show progress on perhaps the president's best-known campaign promise four years ago."

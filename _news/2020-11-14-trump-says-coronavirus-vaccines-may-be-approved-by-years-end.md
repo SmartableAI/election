@@ -173,6 +173,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump mounts all-out assault on election result in Michigan"
+    excerpt: "President calls county officials in attempt to derail Biden victory and plans to fly Republican Michigan lawmakers to Washington"
+    publishedDateTime: 2020-11-19T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/trump-michigan-election-result-assault-challenge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb5f38c73d8f61cfde138203bde53d3ea79cb07c/0_7_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa6c55620d9571f51e996ad13e363ad"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
     excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
     publishedDateTime: 2020-11-14T10:35:00Z

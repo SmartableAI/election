@@ -431,20 +431,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
-    excerpt: "South Carolina Sen. Lindsey Graham, who has repeated unsubstantiated claims of widespread voter fraud in the 2020 presidential election, caused a minor stir Tuesday after he was filmed fist-bumping Vice President-elect Kamala Harris on the Senate floor ..."
-    publishedDateTime: 2020-11-19T01:05:00Z
-    webUrl: "https://www.chron.com/lavoz/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Kamala Harris: States will get help to fight coronavirus"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris held a press briefing in Wilmington, Delaware, on Thursday, saying governors will get the help they need to overcome the coronavirus pandemic."
     publishedDateTime: 2020-11-20T00:35:00Z

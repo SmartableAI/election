@@ -73,6 +73,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
+    excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
+    publishedDateTime: 2020-11-20T07:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28000U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28000U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28000U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541841031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ02V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
     excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
     publishedDateTime: 2020-11-19T10:07:00Z

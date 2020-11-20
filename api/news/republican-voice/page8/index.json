@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-22-trump-administration-pitches-second-term-policies-to-indian-country.md",
+      "title": "Trump administration pitches second-term policies to Indian Country",
+      "excerpt": "The Trump administration is promising the Native American community improved infrastructure, increased business opportunities, higher quality education, and better health care should he be elected for a second term.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gXh1GWG4AzI/trump-administration-releases-policy-pitch-to-indian-country",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gXh1GWG4AzI/trump-administration-releases-policy-pitch-to-indian-country",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/screen-shot-2018-06-22-at-7.04.19-am-10604.jpg",
+          "width": 948,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp",
+      "publishedDateTime": "2020-10-22T08:24:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
       "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
       "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
@@ -1580,62 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
       "publishedDateTime": "2020-10-19T15:00:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-woman-claims-facebook-took-down-her-account-after-posting-about-her-assault-at-pro-trump-rally-in-dc.md",
-      "title": "Woman claims Facebook took down her account after posting about her assault at pro-Trump rally in DC",
-      "excerpt": "A woman who marched at a pro-Trump rally in Washington, D.C., claims Facebook took down her entire account after she posted about being assaulted by Women’s March and Black Lives Matter activists.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20d0d0f3-f762-45c6-8015-044669faf65b/1549804e-c8c7-4081-9827-8306eff4d69b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
-      "publishedDateTime": "2020-10-19T14:48:55-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

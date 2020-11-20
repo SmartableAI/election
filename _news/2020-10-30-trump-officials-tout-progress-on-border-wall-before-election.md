@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Explainer: Can Trump override the popular vote?"
+    excerpt: "President Donald Trump's latest strategy for attacking the legitimacy of the U.S. election appears to be focusing on a bold power play of persuading Republican state lawmakers to overturn the vote in states won by his Democratic challenger Joe Biden."
+    publishedDateTime: 2020-11-20T11:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-electoral-college-explai-idUSKBN28016Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28016Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28016Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882471&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Trump Suggests He Will Fire Dr. Fauci After the Election"
     excerpt: "(OPA-LOCKA, Fla.) — President Donald Trump is suggesting that he will fire Dr. Anthony Fauci after Tuesday’s election, as his rift with the nation’s top infectious disease expert widens ..."
     publishedDateTime: 2020-11-01T00:00:00Z
