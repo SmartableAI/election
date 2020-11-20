@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X061"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X061"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 771
     height: 545
     isCached: true
+
+related:
+  - title: "Trump admin cementing legacy with Israeli settlement visit, Yemen and Iran sanctions"
+    excerpt: "Secretary of State Mike Pompeo is pushing to cement a foreign policy legacy for an administration in its final days."
+    publishedDateTime: 2020-11-20T04:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-admin-cementing-legacy-israeli-settlement-visit-yemen/story?id=74253562"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-admin-cementing-legacy-israeli-settlement-visit-yemen/story?id=74253562"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-admin-cementing-legacy-israeli-settlement-visit-yemen/story?id=74253562"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/secretary-of-state-mike-pompeo-israel-istanbul-03-gty-llr-201118_1605725887675_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "jVWxYrkvWX/UHIVMP2h0uSSkLPN1NVTHicfE74iXJTP0eNuXgNMtB+XKbKDvmssT4M75+j0j1m7+nvx5dznpJioexTiK0wmA/aclrIM7xYYBVegij2wkuTMKTl+FueLCb3kDaHJTnGcFnuZ3Dge33YvaMg1Y2q5pUGSsoQNuCF8I+2rsApTgSsPvzabMun77mJ6wL1mHRBJadyl4JDkG5z1cD8tJZm4cOwYD9DKT/Y4GFgkJd6TcPXgzT4jOG+YU5WIp9VJXp1A0UijlY+y/pusXlspQ3L09VgrZ00i0HOFXjYWxq4rvEkluJmB2u9D/Me1jfN1wtuIZppK40e3VXu6RmZNGGhCEyQoA4VCU/sI=;BySJBjwkkcgynZSX4X6lTQ=="
 ---

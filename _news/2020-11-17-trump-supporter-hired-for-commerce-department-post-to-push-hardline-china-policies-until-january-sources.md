@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Criminal probe, legal fights await Trump after White House"
+    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
+    publishedDateTime: 2020-11-20T06:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
     excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
     publishedDateTime: 2020-11-14T00:21:00Z
@@ -158,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dxg4i35qRa3ECU8Bnikgha17UzkkaN1N4fIWnkI3HGXNqbCJ5rkWi4jRNfizN10L6yGnwKxzyqVaJMpcGHUNyCl7vyGGeFSNayChZw+pLh2vpKF3EO5DPzwIKpig7IgGMaW6F/V+B0Pivi/SlzkYoWx/YdQtVfPChsCfM56PHlzEc/oo9m1DPcgDpzmi9QNH7AFJ/RlGGzRlGNEdQ6p4EVhamXuNTCGGL8J/86VJmhVLbvYI/YShbqAclLycYi8lz7nfQK/dvTodL3vwNYLSfe0CBdeVJw+QAStu/Z/V4Ao6QKF6hrvxvlgGOtdJcm/ljhuyL/ZhnmFduIZulkzsX9h4lnMvf9rrBXpCdYKkYW8=;E9bNDca3MpoVMuZQ3U9O/Q=="

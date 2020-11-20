@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden names former Alito clerk to top White House job"
+    excerpt: "Dana Remus, who most recently served as general counsel to the Biden campaign, will become counsel to the president in the new administration."
+    publishedDateTime: 2020-11-20T08:39:00Z
+    webUrl: "https://www.politico.com/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d7/61/6bd152df47cabd530cbca1cab477/gettyimages-1284977655-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
     excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
     publishedDateTime: 2020-11-19T23:24:00Z

@@ -133,6 +133,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
+    excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
+    publishedDateTime: 2020-11-20T05:24:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_99e3068fa2664376aa979d6600c94874_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
     excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
     publishedDateTime: 2020-11-13T20:16:00Z
@@ -466,6 +482,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "hOyGzEp7GlZuGp4h/HP4SEIREyVYq/vtZUrID1ECtChsXuIdQudErty2OAl+1VFRkBhEMDFi4x+/77W+VxXKStS1bfuMJP56bFDxP/Uyn76Y3eqP8OoBo7rTSHJFL5sh+i4DGFnMnS+/VMvMxZxw3CRK0FRWxxdTQvhcV6/1ewKU0J+J4GE0Rt9jPfQeIlJ2rtj19fqEL2Upzj4GutRpfh3c3vSN87OsIFA438S2tdpBQlH6mVwdqlrKLmKpFX1XsBRjq+CS34Cd2CNEH3l5DaLsvuY3h+kJqXyPLPy2/z6ocoo87XBFOJvqufH6HVp3zK0LLoWBsC3p270fYhBRxYUbcdLWYoDQX9QtZYICqu0=;m5/fv5tUcFrNvVfM8rPD3A=="
+secured: "M++EgNb4UimrcD/0qNAwWTVJF6TLFWQL58N/Q5Lg7iIY5Wm3Gqr4v9WgQY2AxcXIKgU8SlviEX/+/8szgWB13CSw2FdVoj4k1sFaDqKqvaRsoZrenFclFfgtzKR5/9E704X3vuMLyQZiD/2ZrKK2PCqWc7efAM8ucC3G96d8lPgpeilCh2Dt3xyPDo1RTmmlxu745UCC/+62L9VB3lBxx98wvQbZfBhFY+Ep/yXWkTF8m5fnKfCjuM8nlJLO4wovxdznnqjjSCN/h2G+LSd6gtHkjUNATHqHrZZJ6M91iEQPjmZd93oqp82zIsFbzBs/D/UwNNt4w+DPd3AHE/Zu8dRFmhoNoDceyLzAC+nP2QQ=;wsYm/syhN2FjSzYPpn49bQ=="
 ---
 

@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump targets Michigan as Biden remains winner in Georgia – live updates"
+    excerpt: "President’s legal efforts against election result continue as US records highest every daily Covid case rise"
+    publishedDateTime: 2020-11-20T10:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb78f398f081d2fbd0dadd2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/29a4e4bd1daecef4294e20fa128cc630dd8cd4f1/0_266_5017_3012/master/5017.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22a3bed55fd07aa1d42446132f5f062f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
     excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
     publishedDateTime: 2020-11-18T15:29:00Z
@@ -220,6 +236,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump uses power of presidency to try to overturn the election and stay in office"
+    excerpt: "After courts rejected the Trump campaign’s baseless allegations of widespread voter fraud, the president is now trying to remain in power with a wholesale assault on the integrity of the vote."
+    publishedDateTime: 2020-11-20T06:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-uses-power-of-presidency-to-try-to-overturn-the-election-and-stay-in-office/2020/11/19/bc89caa6-2a9f-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-uses-power-of-presidency-to-try-to-overturn-the-election-and-stay-in-office/2020/11/19/bc89caa6-2a9f-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-uses-power-of-presidency-to-try-to-overturn-the-election-and-stay-in-office/2020/11/19/bc89caa6-2a9f-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IU2FC3RKTMI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
     excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."

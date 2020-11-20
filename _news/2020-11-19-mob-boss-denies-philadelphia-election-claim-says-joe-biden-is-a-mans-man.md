@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mob-boss-denies-philadelphia-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mob-boss-denies-philadelphia-election-joe-biden-mans-man.amp"
 type: article
 quality: 187
-heat: 387
+heat: 407
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden turns 78, will be oldest US president"
+    excerpt: "President-elect Joe Biden turned 78 on Friday. In exactly two months, he'll take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on racial injustice."
+    publishedDateTime: 2020-11-20T09:48:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MFaSevIpZo8/biden-turns-78-will-be-oldest-us-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321746591594.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "House leaders urge Democrats not to join team Biden to maintain majority"
     excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."

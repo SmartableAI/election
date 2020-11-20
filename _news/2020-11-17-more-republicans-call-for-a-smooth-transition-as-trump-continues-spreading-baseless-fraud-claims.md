@@ -766,6 +766,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Administration, in Late Push, Moves to Sell Oil Rights in Arctic Refuge"
+    excerpt: "The lease sales could occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."
+    publishedDateTime: 2020-11-16T17:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/16/climate/trump-oil-drilling-alaska.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/16/science/16CLI-ANWR1/16CLI-ANWR1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Could State Legislatures Pick Their Own Electors to Vote for Trump? Not Likely"
     excerpt: "Some Trump allies have suggested that Republican lawmakers should override the will of voters who elected Joe Biden the next president."
     publishedDateTime: 2020-11-13T17:35:00Z
@@ -781,6 +797,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Judge orders Trump administration to stop expelling children who cross border alone"
+    excerpt: "This policy was sending thousands of young children back to danger without any hearing,” said ACLU attorney Lee Gelernt, who said it was \"gratuitously cruel and unlawful.”"
+    publishedDateTime: 2020-11-20T10:23:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/judge-orders-trump-admin-stop-expelling-children-who-cross-border-n1248146"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248146"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248146"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_09/2473281/180621-tornillo-immigrant-children-se-559p_7ed2f13be9bd4799338a125997edd288.jpg"
+        width: 1856
+        height: 1237
         isCached: true
   - title: "Even in Defeat, Trump Found New Voters Across the U.S."
     excerpt: "Though turnout was explosive for both candidates, President Trump found 9.9 million new supporters across the country, allowing him to expand his base."

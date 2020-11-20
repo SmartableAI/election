@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Criminal probe, legal fights await Trump after White House"
+    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
+    publishedDateTime: 2020-11-20T06:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
     excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
     publishedDateTime: 2020-11-17T04:41:00Z
@@ -158,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "OVxmyfr7+3aUgvHQoKHyJ8UcdqghbulAgcisZy7vUOcjK8d4czJmSkIqcCSl+TnqkTe0fYetIL13++0V6a+bq13aIHZXi4VNKO4V0Wu2Guo76k9vtKbt2IDKNeJUFdp4vDeahAqbxNaPYIg9Blp0WL6+CEA69BAw/aK4sW4RnIiDgoFYgqlvF/+2RqzGCTR3MvsAiH6yxYIxbABmykeq44GBAlCMJyIkox4/I/w8dEZWz+rgegOKqNKrmMPNUWhljLF3zhwdvImfAdBJa71Ch9h7wi0Bez0Dt6jhxoaop9btOeGDLRZ5veY4X+0Yh/WR5kE52keCwnrh0uJC8/FnKISZ+Tm94GEeN5k/D59NkAZtjwlh+NiMwFScH5XkVYndwGDmEChwA+4JtRkzacWGiBucH+4u7KJD3jDWMAjtOaD1HeqpZxiZgwcSohMzuLIfBEPSnHfmCpHNeW0AhqU9vG6zHE4YJ2BORQCMpw5BwAHMLybMRMn1u278QTA/MTtiKqvkPHGAdXOWc82hvU25yQ==;FHNohd5Q7/m4UhbmqRdzrA=="

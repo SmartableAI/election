@@ -2,9 +2,9 @@
 category: news
 title: "Biden set to meet Friday with top Democratic leaders in Congress"
 excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
-publishedDateTime: 2020-11-19T21:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-biden-congress-idUSKBN27Z32Z"
-webUrl: "https://www.reuters.com/article/us-usa-election-biden-congress-idUSKBN27Z32Z"
+publishedDateTime: 2020-11-20T02:20:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
 type: article
@@ -187,6 +187,6 @@ related:
         height: 600
         isCached: true
 
-secured: "zgY+yKbyOjmh2444nVSOkgySu0hSAoSERFyUuaO6f4xCKMomWmg5v/hbdYl02ALJCEqHknkEj+yHrw0f0aFb54i0NyzZMohbA3y4oBbxudAsY/+ZxuZjwSOgyXlVpTM2TR8zZVjod3R1FL/peKn1wTHZyHb8GI8L1orqW6xD5PJlyxdUlXQ37E71JuahWvfoMUQ37fH1kxcjwg8LLc0TZSq+eFZwV4VbD8/5rI0yMfG9dHmw47oCcVsarPIasn9Tlba7ROHjICeoPplew4S6/QvqpSzhmysPWqyCf94qOnjTSzA1y5EipcWhmmVQIRfiMgV3WcyVL2TECCPGsAFxeevOsDXLR/dBPIYXfe82Pr0=;PfRGqHtW+2OpURxFxOmCRA=="
+secured: "7QbK1V3c+UD5NIcx14TBtln9nsMhcUymlh/NUIitJq4UE/z9zKwkQMQE5BYnjPldUTFVBIhBadecKSdMg37BGq160QXXVBq8sjrLMOWgcElDLiL5Zz8chjXB9oTuQvlrVucHPryAO+yhQy30FJ8XJ3waSlOVNR1/QLG1S6MgTaLnHHkjBfaZO+9H3W2mK05Rjjw7Wo4vmbs8q6IFRAcPJYJUGSU6z8kHIb7WwqGpHkPCWTKzGNTc1IFPWgQBU3661kJ16WIVwh+ZwfW6ebqOgrk2LKA2qNmJu5iFh7Gh7dVAB3IAtkoJz9XEU8tb+uq1m39Xq9QVo7fOyYP7YfkkzHhefwjJtq2oXO8kqTB5M38=;tEUGUhSI4ibA+jWy+7J3LA=="
 ---
 

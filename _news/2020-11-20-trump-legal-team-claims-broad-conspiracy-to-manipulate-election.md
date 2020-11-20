@@ -432,6 +432,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
+    excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
+    publishedDateTime: 2020-11-20T08:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNfuWTGcMRs/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b07fbf9-f747-4615-8169-50562db72cdb/218acde3-1d04-49ce-9bb6-fa40ebdb3bba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
     excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
     publishedDateTime: 2020-11-17T13:26:41Z
@@ -592,6 +608,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden appoints two former lobbyists to senior staff"
+    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
+    publishedDateTime: 2020-11-20T05:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Susan Rice ‘very open’ to joining Biden administration"
+    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-20T06:17:00Z
+    webUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75188fc4-a0ce-4dae-b7d4-a0d3cbebbc4f/443b5139-fead-4592-b1a9-0784af256204/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Fires Chris Krebs, Top Cybersecurity Official in Department of Homeland Security"
     excerpt: "President Trump has fired the official at the Department of Homeland Security who oversaw efforts to safeguard the presidential election from foreign interference and domestic disinformation campaigns."
     publishedDateTime: 2020-11-18T00:53:00Z
@@ -625,6 +673,6 @@ related:
         height: 640
         isCached: true
 
-secured: "IbckbzCQr+L7MlQKpslL2iExg1Vg1vkqzuIvvLuHc6YJEOKzBcAYy+jHBhh0iDFor5WqXhjEnNlVk7I3m112l2Jn4nZFkmysd9az2ctc2290GTi0yqW0t29n7WHGsLW1j/2UeDSlxyL7VI3VH9q795qdVWAfHKDSmxhnnrHpQiD/l/sAATtV4HUuJlgmWXnTOuPG36pz+Drd9mtRoTPW+h7c3PCJggd43QaCpXAea9gjtlM9F9dH4ZH5KxeT2SKkoPeKuS78H20CcyVoQgipUcqBllE9Agjq9+9lY6FzZHQRxh4r0/1p/MKW477Dr4Z5e3m6+9Nic0FnFl1bWZ0+G7yMuiU/0c1X9Q3ZVv0wgc4=;Tw+YJIsB5IWBXJGuwtjQYw=="
+secured: "E+Qmi2gJbv3Oz1ip5XyzB1obeUMDh5RxhU6OqQE1e3AyMbQ8ZH7irMuaw/1A+UjNcsDbaPDeynJRldDE4NXRvwdl4z2hDFblbUtgZ5K2NFGRtK9lULnsV9QMcbRBHGZVJGwMFBgRsP6PkueIoryycRNXoyhd03z7GY6Ss6K1E0cGMCOtpbGyaCWPeW5izQIOq3O2Oo/TPdGc4TFi+8iqGgYNHItYDNqEhTJIqOazY2+P5LLaWhElNN9lkS6zq5koXUKgIiAtLGmSuSlaWirq1KlR7mgqWjNZ7SSRlGQskjQvQYufBvMYVrQ3MhMCz8CPERuSB3Jp5KSB6e8aVoDkRB3CaRpVOCpIMVtZSbrKDUig0uRti7gfmIGV0tFVbv4F9rX6leVnKayxFgcde60rsBdRb5byh7qPXDloH9q6dxJDbAImeBnn9j2OJwb1tQOO6tJR+uQX9srsLwTVvXWqly3SYIoaLtz0uXaKXZkUdCniRa/AWZBINtYv4U5e2h7wv/568VMOk+Kng3nJu1dlwg==;M7ui1B/YJFWeyGDjlniA/A=="
 ---
 

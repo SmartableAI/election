@@ -140,6 +140,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
+    excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
+    publishedDateTime: 2020-11-20T05:24:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_99e3068fa2664376aa979d6600c94874_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
     excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
     publishedDateTime: 2020-11-13T20:16:00Z

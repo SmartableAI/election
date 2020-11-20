@@ -139,6 +139,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden congratulates Pelosi on speaker nomination"
+    excerpt: "President-elect Joe Biden is congratulating Nancy Pelosi for her nomination to serve as House speaker for another term"
+    publishedDateTime: 2020-11-20T05:24:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-pfizer-communicating-bidens-team-74277982"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_99e3068fa2664376aa979d6600c94874_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lindsey Graham Explains Why He Fist Bumped Kamala Harris Despite Refusing to Acknowledge Biden's Victory"
     excerpt: "Sen. Lindsey Graham (R-S.C.) reportedly said he was \"just saying hello\" after being spotted giving Vice President-elect Kamala Harris what appeared to be a congratulatory fist bump on the Senate floor on Tuesday."
     publishedDateTime: 2020-11-18T01:19:00Z

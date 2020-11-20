@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54941571"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571"
 type: article
 quality: 123
-heat: 563
+heat: 543
 published: true
 
 provider:
@@ -154,22 +154,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/11/106785969-1604799679242-106785969-16047995722020-11-08t013633z_969478698_hp1egb804gxkc_rtrmadp_0_usa-election-biden.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Beware Trump supporters: Kamala Harris and the Democrats have a list, and that's a fact"
-    excerpt: "The “quote” I posted concerning Kamala Harris may not have been accurate. But all these other comments are. And here’s something else that is entirely true, Sen. Harris’ silence."
-    publishedDateTime: 2020-11-14T18:02:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 82
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Discussing Kamala Harris' Historic Vice Presidential Election and What It Means to Women in America"
     excerpt: "A diverse group of women joined LX News host Ashley Holt to discuss the historic election of Kamala Harris to the vice presidency and what it means to them, and all women in America."

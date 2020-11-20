@@ -63,22 +63,6 @@ related:
         width: 625
         height: 415
         isCached: true
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
-        height: 545
-        isCached: true
   - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
     excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
     publishedDateTime: 2020-11-19T22:31:00Z

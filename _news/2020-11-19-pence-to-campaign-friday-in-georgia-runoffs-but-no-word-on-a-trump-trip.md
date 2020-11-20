@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 419
+heat: 439
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
+    excerpt: "Follow for the latest updates on the Senate runoffs in Georgia."
+    publishedDateTime: 2020-11-20T05:30:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNw4g_YE4w0/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
         width: 1280

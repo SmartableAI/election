@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-plea-unite-and-heal-the-count
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plea-unite-and-heal-the-country-georgia.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301662617518.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden Holds Lead in Georgia After Hand Recount"
+    excerpt: "President-elect Joe Biden remained ahead in Georgia after a hand recount of the state’s 5 million presidential votes, Georgia Secretary of State Brad Raffensperger said. Mr. Raffensperger still must certify the results,"
+    publishedDateTime: 2020-11-20T06:21:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=tech_trending_now_article_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-262231/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "yn6Bu5Otav4e9sp3rL38+GnKaexOToceMr2W/fqW2OQGDpWnkXGFgnyjJRcmElBS5CqSpZb9pt+o7WZTyM6sc9fDlpCTtPwCfJLmbnbKwJDd+n6XMdomgkqc24Ob6DUhj9CZ/gYxcmzHIQ1dCDntNjjLmd1ZxDWmi10hMmLC9PsEd8S90FbFzEQgEhXbyX/h2YNI1INTRbg10KIbXe+jgzprrcENF1kX//cZ/EGiAF98nrZDVBApLwV1i0ioOH5xkdUmr13ws3svPENT8h/Y8OdeWqz3pYEJB1Zojb3/29bFY/nkF7YaJ267L8I26ePVgxSyqsI/81dj3dOPh4zXY71MEFn5Cnridu4PhFxmyGk=;xyBkHxjuBvBNTIbpdUAlew=="

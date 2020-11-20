@@ -271,6 +271,22 @@ related:
         width: 906
         height: 545
         isCached: true
+  - title: "Georgia affirms Biden's victory as Trump attempts to undermine election"
+    excerpt: "After a painstaking recount, Georgia officials confirmed on Thursday that President-elect Joe Biden defeated President Donald Trump in the battleground state on Nov. 3, further narrowing the president's dubious effort to overturn the election results."
+    publishedDateTime: 2020-11-20T09:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-to-focus-on-coronavirus-as-trump-pushes-to-overturn-election-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 155
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541879871&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0IM"
+        width: 908
+        height: 545
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -510,6 +526,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541259966&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0BF"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden slams Trump's post-election behavior"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-20T08:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 151
+    images:
+      - url: "https://s.abcnews.com/images/International/biden-nga-2-rt-rc-201119_1605822053498_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Joe Biden Would Make a Better Wartime President Than Donald Trump: Poll"
     excerpt: "A new poll conducted for Newsweek found that Americans of all ages and religions would prefer Biden to lead the U.S. through a conflict."
@@ -7893,6 +7925,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, allies make frantic steps to overturn Biden victory"
+    excerpt: "President Donald Trump and his allies are taking increasingly frantic steps to subvert the results of the 2020 election, including summoning state legislators to the White House as part of a longshot bid to overturn Joe Biden’s victory."
+    publishedDateTime: 2020-11-20T06:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-make-frantic-steps-to-overturn-biden-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-make-frantic-steps-to-overturn-biden-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-make-frantic-steps-to-overturn-biden-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Trump shifts strategy to hold power, deny Biden"
+    excerpt: "Posted [NFA] With legal efforts to overturn his loss in the U.S. presidential election flailing, President Donald Trum"
+    publishedDateTime: 2020-11-20T06:39:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP7kb?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fb70b84e4b04d44576314d6-1605831556340?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z
@@ -11700,6 +11757,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6oUuwMYRivxqMhX5c4dAm9A8TVcSci9UHs0i8Q0F2n5UNaGy1MlBJWAPVqYr57FruX4VuVz97kVKjjNe6MVgKoT2ivog6yOxzHfttFnjSUYigUfB932McrUC2wpQ0qkvdTZx2sekaCX3fYAtEu1HHcqoTDJpgqT//0SrJTudKawMI9K+5OApDhxdpP6/pJ3OCTAyprk9v5SvdkviB921W9ib+nF2BiJp/b3BbmiQhYdtTRiYXKZTM7bDIx1Ccg+16tBlQbsVYbSGN6w2SGYfVzwOrDZxCdT28nbznY0JIgkSZbsKkTH0RErhbHjyjsa09I4uEKzsQCW/ngoWyAzKm5eWU74Rcp51td0Wzg6gMvs=;bII1ydjWtnBjleycgsjI+A=="
+secured: "duINknW00TWz7WbgHgesj/bynkGcl577K4elU53Ft8Ap76FevMTyxSgjaICRiJDNPEeaQH6v4h69BdeQiX/v5tb/f3Vc8dIQLaCTnJ1ebxZPwC+GH9+kZSiDnELvT+Lf5UYVCNXfkoH+I4OTBcfdY37y/57xFPW3A4Aguxq2jJBAXlA9hSPACbRj7aURynCt+V2MXC0dxISNsxx2p3O2nnj6j23OTLS2j/YTyUaXHeMkFOIzr7I7Z2ZyY9Jc1dP7zGCSOWRALpsyy3HKrZ4QfAj3w/EBlBDXT0MDGBkUnAn+ksyo+saQ3wkU2imAFwoBaGpsyUdwMmKVjbrNk7sbqUARor6b8AaZFSFWwDP2IYFq/8a7QOrLjO8TAH34asCgQhW/JJsgbUKOCNY35cdR9S6eQel57OWuULIxnOCRJTJwNMnOLijv/exP6Ez0fcrXJlK4PB5GiyHkxXzDDdLZ2tRWDTNNlfuxxGi75zSq+MO1cDxG20jNzPznZ9E0XVBHUNSdOLa5NDmNG9oW0tr4ag==;hqH1Ww/JPvGDbhRHmLpCuw=="
 ---
 

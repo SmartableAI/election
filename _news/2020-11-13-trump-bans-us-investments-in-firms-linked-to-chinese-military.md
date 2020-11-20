@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
 type: article
 quality: 125
-heat: 285
+heat: 325
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Criminal probe, legal fights await Trump after White House"
+    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
+    publishedDateTime: 2020-11-20T06:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
     excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
     publishedDateTime: 2020-11-17T04:41:00Z
@@ -158,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "awALo1XPydkmaHFXVobu5meRppyG8iRmRijfcuemoVw38RLnfppBVpykoXZz2bRbR7VNbwKXqRoLZrjU0l0kHM/XknTzfoNI00BbbSkDxQmlnaGDQSsgmL5iEUPt8xZ45nFE2BK39seHroD+7rffttjklw+XKQIJ3l0ZmnQb3uvk4jbyUcVk5cBJl+bhJCKU9BhLXmaZ6tthVmGM2a5YVCOWnKyzTTb/YPuAa5Sy7DUAn8z5ai8WWbxxv3kT/2wuVwr6+A2/0Tb9Ve4LA+1YatDtm71LfLggymHT8AgFuJ9KFHELhCxZtVs5dSqAseHgf8QucBEx0M7zo5IV++WsrGk8Nmx8qUBpx0c/72cHpbbqvIlh6Wl3TLkbrEKk8F4j+HNoJyjzdzuaPDahqrQcrG8Hfms4tYz0h43Km4ytv1Lvs58A3QRh5MLf/3WuyYoN5frYxVma9nr/sujIwMwMe/AQZlqy4rrC2cPwd3faUzP6mlRU8d0IEDmPTgKS3H84vXco2NKjn1YtgN6uzd4m2A==;J9L82e1NqA+Vw43RJ1BTMQ=="
