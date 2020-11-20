@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3767048001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767048001"
 type: article
 quality: 126
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
+    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
+    publishedDateTime: 2020-11-15T07:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
+        height: 545
         isCached: true
   - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
     excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."

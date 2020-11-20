@@ -73,6 +73,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+    publishedDateTime: 2020-11-19T15:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
+    publishedDateTime: 2020-11-19T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
   - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
     excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
     publishedDateTime: 2020-11-18T12:35:00Z
@@ -183,6 +215,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Final U.S. offshore oil auction under Trump will test industry demand"
+    excerpt: "The Trump administration on Wednesday will offer all available areas in the Gulf of Mexico for auction to oil and gas companies in its final offshore sale before the January inauguration of President-elect Joe Biden,"
+    publishedDateTime: 2020-11-18T12:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN27Y1IR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump cancelled his annual plans to spend Thanksgiving at Mar-a-Lago, as aides describe a 'bunker mentality' at the White House"
     excerpt: "Since the election President Donald Trump has largely confined himself to the White House, watching cable news, tweeting, and firing senior officials."
     publishedDateTime: 2020-11-18T16:07:00Z

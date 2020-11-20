@@ -2,6 +2,555 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-04-how-trump-clinched-florida-victory-with-help-of-hispanics-in-miami-dade-county.md",
+      "title": "How Trump clinched Florida victory with help of Hispanics in Miami-Dade County",
+      "excerpt": "President Trump is projected to win Florida's 29 electoral votes thanks in part to Cuban American voters in the traditionally Democratic stronghold Miami-Dade County, which has a heavily Hispanic population.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1uT4aV8w6CY/trump-miami-florida-victory-cuban-american-latino-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20309243472662.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miami-florida-victory-cuban-american-latino-vote.amp",
+      "publishedDateTime": "2020-11-04T10:47:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-trump-campaign-says-president-will-immediately-request-a-recount-in-wisconsin.md",
+      "title": "Trump campaign says president will 'immediately' request a recount in Wisconsin",
+      "excerpt": "The Trump campaign promised to demand a recount in Wisconsin, where Joe Biden holds a narrow lead but the race has not yet been called. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PcckzpPn0X0/trump-campaign-request-recount-wisconsin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-request-recount-wisconsin.amp",
+      "publishedDateTime": "2020-11-04T10:30:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-kudlow-trumps-agenda-did-very-well-yesterday.md",
+      "title": "Kudlow: Trump's agenda 'did very well yesterday'",
+      "excerpt": "Kudlow predicted the Senate outcome, telling CNBC that Republicans \"may lose one seat, maybe not\" in the chamber.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "originalUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/17/f1/c6e742d142b5920d94d77807aea0/20201104-kudlow-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
+      "publishedDateTime": "2020-11-04T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-aoc-says-trumps-claims-of-victory-are-illegitimate-dangerous.md",
+      "title": "AOC says Trump’s claims of victory are 'illegitimate, dangerous'",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., slammed President Trump after he declared victory in Tuesday's election despite millions of votes still being counted in key battleground states as of Wednesday morning. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fvbrTTLrOxQ/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fvbrTTLrOxQ/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian.amp",
+      "publishedDateTime": "2020-11-04T09:22:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-kamala-harris-on-being-told-its-not-your-time-in-her-career-i-eat-no-for-breakfast.md",
+      "title": "Kamala Harris on being told 'it's not your time' in her career: 'I eat 'no' for breakfast'",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris opens up about her advice to women and how she overcomes naysayers in her career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106750965-1603132353868-gettyimages-1229170430-2911140600.jpeg?v=1603132387",
+          "width": 3071,
+          "height": 2065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/02/kamala-harris-on-naysayers-in-her-career-i-eat-no-for-breakfast.html",
+      "publishedDateTime": "2020-11-04T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-twitter-flags-trump-tweets-complaining-of-ballot-dumps.md",
+      "title": "Twitter flags Trump tweets complaining of 'ballot dumps'",
+      "excerpt": "President Trump on Wednesday hit out at what he described as “surprise ballot dumps” as ballot counts in the Rust Belt show his lead shrinking in those states -- a claim that was swiftly labeled as \"misleading\" by Twitter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu2TClGBiEA/trump-misleading-ballot-dumps-twitter",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-misleading-ballot-dumps-twitter.amp",
+      "publishedDateTime": "2020-11-04T08:32:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-totals-from-milwaukee-kenosha-and-green-bay-push-biden-to-a-20000-vote-lead-in-wisconsin.md",
+      "title": "Totals from Milwaukee, Kenosha and Green Bay push Biden to a 20,000 vote lead in Wisconsin",
+      "excerpt": "Trump did worse in much of Milwaukee and Madison than he did four years ago, but did a little better in much of northern and central Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/04/wisconsin-results-down-wire-again-milwaukee-ballot-count/6123344002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/31/PMJS/0e752870-0d26-4580-9909-c7f3251023cd-biden_trump_friday.jpg?auto=webp&crop=659,371,x0,y3&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6123344002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6123344002",
+      "publishedDateTime": "2020-11-04T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-media-and-polls-hyper-judgmental-of-trump-supporters-candace-owens.md",
+      "title": "Media and polls 'hyper-judgmental' of Trump supporters: Candace Owens",
+      "excerpt": "Conservative activist Candace Owens slammed the media and pollsters for once again failing to accurately predict the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk8zW9vv5Y4/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dk8zW9vv5Y4/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-media-polls-election-black-support-vote-candace-owens-brian-kilmeade.amp",
+      "publishedDateTime": "2020-11-04T05:56:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-aoc-sounds-alarm-over-latino-turnout-for-biden.md",
+      "title": "AOC sounds alarm over Latino turnout for Biden",
+      "excerpt": "Democratic U.S. Rep. Alexandria Ocasio-Cortez vented her frustrations over lackluster Democratic turnout among Latinos Tuesday evening.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-o4OvNsoSDY/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bemoans-lackluster-latino-turnout-for-biden-been-sounding-the-alarm.amp",
+      "publishedDateTime": "2020-11-04T00:47:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-pennsylvanias-democratic-governor-calls-trump-remarks-partisan-attack.md",
+      "title": "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'",
+      "excerpt": "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "publishedDateTime": "2020-11-04T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-kid-rock-responds-to-lady-gagas-biden-endorsement-shows-what-camo-is-really-worn-for.md",
       "title": "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'",
       "excerpt": "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video.",
@@ -824,503 +1373,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-kamala-harris-husband-declares-ohio-a-blue-state-during-election-day-visit-to-columbus.md",
-      "title": "Kamala Harris' husband declares Ohio a 'blue state' during Election Day visit to Columbus",
-      "excerpt": "Underscoring the Democrats' attempt to steal battleground Ohio from Donald Trump - who won the state in 2016 - Doug Emhoff rallies Biden supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
-      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/11/03/doug-emhoff-kamala-harris-husband-says-ohio-now-blue-state-during-election-day-visit-for-joe-biden/6143275002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/NCOD/d6aa1413-93fb-40f8-b743-7b7a93b5dd96-MT_emhoff_visit_ea04.jpg?auto=webp&crop=1999,1125,x0,y100&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/6143275002",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6143275002",
-      "publishedDateTime": "2020-11-03T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.md",
-      "title": "Trump thanks campaign staffers, predicts 'incredible night': 'Tremendous group of people'",
-      "excerpt": "The president spoke for a time to campaign staff and answered questions from the media before hitting the road again.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f2kdm1Y2Lc/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/109c1c28-bcc7-4e77-8dfa-a4ca2fbf0d23/be21ccfe-e069-4386-980a-617cbf2b5a83/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-campaign-staffers-predicts-incredible-night-tremendous-group-of-people.amp",
-      "publishedDateTime": "2020-11-03T12:36:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-winning-is-easy-losing-is-never-easy-trump-stops-by-rnc-office-in-virginia.md",
-      "title": "'Winning is easy. Losing is never easy': Trump stops by RNC office in Virginia",
-      "excerpt": "Donald Trump said he is not thinking about an acceptance or a concession speech when he stopped at the Republican National Committee Headquarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/politics/elections/2020/11/03/trump-says-losing-never-easy/6146200002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/USAT/9e10db91-8ed7-4e5b-8599-6d7acec09e91-VPC_TRUMP_ON_WINNING_LOSING_DESK_THUMB.00_01_49_28.Still003.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-in-the-minneapolis-neighborhood-where-george-floyd-died-voters-disagree-with-biden-on-policing-but-theyre-voting-for-him-anyway.md",
-      "title": "In the Minneapolis neighborhood where George Floyd died, voters disagree with Biden on policing. But they're voting for him anyway.",
-      "excerpt": "Voters in Powderhorn Park told Insider they think President Donald Trump is even worse, so they voted for Joe Biden despite their reservations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
-      "originalUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa1b6d169331a0011bc712d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minneapolis-neighborhood-where-george-floyd-died-election-day-biden-2020-11?amp",
-      "publishedDateTime": "2020-11-03T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-kamala-harris-in-detroit-to-rally-election-day-support-have-faith-in-the-american-people.md",
-      "title": "Kamala Harris in Detroit to rally Election Day support: 'Have faith in the American people'",
-      "excerpt": "Harris encouraged voters to trust their neighbors and the electoral process before canvassing throughout metro Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/11/03/kamala-harris-detroit-election-biden-trump/6129769002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/03/PDTF/f6c9f117-74cf-4558-a513-e8dc14dfdc70-AP20308672071807.jpg?auto=webp&crop=4361,2454,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/6129769002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6129769002",
-      "publishedDateTime": "2020-11-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-biden-signs-wall-of-childhood-home-from-this-house-to-the-white-house.md",
-      "title": "Biden signs wall of childhood home: 'From this house to the White House'",
-      "excerpt": "Democratic presidential nominee Joe Biden waves to onlookers from the steps of his childhood home on Nov. 3 in Scranton, Pa. | Drew Angerer/ Former Vice President Joe Biden signed one of the living room walls of his childhood home during a stop in Scranton,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
-      "originalUrl": "https://www.politico.com/news/2020/11/03/joe-biden-signs-wall-of-childhood-home-433933",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5f/ad/b3b34d7e4d0e8cde4f1169a0aae6/201103-biden-childhood-home-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-vp-mike-pences-daughter-delivers-message-for-those-nervous-on-election-day.md",
-      "title": "VP Mike Pence’s daughter delivers message for those ‘nervous’ on Election Day",
-      "excerpt": "Charlotte Pence Bond, author and daughter of Vice President Mike Pence and second lady Karen Pence, delivered a powerful message on Tuesday about the 2020 presidential election and the importance of following God amid political and social unrest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.christianpost.com/files/cache/image/13/32/133278_w_450_300.jpg",
-          "width": 450,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-delivers-election-day-message.html",
-      "publishedDateTime": "2020-11-03T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Christian Post",
-        "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-borat-2-how-tsa-security-guards-almost-ruined-the-mike-pence-scene.md",
-      "title": "Borat 2: How TSA Security Guards Almost Ruined the Mike Pence Scene",
-      "excerpt": "According to Sacha Baron Cohen, one of the biggest stunts in the Borat sequel involving Vice President Mike Pence almost didn’t happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "originalUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/11/borat-2-header.jpg",
-          "width": 1400,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-2-mike-pence-scene-tsa-security-guards/amp/",
-      "publishedDateTime": "2020-11-03T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBR",
-        "domain": "cbr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-says-us-is-most-difficult-country-to-deal-with-reflecting-on-battles-with-pelosi-schiff.md",
-      "title": "Trump says US is 'most difficult country to deal with,' reflecting on battles with Pelosi, Schiff",
-      "excerpt": "President Trump on Tuesday said the United States is the \"most difficult country to deal with\" as he reflected on his time as president during an Election Day interview on \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S1UYad72Qqg/trump-us-most-difficult-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ec03f86-02b3-4b65-89ad-e4aff3f20e30/d731488c-0cb8-4a01-89ae-e4fefa2ac3a5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-us-most-difficult-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-us-most-difficult-country.amp",
-      "publishedDateTime": "2020-11-03T06:45:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
-      "title": "India's Hindu fringe group holds prayers for Trump",
-      "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "originalUrl": "https://www.reuters.com/video/watch/indias-hindu-fringe-group-holds-prayers-id721520944?chan=8gwsyvzx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201103&i=OVD30R7XB&r=OVD30R7XB&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

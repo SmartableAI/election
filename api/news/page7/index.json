@@ -2,6 +2,342 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-11-trump-rips-gop-philadelphia-commissioner-al-schmidt-amid-election-fight-being-used-big-time.md",
+      "title": "Trump rips GOP Philadelphia Commissioner Al Schmidt amid election fight: 'Being used big time'",
+      "excerpt": "President Trump ripped Philadelphia City Commissioner Al Schmidt in a tweet on Wednesday, accusing the Republican official of ignoring his campaign’s claims of election fraud in Pennsylvania’s largest city.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wm2twB8qxGE/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/021c1b12-29a5-43a2-ba02-c9f46e99e2ff/e9356632-0b76-4548-af73-41573d380b5f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-gop-philadelphia-commissioner-al-schmidt-election-fraud-being-used-big-time.amp",
+      "publishedDateTime": "2020-11-11T12:40:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-blm-co-founder-sends-message-to-biden-we-want-something-for-our-vote.md",
+      "title": "BLM co-founder sends message to Biden: 'We want something for our vote'",
+      "excerpt": "Black Lives Matter co-founder Patrisse Cullors requested a meeting with President-elect Joe Biden to discuss the movement's agenda and lay out expectations for the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l-ZixAIdhAA/blm-co-founder-to-biden-we-want-something-for-our-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l-ZixAIdhAA/blm-co-founder-to-biden-we-want-something-for-our-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61246049-bb06-4ffe-a863-6d8fc55fd19a/64b0c1c5-010e-4a16-87b7-5d7dc3b2d4fb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blm-co-founder-to-biden-we-want-something-for-our-vote.amp",
+      "publishedDateTime": "2020-11-11T12:34:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-administration-installs-advocate-for-quick-afghanistan-withdrawal-at-pentagon.md",
+      "title": "Trump administration installs advocate for quick Afghanistan withdrawal at Pentagon",
+      "excerpt": "An ardent opponent of the US military's presence in Afghanistan who once called for the use of lethal force against illegal immigrants and has made a litany of racist comments has been made a senior adviser at the Pentagon.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saGewCOPPVw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html",
+      "publishedDateTime": "2020-11-11T12:24:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-karl-rove-reprehensible-for-aoc-others-on-left-to-call-for-blacklist-of-trump-staffers.md",
+      "title": "Karl Rove: 'Reprehensible' for AOC, others on left to call for 'blacklist' of Trump staffers",
+      "excerpt": "Fox News contributor Karl Rove on Wednesday criticized the people who called for consequences against Trump administration staffers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/enZCK-5KoaY/karl-rove-aoc-left-blacklist-trump-staffers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/enZCK-5KoaY/karl-rove-aoc-left-blacklist-trump-staffers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-aoc-left-blacklist-trump-staffers.amp",
+      "publishedDateTime": "2020-11-11T11:32:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-georgia-to-manually-recount-every-ballot-as-biden-leads-by-14k-votes.md",
+      "title": "Georgia to manually recount every ballot as Biden leads by 14K votes",
+      "excerpt": "Georgia Secretary of State Brad Raffensperger on Wednesday announced that election officials will conduct a manual recount of all presidential ballots as President-elect Joe Biden leads in the state by just over 14,000 votes out of nearly 5 million counted.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1200754471.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp",
+      "publishedDateTime": "2020-11-11T08:58:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-trump-campaign-files-michigan-lawsuit-claiming-gop-blocked-from-viewing-vote-counting.md",
+      "title": "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting",
+      "excerpt": "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp",
+      "publishedDateTime": "2020-11-11T08:54:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
       "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
       "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
@@ -115,7 +451,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1024,325 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-pandemic-is-heading-into-its-darkest-days-biden-coronavirus-advisory-board-member-warns.md",
-      "title": "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns",
-      "excerpt": "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
-      "originalUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/10/dff95b9c-2398-45be-a634-98f96d898e3d/thumbnail/1200x630/ed4590a58c3d8478fd41c70fc4bd63cb/1605022192600.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
-      "publishedDateTime": "2020-11-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-cindy-mccain-joins-joe-biden-transition-team-advisory-board.md",
-      "title": "Cindy McCain joins Joe Biden transition team advisory board",
-      "excerpt": "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
-      "publishedDateTime": "2020-11-10T08:02:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-jr-and-kimberly-guilfoyle-make-moves-to-expand-rnc-influence-and-possibly-takeover-sources-say.md",
-      "title": "Trump Jr. and Kimberly Guilfoyle make moves to expand RNC influence and possibly takeover, sources say",
-      "excerpt": "Donald Trump Jr. and Kimberly Guilfoyle are making moves to expand their influence at the Republican National Committee, three GOP sources, including advisers to the President tell CNN. Some sources say they may seek to take over the party structure themselves.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200203183802-donald-trump-jr-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
-      "publishedDateTime": "2020-11-10T07:14:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-to-launch-pac-to-retain-influence-after-departing-white-house.md",
-      "title": "Trump to launch PAC to retain influence after departing White House",
-      "excerpt": "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
-      "publishedDateTime": "2020-11-10T06:57:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-trump-plans-to-launch-pac-to-maintain-influence-in-gop-circles.md",
-      "title": "Trump plans to launch PAC to maintain influence in GOP circles",
-      "excerpt": "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
-      "publishedDateTime": "2020-11-10T05:45:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-can-american-virtues-and-maybe-mike-pence-save-us.md",
-      "title": "Can American virtues (and maybe Mike Pence) save us?",
-      "excerpt": "Over the weekend, the 2020 presidential election abruptly shifted from slow motion to real-time. In rapid succession, former Vice President Joe Biden secured victory in the battleground state of Penns",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/jBNysd9-CgGQwjQVVjXYpLnRjTA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6I4BVFCVEFF2NG5LPBS6YT2YNE.JPG",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-10T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

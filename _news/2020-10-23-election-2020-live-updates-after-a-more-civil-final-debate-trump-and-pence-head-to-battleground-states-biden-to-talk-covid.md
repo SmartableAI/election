@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden blasts Trump as U.S. COVID-19 cases mount and Pence staff endures outbreak"
-    excerpt: "Vice President Mike Pence forged ahead with campaigning on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections,"
-    publishedDateTime: 2020-10-25T21:53:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/biden-blasts-trump-as-u-s-covid-19-cases-mount-and-pence-staff-endures-outbreak-idUKKBN27A04S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538795698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P04B"
-        width: 708
-        height: 545
-        isCached: true
   - title: "Trump and Pence defy pandemic for political gain"
     excerpt: "President Trump and Vice President Pence are holding events in battleground states, defiant about the pandemic, a White House outbreak and a climbing national case count."
     publishedDateTime: 2020-10-26T19:27:00Z
@@ -1264,22 +1248,6 @@ related:
         width: 1119
         height: 545
         isCached: true
-  - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
-    excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
-    publishedDateTime: 2020-10-23T20:15:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/10/23/who-won-last-nights-debate-social-media-gave-biden-winning-edge/6009398002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6009398002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6009398002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 133
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden campaign aide: Trump trying to distort former vice president's position on oil"
     excerpt: "A top campaign aide for Democratic presidential nominee Joe Biden said on Sunday that President Trump is “trying to distort” the former vice president’s position on oil."
     publishedDateTime: 2020-10-25T15:56:00Z
@@ -1359,22 +1327,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201028&t=2&i=1539136962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9R08B"
         width: 817
         height: 545
-        isCached: true
-  - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
-    excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."
-    publishedDateTime: 2020-10-23T05:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 132
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXXV5QQU2YI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
     excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
@@ -2027,34 +1979,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Trump and Joe Biden will have mics muted during parts of final debate"
-    excerpt: "President Trump and Joe Biden will have their mics muted during their opponent's two minutes of uninterrupted time at Thursday's debate. Sean Sullivan, a CBSN political contributor and national politics reporter for the Washington Post,"
-    publishedDateTime: 2020-10-20T21:47:00Z
-    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-mics-muted-during-parts-of-debate-thursday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/459c840d-4166-4daf-80a8-fbf3b0cfcb21/thumbnail/1200x630/f8d0c87b8360e2532afc955f00fba7e6/cbsn-fusion-president-trump-and-joe-biden-will-have-mics-muted-during-parts-of-debate-thursday-thumbnail-570900-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump and Biden clash on pandemic, trade personal jabs at final debate"
-    excerpt: "U.S. President Donald Trump and Democratic presidential nominee Joe Biden are reflected in the plexiglass protecting a tv camera operator from covid as they participate in their second 2020 presidenti"
-    publishedDateTime: 2020-10-23T03:26:00Z
-    webUrl: "https://www.reuters.com/news/picture/trump-and-biden-clash-on-pandemic-trade-idUSKBN2770H1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M05P"
-        width: 810
-        height: 534
         isCached: true
   - title: "Trump And Biden On Global Issues: From Reproductive Rights To Refugees"
     excerpt: "Here are the positions of the two candidates on issues ranging from the Mexico City policy (involving abortion services) to refugees to membership in the World Health Organization."
@@ -3560,17 +3484,6 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-25/putin-rejects-donald-trumps-criticism-of-biden-family-business?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Biden Bolsters Lead Over Trump Among Young Voters"
-    excerpt: "Since securing the Democratic nomination, Biden has not only coalesced support among young voters, he has become more popular with them."
-    publishedDateTime: 2020-10-26T17:34:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

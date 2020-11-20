@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
+    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
+    publishedDateTime: 2020-11-19T12:17:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
     excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -209,8 +225,8 @@ related:
         isCached: true
   - title: "Trump's election power play: Persuade Republican legislators to do what U.S. voters did not"
     excerpt: "President Donald Trump's strategy for retaining power despite losing the U.S. election is focused increasingly on persuading Republican legislators to intervene on his behalf in battleground states Democrat Joe Biden won,"
-    publishedDateTime: 2020-11-19T20:57:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z30G"
+    publishedDateTime: 2020-11-20T01:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-strategy-idUSKBN27Z30G"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z30G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z30G"
     type: article
@@ -270,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8480148b5334427e9df40d97cb07bf37_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
+    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
+    publishedDateTime: 2020-11-15T17:29:00Z
+    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
@@ -482,6 +514,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w/3C0VSuiLcCFBVc32M0bKsga1Z4j0An1yCX4bSSZZNoJtwMK79I6hiuC4SO/B+dNn4IGecFzDJqFrqH+PaIjCZ8pu+ZnsApu3a72SVSCk9Ad1x0G7jvNWJDbcFk33ThGAhvcydjykSDrCc15LNEg1c3Rv/+qcWq2/YBCy+W+D1PGjJMzpU/pUDRRBQNIM5ZptzvrYFh8qd5bZXyGJtXJa0YJPdbo7FMbVpQTXbbmO6xZE2DXdqBmHdSrJ7zB0vZEuoi/Bn+p5M6EXmTuTRzT0K0NdElSh5Y03gwq1/rmU0t0pOZL248E0WIajLG2phj3F9ejFNrhBEeGf72hTdQr3KkddYLqOjv3N7guHCoV+w=;638GG+WsHfXJafywa+sTQg=="
+secured: "hUwX/IQiIQrDNDaSl+pn+z8uMvpyFPK1rlpLoQ65edFM7HeS8rDJnpmf3Dy8RBiPASy6fHfWi1XsnrQfbGuOqDyC0ZOsoa66VFHuKTkjQCNvKfkYIneBNjjG30Ys4Ns6dog0z0GGSHKCnWFF0dzMCNcmM+t/B/Appyswsh/1mFU6Lgo9UJJFJLdd3HiOTJlHjc7KB0NsAqSaaTn0gOb/y+3rfzlnGmzO9xQwvCNbhpotMWUjtFe4FYpfXwDf1c0FkhbrGqv91PZCO7RP7108lzUgGyrTuR8wlD8q1V9XnQAi5hbJhiAB4WYfVbkGdJFcKxKuurDRb1g3ltP5HSkPZ+tIpELiXkwUh/CiqEW4ewvT2Aj0LmNDJrBJkSeAUDtohzQDPozSEzK2YssJRQwiZBG8PaRdAe1ozBr9OxYWIBQaNkZKZS4BW0/dSKnSUxcC/ehrX56U/STJ16u0Q2xIxzTcJGEqVLokYIwCnDBR4nIfmR37n7LpjxIo01skO7kw3Wm11vDhBRFZRr9m4C0/9Q==;uc6N+nS/jAhW4hcZyp7NAg=="
 ---
 

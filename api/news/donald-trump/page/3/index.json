@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
+      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
+      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "publishedDateTime": "2020-11-09T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-trump-staffers-tweeted-an-image-of-a-president-gore-front-page-from-2000-to-prove-the-media-gets-election-calls-wrong-but-the-image-was-fake.md",
       "title": "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake.",
       "excerpt": "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\"",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 15561,
+      "heat": 15581,
       "tags": null,
       "images": [
         {
@@ -385,7 +437,7 @@
       "originalUrl": "https://www.businessinsider.com/mary-trump-president-trump-will-lash-out-during-transition-period-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -461,6 +513,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-voices-from-the-fight-an-oral-history-of-the-four-year-movement-to-defeat-donald-trump.md",
+      "title": "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump",
+      "excerpt": "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "originalUrl": "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-08T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -642,19 +746,71 @@
       ]
     },
     {
-      "path": "_news/2020-11-08-chinese-state-media-laughed-at-trump-after-he-falsely-claimed-victory-in-the-2020-election.md",
-      "title": "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election",
-      "excerpt": "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday.",
+      "path": "_news/2020-11-07-election-2020-exit-polls-political-pundits-utterly-failed-to-predict-donald-trumps-voters.md",
+      "title": "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters",
+      "excerpt": "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11",
-      "originalUrl": "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11",
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 430,
+      "heat": 410,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6191966002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002",
+      "publishedDateTime": "2020-11-07T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-bolsonaro-abandons-friend-trump-after-2020-election-says-hes-not-the-most-important-person-in-the-world.md",
+      "title": "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'",
+      "excerpt": "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -664,9 +820,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp",
-      "publishedDateTime": "2020-11-07T10:52:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp",
+      "publishedDateTime": "2020-11-06T20:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -702,7 +858,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/election-results-trump-has-not-backed-up-claim-irregularities/6173694002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -803,19 +959,19 @@
       ]
     },
     {
-      "path": "_news/2020-11-07-republican-sen-pat-toomey-says-trumps-claims-of-large-scale-fraud-and-theft-of-the-election-are-just-not-substantiated.md",
-      "title": "Republican Sen. Pat Toomey says Trump's claims of 'large-scale fraud and theft of the election are just not substantiated'",
-      "excerpt": "Following Trump's claims of voter fraud and theft, Republican officials and former Trump associates are in disagreement.",
+      "path": "_news/2020-11-06-donald-trump-jr-compares-the-us-to-a-banana-republic-over-uncorroborated-election-fraud-claims-and-gets-tagged-by-twitter.md",
+      "title": "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter",
+      "excerpt": "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
-      "originalUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11",
+      "webUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 133,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg",
+          "url": "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -825,9 +981,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-from-pennsylvania-says-trumps-claims-fraud-not-substantiated-2020-11?amp",
-      "publishedDateTime": "2020-11-06T09:28:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp",
+      "publishedDateTime": "2020-11-06T06:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1019,7 +1175,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/05/trump-aides-gloomy-election-mad-gop/6181186002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1071,7 +1227,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1175,7 +1331,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1199,6 +1355,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-trump-is-trying-to-claim-the-presidency-by-saying-we-hereby-claim-key-states-but-that-is-not-how-elections-work.md",
+      "title": "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work",
+      "excerpt": "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
+      "originalUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg",
+          "width": 975,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp",
+      "publishedDateTime": "2020-11-05T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1377,224 +1585,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-kudlow-trumps-agenda-did-very-well-yesterday.md",
-      "title": "Kudlow: Trump's agenda 'did very well yesterday'",
-      "excerpt": "Kudlow predicted the Senate outcome, telling CNBC that Republicans \"may lose one seat, maybe not\" in the chamber.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
-      "originalUrl": "https://www.politico.com/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/17/f1/c6e742d142b5920d94d77807aea0/20201104-kudlow-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/04/kudlow-trumps-agenda-very-well-434048",
-      "publishedDateTime": "2020-11-04T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-pennsylvanias-democratic-governor-calls-trump-remarks-partisan-attack.md",
-      "title": "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'",
-      "excerpt": "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0YU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU",
-      "publishedDateTime": "2020-11-04T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ex-espn-host-jemele-hill-says-its-on-white-people-if-trump-wins-reelection-no-one-else.md",
-      "title": "Ex-ESPN host Jemele Hill says 'it's on White people' if Trump wins reelection: 'No one else'",
-      "excerpt": "ESPN host Jemele Hill declared Tuesday that only White people are to blame if President Trump defeats Democratic nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
-      "originalUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Jemele-Hill-TWEET.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ex-espn-host-jemele-hill-white-people-trump-reelection.amp",
-      "publishedDateTime": "2020-11-03T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-latest-election-day-updates-trump-has-a-commanding-lead-in-florida.md",
-      "title": "Latest Election Day updates: Trump has a commanding lead in Florida",
-      "excerpt": "Our live coverage of Election Day includes updates on voter turnout, the latest on Trump and Biden, and news from polling places around Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/03/live-updates-florida-election-day-voting-turnout-ballots-trump-biden/6038318002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/02/NPPP/5c24e614-5e1a-445b-94a7-cad671b83233-Early_Voting_2020_41.jpg?auto=webp&crop=3617,2035,x0,y289&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6038318002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6038318002",
-      "publishedDateTime": "2020-11-03T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

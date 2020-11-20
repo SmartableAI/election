@@ -64,19 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump team looks to box in Biden on foreign policy by lighting too many fires to put out"
-    excerpt: "President Donald Trump's order of a further withdrawal of US troops from Afghanistan and Iraq is the latest foreign policy move on a growing list in his final weeks in office that are meant to limit President-elect Joe Biden's options before he takes office in January.\n    \n"
-    publishedDateTime: 2020-11-18T00:20:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E9bBnYYXDsI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-biden-natsec-transition-fires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-biden-natsec-transition-fires/index.html"
+  - title: "Inside Rudy Giuliani's attempt to sow chaos on behalf of Trump and steal the election"
+    excerpt: "One day before the Trump campaign's legal team needed to convince a federal judge that Joe Biden shouldn't have won Pennsylvania, Rudy Giuliani didn't like what he was hearing. Lawyers were going over arguments for the case at the Trump campaign headquarters in Arlington, Virginia, when Giuliani suddenly"
+    publishedDateTime: 2020-11-20T00:16:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KaTscRWHek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/rudy-giuliani-chaos-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/rudy-giuliani-chaos-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 181
+    quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119143047-01-rudy-giuliani-presser-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -176,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact checking Giuliani and the Trump legal team's wild, fact-free press conference"
-    excerpt: "In a wild, tangent-filled and often contentious press briefing led by President Donald Trump's personal attorney Rudy Giuliani, the Trump campaign's legal team laid out its case for widespread voter fraud in the election. The roughly 90-minute briefing was overflowing with falsehoods and conspiracy theories.\n"
-    publishedDateTime: 2020-11-19T20:54:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2D0EumV37R8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/giuliani-trump-legal-team-press-briefing-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/giuliani-trump-legal-team-press-briefing-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119145352-rudy-giuliani-trump-legal-team-briefing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
     excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
     publishedDateTime: 2020-11-05T15:37:51Z
@@ -207,22 +191,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104001833-pensilvania-philadelphia-voting-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump's team prepares for election fight to end in December"
-    excerpt: "President Donald Trump's allies are preparing for the end of his legal fight over the election results well into December, even as they continue to push him to accept a conclusion to his presidency and make post-White House plans."
-    publishedDateTime: 2020-11-19T09:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-s-team-prepares-election-fight-end-december-n1248147"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248147"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248147"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429350/201118-donald-trump-oval-office-ew-251p_b17836e9820b0d261ad22a11f69432b4.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Pennsylvania Supreme Court rules Trump campaign observers had no right to stand within a specific distance during Philadelphia ballot processing"
     excerpt: "The Pennsylvania Supreme Court on Tuesday ruled 5-2 that a Trump campaign ballot processing observer in Philadelphia had no right to stand any particular distance away from election workers, and it's up to counties to decide where poll watchers can stand.\n    \n"
@@ -288,22 +256,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "A Vengeful President Trump"
-    excerpt: "The Constitution should be amended to remove the president from office no more than a month after losing the election,” a reader writes."
-    publishedDateTime: 2020-11-17T22:16:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/trump-iran.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Giuliani Is Said to Seek $20,000 a Day Payment for Trump Legal Work"
     excerpt: "Last week, the president put the former New York mayor in charge of the court challenges to his loss in the election. Since then they have suffered nothing but setbacks."
     publishedDateTime: 2020-11-17T18:37:00Z
@@ -319,22 +271,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17dc-trump-rudy/17dc-trump-rudy-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "How to Persuade Trump to Concede"
-    excerpt: "It seems to me that President Trump’s continued refusal to concede defeat is less a sinister plot to cling to power and more a determination to somehow declare victory even in defeat. If the recent vaccine news holds true,"
-    publishedDateTime: 2020-11-19T15:47:00Z
-    webUrl: "https://www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/opinion/letters/trump-election-concession.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/15/us/politics/15dc-trump/15dc-trump-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "A law firm has stopped representing the Trump campaign in a Pennsylvania suit."
     excerpt: "Porter Wright Morris & Arthur, the law firm leading the Trump campaign’s efforts to cast doubt on the presidential election results in Pennsylvania, abruptly withdrew from a federal lawsuit that it filed days earlier on behalf of President Trump."

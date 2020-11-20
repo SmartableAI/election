@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden approaches 80 million votes in historic victory"
+    excerpt: "President-elect Joe Biden's winning tally is approaching a record 80 million votes as Democratic bastions continue to count ballots and the 2020 election cracks turnout records. Biden has already set a record for the highest number of votes for a winning presidential candidate,"
+    publishedDateTime: 2020-11-19T12:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_889908c9c9044d42bc4d28149a2d0d48_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden set to meet Friday with top Democratic leaders in Congress"
     excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
     publishedDateTime: 2020-11-19T21:37:00Z
@@ -94,6 +110,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
         width: 733
         height: 545
+        isCached: true
+  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
+    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
+    publishedDateTime: 2020-11-19T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
+        height: 545
+        isCached: true
+  - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
+    excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
+    publishedDateTime: 2020-11-20T00:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFTHCDA6CMI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 933
         isCached: true
   - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
     excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"

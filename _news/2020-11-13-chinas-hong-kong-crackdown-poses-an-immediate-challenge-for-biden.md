@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-bide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_560af5a4403c48c3b0af26ba47adb366_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Justice Dept.’s China focus likely to continue under Biden"
-    excerpt: "President Donald Trump has identified China as the country’s biggest foe and the Justice Department mirrored that emphasis over the last four years with a drumbeat of cases against defendants ranging from hackers accused of targeting intellectual property to professors charged with grant fraud."
-    publishedDateTime: 2020-11-19T10:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "What Biden and other Democrats have proposed for 401(k) plans, home ownership and building wealth"
     excerpt: "It's too early to know if these proposals will ever get enacted, especially if Republicans hold onto the Senate, but a few would affect many Americans."

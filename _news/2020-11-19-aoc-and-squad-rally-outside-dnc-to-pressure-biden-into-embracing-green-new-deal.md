@@ -31,79 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
-    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task."
-    publishedDateTime: 2020-11-18T17:27:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+  - title: "New 'squad' member suggests Biden needs to pay minority communities back after election support"
+    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him."
+    publishedDateTime: 2020-11-20T02:22:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities"
+    ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
+    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
+    publishedDateTime: 2020-11-20T02:21:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
-    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
-    publishedDateTime: 2020-11-16T22:48:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
+  - title: "Biden forms team to oversee confirmation process for key administration posts"
+    excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
+    publishedDateTime: 2020-11-18T14:12:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tj9jlrCOh0w/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'"
-    excerpt: "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday."
-    publishedDateTime: 2020-11-12T00:46:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster"
-    ampWebUrl: "https://www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
+  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
+    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
+    publishedDateTime: 2020-11-12T23:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d6cb2c1-b59f-480d-8f8a-e6494726da30/1f1727ec-3082-495f-b325-dc172502d366/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
-    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task. The Biden team tells Fox News that Biden’s stance on Iran is “spelled out ..."
-    publishedDateTime: 2020-11-19T02:07:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "GKNQh3DvI0AkbvNUIkpTWIXRjLwA86DPbbuqc3YkKLGS0G/fdLXqTfZUm9ID1bOsZqiLIurFrMGAsa7lC3NcZR1lzboNhqx1bC6MYhR5uBI5x3MUy9jwjodOruAh9w6uUGVPpM+VC5tIg6v2SMiHCe1dk7QZBATnTKGz1Qq4lAPdyC09VGauXLzFoK+8EUSc+4mIchZKXd1JEeG4dxihScuW6JdWJfc2sNcWHwPEsOKQav48kWkW4Ji0GKmRx+E+8ju4/MdFjIaaH0qDwabJnOEZT3/36UkB6fffwHs/c0yxUTS648EKmIEEJBe6hcLLfDYIwjH1NRaIADMGRytF/ioi/xTPewFjcQ8DipZyzHI=;Zw61TY5qNARhghdVMZ0cxg=="
 ---

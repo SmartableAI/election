@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/84fa3d77-74ca-42d2-94e5-34c372963c12_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."

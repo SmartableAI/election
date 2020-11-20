@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris, Sen. Lindsey Graham fist-bump on Senate floor"
-    excerpt: "Vice President-elect Kamala Harris and Sen. Lindsey Graham are seen fist-bumping on the Senate floor. Nov. 19, 2020"
-    publishedDateTime: 2020-11-19T22:20:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-sen-lindsey-graham-fist-bump-on-senate-floor-96247877553"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96247877553"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96247877553"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_kamala_graham_201118-00_00_22_08-Still001.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "tVu9IzOdzfP/9V6TgZVYtiW3kTDQSKm3bPRQstfznELxdjbClA6pR50E139y/rwf3WV9y1Vljhm69XDa0mYIeUSoE3N6faqQO/m8BrTdtkxwwKlHWUeOHHKegy3SUcqR9QwPwq0LboqKBdapBXfyKdtkmq1q8IMugA0q3gIj4rwGjNGA7vzCJ3SdtapodoGigI1Oh7zHV01UXMQW4PxlwaD4jjgKpTAEnpdVDkNxCP29U6aXokyCgELO8nHcOl50rICS03fBh5sTQkibKrW0o37eVvg7tHQyWtr5i8DQTIzdhd7pRNPbztU8o5ccGNcLQem8p81a+Akviy8YPY9hwGD1bdGIAduf5aqWfCiINqnBLLDkbSL8KyCOvaLd49kLuRLEsqs0mrkG4EYPikraKeMZmTE5mKx76SpapvprRBxcypdLcgm/zKlo/kpxlWFi27zUFDlB0O/1BwJcsHRosqOJtWo4N3VdeSiA8aVGa4EBqte5YE04ST0LwJSgqTwLbLNoixE1L8kwC/cQUrcSZw==;jCCP6TBguAspD9PqyJNdfw=="
 ---

@@ -31,109 +31,111 @@ images:
     isCached: true
 
 related:
-  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
-    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
-    publishedDateTime: 2020-11-03T04:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T14:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
+  - title: "Trump's appointee Barrett takes part in first Supreme Court arguments"
+    excerpt: "Amy Coney Barrett participated in her first case as a member of the U.S. Supreme Court on Monday, with President Donald Trump's appointee welcomed by Chief Justice John Roberts before questioning one of the lawyers in a dispute in which an environmental group is"
+    publishedDateTime: 2020-11-02T16:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27I24T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27I24T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27I24T"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201102&t=2&i=1539694713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA118G"
         width: 817
         height: 545
         isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T16:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+  - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
+    excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
+    publishedDateTime: 2020-10-27T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/"
+    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/27/judge-rejects-justice-departments-bid-to-shield-trump-from-carroll-lawsuit/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
-    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
-    publishedDateTime: 2020-11-07T10:15:00Z
-    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 101
-    images:
-      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
-    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
-    publishedDateTime: 2020-11-05T05:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Dump Donald Trump: American voters' imperative"
-    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
-    publishedDateTime: 2020-11-03T09:10:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9846fbc3e178a4ae7bff0e%2F0x0.jpg"
         width: 1200
-        height: 832
+        height: 651
         isCached: true
-  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
-    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
+  - title: "Twitter, Facebook flag Trump post questioning Supreme Court voting decision"
+    excerpt: "Twitter <TWTR.N> and Facebook <FB.O> late on Monday both flagged a post by President Donald Trump that called a U.S. Supreme Court decision on voting in Pennsylvania \"very dangerous.\""
+    publishedDateTime: 2020-11-03T04:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-trump-twitt/twitter-flags-trump-tweet-questioning-supreme-court-decision-on-voting-in-pennsylvania-idUKKBN27J051"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27J051"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27J051"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539740510&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA202M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump plans second White House event for Barrett as Senate takes up nomination"
+    excerpt: "The White House on Monday planned a celebration to celebrate the Republican Senate's expected confirmation of President Donald Trump's conservative nominee Amy Coney Barrett to the Supreme Court, one a month after a similar event was linked to a COVID-19 outbreak that"
+    publishedDateTime: 2020-10-26T15:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett/update-1-trump-plans-second-white-house-event-for-barrett-as-senate-takes-up-nomination-idUSL1N2HH17E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27B143"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27B143"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538830036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P0RV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden Says Amy Coney Barrett's Confirmation to Supreme Court Threatens Affordable Health Care"
+    excerpt: "Democratic presidential candidate Joe Biden has criticized Amy Coney Barrett's \"rushed and unprecedented\" Supreme Court confirmation while raising concerns over what it could mean for the future of the Affordable Care Act. President Donald Trump has ..."
+    publishedDateTime: 2020-10-27T09:20:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-amy-coney-barrett-affordable-care-act-1542308?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1658668/biden.jpg"
+        width: 2295
+        height: 1530
+        isCached: true
+  - title: "Trump calls Supreme Court voting decision 'horrendous'"
+    excerpt: "Rough Cuts Trump calls Supreme Court voting decision 'horrendous' Posted . U.S. President Donald Trump told reporters in Wisconsin on Monday that a recent Supreme Court decision o"
+    publishedDateTime: 2020-11-03T09:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD30QSWV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201103&i=OVD30QSWV&r=OVD30QSWV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "U.S. Supreme Court rejects Trump bid to block North Carolina absentee ballot extension"
+    excerpt: "The U.S. Supreme Court on Wednesday rejected a request by President Donald Trump's campaign to block North Carolina's extension of the deadline for receiving mail-in ballots as the justices acted in another voting case ahead of Nov."
+    publishedDateTime: 2020-10-28T23:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court-northcarolina-idUSKBN27D3DR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27D3DR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
 
 secured: "nWdObGNx88QjnUeq/9vM9ffKR0FgFZjzR8GbpxYqE1OoUgyHxaLr0fI1fRoytjXuWDOzhtUQx2qWSniHnfjo2Jc8wZQrjI+S9A8sDqUDRVlVSw8QMXuT0zYquktmqYK0fQi8z90oLMId7MPA/+rtzFYCbEjzFy4Tk3UE6lrfceO3VmaggvySfWLLF2yUa1qC89z5CWAs4KCWNu0jv4XbpMgk/WZZ7c3EkAWPHwShkfBJz3pfmMf8hhA9fL6EbbftrNTdTVYCP44Xt0JIfLmhRabDoaLtfWuKCPVGxVL42V4aR0z/idNektwxNYofzwmM8MsRW2KJVoqGVmSjcjW4+ZDIsR1410OwhhWMvuXcsRw=;PJ1B1yL/KqXJfBhxWhcC5Q=="
 ---

@@ -2,6 +2,543 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-10-23-fact-check-fabricated-biden-quote-supports-transgender-childrens-right-to-transition.md",
+      "title": "Fact check: Fabricated Biden quote supports transgender children’s right to transition",
+      "excerpt": "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2772PM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM",
+      "publishedDateTime": "2020-10-22T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-rejoices-as-senate-panel-approves-barrett-while-democrats-boycott.md",
+      "title": "Trump rejoices as Senate panel approves Barrett while Democrats boycott",
+      "excerpt": "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6",
+      "originalUrl": "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U",
+          "width": 810,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-nyc-seattle-and-portland-sue-trump-over-anarchist-designation.md",
+      "title": "NYC, Seattle and Portland sue Trump over 'anarchist' designation",
+      "excerpt": "New York and its fellow cities branded anarchist jurisdictions by the Trump administration will file a lawsuit Thursday challenging a move to pull their federal funds. The Justice Department last month slapped the label on New York,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484",
+      "originalUrl": "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/4e/f1/029fed4c408dbb7f628018f16b8b/blas1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-anti-trump-lincoln-project-shared-content-us-later-idd-as-iranian-disinformation.md",
+      "title": "Anti-Trump Lincoln Project shared content US later ID'd as Iranian disinformation",
+      "excerpt": "The anti-Trump Lincoln Project PAC shared content on Twitter that U.S. intelligence officials later labeled as Iranian disinformation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Capture-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
+      "publishedDateTime": "2020-10-22T10:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
+      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
+      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 580,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "publishedDateTime": "2020-10-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-got-81-of-the-evangelical-vote-in-2016-meet-the-conservatives-who-are-working-to-vote-him-out.md",
+      "title": "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out.",
+      "excerpt": "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "originalUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "publishedDateTime": "2020-10-22T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-if-biden-wins-and-dems-control-congress-scotus-will-be-expanded-graham.md",
+      "title": "If Biden wins and Dems control Congress, SCOTUS will be expanded: Graham",
+      "excerpt": "Joe Biden and the Democratic Party want to expand the Supreme Court to at least 13 seats to make it liberal if Republicans succeed in confirming Amy Coney Barrett, Sen. Lindsey Graham, R-S.C., told \"Fox & Friends\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
+      "publishedDateTime": "2020-10-22T09:58:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-nyc-joining-portland-seattle-to-sue-trump-admin-over-defunding-for-anarchist-jurisdictions.md",
+      "title": "NYC joining Portland, Seattle to sue Trump admin over defunding for 'anarchist jurisdictions'",
+      "excerpt": "New York City is joining Seattle and Portland, Ore., to file a complaint against the Trump administration in a Seattle court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/bill-de-blasio-donald-trump-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T09:47:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
+      "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
+      "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-22-2020/t_749b9a4d6d5f496687300cc597144b45_name_Screen_Shot_2020_10_22_at_11_23_58_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-changed-everything-about-her-political-views.md",
+      "title": "Jennifer Lawrence says Trump 'changed everything' about her political views",
+      "excerpt": "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6004508002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002",
+      "publishedDateTime": "2020-10-22T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-administration-pitches-second-term-policies-to-indian-country.md",
       "title": "Trump administration pitches second-term policies to Indian Country",
       "excerpt": "The Trump administration is promising the Native American community improved infrastructure, increased business opportunities, higher quality education, and better health care should he be elected for a second term.",
@@ -784,555 +1321,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
-      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
-      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "publishedDateTime": "2020-10-21T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.md",
-      "title": "Trump envoy Richard Grenell met with Venezuelan politician in bid to oust Maduro: report",
-      "excerpt": "Richard Grenell, the Trump administration's special envoy for Serbia and Kosovo Peace Negotiations, reportedly tried in September to negotiate with a Venezuelan politician close to the country's strongman president, Nicolas Maduro, in order to obtain the controversial leader's peaceful exit from office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f33cf-f562-420c-8473-8ca7a7d0522b/2b3b7cc9-f7cf-4984-bda2-bb84843fd1e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
-      "publishedDateTime": "2020-10-21T17:27:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-grants-clemency-to-alice-marie-johnson-associate-4-other-nonviolent-criminals.md",
-      "title": "Trump grants clemency to Alice Marie Johnson associate, 4 other nonviolent criminals",
-      "excerpt": "President Trump granted clemency on Wednesday to five prisoners-- including one who was an associate of Alice Marie Johnson-- who were each serving time in prison for non-violent offenses. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ef2b296-8a08-4701-b0a4-a158c458d0f1/8bc4c25e-c990-4d71-8e66-cf2615c72ff4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
-      "publishedDateTime": "2020-10-21T17:17:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-an-angry-trump-enters-final-debate-as-advisers-hope-for-some-chill.md",
-      "title": "An 'angry' Trump enters final debate as advisers hope for some chill",
-      "excerpt": "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
-      "publishedDateTime": "2020-10-21T17:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-rudy-giuliani-gives-alleged-hunter-biden-hard-drive-to-delaware-authorities.md",
-      "title": "Rudy Giuliani gives alleged Hunter Biden hard drive to Delaware authorities",
-      "excerpt": "Giuliani visited the New Castle County Police Department in Delaware on Monday and handed over a copy of what he says was Hunter Biden’s hard drive, according to a spokesperson for the Delaware Department of Justice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421944/201021-rudy-giuliani-2018-ac-525p_4116787e0e156c4353b10ae9bf4c8e17.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244223",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244223",
-      "publishedDateTime": "2020-10-21T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
-      "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
-      "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e7c038-31e9-41ca-b866-bc48a70fc439/b27add3f-3eae-4088-beb9-957a3678512b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
-      "publishedDateTime": "2020-10-21T16:17:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
-      "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
-      "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rick-Jacobs-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
-      "publishedDateTime": "2020-10-21T15:05:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
-      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
-      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
-      "sourceUrl": null,
-      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
-      "publishedDateTime": "2020-10-21T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hollywood Life",
-        "domain": "hollywoodlife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-cnn-polls-biden-leads-in-pennsylvania-and-tight-race-remains-in-florida.md",
-      "title": "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida",
-      "excerpt": "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
-      "publishedDateTime": "2020-10-21T14:08:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-mitt-romney-says-he-did-not-vote-for-trump-in-the-2020-election.md",
-      "title": "Mitt Romney says he did not vote for Trump in the 2020 election",
-      "excerpt": "Sen. Mitt Romney said Wednesday he did not vote for President Donald Trump's reelection, the latest break between the GOP's 2012 presidential nominee and the leader of his party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1530,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200417144014-mitt-romney-0124-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
-      "publishedDateTime": "2020-10-21T13:48:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

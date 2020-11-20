@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden forms team to oversee confirmation process for key administration posts"
-    excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
-    publishedDateTime: 2020-11-18T14:12:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tj9jlrCOh0w/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
     excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
     publishedDateTime: 2020-11-13T17:35:51Z
@@ -108,22 +92,6 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54c7ce-bf86-4534-ad75-337c9f985a82/8d32a57a-c1f1-4927-be8a-33f4a292438b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
-    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
-    publishedDateTime: 2020-11-12T23:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

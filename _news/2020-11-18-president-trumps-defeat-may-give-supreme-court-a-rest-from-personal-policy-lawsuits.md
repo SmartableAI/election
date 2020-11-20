@@ -31,321 +31,222 @@ images:
     isCached: true
 
 related:
-  - title: "Tight spot: Trump loss complicates Pence's political future"
-    excerpt: "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024"
-    publishedDateTime: 2020-11-14T00:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump administration does not support lockdown, school closures: Pence"
-    excerpt: "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States."
-    publishedDateTime: 2020-11-19T22:26:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-pence-idUSKBN27Z36O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z36O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z36O"
+  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
+    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 140
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541823164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1W8"
-        width: 837
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
+        width: 817
         height: 545
         isCached: true
-  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
-    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
-    publishedDateTime: 2020-11-07T10:15:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump wins North Carolina"
-    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-14T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
-    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
-    publishedDateTime: 2020-11-14T05:12:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's Pentagon shake-up has the military worried about its future"
-    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
-    publishedDateTime: 2020-11-13T16:10:00Z
-    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
-    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
+  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
+    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
     publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How Trump tried to steal Michigan"
-    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
-    publishedDateTime: 2020-11-19T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Fact-checking the craziest news conference of the Trump presidency"
-    excerpt: "President Trump's attorneys offered a stew of falsehoods and conspiracy theories in a desperate effort to claim he did not lose the election."
-    publishedDateTime: 2020-11-19T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/334GFEBKVII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump defied gravity; now falls back to earth, future TBD"
-    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
-    publishedDateTime: 2020-11-08T02:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump books will continue after Trump leaves office"
-    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
-    publishedDateTime: 2020-11-09T22:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Is there any chance Trump will concede?"
-    excerpt: "Watch \"Is there any chance President Trump will concede the election?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-13T00:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201113000632-is-there-any-chance-president-trump-will-concede-the-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07673587_1605226015.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Final U.S. offshore oil auction under Trump will test industry demand"
-    excerpt: "The Trump administration on Wednesday will offer all available areas in the Gulf of Mexico for auction to oil and gas companies in its final offshore sale before the January inauguration of President-elect Joe Biden,"
-    publishedDateTime: 2020-11-18T12:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN27Y1IR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1IR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
+        width: 840
+        height: 545
         isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
-    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
-    publishedDateTime: 2020-11-08T11:19:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
+  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
+    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
+    publishedDateTime: 2020-11-20T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 97
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
+    excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
+    publishedDateTime: 2020-11-12T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 995
+        isCached: true
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "NY probes Trump consulting payments that reduced his taxes"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
+    publishedDateTime: 2020-11-20T03:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
+        isCached: true
+  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
+    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
+    publishedDateTime: 2020-11-18T16:10:00Z
+    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "What does Mike Pence's future look like after election loss?"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status."
-    publishedDateTime: 2020-11-15T15:21:00Z
-    webUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html"
-    ampWebUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
-    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
-    type: article
-    provider:
-      name: South Bend Tribune
-      domain: southbendtribune.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/8/cb/8cb832e9-08cf-5e26-a8f6-f241e995ad1c/5faee2b1955cf.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Duluth airport barred Pence after Trump broke virus rules"
-    excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
-    publishedDateTime: 2020-11-19T17:39:00Z
-    webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/c1/1c1d6e59-8ed2-5fca-a818-669af812d1ab/5fb69dc7da190.image.jpg?resize=1024%2C717"
-        width: 1024
-        height: 717
-        isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 88
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
-    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
-    publishedDateTime: 2020-11-11T18:52:00Z
-    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 74
-  - title: "Tight spot: Donald Trump loss complicates Mike Pence’s political future"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the Vice President is contending with a far less certain future."
-    publishedDateTime: 2020-11-13T21:37:00Z
-    webUrl: "https://floridapolitics.com/archives/383296-trump-loss-pences-political-future"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 70
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Political future complicated for Pence"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the vice president is contending with"
-    publishedDateTime: 2020-11-14T06:19:00Z
-    webUrl: "https://www.fairmontsentinel.com/news/national-news-apwire/2020/11/14/political-future-complicated-for-pence/"
-    type: article
-    provider:
-      name: Fairmont Sentinel
-      domain: fairmontsentinel.com
-    quality: 55
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.fairmontsentinel.com/images/2016/11/28181950/fblike.jpg"
-        width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "244l2OET6tRsyxkzmtWDLdZURpK/mxvYFQoG8bzcGYsTPVr/qcneSGpoSwgrdXfOgrl48JSEOlLMZ4AdvRS/5G3mlBgkGMi6Ebr425vTl2yIJqJCziN+OySu+jYy13cCMj9ja8d5PWAyn5jE0q2FYd2umzKLrS84RwDavCfw5r4lcBtBrO3/psEZbfleIk/DvuQHp6RtWQLNY5rcYkdH9aN3I4NoYl9ENbq2yTTnSBx5cB69JauGNtemU22a2EGZstcj/yiw9ybvXhUKHWrzCZKvDByochZpw8twthV5chUe84FoO6AWO4wyPIcjH0LN0wD/cUFG8dJrf5Qw5xcqrDe8zSPbJBeE93BisMEqp9VZitSnkh5js+fxLIhvtkrbQ5jVtk1BhoYkNacWTREYZ82KTWemeJ1+am21LcT9zo1rdoM0YtSQ4yx6we7J1S18poT1AK/dNWBh8ziTdKjIiSh1NjNfANjogd+KjcwL1lfdzoIbF3JcrTyHZ/HF8PQc0PNiSi0kw612O/fuEN2DOw==;bYZXwZsXh0ANfcozr9FA7w=="

@@ -1015,6 +1015,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden brushes aside Trump attempts to overturn the election, confident his victory will stand"
+    excerpt: "Democrats so far have treated the president’s moves more as a tantrum than a threat to Biden’s assumption of the presidency."
+    publishedDateTime: 2020-11-20T00:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-election-trump-transition/2020/11/19/65ec7780-2a80-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-election-trump-transition/2020/11/19/65ec7780-2a80-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-election-trump-transition/2020/11/19/65ec7780-2a80-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 144
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden gains ground on Trump in Georgia and Pennsylvania, edges closer to White House"
     excerpt: "Democratic presidential candidate Joe Biden gained more ground on President Donald Trump in the battleground states of Georgia and Pennsylvania on Friday, edging closer to the White House hours after Trump falsely claimed the election was being \"stolen\" from him."
     publishedDateTime: 2020-11-06T13:14:00Z

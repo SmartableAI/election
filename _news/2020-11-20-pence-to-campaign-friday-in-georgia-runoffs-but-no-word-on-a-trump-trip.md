@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
     excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
     publishedDateTime: 2020-11-05T10:04:28Z
@@ -191,6 +207,6 @@ related:
         height: 853
         isCached: true
 
-secured: "+6A/kebzp9gUDZ/7BFGkX1aAPEivy5+h9x7t5hrc6gtqAhCTxoAJWltAzpxTLP2rr37IccL0LigL3onI64UdECL/B90QWPGfFuVKaYH+mf8toQNBKXjR6X6Nh/Z0pdVOnnaRDqT9MZk3Kfz+AS2pAvH/TY49eBjLNwRrdGMtfzFMypyutYJ3FXI8wavvXWFTT79WJraXVH7LGM7ZIYbmG6BBdUbMxzpnZaIr7EM8LJJ1BRH9qIZ8vK/VSfgcn+J0rStRumtSu1JyIjGkU6dPum325sIm94smCgr9595CAQKhBAeDZgdb2LcNr6B4TvaR/rsbgcY/cBSjLjcp2/bcZOlRhqY14eWmcUXVvoHOq4o=;k+eB15DngZmo10uZTEAPLw=="
+secured: "FHzdpPz72kj9ZkdvhXIUsSn7DxN0piI1oWGZH+9/5HPTVu+bxeUnpa9FRz0vxN1Q7vZiLSTZgjIGlCCRDO7dsyZ1IDG77a3pHRwojiaeNqK7YVF/QYjW5H6v+n/nGo+971FXKpdw5XTmdal5FsmI61yMnZc20A7CuJA9UIvee2ngDpC+pPK76MlrbMDix9e3XDyeaS1UqsZxax8ZokYMOxTHsF0gbpex2TFliyycIjlp0cBKmlPiZapt2pKR2w46sFJqx+zgKtNZaAzgtJ0/2Ear1WOEYIYZtkRT18gtRe5jM30gpnmlZWMeQMEl1xB0ImVTcUuWG13d9YtxgnOH4ECzdgpPkNI4t+dcz67C8qYvdKo1BpTPR7hc03gzKhmCnmUUSSatHdKLRTTw4MBSN8ePYHDVUbxPpfwEV0k7fDlWD8l9wpq24DSdXnagB/zR7vCofViMJ1/DKsszg8fLpjFz0aZ9RBYQ2HRlG86qgCOB+PSTW0ZxRi5aCryIfDJB5TW4SE640w3JN0sXXrFsTA==;WF8CwJeEV55gLMWzePeH0w=="
 ---
 

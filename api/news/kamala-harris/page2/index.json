@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-election-countdown-kamala-harris-stumping-saturday-what-about-trump.md",
+      "title": "Election Countdown: Kamala Harris stumping Saturday. What about Trump?",
+      "excerpt": "With four days to go until Nov. 3, polls seem to say one thing but do voter turnout numbers point to a different result?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/",
+      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/NPPP/0716bd2e-ed3b-4861-b40e-ae39e3712e3f-PBC_Early_Voting_Color_04.jpg?auto=webp&crop=4165,2343,x0,y239&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.palmbeachpost.com/amp/6082893002",
+      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6082893002",
+      "publishedDateTime": "2020-10-30T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-kamala-harris-says-political-figures-mispronouncing-her-name-are-predictable-and-childish.md",
       "title": "Kamala Harris Says Political Figures Mispronouncing Her Name Are \"Predictable and Childish\"",
       "excerpt": "Kamala Harris joined Trevor Noah on The Daily Social Distancing Show Thursday night where she addressed those who mispronounce her name. \"Why does it seem like it becomes harder to pronounce your name the more conservative a person is?",
@@ -419,7 +462,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 417,
+      "heat": 377,
       "tags": null,
       "images": [
         {

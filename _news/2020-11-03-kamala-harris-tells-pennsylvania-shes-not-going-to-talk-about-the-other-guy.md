@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pennsylvania Republicans leaders dismiss Trump fraud claims, but call for audit"
+    excerpt: "Pennsylvania Republican leaders on Friday did not join President Donald Trump and his close allies in accusing the state’s election officials of fraud, but did step forward to call for an audit of the election."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://abcnews.go.com/US/pennsylvania-republicans-leaders-dismiss-trump-fraud-claims-call/story?id=74064448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 101
+    images:
+      - url: "https://s.abcnews.com/images/Politics/boockvar_hpMain_20201106-235802_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "SJESmvEy4wlZbvHYfkA3A0qDhmfJbaML9P/KQn2EQOEs2Ex919+s75PNt1GG4Mma9SUg5dSnzQ5QLrvrCN3pIxr2uZnw5i1L5Ses210Fzzh6bv+yWVp1B31bG+k7swoJNJnkVHvfECYCvZZfra3AiX8WY5xJHeZHR7vo7s7zOXmN1lDvkHCuysLug2a90+2IwOLD1A4hBNjug5D1uHhysCUFFvvZ6ome9lHP2jq9DdXZtxR0KQhzbJBlBb6PVWRkDUKGhvbWE/JlXj7X49QhKU1b401y24Rvp/JgaaLsVwBNC4RoLuWDHxEBvFFVEsS+JUtMqP+kby1nSsJxRdwMat/2n32bO5ncUHMRHKraVHGkBkiPcBsLd3vAMLM/IPkNKbP8GGc/D9+xZ8isG4GP9nrgQPFr5TFvUMwq7ePFgBEPIg47YohjPAjYqO90Pr3sRksyPPlqGgdWQsc7UGmXQsW7dVPyXvD5vcEG9s+pilPDzlyC2WmGVKXJP0P3BbY9oT0qvGO8ru1Ve86fe8jGmg==;8fVgbjWqwK8khnTqu/oV2g=="
 ---

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-20-biden-says-trump-challenge-to-his-election-victory-is-totally-irresponsible.md",
-      "title": "Biden says Trump challenge to his election victory is 'totally irresponsible'",
-      "excerpt": "President-elect Joe Biden said on Thursday that incumbent President Donald Trump's challenge of the results of the Nov. 3 election was \"totally irresponsible.\"",
+      "path": "_news/2020-11-20-harvard-petition-demands-accountability-before-trump-officials-are-invited-to-campus.md",
+      "title": "Harvard petition demands ‘accountability’ before Trump officials are invited to campus",
+      "excerpt": "Trump allies, including Kayleigh McEnany and Alan Dershowitz, decried the open letter from Harvard affiliates and vowed to challenge it.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27Z34T",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-idUSKBN27Z34T",
+      "webUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
+      "originalUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 752,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541821574&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1V2",
-          "width": 1119,
-          "height": 545,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RVMGIRIEMI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,173 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34T",
-      "publishedDateTime": "2020-11-19T14:12:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2020/11/19/harvard-trump-petition/?outputType=amp",
+      "publishedDateTime": "2020-11-19T20:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-promising-more-lawsuits-trump-attorney-rudy-giuliani-recycles-litany-of-debunked-claims.md",
+      "title": "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims",
+      "excerpt": "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "originalUrl": "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "publishedDateTime": "2020-11-19T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-paints-trump-as-reckless-as-pence-and-science-advisers-cheer-vaccine-news.md",
+      "title": "Biden paints Trump as reckless as Pence and science advisers cheer vaccine news",
+      "excerpt": "At dueling public events, the president-elect and the White House offered starkly different views of Trump’s pandemic response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUMXMZBKXAI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-19T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-gop-increasingly-accepts-trumps-defeat-but-not-in-public.md",
+      "title": "GOP increasingly accepts Trump's defeat — but not in public",
+      "excerpt": "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
+      "publishedDateTime": "2020-11-19T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -111,6 +268,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-trump-tweets-words-he-won-says-vote-rigged-not-conceding.md",
+      "title": "Trump tweets words 'he won'; says vote rigged, not conceding",
+      "excerpt": "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
+      "publishedDateTime": "2020-11-19T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-fact-check-map-showing-trump-landslide-based-on-false-report-of-seized-election-servers-in-germany.md",
       "title": "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany",
       "excerpt": "A map that shows Trump at 410 votes was displayed during a segment on the conspiracy theory about an Army raid to seize servers in Germany.",
@@ -119,7 +328,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/11/18/fact-check-fake-map-shows-trump-with-410-electoral-votes/3767048001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -215,6 +424,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-trump-friendly-newsmax-seeks-to-cut-into-foxs-viewership.md",
+      "title": "Trump-friendly Newsmax seeks to cut into Fox’s viewership",
+      "excerpt": "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_777c7cd132ab4359b233e894a7cdf40a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611",
+      "publishedDateTime": "2020-11-18T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-americas-bellwethers-crumbled-in-aligning-with-trump-in-20.md",
       "title": "America's bellwethers crumbled in aligning with Trump in '20",
       "excerpt": "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956",
@@ -223,7 +484,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -324,15 +585,72 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-trump-friendly-newsmax-a-sudden-competitor-to-fox-news.md",
-      "title": "Trump-friendly Newsmax a sudden competitor to Fox News",
-      "excerpt": "The Trump-friendly network Newsmax saw its viewership explode after the election, helped by fans of the president who were apparently miffed at Fox News Channel",
+      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
+      "title": "Trump Fires Again, This Time a Cybersecurity Official",
+      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html",
+      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "publishedDateTime": "2020-11-18T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-trump-faces-wednesday-deadline-for-wisconsin-vote-recount.md",
+      "title": "Trump faces Wednesday deadline for Wisconsin vote recount",
+      "excerpt": "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -346,9 +664,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-18T10:23:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-18T06:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -384,7 +702,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2020/11/18/trumps-2020-campaign-app-phunware/6337581002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -408,58 +726,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-republican-election-chief-says-trump-wouldve-won-georgia-by-10000-votes-if-he-hadnt-suppressed-his-own-voting-base.md",
-      "title": "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'",
-      "excerpt": "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp",
-      "publishedDateTime": "2020-11-18T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -532,58 +798,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-the-note-trump-gop-test-limits-as-legal-walls-close-in.md",
-      "title": "The Note: Trump, GOP test limits as legal walls close in",
-      "excerpt": "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
-      "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
-      "publishedDateTime": "2020-11-18T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-trump-fires-top-us-election-cybersecurity-official-who-defended-vote.md",
       "title": "Trump fires top U.S. election cybersecurity official who defended vote",
       "excerpt": "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud.",
@@ -592,7 +806,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 420,
       "tags": null,
       "images": [
         {
@@ -633,63 +847,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fires-christopher-krebs-official-who-disputed-election-fraud-claims.md",
-      "title": "Trump Fires Christopher Krebs, Official Who Disputed Election Fraud Claims",
-      "excerpt": "Mr. Krebs had overseen election cybersecurity efforts, and had joined other officials in declaring the 2020 election “the most secure in American history.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/17/us/politics/trump-fires-christopher-krebs.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/17/us/politics/trump-fires-christopher-krebs.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/17/us/17dc-krebs-photo/17dc-krebs-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/17/us/politics/trump-fires-christopher-krebs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/politics/trump-fires-christopher-krebs.amp.html",
-      "publishedDateTime": "2020-11-17T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -753,7 +910,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -853,7 +1010,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -877,58 +1034,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-infighting-and-an-attempted-coup-trump-team-erupts-into-chaos-as-giuliani-takes-over-legal-efforts.md",
-      "title": "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts",
-      "excerpt": "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "originalUrl": "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079",
-      "publishedDateTime": "2020-11-17T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -981,6 +1086,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-trump-and-allies-pitch-yet-another-woeful-voter-fraud-theory-in-nevada.md",
+      "title": "Trump and allies pitch yet another woeful voter-fraud theory in Nevada",
+      "excerpt": "Officials have moved to re-do a race in Clark County. It's not the voter fraud smoking gun Trump and his allies suggest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMYTA4RA3YI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp",
+      "publishedDateTime": "2020-11-17T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-latino-voters-who-fled-dictatorships-demand-four-more-years-for-trump.md",
+      "title": "Latino voters who fled dictatorships demand four more years for Trump",
+      "excerpt": "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6257746002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002",
+      "publishedDateTime": "2020-11-17T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1162,58 +1371,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-trump-hints-at-primary-challenge-for-dewine-in-tweet.md",
-      "title": "Trump hints at primary challenge for DeWine in tweet",
-      "excerpt": "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6309631002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002",
-      "publishedDateTime": "2020-11-16T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-katy-perry-george-conway-jump-in-to-support-trump-critic-claudia-conways-american-idol-audition.md",
       "title": "Katy Perry, George Conway jump in to support Trump critic Claudia Conway's 'American Idol' audition",
       "excerpt": "American Idol' judge Katy Perry welcomed Kellyanne Conway's daughter Claudia, who is auditioning. \"Let the games begin,\" said Perry.",
@@ -1274,7 +1431,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/pentagon-expects-order-reduce-troop-levels-afghanistan-iraq/story?id=74237780",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1298,110 +1455,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-update-1-trumps-fed-pick-shelton-draws-third-republican-no.md",
-      "title": "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'",
-      "excerpt": "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO",
-      "originalUrl": "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6",
-      "publishedDateTime": "2020-11-16T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-in-new-memoir-obama-confronts-the-racial-anxiety-of-trump-supporters.md",
-      "title": "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters",
-      "excerpt": "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp",
-      "publishedDateTime": "2020-11-16T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1482,7 +1535,7 @@
       "originalUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1523,59 +1576,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-election-2020-live-updates-trump-coronavirus-adviser-atlas-tells-michigan-to-rise-up-against-covid-restrictions.md",
-      "title": "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions",
-      "excerpt": "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 468,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6308427002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002",
-      "publishedDateTime": "2020-11-16T04:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     }
   ],

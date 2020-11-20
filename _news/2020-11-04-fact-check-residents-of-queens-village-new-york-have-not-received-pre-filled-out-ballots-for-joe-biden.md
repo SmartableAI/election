@@ -63,6 +63,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Breakingviews - The Donald Trump show will continue broadcasting"
     excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
     publishedDateTime: 2020-11-09T16:32:00Z
@@ -77,6 +93,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
         width: 828
+        height: 545
+        isCached: true
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
         height: 545
         isCached: true
   - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
@@ -95,19 +127,19 @@ related:
         width: 870
         height: 545
         isCached: true
-  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
-    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
-    publishedDateTime: 2020-11-05T08:09:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
+  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
+    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
+    publishedDateTime: 2020-11-10T20:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -137,6 +169,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+  - title: "Trump defied gravity; now falls back to earth, future TBD"
+    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
+    publishedDateTime: 2020-11-08T02:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
     excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."

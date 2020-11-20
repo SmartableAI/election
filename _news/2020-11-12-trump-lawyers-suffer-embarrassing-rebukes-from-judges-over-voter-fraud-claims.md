@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suf
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
 type: article
 quality: 122
-heat: 182
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Arlington National Cemetery canceled an event over virus concerns. Trump overrode them."
-    excerpt: "Wreaths Across America draws thousands of volunteers to Arlington National Cemetery every winter to place holiday wreaths at headstones."
-    publishedDateTime: 2020-11-18T04:30:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
+  - title: "Latino voters who fled dictatorships demand four more years for Trump"
+    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
+    publishedDateTime: 2020-11-17T13:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 117
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD3VEHRJDUI6XGYUVWDSCV7LZE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 941
+        height: 960
         isCached: true
-  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
-    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
-    publishedDateTime: 2020-11-06T14:38:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
+  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
+    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
+    publishedDateTime: 2020-11-12T14:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
-    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
-    publishedDateTime: 2020-11-09T03:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
+    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
+    publishedDateTime: 2020-11-10T16:27:00Z
+    webUrl: "https://time.com/5909885/after-donald-trump/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: Time
+      domain: time.com
+    quality: 88
     images:
-      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "BR/KcxmRha8GYzFzUvA73RcJ5idckAO/kyLR2jKJD6t1ezk1Bw+KYl2v6Em8XF+5QBthgtM2wd6+EEbUA/XfHAsPtdT98t1GDKBG0HeblwP3Z+2Aycoyp0vkgs1n9tM3+KT2De7LWlj/azM3AGgcYlsoyeJX1NgmP29cz15SPfgMD4YXKELdDGAdlcwacDrLWW02GF+u5wk47KlRmgVxI8Kf2/pa6jEzQAnLILoDsDIMHlm6DoptktwexYHm7gRdgLr88Sp3whRNtwT7TGWiYpgK+yPNox354xGjofIhv82KbMoSzNs2S7/5tHnBCEGQ9QQ8O/4KsfzjCX/Gd/fwL1zZbno20CEXEqjDVomMDzYmohAnsN9u05z8bZDf00u0FVnjpDXTlXDAdLKNqSe6RO7t3QyR533d+s+3g5XMBo8dNBjLjWMrM5cjXXzeWPVUl4UV01jeOYyyUEXqkMmQ4REvEBhwN8DIg2IeWEm3+yQDU5igzcl4ls9tntHCvRRNJWOGKHKIqjYpJ0QPdyL2Qg==;PpHECpokVHAEa88xlcfgGA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6337581002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6337581002"
 type: article
 quality: 113
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Barack Obama on Trump: \"This is not normal\""
+    excerpt: "In his interview with CBS News' Gayle King, former President Barack Obama comments on Election 2020, and President Donald Trump's allegations, without evidence, that his election loss was due to fraud."
+    publishedDateTime: 2020-11-16T00:14:00Z
+    webUrl: "https://www.cbsnews.com/video/barack-obama-on-trump-this-is-not-normal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/a95c601d-ee80-4f64-a4fb-a5f7e5d7ba46/thumbnail/1200x630/339301e5a15b8b557ecccc191db80c77/1115-sunmo-obama-normal-588504-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BmWCUGUTlujZlwlet4fKRHfbl7OCMjXu25YOrs9u58Nv+Uf2D+63BwiNU+NPWz7grdK44XBKZ/0r6P/LiHF8Twpz6Ssl6DN+/oKNvjRsBpILN8hL9tiqNtndeCzYKJcBYn/3m7TI7Ezz1yFrd792UPLWoFM0GAG/A0ycVZLkckjDz62hhDvdTs53/5BD5PqA5TI5uEP2TxDzGfUDwGbUp6RICkLnuF5ds23eeCTM9zspnrpNxKcHAvTgxt9Qfgoi0Qz5CSiwC7ZnKTeSPAH8MJpFNntVmCjen7I6lfIcCNRonejHQr4QNpizT9Ewc9pzLwFg4AfDBK98zu5Hg4efcIkOdZTvtiovbz9xqtv62dctG0cRMqyNw8Ml5HvPdYDP7XCKhZNryuD9C/ZES/51Pl1lenOULDEgOVNtJd52HKTSGGYanKw5OwurmYI1JcVPvuFNkcgZ6yx8H2JqWXr7VYjy+ytJTMLTfcZYR33Y1oneQjk2uc1rlG7T1vxtllYfaBCB9sdpkQHRSTEn2PbJgg==;Y9ofNHEsc91ORT2Vt7U/6A=="
 ---

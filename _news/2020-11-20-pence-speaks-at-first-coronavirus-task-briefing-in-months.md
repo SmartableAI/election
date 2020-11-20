@@ -41,6 +41,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
+    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
+    publishedDateTime: 2020-11-20T00:10:00Z
+    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
+    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
+    publishedDateTime: 2020-11-17T21:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
+        width: 781
+        height: 545
+        isCached: true
   - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
     excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
     publishedDateTime: 2020-11-19T22:36:00Z

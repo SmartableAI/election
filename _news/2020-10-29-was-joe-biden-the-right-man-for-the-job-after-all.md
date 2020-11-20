@@ -46,38 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and Harris share the spotlight with their families to celebrate victory"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris addressed the nation for the first time Saturday night with their families by their side.\n    \n"
-    publishedDateTime: 2020-11-09T22:04:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3eyKXIy7iSs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/biden-harris-families/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 197
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107211411-27-biden-harris-address-1107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Lady Gaga and John Legend to join Joe Biden and Kamala Harris for final campaign events"
-    excerpt: "Superstars Lady Gaga and John Legend will join Joe Biden and Kamala Harris for their final respective events on the campaign trail on the eve of Election Day, the Biden campaign announced Sunday.\n    \n"
-    publishedDateTime: 2020-11-01T20:51:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/36z-f9SM6zk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/01/politics/lady-gaga-john-legend-joe-biden-kamala-harris-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 192
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160225091736-lady-gaga-joe-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Bulldozer thief drove through Florida town digging up Biden-Harris campaign signs"
     excerpt: "James Blight was arrested in Haines City, Florida for allegedly stealing a bulldozer to dig up and vandalize the homes of people displaying Joe Biden signs."
     publishedDateTime: 2020-10-26T14:38:00Z

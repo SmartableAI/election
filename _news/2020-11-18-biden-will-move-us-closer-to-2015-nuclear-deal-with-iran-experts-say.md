@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
 type: article
 quality: 175
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal"
-    excerpt: "The progressive lawmakers belonging to the “Squad” took to the steps of the DNC Thursday to demand President-elect Joe Biden in his administration implement the Green New Deal, transforming the U.S. economy to combat climate change and creating thousands of jobs in renewable energy."
-    publishedDateTime: 2020-11-19T22:39:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xKbGF-xlqFM/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
     excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
     publishedDateTime: 2020-11-16T22:48:27Z

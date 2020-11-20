@@ -4214,6 +4214,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden pledges to pay for National Guard’s Covid work"
+    excerpt: "WASHINGTON — President-elect Joe Biden pledged Thursday to fully fund the National Guard's coronavirus relief work once he's sworn in, and criticized the Trump administration for making most states pick up 25 percent of the cost of having soldiers and airmen run testing sites,"
+    publishedDateTime: 2020-11-19T23:31:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/11/19/biden-pledges-to-pay-for-national-guards-covid-work-1337286"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5b/e0/3367c6e54f07a8970d74d1d787a9/ap20324701712300.jpg"
+        width: 5021
+        height: 3345
+        isCached: true
   - title: "Kate Bedingfield: Joe Biden will 'lay out' his cabinet to the Senate"
     excerpt: "Kate Bedingfield, Biden Deputy Campaign Manager and Communications Director tells Chuck Todd that President-elect Joe Biden will move quickly to announce leadership positions, during an exclusive interview with Meet the Press."
     publishedDateTime: 2020-11-08T15:41:00Z

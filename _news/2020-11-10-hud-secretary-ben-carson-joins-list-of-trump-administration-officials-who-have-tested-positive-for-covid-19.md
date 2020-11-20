@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6221912002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6221912002"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
-    excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
-    publishedDateTime: 2020-11-14T00:21:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOKWLERGBII6XJUIKKMK2XKYBI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "SQLWwZth6TbDJd4iiIFPgDKlsRMg00hnMG3KkS7VJ/9t4Z1H9kq0ZYYpIvzUWyX1ID06nvtS6ct3M5Lcw1LyVHwQXwt1wUzTn2KtJZ3DWTUsb4sV8vUPBVN3Yqsul14QY3gr83D2tHveCHAzjxJkwjq+KPU+OkzXDj5AUkguHHpLQw6sN/mzR4zRhh0znwMal0H0vUYCGl9xDJs8J2DcrvL8yFXmQMmF/B+Bm8gn9y1pI2WSNphjyl4UQatNzUxFIivKPvPv01T2eQguSTaIyzAKUssdSBfhTDPKS9sEFeeLRuj1TKSKAtvrDxR7P/rPfkr+hwxhC/jUcfv3wrZGPgji6G2bHe/25lTtyf7cC54=;LriKuiOHvrdJPlcjYHb1DA=="
 ---

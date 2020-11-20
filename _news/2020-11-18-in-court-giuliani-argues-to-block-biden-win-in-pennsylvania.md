@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/7ecae65f-0970-42d5-b0ca-e845355beb89/thumbnail/1200x630/085d5ef1de243cdcbeaa60e00584ccd1/cbsn-fusion-biden-takes-lead-in-pennsylvania-and-georgia-moves-closer-to-win-thumbnail-582812-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden's win in Georgia reaffirmed after recount"
+    excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
+    publishedDateTime: 2020-11-20T01:28:00Z
+    webUrl: "https://www.cbsnews.com/news/bidens-win-in-georgia-reaffirmed-after-recount/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/06/ee03f2d0-a208-482b-a218-258f99734fc8/thumbnail/1200x630/5c1c42c68fc76852f130a31cf6864aaa/cbsn-fusion-georgia-secretary-of-state-says-they-will-head-to-a-recount-thumbnail-582579-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

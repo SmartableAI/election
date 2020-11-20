@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims"
-    excerpt: "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well."
-    publishedDateTime: 2020-11-11T16:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
+  - title: "Trump supporters plan rallies in Washington DC, experts warn extremists may attend"
+    excerpt: "It's unclear how many people will go to rallies in support of President Trump in Washington, D.C., but experts warn right-wing extremists may attend."
+    publishedDateTime: 2020-11-14T04:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/13/trump-supporters-plan-washington-dc-rallies-experts-warn-extremists/6265591002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6265591002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6265591002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/c9445b3e-4891-4b6d-8858-278174f9fa31-XXX_ILSPR_110720_PHOTO_Rally_03.jpg?auto=webp&crop=4533,2550,x0,y389&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump wasn’t just a rural phenomenon. Most of his supporters come from cities and suburbs."
+    excerpt: "Are rural Americans Trump voters? Yes, many of them. Trump voters outnumber voters who supported Joe Biden 2 to 1 in rural counties. But are all Trump voters rural? Absolutely not. Voters in rural America accounted for less than a fifth of all votes cast for him."
+    publishedDateTime: 2020-11-19T00:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 122
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440"
-        width: 1440
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTWKQIEDW4I6TNMF4NVRNJJRVI.jpg&w=1440"
+        width: 1439
         height: 960
-        isCached: true
-  - title: "Donald Trump Jr. compares the US to a 'banana republic' over uncorroborated election fraud claims and gets tagged by Twitter"
-    excerpt: "Donald Trump Jr., the President's son has called for \"total war\" over election fraud claims and for fellow Republicans to show support for his father."
-    publishedDateTime: 2020-11-06T14:38:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-compares-us-to-banana-republic-tagged-twitter-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5fa54b4c1df1d500182193c6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
-    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
-    publishedDateTime: 2020-11-09T03:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "fZ7dT010eZFNi3P44AWwF4gcnrS7HxFcG/x0Q/uvz1JDC+T10jOrTgYjGxc/3vki5uWDXpohA5FH6YJTa2lkoqWmAM2gyiryUQM8Ty4cTlo6WdhbYCGr+oOLQFYGn49QXSQ4WXo2W+4bkLg1gI6CY4d3NGZyrshWLwsl1P3vyDcm6OUdI+l9IxqgLIWppMtgcPR75/4ExDfv8Uimk234g1I7AcdCCx5to5McyW565r7WF0Y0qU3vQt/f6CByT4dI46GUvW+842CRAbpOluOmGetXKg9ZFXWxQVBq+d0BfE5NA1L4OR/vPCD8/7g91GhktYRVc5DlxSTK1BIIKyM1roUJTG4tdFhqCQSjwRzC9CI=;lcXgE+NTgb2LoLm/sTS8Hg=="

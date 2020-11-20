@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
 type: article
 quality: 128
-heat: 468
+heat: 488
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
         width: 1200
         height: 690
+        isCached: true
+  - title: "How Trump tried to steal Michigan"
+    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
+    publishedDateTime: 2020-11-19T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
     excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"

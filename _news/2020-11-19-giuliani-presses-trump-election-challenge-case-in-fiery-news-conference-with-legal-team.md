@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-cha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
 type: article
 quality: 182
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Administration to Release New Rules Reducing Drug Costs"
+    excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
+    publishedDateTime: 2020-11-20T04:19:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "fXZKyh+iUWq9nvJX4NIeWo/MPLAtF2NgCQSbEvp3vSmXcs/fKyjIK901M0/ddVcV6P3zBAmSdEEqTJs+GbzaxxX8PlWSi0ctIpXhPGTPLZAwN24fKjz/Wc7gJNAxyPu9xdrZ2md2/wRE/MBkj0SBcNlRGOFGmA8eGAPPRj4TSZREl2MXJnmAV976T/v5hPYmfPT797DJsYdXEGO7GMjv0nRhvECjhHyMFA3z+17iW6sLhoTHxWYkcnTpSj34DRenA9mUqPXrgh26tJpAnevlxUKcZe3C2foXlKtmiOVhhiJcwbt9mvI0i4TllmILjQIQ1gTswan8eqiLftm/OJYNe7Ol6T0ym6JH/vDIh0wDJfI=;bYjAO/fUOt7zJRxCmAnq4g=="

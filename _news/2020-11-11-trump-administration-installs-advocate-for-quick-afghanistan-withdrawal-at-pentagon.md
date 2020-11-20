@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentag
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/douglas-macgregor-pentagon/index.html"
 type: article
 quality: 169
-heat: -1
-published: false
+heat: 249
+published: true
 
 provider:
   name: CNN
@@ -31,33 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge tears into Trump administration over its handling of DACA"
-    excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
-    publishedDateTime: 2020-11-18T17:46:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+  - title: "Trump administration moves forward with $2.9 billion drone sale to UAE, source says "
+    excerpt: "The US State Department informed Congress Thursday of the Trump administration's intent to sell 18 armed MQ-9B drones to the United Arab Emirates for an estimated $2.9 billion, a congressional aide told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-06T21:06:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ckiMIwPvF5c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/06/politics/trump-administration-uae-drones-sale-intl/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027162026-daca-rally-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
-    excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
-    publishedDateTime: 2020-11-11T17:40:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vKmFIMWA-Z0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/11/politics/uae-arms-sales-formal-notification/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
+    quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170404153305-us-military-drone-mq-9-reaper-super-tease.jpg"
         width: 1100
@@ -79,53 +63,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration renews push to confirm Wolf amid concerns over legitimacy and agency purge "
-    excerpt: "There's a renewed push to get Chad Wolf confirmed as Homeland Security secretary -- a position in which he's been serving in an acting capacity for a year -- before Inauguration Day, according to two sources familiar with the discussions.\n    \n"
-    publishedDateTime: 2020-11-13T13:01:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Hr6wUJPFa8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/donald-trump-chad-wolf-dhs/index.html"
+  - title: "Trump administration continues to send mixed messages about future of US troops in Afghanistan"
+    excerpt: "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n"
+    publishedDateTime: 2020-10-21T20:03:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200821141222-01-chad-wolf-0806-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190908155230-afghanistan-us-soldiers-file-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Army secretary say Wreaths Across America event will happen, reversing Arlington National Cemetery decision"
-    excerpt: "Wreaths Across America's annual wreath-laying ceremony at Arlington National Cemetery is set to go forward as planned after all.\n    \n"
-    publishedDateTime: 2020-11-17T23:15:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html"
+  - title: "US military anticipates Trump will issue order to plan for further troop withdrawals from Afghanistan and Iraq"
+    excerpt: "US military commanders are anticipating that a formal order will be given by President Donald Trump as soon as this week to begin a further withdrawal of US troops from Afghanistan and Iraq before Trump leaves office on January 20, according to two US officials familiar.\n    \n"
+    publishedDateTime: 2020-11-16T20:55:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/412TxWad58k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/trump-afghanistan-iraq-troop-drawdown-order/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117115006-arlington-cemetery-wreaths-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160706103928-05-us-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump Floats Improbable Survival Scenarios as He Ponders His Future"
-    excerpt: "President Trump is simply trying to survive from one news cycle to the next. At a meeting on Wednesday at the White House, President Trump had something he wanted to discuss with his advisers, many of whom have told him his chances of succeeding at changing the results of the 2020 election are thin as a reed."
-    publishedDateTime: 2020-11-13T08:51:00Z
-    webUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/12/us/politics/trump-future.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
 
 secured: "nAh4HCWYjVHW15NCPjdUH6uE4IgAZhZMTYp6ddoZCIZ4iqVB5aGC9AToUFIsPlMbsE27ZMjQfAa9tQVeWKX0TmO6WQ3YOGhsstx1oHkx1mMzVu7rnuuWyVF1iFMUiHswnEotyuDn1UW24AvrVxy39D+3JkjzqmIgbRZhUJbcU6RJepQSOn37hKmhlPkirvKh5t+Ow4IhVIi2KzwCia4dQ/fqJn7yTJhOcbFCFDgj20Wqvayw3agAmGKxkNAXerfwc+oLWNiJTuLoJGAYQjySO5lUOfF2pUzTnGyIjUfvz7R8whuPGOnoU5MQ7ehQUJ9EkEQFZczUmGtt5C5mlFe/1K9lzMoEJS5crGfUfjyL2lk=;jq0tGMDOG8FYbVa+T35BWg=="

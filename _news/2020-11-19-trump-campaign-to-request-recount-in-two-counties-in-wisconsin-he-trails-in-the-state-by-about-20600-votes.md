@@ -31,143 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "Why did the polls undercount Trump voters?"
-    excerpt: "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,"
-    publishedDateTime: 2020-11-13T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
+  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
+    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
-    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
-    publishedDateTime: 2020-11-16T15:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Latino voters who fled dictatorships demand four more years for Trump"
-    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
-    publishedDateTime: 2020-11-17T13:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
+  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
+    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
+    publishedDateTime: 2020-11-20T00:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 101
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump and allies pitch yet another woeful voter-fraud theory in Nevada"
-    excerpt: "Officials have moved to re-do a race in Clark County. It's not the voter fraud smoking gun Trump and his allies suggest."
-    publishedDateTime: 2020-11-17T18:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
+  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
+    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
+    publishedDateTime: 2020-10-26T23:30:00Z
+    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
+    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: TMJ4
+      domain: tmj4.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMYTA4RA3YI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
-    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
-    publishedDateTime: 2020-11-12T14:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
-    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
-    publishedDateTime: 2020-11-09T15:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pollster: Some Trump voters not reflected in polls"
-    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
-    publishedDateTime: 2020-11-11T21:55:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump pushes new environmental rollbacks on way out the door"
-    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
-    publishedDateTime: 2020-11-18T22:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "Se+fv3t8/4K/KIayNkZs7Eu7O9d5OrY/v+NLdgz7zpkDuj7g/l25btsoiUYO9vqHZWUBdNAqKfWG1FtAque/RQ1aWQIoCMY1bqo8Cb3gcBODvLmssgWPxa6BYYddhjKbBl4uu2vizIBf56uRN3JBeMoQSQIVJq2rZL5jKEXhQ5d/RmKOIigKE/sdcCK1COg/PXTsCH3CXvR7Osj4qkuxBbGoB54ryMz7NV+79GJBOc1GSp0BnCzUDJ3pPKt8gK2JBlwHPfbL5+fB7UVe8Z923ETR27kF1emhqmjRfMnmLXo7uj+4oM0ZCQDhuk2rnmIe3ICMaixzh3EvUkJvyAxzvkicuHXzksgkZ3NKELnoRxgNfUakjDCub3ydX8HC2x5KJEvAGmcrKFm9/7l1soA9eBpuCqj5Fi6NmDy6HjADWfY0jxGmuUwE7bD50w1mizy2D2+BXVwZf+LvxJRL4DkmtaOBbGx3Ua0Yld8fnL0xJnRmjf7pyF/oWJZ5me09bNKV6hY9ju1z75nxf5MLWFGYOg==;Ew/6OLQI/9KvsLP/F7wxkg=="
 ---

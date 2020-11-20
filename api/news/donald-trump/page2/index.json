@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-16-the-daily-202-trump-eggs-on-boos-that-previous-leaders-shushed.md",
+      "title": "The Daily 202: Trump eggs on boos that previous leaders shushed",
+      "excerpt": "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp",
+      "publishedDateTime": "2020-11-16T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-election-2020-live-updates-trump-coronavirus-adviser-atlas-tells-michigan-to-rise-up-against-covid-restrictions.md",
+      "title": "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions",
+      "excerpt": "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 488,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6308427002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002",
+      "publishedDateTime": "2020-11-16T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-trump-campaign-jettisons-major-parts-of-its-legal-challenge-against-pennsylvanias-election-results.md",
       "title": "Trump campaign jettisons major parts of its legal challenge against Pennsylvania’s election results",
       "excerpt": "The campaign removed an allegation that more than 600,000 votes should be invalidated, capitulating on one of its most aggressive legal claims.",
@@ -275,7 +380,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/13/trump-supporters-plan-washington-dc-rallies-experts-warn-extremists/6265591002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -371,21 +476,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-why-did-the-polls-undercount-trump-voters.md",
-      "title": "Why did the polls undercount Trump voters?",
-      "excerpt": "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,",
+      "path": "_news/2020-11-13-abuse-of-the-rule-of-law-1000-ex-judges-legal-experts-slam-trumps-false-claims-of-voter-fraud.md",
+      "title": "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud",
+      "excerpt": "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -393,16 +498,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp",
-      "publishedDateTime": "2020-11-13T04:09:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6276446002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002",
+      "publishedDateTime": "2020-11-13T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-trump-bans-us-investments-in-firms-linked-to-chinese-military.md",
+      "title": "Trump bans U.S. investments in firms linked to Chinese military",
+      "excerpt": "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3",
+      "originalUrl": "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27S2X3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3",
+      "publishedDateTime": "2020-11-13T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -431,7 +588,7 @@
       "originalUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -527,63 +684,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-obama-trumps-fraud-claims-delegitimizing-democracy.md",
-      "title": "Obama: Trump's fraud claims delegitimizing democracy",
-      "excerpt": "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "originalUrl": "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "publishedDateTime": "2020-11-12T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-john-mccains-widow-says-its-time-for-trump-to-accept-the-results-and-get-on-with-the-healing.md",
       "title": "John McCain's widow says it's time for Trump to 'accept the results and get on with the healing'",
       "excerpt": "Cindy McCain described Joe Biden as \"a man of honor\" who would \"heal the wounds caused by the outgoing administration.\"",
@@ -636,162 +736,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-nikki-haley-a-high-profile-republican-and-possible-2024-presidential-hopeful-has-remained-silent-about-trumps-unfounded-election-fraud-claims.md",
-      "title": "Nikki Haley, a high-profile Republican and possible 2024 presidential hopeful, has remained silent about Trump's unfounded election fraud claims",
-      "excerpt": "UN ambassador hasn't commented on Trump's refusal to concede the election, sticking instead to tweets about GOP victories down ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11",
-      "originalUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fad69b4df90d000183781b4?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nikki-haley-silent-on-trump-election-fraud-claims-2020-11?amp",
-      "publishedDateTime": "2020-11-12T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-trump-has-tried-to-coopt-the-army-this-new-museum-shows-why-that-wont-be-easy.md",
-      "title": "Trump has tried to coopt the Army. This new museum shows why that won’t be easy.",
-      "excerpt": "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html",
-      "originalUrl": "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440",
-          "width": 1440,
-          "height": 995,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-12T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-donald-trump-lost-the-presidency-residents-and-realtors-of-trump-tower-think-it-may-become-valuable-again.md",
-      "title": "Donald Trump lost the presidency. Residents and realtors of Trump Tower think it may become valuable again.",
-      "excerpt": "\"I'm hoping that if he doesn't come back there, and we take his name off the building, we could have a wonderful spot to live again,\" said one owner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp",
-      "publishedDateTime": "2020-11-12T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-how-long-can-republicans-keep-helping-trump-delegitimize-the-election.md",
       "title": "How long can Republicans keep helping Trump delegitimize the election?",
       "excerpt": "There are some cracks starting to show – but strong political reasons for Republicans to hang on until Georgia Senate runoffs in January",
@@ -800,7 +744,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/11/12/how-long-can-republicans-keep-helping-trump-delegitimize-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 720,
+      "heat": 760,
       "tags": null,
       "images": [
         {
@@ -824,6 +768,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-obama-says-trump-used-his-birther-lie-to-give-millions-of-white-americans-spooked-by-a-black-president-an-elixir-for-their-racial-anxiety.md",
+      "title": "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'",
+      "excerpt": "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11",
+      "originalUrl": "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp",
+      "publishedDateTime": "2020-11-12T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -928,58 +924,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-lawyers-suffer-embarrassing-rebukes-from-judges-over-voter-fraud-claims.md",
-      "title": "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims",
-      "excerpt": "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp",
-      "publishedDateTime": "2020-11-11T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1491,7 +1435,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/09/ben-carson-tests-positive-covid-19-joining-list-trump-allies/6221912002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1589,6 +1533,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week.md",
+      "title": "The long love affair between Fox News and Trump may be over. Here’s how it ended last week.",
+      "excerpt": "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-09T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -31,321 +31,289 @@ images:
     isCached: true
 
 related:
-  - title: "Tight spot: Trump loss complicates Pence's political future"
-    excerpt: "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024"
-    publishedDateTime: 2020-11-14T00:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump administration does not support lockdown, school closures: Pence"
-    excerpt: "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States."
-    publishedDateTime: 2020-11-19T22:26:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-pence-idUSKBN27Z36O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z36O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z36O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541823164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1W8"
-        width: 837
-        height: 545
-        isCached: true
-  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
-    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
-    publishedDateTime: 2020-11-07T10:15:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 130
+    quality: 128
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump wins North Carolina"
-    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-14T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+  - title: "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds"
+    excerpt: "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic."
+    publishedDateTime: 2020-11-18T15:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/9bd46775-cafd-4391-94b8-ed069c35309e-GTY_1286212955.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
-    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
-    publishedDateTime: 2020-11-14T05:12:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
+    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
+    type: article
+    provider:
+      name: The Clarion-Ledger
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
+    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
+    publishedDateTime: 2020-11-09T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
+    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
+    publishedDateTime: 2020-11-14T20:08:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
+        width: 1200
+        height: 690
+        isCached: true
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump's Pentagon shake-up has the military worried about its future"
-    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
-    publishedDateTime: 2020-11-13T16:10:00Z
-    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+  - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
+    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
+    publishedDateTime: 2020-11-19T19:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/dc081906-4689-4966-9229-50734c07c33f-AP_Biden_1.jpg?auto=webp&crop=1464,824,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
-    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+  - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
+    excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-19T18:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Fact-checking the craziest news conference of the Trump presidency"
-    excerpt: "President Trump's attorneys offered a stew of falsehoods and conspiracy theories in a desperate effort to claim he did not lose the election."
-    publishedDateTime: 2020-11-19T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/334GFEBKVII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
-    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
-    publishedDateTime: 2020-11-18T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
+  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
+    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
+    publishedDateTime: 2020-11-14T10:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump defied gravity; now falls back to earth, future TBD"
-    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
-    publishedDateTime: 2020-11-08T02:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+  - title: "Trump withdraws federal lawsuit in Michigan, citing Wayne County canvasser affidavits"
+    excerpt: "The Trump campaign inaccurately characterized the actions of the Wayne County Board of Canvassers in its rationale for withdrawing the federal lawsuit."
+    publishedDateTime: 2020-11-19T16:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-michigan-lawsuit-detroit-wayne-county-canvassers/3776829001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776829001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776829001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump books will continue after Trump leaves office"
-    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
-    publishedDateTime: 2020-11-09T22:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Is there any chance Trump will concede?"
-    excerpt: "Watch \"Is there any chance President Trump will concede the election?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-13T00:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201113000632-is-there-any-chance-president-trump-will-concede-the-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07673587_1605226015.jpg"
-        width: 480
-        height: 270
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Final U.S. offshore oil auction under Trump will test industry demand"
-    excerpt: "The Trump administration on Wednesday will offer all available areas in the Gulf of Mexico for auction to oil and gas companies in its final offshore sale before the January inauguration of President-elect Joe Biden,"
-    publishedDateTime: 2020-11-18T12:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN27Y1IR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1IR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1IR"
+  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
+    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
+    publishedDateTime: 2020-11-09T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
+    excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
+    publishedDateTime: 2020-11-09T14:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/donald-trump-rallies-spread-covid-19-stanford-study/6103779002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6103779002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6103779002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/30/PDTF/09dd4367-9c40-4198-bdbe-3f832d561107-AP_Pictures_of_the_Week_in_N.jpg?auto=webp&crop=2369,1333,x0,y120&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
-    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
-    publishedDateTime: 2020-11-08T11:19:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 97
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
+    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
+    publishedDateTime: 2020-11-15T11:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "What does Mike Pence's future look like after election loss?"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status."
-    publishedDateTime: 2020-11-15T15:21:00Z
-    webUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html"
-    ampWebUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
-    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
     type: article
     provider:
-      name: South Bend Tribune
-      domain: southbendtribune.com
-    quality: 90
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/8/cb/8cb832e9-08cf-5e26-a8f6-f241e995ad1c/5faee2b1955cf.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Duluth airport barred Pence after Trump broke virus rules"
-    excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
-    publishedDateTime: 2020-11-19T17:39:00Z
-    webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/c1/1c1d6e59-8ed2-5fca-a818-669af812d1ab/5fb69dc7da190.image.jpg?resize=1024%2C717"
-        width: 1024
-        height: 717
-        isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
     type: article
     provider:
       name: Time
       domain: time.com
-    quality: 88
+    quality: 81
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
-    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
-    publishedDateTime: 2020-11-11T18:52:00Z
-    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 74
-  - title: "Tight spot: Donald Trump loss complicates Mike Pence’s political future"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the Vice President is contending with a far less certain future."
-    publishedDateTime: 2020-11-13T21:37:00Z
-    webUrl: "https://floridapolitics.com/archives/383296-trump-loss-pences-political-future"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 70
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Political future complicated for Pence"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the vice president is contending with"
-    publishedDateTime: 2020-11-14T06:19:00Z
-    webUrl: "https://www.fairmontsentinel.com/news/national-news-apwire/2020/11/14/political-future-complicated-for-pence/"
-    type: article
-    provider:
-      name: Fairmont Sentinel
-      domain: fairmontsentinel.com
-    quality: 55
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.fairmontsentinel.com/images/2016/11/28181950/fblike.jpg"
-        width: 1200
-        height: 630
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "hORea/07suXRcUSP8U6Ma22NQ7HUxUn7+lFTOj80RCbsGJpzEjKNeY2fiCVIrbZnxEA7lorWV5qR5zwD6j4UxsGN0jBQPINCwqlmnHE3z1xSks8uOdN+fC62T7BvmrGrOUJXEc5THGuOMBa5RcMA+MBws6rhcJPOaEPFLyifHH3pUo7295GUSRC4lPKaEhew30EE9P6jGBWCerB11V/XJS9gIj6fWrmGbISNyZmOJGsB48cpSGzelS3xuvp+Pzlg+kFL4l+ZgFIC8Gl40Z6EZmUUHQzVnvJfuuK82yAMM1HA7h9TowdHyoxKnqD4Lon+q8Vs/BOKmx6VSi1HcJbaD3aPrlY6H/x6CacOIAJw5jA=;ghD08KfHA6qLsqupTHgcNg=="

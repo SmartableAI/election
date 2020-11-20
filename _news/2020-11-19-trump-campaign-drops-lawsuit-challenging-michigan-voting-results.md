@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Administration to Release New Rules Reducing Drug Costs"
+    excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
+    publishedDateTime: 2020-11-20T04:19:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "2IYdztLPHFu/JM1OkmRSq6ijKb+TM3fhhLC/zah258wOu2pgxQ5DZNQcUnpC85kRkTUcSBMBC5KhFh52RhRLhB3cDXxVhlcYzZKL273pu3w0lmDhpmJaA5Rm86UpgT3+wkxyxDhD+zaKi9vYOL8a066Dr360gTGsWIFR3CE09S2JPYiC2oWw3+/tbwtWksaZtTXy1S509GR9gNm3cJpW2PLE/BxV7Px6EVKU74m6N+klQQUufOShP6wmwl4Qyb5hiCq4FTSgV3KXBaNLmP8RZcMFdArqsjYGuH98tXQuQJswsMMv4TCiz0GqaHfqOCRFSCP8UcaOQ8+fwUg/ckfnY40lwv3rj+0ktUO6srnV/Mw=;kIXisIRLhH72UKMChtk51Q=="
 ---

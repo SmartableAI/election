@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
+    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
+    publishedDateTime: 2020-11-19T12:17:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
     excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -209,8 +225,8 @@ related:
         isCached: true
   - title: "Trump's election power play: Persuade Republican legislators to do what U.S. voters did not"
     excerpt: "President Donald Trump's strategy for retaining power despite losing the U.S. election is focused increasingly on persuading Republican legislators to intervene on his behalf in battleground states Democrat Joe Biden won,"
-    publishedDateTime: 2020-11-19T20:57:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z30G"
+    publishedDateTime: 2020-11-20T01:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-strategy-idUSKBN27Z30G"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z30G"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z30G"
     type: article
@@ -270,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8480148b5334427e9df40d97cb07bf37_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
+    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
+    publishedDateTime: 2020-11-15T17:29:00Z
+    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump wants to run the Republican party even he leaves office. Can he?"
     excerpt: "From creating a political action committee to suggesting he might run again in 2024, Trump is working to keep control of the GOP after his term ends."

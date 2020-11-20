@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
 type: article
 quality: 125
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,85 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Financially troubled startup helped power Trump campaign"
-    excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
-    publishedDateTime: 2020-11-18T06:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
-    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
+  - title: "Trump bans U.S. investments in firms linked to Chinese military"
+    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
+    publishedDateTime: 2020-11-13T12:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
-        width: 840
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+        width: 817
         height: 545
         isCached: true
-  - title: "GOP increasingly accepts Trump's defeat — but not in public"
-    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
-    publishedDateTime: 2020-11-19T15:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+  - title: "Donald Trump wins North Carolina"
+    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-14T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump's Pentagon shake-up has the military worried about its future"
+    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
+    publishedDateTime: 2020-11-13T16:10:00Z
+    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
+    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 994
+        height: 960
+        isCached: true
+  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
+    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
+    publishedDateTime: 2020-11-17T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 107
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
+    excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
+    publishedDateTime: 2020-11-14T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOKWLERGBII6XJUIKKMK2XKYBI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "RZVCmZzM3SKFg+f4zvbCCxZMsz7NrQFaYOlzMTcQp7I/I8Cr5fES11uyoj5PxMZo+U0fL5tsPptW3JNSlzxwsBIYoe5FZ0FHicnqarX1ZpDhzvYVWnRmrWaRbJu0HHl1Qy/0GP45b8IJvbYOObTmAvLxi114oeQs2K5ThwQJ7cSoKBgriYAamnRwJpi0g14dgIlNvuulKpbXKBw/ZwmYaQwmIpbMbCAwXmj0xAmUuwAxCoG7qdl5hU3cJYy9npipSteWuG1ptXWhSDCvCAJk7kmq5ZqCzLDSUR95SRwGLv+KiA0TBCgx4VPgxYm48Zp7PLUh/FcJSaZMFRbNesJP2tdM8F9UUHJVECuR0P95bug=;mevUmCUZ4w0yYRMd11vRTw=="

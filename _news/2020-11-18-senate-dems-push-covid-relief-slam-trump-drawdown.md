@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
-    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
-    publishedDateTime: 2020-11-18T20:40:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "2QAUCpeXu30LWSKqk3IJaVovi+muew6Opg3OJwkXW79zsqqvL9+85EzFK+fugDycFOSsrId0FUDT+ErIwSmOmqebXzIDdoSssuE2HbE03FwKnPzGwU5efjE2QqcNAmcb1uWgArp70CoCRg3rrdyJEiiu3Uf5MTLix0wGOnMdaCYL9z2iVZJRmqET03iErgKYfiHlGqt7e+pCba9iwDOTHC+Bnrg7VdWNdxsghzmEUwxPH9s8qVduvFMh7IUmRWr1axEicnvuX4rEDfwjBmZtZ2V2wraY4T6m63dZz05vihB6WHRCEKNP5Rkv52OKORk28wnei9t7YPB4PaiANk50XjA3gTzjxLlIj8nSU6meMJtPi4Chk+a2VU361Hy9FxBHcmDs1eAXt+M4yMb1iTUS5P37sD77tS4UC0aTUY09D910PKq0eNWEQQmYo+A1Iid7gFe0haSiPz3vOW7eEedDzczCjHQl0AN44cJyFusOtb5xMN2xzhO4oCTXeut1BdNm7P2bmoGZzqd1mVF3RqUBnw==;iv71lqdqM/AumXLS22qyFQ=="
 ---

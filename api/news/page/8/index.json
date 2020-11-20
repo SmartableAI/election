@@ -2,6 +2,325 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-11-pandemic-is-heading-into-its-darkest-days-biden-coronavirus-advisory-board-member-warns.md",
+      "title": "Pandemic is heading into its \"darkest days,\" Biden coronavirus advisory board member warns",
+      "excerpt": "\"On Labor Day we were 32,000 cases a day in this country,\" Osterholm said. \"Do not be at all surprised when we hit 200,000 cases a day.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
+      "originalUrl": "https://www.cbsnews.com/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/?intcid=CNI-00-10aaa3b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/10/dff95b9c-2398-45be-a634-98f96d898e3d/thumbnail/1200x630/ed4590a58c3d8478fd41c70fc4bd63cb/1605022192600.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/coronavirus-pandemic-darkest-days-biden-covid-advisory-board-osterholm/",
+      "publishedDateTime": "2020-11-10T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-cindy-mccain-joins-joe-biden-transition-team-advisory-board.md",
+      "title": "Cindy McCain joins Joe Biden transition team advisory board",
+      "excerpt": "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
+      "publishedDateTime": "2020-11-10T08:02:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-trump-jr-and-kimberly-guilfoyle-make-moves-to-expand-rnc-influence-and-possibly-takeover-sources-say.md",
+      "title": "Trump Jr. and Kimberly Guilfoyle make moves to expand RNC influence and possibly takeover, sources say",
+      "excerpt": "Donald Trump Jr. and Kimberly Guilfoyle are making moves to expand their influence at the Republican National Committee, three GOP sources, including advisers to the President tell CNN. Some sources say they may seek to take over the party structure themselves.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0u73DRMKIto/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200203183802-donald-trump-jr-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-jr-kimberly-guilfoyle-rnc/index.html",
+      "publishedDateTime": "2020-11-10T07:14:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-trump-to-launch-pac-to-retain-influence-after-departing-white-house.md",
+      "title": "Trump to launch PAC to retain influence after departing White House",
+      "excerpt": "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
+      "publishedDateTime": "2020-11-10T06:57:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-trump-plans-to-launch-pac-to-maintain-influence-in-gop-circles.md",
+      "title": "Trump plans to launch PAC to maintain influence in GOP circles",
+      "excerpt": "President Donald Trump is planning to establish a leadership PAC, a fundraising arm that could allow him to continue to exert influence in Republican politics even after he leaves office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aSeQR_7UoOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102114928-103-donald-trump-serious-play-button-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html",
+      "publishedDateTime": "2020-11-10T05:45:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-can-american-virtues-and-maybe-mike-pence-save-us.md",
+      "title": "Can American virtues (and maybe Mike Pence) save us?",
+      "excerpt": "Over the weekend, the 2020 presidential election abruptly shifted from slow motion to real-time. In rapid succession, former Vice President Joe Biden secured victory in the battleground state of Penns",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/jBNysd9-CgGQwjQVVjXYpLnRjTA=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6I4BVFCVEFF2NG5LPBS6YT2YNE.JPG",
+          "width": 1200,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-can-virtues-pence-save-us-20201110-d3chllxs3jf5dj7nihhc2i5xy4-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-biden-may-face-pressure-to-reshape-powells-fed-in-first-year.md",
       "title": "Biden may face pressure to reshape Powell's Fed in first year",
       "excerpt": "Washington - U.S. monetary policy won't be a top-of-mind concern for President-elect Joe Biden as he prepares to take office in January, with the Federal Reserve's economic arsenal already deployed against an ongoing recession and decisions about federal spending more",
@@ -10,7 +329,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-fed/biden-may-face-pressure-to-reshape-powells-fed-in-first-year-idUSKBN27Q1FR",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -66,7 +385,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -170,7 +489,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/09/ben-carson-tests-positive-covid-19-joining-list-trump-allies/6221912002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -931,187 +1250,71 @@
       ]
     },
     {
-      "path": "_news/2020-11-09-the-point-the-most-important-line-in-joe-bidens-victory-speech.md",
-      "title": "The Point: The most important line in Joe Biden's victory speech",
-      "excerpt": "On Saturday night, President-elect Joe Biden did something the man he will replace in the White House never did in four years: He reached out the people who didn't vote for him.\n    \n",
+      "path": "_news/2020-11-10-the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week.md",
+      "title": "The long love affair between Fox News and Trump may be over. Here’s how it ended last week.",
+      "excerpt": "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QzrIeZh4OuA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201109111248-primera-biden-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/joe-biden-speech-trump/index.html",
-      "publishedDateTime": "2020-11-09T07:31:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-dr-nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.md",
-      "title": "Dr. Nicole Saphier raises concern for Biden pledging a 'draconian' universal mask mandate",
-      "excerpt": "After giving credit to the qualifications of President-elect Joe Biden’s coronavirus advisory board, Fox News medical contributor Nicole Saphier raised a concern about their move to potentially suppress Americans' civil liberties.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuvpmYSIfsI/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YuvpmYSIfsI/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nicole-saphier-raises-concern-for-biden-pledging-a-draconian-universal-mask-mandate.amp",
-      "publishedDateTime": "2020-11-09T07:22:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-has-a-duty-to-supporters-to-fight-for-transparent-review-of-ballots-miranda-devine.md",
-      "title": "Trump ‘has a duty’ to supporters to fight for ‘transparent’ review of ballots: Miranda Devine",
-      "excerpt": "President Trump “has a duty” to “half of America which voted for him to look into” ballot-counting in the 2020 presidential election “so that it's all transparent,” New York Post columnist Miranda Devine told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y_8SzD0HMwc/trump-duty-supporters-transparent-review-ballot-counting-miranda-devine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Miranda-Devine-1109.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:12:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-staffers-tweeted-an-image-of-a-president-gore-front-page-from-2000-to-prove-the-media-gets-election-calls-wrong-but-the-image-was-fake.md",
-      "title": "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake.",
-      "excerpt": "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fa9278e1df1d5001821980e?width=1200&format=jpeg",
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-09T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-mitch-mcconnell-is-reportedly-taking-the-lead-on-stimulus-negotiations-as-the-trump-administration-sits-out.md",
+      "title": "Mitch McConnell is reportedly taking the lead on stimulus negotiations as the Trump administration sits out",
+      "excerpt": "Joe Biden may also leap into the talks on a coronavirus relief plan. Democrats and Republicans are far apart on measures like unemployment benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -1121,9 +1324,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-stimulus-trump-sits-out-pelosi-democrats-economy-2020-11?amp",
+      "publishedDateTime": "2020-11-09T07:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1148,223 +1351,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-trump-cheers-pfizer-incs-experimental-covid-19-vaccine-results.md",
-      "title": "Trump cheers Pfizer Inc's experimental COVID-19 vaccine results",
-      "excerpt": "President Donald Trump on Monday welcomed Pfizer Ic's experimental COVID-19 vaccine results, and the stock market boost it brought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-vaccine-trump-idINKBN27P1KP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540528434&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80VA",
-          "width": 742,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27P1KP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1KP",
-      "publishedDateTime": "2020-11-09T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-coronavirus-team-to-include-rick-bright-ousted-hhs-official.md",
-      "title": "Biden coronavirus team to include Rick Bright, ousted HHS official",
-      "excerpt": "Rick Bright, the ousted Health and Human Services official, will be one of 10 advisory board members on Democratic President-elect Joe Biden's coronavirus task force, Biden's transition team announced on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nNJ_j8adYkU/biden-coronavirus-task-force-rick-rick-bright",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/RickBright051820.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-task-force-rick-rick-bright.amp",
-      "publishedDateTime": "2020-11-09T04:25:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-plans-for-white-house-as-trump-plans-rallies-to-protest-his-election-loss.md",
-      "title": "Biden plans for White House as Trump plans rallies to protest his election loss",
-      "excerpt": "Democrat Joe Biden won the U.S. presidential election on Saturday after a bitter campaign, sparking street celebrations among his supporters in major cities even as President Donald Trump refused to accept defeat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
-      "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 15561,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540418131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA708M",
-          "width": 753,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M0U3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3",
-      "publishedDateTime": "2020-11-09T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.md",
-      "title": "Biden should support push for transparency in vote as ‘ultimate presidential act’: Turley",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PzLKyzFSgdU/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-should-support-push-for-transparency-in-vote-as-ultimate-presidential-act-turley.amp",
-      "publishedDateTime": "2020-11-08T22:48:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -575,22 +575,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Today: Trump and Harris head to Arizona, Pence to Wisconsin and Michigan, Biden speaks on the virus."
-    excerpt: "Holds a rally in Bullhead City, Ariz. 4:30 p.m.: Holds a rally in Goodyear, Ariz. Former Vice President Joseph R. Biden Jr. Morning: Receives a briefing from public health experts and delivers remarks on the coronavirus and health care policy."
-    publishedDateTime: 2020-10-28T12:42:00Z
-    webUrl: "https://www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/28/us/elections/today-trump-and-harris-head-to-arizona-pence-to-wisconsin-and-michigan-biden-speaks-on-the-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 175
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/28/multimedia/28elections-briefing-sched/28elections-briefing-sched-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Why Obama saved his harshest critiques of Trump until the campaign's end"
     excerpt: "Barack Obama held back his most biting critiques of President Donald Trump in the first years of his post-presidency, hoping the lack of constant attacks would make his voice even more powerful at a time he thought it was most needed.\n    \n"
     publishedDateTime: 2020-10-28T18:52:04Z

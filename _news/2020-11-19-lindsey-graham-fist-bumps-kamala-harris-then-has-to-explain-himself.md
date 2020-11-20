@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Election 2020 live updates: Biden calls Trump invitation to Michigan legislators 'irresponsible'"
-    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
-    publishedDateTime: 2020-11-19T22:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 142
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
     excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
     publishedDateTime: 2020-11-07T18:19:00Z
@@ -86,22 +70,6 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump-Biden transition live updates: Biden says he 'should be further along' on virus"
-    excerpt: "President-elect Joe Biden is moving forward with transition plans, capping a tumultuous and tension-filled campaign during a historic pandemic against President Donald Trump, who still refuses to ..."
-    publishedDateTime: 2020-11-19T07:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-economic-meeting-06-rt-jef-201116_1605558683683_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -227,17 +195,6 @@ related:
         width: 1484
         height: 989
         isCached: true
-  - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
-    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
-    publishedDateTime: 2020-11-17T20:04:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Vice President-elect Kamala Harris’s husband, Doug, to give up job to help his wife"
     excerpt: "Doug Emhoff, the 56-year-old husband of Vice President-elect Kamala Harris, will leave his private law practice by Inauguration Day to focus on his role at the White House, a spokesperson said Tuesday."
     publishedDateTime: 2020-11-11T22:47:00Z
@@ -364,6 +321,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gov. Kay Ivey among those meeting with president-elect Joe Biden, VP-elect Kamala Harris"
+    excerpt: "Alabama Gov. Kay Ivey will be among those meeting today with president-elect Joe Biden and vice president-elect Kamala Harris. Ivey’s office confirmed the report first published on NBC News. The meeting,"
+    publishedDateTime: 2020-11-19T23:43:00Z
+    webUrl: "https://www.al.com/news/2020/11/gov-kay-ivey-among-those-meeting-with-president-elect-joe-biden-vp-elect-kamala-harris.html"
+    ampWebUrl: "https://www.al.com/news/2020/11/gov-kay-ivey-among-those-meeting-with-president-elect-joe-biden-vp-elect-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/11/gov-kay-ivey-among-those-meeting-with-president-elect-joe-biden-vp-elect-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YLXVPKMTJFAC3PMFISVFOLC7JE.jpg"
+        width: 4479
+        height: 2986
+        isCached: true
   - title: "For some Bastrop residents, Kamala Harris inspires hope"
     excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
     publishedDateTime: 2020-11-12T23:17:00Z
@@ -456,6 +429,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris: States will get help to fight coronavirus"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris held a press briefing in Wilmington, Delaware, on Thursday, saying governors will get the help they need to overcome the coronavirus pandemic."
+    publishedDateTime: 2020-11-20T00:35:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-states-will-get-help-to-fight-coronavirus/video_255596ae-9742-5460-a89d-a949a106a3db.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-states-will-get-help-to-fight-coronavirus/video_255596ae-9742-5460-a89d-a949a106a3db.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-states-will-get-help-to-fight-coronavirus/video_255596ae-9742-5460-a89d-a949a106a3db.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "Biden says it’s a good thing his ‘colleague’ Kamala Harris is still on the Senate Intelligence Committee"
     excerpt: "President-elect Joe Biden said Monday he was glad Vice President-elect Kamala Harris still had access to top secret intelligence briefings."
     publishedDateTime: 2020-11-16T23:04:00Z
@@ -482,6 +466,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "RD6JnPlojI7MXPxm0Frzgh+vC/rxWRhy75rzurJVuIV0jwynFR0lzzQWN/1thCCAISmz565x8ioqqZm6oO/+DU730FZ/O5pmkLoPwbtpiDke6GpAWoao3VWlijeVmcNaGyq0c+xzuQI6wRIGvr3FiMg5974JjkzWc/5ChWQsHKp3Z9Xfz8dsyn/WEGM55F19h7VEP2MtY/t6q/w62oUKIQjd/mXVyQYq4DlJ3J4NbO9ptz6lywvy5hYyCxxGIMrYW+YzrmmNup2VOXMv1jvWMQ9EnTwyIn19H6bmbr3JkKpThnJxISjqR7481xzLJEg40KcVfKbBd5np3E8Iz7hVHnxm+fH+KVZt6o7n9cf6TbPaDTfccH937+j1TU0PG/ApjZy9tOgfq0YXfD38oyulFAW2CwoTmvrkrYckwoQ48+UaoIK+N69JmYF1UIBSqcDyup/664BLGhMOwllieLX0HxeIgIwgcy2BXg06YYRxOQ9f2EU9c6yFT/oX21h0tTTQXC2m/8r7agNobRh3peOCTA==;gYbK6on93EDW6reYDhA1UQ=="
+secured: "hOyGzEp7GlZuGp4h/HP4SEIREyVYq/vtZUrID1ECtChsXuIdQudErty2OAl+1VFRkBhEMDFi4x+/77W+VxXKStS1bfuMJP56bFDxP/Uyn76Y3eqP8OoBo7rTSHJFL5sh+i4DGFnMnS+/VMvMxZxw3CRK0FRWxxdTQvhcV6/1ewKU0J+J4GE0Rt9jPfQeIlJ2rtj19fqEL2Upzj4GutRpfh3c3vSN87OsIFA438S2tdpBQlH6mVwdqlrKLmKpFX1XsBRjq+CS34Cd2CNEH3l5DaLsvuY3h+kJqXyPLPy2/z6ocoo87XBFOJvqufH6HVp3zK0LLoWBsC3p270fYhBRxYUbcdLWYoDQX9QtZYICqu0=;m5/fv5tUcFrNvVfM8rPD3A=="
 ---
 

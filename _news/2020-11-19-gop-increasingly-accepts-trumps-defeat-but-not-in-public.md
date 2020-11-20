@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accep
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: ABC
@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hints at primary challenge for DeWine in tweet"
-    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
-    publishedDateTime: 2020-11-16T23:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
+  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
+    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
+    publishedDateTime: 2020-11-19T12:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Financially troubled startup helped power Trump campaign"
-    excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
-    publishedDateTime: 2020-11-18T06:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
-    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
-        width: 840
-        height: 545
-        isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 994
+        height: 600
         isCached: true
 
 secured: "0jFLHMONGlLDgwNpXazSuqMTznnlYRieHFtAo2lpapG2PKLodxRPav93IByRR4FSLTve5EEuV42TRWOSjepAr2C3UWVCdRmJYL8cPy3zNzdBFsnronHZjEY1i8/b4QJfCoQC4yahp/GmtrsAEdAsjNgdC9zn4b0f23CmUqjf4OWYRNG9zNlRoPiTuhEN2aMEsN3POmtARsugTp2uubYEE2/E6iauDsNl5vNUsDFJzYxDl8Mc8yY+aUgmxv05TN0dfTVcuJfYWHiBrsLjS30sC+HDjG+Hfk1ekWAUR1HFKdb7D0mv2PW6gwaZk8lCuMR+YDw8UJn4jLk71NGh8PbbWMphTwftPp2Md1DpqOtIokjz/xfPKVGh3KFqfKGo4kbgZT9XvBHslrixk3YcaHlwlXzF8COQjlnLcGjhWjiaLEhO8y3k6MVmt7FJbisEnDkVQuW+xXJTKFLPtsjlvIrPoKRilc1hb+PG2Cw47Im+H4NKR5Z5LrNUiei8uv4r1bMzBqEE5llvSfvx8JH1z/8YUA==;mMrFqdEWIjK4YtcX/jxvmA=="

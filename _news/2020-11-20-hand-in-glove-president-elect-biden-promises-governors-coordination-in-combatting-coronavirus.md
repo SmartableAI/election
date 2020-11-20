@@ -47,6 +47,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
+    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
+    publishedDateTime: 2020-11-20T00:10:00Z
+    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 123
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
+  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
+    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
+    publishedDateTime: 2020-11-17T21:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
     excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
     publishedDateTime: 2020-11-19T22:31:00Z
@@ -85,6 +117,6 @@ related:
         height: 641
         isCached: true
 
-secured: "+Ogf/Mn+1B9XkcKmrKqzyLpY31LrMjAkc0N5xEuKGjG2TukjwI3HGqsXPYl5MwzB1Jm4+DBMwolOvQvwTNNzSLin9bcj2rmi5kvgvu3XhBwVftycRpmbNTGd0tMlJmgXuXEPCzytzib/HeVEyqmgj/kLDo2E/OAFHiJj9Tg+2tlRzKNTCEhwS0kgxflqGn5oJIYYGgsbHCRd2iVSmsSmI/Gt8bjocz4lw/yvKbaJy1BVtpgdcVeqWS3nxe0smfygrTRFEQi1/XRfnOjsdw1pSrrdWutmVclASIuA8Pqy4gZpwVLb7GcOY0I/zA5I6TEltu5au0KW5ImAd1MdJ2cSt6SIT0l7y73AptcbT5j3sGs=;JOr1LFy3MUiNb3yt7ZWR7g=="
+secured: "z82+1knIIsdwstQmwXS6gK4q52OFUCBUXk6gFj9DMyPzh5mGEnp2uBqIxY4/IVhVBhgQ8VSiHwjTmIFZ16gcbNZ8BijHnoEgLk/qVKGBkG9hwa1i2/ZrqJQL3UL5I9/YDsZPETKYsIZEgDuYJFOmjZBygPMg9BdVyzhr1D524Wo44dglDFh4eMBg+2c5J7KhyazeR6OiGGXLnlMEYcTuKG3Sp32zU6drhvi1h0zq5xkBUPrq3ZRn/Lz3mq7Yu4apDR5TFmsujwzl0kc7eL4yDRy5pR+0tXfAMoguuqEXS8v7wDv6Kf5uk9x//G8nW89HzDyXAM/6/aTMnDkmfUxoFZtxpzdVZPsa5CvlH8BnKWwaM9fgedz6qZ9rk9EWzRGp6juX0j0Lj1OabMHjlmQp+IhGeXgfvf5lZUMZyWzYoyr5Mv/wUKHNp7H8NcYpJAkUCH0LA9bdXLw8+JQhE8aBblE+c0b9e2klnMgJonjXHsj+ptmrnszC6543t7qApmYka93aZEMxIYzBQw/jXKfHFQ==;PNuVIsgUaZTrFY74sxzTvA=="
 ---
 

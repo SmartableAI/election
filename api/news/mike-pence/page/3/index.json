@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-vp-pence-makes-campaign-stop-in-hermon-speaks-one-on-one-with-tv5.md",
+      "title": "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5",
+      "excerpt": "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
+      "originalUrl": "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG",
+          "width": 980,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WABI",
+        "domain": "wabi.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally.md",
       "title": "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally",
       "excerpt": "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ...",

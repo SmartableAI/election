@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 690
         isCached: true
+  - title: "How Trump tried to steal Michigan"
+    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
+    publishedDateTime: 2020-11-19T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
     excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
     publishedDateTime: 2020-11-19T20:43:00Z
@@ -300,6 +316,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/kYUucSqZtKp3LG/jLHMIfJfE3sAUiZdnXYaOi+swbD9sllfb4IKJvwm68jzefzTPkIPOqJlKs0Rcppb8mFl/Dtfpd37Uz/gUm0Z6DNe82qbDz2+st6yhDHCtDrvfjGm0L3OgXSrGYx2x0uO5pmDz0TLZtlZm/GDtUV0XdWD/TBbR5b/CPO7LvWHS6Xd/cLZ5wV4jUi9tqy9E/qNjXtotOPdpz5Q/Yb7QtT0jnkMX49yFvt+8utvYaJzotMuiNxsCzHS3U/8vkF4MXUl6BgiC5pBaXeTr0XrEt9qiAyzP01X0M7dD3QsbDL135E5u4S24Lo0vuBT1rNd3OD2oukDJkO/hmik+DRt3Dcp3n+q6Oc=;5lbaeoINDnpAOaULN4Sxpw=="
+secured: "u1XN1tJ/OK3/8ccfLROY0kFmma4Ars7yeP8rd8lnhXf1Mxk4BciRPnDAao4cVw9FFj7E+PqTwWh70GTBgO1gQmdyuUTFJD9FKyh8IXDtbk1UA1FlYh1QxUElxu1lzAR/7uYSUGZ/oNMrIZx310p48euU22Qe8D1EKLc1SwCMaoG9TRxxv3vnxUQ56F/0d9k0ZcEcfA1H04hR5zK0hC8jfb8cneopvQBRySux1NsYilFjmQrAj9GHoAF9AMIlmboobEjO9ouz4l4yqJrPoHVwmLdQMAWGOGZdczJs6gh7xJ5dHdsZi2wFhclaAji7/0O6/fXaPlk9u/Y14LV7nfnLlQCeYnOYKz2+5XSrgqn97laZBNxbeZgirwhznpgQ7pVCB9WSsRzWvQYKxK8CfjxtNYxuh9e6Q6DeiQGVM38dU8Kk2ZkvB8yJ2eUg5dlkLxwINvS7+TFbhk9Vj6Rw+afPkIVCuycGnqBMfQnjNWFvWMI85kD+3aE+xfWhnulyz6agksAPIdblR1r3JVYkmBLSsw==;DHkAIgQDnBJMSYRdUTgfMA=="
 ---
 

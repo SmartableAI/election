@@ -2,9 +2,9 @@
 category: news
 title: "Trump's election power play: Persuade Republican legislators to do what U.S. voters did not"
 excerpt: "President Donald Trump's strategy for retaining power despite losing the U.S. election is focused increasingly on persuading Republican legislators to intervene on his behalf in battleground states Democrat Joe Biden won,"
-publishedDateTime: 2020-11-19T20:57:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z30G"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z30G"
+publishedDateTime: 2020-11-20T01:34:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-trump-strategy-idUSKBN27Z30G"
+webUrl: "https://www.reuters.com/article/us-usa-election-trump-strategy-idUSKBN27Z30G"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z30G"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z30G"
 type: article
@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
+    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
+    publishedDateTime: 2020-11-19T12:17:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judges appear increasingly frustrated with Trump's legal claims about 2020 election"
     excerpt: "In court hearings and opinions around the country, judges are voicing similar frustrations with the Trump campaign's legal filings, experts and courthouse veterans say."
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -254,6 +270,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8480148b5334427e9df40d97cb07bf37_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
+    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
+    publishedDateTime: 2020-11-15T17:29:00Z
+    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kevin McCarthy echoed Trump's false claim that he won the election, saying Republicans 'will not back down'"
     excerpt: "\"President Trump won this election, so everyone who's listening, do not be quiet,\" McCarthy said. Trump has not won the election."
@@ -482,6 +514,6 @@ related:
         height: 600
         isCached: true
 
-secured: "PiVCdosOOZu704x8VrWhG6jClutwj/Uq8J6i8d4nvQQLgkxDfrIIra1xsnooWDhlH51eupDGQw5/gDjn6rZ0t4UicAg89sHu0dY1o79PJ/m1iq87PpDRDCKSIZjNAMtDPOGaA+n+OYGuL58oHEBuc1GsuKw1K3GmbqB0EV2JrDafFj6wpuwnfSvXYBL2lS9vrWL1kA63SV50WQvhaVGi4/fYRYA46T+IOAOETeIubYRDRoJP/Sb+7pB5EE3QHPg3JODasvTpDBFIPW0yhsyH6k77HkqKcXyOlsKAhwkSIawcKmjDo4HbRaMrH4Ef9UCiw+P7g0s+JcxbXC1sylL9yNGP5DK+T0sixbL77/QNXyk=;lz+YliUIyNViFYjWuwC02Q=="
+secured: "uhoDaJfvUuLBZTz8vmbAskYYbRPWP842LErNnnUYcWEqkyk9gaLUdGKpf93x05wMybuU3z57tS0xHtudd3tfR+OKDH17gcs2z8ypGqMx5stJb3JfCF3KM5/Nrx9EjEp3FDk6QRcj4P3ewJ/KIeu31Gd8ZogIfMui1dUW+H0YkV1Ph/ScL/Mre3umOvFwVh2jzuQOK9Rs0fzvr5ZwpH9eq3vrl75/xoaZaNCvc9t9rGvPDA5dr4nipnNJ9a7nYBgEgmqZWHfOzVV67/y9zE8zAUHBmjJy0Z3hPKl+vopTaYJPOwiGZ8OA0a8ti59yJQLgJwou5UXqCwBALYyp52Mb6FV8mcp4IzJdw337HCVBv8E=;pOW4L+x4d8EdPQVpQKFzdg=="
 ---
 

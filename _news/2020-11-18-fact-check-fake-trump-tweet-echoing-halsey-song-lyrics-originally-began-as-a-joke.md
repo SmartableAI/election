@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
+    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
+    publishedDateTime: 2020-11-15T07:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
     excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
     publishedDateTime: 2020-11-17T22:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp"
 type: article
 quality: 107
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
-    excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
-    publishedDateTime: 2020-10-23T12:50:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5f92cb45faf1b82d3425a802/master/pass/Screenshot%202020-10-23%20at%208.17.54%20AM.png"
-        width: 1919
-        height: 927
-        isCached: true
   - title: "Stephen Colbert and Jimmy Kimmel Wonder if it’s Even Possible to Mute ‘POTUS Interruptus’: Trump Will Pull Another Mic ‘Out of His Hair’"
     excerpt: "Late-night hosts Stephen Colbert and Jimmy Kimmel questioned if it is even possible to silence President Donald Trump after the Commission on Presidential Debates announced that they will be taking measures to ensure there are fewer interruptions during the second debate."
     publishedDateTime: 2020-10-21T13:37:00Z

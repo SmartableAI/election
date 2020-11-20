@@ -2,6 +2,224 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-29-hackers-stole-23-million-from-trump-reelection-account-in-wisconsin.md",
+      "title": "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin",
+      "excerpt": "Hackers have taken $2.3 million from the Wisconsin Republican Party’s account supporting Trump’s reelection, the party’s chairman told The Associated Press on Thursday, a campaign disruption in the critical swing state less than a week from Election Day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
+      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 760,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
+      "publishedDateTime": "2020-10-29T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-wisconsin-gop-says-hackers-stole-23m-from-trump-reelection-fund.md",
+      "title": "Wisconsin GOP says hackers stole $2.3M from Trump reelection fund",
+      "excerpt": "Hackers stole $2.3 million from the Wisconsin Republican Party's account that was being used to help reelect President Donald Trump in the key battleground state, the party's chairman told The Associated Press on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/29/wisconsin-gop-hackers-stole-trump-fund-433593",
+      "originalUrl": "https://www.politico.com/news/2020/10/29/wisconsin-gop-hackers-stole-trump-fund-433593",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/85/52/a79465a34957a0b5f9633bce3c82/ap20255820099032.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-ari-fleischer-why-my-2020-choice-for-president-will-be-donald-trump.md",
+      "title": "Ari Fleischer: Why my 2020 choice for president will be Donald Trump",
+      "excerpt": "In many ways, I find President Trump over-the-top and offensive, and have said so on-the-air and on Twitter. He can be too hot to handle, insulting people and too often making himself the issue, diverting attention from more important policy matters.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump",
+      "originalUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/donaldtrump_05082019.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/523320-why-my-choice-for-president-will-be-donald-trump?amp",
+      "publishedDateTime": "2020-10-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally.md",
+      "title": "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally",
+      "excerpt": "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "originalUrl": "https://www.nbcnews.com/video/watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally-94906437729",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_mcsally_trump_201029.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94906437729",
+      "publishedDateTime": "2020-10-29T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-us-air-force-f-16s-intercepted-an-unauthorized-aircraft-flying-in-a-restricted-area-over-a-trump-rally.md",
       "title": "US Air Force F-16s intercepted an unauthorized aircraft flying in a restricted area over a Trump rally",
       "excerpt": "When President Donald Trump saw the F-16 deploy signal flares, he told a crowd that they were putting on a display for him.",
@@ -106,6 +324,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-29-federal-judge-rejects-justice-departments-effort-to-defend-trump-in-e-jean-carroll-rape-defamation-suit.md",
+      "title": "Federal judge rejects Justice Department's effort to defend Trump in E. Jean Carroll rape defamation suit",
+      "excerpt": "Trump's statements about the decades-old \"allegations have no relationship to the official business of the United States,\" the judge wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10",
+      "originalUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f9307ad212113001874077a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-rejects-dojs-effort-to-defend-trump-rape-defamation-suit-2020-10?amp",
+      "publishedDateTime": "2020-10-28T18:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-fbi-says-extremist-threatened-trump-obama-in-online-posts.md",
       "title": "FBI says extremist threatened Trump, Obama in online posts",
       "excerpt": "An FBI agent says a man accused of conspiring to kidnap Michigan's governor also made threatening online comments about President Donald Trump and other political figures",
@@ -114,7 +384,7 @@
       "originalUrl": "https://abcnews.go.com/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1301,272 +1571,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
-      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
-      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 5354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "publishedDateTime": "2020-10-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-attacked-biden-for-warning-against-4-more-years-of-george-but-the-democrat-has-long-called-himself-a-gaffe-machine.md",
-      "title": "Trump attacked Biden for warning against '4 more years of George,' but the Democrat has long called himself a 'gaffe machine'",
-      "excerpt": "Joe Biden called President Donald Trump \"George\" during a campaign event. Biden has been open about his stutter, calling himself a \"gaffe machine.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "originalUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f96ad79f21803001222bdca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-appears-confuse-trump-george-bush-campaign-gaffe-2020-10?amp",
-      "publishedDateTime": "2020-10-26T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-biden-on-attacks-on-mental-fitness-trump-thought-911-attack-was-711-attack.md",
-      "title": "Biden on attacks on mental fitness: Trump thought '9/11 attack was 7/11 attack'",
-      "excerpt": "Former Vice President Joe Biden (D) defended his mental acuity and took shots at President Trump during an interview airing Sunday on CBS's \"60 Minutes.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
-      "originalUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe2_102202020_0.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522712-biden-on-attacks-on-mental-fitness-trump-thought-9-11-attack-was-7-11?amp",
-      "publishedDateTime": "2020-10-25T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-nypd-officer-suspended-for-saying-trump-2020-over-patrol-vehicle-speaker.md",
-      "title": "NYPD officer suspended for saying 'Trump 2020' over patrol vehicle speaker",
-      "excerpt": "The department said that the Brooklyn South Investigation Unit was looking into the matter after videos were posted to social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/nypd-investigating-videos-officer-who-said-trump-2020-over-patrol-n1244693",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/nypd-investigating-videos-officer-who-said-trump-2020-over-patrol-n1244693",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422855/201025-nypd-vehicle-jm-1145_2eb1389e277db3a2f3a947b9b549e0ca.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244693",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244693",
-      "publishedDateTime": "2020-10-25T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-president-trump-casts-a-very-secure-vote-for-himself-in-person-in-florida.md",
-      "title": "President Trump casts a 'very secure vote' for himself in-person in Florida",
-      "excerpt": "\"I voted for a guy named Trump,\" the president said after casting his ballot in person in his newly adopted home state of Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f9447ca4743a3001216b782?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-early-voting-florida-presidential-election-2020-10?amp",
-      "publishedDateTime": "2020-10-25T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

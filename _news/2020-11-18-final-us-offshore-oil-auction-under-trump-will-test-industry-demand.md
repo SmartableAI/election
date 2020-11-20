@@ -25,326 +25,222 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Tight spot: Trump loss complicates Pence's political future"
-    excerpt: "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024"
-    publishedDateTime: 2020-11-14T00:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump administration does not support lockdown, school closures: Pence"
-    excerpt: "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States."
-    publishedDateTime: 2020-11-19T22:26:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-pence-idUSKBN27Z36O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z36O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z36O"
+  - title: "Trump fires top U.S. election cybersecurity official who defended vote"
+    excerpt: "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud."
+    publishedDateTime: 2020-11-18T09:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541823164&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1W8"
-        width: 837
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541581388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH07G"
+        width: 753
         height: 545
         isCached: true
-  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
-    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
-    publishedDateTime: 2020-11-07T10:15:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
+  - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
+    excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
+    publishedDateTime: 2020-11-18T06:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-krebs-idINKBN27Y04O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27Y04O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27Y04O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541567905&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH01P"
+        width: 753
+        height: 545
+        isCached: true
+  - title: "Latino voters who fled dictatorships fear election was stolen from President Trump"
+    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
+    publishedDateTime: 2020-11-19T00:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 130
+    quality: 134
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump wins North Carolina"
-    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-14T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
+    publishedDateTime: 2020-11-19T15:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
+    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
+    publishedDateTime: 2020-11-19T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
+    excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
+    publishedDateTime: 2020-11-18T12:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/cybersecurity-202-firing-cisa-chief-leaves-trump-unchecked-make-false-claims-about-election-fraud/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHA4BVBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 991
+        isCached: true
+  - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
+    excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
+    publishedDateTime: 2020-11-13T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/rebuking-trump-dhs-cybersecurity-agency-evidence-deleted-changed/story?id=74188202"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/DHS-gty-er-201020_1603231692954_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
+    excerpt: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
+    publishedDateTime: 2020-11-18T10:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-fires-top-election-security-official-vouched-2020-74265027"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
         isCached: true
-  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
-    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
-    publishedDateTime: 2020-11-14T05:12:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's Pentagon shake-up has the military worried about its future"
-    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
-    publishedDateTime: 2020-11-13T16:10:00Z
-    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
-    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How Trump tried to steal Michigan"
-    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
-    publishedDateTime: 2020-11-19T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Fact-checking the craziest news conference of the Trump presidency"
-    excerpt: "President Trump's attorneys offered a stew of falsehoods and conspiracy theories in a desperate effort to claim he did not lose the election."
-    publishedDateTime: 2020-11-19T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/334GFEBKVII6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
-    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
-    publishedDateTime: 2020-11-18T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
+  - title: "Trump campaign seeks recount of ballots in Wisconsin in liberal Milwaukee and Dane counties"
+    excerpt: "President Donald Trump is seeking a recount of ballots in Dane and Milwaukee counties, hoping to overturn the state election results in his favor despite those voters choosing President-elect Joe Biden by wide margins."
+    publishedDateTime: 2020-11-18T20:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/trump-campaign-seek-partial-recount-wisconsin/6339193002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6339193002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6339193002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump defied gravity; now falls back to earth, future TBD"
-    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
-    publishedDateTime: 2020-11-08T02:29:00Z
-    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+  - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
+    excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."
+    publishedDateTime: 2020-11-19T00:36:00Z
+    webUrl: "https://www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fired-cybersecurity-responds-and-receives-deluge-of-lawmaker-support-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Trump books will continue after Trump leaves office"
-    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
-    publishedDateTime: 2020-11-09T22:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Is there any chance Trump will concede?"
-    excerpt: "Watch \"Is there any chance President Trump will concede the election?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-13T00:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201113000632-is-there-any-chance-president-trump-will-concede-the-election/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+    quality: 111
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07673587_1605226015.jpg"
-        width: 480
-        height: 270
+      - url: "https://i.insider.com/5fae575b1e8d5000198134c1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
+  - title: "Trump fires nation's top election security official after agency said election was securely run"
+    excerpt: "Trump fires nation's top election security official after agency said election was securely run President Trump fired his administration's top election security official, Christopher Krebs, who led the Cybersecurity and Infrastructure Security Agency."
+    publishedDateTime: 2020-11-19T02:20:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-fires-nations-top-election-security-official-after-agency-said-election-was-securely-run-1/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 108
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/18/30562104-af7c-4872-b0cd-8ca68b0f28f8/thumbnail/1200x630/f2e16d7d8e451dc43d04d205c9a08252/1118-cbsnam-trumpkrebs-590470-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
+  - title: "Trump just fired the US's top cybersecurity official who spent weeks striking down the president's conspiracy theories about election fraud"
+    excerpt: "Chris Krebs spearheaded the DHS's robust defense of election integrity and publicly countered Trump's conspiracy theories before he was fired."
+    publishedDateTime: 2020-11-18T09:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-fires-cybersecurity-official-chris-krebs-after-election-2020-11?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
-        width: 480
-        height: 270
+      - url: "https://i.insider.com/5e5579defee23d42fa295e4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Voices from the fight: An oral history of the four-year movement to defeat Donald Trump"
-    excerpt: "Notable figures and ordinary Americans describe their reaction to Trump's victory in 2016 and describe the moments during his presidency that compelled them to speak out and mobilize against him."
-    publishedDateTime: 2020-11-08T11:19:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/trump-opposition-oral-history/"
+  - title: "Trump fires agency head who vouched for 2020 vote security"
+    excerpt: "President Donald Trump fired the nation’s top election security official, a widely respected member of his administration who had dared to refute the president’s unsubstantiated claims of electoral fraud and vouch for the integrity of the vote."
+    publishedDateTime: 2020-11-18T12:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-fires-agency-head-who-vouched-for-2020-vote-security-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump cancelled his annual plans to spend Thanksgiving at Mar-a-Lago, as aides describe a 'bunker mentality' at the White House"
+    excerpt: "Since the election President Donald Trump has largely confined himself to the White House, watching cable news, tweeting, and firing senior officials."
+    publishedDateTime: 2020-11-18T16:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cancels-thanksgiving-mar-a-lago-white-house-bunker-mentality-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 97
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLLFCOBBK4I6XLKTJQP5USMQPU.jpg&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "What does Mike Pence's future look like after election loss?"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status."
-    publishedDateTime: 2020-11-15T15:21:00Z
-    webUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html"
-    ampWebUrl: "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
-    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html"
-    type: article
-    provider:
-      name: South Bend Tribune
-      domain: southbendtribune.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/8/cb/8cb832e9-08cf-5e26-a8f6-f241e995ad1c/5faee2b1955cf.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Duluth airport barred Pence after Trump broke virus rules"
-    excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
-    publishedDateTime: 2020-11-19T17:39:00Z
-    webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 90
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/c1/1c1d6e59-8ed2-5fca-a818-669af812d1ab/5fb69dc7da190.image.jpg?resize=1024%2C717"
-        width: 1024
-        height: 717
-        isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 88
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
-    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
-    publishedDateTime: 2020-11-11T18:52:00Z
-    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 74
-  - title: "Tight spot: Donald Trump loss complicates Mike Pence’s political future"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the Vice President is contending with a far less certain future."
-    publishedDateTime: 2020-11-13T21:37:00Z
-    webUrl: "https://floridapolitics.com/archives/383296-trump-loss-pences-political-future"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 70
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
-        width: 1000
+      - url: "https://i.insider.com/5fb4ee5e26608500184fea6e?width=750&format=jpeg&auto=webp"
+        width: 750
         height: 563
-        isCached: true
-  - title: "Political future complicated for Pence"
-    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the vice president is contending with"
-    publishedDateTime: 2020-11-14T06:19:00Z
-    webUrl: "https://www.fairmontsentinel.com/news/national-news-apwire/2020/11/14/political-future-complicated-for-pence/"
-    type: article
-    provider:
-      name: Fairmont Sentinel
-      domain: fairmontsentinel.com
-    quality: 55
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.fairmontsentinel.com/images/2016/11/28181950/fblike.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "2UyJA6vVljHjhIv31InAKsYtap0qaG4Efvszy3dlhsphM4rMvqED9SY4Tl5FE1Z4t6++E8nWUWWKa6bA8B52pMIEffTPnZq4lYXFfIFK+eCriJpAz/aWneSODKy6tk4slypFMmSda/NCEL8XJ6+g4RQNpV5CRh1AYZFiuNWoDjyCus+nQG3BuRkhFuU4H7KYvowbSy+cM9nw3spZj+UleKkSO9IfoD9x+5r9zkB0B00t5y7qm2ZzxRW3iTxP9WfuHcoYKF+QymQ1N1c8645SxWVNXDjqtyKxYqdLp/sVrG2i6eFdxMX1NfPPqoUUBGajWySti16Xqbuk7w59/NfpqI0zy7QfX+EckIxwHY2u9jQ=;+lOGKVwGoMzQcNvYoS16sg=="

@@ -2,9 +2,9 @@
 category: news
 title: "Trump Broadens His Efforts to Overturn Election Outcome"
 excerpt: "The president is threatening Republicans who challenge his refusal to concede, as looming deadlines for key states to certify their results are set to narrow the path for his legal challenges."
-publishedDateTime: 2020-11-19T20:35:00Z
-originalUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
-webUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
+publishedDateTime: 2020-11-20T02:00:00Z
+originalUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-broadens-his-efforts-to-overturn-election-outcome-11605800104"
 type: article
@@ -544,6 +544,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Legal Team Claims Broad Conspiracy to Manipulate Election"
+    excerpt: "The president’s personal attorney, Rudy Giuliani, presented conspiracy theories that have gained traction among some Trump supporters in recent days. President-elect Joe Biden dismissed the unsupported claims as “outrageous."
+    publishedDateTime: 2020-11-20T03:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-lawyers-promise-to-step-up-fight-to-overturn-election-results-11605828073"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-lawyers-promise-to-step-up-fight-to-overturn-election-results-11605828073"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-lawyers-promise-to-step-up-fight-to-overturn-election-results-11605828073"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-262323/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z
@@ -609,6 +625,6 @@ related:
         height: 640
         isCached: true
 
-secured: "T64SdlYJZu5HWkersWn6RamsJOPEZtFXGhGW/rQLBVkZLlm2HH7c3OD/S+nnJGQtz9q3ginqR5CzXwCdMgSvhoWhe8dvHhv+avVWVXT00MJhl8pgb4NMeUhwlEjLtXxVXWpOwPim9Su/0PLWgmmJdtV3OuByf0vDJotsgwuJIBNwcQnYBrii870JoSnYTURZjHT+iHTRX+GTXXiV0/adlN/qMrKOA6/hp5nh8A86TYtUFhHdijqwgf22BbzVEf/Ix7ip9vuryfyBGTamQRltg8TgYdQhxfH0hshZXcOhD7G7fsa+5EbNZjBQoSobKOCo/Q9QFrlStNnI+69Tlr3jqtE83i6/0bldbr7s3QkRoWo=;xse/7Q1ds1EhhG7KyobR6g=="
+secured: "ImZWZq1eVNl/HcntAwc27Thd+D2EQUUjs1MR0jMrmwsN6lbhBU05PRd+mjj4f5+7XE5fF+SbCDRuVpN3VrbPuGOrE5Jd1NrXJx91ao5U4dtbzvEyCa7sLyMnrEC2Rup3LbrWkdJwwT5u4BSMW971Ha9IkEQAfEREISsRM0VSNscptfuvyc5n6o+4JtnzdMxtF0KOwtIZKJ0sPNA+tTbl82cbSeJw3Leg96qBuB/fTMZlCPidETggdDmzj80+1/t7TCIF3aib7ajtm6goEnT298hbrkxM4e9T4zvnU4a2BGQAOhsMSaIwiF0y6+O6xrzKKlH5sN/fieW0aoJlHwQ5xzADOwmakkEAKWWxJU5s5Nk=;Cv6qqEcNTLT/z4lNKik2hg=="
 ---
 

@@ -31,85 +31,222 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hints at primary challenge for DeWine in tweet"
-    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
-    publishedDateTime: 2020-11-16T23:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
+    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
+    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
+    publishedDateTime: 2020-11-20T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
+    excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
+    publishedDateTime: 2020-11-12T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 995
+        isCached: true
+  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
+    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
+    publishedDateTime: 2020-11-18T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Financially troubled startup helped power Trump campaign"
-    excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
-    publishedDateTime: 2020-11-18T06:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "GOP increasingly accepts Trump's defeat — but not in public"
-    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
-    publishedDateTime: 2020-11-19T15:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Supreme Court appears ready to uphold Affordable Care Act over latest challenge from Trump, GOP"
-    excerpt: "The court is reviewing a decision that found part of the law, also known as Obamacare, unconstitutional. The case raises questions about the fate of health insurance for millions of Americans."
-    publishedDateTime: 2020-11-10T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/10/scotus-hearing-aca-live-updates/?outputType=amp"
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 994
+        height: 961
+        isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "NY probes Trump consulting payments that reduced his taxes"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
+    publishedDateTime: 2020-11-20T03:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
+        isCached: true
+  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
+    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
+    publishedDateTime: 2020-11-18T16:10:00Z
+    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dsnIbRgi12gAtW1WZScsyXAuoGar2qtvjFEzra34GQYerNj61H50jx9Tw3FM5mhu8+XdHwCc+4RlhARwSHmUOwy+ZeOtrr93Jv80BhPNUGbXkCLEbOvJjaqDI2kGouLIPUQ5dU/oq+gt0d254I3E1vvzRu6LsXGvOPw1kkFnVTUF230um25L1PQ1vu6AHlOnvP39r/RyqEiVMxegwuxbSZ/ez1LGTsUI0H0AmYVVHvInNcQSyZ1urUHLn48Rgc3TH3O5pgHHfnGzKEHa3u7RCs5+uzQSJ8dRK7dXZ5puwk1zBUoCydfUvexnkBysphhWRmwInwY/p2Dtq829F8Ef9oxdc32o6MzO0s73uDFuFeM=;Js4qAC4umA7jqyLFrp8gXw=="

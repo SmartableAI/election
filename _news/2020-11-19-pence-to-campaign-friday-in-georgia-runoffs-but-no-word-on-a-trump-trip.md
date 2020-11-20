@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 399
+heat: 419
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
     excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
     publishedDateTime: 2020-11-05T10:04:28Z
@@ -191,6 +207,6 @@ related:
         height: 853
         isCached: true
 
-secured: "AiexrqG+InJ9hXEXXkqbTBIY98rUodtbilG+NTRSHCZeLgM2IknNgje0JQtmpnonFBWY5FV2c0yp5J+8BW1pNRgPu4zysE03MSbP8C2NiB04s4nN6tCKdMSfqFIexXnctdXq4w4/cvPLlqQkvDLBDs1HsIAJvpC/ClLyLSiW5n4uBC3V8DOWWAUqNJJO5Gc2hVN4QGnxv7goVk5vRoWRnUi9VMdt3cII1ba6Oa/EvrM9wO5erkUWjGC2OOSz9mksPQ481I18hrqvT6CrKIrNbA9qenAQs3U6t7cTuxAr0U2qmUv9zusR3zG/Sh2qC2iqbIin+VW6J75IJBzApE5sdLDCLICioI/x7Oz2mq8q7FA=;Bw8spGrQDeHgHWptUAyEYA=="
+secured: "/PBrSR9Asyfakb1N5lsj76kv5+O1XGFnWdFlnzsv1F1BDDR9QXZ0UIrh2MesK04UtZeoFmB6oOwRi/Q/235fmvUzMlWD54zq8dMhXZLPZoj3K/M56Gd/VTlKb/M9PIT3UHdOXiNpu4FhroCiEJ9IaWTBK3vg/826FS0Y+3saABGLQdN4d4xfR1lBHHVSUrINM5jr3NWoIZx5Z3KGHsMVNQYm2BRb87SpgmSbjdqnmjFM+jPIdj3spqVvXmLjyufHRC2KQQaFY2r0ZJpF2bALUNF2oL1PCAjK5xtrWgd8g/6RlXsYEYjlnd4+e8rBMVFjTixeErAFpl1zdNf0KWMX/YgWkIOKtUaNfKXP5B0XZek=;QH60ETK2FdljoNmmqsbZXw=="
 ---
 

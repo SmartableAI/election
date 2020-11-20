@@ -31,9 +31,9 @@ images:
     isCached: true
 
 related:
-  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
+  - title: "A federal judge ordered the Trump administration to stop deporting migrant children who cross the US-Mexico border alone"
     excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
-    publishedDateTime: 2020-11-18T16:10:00Z
+    publishedDateTime: 2020-11-20T00:58:00Z
     webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
     ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
@@ -41,7 +41,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 100
     images:
       - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
         width: 1200

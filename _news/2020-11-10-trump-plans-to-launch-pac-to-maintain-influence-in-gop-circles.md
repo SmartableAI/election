@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/10/politics/donald-trump-leadership-pac-republicans/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 235
 published: true
 
 provider:
@@ -76,38 +76,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/07/us/politics/0gop-whathappensnext-1/merlin_179715216_006831f4-4064-4500-afbf-0577732f6f43-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Plan to Sell Arctic Oil Leases Will Face Challenges"
-    excerpt: "If lease sales happen in the final days of the Trump administration, they may face disputes in court or could be reversed by the Biden administration."
-    publishedDateTime: 2020-11-18T02:57:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/climate/arctic-wildlife-refuge-lease-sales.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/17/climate/17CLI-ARCTICREFUGE/17CLI-ARCTICREFUGE-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
-    excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
-    publishedDateTime: 2020-11-12T01:39:00Z
-    webUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/us/politics/trump-pentagon-intelligence-iran.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11dc-military-sub1/11dc-military-sub1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

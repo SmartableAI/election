@@ -31,107 +31,209 @@ images:
     isCached: true
 
 related:
-  - title: "FBI says extremist threatened Trump, Obama in online posts"
-    excerpt: "An FBI agent says a man accused of conspiring to kidnap Michigan's governor also made threatening online comments about President Donald Trump and other political figures"
-    publishedDateTime: 2020-10-29T00:48:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fbi-extremist-threatened-trump-obama-online-posts-73892980"
+  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
+    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
+    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
+    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
+    publishedDateTime: 2020-11-03T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_705c061595964214804bb497f9a1c396_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "The Health 202: Obamacare marketplaces survived Trump's term better than expected"
-    excerpt: "The Trump administration is presiding over what could be its final Obamacare enrollment season, which started yesterday. As Election Day approaches, it's clear the much-hyped changes the administration made to the health insurance marketplaces over the past four years had far less impact — either positive or negative — than expected."
-    publishedDateTime: 2020-11-02T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/02/health-202-obamacare-marketplaces-survived-trump-term-better-than-expected/?outputType=amp"
+  - title: "Why did the polls undercount Trump voters?"
+    excerpt: "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,"
+    publishedDateTime: 2020-11-13T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LMYV2VXGGEI6PK2QMIP6AWEDIA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump adviser on FBI's Clinton email probe"
-    excerpt: "News that the FBI has discovered new emails related to its investigation of Hillary Clinton's private email server has rocked the presidential race with only 11 days to go. Senior adviser to the Trump campaign AJ Delgado joins CBSN to discuss the latest developments."
-    publishedDateTime: 2020-11-03T06:52:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-adviser-on-fbi-clinton-email-probe/"
+  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
+    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
+    publishedDateTime: 2020-11-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump demolished the walls between politics and sports. He might not like the result."
+    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
+    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
+    publishedDateTime: 2020-11-09T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump and polarization drove record turnout. So did mail voting, which should be universal."
+    excerpt: "All Americans should be able to vote by mail, simply and conveniently. States should enshrine this in law to keep turnout up and election costs down."
+    publishedDateTime: 2020-11-05T08:09:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/04/trump-polarization-mail-voting-drove-record-2020-turnout-column/6153959002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6153959002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6153959002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b0712fbb-b75c-4e51-8eb4-2fec32a575be-AFP_AFP_8UK9QB.jpg?auto=webp&crop=4656,2619,x0,y342&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Factbox: What a second Trump term would mean for U.S. financial policy"
+    excerpt: "A victory by U.S. President Donald Trump on Tuesday would continue his administration's four-year deregulatory streak, which has delivered at least $40 billion in gains to banks and other financial firms,"
+    publishedDateTime: 2020-11-03T00:17:00Z
+    webUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Pollster: Some Trump voters not reflected in polls"
+    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/03/f56475a8-5a58-4f82-bc73-d23db539bc8e/thumbnail/1200x630/2cec8063b9dd7287ab3357bd89618942/cbsn-trump-clinton-1023-1164816-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Obama endorses Espy in Mississippi; Trump backs Hyde-Smith"
-    excerpt: "Mike Espy has a great chance to win this election for the Senate and keep Mississippi moving forward,\" Obama said in a radio ad and the text of a fundraising appeal. Espy was U.S. agriculture secretary under President Bill Clinton,"
-    publishedDateTime: 2020-10-21T23:25:00Z
-    webUrl: "https://www.chron.com/news/article/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Obama-endorses-Espy-in-US-Senate-contest-in-15664265.php"
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 75
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
-    excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
-    publishedDateTime: 2020-10-22T06:25:00Z
-    webUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 70
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
         width: 1200
-        height: 800
+        height: 832
         isCached: true
-  - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
-    excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
-    publishedDateTime: 2020-10-22T11:04:00Z
-    webUrl: "https://allhiphop.com/news/waka-flocka-flame-thinks-donald-trump-is-a-better-president-than-barack-obama/"
+  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
+    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
+    publishedDateTime: 2020-11-11T18:52:00Z
+    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
     type: article
     provider:
-      name: AllHipHop
-      domain: allhiphop.com
-    quality: 52
-    images:
-      - url: "https://s34449.pcdn.co/wp-content/uploads/2020/09/waka-flocka-1.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Donald Trump Wins Kentucky"
-    excerpt: "Donald Trump wins Kentucky."
-    publishedDateTime: 2020-11-04T00:10:00Z
-    webUrl: "https://www.usnews.com/news/best-states/indiana/articles/2020-11-03/republican-eric-holcomb-wins-reelection-for-governor-in-indiana"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Time
+      domain: time.com
+    quality: 74
 
 secured: "o4fsVMS1mNhIhlcmvZ9JyObza1SAS8w/G5taYI1htbi8cNy0rvvV+ByxAoGDnCvzMFexGCe0q3KkOqVYH3o8BDvcFhO4LWTj5f/cHX6EfVqUHMtZaeuHcr/x90MB0eqTQ0lqsvHm/gx069u+0MpM9ueokoxvRWh1w69SkLJmFbDq2/nbsMpgIUuCR42I7gUbv0zpSzhZWKr8UJGvrrnFxlNR4kPYWCUW6/R1tG8YtIAeMg74xdF25Fwt0O+hBPCzSYxiRcvadqtd8UVybOVcq5vZdjtW8MfRgbH31jfPQhoFBTefBsXC73tOTBPj3wzW8dNoaP51dEvKYx2f6bcbtgcLQ4Yo0dxK0KrWXcNKUeM=;6uH+B9R0QrikBOg7BJeIVg=="
 ---

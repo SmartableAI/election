@@ -31,83 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Trump-friendly Newsmax a sudden competitor to Fox News"
-    excerpt: "The Trump-friendly network Newsmax saw its viewership explode after the election, helped by fans of the president who were apparently miffed at Fox News Channel"
-    publishedDateTime: 2020-11-18T18:23:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Trump and allies pitch yet another woeful voter-fraud theory in Nevada"
+    excerpt: "Officials have moved to re-do a race in Clark County. It's not the voter fraud smoking gun Trump and his allies suggest."
+    publishedDateTime: 2020-11-17T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMYTA4RA3YI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump-friendly Newsmax seeks to cut into Fox’s viewership"
-    excerpt: "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest."
-    publishedDateTime: 2020-11-19T03:14:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T10:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_777c7cd132ab4359b233e894a7cdf40a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
-    excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
-    publishedDateTime: 2020-11-15T20:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-considering-buying-out-newsmax-to-compete-against-fox-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analysis: Is Trump's Next Foe Fox News?"
-    excerpt: "Since Election Day, President Trump has attacked Fox News repeatedly, particularly its newsroom. Now comes chatter from Washington that he wants to start up his own media outfit to take on Fox."
-    publishedDateTime: 2020-11-14T10:00:00Z
-    webUrl: "https://www.npr.org/2020/11/14/932390859/analysis-is-trumps-next-foe-fox-news"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://media.npr.org/assets/img/2020/11/13/gettyimages-678832460_wide-3853de8b94f14d6e7da1d0d178274553c151e46f.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The CEO of Newsmax says the channel will never become 'Trump TV' — but he's open to giving the president a weekly show"
-    excerpt: "Newsmax \"would be open to talking to [Trump] about a weekly show\" once he has left the White House, its CEO Christopher Ruddy said."
-    publishedDateTime: 2020-11-16T11:25:00Z
-    webUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-trump-tv-christopher-ruddy-fox-news-2020-11?amp"
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fb24ec4402d49001924f0d2?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 509
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "sLqcYis7xU/S1Q0kytznTqyc+5TpoI77334caPDyNNtowCUO45shuBcrf9d+Z4uNgcbI2I6ThYQrS+BkujgkXrrIk0IuHKu1CEIjBLmPfx0wwaFhz1OtFxcedzq8zRed76LUXyfGtgyOkORHhvi+nqMElEAVHnR35FAZifoiwDVoaK+D6PWlba+x1bbRNJ+vzWxQzaEyo7tLZZo7SPPVDZx8RqFXYjiTIeVHIrbYoQPzMaSBUqYNh31PwTWx9j/B77rwJRvI0hKshb6bVb8fI/UvbiNrPhtcRU3PEyASuL2ssa7Kgmdtai0xsaoLbGttUTk8yV3Ub9iDMrNo4vEBWN2SfpVwKixeZy7EfQl1DYw=;1WNtYA1jtnuCHJyBgqxhrg=="

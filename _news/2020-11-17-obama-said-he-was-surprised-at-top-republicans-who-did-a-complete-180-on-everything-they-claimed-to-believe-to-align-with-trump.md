@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/obama-trump-top-republicans-complete
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp"
 type: article
 quality: 96
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
+    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
+    publishedDateTime: 2020-11-16T16:39:00Z
+    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "MEXVx9/2j8PGg4ZVHlPbldRm40QmldGT28am5vzatOFQLXraQwIjLTCEVLNSURd4M3Ep4wnnYHbSzF2NVPfviL8/A3ySoNrVb/woBLzszffhIYZOAOXzGbk9+KIdlQqC2bH7ChXA6qvkaXowuUuzkm4nYBRzKxCNXztnQNxL+1Ura/493akSGYzUyW67rS7cPlwN7gu0UuWicnJcrPIluo5jMADpuDbV24/M+34UnBWzJ7/JZwnRB0aTEUffofl7gW6fcGN8AiPrsMuRKS34GTKMbYWWLkNuO3Kl7WNvCdWPFoMGb/Vte3ZEuaCIzk+CkufN4/8MdQSnawvjXMi493INY2YzTV8X8ZFLVAkqLTA=;crzu1OA/Mep9RfRmXDRk+g=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump's attacks on mail-in ballots rankle some military vets"
+    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
+    publishedDateTime: 2020-11-07T09:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Judge Rejects Justice Department’s Bid To Shield Trump From Carroll Lawsuit"
     excerpt: "The DOJ said Trump denied the rape allegations as an official part of his job, a U.S. District Judge disagreed."
     publishedDateTime: 2020-10-27T16:39:00Z

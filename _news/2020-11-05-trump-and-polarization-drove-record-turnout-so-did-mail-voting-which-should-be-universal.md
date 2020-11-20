@@ -31,143 +31,209 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Viral video does not show Trump ballots being burned"
-    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
-    publishedDateTime: 2020-11-05T20:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
-    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
-    publishedDateTime: 2020-11-06T20:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
-    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
-    publishedDateTime: 2020-11-09T16:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:25:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
-        width: 870
-        height: 545
-        isCached: true
-  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
-    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
-    publishedDateTime: 2020-11-10T21:14:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
-    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
-    publishedDateTime: 2020-11-03T20:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 108
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
-    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
-    publishedDateTime: 2020-11-04T16:13:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
-    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
-    publishedDateTime: 2020-11-12T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
-    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
-    publishedDateTime: 2020-11-05T14:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+  - title: "Election 2020 exit polls: Political pundits utterly failed to predict Donald Trump's voters"
+    excerpt: "How could the polling be so wrong that it seems Donald Trump gained support among women and racial minorities? There really was a shy Trump voter."
+    publishedDateTime: 2020-11-07T10:15:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/11/07/election-2020-exit-polls-trump-minorities-race-women-column/6191966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6191966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191966002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 97
+    quality: 130
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/USAT/95eda6cb-d6de-4681-af51-0488a19e59f5-AP_Electon_2020_Trump.jpg?auto=webp&crop=3599,2024,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
+    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
+    publishedDateTime: 2020-11-07T18:52:00Z
+    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
+    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
+    publishedDateTime: 2020-11-03T04:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump projected to win South Carolina"
+    excerpt: "The state has nine electoral votes and was not expected by analysts to be particularly competitive."
+    publishedDateTime: 2020-11-04T02:47:00Z
+    webUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/south-carolina-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f9734c84743a3001216bc2a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why did the polls undercount Trump voters?"
+    excerpt: "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,"
+    publishedDateTime: 2020-11-13T12:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "After blocking its release, U.S. judge lets Trump policing panel publish report"
+    excerpt: "The Trump administration's law enforcement commission won approval from a federal judge on Monday night to release its controversial report on policing reforms, as long as the Justice Department includes a disclaimer stating that the report was drafted in violation of"
+    publishedDateTime: 2020-11-03T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-policing-idUSKBN27J01O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J01O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J01O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539734467&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA200H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump demolished the walls between politics and sports. He might not like the result."
+    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
+    publishedDateTime: 2020-11-02T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Under Trump asylum policy, hundreds of Cubans remain locked up in US detention centers"
+    excerpt: "Trump won Florida with help from Cuban Americans who liked his tough talk against socialism. But hundreds of Cuban migrants who fled communism are languishing in detention centers."
+    publishedDateTime: 2020-11-09T15:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2020/11/09/under-trump-policy-100-s-cubans-who-fled-communism-remain-locked-up/6174737002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6174737002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6174737002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/22ac6430-8a99-4a4c-8d77-b14da9000b6d-AP20293681682977.jpg?auto=webp&crop=4672,2628,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Factbox: What a second Trump term would mean for U.S. financial policy"
+    excerpt: "A victory by U.S. President Donald Trump on Tuesday would continue his administration's four-year deregulatory streak, which has delivered at least $40 billion in gains to banks and other financial firms,"
+    publishedDateTime: 2020-11-03T00:17:00Z
+    webUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/factbox-what-a-second-trump-term-would-mean-for-us-financial-policy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
+    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
+    publishedDateTime: 2020-11-08T16:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Pollster: Some Trump voters not reflected in polls"
+    excerpt: "The man who runs the Marquette University Law School poll says state polls were off this election because President Donald Trump's supporters declined to respond to surveys. (Nov. 11)"
+    publishedDateTime: 2020-11-11T21:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/11/pollster-some-trump-voters-not-reflected-polls/6257306002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/24bb0f9f-2c6d-4136-8921-1c1f2403cd48_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
+    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
+    publishedDateTime: 2020-11-05T05:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Dump Donald Trump: American voters' imperative"
+    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
+    publishedDateTime: 2020-11-03T09:10:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+        width: 1200
+        height: 832
+        isCached: true
+  - title: "The Political Coronavirus Paradox: Where The Virus Was Worst, Voters Supported Trump the Most"
+    excerpt: "U.S. counties that have recently seen increased rates of coronavirus infections were more likely to vote for Trump in the 2020 election."
+    publishedDateTime: 2020-11-11T18:52:00Z
+    webUrl: "https://time.com/5910256/covid-19-presidential-election-outcome/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
 
 secured: "VYwnV65COcS3H3XAGhJIvoO0scjI0HaGsJiHDrkOzlAtRJp4iUmC2d6Q7udBSUn9EHW3na5kUWRNJLmOVUhqcs6vwShjp9O6i8JibJH/iMDc+1RDJDBb7cyPbVFfY388jwC4lB/+NLac3B1VIWagY694b/PfqXN7ej6SSoqfko+UAAIK0hl/ajNhTQ35ZYtyOpsJ814yLIhU8T95Wf7GUwAVsCEMoMuI049LBT/SIjt4QIKd+oRPqIpEoGqxpckGUJ/AwajgYBTBdnpF2os+QwT1HKL6Ypwm4YrvaLOEB1lkqTFgD/HxTVdfCjvYUgFY6125Pni0YclKkfS0T1gQDr1Gd2tYFeiVknxtbpe/nyA=;qOE/NlD/S9V9bc/E+n+SGQ=="
 ---

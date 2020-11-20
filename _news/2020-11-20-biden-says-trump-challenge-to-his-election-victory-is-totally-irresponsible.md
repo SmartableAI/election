@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34T"
 type: article
 quality: 152
-heat: 752
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Angry at election defeat, Trump seeks partial recount in Wisconsin"
-    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-18T23:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/wisconsin-to-hold-partial-vote-recount-as-fuming-trump-denies-defeat-idUSKBN27V05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0G6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0G6"
+  - title: "Biden paints Trump as reckless as Pence and science advisers cheer vaccine news"
+    excerpt: "At dueling public events, the president-elect and the White House offered starkly different views of Trump’s pandemic response."
+    publishedDateTime: 2020-11-20T00:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 161
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUMXMZBKXAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden blasts Trump as U.S. COVID-19 cases mount and Pence staff endures outbreak"
+    excerpt: "Vice President Mike Pence forged ahead with campaigning on Sunday despite a COVID-19 outbreak among his aides and President Donald Trump claimed progress as the United States set records for daily infections,"
+    publishedDateTime: 2020-10-25T21:53:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/biden-blasts-trump-as-u-s-covid-19-cases-mount-and-pence-staff-endures-outbreak-idUKKBN27A04S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 140
+    quality: 150
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201026&t=2&i=1538795698&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9P04B"
+        width: 708
         height: 545
         isCached: true
-  - title: "Fuming over election defeat, Trump seeks partial recount in Wisconsin"
-    excerpt: "President Donald Trump's re-election campaign said on Wednesday it was seeking a partial recount of Wisconsin's presidential election results, as part of its long-shot attempt to reverse President-elect Joe Biden's victory."
-    publishedDateTime: 2020-11-18T22:58:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+  - title: "Election 2020 live updates: Biden calls Trump invitation to Michigan legislators 'irresponsible'"
+    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
+    publishedDateTime: 2020-11-19T22:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 142
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/62d96c6a-b6f3-4091-aacb-149110e7fa61-AP20324781057068.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tight spot: Trump loss complicates Pence's political future"
+    excerpt: "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024"
+    publishedDateTime: 2020-11-14T00:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541647819&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH19T"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Ohio Republican governor tweaked by Trump, praised by Biden"
     excerpt: "COLUMBUS, Ohio -- Republican Ohio Gov. Mike DeWine found himself on the receiving end of criticism by President Donald Trump and praise by President-Elect Joe Biden on Monday, with the result ..."
@@ -85,6 +117,22 @@ related:
     webUrl: "https://www.reuters.com/article/us-usa-election-vaccine-idUKKBN27Z2UA"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z2UA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z2UA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541805971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1O3"
+        width: 838
+        height: 545
+        isCached: true
+  - title: "Trump's vaccine team will not brief Biden administration: U.S senators"
+    excerpt: "Officials working on vaccine distribution planning under President Donald Trump have no intention of briefing anyone on President-elect Joe Biden's transition team, Democratic senators said on Thursday,"
+    publishedDateTime: 2020-11-20T04:42:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-vaccine-idUSKBN27Z2UA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2UA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2UA"
     type: article
     provider:
       name: Reuters
@@ -127,22 +175,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "The Supreme Court is running the clock on Trump's election lawsuits, experts say"
-    excerpt: "The Supreme Court has shown little interest in taking up President Donald Trump's numerous legal challenges against the election results."
-    publishedDateTime: 2020-11-19T12:17:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-hear-trump-election-lawsuits-time-running-out-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5fb5955150e71a00115560e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump campaign wants recount in 2 Wisconsin counties won overwhelmingly by Biden"
     excerpt: "The Trump campaign sent $3 million to the Wisconsin Elections Commission on Wednesday for a recount in the state's two largest, most Democratic counties, Milwaukee County and Dane County, following a 20,"
     publishedDateTime: 2020-11-19T00:09:00Z
@@ -174,6 +206,54 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541639787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH155"
         width: 817
         height: 545
+        isCached: true
+  - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
+    excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
+    publishedDateTime: 2020-10-23T20:15:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/23/who-won-last-nights-debate-social-media-gave-biden-winning-edge/6009398002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6009398002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6009398002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden says he 'should be further along' on virus"
+    excerpt: "President-elect Joe Biden is moving forward with transition plans, capping a tumultuous and tension-filled campaign during a historic pandemic against President Donald Trump, who still refuses to ..."
+    publishedDateTime: 2020-11-19T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74222753"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-economic-meeting-06-rt-jef-201116_1605558683683_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
+    excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."
+    publishedDateTime: 2020-10-23T05:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXXV5QQU2YI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden's coronavirus advisers warn on stalled transition, Trump pushes legal challenges"
     excerpt: "President-elect Joe Biden's top coronavirus advisers warned on Tuesday that President Donald Trump's stalling of the transition could hinder the country's pandemic response, as Trump and his allies persisted in challenging the Nov."
@@ -221,53 +301,69 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden approaches 80 million votes in historic victory"
-    excerpt: "President-elect Joe Biden's winning tally is approaching a record 80 million votes as Democratic bastions continue to count ballots and the 2020 election cracks turnout records. Biden has already set a record for the highest number of votes for a winning presidential candidate,"
-    publishedDateTime: 2020-11-19T12:10:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+  - title: "Trump, still not conceding defeat, trumpets vaccine progress"
+    excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
+    publishedDateTime: 2020-11-14T05:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-conceding-defeat-trumpets-vaccine-progress-74204951"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_889908c9c9044d42bc4d28149a2d0d48_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_999ec929a6524bba94505319eddf29c9_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Georgia recount not likely to change Biden victory: state official"
-    excerpt: "A recount being conducted by Georgia is not likely to change the result that gave Democrat Joe Biden a victory in the southern state in the Nov. 3 U.S. presidential election, Georgia Secretary of State Brad Raffensperger told CNN on Wednesday."
-    publishedDateTime: 2020-11-19T03:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN27Y306"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y306"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y306"
+  - title: "Financially troubled startup helped power Trump campaign"
+    excerpt: "SAN FRANCISCO — President Donald Trump’s 2020 reelection campaign was powered by a cellphone app that allowed staff to monitor the movements of his millions of supporters, and offered intimate access to their social networks. Support our journalism."
+    publishedDateTime: 2020-11-18T06:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/financially-troubled-startup-helped-power-trump-campaign/2020/11/18/3f456f5c-2967-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541689702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1TL"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
-    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
-    publishedDateTime: 2020-11-19T15:30:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27Z0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+  - title: "Virginia Latino voters excited for Biden presidency"
+    excerpt: "The Latino vote went to different candidates around the nation, but in Virginia a majority of Latinos favored former Vice President Joe Biden and are hopeful he’ll reverse President Donald Trump’s imm"
+    publishedDateTime: 2020-11-17T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-latino-voters-excited-for-biden-presidency/2020/11/17/a8b63bf6-2921-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
-        width: 812
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Justice Dept.’s China focus likely to continue under Biden"
+    excerpt: "President Donald Trump has identified China as the country’s biggest foe and the Justice Department mirrored that emphasis over the last four years with a drumbeat of cases against defendants ranging from hackers accused of targeting intellectual property to professors charged with grant fraud."
+    publishedDateTime: 2020-11-19T10:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/justice-depts-china-focus-likely-to-continue-under-biden/2020/11/19/8c2235fe-2a51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Republican lawyers to hold news conference, Trump says"
     excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
@@ -285,21 +381,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump campaign seeks a partial recount in Wisconsin"
-    excerpt: "U.S. President Donald Trump's re-election campaign will seek a partial recount of Wisconsin's election results for the Nov. 3 presidential contest, the campaign said on Wednesday."
-    publishedDateTime: 2020-11-18T16:53:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-wisconsin-idUKKBN27Y2CR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y2CR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y2CR"
+  - title: "Trump-friendly Newsmax a sudden competitor to Fox News"
+    excerpt: "The Trump-friendly network Newsmax saw its viewership explode after the election, helped by fans of the president who were apparently miffed at Fox News Channel"
+    publishedDateTime: 2020-11-18T18:23:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-friendly-newsmax-a-sudden-competitor-to-fox-news/2020/11/18/2d16ddb6-29cb-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541656188&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1DH"
-        width: 816
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump is trying to stop local officials in key swing states from certifying election results in a last-ditch effort to block Biden"
     excerpt: "Two Republican canvassers in Wayne County, Michigan, are trying to rescind their votes to certify election results after Trump reached out to them."
@@ -317,21 +413,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Options dwindling, Trump faces likely setback in Georgia recount"
-    excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
-    publishedDateTime: 2020-11-19T18:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27Z0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27Z0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27Z0GI"
+  - title: "Fact-checking the craziest news conference of the Trump presidency"
+    excerpt: "President Trump's attorneys offered a stew of falsehoods and conspiracy theories in a desperate effort to claim he did not lose the election."
+    publishedDateTime: 2020-11-19T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/fact-checking-craziest-news-conference-trump-presidency/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
-        width: 812
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/334GFEBKVII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Georgia presidential hand tally done; affirms Biden lead"
+    excerpt: "A top Georgia election official says a hand tally of the ballots cast in the presidential race has been completed, and that the results affirm Democrat Joe Biden’s narrow lead over Republican Presiden"
+    publishedDateTime: 2020-11-20T00:21:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-official-vote-audit-over-biden-still-leads-trump/2020/11/19/555d7716-2ac6-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-official-vote-audit-over-biden-still-leads-trump/2020/11/19/555d7716-2ac6-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-official-vote-audit-over-biden-still-leads-trump/2020/11/19/555d7716-2ac6-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Republican lawyers to hold news conference, Trump says"
     excerpt: "Lawyers plan to hold a news conference at Republican headquarters later on Thursday, U.S. President Donald Trump said in a tweet as he continued his long-shot legal campaign challenging Democrat Joe Biden's victory in the Nov."
@@ -349,21 +461,81 @@ related:
         width: 746
         height: 545
         isCached: true
-  - title: "Obama says it's 'disappointing' that more Republicans aren't standing up to Trump over election results"
-    excerpt: "The former president said that Joe Biden and Kamala Harris were rightfully elected and that there was no legal justification to challenge their win."
-    publishedDateTime: 2020-11-15T17:29:00Z
-    webUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barack-obama-joe-biden-republicans-challenging-donald-trump-election-results-2020-11?amp"
+  - title: "Trump campaign shifts strategy as recount, lawsuit efforts founder"
+    excerpt: "With legal challenges to his loss in the U.S. presidential election flailing, President Donald Trump's campaign is trying to persuade Republican state legislators to intervene in battleground states won by Democratic rival Joe Biden."
+    publishedDateTime: 2020-11-20T03:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27Y0GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y0GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y0GY"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa6e3141df1d50018219739?width=1200&format=jpeg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541789947&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1GH"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Trump shifts strategy to hold power as recount, lawsuit efforts founder"
+    excerpt: "With legal efforts to overturn his loss in the U.S. presidential election flailing, President Donald Trump's campaign is trying to persuade Republican state legislators to intervene in battleground states won by Democratic rival Joe Biden."
+    publishedDateTime: 2020-11-20T00:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/ahead-of-recount-results-georgia-officials-say-biden-likely-to-remain-the-winner-idUSKBN27Z0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z0GN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z0GN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541831076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1ZK"
+        width: 783
+        height: 545
+        isCached: true
+  - title: "Trump and Joe Biden will have mics muted during parts of final debate"
+    excerpt: "President Trump and Joe Biden will have their mics muted during their opponent's two minutes of uninterrupted time at Thursday's debate. Sean Sullivan, a CBSN political contributor and national politics reporter for the Washington Post,"
+    publishedDateTime: 2020-10-20T21:47:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-mics-muted-during-parts-of-debate-thursday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/459c840d-4166-4daf-80a8-fbf3b0cfcb21/thumbnail/1200x630/f8d0c87b8360e2532afc955f00fba7e6/cbsn-fusion-president-trump-and-joe-biden-will-have-mics-muted-during-parts-of-debate-thursday-thumbnail-570900-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
+        isCached: true
+  - title: "Trump and Biden clash on pandemic, trade personal jabs at final debate"
+    excerpt: "U.S. President Donald Trump and Democratic presidential nominee Joe Biden are reflected in the plexiglass protecting a tv camera operator from covid as they participate in their second 2020 presidenti"
+    publishedDateTime: 2020-10-23T03:26:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-and-biden-clash-on-pandemic-trade-idUSKBN2770H1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M05P"
+        width: 810
+        height: 534
+        isCached: true
+  - title: "Trump to break silence with vaccine update after criticism he's ignored pandemic"
+    excerpt: "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic."
+    publishedDateTime: 2020-11-13T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "A day-by-day timeline of how Trump is blocking the kind of presidential transition he got from Biden and Obama"
     excerpt: "President Trump's refusal to concede the election has complicated President-elect Joe Biden's transition to power. The situation in 2020 is a marked contrast to 2016, when Hillary Clinton conceded and the Obama administration made a point on engaging with Trump and his officials."
@@ -381,22 +553,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
-    excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
-    publishedDateTime: 2020-11-19T10:07:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-wrap-idUKKBN27Z0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+  - title: "The Latest: Trump ally Netanyahu calls Biden president-elect"
+    excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+    publishedDateTime: 2020-11-17T20:04:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trump-ally-netanyahu-calls-biden-president-elect-2020-11?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Recounts unlikely to change Trump election loss"
     excerpt: "Video Module Recounts unlikely to change Trump election loss. Posted [NFA] President Donald Trump's attempts to cling to power appeared more tenuous than ever on Wednesday as elec"
     publishedDateTime: 2020-11-19T08:34:00Z
@@ -425,21 +592,51 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
-    excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
-    publishedDateTime: 2020-11-17T21:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN27X2WD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2WD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2WD"
+  - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
+    excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
+    publishedDateTime: 2020-11-17T08:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-biden-idUSKBN27X00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X00U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 116
+    quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
-        width: 781
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541428592&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG00G"
+        width: 824
         height: 545
+        isCached: true
+  - title: "Former China finance minister says trade frictions with U.S. could remain under Biden"
+    excerpt: "Trade frictions between the United States and China may not ease in the near term even if Joe Biden becomes president of the United States, former Chinese finance minister Lou Jiwei said on Friday."
+    publishedDateTime: 2020-11-13T05:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-china-caixin/former-china-finance-minister-says-trade-frictions-with-u-s-could-remain-under-biden-idUSKBN27T0AC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0G2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0G2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541074972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC055"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden seeks coronavirus vaccine distribution plan as Trump blocks transition"
+    excerpt: "President-elect Joe Biden spent Thursday working on plans to fight the coronavirus pandemic and trying to work around President Trump's refusal to share vital information. Ed O'Keefe has the details."
+    publishedDateTime: 2020-11-20T02:08:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-seeks-coronavirus-vaccine-distribution-plan-as-trump-blocks-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/20/dbfb0e3c-909a-45bf-a584-0df26fad6365/thumbnail/1200x630/7a412fed2def80afe847d062731d6194/1119-en-okeefe-591669-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
     excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"
@@ -456,6 +653,78 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541683546&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1QA"
         width: 818
         height: 545
+        isCached: true
+  - title: "Donald Trump lost the presidency. Residents and realtors of Trump Tower think it may become valuable again."
+    excerpt: "\"I'm hoping that if he doesn't come back there, and we take his name off the building, we could have a wonderful spot to live again,\" said one owner."
+    publishedDateTime: 2020-11-12T19:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Is there any chance Trump will concede?"
+    excerpt: "Watch \"Is there any chance President Trump will concede the election?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-13T00:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201113000632-is-there-any-chance-president-trump-will-concede-the-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/13/story_07673587_1605226015.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Analysis: Is Trump's Next Foe Fox News?"
+    excerpt: "Since Election Day, President Trump has attacked Fox News repeatedly, particularly its newsroom. Now comes chatter from Washington that he wants to start up his own media outfit to take on Fox."
+    publishedDateTime: 2020-11-14T10:00:00Z
+    webUrl: "https://www.npr.org/2020/11/14/932390859/analysis-is-trumps-next-foe-fox-news"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/13/gettyimages-678832460_wide-3853de8b94f14d6e7da1d0d178274553c151e46f.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Biden warns 'more people may die' in pandemic..."
+    excerpt: "Watch \"President-elect Joe Biden warns 'more people may die' in the pandemic if President Trump continues to refuse coordinating on a COVID-19 plan with the \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring ..."
+    publishedDateTime: 2020-11-17T01:29:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201117060610-president-elect-joe-biden-warns-more-people-may-die-in-the-pandemic-if-president-trump-continues-to-refuse-coordinating-on-a-covid-19-p/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/17/story_07721490_1605593404.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden promises to prioritize state virus funding"
+    excerpt: "President-elect Joe Biden says he's hopeful that Congressional Republicans will be more willing to send money to state governments after President Donald Trump leaves office. He's promising to make such funding a priority when he takes office."
+    publishedDateTime: 2020-11-18T21:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/18/biden-promises-prioritize-state-virus-funding/3768620001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/aee1cc78-b442-4d96-88ca-9e0337804e02_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "President elect Biden works on transition"
     excerpt: "Watch \"President-elect Joe Biden works on transition; met with National Security experts\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -485,19 +754,76 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "House Democrat says Congress has few options to help Biden's transition to power"
-    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
-    publishedDateTime: 2020-11-18T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
+  - title: "Activists rally in DC to pressure Biden on climate"
+    excerpt: "Activists from a number of progressive groups rallied in Washington to push President-elect Joe Biden to uphold his commitments on climate change. (Nov. 19)"
+    publishedDateTime: 2020-11-19T23:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/19/activists-rally-dc-pressure-biden-climate/6348718002/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d710a6a5-3e94-44ae-8467-892ab69ba948_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
+    excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
+    publishedDateTime: 2020-11-19T14:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-concede-white-house-chamber-commerce-tom-donohue-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Duluth airport barred Pence after Trump broke virus rules"
+    excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
+    publishedDateTime: 2020-11-19T17:39:00Z
+    webUrl: "https://www.stltoday.com/news/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/duluth-airport-barred-pence-after-trump-broke-virus-rules/article_c095a7b0-2467-5bb1-9b56-8bceeb0e3dd9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/c1/1c1d6e59-8ed2-5fca-a818-669af812d1ab/5fb69dc7da190.image.jpg?resize=1024%2C717"
+        width: 1024
+        height: 717
+        isCached: true
+  - title: "Biden Bolsters Lead Over Trump Among Young Voters"
+    excerpt: "Since securing the Democratic nomination, Biden has not only coalesced support among young voters, he has become more popular with them."
+    publishedDateTime: 2020-10-26T17:34:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-26/biden-bolsters-lead-over-trump-among-young-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Tight spot: Donald Trump loss complicates Mike Pence’s political future"
+    excerpt: "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status. But with Trump’s loss — after Pence spent the last four years as his most loyal soldier and the past year doggedly campaigning on his behalf — the Vice President is contending with a far less certain future."
+    publishedDateTime: 2020-11-13T21:37:00Z
+    webUrl: "https://floridapolitics.com/archives/383296-trump-loss-pences-political-future"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Mike-Pence-Donald-Trump-1000x563.jpeg"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "XImZZ8RrU3Vh6Ekv4cDLDhh6NucDmlGXZsqKaxAnN3kSLjay6MCimptG7zHjdb6vlg5S7IaQlKlFFuwqGsoeBwfpo3dmRfm6IXOVaXprz1Go4SUbCbKUMeVvobhqQQR7tMRLU5YriFGk2AzqG73kfETax6z66uO9A5IXaID2LgPDsYTZkB/pQpHHr65YUowa+eIeTSf8XVLm2DDRynIOIWuqe82wRgidzO3GMl1uozfnb3v403nroCQWLTvQy4yNVFUETfJgYDEQpe84Cjk1zn50eCmtm96IpoWOpPuye+/GNZblMn1aVqITaSsx1hbNRIukkoPzQENeQpMmmiV3MZsQQuL/0PWgN94SYMKweJU=;t4YlziZ+zpV7o3xD01Prkw=="

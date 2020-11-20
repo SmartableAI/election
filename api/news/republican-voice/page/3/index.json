@@ -2,6 +2,230 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-10-andrew-cuomo-says-he-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.md",
+      "title": "Andrew Cuomo says he 'would've decked' Trump over insults if he wasn't NY governor",
+      "excerpt": "Trump and Cuomo have exchanged insults in the media for months, with each politician accusing the other of poor leadership during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bviDPDqbvcI/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73918fbe-82d4-4470-b2f1-60013a0a9794/1a1fc4c2-4ce7-476b-b39b-88baee82ae59/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-wouldve-decked-trump-over-insults-if-he-wasnt-ny-governor.amp",
+      "publishedDateTime": "2020-11-10T14:18:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.md",
+      "title": "Democrats are struggling to extinguish the ‘Trump effect’ once and for all",
+      "excerpt": "Democrats harbored aspirations of a Democratic House, Democratic Senate and Joe Biden in the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TZ65QrixcPU/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-are-struggling-to-extinguish-the-trump-effect-once-and-for-all.amp",
+      "publishedDateTime": "2020-11-10T09:03:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.md",
+      "title": "Trump slams McCabe as ex-FBI official testifies virtually",
+      "excerpt": "President Trump on Tuesday slammed ex-FBI deputy director Andrew McCabe, urging Republicans not to let him “get away with totally criminal activity” as the former official testified virtually before the Senate Judiciary Committee.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o_8J3cy-uBI/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-mccabe-as-ex-fbi-official-testifies-virtually.amp",
+      "publishedDateTime": "2020-11-10T08:39:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-cindy-mccain-joins-joe-biden-transition-team-advisory-board.md",
+      "title": "Cindy McCain joins Joe Biden transition team advisory board",
+      "excerpt": "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 375,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
+      "publishedDateTime": "2020-11-10T08:02:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-trump-to-launch-pac-to-retain-influence-after-departing-white-house.md",
       "title": "Trump to launch PAC to retain influence after departing White House",
       "excerpt": "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House.",
@@ -1449,230 +1673,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-jr-calls-out-2024-gop-hopefuls-for-total-lack-of-action-in-ballot-counting-fight.md",
-      "title": "Trump Jr. calls out '2024 GOP hopefuls' for 'total lack of action' in ballot-counting fight",
-      "excerpt": "Donald Trump Jr. pressured potential 2024 GOP contenders to vocally support President Trump as the president continues to air often unfounded grievances about alleged voter fraud. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwEvBb-BBdk/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-calls-out-2024-gop-hopefuls-ballot-counting-fight.amp",
-      "publishedDateTime": "2020-11-06T07:44:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-trump-touts-gains-with-minorities-and-women-were-the-party-of-inclusion.md",
-      "title": "Trump touts gains with minorities and women: 'We're the party of inclusion'",
-      "excerpt": "President Trump touting his party’s gains with women and minorities, declared the Republican Party the “party of inclusion” in a news conference Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xvg69Ti-dgI/trump-party-of-inclusion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2655c9-ae5d-4607-94a3-33e61a24b66c/648337d5-952b-4c9a-8f58-2469df653a0f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-of-inclusion.amp",
-      "publishedDateTime": "2020-11-05T16:56:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-the-media-cried-wolf-for-four-years-about-trump-and-people-stopped-listening-adam-carolla.md",
-      "title": "The media 'cried wolf' for four years about Trump and people stopped listening: Adam Carolla",
-      "excerpt": "The mainstream media \"cried wolf,\" author and comedian Adam Carolla said Thursday, reacting to the results of the 2020 presidential election showing tremendous support for President Trump from non-White voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhscVdgIQV0/adam-carolla-media-crying-wolf-trump-racism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhscVdgIQV0/adam-carolla-media-crying-wolf-trump-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp",
-      "publishedDateTime": "2020-11-05T12:15:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-agenda-won-up-and-down-the-ballot-as-pundits-and-polls-missed-the-mark-again-kellyanne-conway.md",
-      "title": "'Trump agenda won up and down the ballot' as pundits and polls missed the mark again: Kellyanne Conway",
-      "excerpt": "The pollsters and pundits got the 2020 presidential race wrong yet again, Kellyanne Conway, former Trump 2016 campaign manager, told \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "publishedDateTime": "2020-11-05T09:16:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

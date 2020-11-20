@@ -47,6 +47,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden builds out White House senior staff with top campaign advisers"
+    excerpt: "President-elect Joe Biden is building out the staff that will surround him in the White House, announcing Tuesday that he is tapping two long-time advisers for top roles and naming several other veterans of his presidential campaign to senior positions.\n    \n"
+    publishedDateTime: 2020-11-17T16:13:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Sgi-xar6mzg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/biden-white-house-senior-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/biden-white-house-senior-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116175720-joe-biden-1105-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign manager Jen O'Malley Dillon to get top White House job"
+    excerpt: "Jen O'Malley Dillon will join President-elect Joe Biden's incoming administration as a deputy chief of staff, a source familiar with the matter tells CNN.\n    \n"
+    publishedDateTime: 2020-11-17T00:07:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DD3Hbq915g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/jen-o-malley-dillon-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116185716-jen-omalley-dillon-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden fills his West Wing. The Cabinet will wait"
+    excerpt: "The transition time between one presidential administration and the next is always frenetic, fast-paced and full of some uncertainty as campaigns try to morph into governments. Doing it during a surging pandemic and an economic downturn makes it even more important to hand things over the right way.\n"
+    publishedDateTime: 2020-11-18T11:02:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lmKNMz1G2eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116222058-biden-trump-transition-white-house-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rep. Jim Clyburn says he urged Biden to choose a Black woman as his running mate"
     excerpt: "House Majority Whip Jim Clyburn said Saturday that he had privately urged President-elect Joe Biden to pick a Black woman as his running mate before Biden chose Kamala Harris, America's first female, first Black and first South Asian vice president-elect.\n    \n"
     publishedDateTime: 2020-11-07T22:25:39Z
@@ -63,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden considering former campaign aides for top White House communications roles"
+    excerpt: "Several women who worked on Joe Biden's campaign are being considered for top White House communications roles in the Biden-Harris administration, sources with knowledge of the deliberations tell CNN.\n    \n"
+    publishedDateTime: 2020-11-18T20:38:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kf2hQn8sx2E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118150049-jean-pierre-sanders-bedingfield-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cedric Richmond expected to leave Congress and join Biden's White House in senior role "
     excerpt: "Louisiana Rep. Cedric Richmond is expected to join President-elect Joe Biden's White House staff in a senior role, departing the New Orleans-area House of Representatives seat he has held since 2011, sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-17T00:16:45Z
@@ -76,6 +140,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110103859-10-biden-admin-possibilities-richmond-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats seek to avoid scorched-earth fight with White House over transition to Biden administration"
+    excerpt: "House Speaker Nancy Pelosi and President-elect Joe Biden's team are arguing that it makes the most strategic sense for now to let public pressure build on President Donald Trump for preventing the transition from officially taking place, rather than using the power of the House Democrats' majority to"
+    publishedDateTime: 2020-11-16T20:21:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MM5mORpkGOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/16/politics/democratic-leaders-trump-transition-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -108,6 +188,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/04/us/politics/04election-ledeall-mi1/04election-ledeall-mi1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden appoints team of longtime aides to key White House posts"
+    excerpt: "Among other moves, Biden adviser and confidant Mike Donilon will move to the White House as senior adviser to the president."
+    publishedDateTime: 2020-11-18T01:28:00Z
+    webUrl: "https://www.politico.com/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/biden-appoints-loyalists-key-white-house-posts-436999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ff/e1/2c4708494a569793ce2f0e12f142/20201117-cedric-richmond-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "No, a high-level member of the Biden campaign was not arrested in Texas."
+    excerpt: "The staff member denied that he was arrested, and a photo purportedly showing his arrest was actually that of the actor Cuba Gooding Jr."
+    publishedDateTime: 2020-11-17T20:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/technology/no-a-high-level-member-of-the-biden-campaign-was-not-arrested-in-texas.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17distortions-brief-biden/17distortions-brief-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

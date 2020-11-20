@@ -2,6 +2,489 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-10-31-kayleigh-mcenany-says-seals-rescue-of-american-hostage-is-story-of-trump-presidency-we-dont-stop.md",
+      "title": "Kayleigh McEnany says SEALs' rescue of American hostage is 'story of' Trump presidency: 'We don't stop'",
+      "excerpt": "The American hostage rescued in West Africa by SEAL Team 6 in a daring raid is part of President Trump's exceptional accomplishments, Kayleigh McEnany said Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/6bFE0zfyVx0/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hostage-rescue-africa-election-2020-kayleigh-mcenany.amp",
+      "publishedDateTime": "2020-10-31T09:21:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc.md",
+      "title": "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC",
+      "excerpt": "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
+      "originalUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp",
+      "publishedDateTime": "2020-10-31T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-so-while-were-waiting-will-mike-pence-ever-be-president.md",
+      "title": "So, while we’re waiting . . . will Mike Pence ever be president?",
+      "excerpt": "Olivia Troye remembers a time when she wished Mike Pence were president. Troye, a Department of Homeland Security official, had been working with the vice president on the coronavirus task force.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T76AKOA22MI6XPX3RBSCLG6S3A.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/mike-pence-president-2024/2020/10/30/5db409b4-1a2e-11eb-befb-8864259bd2d8_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-31T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-newsmaker-long-in-trumps-shadow-vice-president-mike-pence-set-to-emerge.md",
+      "title": "NEWSMAKER-Long in Trump's shadow, Vice President Mike Pence set to emerge",
+      "excerpt": "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT",
+      "originalUrl": "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 779,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27G0F3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3",
+      "publishedDateTime": "2020-10-31T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-ivanka-trump-says-she-is-unapologetically-pro-life.md",
+      "title": "Ivanka Trump says she is 'unapologetically' pro-life",
+      "excerpt": "Ivanka Trump this week said that she is “unapologetically” pro-life, adding that motherhood changed how she thinks about the abortion issue.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fX1ewM5PPsE/ivanka-trump-says-she-is-unapolagetically-pro-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20301701834860.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-says-she-is-unapolagetically-pro-life.amp",
+      "publishedDateTime": "2020-10-31T00:51:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-john-king-trump-needs-mind-blowing-election-turnout.md",
+      "title": "John King: Trump needs mind-blowing election turnout",
+      "excerpt": "CNN's John King takes a look at what President Donald Trump will need to win over industrial swing states in the 2020 election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LNTWZU8Lrw4/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LNTWZU8Lrw4/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1050,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027235853-donald-trump-west-salem-wisconsin-1027-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/31/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/31/john-king-2020-election-trump-biden-sot-vpx-ac360.cnn",
+      "publishedDateTime": "2020-10-30T17:58:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-older-women-voters-want-to-send-a-message-to-trump-in-november.md",
+      "title": "Older women voters want to send a message to Trump in November  ",
+      "excerpt": "Jane Van Zandt is soaked. Her blue mittens are dripping. Her glasses keep fogging up. Her blue raincoat simply does not seem heavy enough to keep her warm against the bluster of a cold and rainy late October morning in Chester, New Hampshire. Yet, this 78-year-old offers no complaints as she holds her",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JMlHNthCDn8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JMlHNthCDn8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030160430-nh-write-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/new-hampshire-senior-women-voters/index.html",
+      "publishedDateTime": "2020-10-30T16:19:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-top-two-pro-trump-super-pacs-make-final-20-million-ad-push.md",
+      "title": "Top two pro-Trump super PACs make final $20 million ad push",
+      "excerpt": "The two leading super PACs that are supporting President Trump's re-election bid are teaming up to shell out $20 million to run ads on TV and digital in seven crucial general election battleground in the closing stretch leading up to Election Day on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zUgV0XwX-Xk/top-two-pro-trump-super-pacs-make-final-20-million-ad-push",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-split-10.29.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T16:11:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-facebook-manually-limited-new-york-post-hunter-biden-story-report.md",
+      "title": "Facebook manually limited New York Post Hunter Biden story: Report",
+      "excerpt": "Facebook fact-checkers manually flagged and restricted distribution of the New York Post's Hunter Biden story, documents obtained by The Guardian show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DE9HKu8Hyjk/facebook-manual-limit-new-york-post-hunter-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/facebook-2-Reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-manual-limit-new-york-post-hunter-biden.amp",
+      "publishedDateTime": "2020-10-30T16:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
       "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
       "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
@@ -806,490 +1289,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-hannity-biden-scary-image-america-economy-surge.amp",
       "publishedDateTime": "2020-10-29T21:04:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-trump-meets-with-army-unit-that-conducted-al-baghdadi-raid-awards-citation.md",
-      "title": "Trump meets with Army unit that conducted Al-Baghdadi raid, awards citation",
-      "excerpt": "President Trump has awarded a citation to the Army special operations unit that conducted the 2019 raid resulting in the death of notorious Islamic State leader Abu Bakr Al-Baghdadi.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1-AJHfKMlM/trump-bragg-unit-citation-army-unit-baghdadi",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1-AJHfKMlM/trump-bragg-unit-citation-army-unit-baghdadi",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/12/04/694940094001_6112753084001_6112806056001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-bragg-unit-citation-army-unit-baghdadi.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bragg-unit-citation-army-unit-baghdadi.amp",
-      "publishedDateTime": "2020-10-29T20:39:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-kudlow-bidens-economic-plan-would-crush-middle-class-cost-millions-of-jobs-over-next-decade.md",
-      "title": "Kudlow: Biden's economic plan would crush middle class, cost millions of jobs over next decade",
-      "excerpt": "A Joe Biden presidency would cripple the U.S. economy and cause the loss of an estimated five million American jobs by 2030, White House economic adviser Larry Kudlow told \"The Ingraham Angle\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4OYjTm4RVYU/kudlow-biden-economic-plan-crush-us-economy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4OYjTm4RVYU/kudlow-biden-economic-plan-crush-us-economy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ee9de7a-ba64-41ba-b1e0-10d348d471e1/5a05a687-b6df-41f5-a8eb-879dc90d2370/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-biden-economic-plan-crush-us-economy.amp",
-      "publishedDateTime": "2020-10-29T20:33:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-schumer-calls-trump-a-moron-over-coronavirus-response.md",
-      "title": "Schumer calls Trump 'a moron' over coronavirus response",
-      "excerpt": "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show",
-      "originalUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp",
-      "publishedDateTime": "2020-10-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-trumps-disrespect-of-sen-martha-mcsally-was-painful-to-watch.md",
-      "title": "Trump's disrespect of Sen. Martha McSally was painful to watch",
-      "excerpt": "President Donald Trump treated Sen. Martha McSally like a second-class citizen during his Goodyear rally. That's the thanks she gets, for her loyalty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/28/trumps-disrespect-sen-martha-mcsally-painful-watch/6064387002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/28/PPHX/29606f50-ae19-4a72-a361-eb0642dbbb5e-DW1_8023.JPG?auto=webp&crop=3045,1713,x0,y304&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6064387002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6064387002",
-      "publishedDateTime": "2020-10-29T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-west-wing-star-martin-sheen-donald-trump-gets-away-with-more-than-any-tv-president-could.md",
-      "title": "'West Wing' star Martin Sheen: Donald Trump gets away with more than any TV president could",
-      "excerpt": "West Wing' is my escape from the Trump era. Its TV public servants know what the right thing is and they're on speaking terms with their better angels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/voices/2020/10/28/west-wing-escapism-martin-sheen-interview-donald-trump-column/3746508001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/27/USAT/55afa79f-4713-404f-84ab-457a4f87edaf-AP_TV-West_Wing-Voting_Special.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3746508001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3746508001",
-      "publishedDateTime": "2020-10-29T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-trump-is-touting-the-record-shattering-gdp-report-as-evidence-of-a-full-economic-rebound-heres-why-the-recovery-actually-has-much-further-to.md",
-      "title": "Trump is touting the record-shattering GDP report as evidence of a full economic rebound. Here's why the recovery actually has much further to go.",
-      "excerpt": "The US economy grew 7.4% in Q3, or 33.1% at an annualized rate. Many economists say growth is slowing down without another stimulus package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3bf506650894001d0721c1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gdp-report-economic-recovery-coronavirus-reopening-unemployment-q3-analysis-stimulus-2020-10?amp",
-      "publishedDateTime": "2020-10-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-glenn-greenwald-leaves-the-intercept-claiming-he-was-censored-over-an-article-he-wrote-on-joe-biden.md",
-      "title": "Glenn Greenwald leaves The Intercept, claiming he was ‘censored’ over an article he wrote on Joe Biden",
-      "excerpt": "Journalist Glenn Greenwald said Thursday that he was leaving The Intercept, the news website he helped found, claiming that it had refused to publish an article he wrote on Joe Biden unless he removed sections that were critical of the Democratic presidential nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/8esg7_jTAjqy-k39KqyHXl_N1cw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UOQYWABV3BA3HDK7NXTIVLEG4Y.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-glenn-greenwald-intercept-20201029-ksh5aqo26jfddkeleglhrc3jhi-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-retired-minnesota-police-officers-asked-to-be-trump-poll-watchers-in-rough-neighborhoods.md",
-      "title": "Retired Minnesota police officers asked to be Trump poll watchers in 'rough neighborhoods'",
-      "excerpt": "A volunteer attorney for the Trump 2020 campaign is seeking retired officers to work as poll challengers in Minnesota.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GAdwozvec64/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GAdwozvec64/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293590772685.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-retired-police-officers-poll-watchers-rough-neighborhoods.amp",
-      "publishedDateTime": "2020-10-29T14:57:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-michigan-gov-rick-snyder-on-being-a-proud-republican-who-voted-for-biden.md",
-      "title": "Former Michigan Gov. Rick Snyder on being a 'proud Republican' who voted for Biden",
-      "excerpt": "Snyder served eight years as governor and was replaced by Democrat Gretchen Whitmer in 2019.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Up38R7dsQKg/rick-snyder-michigan-proud-republican-vote-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a257808-e5f9-45ef-ad5e-450f5bcf961e/cae4a195-e800-4d6e-821c-691ed6d2aebc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-snyder-michigan-proud-republican-vote-biden.amp",
-      "publishedDateTime": "2020-10-29T14:54:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

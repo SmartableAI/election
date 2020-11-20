@@ -29,111 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Trump 'army' of poll watchers led by veteran of fraud claims"
-    excerpt: "President Donald Trump’s campaign is poised to deploy an “army” of volunteers and paid staff on Tuesday to watch elections precincts in Democratic-leaning areas"
-    publishedDateTime: 2020-11-03T04:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-army-poll-watchers-led-veteran-fraud-claims-73982297"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9e15415416f1452f9a81d63779b0dc5f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's attacks on mail-in ballots rankle some military vets"
-    excerpt: "Now, with his presidency on the line, he’s casting suspicion on a tool of participatory democracy — the mail-in ballot — that has allowed U.S. military personnel to vote while serving far from home since the War of 1812."
-    publishedDateTime: 2020-11-07T09:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-attacks-mail-ballots-rankle-military-vets-74067203"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bbc26de5e50f468792853a8bf596bd40_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T14:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
+  - title: "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'"
+    excerpt: "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots."
+    publishedDateTime: 2020-11-04T08:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K0YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5"
         width: 817
         height: 545
         isCached: true
-  - title: "How and when will Trump leave office?"
-    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
-    publishedDateTime: 2020-11-09T16:19:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+  - title: "PA Governor calls Trump move 'simply disgraceful'"
+    excerpt: "Pennsylvania Gov. Tom Wolf says a lawsuit filed by the President Trump's campaign to stop the counting of ballots in the state is \"simply wrong.\" (Nov. 4)"
+    publishedDateTime: 2020-11-05T00:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/05/pa-governor-calls-trump-move-simply-disgraceful/6168743002/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/84fa3d77-74ca-42d2-94e5-34c372963c12_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Michigan still counting votes, angry poll watchers barred in Detroit, Trump sues"
-    excerpt: "Michigan, a battleground state that will help determine who wins the U.S. presidential election, is still counting \"tens of thousands\" of ballots according to a top state official and emotions were running high in Detroit,"
-    publishedDateTime: 2020-11-05T05:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-michigan-idAFKBN27K2UO"
+  - title: "Kamala Harris tells Pennsylvania she's not going to talk about 'the other guy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris told supporters in Pennsylvania on Monday that she doesn’t want to talk about “the other guy” — President Trump — on the eve of Election Day."
+    publishedDateTime: 2020-11-02T17:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/2/kamala-harris-tells-pennsylvania-shes-not-going-ta/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540050875&r=LYNXMPEGA31SF&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Dump Donald Trump: American voters' imperative"
-    excerpt: "Monday, we concluded a daily series begun 14 weeks ago. In 26,306 words spread out over 99 days, we detailed the case for why Donald Trump — his character, his corruption, his policies, his appointees,"
-    publishedDateTime: 2020-11-03T09:10:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-edit-election-day-dump-trump-20201103-4p7gk3rql5bfpnelqdsx2p33f4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/Enk164ZLvg71BWottnQ-c_T5_zs=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/MW6QQHIPYFCZ7NLZ3VV6LOCR4I.jpg"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/01/Election_2020_Harris_92292.jpg-db0cf_c0-367-2978-2104_s1200x700.jpg?506e630bb31220cec079d3cb67e7d8cd1005e4b9"
         width: 1200
-        height: 832
+        height: 700
         isCached: true
-  - title: "YouTube Channels Making Money From Ads, Memberships Amplify Trump Voting Fraud Claims"
-    excerpt: "At least nine popular YouTube channels were promoting on Thursday debunked accusations about voting fraud in the U.S. presidential race, conspiratorial content that could jeopardize advertising and memberships revenue they get from the video service."
-    publishedDateTime: 2020-11-06T03:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-11-05/youtube-channels-making-money-from-ads-memberships-amplify-trump-voting-fraud-claims?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
 
 secured: "AFNb1B19GJ5D8+NcZMAVOh4Po0ixhBI0dYlof+xgAVqJ0kezTDMDzQKhQmc4nmdjhFrZIVV2lCB/Mo0gCtt4ZmtXr7oyiBsMU8RGyldFxDtEpixTfMwyB9v9Bajj/gfXpUu5GGN7tFKAzgFkfL7R/LUNulynmuOpPzWSNlNCkXq2HaQla9wLS+6OADf0vAnCZAp+6Ylcmd6SbHncZrX8um7GVW0W+O2kJlGwiO79ZdjVQnTlU4rI504zl2OF6+OnAFcFPcPFTzvYW9jrNxbbY2QBamxpBJlXJMqd4RM+K+DkQdevDv8FU9nnigIWi2nb7xys6tMXL4+QM6Hi12iMnvVhZe5giXNptChNh8aXzxm1EKlObolTCB+cRIAZKTnx/l+mA3J7tnsS8sAa7K1KNuJ8NHk322qEVekO1Fr5yJ8ulPz5wR/4CF4Nh/mFYS9Xb3wyvTCgaYURYiQAmTq5bnYOKXalGAVCyALYJHPjEkYaKJrVnIfe9gkW6qGa4rk5l03FxVn0g6h6aM48/rxaJA==;1yOOW26lLEsXxKMdTsyG2w=="
 ---

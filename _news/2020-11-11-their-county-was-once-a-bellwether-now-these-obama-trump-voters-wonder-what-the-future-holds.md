@@ -31,236 +31,220 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
-    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
-    publishedDateTime: 2020-11-07T18:52:00Z
-    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 130
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
-    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
-    publishedDateTime: 2020-11-08T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
+  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
+    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "Trump bans U.S. investments in firms linked to Chinese military"
-    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-    publishedDateTime: 2020-11-13T12:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
         width: 817
         height: 545
         isCached: true
-  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
-    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
-    publishedDateTime: 2020-11-15T07:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
+  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
+    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
-        width: 818
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
+        width: 840
         height: 545
         isCached: true
-  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
-    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
-    publishedDateTime: 2020-11-07T04:08:00Z
-    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
+    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
+    publishedDateTime: 2020-11-20T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 121
     images:
-      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump to break silence with vaccine update after criticism he's ignored pandemic"
-    excerpt: "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic."
-    publishedDateTime: 2020-11-13T22:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+  - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
+    excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
+    publishedDateTime: 2020-11-12T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 995
         isCached: true
-  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
-    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
-    publishedDateTime: 2020-11-05T08:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
+    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
+    publishedDateTime: 2020-11-18T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
-        width: 975
-        height: 487
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump demolished the walls between politics and sports. He might not like the result."
-    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
-    publishedDateTime: 2020-11-02T20:35:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 961
         isCached: true
-  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
-    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
-    publishedDateTime: 2020-11-09T16:35:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Fact check: False QAnon claim that Trump secretly watermarked mail-in ballots to prove fraud"
-    excerpt: "QAnon followers are pushing the claim that Donald Trump secretly watermarked mail-in ballots to prove fraud. This is false."
-    publishedDateTime: 2020-11-10T20:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/10/fact-check-false-qanon-claim-trump-watermarked-mail-ballots/6226310002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6226310002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6226310002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/14/NBCC/6527c003-5538-4715-b4c1-222af376afb1-96513297_3865768806798939_5226046090431692800_o.jpg?auto=webp&crop=1339,753,x0,y483&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
-    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
-    publishedDateTime: 2020-11-13T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
-    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
-    publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Outgoing Trump administration bans investments in Chinese companies it says support China’s military"
-    excerpt: "The White House continued to push an economic decoupling with China by banning certain U.S. investments in companies linked to Chinese military"
-    publishedDateTime: 2020-11-13T04:56:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWJA7BU6OII6VPQGV5KRJ3QDQU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
-    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
-    publishedDateTime: 2020-11-08T16:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
-    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
-    publishedDateTime: 2020-11-12T20:08:00Z
-    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 90
+    quality: 105
+  - title: "NY probes Trump consulting payments that reduced his taxes"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
+    publishedDateTime: 2020-11-20T03:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
+        isCached: true
+  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
+    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
+    publishedDateTime: 2020-11-18T16:10:00Z
+    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
-    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
-    publishedDateTime: 2020-11-10T20:49:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
-        width: 924
-        height: 462
-        isCached: true
 
 secured: "hBtPZUTM8nxjoAoul652cqDkRKwKzt0R/WrChn3GM0Qm82v4PcB7RE4MXPXotwuqmsOR6CkwrMWFQYe93rIaNWKu+pJhUBw98BPekrywcvX4iKv/2uwpXp71ohZXziOzqfDF6EbZivzbMdbOgPUaUqAe3grtY9sZfGLnOZSXVh1yjt5lxkFBxTvi5reR7dd8Hix43NnRe939/0Ifh/NFYthgDuHEeGygi5c7ErM+84NO3cuksTbDieawasCJwoshv1KWFmueT9l8cWpCfrIDWUgo/mKrcTm93Iw4Bg+euZFUax2O18U/ldKLaUD06iH3abZ/nz+bpOepbD2GfvOme0Xcg2gMoCk0B7WbgX/all08GItMbnP6ocSw+0C+Vukl2AhoA2wHSLch3m3gKWPuq1WBRIwWtRBOWWM7y+4z4uhRb6SPqv/JK4ljxjYGDMLP6BA/vfo9oPxAI21qd2CG9cE23u3Z2S1tzxNcJE23DNNTGPLJuC7vEEzIVEQnoOPyad61at6W/Bhov5tHJa1Zcw==;reuMH1MYRazC3YjHYewC5g=="
 ---

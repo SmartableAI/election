@@ -2,6 +2,555 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
+      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
+      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
+      "publishedDateTime": "2020-10-21T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.md",
+      "title": "Trump envoy Richard Grenell met with Venezuelan politician in bid to oust Maduro: report",
+      "excerpt": "Richard Grenell, the Trump administration's special envoy for Serbia and Kosovo Peace Negotiations, reportedly tried in September to negotiate with a Venezuelan politician close to the country's strongman president, Nicolas Maduro, in order to obtain the controversial leader's peaceful exit from office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f33cf-f562-420c-8473-8ca7a7d0522b/2b3b7cc9-f7cf-4984-bda2-bb84843fd1e4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
+      "publishedDateTime": "2020-10-21T17:27:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-grants-clemency-to-alice-marie-johnson-associate-4-other-nonviolent-criminals.md",
+      "title": "Trump grants clemency to Alice Marie Johnson associate, 4 other nonviolent criminals",
+      "excerpt": "President Trump granted clemency on Wednesday to five prisoners-- including one who was an associate of Alice Marie Johnson-- who were each serving time in prison for non-violent offenses. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J6z_-zdnn78/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ef2b296-8a08-4701-b0a4-a158c458d0f1/8bc4c25e-c990-4d71-8e66-cf2615c72ff4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp",
+      "publishedDateTime": "2020-10-21T17:17:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-an-angry-trump-enters-final-debate-as-advisers-hope-for-some-chill.md",
+      "title": "An 'angry' Trump enters final debate as advisers hope for some chill",
+      "excerpt": "After his abrasive debate performance in September, President Donald Trump walked off stage believing he had won. It was only in the ensuing hours, as he watched clips of his constant interruptions and irate demeanor play on television, that he recognized how poorly his conduct came across.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KP2UhXlOuEk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201021160110-01-donald-trump-0929-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html",
+      "publishedDateTime": "2020-10-21T17:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-rudy-giuliani-gives-alleged-hunter-biden-hard-drive-to-delaware-authorities.md",
+      "title": "Rudy Giuliani gives alleged Hunter Biden hard drive to Delaware authorities",
+      "excerpt": "Giuliani visited the New Castle County Police Department in Delaware on Monday and handed over a copy of what he says was Hunter Biden’s hard drive, according to a spokesperson for the Delaware Department of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
+      "originalUrl": "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_43/3421944/201021-rudy-giuliani-2018-ac-525p_4116787e0e156c4353b10ae9bf4c8e17.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244223",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244223",
+      "publishedDateTime": "2020-10-21T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-campaign-nevada-gop-threaten-to-sue-clark-county-over-attempts-to-obstruct-election-observation.md",
+      "title": "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation",
+      "excerpt": "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e7c038-31e9-41ca-b866-bc48a70fc439/b27add3f-3eae-4088-beb9-957a3678512b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp",
+      "publishedDateTime": "2020-10-21T16:17:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-biden-drops-la-mayor-eric-garcetti-from-event-after-two-more-men-accuse-close-adviser-of-sexual-misconduct.md",
+      "title": "Biden drops LA Mayor Eric Garcetti from event after two more men accuse close adviser of sexual misconduct",
+      "excerpt": "Los Angeles Mayor Eric Garcetti’s chances for a cabinet post in a Biden administration are increasingly in doubt now that two more men have accused Garcetti’s close adviser of sexual misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBcwpUzC6qs/garcetti-problem-biden-two-men-adviser-sexual-misconduct",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rick-Jacobs-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garcetti-problem-biden-two-men-adviser-sexual-misconduct.amp",
+      "publishedDateTime": "2020-10-21T15:05:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tyler-perry-jennifer-lopez-more-stars-endorse-joe-biden-for-president.md",
+      "title": "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President",
+      "excerpt": "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3.",
+      "sourceUrl": null,
+      "webUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "originalUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "cdnAmpWebUrl": "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/",
+      "publishedDateTime": "2020-10-21T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hollywood Life",
+        "domain": "hollywoodlife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-cnn-polls-biden-leads-in-pennsylvania-and-tight-race-remains-in-florida.md",
+      "title": "CNN Polls: Biden leads in Pennsylvania and tight race remains in Florida",
+      "excerpt": "Former Vice President Joe Biden holds a lead in Pennsylvania and neither he nor President Donald Trump leads in the critical state of Florida, according to new CNN polls conducted by SSRS.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JQxhnU3tUss/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
+      "publishedDateTime": "2020-10-21T14:08:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-mitt-romney-says-he-did-not-vote-for-trump-in-the-2020-election.md",
+      "title": "Mitt Romney says he did not vote for Trump in the 2020 election",
+      "excerpt": "Sen. Mitt Romney said Wednesday he did not vote for President Donald Trump's reelection, the latest break between the GOP's 2012 presidential nominee and the leader of his party.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1530,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200417144014-mitt-romney-0124-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
+      "publishedDateTime": "2020-10-21T13:48:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-takes-aim-at-familiar-target-obama.md",
       "title": "Trump takes aim at familiar target: Obama",
       "excerpt": "Hours before former President Barack Obama headlined his first in-person rally for Democratic presidential nominee Joe Biden, President Trump’s re-election campaign took aim at both Obama and Biden.",
@@ -55,62 +604,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-administration-continues-to-send-mixed-messages-about-future-of-us-troops-in-afghanistan.md",
-      "title": "Trump administration continues to send mixed messages about future of US troops in Afghanistan",
-      "excerpt": "The Trump administration continued to send contradictory messages about the future of US troops in Afghanistan on Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n8CGetyeKJI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190908155230-afghanistan-us-soldiers-file-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/us-troops-afghanistan-obrien-hutchison/index.html",
-      "publishedDateTime": "2020-10-21T13:03:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -169,7 +662,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 417,
+      "heat": 377,
       "tags": null,
       "images": [
         {
@@ -841,470 +1334,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-lindsey-graham-says-joe-biden-is-in-his-basement-because-he-cant-carry-a-message.md",
-      "title": "Lindsey Graham Says Joe Biden Is 'In His Basement' Because He 'Can't Carry a Message'",
-      "excerpt": "\"President Trump is ... going all over the country with a lot of energy. He has really accomplished a lot in his first time,\" said the Republican senator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
-      "originalUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656094/joe-biden-campaign.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
-      "publishedDateTime": "2020-10-21T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-report-trump-paid-nearly-200000-in-taxes-to-china.md",
-      "title": "Report: Trump Paid Nearly $200,000 In Taxes To China",
-      "excerpt": "A report from the New York Times reveals a decade of Donald Trump’s unsuccessful business activities in China, including an undisclosed bank account that paid nearly $200,000 in taxes, undermining his own exaggerated claims of Hunter Biden’s business dealings there,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/",
-      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9011cc4e3fc4181ce3e597%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1994",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/",
-      "publishedDateTime": "2020-10-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-fbi-says-it-has-nothing-to-add-to-ratcliffes-remarks-about-hunter-biden-russian-disinformation.md",
-      "title": "FBI says it has ‘nothing to add’ to Ratcliffe’s remarks about Hunter Biden, Russian disinformation",
-      "excerpt": "In a carefully worded letter to Congress two weeks before Election Day, the bureau tries to avoid its 2016 errors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/fbi-hunter-biden-laptop-russia/2020/10/20/3478408a-133d-11eb-bc10-40b25382f1be_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/fbi-hunter-biden-laptop-russia/2020/10/20/3478408a-133d-11eb-bc10-40b25382f1be_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IHE5MIATH4I6XPAQICZFHAXRXY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/fbi-hunter-biden-laptop-russia/2020/10/20/3478408a-133d-11eb-bc10-40b25382f1be_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/fbi-hunter-biden-laptop-russia/2020/10/20/3478408a-133d-11eb-bc10-40b25382f1be_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-21T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-replay-trump-make-america-great-again-rally-in-erie-pa.md",
-      "title": "Replay: Trump \"Make America Great Again\" Rally In Erie, PA",
-      "excerpt": "President Trump holds a Make America Great Again rally Monday night at the Erie International Airport in Erie, PA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/20/watch_live_trump_holds_a_make_america_great_again_rally_in_erie_pa.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521717.jpg",
-          "width": 1136,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-departs-arizona-after-day-of-rallies-in-tucson-prescott.md",
-      "title": "Trump departs Arizona after day of rallies in Tucson, Prescott",
-      "excerpt": "President Donald Trump spent much of his day Monday in Arizona, with stops in Prescott and Tucson. The goal: Pick up as many votes as possible in rural and southern parts of the state in what is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/51c3ff9b-0ec4-4680-8924-4e057ce9a7c7-AP20293837215722.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3686632001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3686632001",
-      "publishedDateTime": "2020-10-20T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-joe-biden-cameron-peak-calwood-fires-are-deadly-signs-of-climate-change.md",
-      "title": "Joe Biden: Cameron Peak, CalWood fires are 'deadly signs' of climate change",
-      "excerpt": "Joe Biden's statement on Northern Colorado's Cameron Peak fire was the first time a major party presidential candidate has name-checked the fire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/NLED/ac97ee10-b8a3-4a7c-b59f-791edcb6daa7-AP20292646434924.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3711004001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711004001",
-      "publishedDateTime": "2020-10-20T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-retired-navy-seal-william-mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-as-crazy-as-denying-the-moon-landing.md",
-      "title": "Retired Navy SEAL William McRaven says bin Laden conspiracy theory Trump boosted is as 'crazy' as denying the moon landing",
-      "excerpt": "\"By promoting this crazy conspiracy theory, you really disrespected those guys that went on the mission,\" McRaven said to CNN on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "originalUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8f7cd1dace450018a3e57d?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcraven-says-bin-laden-conspiracy-theory-trump-boosted-is-crazy-2020-10?amp",
-      "publishedDateTime": "2020-10-20T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-tiffany-trump-says-her-father-has-always-supported-lgbtq-people.md",
-      "title": "Tiffany Trump says her father 'has always supported' LGBTQ people",
-      "excerpt": "\"Prior to politics, he supported gays, lesbians, the LGBQIA+ community,\" she said of the president at a Trump Pride event in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/tiffany-trump-says-her-father-has-always-supported-lgbtq-people-n1244078",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/tiffany-trump-says-her-father-has-always-supported-lgbtq-people-n1244078",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/tiff-trump-pride.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244078",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244078",
-      "publishedDateTime": "2020-10-20T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-new-york-times-tax-records-show-trump-maintains-chinese-bank-account.md",
-      "title": "New York Times: Tax records show Trump maintains Chinese bank account ",
-      "excerpt": "President Donald Trump's tax records show he has pursued expansive business projects in China for years and even maintains a Chinese bank account, The New York Times reported Tuesday, disclosures that deal a blow to the President's efforts to paint Democratic nominee Joe Biden as the presidential candidate",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJz7Px1UJvY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJz7Px1UJvY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201020081317-donald-trump-air-force-one-1019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html",
-      "publishedDateTime": "2020-10-20T18:41:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

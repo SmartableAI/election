@@ -31,67 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "The Note: Trump, GOP test limits as legal walls close in"
-    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump tweets words 'he won'; says vote rigged, not conceding"
-    excerpt: "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election"
-    publishedDateTime: 2020-11-19T13:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+  - title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
+    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
+    publishedDateTime: 2020-11-19T19:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
-    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
-    publishedDateTime: 2020-11-18T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
-    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
-    publishedDateTime: 2020-11-19T12:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
+    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
+    publishedDateTime: 2020-11-13T10:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 93
+    quality: 86
     images:
-      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

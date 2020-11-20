@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Former China finance minister says trade frictions with U.S. could remain under Biden"
-    excerpt: "Trade frictions between the United States and China may not ease in the near term even if Joe Biden becomes president of the United States, former Chinese finance minister Lou Jiwei said on Friday."
-    publishedDateTime: 2020-11-13T05:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trade-china-caixin/former-china-finance-minister-says-trade-frictions-with-u-s-could-remain-under-biden-idUSKBN27T0AC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0G2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0G2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541074972&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC055"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president"
     excerpt: "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\""
     publishedDateTime: 2020-11-07T17:44:00Z

@@ -4223,6 +4223,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden pledges to pay for National Guard’s Covid work"
+    excerpt: "WASHINGTON — President-elect Joe Biden pledged Thursday to fully fund the National Guard's coronavirus relief work once he's sworn in, and criticized the Trump administration for making most states pick up 25 percent of the cost of having soldiers and airmen run testing sites,"
+    publishedDateTime: 2020-11-19T23:31:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/11/19/biden-pledges-to-pay-for-national-guards-covid-work-1337286"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5b/e0/3367c6e54f07a8970d74d1d787a9/ap20324701712300.jpg"
+        width: 5021
+        height: 3345
+        isCached: true
   - title: "Trump Had Sound Bites. Biden Had Substance and Heart."
     excerpt: "The Donald Trump of the last few days, whining about everyone from Leslie Stahl to moderator Kristen Welker to probably the White House procurer of iceberg lettuce, looked like someone who was capable of showing up this night and storming off the stage after half an hour."
     publishedDateTime: 2020-10-25T04:00:00Z

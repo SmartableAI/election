@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/cuomo-trump-vaccine-new-york-bully-cnntv/index.html"
 type: article
 quality: 162
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "John Kelly blasts Trump for not helping with the transition: 'The downside to not doing so could be catastrophic'"
+    excerpt: "Former White House chief of staff John Kelly issued an on-the-record statement Friday night lambasting President Donald Trump for not helping with the transition to a new Biden administration.\n    \n"
+    publishedDateTime: 2020-11-14T00:35:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WHoj4Lx5pA4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/13/politics/john-kelly-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/john-kelly-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "z+gP0mIzZ0pyXe+sRlEaIeMPMcd/fNb8SrhwWL192+xRtMd7Pu8v/z2vK0iWf+XbDuswLy7GNHDMPtmDC3oaS5LasoIdEdYUnZBNcA8lFITCVhlNo1yKLZ8RuZ+dPvP5ysB7jEt+6GsRnRLmXl40woxPjIFWxxjagt4Oztwu8QTaJZ8XLrh9c4k+YlhxSZXbxWOTFZHa2oanRZVEcZCGgEIB9kaHuGMV3qgvtCIPgXWuuCdXMuOrT14sHJVaULu4A0XnXbh2abrzyvjSt8m/Kakm/IR9+wTfn6PDtmT6rHHKatr5B26tQPSCcBB+xSzuXAu9Qn1Lse0zvQpcZ5YtB02j7HSDOv2vkZ80OnyPs2s=;pnju1gxP69QxTkq1+Cxr7Q=="
 ---

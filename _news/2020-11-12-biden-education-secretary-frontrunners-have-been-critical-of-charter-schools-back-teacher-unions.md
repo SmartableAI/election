@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden warns of another 200K dead from COVID by inauguration"
-    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
-    publishedDateTime: 2020-11-18T22:33:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+  - title: "New 'squad' member suggests Biden needs to pay minority communities back after election support"
+    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him."
+    publishedDateTime: 2020-11-20T02:22:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities"
+    ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
+    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
+    publishedDateTime: 2020-11-20T02:21:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike"
-    excerpt: "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter."
-    publishedDateTime: 2020-11-19T16:17:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,53 +79,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
-    excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
-    publishedDateTime: 2020-11-13T17:35:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0dd7uOHLI8/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
+  - title: "AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal"
+    excerpt: "The progressive lawmakers belonging to the “Squad” took to the steps of the DNC Thursday to demand President-elect Joe Biden in his administration implement the Green New Deal, transforming the U.S. economy to combat climate change and creating thousands of jobs in renewable energy."
+    publishedDateTime: 2020-11-19T22:39:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xKbGF-xlqFM/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
-    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
-    publishedDateTime: 2020-11-17T17:44:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
-    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's new chief of staff praised de Blasio for holding large dinner to put COVID fears to rest"
-    excerpt: "President-elect Joe Biden's pick for chief of staff Ron Klain previously decried a \"fear epidemic\" at the beginning of the COVID-19 outbreak, and praised New York City Mayor Bill de Blasio for participating in a large dinner in Queens."
-    publishedDateTime: 2020-11-13T00:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R5VwOql-8g/klain-covid-tweet-fear-epidemic-nyc"
-    ampWebUrl: "https://www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54c7ce-bf86-4534-ad75-337c9f985a82/8d32a57a-c1f1-4927-be8a-33f4a292438b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "i5Vs8gVt3XsF5QiUbbC1Be4VsSWXATW/xaQHEkar5jbmrXMyMk5YwTsVE+8+u8VDsbvMoCtwsp2xy+5zD13Sbhxu8yd1W/B0VM6+w9fbs2icV2r1QeLUCzahnlx/G114Rcy1yVpVj60ZvKtoZDjLyQh8YjXdtyGtiukFleSNZiCXypqcREhuwp4LHGlFskvgO6LnBHkFUWV/DvC8CAWOzO8H2Oc3Hn0e/KX37xMXdZQW3fZpIgSsRTPmBXLoed6k9k4fbq9G64nZ3MpY44TG5QDnt0E+P/xx5Qo/g+nPCxcp65DyQwngw33k+HqYjQj9ZbKwS5EG98sEOZwb2jy0rhWHvF8kBIzrQcTtulkQg5k=;CuaFmVpebUQXdVdxpw6wPg=="

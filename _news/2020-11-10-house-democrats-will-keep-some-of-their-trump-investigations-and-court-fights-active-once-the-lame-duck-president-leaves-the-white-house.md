@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump lost the presidency. Residents and realtors of Trump Tower think it may become valuable again."
-    excerpt: "\"I'm hoping that if he doesn't come back there, and we take his name off the building, we could have a wonderful spot to live again,\" said one owner."
-    publishedDateTime: 2020-11-12T19:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-presidency-future-of-trump-tower-may-be-bright-2020-11?amp"
+  - title: "Trump staffers tweeted an image of a 'President Gore' front page from 2000 to prove the media gets election calls wrong. But the image was fake."
+    excerpt: "Trump spokesman Tim Murtaugh said the image showed \"the media doesn't select the president.\" The paper said the image was \"doctored.\""
+    publishedDateTime: 2020-11-09T14:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-election-2020-staff-tweet-fake-presidental-al-gore-headline-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 103
     images:
-      - url: "https://i.insider.com/5fac0ab3b09abb0018625f46?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa9278e1df1d5001821980e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

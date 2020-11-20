@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-vote
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-votecast-trump-voters-skeptical-vote-count-74022500"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump books will continue after Trump leaves office"
+    excerpt: "One of publishing's most thriving genres of the past four years, books about President Donald Trump, is not going to end when he leaves office."
+    publishedDateTime: 2020-11-09T22:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-books-will-continue-after-trump-leaves-office-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "The latest: Absentee voters urged to check ballots before it's too late; 'Trump trains' respect voter boundaries, officials say"
     excerpt: "Republicans and Democrats alike gathered at polling places to vote in hard-fought local, state and federal races — including for the presidency."
     publishedDateTime: 2020-11-04T02:58:00Z

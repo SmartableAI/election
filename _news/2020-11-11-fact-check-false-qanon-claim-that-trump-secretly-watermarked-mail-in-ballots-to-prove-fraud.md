@@ -31,238 +31,185 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese state media laughed at Trump after he falsely claimed victory in the 2020 election"
-    excerpt: "Trump has so far not accepted the results of the election, falsely claiming that he won the race just before major networks called it for Biden Saturday."
-    publishedDateTime: 2020-11-07T18:52:00Z
-    webUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-state-media-laughs-after-trump-falsely-claimed-victory-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 130
-    images:
-      - url: "https://i.insider.com/5fa6e7bdf7d1cb0019e3a63d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump campaign files lawsuit over rejected vote claims in Arizona"
-    excerpt: "Republican President Donald Trump's campaign said Saturday it had filed suit in Arizona, alleging the Southwestern state's most populous county incorrectly rejected votes cast by some voters in the U."
-    publishedDateTime: 2020-11-08T04:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-lawsuit-arizona-idUSKBN27N10U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27N10U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27N10U"
+  - title: "Fact check: Viral video does not show Trump ballots being burned"
+    excerpt: "A video that purports to show a bag of ballots for U.S. President Donald Trump being burned is fake, officials have confirmed."
+    publishedDateTime: 2020-11-05T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-ballots-video-idUSKBN27L241"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27L241"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27L241"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201108&t=2&i=1540401955&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA703A"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "Trump bans U.S. investments in firms linked to Chinese military"
-    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-    publishedDateTime: 2020-11-13T12:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
-    excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
-    publishedDateTime: 2020-11-15T07:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-election/biden-victory-in-arizona-puts-trumps-longshot-challenge-further-out-of-reach-idUSKBN27T0IQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T0IQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T0IQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541244394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE04H"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201105&t=2&i=1540132140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA418P"
         width: 818
         height: 545
         isCached: true
-  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
-    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
-    publishedDateTime: 2020-11-07T04:08:00Z
-    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+  - title: "Fact check: Video shows mail waste, not shredded Trump ballots"
+    excerpt: "Social media users have claimed a video shows shredded mail-in ballots for U.S. President Donald Trump that were found in the back of a trailer. This is not true."
+    publishedDateTime: 2020-11-06T20:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-shredded-leaflets/fact-check-video-shows-mail-waste-not-shredded-trump-ballots-idUSKBN27M25L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M25L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M25L"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540275459&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA51AC"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Trump to break silence with vaccine update after criticism he's ignored pandemic"
-    excerpt: "President Donald Trump was scheduled to speak about the federal government's coronavirus vaccine program after criticism he has been ignoring the pandemic."
-    publishedDateTime: 2020-11-13T22:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-vaccine-update-criticism-pandemic-defeat/story?id=74190881"
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T14:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idUSKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P199"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/trump-arlington-cemetery-03-ap-jc-201111_1605113975110_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540530760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OO"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump is trying to claim the presidency by saying 'we hereby claim' key states but that is not how elections work"
-    excerpt: "\"We have claimed, for Electoral Vote purposes, the Commonwealth of Pennsylvania,\" the president tweeted on Wednesday."
-    publishedDateTime: 2020-11-05T08:13:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
+  - title: "Breakingviews - The Donald Trump show will continue broadcasting"
+    excerpt: "Donald Trump may have lost the White House, but the ex-president will almost certainly take the show on the road. An army of Twitter followers and favorable coverage from right-wing media like Fox News will ensure an audience after he departs 1600 Pennsylvania Avenue."
+    publishedDateTime: 2020-11-09T16:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-breakingviews-idINKBN27P1B8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P1B8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P1B8"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540513287&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80PM"
+        width: 828
+        height: 545
+        isCached: true
+  - title: "How and when will Trump leave office?"
+    excerpt: "The United States has a long history of peaceful transfers of power that is likely to continue despite President Donald Trump's attacks on the legitimacy of the election result, national security experts said."
+    publishedDateTime: 2020-11-09T16:19:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-eviction-explainer-idINKBN27P199"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27P199"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27P199"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540519544&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80OU"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump campaign says 'illegally cast' ballots should not counted, it expects to win"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:25:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-ballots-int-idUSKBN27K25M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K25M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K25M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 119
     images:
-      - url: "https://i.insider.com/5fa32879f7d1cb0019e39e0f?width=1200&format=jpeg"
-        width: 975
-        height: 487
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539995932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA319V"
+        width: 870
+        height: 545
         isCached: true
-  - title: "Trump demolished the walls between politics and sports. He might not like the result."
-    excerpt: "Follow the latest on Election 2020 This rare unification of sport and state doesn’t reflect, as President Trump claims, the athletes’ desire to overplay their hand and turn political. It is a necessary reaction to the troubling times: to the unabashed hatred,"
-    publishedDateTime: 2020-11-02T20:35:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2020/11/02/trump-sports-athlete-activism/?outputType=amp"
+  - title: "Fact check: Video shows police collecting discarded Amazon packages, not thousands of Trump ballots"
+    excerpt: "Social media users have claimed a video shows police finding thousands of ballots for U.S. President Donald Trump dumped in a field. This is not true; local police report that the footage actually shows discarded Amazon packages."
+    publishedDateTime: 2020-11-10T21:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-packages-idUSKBN27Q2JC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Q2JC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Q2JC"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26HHSUP2BVBX7NYHVJ3NJYAUFY.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "The long love affair between Fox News and Trump may be over. Here’s how it ended last week."
-    excerpt: "For months, the president fretted over a sense that the network’s loyalty was softening. After Fox called Arizona for Biden, the battle was on."
-    publishedDateTime: 2020-11-09T16:35:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/the-long-love-affair-between-fox-news-and-trump-may-be-over-heres-how-it-ended-last-week/2020/11/09/f4dddb5e-2095-11eb-90dd-abd0f7086a91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZM2GYLRCUYI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
-    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
-    publishedDateTime: 2020-11-13T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201110&t=2&i=1540721626&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA91F3"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'"
-    excerpt: "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted."
-    publishedDateTime: 2020-11-03T14:30:00Z
-    webUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp"
+  - title: "Fact check: Residents of Queens Village, New York have not received pre-filled-out ballots for Joe Biden"
+    excerpt: "Social media users have been sharing posts claiming that residents of Queens Village, New York received ballots pre-filled for Joe Biden. New York election officials explained the mix-up: after they contacted the relevant voter,"
+    publishedDateTime: 2020-11-03T20:31:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-filled-ballots-queens-new-y-idUSKBN27J2KY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27J2KY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J2KY"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: Reuters
+      domain: reuters.com
+    quality: 108
     images:
-      - url: "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539853611&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA21M2"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Outgoing Trump administration bans investments in Chinese companies it says support China’s military"
-    excerpt: "The White House continued to push an economic decoupling with China by banning certain U.S. investments in companies linked to Chinese military"
-    publishedDateTime: 2020-11-13T04:56:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/12/trump-bans-investment-china/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BWJA7BU6OII6VPQGV5KRJ3QDQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Analysis: At pivotal moments of 2020, Trump failed to win over doubters"
-    excerpt: "Donald Trump had reason to count on the loyalty of the large chunk of Americans who drove his improbable election victory in 2016. But in 2020, he needed a wider swath of voters to believe in his promise to \"Make America Great Again."
-    publishedDateTime: 2020-11-08T16:31:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-loss-analysis-idUKKBN27O0G8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27O0G8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27O0G8"
+  - title: "Trump campaign says 'illegally cast' ballots should not be counted"
+    excerpt: "U.S. President Donald Trump's campaign on Wednesday said it would forge ahead with legal efforts to ensure legally cast -- and not illegally cast - votes were counted, and said it expected to win even as ballots in key states continued to be tallied."
+    publishedDateTime: 2020-11-04T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-ballots/trump-campaign-says-illegally-cast-ballots-should-not-be-counted-idUSKBN27K26E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27K26E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K26E"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
-    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
-    publishedDateTime: 2020-11-12T20:08:00Z
-    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
+  - title: "Trump defied gravity; now falls back to earth, future TBD"
+    excerpt: "Donald Trump, who defied political gravity with his extraordinary rise from reality star and businessman to the presidency, has fallen back to earth."
+    publishedDateTime: 2020-11-08T02:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-defied-gravity-now-falls-back-to-earth-future-tbd-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 90
+    quality: 105
+  - title: "Trump Is Now Trashing Fox News. Here’s What May Be His Ulterior Motive"
+    excerpt: "The president says Fox is disloyal to him, and is actively steering his supporters to other fringe right-wing cable networks."
+    publishedDateTime: 2020-11-12T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/11/12/trump-is-now-trashing-fox-news-heres-what-may-be-his-ulterior-motive/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad7692974d4daa7a9ea73a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2423%26cropY1%3D96%26cropY2%3D1459"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "In latest batch, Trump gets share of votes he would need to reclaim Arizona. But next rounds of ballots present new challenges"
+    excerpt: "Trump won batches of ballots from Maricopa County counted on Wednesday and Thursday morning by a roughly 58-40 margin over  Joe Biden."
+    publishedDateTime: 2020-11-05T14:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/latest-batch-trump-gets-share-votes-he-would-need-reclaim-arizona-next-rounds-present-challenges/6169183002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6169183002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6169183002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/03/USAT/febb7731-ae5d-42a6-bad2-b3ebfc343aca-XXX_GP_Pensacola_Trump_Rally_30.jpg?auto=webp&crop=2999,1687,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "FCWIjPq8FMpvWjW7owo/UhWauHy4oAl1kYZP8gZ5Ow1/3EvqoXXoCZkTPeOOdK2ES/Hsw6OkLQXOE2N2GAnMAWSTLxDIOis+tTjsRTVXTn7XoG+fqNDVi8u5AmKizYdCBeLlA5IwqGxCtP4rkTDmJq1x8XSjr6YFPO1LzjXUU25H9RkHu4+sLH2cdZNQjVVmXC1rhfSW2r+X43PR4KqXIsRKR3B9tcvsFaw/jB2tzggik2DGDMcAFpPpemKQInkZg79wxyBUYHBktt+b34yCU7Ok7iZEFZsylhRNRLRA5FQ+EmkhIlKIPPkRSJHTRrrsOLKFahPhGT0o6blNvNesXIpE5357Cn8qzK0N/1G8FrY=;EjC/Zfs33f5PoZYcnPUaHg=="

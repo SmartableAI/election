@@ -1,34 +1,28 @@
 ---
 category: news
 title: "The Latest: Pelosi, Schumer going to Delaware to see Biden"
-excerpt: "President-elect Joe Biden is set to meet in Delaware with House Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer"
-publishedDateTime: 2020-11-19T21:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/the-latest-pelosi-schumer-going-to-delaware-to-see-biden/2020/11/19/fb5ede82-2aaa-11eb-9c21-3cc501d0981f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/the-latest-pelosi-schumer-going-to-delaware-to-see-biden/2020/11/19/fb5ede82-2aaa-11eb-9c21-3cc501d0981f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-pelosi-schumer-going-to-delaware-to-see-biden/2020/11/19/fb5ede82-2aaa-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-pelosi-schumer-going-to-delaware-to-see-biden/2020/11/19/fb5ede82-2aaa-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+excerpt: "WASHINGTON (AP) — The Latest on (all times local):"
+publishedDateTime: 2020-11-20T01:06:00Z
+originalUrl: "https://www.businessinsider.com/the-latest-pelosi-schumer-going-to-delaware-to-see-biden-2020-11"
+webUrl: "https://www.businessinsider.com/the-latest-pelosi-schumer-going-to-delaware-to-see-biden-2020-11"
+ampWebUrl: "https://www.businessinsider.com/the-latest-pelosi-schumer-going-to-delaware-to-see-biden-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-pelosi-schumer-going-to-delaware-to-see-biden-2020-11?amp"
 type: article
-quality: 125
-heat: 145
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Pelosi says Republicans are \"refusing to accept reality\" of Biden victory"
@@ -48,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Y4ciQ3ZHbGeus2RLFgxiLiKt4kzjBwA8i7th59WxtZFg2gH0E9akmg0ajQP1cWup0Vdmc3+5HFGvWTWzgcFZecd1+NMkm6YLtUx5GE2WV5qr3/5qdtCiBxj8mTU2um5HXtcPEypkdf8lx1KS0nq5eKYUR1relZ2TRy0AUTY0a3zQQr39HpbRHm2nZrONeMu9zvK5BbYPo8rn7ss/AgtjWkM2pR6s9Wb5UhSuuqGYL5kXJJyC1oo+BumEwbMeAD3Uj748dLJnRkXeJ2GApTxtHDjYeJ1bQ0dMmFlJ79NfDPxK1qsJblCbLoN+SQmuR03rrT8M4FAuLgNzC3uJgnVvUf61EwECAQhxa9Z1Q3G8W50=;Uzi9zWE44iqqDRVTAHnomQ=="
+secured: "TIIIBxhaRtK3c7AryObLrbn8v8Iq2i2v//LxW3ilKmXCxSx6lV7O+nEfCsuPY+xzHnfu6EAUGTYtBYsSUlnEG4m2JNfyo1CHzG+OIKGpb0z9qRFS6rTN79unya0SgUJdVlXNNpJicC1cpZwFviS0VGKYOf99/H9KJ5Xr6/Xw6URj6Yp5IaSMbMUyF88phj49qr3oLjEwzsnjUM3f8FvQUD/KYHGSFOPcSdKqqy8zOk4qEFSCEHLIo1teu6zZSddaRrSZWx5MyKiRjSIWTGpMgn4Oui4QjotVsEZOa5PHZmZuDB1YPdScJBbHS4zISV67wZeZsLmONbiFQWOwMLO2zLb4COjrSyp3lcpGCMfHYcI=;x2yJMfsR8Krm3wbUdBBIgw=="
 ---
 

@@ -2,6 +2,544 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-10-24-trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states.md",
+      "title": "Trump Says He’d ‘Consider’ $15 Per Hour Federal Minimum Wage, But Prefers To Leave It To States",
+      "excerpt": "President Donald Trump said during Thursday night’s presidential debate that he would “consider” raising the federal minimum wage to $15 per hour if he’s re-elected—a level that Democrat Joe Biden has committed to—but said he’d also strongly prefer to let states decide for themselves,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f932b4a1478f012ca60ed19%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/23/trump-says-hed-consider-15-per-hour-federal-minimum-wage-but-prefers-to-leave-it-to-states/amp/",
+      "publishedDateTime": "2020-10-23T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-gregg-jarrett-hunter-biden-laptop-scandal-even-if-joe-biden-wins-theres-no-way-out-now.md",
+      "title": "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now",
+      "excerpt": "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "originalUrl": "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-lara-logan-slams-biden-for-playing-russia-card-in-response-to-hunter-biden-email-allegations.md",
+      "title": "Lara Logan slams Biden for playing ‘Russia card’ in response to Hunter Biden email allegations",
+      "excerpt": "2020 Democratic presidential candidate Joe Biden played the \"Russian information warfare\" card to dodge questions pertaining to his son Hunter Biden's foreign dealings, Fox Nation host Lara Logan said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/21iBRaLM3ns/lara-logan-biden-playing-russia-card-hunter-biden-emails",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-logan-biden-playing-russia-card-hunter-biden-emails.amp",
+      "publishedDateTime": "2020-10-23T11:16:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-joy-behar-says-trump-should-be-charged-with-crimes-against-humanity-over-immigration-policy.md",
+      "title": "Joy Behar says Trump should be charged with ‘crimes against humanity’ over immigration policy",
+      "excerpt": "The View” co-host Joy Behar said on Friday that President Trump and members of his administration should be charged with “crimes against humanity” because of its immigration policy and vowed to not “be a part of a country” that separates children from their parents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
+      "originalUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/07/16/694940094001_6059924440001_6059932352001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joy-behar-trump-crimes-against-humanity-immigration-child-separations.amp",
+      "publishedDateTime": "2020-10-23T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-24-vice-president-mike-pence-will-host-rally-in-kinston-on-sunday.md",
+      "title": "Vice President Mike Pence will host rally in Kinston on Sunday",
+      "excerpt": "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/",
+      "originalUrl": "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/",
+      "publishedDateTime": "2020-10-23T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-announces-peace-deal-between-sudan-and-israel-says-more-nations-will-normalize-relations.md",
+      "title": "Trump announces peace deal between Sudan and Israel, says more nations will normalize relations",
+      "excerpt": "President Donald Trump announced Friday that Sudan will start to normalize ties with Israel, making it the third Arab state to do so as part of U.S.-brokered deals in the run-up to Election Day. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trumpdated.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp",
+      "publishedDateTime": "2020-10-23T09:02:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-facebook-pulled-48-trump-election-campaign-ads-which-told-people-your-vote-has-not-been-counted.md",
+      "title": "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'",
+      "excerpt": "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
+      "originalUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg",
+          "width": 780,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp",
+      "publishedDateTime": "2020-10-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-analysis-trumps-least-racist-claim-falls-flat-for-many-yet-his-campaign-still-holds-appeal-for-some-black-men.md",
+      "title": "Analysis: Trump's 'least racist' claim falls flat for many. Yet his campaign still holds appeal for some Black men.",
+      "excerpt": "It's one of those seemingly hard-to-explain things: President Donald Trump holds an allure for some Black men, despite his history of denigrating Black Americans and his refusal to explicitly acknowledge systemic racism.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgEVN-aRUNM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200715164410-01-trump-atlanta-0715-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-least-racist-black-men/index.html",
+      "publishedDateTime": "2020-10-23T06:34:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-watch-vice-president-mike-pence-karen-pence-vote-early-in-indianapolis.md",
+      "title": "Watch: Vice President Mike Pence, Karen Pence vote early in Indianapolis",
+      "excerpt": "Vice President Mike Pence and Karen Pence voted early in the 2020 election in Indianapolis. Pence said it was a \"great honor\" after dropping his ballot in the box.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
+      "originalUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_pence_earlyvoting_201023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94470213870",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94470213870",
+      "publishedDateTime": "2020-10-23T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-colberts-message-to-debate-viewers-who-wanted-even-less-trump-the-ultimate-mute-button-is-in-your-hands.md",
+      "title": "Colbert’s message to debate viewers who wanted even less Trump: ‘The ultimate mute button is in your hands’",
+      "excerpt": "The \"Late Show with Stephen Colbert\" host said the highlight of the night was that he would “never have to watch Donald Trump debate ever again.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-23-2020/t_4513567856534e928d248f5715c1d6bf_name_thumb.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/23/debate-mute-button-trump-biden-colbert/?outputType=amp",
+      "publishedDateTime": "2020-10-23T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-president-trump-weighing-firing-of-fbi-director-christopher-wray-after-election.md",
       "title": "President Trump weighing firing of FBI Director Christopher Wray after election",
       "excerpt": "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions.",
@@ -794,543 +1332,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-fact-check-fabricated-biden-quote-supports-transgender-childrens-right-to-transition.md",
-      "title": "Fact check: Fabricated Biden quote supports transgender children’s right to transition",
-      "excerpt": "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2772PM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM",
-      "publishedDateTime": "2020-10-22T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-rejoices-as-senate-panel-approves-barrett-while-democrats-boycott.md",
-      "title": "Trump rejoices as Senate panel approves Barrett while Democrats boycott",
-      "excerpt": "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6",
-      "originalUrl": "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U",
-          "width": 810,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-nyc-seattle-and-portland-sue-trump-over-anarchist-designation.md",
-      "title": "NYC, Seattle and Portland sue Trump over 'anarchist' designation",
-      "excerpt": "New York and its fellow cities branded anarchist jurisdictions by the Trump administration will file a lawsuit Thursday challenging a move to pull their federal funds. The Justice Department last month slapped the label on New York,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484",
-      "originalUrl": "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/4e/f1/029fed4c408dbb7f628018f16b8b/blas1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-anti-trump-lincoln-project-shared-content-us-later-idd-as-iranian-disinformation.md",
-      "title": "Anti-Trump Lincoln Project shared content US later ID'd as Iranian disinformation",
-      "excerpt": "The anti-Trump Lincoln Project PAC shared content on Twitter that U.S. intelligence officials later labeled as Iranian disinformation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Capture-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
-      "publishedDateTime": "2020-10-22T10:54:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
-      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
-      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
-      "publishedDateTime": "2020-10-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-got-81-of-the-evangelical-vote-in-2016-meet-the-conservatives-who-are-working-to-vote-him-out.md",
-      "title": "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out.",
-      "excerpt": "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
-      "originalUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
-      "publishedDateTime": "2020-10-22T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-if-biden-wins-and-dems-control-congress-scotus-will-be-expanded-graham.md",
-      "title": "If Biden wins and Dems control Congress, SCOTUS will be expanded: Graham",
-      "excerpt": "Joe Biden and the Democratic Party want to expand the Supreme Court to at least 13 seats to make it liberal if Republicans succeed in confirming Amy Coney Barrett, Sen. Lindsey Graham, R-S.C., told \"Fox & Friends\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
-      "publishedDateTime": "2020-10-22T09:58:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nyc-joining-portland-seattle-to-sue-trump-admin-over-defunding-for-anarchist-jurisdictions.md",
-      "title": "NYC joining Portland, Seattle to sue Trump admin over defunding for 'anarchist jurisdictions'",
-      "excerpt": "New York City is joining Seattle and Portland, Ore., to file a complaint against the Trump administration in a Seattle court.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/bill-de-blasio-donald-trump-AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T09:47:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
-      "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
-      "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/wplive/john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons/2020/10/22/521a71f3-dbab-406f-953e-d560b1d2b61a_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-22-2020/t_749b9a4d6d5f496687300cc597144b45_name_Screen_Shot_2020_10_22_at_11_23_58_AM_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-changed-everything-about-her-political-views.md",
-      "title": "Jennifer Lawrence says Trump 'changed everything' about her political views",
-      "excerpt": "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6004508002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002",
-      "publishedDateTime": "2020-10-22T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

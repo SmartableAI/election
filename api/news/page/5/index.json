@@ -2,6 +2,469 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-15-jordan-argues-ironing-out-voting-irregularities-is-important-72m-trump-voters-have-concerns.md",
+      "title": "Jordan argues ironing out voting irregularities is 'important,' 72M Trump voters have concerns",
+      "excerpt": "Even after House Republicans flipped 10 seats in the 2020 election, Rep. Jim Jordan, R-Ohio, told “Sunday Morning Futures” that investigating potential voting irregularities is crucial.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTvEINTeo6k/jim-jordan-voting-irregularities-election-numbers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTvEINTeo6k/jim-jordan-voting-irregularities-election-numbers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319764114823.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-voting-irregularities-election-numbers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-voting-irregularities-election-numbers.amp",
+      "publishedDateTime": "2020-11-15T10:20:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-what-does-mike-pences-future-look-like-after-election-loss.md",
+      "title": "What does Mike Pence's future look like after election loss?",
+      "excerpt": "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html",
+      "originalUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/8/cb/8cb832e9-08cf-5e26-a8f6-f241e995ad1c/5faee2b1955cf.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html",
+      "cdnAmpWebUrl": "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html",
+      "publishedDateTime": "2020-11-15T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South Bend Tribune",
+        "domain": "southbendtribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-biden-promised-a-railroad-revolution-that-could-see-faster-trains-and-a-return-to-amtraks-nostalgic-past-heres-what-americans-might-see.md",
+      "title": "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see",
+      "excerpt": "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
+      "originalUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
+      "publishedDateTime": "2020-11-15T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center.md",
+      "title": "Vice President Mike Pence to view SpaceX Crew-1 launch from Kennedy Space Center",
+      "excerpt": "Vice President Mike Pence will attend Sunday's attempted launch of Crew-1 mission to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
+      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/31/PBRE/7c0c97ef-a437-4472-8c12-59b6e6bb835c-TRUMP_LAUNCH13.jpg?auto=webp&crop=1999,1125,x0,y208&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.floridatoday.com/amp/6300689002",
+      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6300689002",
+      "publishedDateTime": "2020-11-15T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Florida Today",
+        "domain": "floridatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-largely-out-of-sight-in-washington-kamala-harris-preps-for-white-house.md",
+      "title": "Largely Out of Sight in Washington, Kamala Harris Preps for White House",
+      "excerpt": "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
+      "publishedDateTime": "2020-11-14T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-kamala-harris-set-to-first-south-asian-american-vp-sends-out-wishes-for-happy-diwali.md",
+      "title": "Kamala Harris, set to first South Asian American VP, sends out wishes for happy Diwali",
+      "excerpt": "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "publishedDateTime": "2020-11-14T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-darrell-issa-trump-on-par-with-lincoln-reagan-with-value-added-to-the-republican-party.md",
+      "title": "Darrell Issa: Trump on par with Lincoln, Reagan with value added to the Republican Party",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0c5fb7-89f6-497f-bb85-9e7c233cdde5/b552cba5-dad2-42a4-97d2-09d5b9d5b151/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
+      "publishedDateTime": "2020-11-14T14:26:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
+      "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
+      "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/12/PPHX/353c4712-7112-4185-8090-fa36aadc45e8-DW1_4295.JPG?auto=webp&crop=3521,1981,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6296977002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6296977002",
+      "publishedDateTime": "2020-11-14T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-trump-team-mocked-for-apparently-exaggerating-crowd-size-againthis-time-for-million-maga-march.md",
+      "title": "Trump Team Mocked For Apparently Exaggerating Crowd Size (Again)—This Time For ‘Million Maga March’",
+      "excerpt": "The White House seems to have again been caught in a fib when it comes to overstating crowd size, after Press Secretary Kayleigh McEnany claimed Saturday that “More than one MILLION” marchers descended on Washington for the “Million MAGA March” in support of President Donald Trump—a claim that many on social media pointed out seemed to be greatly overstated based on actual pictures of the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
+      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb025d66f575407a5a3b7d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
+      "publishedDateTime": "2020-11-14T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years.md",
       "title": "Mike Pence offers delusional response to MAGA crowd chanting ‘four more years’",
       "excerpt": "Vice President Mike Pence signaled on Friday that President Donald Trump has absolutely no plan to concede despite losing the presidential election. On Friday, Pence delivered a speech at the Conservative think tank known as the Council for National Policy.",
@@ -209,7 +672,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/13/trump-supporters-plan-washington-dc-rallies-experts-warn-extremists/6265591002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -425,7 +888,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -466,58 +929,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-tight-spot-trump-loss-complicates-pences-political-future.md",
-      "title": "Tight spot: Trump loss complicates Pence's political future",
-      "excerpt": "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 580,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_13e76fa13e4046b087129df58d97d00e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tight-spot-trump-loss-complicates-pences-political-future-74196953",
-      "publishedDateTime": "2020-11-13T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -801,7 +1212,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -845,73 +1256,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-why-did-the-polls-undercount-trump-voters.md",
-      "title": "Why did the polls undercount Trump voters?",
-      "excerpt": "However, some state polls did underestimate Trump support. For example, polls in Iowa showed a 1 percent Trump advantage, but he won by about 8 percent. Polls in Pennsylvania showed a 5 percent Biden advantage,",
+      "path": "_news/2020-11-13-abuse-of-the-rule-of-law-1000-ex-judges-legal-experts-slam-trumps-false-claims-of-voter-fraud.md",
+      "title": "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud",
+      "excerpt": "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUQALGBEJUI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/why-did-polls-undercount-trump-voters/?outputType=amp",
-      "publishedDateTime": "2020-11-13T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable.md",
-      "title": "Sheldon Adelson’s Las Vegas Review-Journal Tells Trump To Stop Delaying ‘The Inevitable’",
-      "excerpt": "The billionaire casino tycoon was one of Trump’s biggest donors ahead of the presidential election. Now the newspaper he owns is saying that Trump should concede.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/",
-      "originalUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fadfccc6304390c09f137af%2F0x0.jpg",
+          "url": "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -919,16 +1278,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/",
-      "publishedDateTime": "2020-11-13T03:30:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6276446002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002",
+      "publishedDateTime": "2020-11-13T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -946,387 +1305,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-california-official-sees-state-auto-emissions-deal-as-template-for-biden.md",
-      "title": "California official sees state auto emissions deal as 'template' for Biden",
-      "excerpt": "California Air Resources Board Chair Mary Nichols, who sources say could be the next federal environment chief, said on Thursday her state's agreement with manor automakers for fuel efficiency requirements could serve as a \"good template\" for federal standards through 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-california-emissions-autos-idINKBN27S3AM",
-      "originalUrl": "https://www.reuters.com/article/us-california-emissions-autos-idINKBN27S3AM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541039899&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB21E",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27S3AM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27S3AM",
-      "publishedDateTime": "2020-11-12T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
-      "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
-      "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-12T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-kyle-rittenhouses-mother-slams-biden-over-white-supremacist-ad-hes-not-a-racist-he-is-my-son.md",
-      "title": "Kyle Rittenhouse's mother slams Biden over 'White supremacist' ad: 'He's not a racist, he is my son'",
-      "excerpt": "Joe Biden's presidential campaign \"used my son's image to get votes,\" the mother of a man who shot and killed two demonstrators in Kenosha, Wis. over the summer told \"Tucker Carlson Tonight\" Thursday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qDDSYUfffbM/kyle-rittenhouse-joe-biden-campaign-white-supremacy-campaign-ad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qDDSYUfffbM/kyle-rittenhouse-joe-biden-campaign-white-supremacy-campaign-ad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b419adb-893e-4e60-b25b-3583096791fd/aae3d4ee-f062-477a-8189-9d855e6e5e0d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kyle-rittenhouse-joe-biden-campaign-white-supremacy-campaign-ad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kyle-rittenhouse-joe-biden-campaign-white-supremacy-campaign-ad.amp",
-      "publishedDateTime": "2020-11-12T19:41:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-california-senate-sweepstakes-who-gets-kamala-harris-job.md",
-      "title": "California Senate sweepstakes: Who gets Kamala Harris' job?",
-      "excerpt": "Sen. Kamala Harris' ascendancy to the vice presidency next year has left California with a tantalizing question: Who will replace her in the Senate",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ac30c01c2c9949cf8eef6fa7cc9c84fe_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/california-senate-sweepstakes-kamala-harris-job-74168361",
-      "publishedDateTime": "2020-11-12T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-obama-trumps-fraud-claims-delegitimizing-democracy.md",
-      "title": "Obama: Trump's fraud claims delegitimizing democracy",
-      "excerpt": "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "originalUrl": "https://www.cnn.com/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/11/13/cindy-mccain-obama-trump-biden-2020-election-sot-vpx-tsr.cnn",
-      "publishedDateTime": "2020-11-12T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-lindsey-graham-challenger-jaime-harrison-eyed-to-be-next-dnc-chair.md",
-      "title": "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair",
-      "excerpt": "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/c30b26d4-jaime-harrison-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
-      "publishedDateTime": "2020-11-12T16:35:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
-      "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
-      "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
-      "publishedDateTime": "2020-11-12T15:28:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
