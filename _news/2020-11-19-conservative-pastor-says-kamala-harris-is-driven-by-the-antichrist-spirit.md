@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407?amp=1"
 type: article
 quality: 123
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/d613c32f-c6a5-4582-a1d4-48c2ac73a5a3-Lauzon_pic.jpg?auto=webp&crop=443,250,x0,y102&format=pjpg&width=1200"
         width: 1200
         height: 677
+        isCached: true
+  - title: "Patsy Takemoto Mink blazed the trail for Kamala Harris - not famous white woman Susan B. Anthony"
+    excerpt: "Clad in suffragette white, Kamala Harris used her first speech as the United States’ first female vice president-elect to commemorate women’s political achievements. Her victory comes one century after the 19th Amendment,"
+    publishedDateTime: 2020-11-18T14:06:00Z
+    webUrl: "https://www.chron.com/news/article/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Patsy-Takemoto-Mink-blazed-the-trail-for-Kamala-15736070.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 62
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "iIagchKTC2WXIjGWsoqMg4pZQSuD9P3w9uiwDHFmMHXjhKXVPAUeY/YtpNO8y59LTLZdHRXhjkuIDJd3IFRwvOZcnTpv1T9YMqLSy2B6PbrrBrUU77SdbR8WVLO2ctUJIX8sXVwj+vcoesoBmnrie+FEFqet/FRt/PxEZ6MNc3Wh7Mz5MAF3/g8iS0riBrZl4AjN8Lbq9HmCyi8l/lazh20MWopoJ0ySRs4qvqXnvgvZsHrLSmxr/474mxyBfhAV4rXQyXc7CYmjouF8OCDhGoWrpjn1srHNBp3IxVKwIolvmSZAuRUZFUvCE0WrvBGtiZApb8EGfFnhlcM/AH/NdGj+67YliOZ2TIWgZJMuQEN+kLFLWT7ivkXem6raN/x6C4N622RgCvEIW8eeY49bpdOxG/aDa5y1F1UBG9YquFJbBxknD3VBEUssqZO6n2eGbBKq0e9B1mEioAbUBSWWk4IAk7kup+a+r9/H7CESRFNj0y5rqFv5i5RnHWf9YCBBQPUZ00VOoFiS2K1LaWvUqw==;t6n6SWUd6WL9xCLCZEgOaw=="

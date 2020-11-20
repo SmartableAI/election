@@ -315,6 +315,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Election 2020 live updates: Trump announces drug price rules; Georgia election official certifies Biden victory"
+    excerpt: "President Donald Trump again refused to take questions as he continues to contest the election after Joe Biden was declared president-elect."
+    publishedDateTime: 2020-11-20T22:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/20/election-2020-updates-biden-wins-georgia-dems-demand-gsa-briefing/6353572002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6353572002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353572002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/cfa09885-540d-4cde-82e7-6d3e5ae4f6e3-AP20325735068080.jpg?auto=webp&crop=4727,2659,x1,y493&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
     excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
     publishedDateTime: 2020-10-23T20:15:00Z

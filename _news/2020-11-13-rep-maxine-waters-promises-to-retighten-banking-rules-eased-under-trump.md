@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to Participate in Virtual G-20 Summit This Weekend"
+    excerpt: "President Trump will participate in the virtual G-20 summit, held this weekend in Riyadh, Saudi Arabia, according to a senior administration official."
+    publishedDateTime: 2020-11-20T22:02:00Z
+    webUrl: "https://www.wsj.com/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263184/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "THCVUFy5mki7vqxBHQA1rluUGk5atQW8Esc1v2EVAhAFsbzIWNu2VG+coIH5x9BrLffiRdDGYjPF7n9Gp7YVwR7iQxygpaIHrilaWEihj25uLHuRRNx1on4CvjtqPfczcd5rSZRXJBeWbqgWmDyhTgN4ecYjGaTnPmsY0e1tMj/qKpqbdHrXaWJWKj7YUd0ZTYUKA5For2NbC1Qj0aC3UpyO558q5kmiP7I4rGkwkDGzuwDnHVwjzi100/L828sGbQbFvvEo+g9E8EFqQPpEMmPnZ84BCxCABHbxRMSzoO328/myRhtABiFePOr+gvdzGtCBE55uBwDqZ3/xqpIKl5EDUmmb/GtBGZzvzm71DJs=;rCVoPLM5rYTG+2u5u41Bcw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541913916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ09J"
         width: 746
         height: 545
+        isCached: true
+  - title: "Land conservation plan stirs fight over Trump restrictions"
+    excerpt: "U.S. officials say proposed land conservation purchases in dozens of states would preserve natural areas and increase access to tourist destinations"
+    publishedDateTime: 2020-11-20T21:54:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/land-conservation-plan-stirs-fight-trump-restrictions-74324311"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_6f702168544143a0b452c89e1c1ab5f0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
     excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."

@@ -29,276 +29,506 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden urges patience, unity as he waits with the rest of America"
-    excerpt: "Joe Biden — like the rest of America — is still waiting. Despite being on the cusp of the presidency, Biden did not give the victory speech he and his campaign hoped he would deliver on Friday night."
-    publishedDateTime: 2020-11-07T14:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6201879002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6201879002"
+  - title: "Georgia Secretary of State certifies election for Joe Biden"
+    excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
+    publishedDateTime: 2020-11-20T22:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c2dc6b238d6848fea993f5423697ffc3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "China’s Hong Kong crackdown poses an immediate challenge for Biden"
+    excerpt: "Follow the latest on Election 2020 China keeps tightening its grip on Hong Kong. On Wednesday, Beijing forced the ouster of four lawmakers in the semiautonomous city’s local government who, under a new directive,"
+    publishedDateTime: 2020-11-13T15:28:00Z
+    webUrl: "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/PWIL/8fe8140d-f5ef-4032-bf35-6123ab4fbc90-AP20312142716387.jpg?auto=webp&crop=3983,2240,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOHRPIBCGEI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
+    excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
+    publishedDateTime: 2020-11-14T08:00:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/14/is-joe-bidens-win-a-turning-point-in-a-hard-year-of-bad-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "GEORGIA RESULTS: Biden is projected winner of Georgia"
+    excerpt: "President-elect Joe Biden became the winner of Georgia's 16 electoral votes, Decision Desk HQ projected Saturday."
+    publishedDateTime: 2020-11-16T01:50:00Z
+    webUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020"
+    ampWebUrl: "https://www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-presidential-election-2020-live-vote-counts-results-2020?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb00e441c741f0019ac9d9a?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Merkel after Biden victory: We must continue to work on ties with U.S."
-    excerpt: "German Chancellor Angela Merkel said on Monday that U.S. President-elect Joe Biden knew Germany well and added that it was crucial to keep working on the relationship between the United States and Germany."
-    publishedDateTime: 2020-11-09T15:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-merkel/merkel-after-biden-victory-we-must-continue-to-work-on-ties-with-u-s-idUSKBN27P10I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P10I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P10I"
+  - title: "What mandate? Biden's agenda faces a divided Congress"
+    excerpt: "Biden comes to the presidency like few in recent history, with a rare mix of experience but also a potentially divided Congress. Not since President George H.W. Bush has the White House had an executive with such a deep Washington resume."
+    publishedDateTime: 2020-11-15T18:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mandate-bidens-agenda-faces-divided-congress-74217881"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_98667ccabd1a4b0fb46c08f16d5cf58a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden taps close campaign aides, U.S. congressman for White House roles"
+    excerpt: "President-elect Joe Biden on Tuesday named several insiders from his election campaign and a Democratic congressman as senior White House aides, sticking with a tight inner circle as he transitions to the White House."
+    publishedDateTime: 2020-11-17T16:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-aides-idUSKBN27X25X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X25X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X25X"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540533714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA80KI"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
+        width: 749
         height: 545
         isCached: true
-  - title: "Biden convenes U.S. pandemic task force, implores Americans to wear masks"
-    excerpt: "U.S. President-elect Joe Biden implored Americans on Monday to wear protective masks to combat the coronavirus pandemic, appealing to their patriotism, as he convened a task force to devise a blueprint for tackling the public health crisis."
-    publishedDateTime: 2020-11-09T19:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN27P11Y"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P11Y"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P11Y"
+  - title: "The Biden administration: Top staff and Cabinet contenders"
+    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-18T07:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540574554&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81DO"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
+        width: 819
         height: 545
         isCached: true
-  - title: "Before Biden inauguration, 70,000 more Americans could die from COVID-19"
-    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-    publishedDateTime: 2020-11-14T02:04:00Z
-    webUrl: "https://www.reuters.com/article/usa-economy-coronavirus/before-biden-inauguration-70000-more-americans-could-die-from-covid-19-idUSL1N2HY2U3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T2W3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T2W3"
+  - title: "The Latest: Biden says his family following holiday guidance"
+    excerpt: "As Americans face the complications of holding holiday celebrations amid the ongoing pandemic, President-elect Joe Biden says he and his family are trying to navigate the same issues, with safety meas"
+    publishedDateTime: 2020-11-18T12:59:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_560af5a4403c48c3b0af26ba47adb366_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Who are the top contenders for the Biden administration?"
+    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T18:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden approaches 80 million votes in historic victory"
+    excerpt: "President-elect Joe Biden's winning tally is approaching a record 80 million votes as Democratic bastions continue to count ballots and the 2020 election cracks turnout records. Biden has already set a record for the highest number of votes for a winning presidential candidate,"
+    publishedDateTime: 2020-11-19T12:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-approaches-80-million-votes-historic-victory-74287076"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_889908c9c9044d42bc4d28149a2d0d48_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Georgia recount not likely to change Biden victory: state official"
+    excerpt: "A recount being conducted by Georgia is not likely to change the result that gave Democrat Joe Biden a victory in the southern state in the Nov. 3 U.S. presidential election, Georgia Secretary of State Brad Raffensperger told CNN on Wednesday."
+    publishedDateTime: 2020-11-19T03:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN27Y306"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y306"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y306"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541689702&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1TL"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
+    publishedDateTime: 2020-11-20T08:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "EXPLAINER: Why AP called Georgia for Biden"
+    excerpt: "More than two weeks after Election Day, The Associated Press has declared Democrat Joe Biden the winner of the presidential contest in Georgia, a longtime Republican state"
+    publishedDateTime: 2020-11-20T03:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/explainer-ap-called-georgia-biden-74308939"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db0ae4e570ef4efa8dc71916b1895cf7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's secret weapon to fight climate change without Senate support"
+    excerpt: "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday."
+    publishedDateTime: 2020-11-20T18:32:00Z
+    webUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb7ff9532f2170011f70583?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
+    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
+    publishedDateTime: 2020-11-14T03:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-economy-coronavirus-idUKKBN27T2W9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2W9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
         width: 817
         height: 545
         isCached: true
-  - title: "US election live: 'Democracy works,' says Joe Biden as he urges patience with count showing him on verge of win"
-    excerpt: "Georgia confirms recount while Democratic candidate leads president in two key battleground states – follow all the latest news"
-    publishedDateTime: 2020-11-07T12:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates?page=with:block-5fa683d58f0870a6e75f91a7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/06/us-election-joe-biden-donald-trump-result-latest-who-is-winning-live-2020-updates"
+  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
+    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
+    publishedDateTime: 2020-11-19T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
+        height: 545
+        isCached: true
+  - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
+    excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
+    publishedDateTime: 2020-11-20T00:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-georgia-get-out-the-vote-operations-that-helped-biden-win-havent-stopped/2020/11/19/7c10ceac-2851-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OFTHCDA6CMI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 933
+        isCached: true
+  - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
+    excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
+    publishedDateTime: 2020-11-20T07:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28000U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28000U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28000U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541841031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ02V"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
+    excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
+    publishedDateTime: 2020-11-17T15:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-mexico-poll-idUSKBN27X200"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X200"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X200"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/d05d42e3e9b347488db3416c787e0484b7a50f47/0_0_640_716/master/640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=78e6783bbbba423c2cd6a04bcd7519f7"
-        width: 600
-        height: 672
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541505654&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG15U"
+        width: 816
+        height: 545
         isCached: true
-  - title: "Polls showed Biden had a substantial lead. Why didn't Americans wake up to a winner?"
-    excerpt: "Election polls showed Joe Biden had a national lead over Donald Trump. So are the polls wrong? It's not that simple."
-    publishedDateTime: 2020-11-04T23:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/polls-biden-had-lead-over-trump-election-results-unclear-wednesday/6158248002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6158248002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6158248002"
+  - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
+    excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
+    publishedDateTime: 2020-11-19T10:07:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-wrap-idUKKBN27Z0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z0GI"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/346b070f-76c9-4569-b40a-f597dfbb7b78-XXX_USATODAY_437189_jmg_17861.JPG?auto=webp&crop=4875,2743,x0,y265&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "President-elect Joe Biden seeks diverse cabinet to 'look like America' in leading federal departments"
-    excerpt: "Biden could tap a range of experts, from one-time rivals to former colleagues, both Democrats and Republicans, to be a part of his administration."
-    publishedDateTime: 2020-11-08T16:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/biden-cabinet-picks-who-may-tapped-leadership-roles/3748535001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3748535001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3748535001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/27/USAT/3dbafb22-4ac8-4c44-be84-00ce5b70a50c-SusanRice021.JPG?auto=webp&crop=809,456,x0,y102&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Biden says he's 'honored and humbled' and calls for unity after major networks declare him the 46th president"
-    excerpt: "President-elect Biden said in a statement it was time for \"America to heal.\" Vice President-elect Harris said, \"we have a lot of work ahead of us.\""
-    publishedDateTime: 2020-11-07T17:44:00Z
-    webUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-honored-and-humbled-to-win-us-presidential-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5fa6d755f7d1cb0019e3a60f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
-    excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
-    publishedDateTime: 2020-11-05T22:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/05/us-election-joe-biden-urges-calm-in-america-the-vote-is-sacred-video"
+  - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
+    excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
+    publishedDateTime: 2020-11-20T02:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fb7139e8f08161b0b9c90d5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/19/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/9142dafc77dd950484bb58226b8c3538659c105a/0_27_3345_2007/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2359d5223ac0027762ca04de6d5cebf"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/ff8825f43985d6014cbeb12ed53fad87a858d14e/0_187_5614_3369/master/5614.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f201c487f62826b504bc6e4dc0187888"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden chooses Ron Klain as chief of staff"
-    excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
-    publishedDateTime: 2020-11-12T02:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/12/biden-chooses-ron-klain-chief-staff/6260565002/"
+  - title: "Who Might Joe Biden Select To Lead The Justice Department?"
+    excerpt: "Democrats have condemned what they call inappropriate closeness between the White House and Justice Department in the Trump era. That means picking an attorney general and other personnel is tricky."
+    publishedDateTime: 2020-11-19T10:03:00Z
+    webUrl: "https://www.npr.org/2020/11/19/936264465/who-might-joe-biden-select-to-lead-the-justice-department"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: NPR
+      domain: npr.org
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c0291b17-7176-47ba-8d36-d4446279e516_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://media.npr.org/assets/img/2020/11/18/ap_17271704790291_wide-a96cfb9319d3f8208d8f4cd60fbfc25b2ba833c5.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Biden names Chief of Staff as Ron Klain"
-    excerpt: "Watch \"President-elect Joe Biden names Chief of Staff as Ron Klain\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-12T18:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201112183527-president-elect-joe-biden-names-chief-of-staff-as-ron-klain/"
+  - title: "Biden's win in Georgia reaffirmed after recount"
+    excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
+    publishedDateTime: 2020-11-20T01:28:00Z
+    webUrl: "https://www.cbsnews.com/news/bidens-win-in-georgia-reaffirmed-after-recount/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/12/story_07668932_1605206344.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/06/ee03f2d0-a208-482b-a218-258f99734fc8/thumbnail/1200x630/5c1c42c68fc76852f130a31cf6864aaa/cbsn-fusion-georgia-secretary-of-state-says-they-will-head-to-a-recount-thumbnail-582579-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden's won, nothing will change that: Schumer"
-    excerpt: "Senate Democratic leader Chuck Schumer on Wednesday doubled down on his argument that Republicans have no legal case in challenging the results of the U.S. presidential election that was called for Democrat Joe Biden over the weekend."
-    publishedDateTime: 2020-11-12T18:52:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVD49PFQ7"
+  - title: "Joe Biden confirmed as Georgia winner after recount"
+    excerpt: "President-elect wins state’s 16 electoral college votes following hand recount of about 5 million votes"
+    publishedDateTime: 2020-11-20T14:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/joe-biden-president-georgia-recount"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201112&i=OVD49PFQ7&r=OVD49PFQ7&t=2"
-        width: 960
-        height: 540
+      - url: "https://i.guim.co.uk/img/media/f06f74bf85b8c68d941a81d2102b9fd7585e3ca6/137_0_3240_1945/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfe85e788f145de25daa8dc865006fa"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Joe Biden spoke about how Americans 'chose change over more of the same'"
-    excerpt: "Joe Biden spoke to his supporters in Wilmington, Delaware about how Americans \"want the country to come together and not be pulled apart.\""
-    publishedDateTime: 2020-11-07T05:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/11/07/election-2020-biden-says-record-number-americans-chose-change/6198577002/"
+  - title: "Joe Biden turns 78 and is set to become the oldest U.S. president"
+    excerpt: "President-elect Joe Biden turns 78 on Friday and is on track to be the oldest U.S. president in history, displacing Ronald Reagan."
+    publishedDateTime: 2020-11-20T22:42:00Z
+    webUrl: "https://www.latimes.com/world-nation/dz-ph5xuf6u-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b1b3177/2147483647/strip/true/crop/5431x2851+0+385/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F78%2F5c%2Ffcde65dd1a38752f5a2a18ab106d%2Fafcc289c76504d47b99037d98f0001f1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
+    publishedDateTime: 2020-11-20T17:48:00Z
+    webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/6a23d35018294cff8363c35b29d376cc/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
+    excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
+    publishedDateTime: 2020-11-20T16:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/biden-names-white-house-posts-directors-legislation-personnel/6354645002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6354645002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354645002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/68c7b583-60ef-4302-931a-6bae25e82f21-VPC_BIDEN_SPEAKS_DESK.00_00_18_14.Still001.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden says he's 'confident' in victory, speaks to unity as votes continue to be counted"
-    excerpt: "Biden calls for unity during his speech in Wilmington, Delaware. Votes are still being counted in states across the country."
-    publishedDateTime: 2020-11-04T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/04/2020-election-biden-calls-unity-votes-continue-counted/6166567002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/USAT/b032550d-b933-4d85-b020-924b79592f45-VPC_ELECTION_DESK_THUMB.00_00_33_12.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President-elect Joe Biden's family: Here's what we know about America's next first family"
-    excerpt: "Joe Biden is the president-elect of the United States. Here's a look at America's next first family."
-    publishedDateTime: 2020-11-14T16:08:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/13/look-joe-bidens-family/6272780002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 96
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/12/USAT/7a28245f-6522-4e2b-9283-1c0a772f7070-VPC_BIDEN_FAMILY_DESK_THUMB.00_02_34_02.Still003.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "This is America: Kamala Harris is America’s first Black, South Asian, woman vice president-elect"
-    excerpt: "She's the first woman vice president-elect. She is the first Black woman and the first South Asian woman vice president-elect. She's the first vice president-elect to have graduated from a historically Black university."
-    publishedDateTime: 2020-11-12T12:51:00Z
-    webUrl: "https://www.azcentral.com/story/news/2020/11/12/vice-president-kamala-harris-first-black-south-asian-woman-vp/6254489002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6254489002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6254489002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e590aaec-8799-41c3-8d16-7496b0ae6828-USP_News__Election_2020_-_Joe_Biden_Kamala_Harris.jpg?auto=webp&crop=5100,2869,x0,y190&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Americans Must Render Judgment Against Joe Biden At The Polls"
-    excerpt: "The most recent bombshells were revealed by the NY Post, which detailed a web of emails and transactions allegedly involving Hunter Biden, Joe Biden, China, Ukraine, and others. Despite the serious nature of these alleged “transactions,” Joe Biden has ..."
-    publishedDateTime: 2020-11-01T14:01:00Z
-    webUrl: "https://www.theamericanconservative.com/articles/americans-must-render-judgment-against-joe-biden-at-the-polls/"
+  - title: "House Democrat says Congress has few options to help Biden's transition to power"
+    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
+    publishedDateTime: 2020-11-18T16:49:00Z
+    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
     type: article
     provider:
-      name: The American Conservative
-      domain: theamericanconservative.com
-    quality: 55
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
     images:
-      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/10/GettyImages-520783510.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "False video of Joe Biden viewed one million times on Twitter"
-    excerpt: "A deceptively edited video of Joe Biden making it appear the Democratic presidential nominee forgot what state he was in was viewed more than one million times on Twitter over"
-    publishedDateTime: 2020-11-01T23:31:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/false-video-of-joe-biden-viewed-one-million-times-on-twitter/article_e5065a39-ad32-5c68-8f22-112469642ee0.html"
+  - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
+    excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
+    publishedDateTime: 2020-11-20T14:24:00Z
+    webUrl: "https://www.cbsnews.com/video/doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President-elect Biden faces nuclear challenge from Iran as country increases uranium stockpile"
+    excerpt: "A new report from the International Atomic Energy Agency reveals that Iran now has 12 times the amount of enriched uranium permitted under the 2015 Iranian nuclear deal. This latest development gives additional insight into the surmounting challenge the incoming Biden administration will face in an attempt to contain Iran's nuclear capabilities."
+    publishedDateTime: 2020-11-14T18:31:00Z
+    webUrl: "https://www.cbsnews.com/video/iran-expands-stockpile-enriched-uranium-joe-biden-challenge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 93
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
     type: article
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
+  - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
+    publishedDateTime: 2020-11-20T17:44:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
+    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
+    publishedDateTime: 2020-10-27T18:43:00Z
+    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "GzqyBy9AgDdZijAXVgrexXHYZi2NVGzoD2EfmZ+r+0pO6hqf+N7UGic0B56qMO8TXvn7vn9qIJm1ojE/xUAOkdclFuiFiTaV8+Spc0nEx4GSuNr2IY4Nh+vIIWRT6oNlIWBJofuCUU3ykeyNLcAIsG+xpduG66pTdpho+R0SPraITmDGgVEFwXTvDrzPHBTcn2WYDPWkWS42qtzIlQXRIKCJI8jcwWRpUV8dCw0Cd/7rVwPV48uSiMz/L2XxLkly4h1grBw8+0fYaVCCpSbSFdAkxHFB7ReBfDunTqadimrHocMYl/GHrfwGNvC9omtvJsqBSj5Uolu+KKYxGw/nbB35xwO5Nkx6YEZiOhwg7hW5JPOTAxqHUbX7ANhYF9o/kUrfaUfMA7yxP/wWiuqrzU8VjIZi+8xuCEdDxWzofOE5WYM5ezhh8egZuARW2LLm8jin+S4armEqnB6q/vHSNsdzPfXLe59hTXDKt/29ZFuAZVUvycjVspCM0aLRGHfqR5okDIyYXn3UaTaj6UEiUA==;dgjedh1w9D9n5gHvTpTtJA=="
 ---

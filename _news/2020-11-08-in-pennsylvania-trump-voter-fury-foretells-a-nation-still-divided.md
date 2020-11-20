@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign fundraises off of Giuliani news conference and uses photo of Trump in hospital"
+    excerpt: "The Trump campaign sent out another fundraising email to supporters on Friday, signed by President Donald Trump, praising his attorney Rudy Giuliani's widely panned news conference this week and featuring a photo of Trump taken when he was a coronavirus patient in the hospital.\n    \n"
+    publishedDateTime: 2020-11-20T21:49:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLMOtvlcMwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-campaign-email-giuliani-presser/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-campaign-email-giuliani-presser/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005154527-01-trump-walter-reed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact Check: Rudy Giuliani and Eric Trump's press conference was filled with false claims about ballots in Pennsylvania"
     excerpt: "After announcing the Trump campaign's plan to pursue a series of lawsuits at an event billed as a press conference in Philadelphia, the President's son, Eric Trump, and his personal lawyer, Rudy Giuliani, didn't take questions from the media. Instead, they spent time lambasting election officials who"
     publishedDateTime: 2020-11-05T15:37:51Z

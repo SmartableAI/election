@@ -127,6 +127,38 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Harvard petition demands scrutiny of ex-Trump officials"
+    excerpt: "A petition circulating at Harvard University demands new accountability standards for former Trump administration officials who seek to work or speak on campus, an idea that has drawn outrage from pro"
+    publishedDateTime: 2020-11-20T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harvard-petition-demands-scrutiny-trump-officials-74325339"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harvard-petition-demands-scrutiny-trump-officials-74325339"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harvard-petition-demands-scrutiny-trump-officials-74325339"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_62f5263a70994a769b6a88749646c443_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "As Trump gets more brazen about trying to steal the election, can congressional Republicans ditch him?"
+    excerpt: "Congressional Republicans reluctantly backed President Trump on his false voter fraud claims in the hope that the situation would provide a natural exit ramp for them. His legal cases would wind down,"
+    publishedDateTime: 2020-11-20T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/20/trump-gets-more-brazen-about-trying-steal-election-can-congressional-republicans-ditch-him/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/20/trump-gets-more-brazen-about-trying-steal-election-can-congressional-republicans-ditch-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/20/trump-gets-more-brazen-about-trying-steal-election-can-congressional-republicans-ditch-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JIJ2Y7BF5YI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Touting drug prices, Trump pushes his election win"
     excerpt: "The Trump administration issued regulations Friday that could lower the prices Americans pay for many prescription drugs. In announcing the new policy President Donald Trump again claimed he had won the presidential election."
     publishedDateTime: 2020-11-20T20:58:00Z

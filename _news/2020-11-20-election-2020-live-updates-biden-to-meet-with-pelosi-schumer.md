@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Georgia certifies Joe Biden victory in 2020 presidential election"
+    excerpt: "Biden has 306 electoral votes to Trump’s 232."
+    publishedDateTime: 2020-11-20T21:34:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2RBQSgcIrA0/georgia-certifies-joe-biden-victory-2020-election"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-certifies-joe-biden-victory-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-certifies-joe-biden-victory-2020-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
     excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
     publishedDateTime: 2020-11-15T13:52:59Z
@@ -94,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump officials warn of new border surge if Biden reverses immigration policies"
+    excerpt: "President-elect Joe Biden promised to reverse a number of key immigration policies enacted under President Trump, raising fears of a surge at the southern border, which administration officials believe they already are seeing."
+    publishedDateTime: 2020-11-20T22:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjdGXNK9QfE/fears-border-surge-biden-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/fears-border-surge-biden-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fears-border-surge-biden-immigration-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb52f56a-37a3-4f76-a447-f271b2612c08/93be24a1-997f-401f-b587-56d49ed62089/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
     excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."

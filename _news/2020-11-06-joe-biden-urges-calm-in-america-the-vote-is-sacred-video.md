@@ -157,20 +157,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
   - title: "Biden chooses Ron Klain as chief of staff"
     excerpt: "President-elect Joe Biden has chosen his longtime adviser Ron Klain to reprise his role as his chief of staff, installing an aide with decades of experience in the top role in his White House. (Nov. 1"
     publishedDateTime: 2020-11-12T02:19:00Z

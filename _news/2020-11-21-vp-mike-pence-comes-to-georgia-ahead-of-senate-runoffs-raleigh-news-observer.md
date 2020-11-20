@@ -21,20 +21,6 @@ topics:
   - Mike Pence
 
 related:
-  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
-    publishedDateTime: 2020-11-20T17:48:00Z
-    webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/6a23d35018294cff8363c35b29d376cc/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
     excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
     publishedDateTime: 2020-11-17T02:57:00Z
@@ -67,33 +53,20 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
-    publishedDateTime: 2020-11-20T19:16:00Z
-    webUrl: "https://www.chron.com/news/article/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
-    ampWebUrl: "https://www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+  - title: "Vice President Pence will campaign in Georgia for GOP senators in runoff"
+    excerpt: "Vice President Mike Pence said he will visit Georgia later this month to campaign on behalf of U.S. Sens. David Perdue and Kelly Loeffler, who face runoff contests against Democratic opponents to retain their seats."
+    publishedDateTime: 2020-11-10T20:57:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/vice-president-pence-will-campaign-in-georgia-for-gop-senators-in-runoff/6FXJHBVYLJGPXAY4BLC6G73WEQ/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.ajc.com/resizer/pbOdNqkyHcqh0kn5aevnLaU4l3s=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/JP473P73HVH3D4OQD373MMVNR4.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
-    publishedDateTime: 2020-11-20T17:44:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
     excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
     publishedDateTime: 2020-11-20T20:30:00Z

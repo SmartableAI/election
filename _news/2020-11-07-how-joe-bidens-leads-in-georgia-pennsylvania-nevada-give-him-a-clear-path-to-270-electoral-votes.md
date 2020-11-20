@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6191429002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6191429002"
 type: article
 quality: 110
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/572eb25d-af11-4686-9704-0c37632b15a3-promo.jpg?auto=webp&crop=689,388,x41,y455&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Vice President Mike Pence to visit Georgia next week"
+    excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."
+    publishedDateTime: 2020-11-12T19:17:00Z
+    webUrl: "https://www.wsbtv.com/news/politics/vice-president-mike-pence-visit-georgia-next-week/F6S4DVVGNFAIPDDOEAGF3XCV5E/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/QvVJtkN6R42VHSSARmsPJQglnQM=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/CNDUZKFY2U275REEJZVFDG37BQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "RThqv8xWhHCx/yBb90eoRfTs3fHiTSbb+TY3KgxdbU9iiPM5Ypl7kmKQVBNnMlHUV/+6fb19vJJgBB1RgL/8CTGaV6NE2ZZ4vEFQAp1cyB9IuJrrOeBgSSZrJNicp4YOSRINaVkRUV4+gzG3B+3jta7WzT6rKbq9oz33b/zRKT+ASI5AmpPcmaOC7Sn2if6gGfrSloGmVtt1HWmMcqkH6LiX2xqbpxpIwuZqWc6fNP/UZoF+DlNNmP7JS9CRdWcrzY3GNY5MQJPM1ZmQytopsm2cQAlJnb6fsH2kb85d/I+y/7KPw/f1DnSGGvNS1Bysi4lbJES4efOfCQimGhAudcRGCCMRpGEe3u1oeDL2nn0=;lwvzwCZUFQFHnVZpWcgpCg=="

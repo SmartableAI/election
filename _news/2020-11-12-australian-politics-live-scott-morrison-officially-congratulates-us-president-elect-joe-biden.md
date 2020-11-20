@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/live/2020/nov/12/albanese
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2020/nov/12/albanese-anthem-federal-icac-nsw-queensland-victoria-morrison-live-news"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: The Guardian
@@ -29,84 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden"
-    excerpt: "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\""
-    publishedDateTime: 2020-11-08T17:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Putin won't congratulate Biden before 'official results' and 'legal procedures' are completed"
-    excerpt: "A Putin spokesman said there was an \"absolutely obvious\" difference from 2016, when Putin congratulated Trump based on media projections."
-    publishedDateTime: 2020-11-09T14:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/vladimir-putin-holds-biden-congratulations-awaits-legal-procedures/6218660002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6218660002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6218660002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/5811c7a4-3d17-4645-a9a8-35817e826495-AP_Russia_Putin.jpg?auto=webp&crop=2892,1627,x430,y876&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
-    excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."
-    publishedDateTime: 2020-11-10T13:55:00Z
-    webUrl: "https://www.businessinsider.com/europe-new-coronavirus-measures-may-influence-us-recovery-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f96c971f21803001222be00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cindy McCain: 'It's time we get behind Joe Biden as our next president'"
-    excerpt: "The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden."
-    publishedDateTime: 2020-11-13T18:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/election-us-2020-54937348"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08ydgdh.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "xtANpbGF0ckZmxMTPiySJWetH4Af87dybVq0U2yidJ6xVdzaZvAVMEqjbQlm62X+Zt3FtpoOjgH/DpJ24Qa9SuhAdCRetwBMjSBl7lUgEoGawHrEgkHngC1omG0lWMlyVyOtaJ7AR7CX42bOFCyp1qiS3XTz0LPtzgLRLABvPoeGbigzS/xucbpPt6h9brisFNdMt/PVXNM5vrmIEqpevrHdW2Yietjl2rafFW6Zy3+pm67E/FAap6VB/Wd53tjYO48D83sIIEbooW8wGY3+yzE5knD7BAl+dBllKWcIWrYKs732QO2J7gBBbwOtM4q8qmcO490S5dKJr39MXfcznobbqJ5F+bGsQ+x0x9OP3yw=;dvif9iNqia2PLsRHCJWgFQ=="
 ---

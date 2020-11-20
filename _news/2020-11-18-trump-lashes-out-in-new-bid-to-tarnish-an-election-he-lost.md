@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1290
+heat: 1310
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking McEnany's first White House press briefing since Trump's election loss "
+    excerpt: "In her first press briefing since October 1, White House press secretary Kayleigh McEnany repeated several old falsehoods around voting, the coronavirus and special counsel Robert Mueller's investigation into Russian interference.\n    \n"
+    publishedDateTime: 2020-11-20T21:18:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HBe-IVm1nHM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/mcenany-white-house-press-briefing-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/mcenany-white-house-press-briefing-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120121933-05-wh-press-briefing-1120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

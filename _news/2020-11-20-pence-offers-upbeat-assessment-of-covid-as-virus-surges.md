@@ -43,14 +43,14 @@ related:
         isCached: true
   - title: "Mike Pence on virus: US 'has never been more prepared'"
     excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
-    publishedDateTime: 2020-11-20T02:08:00Z
-    webUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
+    publishedDateTime: 2020-11-19T23:10:00Z
+    webUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
 
 secured: "UkNnw99zGw+Bzf65KzJIV3Xl2jUWJxNkPFkWjXdgNBUQ/YdZ42dz1Fiyo1vRKwJu75W8uvO/FKq8IIVwoCKnb6wtrBs/RedBU9S9ph6mc8UmH8isVqr8ujtHDaFNUYmlyM3uXxOP5qcSmQ25trOcoB8kYDNFmTS+VOMmPuyxErto14Pl7nNUBLa57aPpsM5MFafOV+uar1gD+J4CN4sQKJxn5doF5o5mYwZ1Y2eiPeZ3C+YiT+gVCh+3HP5Be9/I7pCfmDWNHmTYIq1UTl/gWOh62t+VS7e7smT3KyBuN3GNPkMB6c7F6ixXXEkx790DNhDRW2BVJBXrlxluJpuLYqY7wB+zVMbbFVzbQ1VHeqg=;yPI/vv7zZuqZXXx+njqTng=="

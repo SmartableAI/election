@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
-    publishedDateTime: 2020-11-20T08:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
     excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
     publishedDateTime: 2020-11-17T21:31:00Z

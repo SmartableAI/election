@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-faces-economic-redline.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump to Participate in Virtual G-20 Summit This Weekend"
+    excerpt: "President Trump will participate in the virtual G-20 summit, held this weekend in Riyadh, Saudi Arabia, according to a senior administration official."
+    publishedDateTime: 2020-11-20T22:02:00Z
+    webUrl: "https://www.wsj.com/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-participate-in-virtual-g-20-summit-this-weekend-11605908660"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263184/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "SZDIUbQWwAe2Vp+H/jqF3gPoRO1J+MEr0p2UmVoiXQ9FigFySkMctHBv2J/G7Yh5XsqBdbXncs6SJNcbOGlRuNXfIOD3cAshBjDOJbRbnfOO4w/EMONEQ3Zq+0BH3M1FKW48R2+LhWtlKY03AsYi/+TurvUCnEFYyDpIiXHhYRqhgs148c7gwHFx2bc03QjcAZZbsEIAyBWYHlC5G/uJFG6P12+k0BzXAev3WmejvITlzwpayUKI+YtNRGXXRhCn4QW5bCs3y0slSDuKZz9QG3PwOjfrdLkpmaE8AChwM0oGbv+X7QSuwkWUbm3fuGviJonC6Izrpdhb6Cjl2rhpup2AIEJCnTGc1cvqgigHm3M=;jJJyrja+Yt2bkcWWAgniUw=="

@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence, in Georgia, vows to ‘keep fighting’ but acknowledges ‘uncertain days ahead’"
+    excerpt: "Vice President Mike Pence hit the campaign trial Friday in Georgia, stumping with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections, which will determine whether the GOP keeps its majority in the chamber."
+    publishedDateTime: 2020-11-20T22:13:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMBlWarusSk/pence-in-georgia-vows-to-keep-fighting-but-acknowledges-uncertain-days-ahead"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-in-georgia-vows-to-keep-fighting-but-acknowledges-uncertain-days-ahead.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-in-georgia-vows-to-keep-fighting-but-acknowledges-uncertain-days-ahead.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
     excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
     publishedDateTime: 2020-11-05T10:04:28Z
@@ -173,6 +189,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-260858/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
+    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
+    publishedDateTime: 2020-11-20T22:50:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-262788/social"
         width: 1280
         height: 640
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.newsobserver.com/opinion/article246778127.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article246778127.html"
 type: article
 quality: 73
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
-    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
-    publishedDateTime: 2020-11-04T02:05:00Z
-    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
-    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 65
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
-        width: 2000
-        height: 1047
-        isCached: true
   - title: "Kamala Harris’ cultural background will make her a player on the global stage | Raleigh News & Observer"
     excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
     publishedDateTime: 2020-10-23T09:00:00Z

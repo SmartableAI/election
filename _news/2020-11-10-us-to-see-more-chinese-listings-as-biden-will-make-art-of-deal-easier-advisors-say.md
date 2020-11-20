@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Biden administration: Top staff and Cabinet contenders"
-    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-18T07:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
-        width: 819
-        height: 545
-        isCached: true
   - title: "Cindy McCain explains why she voted for Joe Biden — and not that other guy"
     excerpt: "Did Cindy McCain help Joe Biden win Arizona in the 2020 presidential election? Probably. Did President Trump’s obsession with John McCain play into his loss of the state? Probably. When historians write about 2020 politics,"
     publishedDateTime: 2020-11-17T11:08:00Z
@@ -114,20 +98,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541559350&r=LYNXMPEGAG1GN&w=800"
         width: 800
         height: 532
-        isCached: true
-  - title: "House Democrat says Congress has few options to help Biden's transition to power"
-    excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
-    publishedDateTime: 2020-11-18T16:49:00Z
-    webUrl: "https://www.cbsnews.com/video/house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/18/d19ae91e-f86a-40c8-904b-a885bdbb77e3/thumbnail/1200x630/4b7a598e7ee487f02c75bb92f5682974/cbsn-fusion-house-democrat-says-congress-has-few-options-to-help-bidens-transition-to-power-thumbnail-590426-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "6pwluG3mRRthykBFCrV0VVkhQ8tJcUkwG4T+VdekbsfMNuYPF6ApEx3pxhQ7tQTC9XaAoW3dWc1KCky6ePGeYLdOEJEUVi8qXkA9Z2ts4S4NrAtW8KlHo+sPu/BWwtyLnPDuxC464ViHq6YnuaS1tRBbH03Q0lK0JsDQWsBEDl29/9XsJOoBYU+Ie1XwRZL7fGrtsPDEovBHoeVLS/eixpdIcMWDxmJDYMqlfbKfmPpTTqQPUMsGWjkF46I54dGChgS9j9F3S73O2M3CTDeV1Vv7I+VxGJBV0ax+YPXesLacTD2a/kftE6ghCLhTmjlY0bGA4VSrwzYDoBzKz6+zLLZkprA5MgjyqyhJ87qWD1g=;aQYTK3641cXPCD7aKsl/LQ=="

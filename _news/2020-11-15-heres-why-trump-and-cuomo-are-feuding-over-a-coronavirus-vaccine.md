@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
+    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
+    publishedDateTime: 2020-11-20T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
     publishedDateTime: 2020-10-25T19:24:00Z

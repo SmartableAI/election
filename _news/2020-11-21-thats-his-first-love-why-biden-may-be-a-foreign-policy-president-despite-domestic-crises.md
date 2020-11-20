@@ -47,22 +47,6 @@ related:
         width: 825
         height: 545
         isCached: true
-  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
-    publishedDateTime: 2020-11-20T08:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
     excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
     publishedDateTime: 2020-11-17T21:31:00Z
@@ -80,6 +64,6 @@ related:
         height: 545
         isCached: true
 
-secured: "zAVD3I2WQXNP6JLTEM5Lz0yZF93tc4uYl810Y0zo59FDIEt+7gNed9JIxkd4w4V8a2gmPnJTTBuGZQgKdlwKjVCQ4+z0g+9vWnjyt77D4LCVotk5Zfny+cJLZ1yTV2kU46ixn2MvKaDnEqA+wUc7qqsXnzV8E/JTmIAyWxD0KZXxIOBUgmpCU11eNwPW2JlYcLG3jFIFuIFvDm1gOofDeATLnFC89ayRV4p4IG78vMNMjycDAUZNYVNaTLKgP5wuO7J2MQEi1lEDu+jPfMBbs7/msc1csuvqzDUX2aTbrySCLJUyjOx95YzqfARLb9XY9jaGgSUIvZuWnimA2K3sZvpMDeNmv883jm2qDZG3T1w=;YozD59JX0vWsVQcbHQy29A=="
+secured: "QZnn2zAqhaLcE16c/vxLJjJ53JoWG5Yks8xAU7AfM4dKM+1Tb6Qr5J50Yex0UGKV3+QdC76NUq2NK/m8OE/EQsHEShM8jYHJ4/zxLtLMe62WfSNNxFv7zhpaEo/aDpTN8boKZLOnEwQMFIaXZ1vSXVwfkd42yxI+3rjMJxJcvzEG/NS/Upg7iFYeDMa2+UsqKEl2r2k766EdRxEPl9JaFAHvQqHvbXvc9+lk+xLkvyvttfhwZIAAWPM49PC5crqJBkjY8VyOyqmEwfXDdsLcKa4mlQAaLy7E1gf4WVQRLxu4VQt+DykzVLYRjVnnnlJds0aKHxm/EzmabUYPvgq3mz+Xfot9NKUcJmo67btIsdGS0a7fKDMonM+XC7aAwu1VVPwe3cLC2X1uMhbvlVxqofaF0BM798sFCH4lK+MDERxiTaOcaXeyfOhXOm7dUfgkZEoSEN/m4ahRFjux1CdpL11nJoSuLCzf0RMaZuNh5fPU+EeWvFjWb4XHNP62yTFQDed3RhZ5wSCCJuOe16UdpQ==;Fk/Mp9phdA4TI2KFon0k0Q=="
 ---
 

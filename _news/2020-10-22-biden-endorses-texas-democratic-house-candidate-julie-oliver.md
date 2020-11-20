@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democrat
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
-    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
-    publishedDateTime: 2020-10-27T18:43:00Z
-    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "i/2xWSwX2xrNrQ1yIOu7ghbmuxNg1OsxuAKOZAeIqCcmd9FUham6BVHa0b8bk/5QQDSRzdFhsLujS4cykU2j8hQN0JMxgfi4roD4AystKbrSMito9vE9MR7hwULp8o3JcjzjqjEZxgAGKKsrfxgKWuFiFqh+xUkXFEN+DsRDxr4pVXS7nHOthwXOmHWaFqCBRyBR4bdUHx8jw0kbtzLSs9vmZzLWUG/ALPUMBTqLGbisOXC8v911ImnBIYxv/Oo+j4pqPeIbwom7wkIU8lKkDEvikVlfMiVWD6ouHvbnKxqG7sk8SxcuiCcH9mWNhXEIwz/v7VArMGxbFfN9sfjO0Gkx51ezORWI9NVok7NzpDxC7YSk4/Ak0BCxw4tfcaV3cN/VM7JtptpWSWakci8XzMFkWcQ/MZemki0z95oN93/qoJEtdRld3gk3uE9g7QpVZotYhnDG2tuOzgth4YW6LUuN0Lq9E+9SzvpnhceARSclUx3wbyQA0XJhH9TuweSkTdpJIvdZ3HXPzKuCmOqmSg==;Gpa64dvWtL3nbY0kOG+q4g=="
 ---

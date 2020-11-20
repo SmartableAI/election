@@ -109,15 +109,6 @@ related:
         width: 2048
         height: 1451
         isCached: true
-  - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
-    excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
-    publishedDateTime: 2020-10-27T18:43:00Z
-    webUrl: "https://www.c-span.org/event/?477413/c2020-joe-biden-delivers-remarks-warm-springs-ga"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "d51eeUvHfn1dJts38jLI8X7ybfMxhTfmRh3VdpEqrq31ONvk+QW9ctxKbJDSc1G9lQQvVXNQNKdzmN8b2y0m5muZ3YUquyKrtHWEH/+lJODUD3f5LmiRt//eT+C02Ks61C+nAXWq1jzvOzeLGXvSvZuvKUIhOWnq4Gkmfu9XFdcJED6wqZrwdvjBJvksmwdbWpPXL6zofsy5dfzWRZKKE+em/7gv5wsrdrpWG1Np7/Z8jPo+W0lDHBTHrUZs9G88wVYCMaCeLmHQYc6h9DG3xUVQdeUJcwIUpnxJa8cVCsbsbfJMgYaSDXZy9s9Lc8EikGKKxBEFNJSIEQH4a++4be7hQY2RWkfljVikA38RiMahX4sNNxIWK3HJio0vszSStu82J0tDbGLYqt2+lbXRhSgk9SbufhtumZnTjQuIA4+RdPoVtUXJMp323ce27EsCXAZiQFgalHS+L7/pK0sRuqHhgQgf5p2SbHaI/LZOfnFzd1f+WVaMjMK8dzZruVl9+n+hLT+ti0v6LcdVoJL/Ww==;lGUVDH75s7nIu00HQjgooA=="
 ---

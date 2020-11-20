@@ -143,20 +143,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "In Georgia, a Biden supporter realizes the power of her ballot"
-    excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."
-    publishedDateTime: 2020-11-06T13:17:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/06/biden-voter/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/Hz_OrZxWroNwIsu9OOmq7GbxQfc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4X73ZA7XQI6XLKTJQP5USMQPU.jpg"
-        width: 1484
-        height: 989
-        isCached: true
   - title: "Joe Biden urges calm: 'In America, the vote is sacred' – video"
     excerpt: "Speaking at the Queen Theater in Wilmington, Delaware, the Democratic nominee also noted the country is nearing 240,000 deaths from Covid-19 and expressed sympathy for Americans who had lost loved one"
     publishedDateTime: 2020-11-05T22:09:00Z

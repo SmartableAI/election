@@ -1,29 +1,27 @@
 ---
 category: news
-title: "'Kamala Pecan': Kentucky shop names ice cream after Harris"
-excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala Pecan."
-publishedDateTime: 2020-11-17T13:44:00Z
-originalUrl: "https://www.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-webUrl: "https://www.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
+title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
+excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala"
+publishedDateTime: 2020-11-17T15:35:00Z
+originalUrl: "https://apnews.com/34d8a249e11b9114748b423e78e2a21d"
+webUrl: "https://apnews.com/34d8a249e11b9114748b423e78e2a21d"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://apnews.com/images/ShareLogo2.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -348,6 +346,6 @@ related:
       domain: charlotteobserver.com
     quality: 51
 
-secured: "jztzWaQZ+g+TtRouR6l7kbaCc/SEcX84VQL18esQjAv5d5f19L1SeV8lHs1Ambel9aJBwtw3WZD1jwYmtrjjuEKoToyHE7QBaPjistojCvq1tkrQpMz/UN8NYVD61urX+6P40Lke8hg7YbG1NXAtEHsXvFJbj6FuO/sdeXIIsMiAz1l4Ef4hpa7qrBegWGC66dR+f/6h2A42qJLgp9rnB2fjRn/nrj41TGqUgJfP+TIRSo/rFKF1Ous6P1QkIAUnoUwOWEXJ/J5+JPVq8VVLXyad+ZVQSLeueT1JU6wnDLqFw2tpR/jxWPsndVhltCBJMks3qSgDlihIhFd3mJ5AsHvIsjweByZTSn9/PQgoJ5o=;4/8kEqTalUJ0sIz12RypCw=="
+secured: "ROdh3wNNjHLUcoGplwEFsdejpeNJq+COlDTbPYMGrh9BrL1eSlJrhQSLnQXlUo1HdH++lNA1NJqrxrgqcwQV3Le1gDt/TpAJb38JXOXhdINyY1VKaYgTfBjkp4MSHlSWH88gVXo1YeBwOG8Cn2X5/KXjTZzUIx2wDL33ucT00D3OsmwwugcK9eWcmDz7/oaSjGOMzSp/HHC/15ZCq64D1yiVGalKAQIyGVF20SHy9sCJoZTCOWVjGnwRRQHDkg+x6SJU955LT4coNqjBFtLivoV4DCOwN0F9PGyqUxKkMsQwWchOWcG+Yf8yqad6NFGoYiAqwNuCEKZzp6GXPZyEX54Nz5mRyAoa2pxPBQiH7OY=;r7zlcuKfGGRPwdXVD/wglQ=="
 ---
 

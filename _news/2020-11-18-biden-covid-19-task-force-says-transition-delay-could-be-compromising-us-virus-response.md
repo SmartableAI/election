@@ -47,22 +47,6 @@ related:
         width: 825
         height: 545
         isCached: true
-  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-    excerpt: "Biden will be sworn in as the oldest president in the nation’s history, displacing Ronald Reagan, who left the White House in 1989 when he was 77 years and 349 days old. The age"
-    publishedDateTime: 2020-11-20T08:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/birthday-time-biden-turns-78-oldest-us-president-74311499"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_afcc289c76504d47b99037d98f0001f1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'That's his first love': Why Biden may be a foreign policy president despite domestic crises"
     excerpt: "The president-elect already knows many of the players on the world stage – from Vladimir Putin to Angela Merkel to Benjamin Netanyahu."
     publishedDateTime: 2020-11-20T19:18:00Z

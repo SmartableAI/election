@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden transition making fundraising push as Trump administration blocks funding"
+    excerpt: "President-elect Joe Biden's team is making a fundraising push for its transition operations as the General Services Administration has yet to ascertain Biden as the election winner -- a move that would open up millions of dollars in federal money for the President-elect's transition work.\n    \n"
+    publishedDateTime: 2020-11-20T22:43:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1CBIwsljVXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-fundraising-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-fundraising-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z
@@ -269,6 +285,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116155106-06-biden-harris-economy-remarks-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration, preserve evidence of what you've done"
+    excerpt: "The Presidential Records Act and the Federal Records Act require preservation of an administration's records, write Sean Casten and nine other members of Congress.  Given the pattern of behavior by Donald Trump and his senior officials, federal employees must be particularly vigilant and diligent in"
+    publishedDateTime: 2020-11-20T21:28:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0VNlyOFGwOo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/opinions/preserve-all-documents-during-presidential-transition-casten/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/opinions/preserve-all-documents-during-presidential-transition-casten/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118183854-trump-casten-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

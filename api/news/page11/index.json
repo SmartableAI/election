@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-07-rep-jordan-says-republicans-picked-up-seats-because-voters-dont-like-socialism-sees-path-for-trump.md",
+      "title": "Rep. Jordan says Republicans picked up seats because voters don't like socialism, sees path for Trump",
+      "excerpt": "Republicans picked up House seats despite projections that Democrats would have a \"blue wave\" on Election Day because \"Americans don't like socialism,\" Rep. Jim Jordan, R-Ohio, told \"Fox & Friends Weekend.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp",
+      "publishedDateTime": "2020-11-07T10:22:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-senate-gop-declare-senate-is-last-line-of-defense-after-biden-harris-projected-win.md",
       "title": "Senate GOP declare \"Senate is last line of defense\" after Biden-Harris projected win",
       "excerpt": "With President-elect Joe Biden's projected electoral college victory, the nation's attention will now turn to the races which could determine the partisan balance of the Senate — and so determine whether Biden's agenda is implemented in his first term in office.",
@@ -63,7 +119,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-biden-win-sets-scene-for-storm-before-the-calm-idUSKBN27N0NT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -115,7 +171,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-urges-patience-unity-he-waits-rest-america/6201879002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -661,7 +717,7 @@
       "originalUrl": "https://www.usatoday.com/in-depth/graphics/2020/11/06/biden-growing-leads-key-states-closer-electoral-college-win/6191429002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1291,58 +1347,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-they-gonna-do-him-dirty-50-cent-says-donald-trump-is-going-to-jail.md",
-      "title": "'They Gonna Do Him Dirty': 50 Cent Says Donald Trump Is Going to Jail",
-      "excerpt": "\"You ever herd [sic] a president say stop counting the f**king votes. LOL SMH,\" the rapper tweeted on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
-      "originalUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1665432/50-cent-says-trumps-going-jail.jpg",
-          "width": 3256,
-          "height": 2163,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/50-cent-donald-trump-election-1545225?amp=1",
-      "publishedDateTime": "2020-11-05T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

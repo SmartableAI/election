@@ -131,6 +131,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
+    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala"
+    publishedDateTime: 2020-11-17T15:35:00Z
+    webUrl: "https://apnews.com/34d8a249e11b9114748b423e78e2a21d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "'She'll Look Like A Boss': Vice President-Elect Kamala Harris Inspires Young Girls"
     excerpt: "In her victory speech, Kamala Harris spoke directly to young girls, saying \"this is a country of possibilities.\" Girls who met Harris during the campaign say they're inspired by her as a pathbreaker."
     publishedDateTime: 2020-11-12T19:00:00Z
@@ -192,22 +206,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/soundbitesenator-kamala-harris-brands-the-response-to-the.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "'Kamala Pecan': Kentucky shop names ice cream after Harris"
-    excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris: Kamala Pecan."
-    publishedDateTime: 2020-11-17T13:44:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/17/sweet-on-kamala-kentucky-shop-names-ice-cream-afte/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://amp.spot.im/loader.png"
-        width: 375
-        height: 815
         isCached: true
   - title: "‘Kamala Pecan’: Kentucky shop names ice cream after Harris"
     excerpt: "A Kentucky ice cream parlor known for naming its treats after people in the news has introduced a flavor named after Vice President-elect Kamala Harris."

@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden's win in Georgia reaffirmed after recount"
-    excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
-    publishedDateTime: 2020-11-20T01:28:00Z
-    webUrl: "https://www.cbsnews.com/news/bidens-win-in-georgia-reaffirmed-after-recount/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/06/ee03f2d0-a208-482b-a218-258f99734fc8/thumbnail/1200x630/5c1c42c68fc76852f130a31cf6864aaa/cbsn-fusion-georgia-secretary-of-state-says-they-will-head-to-a-recount-thumbnail-582579-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fWp14yEXP+n5gLZF3eU6F5A2ToUI/XFH79E7LLI0WofSBv0ZZB4OQxbpg6/+Pndp5PXBQWgYVJQfy9MetIY4eXQUlEkMBKwZgbgYnlomnQH1uzg8gGzrBpFNZJPHtIlG3E6P2Au7sD6sCfZTpr59oyfvtlDTPSmSuQc0QgiZ0lJkGmIvKCLPFYtpN4aFa43tUV8mxJz2akLUaKDsoGP0H7CKq2e8mGL26ALDDstPKdH/0WS77hrU+gO0S57M09A3TUDcjzlMeQ92cWqzNSBB60zYOLxHqufGM0Tc/ZMYjBXK+cIP5OgMJazLv4SSWLfeKjA1Wgxw9ULIs0/KtIYkUmYXzG3qrKFVey0RrB6+Ii4=;Ulmi+qY6iEaMQ3xrQlgX9Q=="
 ---

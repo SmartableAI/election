@@ -25,20 +25,60 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
-    excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
-    publishedDateTime: 2020-11-03T22:50:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
+  - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
+    excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
+    publishedDateTime: 2020-11-17T02:57:00Z
+    webUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
-    quality: 68
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/15/05/14/20206348/3/rawImage.jpg"
-        width: 2048
-        height: 1337
+      - url: "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
+  - title: "Mike Pence visit to Georgia today | Everything you need to know"
+    excerpt: "Vice President Mike Pence is traveling to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage."
+    publishedDateTime: 2020-11-20T14:29:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
+    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
+    publishedDateTime: 2020-11-20T20:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs | Raleigh News & Observer"
+    excerpt: "CANTON, Ga. Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
+    publishedDateTime: 2020-11-20T16:21:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article247316979.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 50
 
 secured: "rdspt9KvnyJrbVrdrK2WpqKAgXsNiBf5qoyg6uIMjjN+iJcGDCRMIAJnWpyxdSAJK2PQHujq0464eCOIf3V5EgecXjUKypgknYq9/K5tylJI3UeUjQrdVR+cuHFtu36znyVm2QNUcJ+tvToCUyXNKD3PcdjsY7nn12OVaereaWwKp3bIfIyzEcnN/cyxz1Y8EbvJaeFZ1dotzmqqAE8XQuGUi9W4Ck8XoFYufZSdZhdZAtkrEx2UrRsubuactjg9aJqFKUOpd6nJkZzvKqyKjstps5d+uQ2SKTDYYbz6KR41V4FPhD5tGJoKvSDw4qIc8OyIkz0rqrB7LGJ4LuQDG6lukzROrV/8ac4+pDRW75o=;owvQWeTiiVc4E+WytVBQmw=="
 ---

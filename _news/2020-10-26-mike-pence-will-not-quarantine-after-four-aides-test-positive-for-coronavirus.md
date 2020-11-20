@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 690
         isCached: true
+  - title: "Trump to appear at virtual G-20 as coronavirus ravages the globe"
+    excerpt: "After days of noncommittal silence, the White House finally confirmed late Friday afternoon — less than 24 hours before the global summit’s scheduled start — that President Trump would participate. It’s just the latest reminder that during this once-in-a-century health and economic emergency,"
+    publishedDateTime: 2020-11-20T22:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/20/g20-2020-trump-coronavirus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PRL5GWBHRQI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
     excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
     publishedDateTime: 2020-10-23T21:54:00Z

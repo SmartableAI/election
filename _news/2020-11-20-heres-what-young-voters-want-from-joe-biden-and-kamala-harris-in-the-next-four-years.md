@@ -447,6 +447,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
+    excerpt: "South Carolina Sen. Lindsey Graham, who has repeated unsubstantiated claims of widespread voter fraud in the 2020 presidential election, caused a minor stir Tuesday after he was filmed fist-bumping Vice President-elect Kamala Harris on the Senate floor ..."
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://www.chron.com/lavoz/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris: States will get help to fight coronavirus"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris held a press briefing in Wilmington, Delaware, on Thursday, saying governors will get the help they need to overcome the coronavirus pandemic."
     publishedDateTime: 2020-11-20T00:35:00Z
@@ -484,6 +498,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "aWWhRcyTD7OUYgP8A/lP9WH72a0ASKbiGfVfrW4BPF3CsGGc2cuTAkBV8+LbB24K+FUwTN5UJRvI+e6dEsJN34jux6+q4vBxBJqlY92/b2PbOeDwwSxm1KKXjthxPw/nG71G/+ISiyIoxChtgMYiAlnhehkXIIKSoc0evrmQh2qIqhAZ5F8SrK3vrF2pjKVBjufSk7wBd8d5HKPTSyetxnHJyZ3OABFQrZLfLQeWB9MGbZnsQIDo2RP6NLldsVwNzSVnrvdV3Ql28NaGP2q+FhHordWUW2X33Qq3vRSeLLaqqqc/+HFUP4Q6wJPi7UQ1pE7n3kNtPXaFqjVraw9rmAeKNGOHDvoLld+fZ55Mbl4=;lbKMHemjrCpD1PS9GOFt7w=="
+secured: "BS8zBf12ImJhsoUmVx0b6bQT4svtgisTCbe56Ms5jNbRHGiaNPK4eaTPiftmnNnyAIuU3D8qcMcPAiD30ZCGkOBSBFaKvfYXJdc9/BDgSwL8uQFp/x4fTgrNAndukEBL72eJ+MOUJ8AQ0vn7RNTCbYrAnQAa71yrJbygxP359VxkFzWgOHRf9hUsKc18ltFWMb4j7LS09TjOl747kx909zDErrEtwvFN3dnd9LKL3AJg2F/nYqSQVF4yEkO7BrCXvzRfrfENZwqwrQfYkdfrUTr0SZaBzwRp0JI3018iul63mepGt0+v02UQQ/pGs9+RUeiJ9y1jZ/ueLnQ1x8mvaivOQz4KRGEJgZiiAbs7XobuOUgq2RqE+kN4CsxUJXt7L45Pbv9jpiNwo9vObTvAYfXkDwIkZORyMwMeVPxBkm+vMycqX4tCgA0lMwpd6Y++/1MSioE3M06ujXfXhjcJYqv8ZjsrTwANNmjFlowkRy0JK4OhF7FCwetHga2W+w3DCZzsxXGqxMuSda0cMOc7VQ==;Pg2V/IyI6xeVMLC1vjqvwQ=="
 ---
 
