@@ -27,35 +27,99 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison"
-    excerpt: "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in"
-    publishedDateTime: 2020-11-20T02:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
+  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
+    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
+    publishedDateTime: 2020-11-16T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump wasn’t just a rural phenomenon. Most of his supporters come from cities and suburbs."
+    excerpt: "Are rural Americans Trump voters? Yes, many of them. Trump voters outnumber voters who supported Joe Biden 2 to 1 in rural counties. But are all Trump voters rural? Absolutely not. Voters in rural America accounted for less than a fifth of all votes cast for him."
+    publishedDateTime: 2020-11-19T00:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTWKQIEDW4I6TNMF4NVRNJJRVI.jpg&w=1440"
+        width: 1439
+        height: 960
+        isCached: true
+  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
+    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
+    publishedDateTime: 2020-11-17T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 107
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541819456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UH"
-        width: 816
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
+        width: 817
         height: 545
         isCached: true
-  - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
-    excerpt: "Harris returned to the Senate for the first time since the election on Tuesday to vote \"no\" on President Donald Trump's nomination of Judy Shelton to the Federal Reserve Board of Governors, and Graham offered Harris a seemingly congratulatory fist bump and pat on the back on his way into the chamber."
-    publishedDateTime: 2020-11-18T17:49:00Z
-    webUrl: "https://www.chron.com/politics/article/Lindsey-Graham-Kamala-Harris-fist-bump-video-Trump-15736695.php"
+  - title: "Barack Obama on Trump: \"This is not normal\""
+    excerpt: "In his interview with CBS News' Gayle King, former President Barack Obama comments on Election 2020, and President Donald Trump's allegations, without evidence, that his election loss was due to fraud."
+    publishedDateTime: 2020-11-16T00:14:00Z
+    webUrl: "https://www.cbsnews.com/video/barack-obama-on-trump-this-is-not-normal/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://s.hdnux.com/photos/01/15/26/50/20277800/6/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/a95c601d-ee80-4f64-a4fb-a5f7e5d7ba46/thumbnail/1200x630/339301e5a15b8b557ecccc191db80c77/1115-sunmo-obama-normal-588504-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
+    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
+    publishedDateTime: 2020-11-16T16:39:00Z
+    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'"
+    excerpt: "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump."
+    publishedDateTime: 2020-11-12T15:57:00Z
+    webUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ZKYBVV4iG+ZqJv8KNcl2Kn0fiIEm68rE3H3MdU4G5cGqeP/pfAsLAu7VoayCehuqlroF8cvqh5pOJ1IdaTMadMVVb9DRj9oOlVkV2z1sS+YCqcnOjILJYzbw48wKuzGVWCLdg9w07/rb/I+7uNuIP5QtISPmr3wABHijgc+jETvXhlyNEuO+uoXV9/0NtllTWY38uMSpNCL6fPsgES2aJh+WeG3KmsZBDpjfUasSQb7AuHz+4UEXj9SxTdT4XumnYWGkZdC98PP/wWrs9TGTuj5/iMp8c8ZIXV0AwotkZ/Wml4JrOqh775k1LhrdVSLsrFd+zBBML8dKKGMKQLd6JWFDircX5/6TwAnrG9H71S8=;M9k4aUPWKrvm0APxOEfVNw=="

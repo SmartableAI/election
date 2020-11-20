@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beware Trump supporters: Kamala Harris and the Democrats have a list, and that's a fact"
-    excerpt: "The “quote” I posted concerning Kamala Harris may not have been accurate. But all these other comments are. And here’s something else that is entirely true, Sen. Harris’ silence."
-    publishedDateTime: 2020-11-14T18:02:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 82
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Lindsey Graham fist-bumps Kamala Harris, then has to explain himself"
     excerpt: "Harris returned to the Senate for the first time since the election on Tuesday to vote \"no\" on President Donald Trump's nomination of Judy Shelton to the Federal Reserve Board of Governors, and Graham offered Harris a seemingly congratulatory fist bump and pat on the back on his way into the chamber."
     publishedDateTime: 2020-11-18T17:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y306"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y306"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/ff8825f43985d6014cbeb12ed53fad87a858d14e/0_187_5614_3369/master/5614.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f201c487f62826b504bc6e4dc0187888"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden confirmed as Georgia winner after recount"
+    excerpt: "President-elect wins state’s 16 electoral college votes following hand recount of about 5 million votes"
+    publishedDateTime: 2020-11-20T14:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/joe-biden-president-georgia-recount"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/f06f74bf85b8c68d941a81d2102b9fd7585e3ca6/137_0_3240_1945/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfe85e788f145de25daa8dc865006fa"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Mike Pence to visit Georgia next week"
     excerpt: "Pence announced that he would visit Georgia on Twitter next week, though he did not provide specific details of when or where."

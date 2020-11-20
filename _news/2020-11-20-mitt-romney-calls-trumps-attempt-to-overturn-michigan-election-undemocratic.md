@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html"
 type: article
 quality: 186
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michigan House Speaker will meet with Trump on Friday, source says"
+    excerpt: "Michigan House Speaker Lee Chatfield is going to the White House today, a source familiar with the plans told CNN.\n    \n"
+    publishedDateTime: 2020-11-20T14:45:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78T6kZs8lzA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120093600-01-lee-chatfield-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Obama: Trump's fraud claims delegitimizing democracy"
     excerpt: "CNN's Wolf Blitzer speaks with Cindy McCain, widow of late Sen. John McCain, about President Donald Trump's refusal to concede to President-elect Joe Biden."
     publishedDateTime: 2020-11-13T00:39:00Z

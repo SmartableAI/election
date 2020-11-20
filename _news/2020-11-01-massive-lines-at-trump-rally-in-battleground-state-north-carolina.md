@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Lara Trump, Mark Meadows consider running for North Carolina Senate seat in 2022"
+    excerpt: "Trump campaign adviser Lara Trump and White House chief of staff Mark Meadows are both considering running for Senate in North Carolina after Sen. Richard Burr announced he would not seek reelection in 2022, Fox News has learned."
+    publishedDateTime: 2020-11-20T15:33:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fSQgFkM777Q/lara-trump-mark-meadows-north-carolina-senate-seat-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
     excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."

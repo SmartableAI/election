@@ -2,6 +2,452 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-20-debate-commission-says-it-will-mute-trump-biden-while-opponent-talks.md",
+      "title": "Debate commission says it will mute Trump, Biden while opponent talks",
+      "excerpt": "The Commission on Presidential Debates (CPD) will mute President Trump and former Vice President Joe Biden during the two-minute response times allotted to their opponents for commenting on topics during Thursday's debate in Nashville.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWFsn9AP8iU/debate-commission-mute-rules-trump-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWFsn9AP8iU/debate-commission-mute-rules-trump-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1690,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp",
+      "publishedDateTime": "2020-10-19T17:04:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.md",
+      "title": "Trump slams Cuomo over 'apology tour' as NY governor warns public should be 'skeptical' of COVID vaccine",
+      "excerpt": "President Donald Trump on Monday slammed New York Gov. Andrew Cuomo for taking a so-called “apology tour” to promote his book on leadership while the coronavirus pandemic is still raging and crime has been steadily increasing this year. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pk3ZwRzgT2A/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pk3ZwRzgT2A/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289680956035.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp",
+      "publishedDateTime": "2020-10-19T16:06:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-the-point-why-is-donald-trump-talking-so-much-about-losing.md",
+      "title": "The Point: Why is Donald Trump talking so much about losing?",
+      "excerpt": "In recent days, President Donald Trump has started to openly speculate about what he might do if he loses in 15 days to former Vice President Joe Biden.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMK_-TnB_sQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMK_-TnB_sQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/is-trump-going-to-lose/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/is-trump-going-to-lose/index.html",
+      "publishedDateTime": "2020-10-19T15:32:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-demi-lovatos-new-song-commander-in-chief-lets-trumps-enablers-off-too-easy.md",
+      "title": "Demi Lovato's new song 'Commander In Chief' lets Trump's enablers off too easy",
+      "excerpt": "Though “Commander in Chief” is a valiant and valid entry into America's protest music canon, it lets everyone but Trump off the hook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/demi-lovato-s-new-song-commander-chief-lets-trump-s-ncna1243929",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_43/3421333/201019-demi-lovato-bbma-ew-421p_2cf653fb217f5a628908233be7d9b23f.jpg",
+          "width": 2500,
+          "height": 1642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1243929",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243929",
+      "publishedDateTime": "2020-10-19T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-hits-whatever-in-his-long-covid-retreat.md",
+      "title": "Trump hits ‘whatever’ in his long COVID retreat",
+      "excerpt": "Trump has the “whatever, leave us alone” voters squarely on his side, but what about other voters?",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
+      "publishedDateTime": "2020-10-19T15:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-woman-claims-facebook-took-down-her-account-after-posting-about-her-assault-at-pro-trump-rally-in-dc.md",
+      "title": "Woman claims Facebook took down her account after posting about her assault at pro-Trump rally in DC",
+      "excerpt": "A woman who marched at a pro-Trump rally in Washington, D.C., claims Facebook took down her entire account after she posted about being assaulted by Women’s March and Black Lives Matter activists.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20d0d0f3-f762-45c6-8015-044669faf65b/1549804e-c8c7-4081-9827-8306eff4d69b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
+      "publishedDateTime": "2020-10-19T14:48:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-biden-campaign-removing-retired-general-from-ad-after-his-complaint.md",
+      "title": "Biden campaign removing retired general from ad after his complaint",
+      "excerpt": "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint",
+      "originalUrl": "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp",
+      "publishedDateTime": "2020-10-19T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-why-vice-president-pence-was-in-northern-maine-on-monday.md",
+      "title": "Why Vice President Pence was in northern Maine on Monday",
+      "excerpt": "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/blFNlmWHj6s/vice-president-pence-northern-maine-monday",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/blFNlmWHj6s/vice-president-pence-northern-maine-monday",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293689833377.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-pence-northern-maine-monday.amp",
+      "publishedDateTime": "2020-10-19T14:24:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother.md",
       "title": "Report: Shots Fired at Congressional Candidate Jeannine Lee Lake, Who’s Running Against VP Mike Pence’s Brother",
       "excerpt": "Jeannine Lee Lake, the Black woman running against VP Mike Pence's brother, says she was the target of racist threats and gunfire.",
@@ -860,408 +1306,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-report-vice-president-mike-pence-to-visit-tallahassee-on-saturday.md",
-      "title": "Report: Vice President Mike Pence to visit Tallahassee on Saturday",
-      "excerpt": "Pence 2020 campaign stop in Tallahassee this Saturday. The news came Friday morning from ABC News, which was on a media call",
-      "sourceUrl": null,
-      "webUrl": "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/",
-      "originalUrl": "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tallahassee.com/amp/3709719001",
-      "cdnAmpWebUrl": "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001",
-      "publishedDateTime": "2020-10-19T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tallahassee Democrat",
-        "domain": "tallahassee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-supreme-court-to-review-trumps-remain-in-mexico-policy.md",
-      "title": "Supreme Court to review Trump's 'Remain in Mexico' policy",
-      "excerpt": "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573",
-      "publishedDateTime": "2020-10-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-traveling-to-arizona-as-harris-stumps-in-florida.md",
-      "title": "Trump traveling to Arizona as Harris stumps in Florida",
-      "excerpt": "With the November election just a little over two weeks away, President Trump and the campaign of Democratic rival Joe Biden are heading to key swing states on Monday to make a final appeal to voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp",
-      "publishedDateTime": "2020-10-19T04:33:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump.md",
-      "title": "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump",
-      "excerpt": "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
-      "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
-      "publishedDateTime": "2020-10-19T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trumps-payments-to-farmers-hit-all-time-high-ahead-of-election.md",
-      "title": "Trump's payments to farmers hit all-time high ahead of election",
-      "excerpt": "U.S. President Donald Trump is assuring a bumper year for farmers as the Nov. 3 election approaches, with record government subsidies projected to make up more than a third of farm income in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-farmers-aid-idUSL1N2GT1C8",
-      "originalUrl": "https://www.reuters.com/article/usa-election-farmers-aid-idUSL1N2GT1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1900,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538019256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I0VH",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2741D4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2741D4",
-      "publishedDateTime": "2020-10-19T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-top-trump-administration-official-met-with-assad-regime-over-imprisoned-americans.md",
-      "title": "Top Trump administration official met with Assad regime over imprisoned Americans",
-      "excerpt": "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html",
-      "publishedDateTime": "2020-10-18T19:20:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-gives-offering-while-attending-church-services-in-las-vegas.md",
-      "title": "Trump gives offering while attending Church services in Las Vegas",
-      "excerpt": "As the collection was being taken up, Trump reached into his back pocket a pulled out a number of $20 bills, which he later deposited into a bucket that was being passed around.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
-      "publishedDateTime": "2020-10-18T17:06:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
-      "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
-      "excerpt": "GRAND RAPIDS, Mich. — Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
-      "sourceUrl": null,
-      "webUrl": "https://www.13newsnow.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "originalUrl": "https://www.13newsnow.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.13newsnow.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.13newsnow.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "cdnAmpWebUrl": "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
-      "publishedDateTime": "2020-10-18T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WVEC",
-        "domain": "13newsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

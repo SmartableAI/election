@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "GOP increasingly accepts Trump's defeat — but not in public"
-    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
-    publishedDateTime: 2020-11-19T15:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
+    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
+    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
+    publishedDateTime: 2020-11-13T15:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "RREdjaetkcxHCtNW3TMVtVxn545NnqHZeLRJ+LqHqtRp1idokgCduWmaMcfG3rFa09irtFTPxBfnL6W6WR26Am2GJFNrdmcwawWtMPF83IP1mWwunVFby8VKeXA76KK5HW8VP1p8MjgMpoPc4nn9gMnq3Z9EPQtLRxtsoDjrjRremc//DrIcqdIZ8THXz4Rq7jYBs/jBybdfjoKolDsEzlWYt5S+EMNFBgPlJvkkxjJp6tDZUl0WAtr8m8adUAs+p04qU5nsY6stUqHrVwYcJfnj3P4YnQuyUkNfIQZ8He5o1QF1GNvziNneDimJ26ps1j2e4pfIqj+SFqkONEBA3dWWEmnuMrtf1Yr+csMDrKkMtMDoDEhF2sixA5E4bQrMk4noSEAGMhjtoXOyFEytagsdzBIHd95Ld0Qs8or1QxX4Wtu0NQIeJLrXemqeLxdUb30RQl2hJji3t8VWApxf73IRe3qJAQYDW64xeabJLmy+HDGU6pdJFtEsGmSFirPnfQtEfG/j/HCm98qMjvDydg==;1GYTl9kvMotGZJViFky5aw=="

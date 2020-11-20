@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
-    excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
-    publishedDateTime: 2020-11-17T02:57:00Z
-    webUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-in-georgia-on-friday/85-d06cdb82-c9b0-4426-b7b0-d0d31ad7ab5d"
+  - title: "Vice President Mike Pence says GOP remains optimistic about reelection bid"
+    excerpt: "With just hours left for voters to cast their ballot, our sister station WXII in North Carolina did a one-on-one interview with Vice President Mike Pence and former South Bend, Indiana, mayor and former Democratic presidential candidate Pete Buttigieg."
+    publishedDateTime: 2020-11-03T22:50:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Vice-President-Mike-Pence-says-GOP-remains-15698647.php"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 75
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 68
     images:
-      - url: "https://media.khou.com/assets/WXIA/images/fae39ff4-1320-4789-8acc-8810b4f6567f/fae39ff4-1320-4789-8acc-8810b4f6567f_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s.hdnux.com/photos/01/15/05/14/20206348/3/rawImage.jpg"
+        width: 2048
+        height: 1337
         isCached: true
 
 secured: "rdspt9KvnyJrbVrdrK2WpqKAgXsNiBf5qoyg6uIMjjN+iJcGDCRMIAJnWpyxdSAJK2PQHujq0464eCOIf3V5EgecXjUKypgknYq9/K5tylJI3UeUjQrdVR+cuHFtu36znyVm2QNUcJ+tvToCUyXNKD3PcdjsY7nn12OVaereaWwKp3bIfIyzEcnN/cyxz1Y8EbvJaeFZ1dotzmqqAE8XQuGUi9W4Ck8XoFYufZSdZhdZAtkrEx2UrRsubuactjg9aJqFKUOpd6nJkZzvKqyKjstps5d+uQ2SKTDYYbz6KR41V4FPhD5tGJoKvSDw4qIc8OyIkz0rqrB7LGJ4LuQDG6lukzROrV/8ac4+pDRW75o=;owvQWeTiiVc4E+WytVBQmw=="

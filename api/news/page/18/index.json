@@ -2,6 +2,397 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-29-wsj-opinion-vote-for-joe-biden-seriously.md",
+      "title": "WSJ Opinion: Vote for Joe Biden? Seriously?",
+      "excerpt": "Joe Biden is Bernie Sanders in sheep’s clothing. Compared to the Democrats’ grim vision of America, President Trump is the optimist. Images: AFP/Ge",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "originalUrl": "https://www.wsj.com/video/series/wonder-land-henninger/wsj-opinion-vote-for-joe-biden-seriously/AEDF9C03-D181-4E55-AEBD-4FDB0ABC4987",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201028/102820opvidwonderland/102820opvidwonderland_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T17:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-says-miles-taylor-should-be-prosecuted-after-reveal-as-anonymous-administration-critic.md",
+      "title": "Trump says Miles Taylor 'should be prosecuted' after reveal as 'Anonymous' administration critic",
+      "excerpt": "President Trump called Wednesday night for former Department of Homeland Security chief of staff Miles Taylor to face prosecution after he revealed himself as “Anonymous,” the former senior administration official who authored a New York Times op-ed criticizing the presidency in 2018.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wfeou8M_b6E/trump-miles-taylor-prosecuted-anonymous-reveal",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wfeou8M_b6E/trump-miles-taylor-prosecuted-anonymous-reveal",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cb39650-9836-4a92-bd37-131f281931a1/b6d1095f-0a69-4927-bcd9-d064fdae3b93/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-miles-taylor-prosecuted-anonymous-reveal.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-miles-taylor-prosecuted-anonymous-reveal.amp",
+      "publishedDateTime": "2020-10-28T16:45:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ex-trump-campaign-aide-presidents-reelection-bid-is-working-against-free-speech-and-democracy.md",
+      "title": "Ex-Trump campaign aide: President's reelection bid is working against 'free speech and democracy'",
+      "excerpt": "A former Trump campaign official excoriated President Donald Trump's reelection bid Wednesday, insisting that his team has \"worked very much against free speech and democracy.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YK8LbzWUJQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4YK8LbzWUJQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 277,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028172941-jessica-denson-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/28/politics/jessica-denson-trump-campaign-aide-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/28/politics/jessica-denson-trump-campaign-aide-cnntv/index.html",
+      "publishedDateTime": "2020-10-28T16:45:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-white-houses-stephen-miller-warns-of-nationwide-catch-and-release-if-biden-is-elected.md",
+      "title": "White House’s Stephen Miller warns of ‘nationwide catch and release’ if Biden is elected",
+      "excerpt": "White House adviser Stephen Miller on Wednesday warned of a policy of “nationwide catch and release” if Democratic nominee Joe Biden is elected to the White House -- painting a stark contrast with the Trump administration’s stance on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DdvQtG7DGdQ/stephen-miller-nationwide-catch-and-release-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b530d401-035d-4417-afe9-6328f16ac9d0/c7bd7582-9739-4393-9db4-069bf0b51ebb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden.amp",
+      "publishedDateTime": "2020-10-28T14:46:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-ben-shapiro-calls-biden-a-gateway-drug-to-radicalism-not-a-return-to-normalcy.md",
+      "title": "Ben Shapiro calls Biden a 'gateway drug to radicalism', not a return to normalcy",
+      "excerpt": "Joe Biden has based his presidential campaign on a promise to restore \"normalcy\" if he unseats President Trump, but the former vice president will act as nothing more than \"a gateway drug to radicalism,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
+      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-biden-gateway-drug-radicalism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ceee29d0-c3c3-44ce-bfe5-fc7de7e56021/ace30db7-d411-4eb0-8ba1-fad27222a5e3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-anonymous-is-former-dhs-official-who-has-openly-opposed-trump.md",
+      "title": "\"Anonymous\" is former DHS official who has openly opposed Trump",
+      "excerpt": "The identity of a senior official in the Trump administration who wrote a New York Times op-ed about working against President Trump's \"worst inclinations\" has remained anonymous until now. The person who wrote the op-ed is Miles Taylor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
+      "originalUrl": "https://www.cbsnews.com/news/anonymous-trump-critic-revealed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/22/812459fd-84cf-4dbf-a7de-e8a43424a224/thumbnail/1200x630/12f84b52ee8edd82c120ff8a4d47dbdc/gettyimages-672492960-copy.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/anonymous-trump-critic-revealed/",
+      "publishedDateTime": "2020-10-28T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-doesnt-that-make-me-a-smart-guy-trump-defends-chicago-business-deals-after-nyt-report.md",
+      "title": "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report",
+      "excerpt": "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
+      "originalUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-chelsea-handler-says-50-cent-wasnt-serious-about-supporting-trump.md",
       "title": "Chelsea Handler says 50 Cent 'wasn't serious' about supporting Trump",
       "excerpt": "Comedian Chelsea Handler details a phone call she had with rapper 50 Cent on \"The View\" after he expressed support for Pres. Trump and then renounced it.",
@@ -956,361 +1347,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
-      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
-      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
-      "publishedDateTime": "2020-10-27T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-wife-of-supreme-court-justice-clarence-thomas-is-using-her-facebook-page-to-spread-misinformation-about-joe-biden.md",
-      "title": "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden",
-      "excerpt": "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-27T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-uses-outdated-thinking-in-attempt-to-woo-suburban-women-im-getting-your-husbands-back-to-work.md",
-      "title": "Trump uses outdated thinking in attempt to woo suburban women: I'm 'getting your husbands back to work'",
-      "excerpt": "President Donald Trump offered his latest appeal to suburban women Tuesday evening, promising to get their husbands \"back to work\" if he's reelected.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027152336-trump-lansing-mi-1027-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
-      "publishedDateTime": "2020-10-27T20:06:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-trump-lifts-tariffs-on-canadian-aluminum-warns-he-may-resume-them.md",
-      "title": "Trump lifts tariffs on Canadian aluminum, warns he may resume them",
-      "excerpt": "U.S. President Donald Trump issued a proclamation on Tuesday formally removing tariffs on raw aluminum imports from Canada but threatening to reinstate them if there was a surge in imports of the metal across the northern U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539024638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1SE",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27C2TA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA",
-      "publishedDateTime": "2020-10-27T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-squad-member-ayanna-pressley-to-stump-for-biden-in-new-hampshire.md",
-      "title": "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire",
-      "excerpt": "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T16:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
-      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
-      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
-          "width": 896,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
-      "publishedDateTime": "2020-10-27T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
-      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
-      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
-      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
-      "publishedDateTime": "2020-10-27T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

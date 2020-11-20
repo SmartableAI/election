@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Here’s Why Trump And Cuomo Are Feuding Over A Coronavirus Vaccine"
+    excerpt: "Trump threatened to withhold a vaccine from New York after Cuomo repeatedly declared Trump's distribution plan and safety measures inadequate."
+    publishedDateTime: 2020-11-14T20:08:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/11/14/heres-why-trump-and-cuomo-are-feuding-over-a-coronavirus-vaccine/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb0383d7d6d2fcf305dc324%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5950%26cropY1%3D57%26cropY2%3D3479"
+        width: 1200
+        height: 690
+        isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
     publishedDateTime: 2020-10-25T19:24:00Z
@@ -92,6 +108,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump says coronavirus vaccines may be approved by year's end"
+    excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
+    publishedDateTime: 2020-11-14T00:09:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-says-coronavirus-vaccines-may-be-approved-by-years-end/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/13/e3c98bf0-6b23-4f19-86df-04f641f2dee2/thumbnail/1200x630/910ad882516943167431f634b5b1cdb3/cbsn-fusion-trump-says-coronavirus-vaccines-may-be-approved-by-years-end-thumbnail-587778-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
     excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."

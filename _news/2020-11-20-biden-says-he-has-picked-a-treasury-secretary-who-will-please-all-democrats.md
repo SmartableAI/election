@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
+    excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
+    publishedDateTime: 2020-11-20T14:24:00Z
+    webUrl: "https://www.cbsnews.com/video/doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "89Gd//T5/lNmWsQOW0iw/KGzcIa+mJrQWcXVMhDPVHeS2tzJUwN9C5RPKXJMgC64nFFEu80KbMtwg2r1Fg+X2+5MJA4cKis3EMKgRVOYKiBTt3DCZMAVKF1L8GZ90AlVrL0lwr/dbHqzTM5Z9bahbhU82JyAL0UMSSI/LG1IexPEzgVK8hChpIJiIv/1rDUY1b3ID/dJVLxMIdcNyV3JvRBfMxEn/r++6cgVtlQPigoYthjplFxcCHiXcG16GwESI5jfzDmxzHSmeyn2CIA2fi6xtkgER9LheiS1JWvLOiHvf9B5iPrlERyCf45dvb9N7W8o94qBGrOvzxLsMlYI7VVbJmB4qvPIRVoST4Y3daw=;d1t9XIU5UgbyDsETAXt/2Q=="
 ---

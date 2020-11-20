@@ -591,6 +591,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Courts State Lawmakers Amid Effort to Block Biden Win"
+    excerpt: "The president planned to meet Friday with two Michigan lawmakers as he continued to challenge President-elect Joe Biden’s victory, while his efforts to block several critical states from certifying Biden wins drew criticism from some fellow Republicans."
+    publishedDateTime: 2020-11-20T16:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-262801/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z

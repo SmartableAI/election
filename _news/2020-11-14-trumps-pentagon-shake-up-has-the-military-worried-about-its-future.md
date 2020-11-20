@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-ch
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 445
+published: true
 
 provider:
   name: Business Insider
@@ -31,165 +31,255 @@ images:
     isCached: true
 
 related:
-  - title: "Trump bans U.S. investments in firms linked to Chinese military"
-    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-    publishedDateTime: 2020-11-13T12:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
+  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
+    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
+    publishedDateTime: 2020-11-16T15:54:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
+    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
+    publishedDateTime: 2020-11-16T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
         width: 817
         height: 545
         isCached: true
-  - title: "Donald Trump wins North Carolina"
-    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-14T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Trump hints at primary challenge for DeWine in tweet"
-    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
-    publishedDateTime: 2020-11-16T23:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Note: Trump, GOP test limits as legal walls close in"
-    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
-    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Criminal probe, legal fights await Trump after White House"
-    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
-    publishedDateTime: 2020-11-20T06:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
-    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
-    publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 107
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
-    excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
-    publishedDateTime: 2020-11-14T00:21:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOKWLERGBII6XJUIKKMK2XKYBI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
-    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
-    publishedDateTime: 2020-11-18T20:40:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
-    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
-    publishedDateTime: 2020-11-20T07:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
+    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
+    publishedDateTime: 2020-11-07T04:08:00Z
+    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 121
     images:
-      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Pentagon plans to withdraw troops from Afghanistan, Iraq in Trump's waning days"
+    excerpt: "The Pentagon announced plans to reduce troops levels to 2,500 in both Afghanistan and Iraq, leaving a residual force in both countries as President Donald Trump is scheduled to leave office."
+    publishedDateTime: 2020-11-17T20:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/17/u-s-cut-troop-levels-afghanistan-iraq-trumps-final-days/6327763002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6327763002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6327763002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/29/USAT/dd3e7453-b959-4466-88ba-9c246cdd69db-AFP_AFP_1MT4O4.JPG?auto=webp&crop=3999,2249,x1,y163&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
+    excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
+    publishedDateTime: 2020-11-12T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 995
+        isCached: true
+  - title: "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis"
+    excerpt: "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”"
+    publishedDateTime: 2020-11-10T20:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump orders the Pentagon to pull thousands of US troops out of Iraq and Afghanistan"
+    excerpt: "By Jan. 15, 2021, there will be 2,500 troops in Iraq and 2,500 in Afghanistan, a reduction of thousands of US military personnel."
+    publishedDateTime: 2020-11-17T19:45:00Z
+    webUrl: "https://www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5bfeb3dada27f853f1481fa6?width=1200&format=jpeg"
+        width: 840
+        height: 420
+        isCached: true
+  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
+    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
+    publishedDateTime: 2020-11-18T16:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
+    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
+    publishedDateTime: 2020-11-15T22:34:00Z
+    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
+    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
+    publishedDateTime: 2020-11-10T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
+    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
+    publishedDateTime: 2020-11-10T17:28:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T10:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
+    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
+    publishedDateTime: 2020-11-10T20:49:00Z
+    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
+        width: 924
+        height: 462
+        isCached: true
+  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
+    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 96
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
+        width: 6720
+        height: 4480
         isCached: true
 
 secured: "7b1iJdfupD2ov3Uw3k2XgphkdCYxkLEgl64Zl+vapXwn54TBnw1kSJiZ87ddsxB/kRBl2wh08lcJMkjSQnPjJV+lBqstQbNlqHn2Vnj6rVkyYPPr2wZrzxpxfdhTvguUopRaxNPt3ruJBhxSkpbfBA0FG1XZHWYzaOhSt0NRPwe0MjYtoXEhcQdGIdIEK3KLsCva9/STIUik6ebUka3w4WUOH9vxIzWak0pNNvPxsC1oSh1gyTHbsT7xSTnQ49x62Uf2kshB79l3vx9O3curhSggpw8Le8Xk51QNQyXAZvWIt1g7Q2j+wVq5m9tinhUw3d9ML6lMp9Tue1UtR8H2k9w80aRT9H3BLHH/t6uX1QQ=;lS/C/RhNfU1tUoy+2mQKHw=="

@@ -63,6 +63,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
     excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
     publishedDateTime: 2020-11-19T22:31:00Z

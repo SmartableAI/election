@@ -31,255 +31,262 @@ images:
     isCached: true
 
 related:
-  - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
-    excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
-    publishedDateTime: 2020-11-16T15:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/daily-202-trump-eggs-boos-that-previous-leaders-shushed/?outputType=amp"
+  - title: "Trump influence seen in deadlock of Michigan election board"
+    excerpt: "President Donald Trump's efforts to sow doubt about the election seem to have played a role in a move by two Michigan Republicans to block certification of election results from Detroit"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
-    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
-    publishedDateTime: 2020-11-16T20:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 959
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
-    excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
-    publishedDateTime: 2020-11-16T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-fed-shelton/update-1-trumps-fed-pick-shelton-draws-third-republican-no-idUSL1N2I22EO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2Q6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2Q6"
+  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
+    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
+    publishedDateTime: 2020-11-06T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1I1"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
         width: 817
         height: 545
         isCached: true
-  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
-    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
-    publishedDateTime: 2020-11-20T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+  - title: "Trump bans U.S. investments in firms linked to Chinese military"
+    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
+    publishedDateTime: 2020-11-13T12:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
+    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
-    excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
-    publishedDateTime: 2020-11-12T20:16:00Z
-    webUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/museums/national-army-museum-opens-fort-belvoir/2020/11/11/cd07ea06-2442-11eb-952e-0c475972cfc0_story.html?outputType=amp"
+  - title: "GOP increasingly accepts Trump's defeat — but not in public"
+    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
+    publishedDateTime: 2020-11-19T15:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How Trump tried to steal Michigan"
+    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
+    publishedDateTime: 2020-11-19T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump to meet Michigan lawmakers in bid to overturn electoral defeat"
+    excerpt: "President Donald Trump will meet with Republican leaders from Michigan at the White House on Friday as his campaign pursues an increasingly desperate bid to overturn the Nov. 3 election following a series of courtroom defeats."
+    publishedDateTime: 2020-11-20T15:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2800I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2800I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2800I5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541913916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ09J"
+        width: 746
+        height: 545
+        isCached: true
+  - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
+    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
+    publishedDateTime: 2020-11-19T19:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/dc081906-4689-4966-9229-50734c07c33f-AP_Biden_1.jpg?auto=webp&crop=1464,824,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Not credible': Michigan court ruling another legal setback for President Trump"
+    excerpt: "A Michigan judge has denied a petition to block the certification of the 2020 election results in the heavily Democratic county that is home to Detroit, another legal setback for the Trump campaign, which has similar cases in several states."
+    publishedDateTime: 2020-11-14T02:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/counting-ballots-michigan-ap-jt-201113_1605303384179_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
+    excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-19T18:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L7O4NDQMZEI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 995
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
-    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
-    publishedDateTime: 2020-11-18T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
+  - title: "Donald Trump mounts all-out assault on election result in Michigan"
+    excerpt: "President calls county officials in attempt to derail Biden victory and plans to fly Republican Michigan lawmakers to Washington"
+    publishedDateTime: 2020-11-19T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/trump-michigan-election-result-assault-challenge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb5f38c73d8f61cfde138203bde53d3ea79cb07c/0_7_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa6c55620d9571f51e996ad13e363ad"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump withdraws federal lawsuit in Michigan, citing Wayne County canvasser affidavits"
+    excerpt: "The Trump campaign inaccurately characterized the actions of the Wayne County Board of Canvassers in its rationale for withdrawing the federal lawsuit."
+    publishedDateTime: 2020-11-19T16:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-michigan-lawsuit-detroit-wayne-county-canvassers/3776829001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776829001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776829001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Daily 202: Trump allies more outraged than Democrats over his Afghanistan pullout"
-    excerpt: "The best indication yet that congressional Republicans accept Trump’s defeat in the election has been the flurry of statements decrying the Tuesday announcement by acting secretary of defense Chris Miller that the military will reduce troop numbers from about 5,"
-    publishedDateTime: 2020-11-18T16:11:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/daily-202-trump-allies-more-outraged-than-democrats-over-his-afghanistan-pullout/?outputType=amp"
+  - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
+    excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
+    publishedDateTime: 2020-11-14T23:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/ploy-flip-electors-trump-rejected-republican-leaders-4-key-states/6298966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6298966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6298966002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGOOVVBJB4I6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/PDTF/bb6e1ae0-d323-4fb5-affe-938c5d4faa75-AP20318849667174.jpg?auto=webp&crop=5703,3208,x0,y244&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 97
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
-    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
-    publishedDateTime: 2020-11-20T10:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+  - title: "President Trump and Vice President Pence Hold Rally in Traverse City, Michigan"
+    excerpt: "Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City, Michigan. President Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City,"
+    publishedDateTime: 2020-11-02T22:41:00Z
+    webUrl: "https://www.c-span.org/video/?477685-1/president-trump-vice-president-pence-speak-rally-traverse-city-michigan"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
-    excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
-    publishedDateTime: 2020-11-10T20:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/robeson-obama-trump-voters/2020/11/09/17b83d4e-2272-11eb-a381-7400aa2eda00_story.html?outputType=amp"
+      name: C-SPAN
+      domain: c-span.org
+    quality: 46
+  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
+    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
+    publishedDateTime: 2020-11-04T03:22:00Z
+    webUrl: "https://www.c-span.org/event/?477685/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E66MXIRC34I6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Trump pushes new environmental rollbacks on way out the door"
-    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
-    publishedDateTime: 2020-11-18T22:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "NY probes Trump consulting payments that reduced his taxes"
-    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
-    publishedDateTime: 2020-11-20T03:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
-    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
-    publishedDateTime: 2020-11-20T10:59:00Z
-    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
-    excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
-    publishedDateTime: 2020-11-10T20:49:00Z
-    webUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/supreme-court-may-uphold-obamacare-trump-initial-arguments-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/5faac023f7d1cb0019e3ad00?width=1200&format=jpeg"
-        width: 924
-        height: 462
-        isCached: true
-  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
-    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
-    publishedDateTime: 2020-11-19T10:51:00Z
-    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
-        width: 1064
-        height: 532
-        isCached: true
-  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
-    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
-    publishedDateTime: 2020-11-18T16:10:00Z
-    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 40
 
 secured: "dsnIbRgi12gAtW1WZScsyXAuoGar2qtvjFEzra34GQYerNj61H50jx9Tw3FM5mhu8+XdHwCc+4RlhARwSHmUOwy+ZeOtrr93Jv80BhPNUGbXkCLEbOvJjaqDI2kGouLIPUQ5dU/oq+gt0d254I3E1vvzRu6LsXGvOPw1kkFnVTUF230um25L1PQ1vu6AHlOnvP39r/RyqEiVMxegwuxbSZ/ez1LGTsUI0H0AmYVVHvInNcQSyZ1urUHLn48Rgc3TH3O5pgHHfnGzKEHa3u7RCs5+uzQSJ8dRK7dXZ5puwk1zBUoCydfUvexnkBysphhWRmwInwY/p2Dtq829F8Ef9oxdc32o6MzO0s73uDFuFeM=;Js4qAC4umA7jqyLFrp8gXw=="
 ---

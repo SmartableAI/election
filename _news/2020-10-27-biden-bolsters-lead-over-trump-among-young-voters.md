@@ -121,6 +121,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump targets Michigan as Biden remains winner in Georgia – live"
+    excerpt: "President’s legal efforts against election result continue as US records highest every daily Covid case rise"
+    publishedDateTime: 2020-11-20T14:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb79f608f08f62420f57bd5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/29a4e4bd1daecef4294e20fa128cc630dd8cd4f1/0_266_5017_3012/master/5017.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22a3bed55fd07aa1d42446132f5f062f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's vaccine team will not brief Biden administration: U.S senator"
     excerpt: "Officials from President Donald Trump's vaccine distribution effort have not briefed anyone on President-elect Joe Biden's transition team, and have no plans to do so, a Democratic U.S. senator said after a White House call Thursday."
     publishedDateTime: 2020-11-19T19:10:00Z
@@ -152,6 +168,54 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541805971&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1O3"
         width: 838
         height: 545
+        isCached: true
+  - title: "Mich. leaders head to DC as Trump bids to subvert election"
+    excerpt: "Two Michigan state legislators are headed to the White House as President Donald Trump makes an extraordinary and sure-to-be futile attempt to block Joe Biden’s victory in the battleground state and s"
+    publishedDateTime: 2020-11-20T16:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-allies-make-frantic-steps-overturn-biden-victory-74310896"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-allies-make-frantic-steps-overturn-biden-victory-74310896"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-allies-make-frantic-steps-overturn-biden-victory-74310896"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e9321667192f4220959d4271ab8f8e18_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Sen. Alexander: Trump admin should aid in Biden transition"
+    excerpt: "U.S. Sen. Lamar Alexander says the Trump administration should aid President-elect Joe Biden in his transition"
+    publishedDateTime: 2020-11-20T16:26:00Z
+    webUrl: "https://www.washingtonpost.com/health/sen-alexander-trump-admin-should-aid-in-biden-transition/2020/11/20/1e86ad52-2b4d-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/sen-alexander-trump-admin-should-aid-in-biden-transition/2020/11/20/1e86ad52-2b4d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/sen-alexander-trump-admin-should-aid-in-biden-transition/2020/11/20/1e86ad52-2b4d-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump targets Michigan as Biden remains winner in Georgia – live"
+    excerpt: "President’s legal efforts against election result continue as US records highest every daily Covid case rise"
+    publishedDateTime: 2020-11-20T16:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb7df718f08f7cc12bd8d78"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/29a4e4bd1daecef4294e20fa128cc630dd8cd4f1/0_266_5017_3012/master/5017.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22a3bed55fd07aa1d42446132f5f062f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
@@ -342,6 +406,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZA7KJLRH74I6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "'A study in contrasts': Unlike Biden, Trump had a 'fast and furious' transition four years ago"
+    excerpt: "Hundreds of Border Patrol emails obtained by ABC News offer a rare glimpse into just how far government agencies usually go to prepare for a new administration."
+    publishedDateTime: 2020-11-20T16:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/study-contrasts-unlike-biden-trump-fast-furious-transition/story?id=74299967"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/study-contrasts-unlike-biden-trump-fast-furious-transition/story?id=74299967"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/study-contrasts-unlike-biden-trump-fast-furious-transition/story?id=74299967"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-inauguration-gty-rc-201120_1605879928149_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump, still not conceding defeat, trumpets vaccine progress"
     excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
@@ -534,6 +614,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541831076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1ZK"
         width: 783
         height: 545
+        isCached: true
+  - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
+    excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
+    publishedDateTime: 2020-11-20T16:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-fired-or-resigned-since-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-fired-or-resigned-since-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-fired-or-resigned-since-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5fb57c6750e71a001155602f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump and Joe Biden will have mics muted during parts of final debate"
     excerpt: "President Trump and Joe Biden will have their mics muted during their opponent's two minutes of uninterrupted time at Thursday's debate. Sean Sullivan, a CBSN political contributor and national politics reporter for the Washington Post,"

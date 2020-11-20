@@ -29,69 +29,158 @@ images:
     isCached: true
 
 related:
-  - title: "Latino voters who fled dictatorships demand four more years for Trump"
-    excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
-    publishedDateTime: 2020-11-17T13:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/17/latino-trump-voters-fear-stolen-election-amid-fraud-conspiracies/6257746002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
+  - title: "Donald Trump wins North Carolina"
+    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-14T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Trump hints at primary challenge for DeWine in tweet"
+    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
+    publishedDateTime: 2020-11-16T23:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/15/USAT/a93122e0-6b9a-4924-a36e-05d72d17be1c-LatinosForTrump-Socialism.jpg?auto=webp&crop=5759,3240,x0,y384&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Criminal probe, legal fights await Trump after White House"
+    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
+    publishedDateTime: 2020-11-20T06:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
+    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
+    publishedDateTime: 2020-11-19T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
+    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
+    publishedDateTime: 2020-11-20T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 124
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
-    excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
-    publishedDateTime: 2020-11-12T14:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-elders-idUSKBN27S20C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S20C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S20C"
+  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
+    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
+    publishedDateTime: 2020-11-18T10:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540980986&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB177"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump lawyers suffer embarrassing rebukes from judges over voter fraud claims"
-    excerpt: "Over and over again over the past week, Trump's lawyers have been forced to account for their lack of evidence. It often hasn't gone well."
-    publishedDateTime: 2020-11-11T16:57:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/trump-lawyers-suffer-embarrassing-rebukes-judges-over-voter-fraud-claims/?outputType=amp"
+  - title: "Arlington National Cemetery canceled an event over virus concerns. Trump overrode them."
+    excerpt: "Wreaths Across America draws thousands of volunteers to Arlington National Cemetery every winter to place holiday wreaths at headstones."
+    publishedDateTime: 2020-11-18T04:30:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/11/17/trump-arlington-wreaths-across-america/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 122
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4X74IKWYGMI6NIHG2UBNM5I3ZA&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD3VEHRJDUI6XGYUVWDSCV7LZE.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 941
+        isCached: true
+  - title: "Trump pushes new environmental rollbacks on way out the door"
+    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
+    publishedDateTime: 2020-11-18T22:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "NY probes Trump consulting payments that reduced his taxes"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
+    publishedDateTime: 2020-11-20T03:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "51jkEjEix+6jGldK369SSbDZN/fkOW/LKeHj7+5mPcaq7NAvjd5HOu4vy53eSW6TWOYqhZY+vJ5bCZdgpZyRPgpmtXCcDO1cyOUHoYKj7u3xVGh2rb69xhjpuUikCfRc0WTeVzmDhr1dxzC/vO/ssPoosOSQRnOygwjG5O0dHXAXtNk66u20ObsAf0Y4lMwNT4qsjNAq1sDG2ipaSxHFx/Tix8z1q3yywQGifYrsj1UOVHwj2C6Mt9IrUR1Tcoy/KeclhnlB+C4qjr646YU7WMouoqjDeFAG9y1Hh3CixDca6ULSesg+ywa7tkNVdrZF2GVI+FKwDaY93Tf7Of5BZ9gkDnBmzuE1Zpteaj1+tebP73qEGmsalDTXffLOpfOw/IN1CcHGD5AKYdBjg4LLFgwVlijvxWW/wh0e/NAabW3IE/Krz+O6nhD0YrPnDKhiJ1+ng7xDu46BFZfTEgRCTekv+5sWZzGMDcEIw4qubu5jttlj6cS3/NjqUAswFSx8WdC28DMmhiVgip4hWE+wMg==;9XH/oiZKkpdE6pvr94l77g=="

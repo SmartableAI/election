@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
 type: article
 quality: 111
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump plans to share obituaries of dead people who he says voted, as he continues to push unproven voter fraud claims, Axios says"
-    excerpt: "The president has continued to make unsubstantiated claims of mass voter fraud, contesting the results of the election."
-    publishedDateTime: 2020-11-09T03:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-share-obits-of-dead-people-alleges-voter-fraud-axios-2020-11?amp"
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
+    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
+    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
+    publishedDateTime: 2020-11-19T12:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 96
+    quality: 93
     images:
-      - url: "https://i.insider.com/5fa8b66cf7d1cb0019e3a703?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
         width: 625
         height: 415
+        isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
     excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"

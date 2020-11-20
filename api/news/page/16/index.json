@@ -2,6 +2,373 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
+      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
+      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
+          "width": 1935,
+          "height": 1290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
+      "publishedDateTime": "2020-10-30T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-election-countdown-kamala-harris-stumping-saturday-what-about-trump.md",
+      "title": "Election Countdown: Kamala Harris stumping Saturday. What about Trump?",
+      "excerpt": "With four days to go until Nov. 3, polls seem to say one thing but do voter turnout numbers point to a different result?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/",
+      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/30/election-countdown-kamala-harris-stumping-saturday-what-trump/6082893002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/NPPP/0716bd2e-ed3b-4861-b40e-ae39e3712e3f-PBC_Early_Voting_Color_04.jpg?auto=webp&crop=4165,2343,x0,y239&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.palmbeachpost.com/amp/6082893002",
+      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6082893002",
+      "publishedDateTime": "2020-10-30T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-john-james-slams-michigan-senate-opponent-says-dems-freaking-out-as-biden-obama-storm-state.md",
+      "title": "John James slams Michigan Senate opponent, says Dems 'freaking out' as Biden, Obama storm state",
+      "excerpt": "Michigan Senate candidate John James reacts on 'Fox & Friends' to Joe Biden and former President Barack Obama campaigning in his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bncp6ts5Y5s/michigan-senate-campaign-republican-gop-john-james-biden-obama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-senate-campaign-republican-gop-john-james-biden-obama.amp",
+      "publishedDateTime": "2020-10-30T07:09:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-lil-wayne-met-with-trump-and-praised-the-presidents-plan-for-black-americans.md",
+      "title": "Lil Wayne met with Trump and praised the President's plan for Black Americans",
+      "excerpt": "Rapper Lil Wayne met with President Donald Trump to discuss the President's plan for Black Americans -- and apparently liked what he heard.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lOt6ZitcBDY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030071301-restricted-donald-trump-lil-wayne-1029-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/lil-wayne-trump-meeting-trnd/index.html",
+      "publishedDateTime": "2020-10-30T07:04:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-biden-attacks-trumps-covid-19-response-in-south-korean-op-ed-and-promises-principled-diplomacy-with-north-korea.md",
+      "title": "Biden attacks Trump's Covid-19 response in South Korean op-ed and promises 'principled diplomacy' with North Korea",
+      "excerpt": "Democratic presidential nominee Joe Biden attacked President Donald Trump's handling of the Covid-19 pandemic in an op-ed for a Korean media outlet Friday and promised to engage in \"principled diplomacy\" in pursuing the denuclearization of North Korea.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPq44UM84fU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPq44UM84fU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201028173658-01-biden-delaware-1028-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/30/politics/joe-biden-north-korea-trump-op-ed/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/30/politics/joe-biden-north-korea-trump-op-ed/index.html",
+      "publishedDateTime": "2020-10-30T06:01:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court.md",
+      "title": "Trump Threatens Supreme Court To Prevent ‘Ridiculous Win’ For Biden, Claims Dems Will Pack Court",
+      "excerpt": "In a flurry of tweets in the early hours of Friday Trump attacked Biden claiming he’ll destroy the Supreme Court",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/",
+      "originalUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9be814380371914e539a1e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D0%26cropY2%3D3077",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/10/30/trump-threatens-supreme-court-to-prevent-ridiculous-win-for-biden-claims-dems-will-pack-court/amp/",
+      "publishedDateTime": "2020-10-30T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-column-white-house-of-horrors-a-halloween-themed-poem-about-donald-trump.md",
+      "title": "Column: White House of Horrors: A Halloween-themed poem about Donald Trump",
+      "excerpt": "The latest TrumPoem, a rhyming account of the presidency of Donald J. Trump, loosely based on his words and acts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/j-XTbKD9PYU9tz4KDyqMTvFLhiQ=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/NZWX7L47I5C4LGNNJC3VIP5CPM.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/mary-schmich/ct-met-schmich-white-house-of-horrors-20201030-lw2brn5ihzfu5mkw6x56dfbyeu-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-pence-highlights-economic-recovery-report-at-nevada-rally.md",
       "title": "Pence highlights economic recovery report at Nevada rally",
       "excerpt": "RENO, Nev. (AP) — Vice President Mike Pence urged early in-person voting and highlighted reports of a partial economic recovery during a rally Thursday in Reno, hoping to drum up enthusiasm in Nevada in the final days before the election.",
@@ -430,7 +797,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -951,388 +1318,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor.md",
-      "title": "Trump Warns ‘Bad Things’ Will Happen To ‘Treasonous’ Ex-Official Miles Taylor",
-      "excerpt": "After calling for Taylor to be prosecuted for an anonymous 2018 op-ed, Trump extended his call to the New York Times for publishing it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/",
-      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b1494c59d60756a9e4345%2F0x0.jpg%3FcropX1%3D389%26cropX2%3D4500%26cropY1%3D620%26cropY2%3D2932",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/29/trump-warns-bad-things-will-happen-to-treasonous-ex-official-miles-taylor/amp/",
-      "publishedDateTime": "2020-10-29T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
-      "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
-      "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/257344f4-Pence.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
-      "publishedDateTime": "2020-10-29T11:38:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-biden-and-cunningham-hold-slim-leads-in-north-carolina-poll-finds.md",
-      "title": "Biden and Cunningham Hold Slim Leads in North Carolina, Poll Finds",
-      "excerpt": "Joe Biden and Cal Cunningham both led their Republican rivals by three points, a Times/Siena College survey found. Perhaps most notably, 64 percent of respondents said they had already voted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/28/us/-promo-1603923638541/-promo-1603923638541-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/29/us/politics/poll-north-carolina-biden-trump.amp.html",
-      "publishedDateTime": "2020-10-29T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-watch-joe-biden-holds-drive-in-rally-in-tampa-florida.md",
-      "title": "WATCH: Joe Biden holds drive-in rally in Tampa, Florida",
-      "excerpt": "Both nominees are now focusing on encouraging voters to turn out in person on Election Day, next Tuesday. More than 73 million Americans have already voted, either by absentee or by mail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-09T170355Z_1622682236_RC25FJ9G8NK1_RTRMADP_3_USA-ELECTION-BIDEN-1024x717.jpg",
-          "width": 1024,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-joe-biden-holds-drive-in-rally-in-tampa-florida",
-      "publishedDateTime": "2020-10-29T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-biden-dismisses-record-economic-growth-as-not-nearly-enough-to-dig-out-of-deep-recession.md",
-      "title": "Biden dismisses record economic growth as not 'nearly enough' to dig out of 'deep' recession",
-      "excerpt": "Democratic presidential nominee Joe Biden dismissed the U.S. economy's record-shattering growth as not \"nearly enough\" to get the country out of a \"deep hole\" on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303505056598.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
-      "publishedDateTime": "2020-10-29T09:17:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
-      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
-      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
-      "publishedDateTime": "2020-10-29T08:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-hackers-stole-23-million-from-trump-reelection-account-in-wisconsin.md",
-      "title": "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin",
-      "excerpt": "Hackers have taken $2.3 million from the Wisconsin Republican Party’s account supporting Trump’s reelection, the party’s chairman told The Associated Press on Thursday, a campaign disruption in the critical swing state less than a week from Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
-      "originalUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 780,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ad2feba488e31d7ba9182%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D282%26cropY2%3D3360",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/",
-      "publishedDateTime": "2020-10-29T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

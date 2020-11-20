@@ -2,6 +2,361 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-28-winnable-but-not-yet-won-why-joe-biden-and-mike-pence-are-both-headed-to-iowa-this-week.md",
+      "title": "Winnable but not yet won: Why Joe Biden and Mike Pence are both headed to Iowa this week",
+      "excerpt": "The pair of visits, as well as Trump's rally earlier this month, indicate that both campaigns see the state as winnable but not yet won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/27/biden-pence-both-head-iowa-underscoring-battleground-status/3754115001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NBCC/07831130-e474-4b4b-b229-60370625a964-IMG_0726.JPG?auto=webp&crop=6075,3418,x0,y95&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/3754115001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3754115001",
+      "publishedDateTime": "2020-10-27T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-the-wife-of-supreme-court-justice-clarence-thomas-is-using-her-facebook-page-to-spread-misinformation-about-joe-biden.md",
+      "title": "The wife of Supreme Court Justice Clarence Thomas is using her Facebook page to spread misinformation about Joe Biden",
+      "excerpt": "Longtime conservative activist Ginni Thomas, who often shares conspiracy theories, posted unsubstantiated claims alleging corruption by Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
+      "originalUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f98a2b769331a0011bc59db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/justice-thomas-wife-boosts-unsupported-claims-against-biden-2020-10?amp",
+      "publishedDateTime": "2020-10-27T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-uses-outdated-thinking-in-attempt-to-woo-suburban-women-im-getting-your-husbands-back-to-work.md",
+      "title": "Trump uses outdated thinking in attempt to woo suburban women: I'm 'getting your husbands back to work'",
+      "excerpt": "President Donald Trump offered his latest appeal to suburban women Tuesday evening, promising to get their husbands \"back to work\" if he's reelected.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CnejoqrBT7I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201027152336-trump-lansing-mi-1027-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/27/politics/trump-suburban-women-2020-election/index.html",
+      "publishedDateTime": "2020-10-27T20:06:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-trump-lifts-tariffs-on-canadian-aluminum-warns-he-may-resume-them.md",
+      "title": "Trump lifts tariffs on Canadian aluminum, warns he may resume them",
+      "excerpt": "U.S. President Donald Trump issued a proclamation on Tuesday formally removing tariffs on raw aluminum imports from Canada but threatening to reinstate them if there was a surge in imports of the metal across the northern U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-canada-aluminum-idINKBN27C2TA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201027&t=2&i=1539024638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9Q1SE",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN27C2TA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27C2TA",
+      "publishedDateTime": "2020-10-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-squad-member-ayanna-pressley-to-stump-for-biden-in-new-hampshire.md",
+      "title": "'Squad' member Ayanna Pressley to stump for Biden in New Hampshire",
+      "excerpt": "Rep. Ayanna Pressley, D-Mass., will stump in New Hampshire Thursday for Joe Biden, making her the first “Squad” member to officially campaign for the Democratic nominee. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xxTXxMo8zEk/squad-member-ayanna-pressley-biden-new-hampshire",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/ayanna.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T16:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-livestream-trump-holds-tuesday-rally-in-michigan.md",
+      "title": "Livestream: Trump Holds Tuesday Rally In Michigan",
+      "excerpt": "President Donald Trump will make a stop in Michigan on Tuesday, his first to the Lansing area since taking office in 2016. Trump is scheduled to speak at 1 p.m local time at the Capital Region International Airport in Lansing.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
+      "originalUrl": "https://patch.com/michigan/across-mi/livestream-trump-holds-tuesday-rally-michigan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/566479/20201027/013957/styles/patch_image/public/gettyimages-1229304833___27133938792.jpg?width=984",
+          "width": 896,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/across-mi/amp/29045197/michigan-supporters-brave-rain-near-freezing-cold-to-see-trump",
+      "publishedDateTime": "2020-10-27T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-does-russia-china-north-korea-want-trump-to-win-the-election-what-trump-said-about-putin-xi-kim-jong-un.md",
+      "title": "Does Russia, China, North Korea Want Trump To Win The Election? What Trump Said About Putin, Xi, Kim Jong Un",
+      "excerpt": "President Donald Trump said North Korean leader Kim Jong Un, Russian President Vladimir Putin and Chinese leader Xi Jinping would prefer him to be reelected over Joe Biden, calling them \"sharp as a tack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "originalUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-holds-his-first-summit.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-russia-china-north-korea-want-trump-win-election-what-trump-said-about-putin-xi-3071052?amp=1",
+      "publishedDateTime": "2020-10-27T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-tony-bobulinski-tells-tucker-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie.md",
       "title": "Tony Bobulinski tells Tucker: Joe Biden denials of involvement in son's business 'a blatant lie'",
       "excerpt": "Tony Bobulinski, a former business associate of Hunter Biden, will tell \"Tucker Carlson Tonight\" in an exclusive interview Tuesday evening that Joe Biden's denials of knowledge or involvement in his son's foreign dealings are \"a blatant lie.\"",
@@ -972,393 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-stephen-colbert-mike-pence-is-americas-spare-tire.md",
-      "title": "Stephen Colbert: Mike Pence Is ‘America’s Spare Tire’",
-      "excerpt": "After the White House called the vice president an essential worker, Colbert said: “At best, he is vice essential. You want him in the trunk, but you hope to never have to use him.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 996,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/27/arts/television/late-night-mike-pence-stephen-colbert.amp.html",
-      "publishedDateTime": "2020-10-27T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-trump-admin-dismantles-firewall-for-editorial-independence-at-us-funded-media-outlets.md",
-      "title": "Trump admin dismantles 'firewall' for editorial independence at U.S.-funded media outlets",
-      "excerpt": "A senior U.S. official appointed by President Donald Trump has scrapped a federal regulation designed to protect the editorial independence of Voice of America and other U.S.-funded media outlets, amid accusations he is undermining the journalistic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/trump-admin-dismantles-firewall-editorial-independence-u-s-funded-media-n1244885",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_25/3391302/200619-michael-pack-us-senate-ew-130p_018ee22d262c51378e6ba0ca49f89c27.jpg",
-          "width": 2500,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244885",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244885",
-      "publishedDateTime": "2020-10-27T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-election-2020-both-trump-and-biden-campaign-in-battleground-pennsylvania.md",
-      "title": "Election 2020: Both Trump and Biden campaign in battleground Pennsylvania",
-      "excerpt": "President Donald Trump and former Vice President Joe Biden are racing toward Nov. 3 with more campaign events Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 5234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-02-gty-jef-201026_1603744290053_hpMain_16x9_1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987",
-      "publishedDateTime": "2020-10-26T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-biden-raises-idea-of-rotating-supreme-court-justices-there-is-some-literature-among-constitutional-scholars.md",
-      "title": "Biden raises idea of rotating Supreme Court justices: 'There is some literature among constitutional scholars'",
-      "excerpt": "Former Vice President Joe Biden indicated on Monday that he might be open to shifting Supreme Court justices to lower courts if elected president, noting that he hadn't made any \"judgement\" yet on the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDCqOYQ83Q8/joe-biden-move-justices-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDCqOYQ83Q8/joe-biden-move-justices-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/519936dc-0d88-4970-8258-a93781b63bc6/e6a4677f-3ae0-4a10-8e62-055e120dd108/1280x720/match/image.jpg",
-          "width": 1079,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-move-justices-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-move-justices-supreme-court.amp",
-      "publishedDateTime": "2020-10-26T17:18:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-joe-biden-visiting-wisconsin-for-3rd-time-a-key-swing-state-hillary-clinton-lost-in-2016.md",
-      "title": "Joe Biden visiting Wisconsin for 3rd time, a key swing state Hillary Clinton lost in 2016",
-      "excerpt": "It's been over a month since Joe Biden has been to Wisconsin-- a key swing state that critics say Hillary Clinton lost because she didn't pour enough time or resources into it. But that will ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-event-04-rt-jef-201026_1603746299117_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-visiting-wisconsin-3rd-time-key-swing/story?id=73844601",
-      "publishedDateTime": "2020-10-26T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-civil-rights-attorney-leo-terrell-biden-has-done-nothing-for-black-community-other-than-insulting-them.md",
-      "title": "Civil rights attorney Leo Terrell: Biden has done nothing for Black community 'other than insulting' them",
-      "excerpt": "Civil rights attorney Leo Terrell rips 2020 Democratic nominee Joe Biden for his failure to address issues impacting the Black community during his 36-year career in the United States Senate on his new Fox Nation show \"Larry & Leo 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "originalUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbf6717b-c334-4068-a87d-aad633c8e263/15d85389-9135-4ac2-b213-64434dd48029/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/leo-terrell-fox-nation-biden-trump-black-america.amp",
-      "publishedDateTime": "2020-10-26T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kayleigh-mcenany-once-praised-biden-as-a-man-of-the-people-who-resonates-with-middle-class-over-tycoon-trump.md",
-      "title": "Kayleigh McEnany once praised Biden as a 'man of the people' who resonates with \"middle class\" over 'tycoon' Trump",
-      "excerpt": "Prior to becoming a prominent backer of Donald Trump, Kayleigh McEnany praised then-Vice President Joe Biden as \"funny and likable\" and a \"man of the people\" who resonates with \"middle class voters.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mOrqP6T-t5Q/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826211729-kayleigh-mcenany-rnc-august-26-2020-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/26/politics/kayleigh-mcenany-biden-2015/index.html",
-      "publishedDateTime": "2020-10-26T14:33:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

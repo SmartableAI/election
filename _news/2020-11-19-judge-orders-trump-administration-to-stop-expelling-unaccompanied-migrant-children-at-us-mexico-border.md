@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3771858001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3771858001"
 type: article
 quality: 109
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 100
+    images:
+      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
+    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
+    publishedDateTime: 2020-11-18T16:10:00Z
+    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
       - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
         width: 1200

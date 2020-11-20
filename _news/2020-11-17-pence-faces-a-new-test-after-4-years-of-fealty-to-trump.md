@@ -572,6 +572,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump fires a cybersecurity official who called the election ‘the most secure in American history.’"
+    excerpt: "President Trump on Tuesday night fired his administration’s most senior cybersecurity official responsible for securing the presidential election, Christopher Krebs, who had systematically disputed Mr."
+    publishedDateTime: 2020-11-20T14:20:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/us/politics/trump-fires-a-cybersecurity-official-who-called-the-election-the-most-secure-in-american-history.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/us/politics/trump-fires-a-cybersecurity-official-who-called-the-election-the-most-secure-in-american-history.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/trump-fires-a-cybersecurity-official-who-called-the-election-the-most-secure-in-american-history.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 136
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/17/us/politics/17transitions-brief-krebs/17transitions-brief-krebs-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Was Reagan a Precursor to Trump? A New Documentary Says Yes"
     excerpt: "The Reagans,” a new Showtime docu-series, presents Ronald Reagan as an early practitioner of dog-whistle politics. But some historians and journalists disagree with that position."
     publishedDateTime: 2020-11-11T21:47:00Z
@@ -795,6 +811,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/11/us/politics/11dc-military-sub1/11dc-military-sub1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump officials object, but school doors are closing across the country."
+    excerpt: "The Trump administration stressed its opposition on Thursday to closing schools as a means to combat the coronavirus, even as some of the largest districts in the United States were closing anew or postponed reopening."
+    publishedDateTime: 2020-11-20T15:50:00Z
+    webUrl: "https://www.nytimes.com/2020/11/20/world/trump-officials-object-but-school-doors-are-closing-across-the-country.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/20/world/trump-officials-object-but-school-doors-are-closing-across-the-country.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/20/world/trump-officials-object-but-school-doors-are-closing-across-the-country.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19virus-brief-schools/19virus-brief-schools-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump Administration, in Late Push, Moves to Sell Oil Rights in Arctic Refuge"
     excerpt: "The lease sales could occur just before Inauguration Day, leaving the administration of Joseph R. Biden Jr. to try to reverse them after the fact."

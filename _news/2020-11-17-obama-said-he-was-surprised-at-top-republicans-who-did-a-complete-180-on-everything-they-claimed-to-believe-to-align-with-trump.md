@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/obama-trump-top-republicans-complete
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
-    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
-    publishedDateTime: 2020-11-16T16:39:00Z
-    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
+    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
+    publishedDateTime: 2020-11-20T10:59:00Z
+    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 93
+    quality: 104
     images:
-      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

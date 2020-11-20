@@ -7,7 +7,7 @@ originalUrl: "https://www.realclearpolitics.com/video/2020/11/16/kamala_harris_l
 webUrl: "https://www.realclearpolitics.com/video/2020/11/16/kamala_harris_last_month_the_unemployment_rate_for_black_americans_was_almost_twice_the_rate_of_others.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\""
+    excerpt: "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country."
+    publishedDateTime: 2020-11-20T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/527628.jpg"
+        width: 1192
+        height: 894
+        isCached: true
   - title: "Kamala Harris: \"Last Month The Unemployment Rate For Black Americans Was Almost Twice The Rate Of Others\""
     excerpt: "Sen. Kamala Harris spoke about her priorities for the coming months of transition during a brief appearance Monday in Delaware: KAMALA HARRIS: Good afternoon. President-elect Biden and I just met with some of our nation's business and union leaders."
     publishedDateTime: 2020-11-19T07:23:00Z

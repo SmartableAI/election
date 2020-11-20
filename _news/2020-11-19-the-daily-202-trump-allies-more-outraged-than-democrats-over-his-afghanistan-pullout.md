@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's Pentagon shake-up has the military worried about its future"
+    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
+    publishedDateTime: 2020-11-13T16:10:00Z
+    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Daily 202: Trump eggs on boos that previous leaders shushed"
     excerpt: "I urge all Americans who supported me to join me in not just congratulating him but offering our next president our goodwill and earnest effort to find ways to come together.” Obama grew annoyed just before the election in 2016 when a crowd he was speaking to in North Carolina would not stop booing a Trump supporter who was heckling him."
     publishedDateTime: 2020-11-16T15:54:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JRT5ARHPAI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
-    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
-    publishedDateTime: 2020-11-16T20:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 959
         isCached: true
   - title: "UPDATE 1-Trump's Fed pick Shelton draws third Republican 'no'"
     excerpt: "A third senator said he would oppose Republican U.S. President Donald Trump’s controversial pick for the Federal Reserve, former economic adviser Judy Shelton, narrowing the margin of her support but likely not eliminating her chance at confirmation."
@@ -79,37 +79,53 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
-    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
-        width: 840
-        height: 545
-        isCached: true
-  - title: "Here’s how seriously you should take the Trump legal team’s conspiracy theories"
-    excerpt: "Powell, who serves as an attorney both for Trump and former national security adviser Michael Flynn, walked to the lectern, thanked Giuliani — and then went buckwild. “What we are really dealing with here and uncovering more by the day is the massive influence of communist money through Venezuela,"
-    publishedDateTime: 2020-11-20T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/19/heres-how-seriously-you-should-take-trump-legal-teams-conspiracy-theories/?outputType=amp"
+  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
+    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
+    publishedDateTime: 2020-11-11T22:45:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3TNIZBBKUII6XHBBHTCQDUEYD4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Bolsonaro abandons 'friend' Trump after 2020 election, says he's 'not the most important person in the world'"
+    excerpt: "Tthe Brazilian president has often been called the \"Trump of the Tropics,\" and even echoed the US president's attacks on \"fake news\" media."
+    publishedDateTime: 2020-11-07T04:08:00Z
+    webUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bolsonaro-trump-not-most-important-person-world-after-2020-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fa59ae81df1d50018219597?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pentagon plans to withdraw troops from Afghanistan, Iraq in Trump's waning days"
+    excerpt: "The Pentagon announced plans to reduce troops levels to 2,500 in both Afghanistan and Iraq, leaving a residual force in both countries as President Donald Trump is scheduled to leave office."
+    publishedDateTime: 2020-11-17T20:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/17/u-s-cut-troop-levels-afghanistan-iraq-trumps-final-days/6327763002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6327763002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6327763002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/29/USAT/dd3e7453-b959-4466-88ba-9c246cdd69db-AFP_AFP_1MT4O4.JPG?auto=webp&crop=3999,2249,x1,y163&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump has tried to coopt the Army. This new museum shows why that won’t be easy."
     excerpt: "Smart, clear and a little institutional, the museum at Fort Belvoir is a major addition to the cultural landscape."
@@ -127,53 +143,53 @@ related:
         width: 1440
         height: 995
         isCached: true
-  - title: "President Trump's defeat may give Supreme Court a rest from personal, policy lawsuits"
-    excerpt: "Many cases tied to Trump's policies or personal entanglements are likely to become moot or, at least, undeserving of the Supreme Court's attention."
-    publishedDateTime: 2020-11-18T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/18/donald-trumps-defeat-may-give-supreme-court-rest-his-suits/6309525002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309525002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309525002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/7f3606de-6b87-4e1a-9871-a1acc589c20c-AFP_AFP_8VC9RC.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "‘My faith is shaken’: The QAnon conspiracy theory faces a post-Trump identity crisis"
+    excerpt: "President Trump’s election loss and the week-long disappearance of their anonymous prophet have forced supporters of the baseless movement to rethink their beliefs: “Have we all been conned?”"
+    publishedDateTime: 2020-11-10T20:45:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/10/qanon-identity-crisis/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVN4DKQ75II6XLKTJQP5USMQPU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
-    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
-    publishedDateTime: 2020-11-20T10:58:00Z
-    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+  - title: "Trump orders the Pentagon to pull thousands of US troops out of Iraq and Afghanistan"
+    excerpt: "By Jan. 15, 2021, there will be 2,500 troops in Iraq and 2,500 in Afghanistan, a reduction of thousands of US military personnel."
+    publishedDateTime: 2020-11-17T19:45:00Z
+    webUrl: "https://www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dod-announces-withdrawal-of-thousands-of-troops-from-afghanistan-iraq-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 114
+    quality: 118
     images:
-      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5bfeb3dada27f853f1481fa6?width=1200&format=jpeg"
+        width: 840
+        height: 420
+        isCached: true
+  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
+    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
+    publishedDateTime: 2020-11-15T22:34:00Z
+    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Their county was once a bellwether. Now, these Obama-Trump voters wonder what the future holds."
     excerpt: "The disaffected Democrats of Robeson County thought they had again foretold the country's future. On election night, they gathered at a local pizza shop with big wigs from the Republican National Committee who came to this swing county in this swing state to divine the winner in the contest between President Trump and former vice president Joe Biden."
@@ -191,46 +207,49 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Trump pushes new environmental rollbacks on way out the door"
-    excerpt: "Down to its final weeks, the Trump administration is working to push through dozens of environmental rollbacks that could weaken century-old protections for migratory birds, expand Arctic drilling and hamstring future regulation of public health threats."
-    publishedDateTime: 2020-11-18T22:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pushes-new-environmental-rollbacks-on-way-out-the-door-2020-11?amp"
+  - title: "The Pentagon's top policy official resigned the day after Trump 'terminated' his defense secretary"
+    excerpt: "Under Secretary of Defense for Policy James Anderson had clashed with the White House over attempts to put controversial people at the Pentagon."
+    publishedDateTime: 2020-11-10T17:28:00Z
+    webUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pentagon-policy-chief-resigns-day-after-defense-secretary-was-fired-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "NY probes Trump consulting payments that reduced his taxes"
-    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump as part of an investigation into the president’s business dealings"
-    publishedDateTime: 2020-11-20T03:47:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/ny-probes-trump-consulting-payments-reduced-taxes-74310140"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
+    quality: 111
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_a53df9ec949e4e3a8d5462528a2cea53_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Republicans leaders privately described Trump as a political liability and said they faced losing Senate runoffs"
-    excerpt: "Republican Sens. David Perdue and Kelly Loeffler reportedly expressed concern about an anti-Trump vote in a call about runoff elections in Georgia."
-    publishedDateTime: 2020-11-20T10:59:00Z
-    webUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5fb3c253d980a12837167e3a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5faac361f7d1cb0019e3ad14?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T10:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Are there any other potential Trump firings?"
+    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "The US Supreme Court hinted that it may uphold Obamacare despite the Trump administration's latest effort to strike it down"
     excerpt: "Several conservative justices on the Supreme Court signaled this week that they may vote to uphold the Affordable Care Act."
@@ -248,37 +267,19 @@ related:
         width: 924
         height: 462
         isCached: true
-  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
-    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
-    publishedDateTime: 2020-11-19T10:51:00Z
-    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
+    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
+    publishedDateTime: 2020-11-07T17:51:00Z
+    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: Time
+      domain: time.com
+    quality: 96
     images:
-      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
-        width: 1064
-        height: 532
-        isCached: true
-  - title: "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone"
-    excerpt: "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic."
-    publishedDateTime: 2020-11-18T16:10:00Z
-    webUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/judge-orders-us-to-stop-expelling-children-who-cross-border-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/5fb546ef83df950018ac20df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
+        width: 6720
+        height: 4480
         isCached: true
 
 secured: "GjNuMQxOIgtZFHwHfNAVuIuGhw+QklwJzLYgU8xCJRYJZj25ahUxZK0h3x+akZCdMsuKuVdT9ERAMkj0OoQA5P1Pi+txO0Fw5bjNchz3yK8VsFHaahEhbx1UmGzqSfhpOsDVvaLrtEdXpcA7I8USV14+VXPuBYpexvZBo1G4p9TAaiVuRySbDa6Bu0iNqi8WLu3VtUIaV9euBeMeISUlH+2BOocrlklP6aO6X15Xs1LrbPnu39feI9ujvCBhmjFDNGp2US+5zxgHDSIuPr8x/9sWuICwpJu2OqDsZmQkoEQjJtZYEZxCqgLH5rl/N7XKijFgZyLnuqXDc0Vxye29e07QH4ppxqxBs7zctl0q/QY=;9aZfnKR4KGY0/3fFOdVYDA=="

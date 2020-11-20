@@ -63,6 +63,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's secret weapon to fight climate change without Senate support"
+    excerpt: "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday."
+    publishedDateTime: 2020-11-20T18:32:00Z
+    webUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fb7ff9532f2170011f70583?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
+    excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
+    publishedDateTime: 2020-11-20T16:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/biden-names-white-house-posts-directors-legislation-personnel/6354645002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6354645002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354645002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8GihioQ6Pa5aVT5jflOAzlzG769yO3CYQIVuwJ0SF/WMH8Cc5xKhHk9N3YL3nbvWyjT8nKISTOTiF2Vy2vGijxzClNsdA/e9A9FzkvNF3o0Iwhxv0Idtx+mgHKH4glGQkP5ysTM+5i1sTO8sK/Nn4w10c6grVi5EwwnT1T9C1xn1w7X5POSWVxyRbcn9HQfmAV9H4Z2EQlKcEbSQVh6qsZYvIziOIc903dlK6Ihha4b4hXxeGZYP10wB3nAz50TqrrzatCnVbFUb9/6lJwyCGADckxdfElDWKCwoAmeEH1MgdGG4snG5iBVOShieifxsXg2rrP5qlzeT03TfQZER9AXMiGReXlfzuMXEXorVb1hRT3Boz/htWcq//buXw6qnB6/zOKC0/dJcS3JmQZTA9GrEaXvO1iCDmnEhneXu0lFo4xYDA6u4em+EDQz9TWs0FfeNvC8y+NQlOdoyEJ7LrTKFfQsnbNmnpjmLPgfmVnsYwpminXXBYI4xRLRJSc5egtvzwvNd1J9yjVwrmorXmg==;dzLNDhvIyDsH/YhATk/MBA=="
 ---

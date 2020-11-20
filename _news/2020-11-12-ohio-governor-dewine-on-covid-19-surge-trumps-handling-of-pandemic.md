@@ -45,6 +45,22 @@ related:
         width: 742
         height: 545
         isCached: true
+  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
+    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
+    publishedDateTime: 2020-11-09T20:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump loyalists get top Pentagon jobs after Esper firing"
     excerpt: "Three staunch loyalists to the president have been named to top defense jobs just a day after President Donald Trump fired Defense Secretary Mark Esper"
     publishedDateTime: 2020-11-11T00:12:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/giroir-gawande-2-gty-rc-201114_1605388280642_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
+    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
+    publishedDateTime: 2020-11-09T23:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump threatens to withhold COVID-19 vaccine from New York in new feud with Governor Cuomo"
     excerpt: "In his first public comments in a week, Trump said the vaccine would not be available to residents of New York, accusing Cuomo, of playing politics."

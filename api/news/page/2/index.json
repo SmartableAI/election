@@ -2,6 +2,704 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-biden-says-federal-reserves-interest-rate-policy-has-been-positive.md",
+      "title": "Biden says Federal Reserve's interest rate policy has been 'positive'",
+      "excerpt": "U.S. President-elect Joe Biden on Thursday said he supports the way the Federal Reserve has managed interest rate policy and that he has selected a person to run the Treasury Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT",
+          "width": 825,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L",
+      "publishedDateTime": "2020-11-19T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.md",
+      "title": "NJ Dem congressman has called for Trump to be tried for 'crimes against the United States'",
+      "excerpt": "Staunch critic of President Trump, Rep. Bill Pascrell Jr., D-N.J., has called for Trump and members of his administration to be investigated and prosecuted once he leaves office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs5uS66SmPQ/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs5uS66SmPQ/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/249bb128-878a-46ae-956d-2c58c2a411ed/e4c8af7a-cb44-4294-a2ae-91f1fdc56e4b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
+      "publishedDateTime": "2020-11-19T18:28:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-breakingviews-cox-donald-trump-is-the-new-benjamin-harrison.md",
+      "title": "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison",
+      "excerpt": "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541819456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UH",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z343",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343",
+      "publishedDateTime": "2020-11-19T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-new-squad-member-suggests-biden-needs-to-pay-minority-communities-back-after-election-support.md",
+      "title": "New 'squad' member suggests Biden needs to pay minority communities back after election support",
+      "excerpt": "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
+      "publishedDateTime": "2020-11-19T18:22:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-paints-trump-as-reckless-as-pence-and-science-advisers-cheer-vaccine-news.md",
+      "title": "Biden paints Trump as reckless as Pence and science advisers cheer vaccine news",
+      "excerpt": "At dueling public events, the president-elect and the White House offered starkly different views of Trump’s pandemic response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1361,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUMXMZBKXAI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-19T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-pence-on-virus-us-has-never-been-more-prepared.md",
+      "title": "Pence on virus: US 'has never been more prepared'",
+      "excerpt": "Vice President Mike Pence offered an upbeat assessment of the coronavirus situation in the U.S., despite a surge in cases, hospitalizations and more than 250,000 deaths. He spoke at the first coronavirus task force briefing in months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/1b2d795c-256d-4fd7-9029-79fd5463556e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-trumps-refusal-to-concede-creates-strange-gap-between-biden-and-harris-on-classified-intelligence.md",
+      "title": "Trump's refusal to concede creates strange gap between Biden and Harris on classified intelligence",
+      "excerpt": "Vice President-elect Kamala Harris took part in a classified briefing of the Senate Intelligence Committee this week and emerged in a strange position -- being more informed about current threats than President-elect Joe Biden but bound by congressional rules to keep that information from him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 881,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116153545-05-biden-harris-economy-remarks-1116-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
+      "publishedDateTime": "2020-11-19T16:10:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-a-sign-of-americas-future-under-biden-this-transition-team-member-has-questioned-the-first-amendment.md",
+      "title": "A sign of America’s future under Biden? This transition team member has questioned the First Amendment",
+      "excerpt": "The leader of President-elect Joe Biden’s transition team for federal media outlets has, in the past, publicly endorsed both weakening the First Amendment and governments' use of propaganda on their own citizens.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Richard-Stengel-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp",
+      "publishedDateTime": "2020-11-19T15:53:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-pence-to-campaign-friday-in-georgia-runoffs-but-no-word-on-a-trump-trip.md",
+      "title": "Pence to campaign Friday in Georgia runoffs, but no word on a Trump trip",
+      "excerpt": "Vice President Mike Pence heads to Georgia on Friday, to campaign with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections. But there's no word on whether President Trump will head to Georgia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 439,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
+      "publishedDateTime": "2020-11-19T14:24:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-the-latest-pence-offers-positive-covid-19-assessment-in-us.md",
+      "title": "The Latest: Pence offers positive COVID-19 assessment in US",
+      "excerpt": "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "originalUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "publishedDateTime": "2020-11-19T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-faces-economic-redline.md",
+      "title": "Trump faces economic redline",
+      "excerpt": "When it comes to who’s-telling-whom, economic interests usually dictate political actions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-faces-economic-redline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp",
+      "publishedDateTime": "2020-11-19T13:53:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-donald-trump-called-monica-palmer-after-wayne-county-board-of-canvassers-meeting.md",
+      "title": "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting",
+      "excerpt": "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
+      "originalUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3776190001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001",
+      "publishedDateTime": "2020-11-19T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-giuliani-presses-trump-election-challenge-case-in-fiery-news-conference-with-legal-team.md",
+      "title": "Giuliani presses Trump election challenge case in fiery news conference with legal team",
+      "excerpt": "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp",
+      "publishedDateTime": "2020-11-19T10:31:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-washington-post-trump-spoke-to-gop-official-who-now-wants-to-rescind-vote-to-certify-detroits-results.md",
       "title": "Washington Post: Trump spoke to GOP official who now wants to 'rescind' vote to certify Detroit's results",
       "excerpt": "The two Republican members of the Wayne County Board of Canvassers want to \"rescind\" their votes to certify the presidential results from the county, the largest in Michigan and home to the city of Detroit, even though the board has already certified the results.\n    \n",
@@ -66,7 +764,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -110,21 +808,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-gop-increasingly-accepts-trumps-defeat-but-not-in-public.md",
-      "title": "GOP increasingly accepts Trump's defeat — but not in public",
-      "excerpt": "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump",
+      "path": "_news/2020-11-19-former-gsa-administrator-its-clear-we-should-recognize-biden-as-the-president-elect.md",
+      "title": "Former GSA administrator: 'It's clear' we should recognize Biden as the President-elect",
+      "excerpt": "The former head of the General Services Administration during the 2000 election said Thursday that he would ascertain the 2020 results and begin the formal transition to a Joe Biden presidency, which the current administrator has yet to do.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzxcA_bpRM0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzxcA_bpRM0/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201119081000-former-gsa-administrator-david-barram-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -132,16 +834,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903",
-      "publishedDateTime": "2020-11-19T07:40:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html",
+      "publishedDateTime": "2020-11-19T06:44:53-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,7 +860,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Democratic Voice"
       ]
     },
     {
@@ -216,58 +918,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-tweets-words-he-won-says-vote-rigged-not-conceding.md",
-      "title": "Trump tweets words 'he won'; says vote rigged, not conceding",
-      "excerpt": "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358",
-      "publishedDateTime": "2020-11-19T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -331,7 +981,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/18/judge-orders-us-stop-expelling-unaccompanied-migrant-children/3771858001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -491,7 +1141,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-georgia-raffensperger-idUSKBN27Y306",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -588,63 +1238,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-joe-biden-nurse-share-emotional-moment-during-virtual-roundtable.md",
-      "title": "Joe Biden, nurse share emotional moment during virtual roundtable",
-      "excerpt": "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn",
-      "publishedDateTime": "2020-11-18T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -753,617 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-americas-bellwethers-crumbled-in-aligning-with-trump-in-20.md",
-      "title": "America's bellwethers crumbled in aligning with Trump in '20",
-      "excerpt": "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253",
-      "publishedDateTime": "2020-11-18T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-biden-deputy-chief-of-staff-touted-mandatory-buybacks-of-assault-weapons.md",
-      "title": "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons",
-      "excerpt": "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Jen-OMalley-Dillon-is-the-Biden-Campaign-Manager-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
-      "publishedDateTime": "2020-11-18T16:56:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.md",
-      "title": "Pence spox debunks Huffington Post reporter who claimed VP, Karen Pence didn't wear masks at SpaceX launch",
-      "excerpt": "A spokesperson for Vice President Mike Pence shot down reporting from a Huffington Post journalist who reported that he and Second Lady Karen Pence did not wear masks at Sunday's visit to NASA's Kennedy Space Center. NASA has made its first operational ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
-      "originalUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8217561e-a887-4ebd-870b-46991c42ed85/8224b5b1-d79b-453c-ae86-3b548ec28b55/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
-      "publishedDateTime": "2020-11-18T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-biden-acknowledges-real-brick-walls-hell-face-in-senate-during-video-call-with-supporters.md",
-      "title": "Biden acknowledges 'real brick walls' he'll face in Senate during video call with supporters",
-      "excerpt": "President-elect Joe Biden acknowledged in a private video call with supporters on Wednesday that he will face \"real brick walls\" in the Senate if Republicans maintain their majority but said he thinks he can overcome the political divides that may exist.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201118140725-02-joe-biden-1116-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html",
-      "publishedDateTime": "2020-11-18T16:23:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-sen-kennedy-blasts-cuomo-complaints-about-trump-ego-compares-it-to-being-called-ugly-by-a-frog.md",
-      "title": "Sen. Kennedy blasts Cuomo complaints about Trump 'ego', compares it to 'being called ugly by a frog'",
-      "excerpt": "Democratic New York Gov. Andrew Cuomo is the last person with any standing to complain about President Trump's \"ego,\" Sen. John Kennedy, R-La., told \"Bill Hemmer Reports\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a8bea7e-b7bb-43d0-9979-72fc79aba59b/c7c22d1a-9df6-4d91-b452-22cc0ec50e1a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
-      "publishedDateTime": "2020-11-18T15:03:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-biden-warns-of-another-200k-dead-from-covid-by-inauguration.md",
-      "title": "Biden warns of another 200K dead from COVID by inauguration",
-      "excerpt": "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "publishedDateTime": "2020-11-18T14:33:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
-      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
-      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
-      "publishedDateTime": "2020-11-18T13:31:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
-      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
-      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
-      "publishedDateTime": "2020-11-18T13:18:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
-      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
-      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
-      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
-      "publishedDateTime": "2020-11-18T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
-      "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
-      "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18mccarthy-qa/18mccarthy-qa-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "publishedDateTime": "2020-11-18T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
-      "title": "Trump Fires Again, This Time a Cybersecurity Official",
-      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "publishedDateTime": "2020-11-18T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

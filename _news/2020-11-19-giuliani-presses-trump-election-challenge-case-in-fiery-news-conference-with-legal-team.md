@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-cha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
 type: article
 quality: 182
-heat: 262
+heat: 282
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
+    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
+    publishedDateTime: 2020-11-20T14:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Administration to Release New Rules Reducing Drug Costs"
     excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."

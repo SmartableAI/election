@@ -41,23 +41,7 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Beware Trump supporters: Kamala Harris and the Democrats have a list, and that's a fact"
-    excerpt: "The “quote” I posted concerning Kamala Harris may not have been accurate. But all these other comments are. And here’s something else that is entirely true, Sen. Harris’ silence."
-    publishedDateTime: 2020-11-14T18:02:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 82
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
-        isCached: true
 
-secured: "XJWQQMDSS3+yFyYCHLQZDpLS5t7qB4zBHFzTRC9EcLm47MwrwLHpSSIAl6Y2ho2L1QdC9avDXjXdlyBIfYqd0BaGIrhGYWCVX+RkPmqqBGjYXRmvglgAbgy2MGl75nYe9XwhRBa4XOGYlBmsUoJjeC0P0lfdbP4tKUUZsQmQ0jRHwElzSbphBuS0dzVbOBLV1rUBK0JJWh+Be5RkV0FtyPdHVhIDHGc5OZ8pDaYxqZnlw3a0wLiThcphWmuhGneJNc4FrRGYF77c+6BmdqipaSf68ClCNh3QZX5HyeGuUKEwZDogk5w0NygOh3RS9GY0SAJbvc8REG4q+hSgCRSE4qctIeEaiY0bK4vGfk6RgR8=;L20PrjzXRAVzUTIcwHPmdw=="
+secured: "dWwIfEtAmnqmj3feE3GJSCh+MbBC44qxFtNw4Ml/sWGLtqEBcBVhiHxQDanfe/Db0iK5aAY1T3lyWWEZz2r6dhgRvLIvd7cE0kca/ICDx485069GyMwTryFGmm0hH52anDMHNtwNpGXH731wHbJHs0WsEXztat74HMS1l7MrPVqgmXeYGthPEYoRP8OeqFe64vV331GccIgM8ezDlpdmi+Wpzxfj2ktBUaklN2qeMI5vNLuZRE8FFuORA963CIftnJNpK4cPI3fismSh4UbWNgnMIHwcNlr76Z7wnPfW/lWtR1g0e+OCL2okKdh32nJlj7X4WSij7ikBXFR1BFx8aIglajPC8Jon7v2Z6qacEoQ=;PAIOMJ9jF6RTdGqlBq7IjQ=="
 ---
 

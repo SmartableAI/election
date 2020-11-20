@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 136
+published: true
 
 provider:
   name: Business Insider
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tweets words 'he won'; says vote rigged, not conceding"
-    excerpt: "President Donald Trump has tweeted the words “he won” but later made clear he hadn’t changed his tune about Joe Biden getting more votes in the 2020 presidential election"
-    publishedDateTime: 2020-11-19T13:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
+  - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
+    excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
+    publishedDateTime: 2020-11-20T11:53:00Z
+    webUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5fb7a12450e71a0011556684?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "1h9oR2seSQXzO9PE9tuJgQO8GlhoTKl0WQWRV+9XorBam9kOvAG845rFc8hrkYkk3XNHPh+wtaKP5oJOt1mPNoNCOud2Pw/uRKTmCLZK4OE31Bxfw0JcgO5R3rs/IU3siqu4Or3gw+ATF0BqY753VAt2edXh0i6Hzeuiv77g6vn1yIRAcEHJ+pNszkn9F05ymkXGgJc9rFkPFJshFjmt8XKsjsfvty8G9iP5OPd/Dam3kG6/meKiM7xKJUWwH7gjACLbg8VqJ5t+puIJTrtho4MiGTX1PHHG9GkJJhmsIodtN+hovvyDZJ5KXfHJGqiOwH4w3PZzH2rmFujKf9uK8xGni8MggFPi19VJZvCB9po=;KPSPOcQeLgldG5xHxNRp2g=="

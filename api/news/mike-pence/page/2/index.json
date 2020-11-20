@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
+      "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
+      "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304053680963.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
+      "publishedDateTime": "2020-10-30T11:32:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams.md",
+      "title": "Pence To Hold Rallies In Flagstaff, Tucson On Friday: Livestreams",
+      "excerpt": "With four days to go until Election Day, Vice President Mike Pence returns to Arizona to rally support from voters.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "originalUrl": "https://patch.com/arizona/tucson/pence-hold-rallies-flagstaff-tucson-friday-livestreams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/566479/20201030/124208/styles/patch_image/public/gettyimages-1228965113___30124130047.jpg?width=984",
+          "width": 911,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/arizona/tucson/amp/29051924/pence-to-hold-rallies-in-flagstaff-tucson-on-friday-livestreams",
+      "publishedDateTime": "2020-10-30T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-pence-highlights-economic-recovery-report-at-nevada-rally.md",
       "title": "Pence highlights economic recovery report at Nevada rally",
       "excerpt": "RENO, Nev. (AP) — Vice President Mike Pence urged early in-person voting and highlighted reports of a partial economic recovery during a rally Thursday in Reno, hoping to drum up enthusiasm in Nevada in the final days before the election.",
@@ -343,6 +443,49 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday.md",
+      "title": "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday",
+      "excerpt": "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
+      "originalUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "cdnAmpWebUrl": "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true",
+      "publishedDateTime": "2020-10-26T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMJ4",
+        "domain": "tmj4.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1378,144 +1521,6 @@
       "provider": {
         "name": "Washington Times",
         "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
-      "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
-      "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3720360001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001",
-      "publishedDateTime": "2020-10-22T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh.md",
-      "title": "Vice President Mike Pence To Make Campaign Stop In Pittsburgh",
-      "excerpt": "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ...",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
-      "originalUrl": "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22920172/20201022/075313/styles/patch_image/public/gettyimages-1280045144___22074708591.jpg?width=984",
-          "width": 911,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh",
-      "publishedDateTime": "2020-10-22T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
-      "title": "Gallery: Pence visits the Granite State",
-      "excerpt": "Visit the post for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
-          "width": 1024,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "publishedDateTime": "2020-10-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
         "images": null,
         "publishers": null,
         "authors": null

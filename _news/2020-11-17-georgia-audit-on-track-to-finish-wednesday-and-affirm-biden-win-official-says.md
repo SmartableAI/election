@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
-    excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
-    publishedDateTime: 2020-11-20T00:38:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vD5kvSJ24dE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Covid-19 Immunity, Palestinians, Biden: Your Wednesday Briefing"
     excerpt: "Good morning. We’re covering promising new results from a large study on the coronavirus, renewed cooperation between Israel and the Palestinian Authority and the incoming Biden administration. Blood samples from recovered Covid-19 patients suggest a powerful immune response that could last years,"
     publishedDateTime: 2020-11-18T10:10:00Z
@@ -60,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/17/world/18europebriefing-photos-04/18europebriefing-photos-04-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
+    excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
+    publishedDateTime: 2020-11-19T23:24:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18TRANSITION-BRIEFING-GEORGIA1/18TRANSITION-BRIEFING-GEORGIA1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

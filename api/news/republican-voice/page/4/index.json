@@ -2,6 +2,174 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-07-rep-jordan-says-republicans-picked-up-seats-because-voters-dont-like-socialism-sees-path-for-trump.md",
+      "title": "Rep. Jordan says Republicans picked up seats because voters don't like socialism, sees path for Trump",
+      "excerpt": "Republicans picked up House seats despite projections that Democrats would have a \"blue wave\" on Election Day because \"Americans don't like socialism,\" Rep. Jim Jordan, R-Ohio, told \"Fox & Friends Weekend.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fNvpE34yLY8/ohio-republicans-congress-election-2020-jim-jordan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan.amp",
+      "publishedDateTime": "2020-11-07T10:22:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-bernie-sanders-thanks-praises-progressives-for-bidens-victory-before-race-is-called.md",
+      "title": "Bernie Sanders thanks, praises progressives for 'Biden's victory' before race is called",
+      "excerpt": "Sen. Bernie Sanders thanked progressives Friday afternoon for aiding Democratic nominee Joe Biden’s 2020 presidential efforts – even with the race still too close to call.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f2Dal4MmAE0/bernie-sanders-progressives-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/AP20074794494233.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-progressives-biden.amp",
+      "publishedDateTime": "2020-11-06T19:28:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-pennsylvania-gop-lawmaker-claims-democratic-officials-worked-to-tip-the-scales-to-biden.md",
+      "title": "Pennsylvania GOP lawmaker claims Democratic officials worked to 'tip the scales' to Biden",
+      "excerpt": "Democratic Pennsylvania Gov. Tom Wolf and Secretary of the Commonwealth Kathy Boockvar have done everything they can in the way of \"changing the rules\" to help Joe Biden, state Senate Majority Leader Jake Corman claimed Friday",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLvGEQnWbTc/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gLvGEQnWbTc/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-election-2020-trump-biden-democrat-thomas-wolf.amp",
+      "publishedDateTime": "2020-11-06T15:06:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-minnesota-squad-member-says-trump-attack-on-her-during-campaign-was-a-mistake.md",
       "title": "Minnesota 'Squad' member says Trump attack on her during campaign was a mistake",
       "excerpt": "Rep. Ilhan Omar, D-Minn., on Thursday said Trump \"effed around\" in deciding to attack her as a way to win over Minnesota voters.",
@@ -1517,166 +1685,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-president-trump-installs-commission-to-promote-patriotic-education-counter-radical-views-of-us-history.md",
-      "title": "President Trump installs commission to promote 'patriotic education,' counter 'radical' views of US history",
-      "excerpt": "President Trump signed an executive order Monday designed to promote what he called \"patriotic education\" and to push back on the idea that the country is \"irredeemably and systemically racist.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqkZCtY9HW8/trump-1776-commission-critical-race-theory",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c303b0a9-1733-49b4-986c-15bd16d64504/f6005f74-a2af-475a-ad1e-c59d8b2faff2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-critical-race-theory.amp",
-      "publishedDateTime": "2020-11-02T13:12:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-kamala-harris-equality-of-outcome-video-slammed-as-communism-pitch.md",
-      "title": "Kamala Harris’ ‘equality of outcome’ video slammed as communism pitch",
-      "excerpt": "A video made and shared by Democratic vice presidential candidate Kamala Harris is causing a stir on Twitter — for arguing in favor of the communist principle of equality of outcome. The",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
-      "originalUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/kamala-harris-communist-pitch.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/02/harris-equality-of-outcome-video-slammed-as-communism-pitch/amp/",
-      "publishedDateTime": "2020-11-02T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-herschel-walker-tells-james-clyburn-he-took-trump-out-of-context-with-latest-criticism.md",
-      "title": "Herschel Walker tells James Clyburn he took Trump out of context with latest criticism",
-      "excerpt": "Former NFL star Herschel Walker pushed back on House Majority Whip James Clyburn, D-S.C., on Sunday after the latter said that President Trump called a Black woman a dog.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zOvhgiXy9zg/herschel-walker-james-clyburn-trump-context",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a449154-1c52-4b5f-b68d-3448968888f8/b900a9eb-b048-4194-baef-a3e0d6db74e7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-james-clyburn-trump-context.amp",
-      "publishedDateTime": "2020-11-01T19:42:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -608,6 +608,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Courts State Lawmakers Amid Effort to Block Biden Win"
+    excerpt: "The president planned to meet Friday with two Michigan lawmakers as he continued to challenge President-elect Joe Biden’s victory, while his efforts to block several critical states from certifying Biden wins drew criticism from some fellow Republicans."
+    publishedDateTime: 2020-11-20T16:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-262801/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z
@@ -689,6 +705,6 @@ related:
         height: 640
         isCached: true
 
-secured: "/eX4Te1ghnNaJNrmpgBJ5NNJlpy/3EeYvjCyWVewrLleF+r0P93kPHJf5G/v+Rw0UPaKaEN7ZYtU/RVYJRYG/fz5h0iV7lGBRs3f5pxyCidxFuIo3RWX3Zi38pRajPtBesOLDFWc0IAgaIgtvf9vMzh6Cvxp9bSHJyGtq0BtSv+1hfro+ZlfLUvz4JdakbxEv+LeuX69Kbui+R47x3UxWr4IFKGEEXeuly1ywHTf/zyqF2L73DiCCe2pldswYn90Ua8wHn2pwOuR9bdCOFgvcNKxNvtpwEI1g+5U4yo5NDvmlR31K8eeg6s4TS0L01mzUAnq3KS+mSqgHxfserNCAME1rNv+lAfAav2vQD7BHb0=;VfSP59ODOFbauEd0LIzQfw=="
+secured: "s/DlhofvZ7YLUGBbO58idmzhlDcbSePB+r5aVTt1if8j/48M+Z+haWmvC0NLTYk+GHKS7UH9HtbnOkDncqgP8fQ8wBMw46tAO89BkK9ujvg21uq1F+EEL3Ba1prpzrp2BkaFMbTFFQbdQHRAHc2+a3YPdn1qyOqiJ8YP+7sJVD09dpNfmbin0uuEOIRXrNlXkGWxCiP5YCmCcn0FSLG86bgFihhSpQ/y/+1x8jTWtSCec6+fOrN8CzOF29ie0q/afdn5gxAPdn4D9mffJF/U+dunO1YSSGcKjMx+9pGv/gVumC/4qTlsojE9ynBJ8Xl7WQEN9mwC5mG0U+GN01n7CqCu8872WF21qAn4iC2Ea3PK0tcJjkgsOr97GDhti4kqEWtloIkfsILiluZQ7S7vyccZgnJ167z+gQoOShIknMYmkIE1mhkWnmumNxi1IocDREsqsNdj6TqFcpNvp7gTuUnewT/om5lcr7Y+KTug8Ozm/vbJUcA6HBq5D9w5VZKSfybxMkfZEoyJB1zAqBZBxw==;YHhjhoSiZcDm4PhH/31euQ=="
 ---
 

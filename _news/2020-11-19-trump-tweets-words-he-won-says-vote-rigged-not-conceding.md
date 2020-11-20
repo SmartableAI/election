@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-tweets-words-won-vote-rigged-conceding-74227358"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
-    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
-    publishedDateTime: 2020-11-18T12:04:00Z
-    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+  - title: "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds"
+    excerpt: "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic."
+    publishedDateTime: 2020-11-18T15:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
     images:
-      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/9bd46775-cafd-4391-94b8-ed069c35309e-GTY_1286212955.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
+    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
+    publishedDateTime: 2020-11-12T04:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
+    type: article
+    provider:
+      name: The Clarion-Ledger
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "bP3a5/2hzYDPYcClZ60LWGCOlApek0kQ8hJ0RmkSYCU30+7ktZh9uyN7uSI/UbEHtyp58+VsiS9VUAWnepa9Q/XObZE8Zia6hgi3cEjyAHw2CbKSFIRfw6LjnrHgwXXGWySc4vIOpwO4OjzEW5ZGjwlmB4N4wsMBySDUtu0Fj4gNSUYnJ1m1iG7P7IRRJqiMi3JCmM82BNH2v27tQ4bQl3GjHc+AeqYt/2GxnIwZYmN0j3vojgt3yjc49IG/Sh302/iN0fTiFyr9KoLuBs6OYmpjd8zHiRXbZb7cHgKD94i0lr3y836qa+z7+2ZR4YkPgYPY6vOahm4YEp5vDIkWU5DN/HR2otS2iz7Q167T/9M=;kQNAj44YDII2kK3vYEdkbQ=="

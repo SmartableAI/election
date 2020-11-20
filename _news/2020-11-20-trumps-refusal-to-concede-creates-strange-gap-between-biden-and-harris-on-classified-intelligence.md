@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 861
+heat: 881
 published: true
 
 provider:
@@ -527,6 +527,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_kamala_graham_201118-00_00_22_08-Still001.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Transition Live Updates: Biden to Meet With Congressional Leaders"
+    excerpt: "President-elect Joe Biden is set to talk with Speaker Nancy Pelosi and Senator Chuck Schumer today. President Trump is hosting state lawmakers from Michigan he hopes will help him nullify Mr. Biden’s victory there."
+    publishedDateTime: 2020-11-20T13:38:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19dc-transition-briefing-georgia/19dc-transition-briefing-georgia-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
     excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."

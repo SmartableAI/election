@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Note: Trump, GOP test limits as legal walls close in"
+    excerpt: "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,"
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
     excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
     publishedDateTime: 2020-11-18T14:50:00Z
@@ -47,53 +63,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
-    excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
-    publishedDateTime: 2020-11-18T18:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
-    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
-    publishedDateTime: 2020-11-20T00:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
+  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
+    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
+    publishedDateTime: 2020-11-13T15:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 101
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
-    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
-    publishedDateTime: 2020-10-26T23:30:00Z
-    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
-    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
+  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
+    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
+    publishedDateTime: 2020-11-19T12:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
     type: article
     provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "JLnm1adlzPqQqthsK+VQcbckl7DUsxzfM4XejfHpR0Gufc60PGz9o5fUB0zeHz4o/EjcjX59bJCNPYYSZrC3ZJYjNphrrFTZ7SleiDvtHsfIrgRSnk8nctXHrJiYedlBCcmEoGGVhI9EdTE6lr/AsZh8kSSBSgTzQadKd9LyWNnfGl3vRT7tww9MeLTWOj+/kFzpK16zTEYTbRpnOZca7fjPgd3f0XdpVYm7oEhCJhbsdThiTdob11hTuDuPGPCNrjG/oDAZtk5JZJjPdDR4K1DOecoK3M0mWlGO15CmhLYGWm3lRwfBqTkM4zXJHXr8f09dJiwP09TdL6X2+S6qaoPMjZL776r3M5aEofaN8WM=;tUo/WRevqSxu25ui13nvlg=="

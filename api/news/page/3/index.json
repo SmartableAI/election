@@ -2,6 +2,618 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-biden-deputy-chief-of-staff-touted-mandatory-buybacks-of-assault-weapons.md",
+      "title": "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons",
+      "excerpt": "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Jen-OMalley-Dillon-is-the-Biden-Campaign-Manager-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp",
+      "publishedDateTime": "2020-11-18T16:56:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.md",
+      "title": "Pence spox debunks Huffington Post reporter who claimed VP, Karen Pence didn't wear masks at SpaceX launch",
+      "excerpt": "A spokesperson for Vice President Mike Pence shot down reporting from a Huffington Post journalist who reported that he and Second Lady Karen Pence did not wear masks at Sunday's visit to NASA's Kennedy Space Center. NASA has made its first operational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "originalUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8217561e-a887-4ebd-870b-46991c42ed85/8224b5b1-d79b-453c-ae86-3b548ec28b55/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/pence-spox-debunks-huffington-post-reporter-who-claimed-vp-karen-pence-didnt-wear-masks-at-spacex-launch.amp",
+      "publishedDateTime": "2020-11-18T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-sen-kennedy-blasts-cuomo-complaints-about-trump-ego-compares-it-to-being-called-ugly-by-a-frog.md",
+      "title": "Sen. Kennedy blasts Cuomo complaints about Trump 'ego', compares it to 'being called ugly by a frog'",
+      "excerpt": "Democratic New York Gov. Andrew Cuomo is the last person with any standing to complain about President Trump's \"ego,\" Sen. John Kennedy, R-La., told \"Bill Hemmer Reports\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vA0Pbv70ZdI/sen-john-kennedy-andrew-cuomo-trump-ego",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a8bea7e-b7bb-43d0-9979-72fc79aba59b/c7c22d1a-9df6-4d91-b452-22cc0ec50e1a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
+      "publishedDateTime": "2020-11-18T15:03:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-biden-warns-of-another-200k-dead-from-covid-by-inauguration.md",
+      "title": "Biden warns of another 200K dead from COVID by inauguration",
+      "excerpt": "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
+      "publishedDateTime": "2020-11-18T14:33:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
+      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
+      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "publishedDateTime": "2020-11-18T13:31:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
+      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
+      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "publishedDateTime": "2020-11-18T13:18:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
+      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
+      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
+      "publishedDateTime": "2020-11-18T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
+      "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
+      "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18mccarthy-qa/18mccarthy-qa-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
+      "publishedDateTime": "2020-11-18T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
+      "title": "Trump Fires Again, This Time a Cybersecurity Official",
+      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "publishedDateTime": "2020-11-18T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-campaign-to-request-recount-in-two-counties-in-wisconsin-he-trails-in-the-state-by-about-20600-votes.md",
+      "title": "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes",
+      "excerpt": "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-18T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers.md",
+      "title": "Watch live: Biden holds virtual roundtable with frontline health care workers",
+      "excerpt": "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with frontline health care workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/biden_frontline.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo96133189788",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96133189788",
+      "publishedDateTime": "2020-11-18T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
       "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
       "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
@@ -70,7 +682,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 183,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -283,6 +895,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-election-2020-live-updates-half-of-republicans-say-trump-rightfully-won-election-poll-finds.md",
+      "title": "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds",
+      "excerpt": "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/18/USAT/9bd46775-cafd-4391-94b8-ed069c35309e-GTY_1286212955.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6335864002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002",
+      "publishedDateTime": "2020-11-18T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-mike-lee-calls-on-sen-feinstein-to-apologize-for-inaccurate-claim-of-trump-inciting-violence.md",
       "title": "Mike Lee calls on Sen. Feinstein to apologize for inaccurate claim of Trump inciting violence",
       "excerpt": "Sen. Dianne Feinstein, D-Calif., is wrong about President Trump's tweets inciting violence, Sen. Mike Lee, R-Utah, said Wednesday.",
@@ -382,58 +1046,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-trump-faces-wednesday-deadline-for-wisconsin-vote-recount.md",
-      "title": "Trump faces Wednesday deadline for Wisconsin vote recount",
-      "excerpt": "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-18T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-this-is-extremely-powerful-data-trumps-2020-campaign-app-manufacturer-in-financial-trouble.md",
       "title": "'This is extremely powerful data': Trump's 2020 campaign app manufacturer in financial trouble",
       "excerpt": "The \"Official Trump 2020 App\" allowed President Trump's reelection campaign to monitor the movements of his supporters.",
@@ -442,7 +1054,7 @@
       "originalUrl": "https://www.usatoday.com/story/tech/2020/11/18/trumps-2020-campaign-app-phunware/6337581002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -486,6 +1098,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-republican-election-chief-says-trump-wouldve-won-georgia-by-10000-votes-if-he-hadnt-suppressed-his-own-voting-base.md",
+      "title": "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'",
+      "excerpt": "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp",
+      "publishedDateTime": "2020-11-18T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-election-2020-live-updates-biden-staffs-up-as-trump-fires-top-election-security-official.md",
       "title": "Election 2020 Live Updates: Biden staffs up as Trump fires top election security official",
       "excerpt": "President-elect Joe Biden began staffing up this week, announcing the hiring of nine senior White House officials, including top members of his campaign and longtime aides, as he pushes ahead with the transition process. ",
@@ -498,7 +1162,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1016,
+      "heat": 1036,
       "tags": null,
       "images": [
         {
@@ -550,7 +1214,7 @@
       "originalUrl": "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -594,6 +1258,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-the-note-trump-gop-test-limits-as-legal-walls-close-in.md",
+      "title": "The Note: Trump, GOP test limits as legal walls close in",
+      "excerpt": "Real state deadlines and legal rulings are already starting to close out paths to the presidency that Trump might imagine still exists. The Trump campaign faces a Wednesday deadline to request a recount in Wisconsin -- where the president is trailing by more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-ows_hpMain_20201114-163048_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
+      "publishedDateTime": "2020-11-18T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-trump-lashes-out-in-new-bid-to-tarnish-an-election-he-lost.md",
       "title": "Trump lashes out in new bid to tarnish an election he lost ",
       "excerpt": "President Donald Trump flexed the power of his office Tuesday to tarnish America's free and fair election, sacking the official who declared the vote the most secure in US history, even as more of his false claims of massive fraud were exposed as baseless in court.\n    \n",
@@ -606,7 +1322,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1250,
+      "heat": 1290,
       "tags": null,
       "images": [
         {
@@ -647,704 +1363,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fires-top-us-election-cybersecurity-official-who-defended-vote.md",
-      "title": "Trump fires top U.S. election cybersecurity official who defended vote",
-      "excerpt": "President Donald Trump on Tuesday fired top cybersecurity official Chris Krebs in a message on Twitter, accusing him without evidence of making a \"highly inaccurate\" statement affirming the Nov. 3 election was secure and rejecting claims of fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 420,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541581388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH07G",
-          "width": 753,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27Y01A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A",
-      "publishedDateTime": "2020-11-18T01:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-us-drops-strong-case-against-ex-mexico-defense-chief-salvador-cienfuegos-a-huge-gift-from-donald-trump-former-dea-official-says.md",
-      "title": "US drops 'strong' case against ex-Mexico defense chief Salvador Cienfuegos, a 'huge gift' from Donald Trump, former DEA official says",
-      "excerpt": "Salvador Cienfuegos, arrested in Los Angeles last month on drug trafficking and money laundering charges, faced 10 years in U.S. prison if convicted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/11/17/us-drops-case-salvador-cienfuegos-mexico-drug-trafficking/6336288002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/16/USAT/95d90aa0-817b-4688-ac8a-e3c1212d5330-AP20290091049365.jpg?auto=webp&crop=3003,1690,x0,y159&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6336288002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6336288002",
-      "publishedDateTime": "2020-11-17T19:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-advice-for-biden-we-want-to-hear-yours.md",
-      "title": "Advice for Biden? We Want to Hear Yours",
-      "excerpt": "We ask readers how the incoming president should confront the serious challenges that will face him. What do you see as the greatest challenge facing Joe Biden’s presidency? What advice would you give him to overcome it and avoid the pitfalls?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/world/18DC-BIDEN-TRADEjump02-inyt/merlin_179818962_2b8e0bbf-dd09-4f19-ba73-7300f0fb068e-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html",
-      "publishedDateTime": "2020-11-17T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-twitter-fact-checks-donald-trump-tweet-about-the-firing-of-chris-krebs-on-twitter.md",
-      "title": "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)",
-      "excerpt": "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6335471002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002",
-      "publishedDateTime": "2020-11-17T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-in-court-giuliani-argues-to-block-biden-win-in-pennsylvania.md",
-      "title": "In court, Giuliani argues to block Biden win in Pennsylvania",
-      "excerpt": "President Donald Trump’s personal lawyer Rudy Giuliani has gone before a federal judge to accuse Democrats in control of big cities of hatching a conspiracy to steal the election from the Republican e",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-court-giuliani-argues-to-block-biden-win-in-pennsylvania/2020/11/17/6b3c4182-293d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-17T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trump-fires-cisa-director-chris-krebs-claims-statement-on-election-security-was-highly-inaccurate.md",
-      "title": "Trump fires CISA Director Chris Krebs, claims statement on election security was 'highly inaccurate'",
-      "excerpt": "Krebs-led CISA said the Nov. 3 election was the 'most secure in American history'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/19P6EZ-lUTs/trump-fires-cisa-director-chris-krebs-election-security",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/19P6EZ-lUTs/trump-fires-cisa-director-chris-krebs-election-security",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10aa280a-73b7-4f38-9da4-081f1854383f/9a655ca6-5dbf-44cc-b6fa-649bbee51f9f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fires-cisa-director-chris-krebs-election-security.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fires-cisa-director-chris-krebs-election-security.amp",
-      "publishedDateTime": "2020-11-17T17:14:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-georgia-audit-on-track-to-finish-wednesday-and-affirm-biden-win-official-says.md",
-      "title": "Georgia audit on track to finish Wednesday and affirm Biden win, official says",
-      "excerpt": "Georgia is on a \"good schedule right now\" to finish an audit of the presidential election by Wednesday and thus certify its results by Friday, a top state voting official says, and the vast majority of counties are reporting results that are \"spot dead on\" to the initial tallies or finding only minor",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ltlObRK9iHU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ltlObRK9iHU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.html",
-      "publishedDateTime": "2020-11-17T15:36:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-the-point-lindsey-graham-just-crossed-another-line-in-defending-trump.md",
-      "title": "The Point: Lindsey Graham just crossed another line in defending Trump",
-      "excerpt": "Fresh off a surprisingly pedestrian election win on November 3, Lindsey Graham has decided to take on a new role: The most aggressive enforcer of the idea that President Donald Trump maybe -- just maybe! -- didn't lose the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ImG-25Dh4jk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201030173830-13d-lindsey-graham-play-button-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/lindsey-graham-2020-election-georgia-trump/index.html",
-      "publishedDateTime": "2020-11-17T15:16:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-trump-and-army-secretary-say-wreaths-across-america-event-will-happen-reversing-arlington-national-cemetery-decision.md",
-      "title": "Trump and Army secretary say Wreaths Across America event will happen, reversing Arlington National Cemetery decision",
-      "excerpt": "Wreaths Across America's annual wreath-laying ceremony at Arlington National Cemetery is set to go forward as planned after all.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ycxuHiMiYXE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117115006-arlington-cemetery-wreaths-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/us/arlington-cemetery-wreaths-trnd/index.html",
-      "publishedDateTime": "2020-11-17T15:15:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-trump-administration-moves-to-limit-work-permits-for-immigrants-with-deportation-orders.md",
-      "title": "Trump administration moves to limit work permits for immigrants with deportation orders",
-      "excerpt": "The Trump administration on Tuesday announced that it was moving to limit work permits for immigrants who have deportation orders, but have been temporarily released -- a move that officials say will encourage them to remove themselves from the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/co8-4WB46DI/trump-administration-work-permits-immigrants-deportation-orders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/co8-4WB46DI/trump-administration-work-permits-immigrants-deportation-orders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp",
-      "publishedDateTime": "2020-11-17T14:25:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
-      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
-      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 736,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
-      "publishedDateTime": "2020-11-17T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
-      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
-      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "publishedDateTime": "2020-11-17T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-new-covid-19-closures-trump-campaign-lawsuit-hurricane-iota-5-things-to-know-tuesday.md",
-      "title": "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday",
-      "excerpt": "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6282623002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002",
-      "publishedDateTime": "2020-11-17T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

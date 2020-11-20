@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Michigan House Speaker will meet with Trump on Friday, source says"
+    excerpt: "Michigan House Speaker Lee Chatfield is going to the White House today, a source familiar with the plans told CNN.\n    \n"
+    publishedDateTime: 2020-11-20T14:45:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78T6kZs8lzA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120093600-01-lee-chatfield-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "KRUOrfrcILObo60QX4VjpmMmkejWr4tuVPNb5eC65UX0gYJ2n1umX8UfrLCpvrZJXQa59kHyWSdGu2/g+Y/80jv8xUrzMOzS31d6TnLZdwKksIvkWOiiDwoRV02+/+S3jK5gCXu/fh22b0D4ctQX+B4uRw/HIli5zRk92siX8dtK8RcBj33hg5Y809uX5sE4LyThZbBV1V4qA0dVIDNjaHdk9FPBEpoUg1nbWj4TVWEvbHdiuSEO0M9ez2ZFTYEhx7yC+qc5H3Acj/2jZAyG7hk0e9mY5SExZrc7hsglitVS4nyH2dtWvrh4t7//9IHyVi1Fz3DBTCvR2+4yHYZK83pDpwObfrdbzcA6ttD/4hI=;o4N07RlHckyYC3sTWGfn7A=="
 ---

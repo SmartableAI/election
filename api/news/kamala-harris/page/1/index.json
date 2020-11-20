@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-obama-to-kamala-harris-follow-your-instincts-and-follow-your-values.md",
+      "title": "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\"",
+      "excerpt": "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/527628.jpg",
+          "width": 1192,
+          "height": 894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-trumps-refusal-to-concede-creates-strange-gap-between-biden-and-harris-on-classified-intelligence.md",
       "title": "Trump's refusal to concede creates strange gap between Biden and Harris on classified intelligence",
       "excerpt": "Vice President-elect Kamala Harris took part in a classified briefing of the Senate Intelligence Committee this week and emerged in a strange position -- being more informed about current threats than President-elect Joe Biden but bound by congressional rules to keep that information from him.\n    \n",
@@ -14,7 +62,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 861,
+      "heat": 881,
       "tags": null,
       "images": [
         {
@@ -1508,58 +1556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
-      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
-      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
-          "width": 1935,
-          "height": 1290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "publishedDateTime": "2020-10-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

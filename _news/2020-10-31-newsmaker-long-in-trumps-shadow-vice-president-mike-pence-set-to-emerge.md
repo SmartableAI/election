@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
 type: article
 quality: 139
-heat: 779
+heat: 739
 published: true
 
 provider:
@@ -431,24 +431,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 50
-  - title: "President Trump and Vice President Pence Hold Rally in Traverse City, Michigan"
-    excerpt: "Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City, Michigan. President Trump and Vice President Mike Pence deliver remarks at a campaign rally in Traverse City,"
-    publishedDateTime: 2020-11-02T22:41:00Z
-    webUrl: "https://www.c-span.org/video/?477685-1/president-trump-vice-president-pence-speak-rally-traverse-city-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 46
-  - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
-    excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
-    publishedDateTime: 2020-11-04T03:22:00Z
-    webUrl: "https://www.c-span.org/event/?477685/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 40
   - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
     publishedDateTime: 2020-10-30T13:55:00Z

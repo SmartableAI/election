@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6204399002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002"
 type: article
 quality: 115
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/74837c752551a67e91a327808668afe7bba30c91/0_137_3368_2022/master/3368.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10194d30e2d94cb9c370915a143f0403"
         width: 600
         height: 360
+        isCached: true
+  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
+    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
+    publishedDateTime: 2020-11-09T09:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "European countries' new coronavirus measures may influence the US' recovery plan being laid out by President-elect Joe Biden"
     excerpt: "European countries have implemented new coronavirus measures to mitigate economic risk, which may influence Biden's US' recovery plan."

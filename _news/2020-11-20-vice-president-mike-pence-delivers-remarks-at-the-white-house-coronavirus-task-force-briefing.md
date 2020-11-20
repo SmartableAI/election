@@ -61,6 +61,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
+    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
+    publishedDateTime: 2020-11-14T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
     excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
     publishedDateTime: 2020-11-19T22:36:00Z

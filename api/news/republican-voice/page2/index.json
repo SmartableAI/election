@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
+      "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
+      "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea062ee3-cd24-4b77-84bb-3780a23ee251/f63ef748-e85c-435c-b7ab-17c1c79c160d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
+      "publishedDateTime": "2020-11-17T08:35:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-justice-dems-group-behind-aoc-boosts-rep-ro-khanna-for-harris-senate-seat.md",
+      "title": "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat",
+      "excerpt": "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 282,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "publishedDateTime": "2020-11-17T05:25:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-trump-seizes-on-local-nevada-race-to-raise-suspicions-of-wider-problem.md",
+      "title": "Trump seizes on local Nevada race to raise suspicions of wider problem",
+      "excerpt": "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp",
+      "publishedDateTime": "2020-11-16T23:35:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-pence-fauci-praise-vaccine-developments.md",
       "title": "Pence, Fauci Praise Vaccine Developments",
       "excerpt": "Vice President Mike Pence praised recent vaccine advancements during a call with governors Monday, calling it welcome news for Americans. Mr. Pence spoke soon after Moderna said early results showed its experimental coronavirus vaccine [was 94.",
@@ -1514,175 +1683,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-georgia-to-manually-recount-every-ballot-as-biden-leads-by-14k-votes.md",
-      "title": "Georgia to manually recount every ballot as Biden leads by 14K votes",
-      "excerpt": "Georgia Secretary of State Brad Raffensperger on Wednesday announced that election officials will conduct a manual recount of all presidential ballots as President-elect Joe Biden leads in the state by just over 14,000 votes out of nearly 5 million counted.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1200754471.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp",
-      "publishedDateTime": "2020-11-11T08:58:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-trump-campaign-files-michigan-lawsuit-claiming-gop-blocked-from-viewing-vote-counting.md",
-      "title": "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting",
-      "excerpt": "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TcX8sE6dRYY/trump-campaign-michigan-election-vote-counting-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-michigan-election-vote-counting-lawsuit.amp",
-      "publishedDateTime": "2020-11-11T08:54:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.md",
-      "title": "California governor quiet on Kamala Harris replacement: 'No timeline has been established'",
-      "excerpt": "The race to fill Vice President-elect Kamala Harris' open Senate seat is underway, but California Gov. Gavin Newsom has so far remained mum about potential contenders.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m6QNvSnc7z4/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20272849406731.jpg",
-          "width": 1024,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-governor-quiet-on-kamala-harris-replacement-no-timeline-has-been-established.amp",
-      "publishedDateTime": "2020-11-11T06:51:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

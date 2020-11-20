@@ -47,6 +47,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Trump fires election security official who contradicted him"
+    excerpt: "Donald Trump says he has fired a top election official who contradicted the US president's claims of voter fraud. President Trump said he \"terminated\" Cybersecurity and Infrastructure Security Agency (Cisa) chief Chris Krebs for his \"highly inaccurate\" remarks on vote integrity."
+    publishedDateTime: 2020-11-20T14:53:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-54982360?swpmtx=4ea60037c5a8cf8ec91499d3abbefdda&swpmtxnonce=f79901a55c"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-54982360"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-54982360"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15E0E/production/_115541698_mediaitem115541697.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Latino voters who fled dictatorships fear election was stolen from President Trump"
     excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
     publishedDateTime: 2020-11-19T00:34:00Z

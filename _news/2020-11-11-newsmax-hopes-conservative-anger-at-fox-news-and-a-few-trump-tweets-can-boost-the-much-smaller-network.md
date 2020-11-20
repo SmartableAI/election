@@ -47,34 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "sLqcYis7xU/S1Q0kytznTqyc+5TpoI77334caPDyNNtowCUO45shuBcrf9d+Z4uNgcbI2I6ThYQrS+BkujgkXrrIk0IuHKu1CEIjBLmPfx0wwaFhz1OtFxcedzq8zRed76LUXyfGtgyOkORHhvi+nqMElEAVHnR35FAZifoiwDVoaK+D6PWlba+x1bbRNJ+vzWxQzaEyo7tLZZo7SPPVDZx8RqFXYjiTIeVHIrbYoQPzMaSBUqYNh31PwTWx9j/B77rwJRvI0hKshb6bVb8fI/UvbiNrPhtcRU3PEyASuL2ssa7Kgmdtai0xsaoLbGttUTk8yV3Ub9iDMrNo4vEBWN2SfpVwKixeZy7EfQl1DYw=;1WNtYA1jtnuCHJyBgqxhrg=="
 ---

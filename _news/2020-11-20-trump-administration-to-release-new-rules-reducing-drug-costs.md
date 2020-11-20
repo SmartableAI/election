@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
+    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
+    publishedDateTime: 2020-11-20T14:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "D+3nlxhhRI6QLBv3Hf5qoEey9uO8kMgldj5QVnGo0/LvHFQAq5cXMeSX+BllzgwdxhxtJG9cVYvFsRzF74FFXfJZwwwYn4UYgxpIOM8thv+IyYFDpTUzDmvZiY/faUN3afRtL0FU1X4N6IFinvUd26wIrpd5HKnUyKhJy8Ou0yMLbL2YJYYa06KgVBpiit+kMVc7t19hZVRbFn8JyXiM4PBhiv1i1kGXfB1ja4TnWBepf8pc0Fdnn91SzJrXhGFe7axhTZK7RSdE1FNkTppo2wOl6U3MpPgFZFI1ovEwyYm2u6lB4dVwnYvE3C7tGlRPVOLx8SQFrmM/AlB25TWvCNFSNacOIAuV5G1F4qccUEs=;WIS2eEPKKvQi0euA4pzm2g=="
 ---

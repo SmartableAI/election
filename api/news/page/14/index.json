@@ -2,6 +2,396 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-03-what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis.md",
+      "title": "What to watch in battleground Florida — A 'really tough state' to call — Biden lashes out at DeSantis",
+      "excerpt": "BY THE NUMBERS — So far, 4,649,919 vote-by-mail ballots have been cast for the November election, according to the latest information on the state Division of Elections website. Of those, 2,112,081 have come from Democrats and 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/03/what-to-watch-in-battleground-florida-a-really-tough-state-to-call-biden-lashes-out-at-desantis-490787",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
+      "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
+      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L",
+          "width": 805,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "publishedDateTime": "2020-11-02T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.md",
+      "title": "Trump says Supreme Court decision on Pennsylvania ballots is 'dangerous,' 'will 'induce violence'",
+      "excerpt": "President Trump Monday called a Supreme Court decision that said Pennsylvania could allow mail ballots through Friday “dangerous,” adding it would lead to “violence.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ySMpc_U52AI/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/271cf1eb-74b0-4238-8cc6-dd9c23ed7c2c/f9d2a304-3484-48d2-8f7d-116c5e2edfc6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-decision-on-pennsylvania-ballots-is-dangerous-will-induce-violence.amp",
+      "publishedDateTime": "2020-11-02T21:22:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-biden-closes-out-his-campaign-in-pennsylvania-promising-the-beginning-of-a-new-day.md",
+      "title": "Biden closes out his campaign in Pennsylvania, promising 'the beginning of a new day' ",
+      "excerpt": "Joe Biden closed his presidential campaign Monday night in Pennsylvania, lambasting President Donald Trump's handling of the coronavirus pandemic and promising to unite a country in crisis if he wins Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55crqGjmnSE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201102141226-02-biden-philadelphia-1101-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/biden-pennsylvania-closing-rally/index.html",
+      "publishedDateTime": "2020-11-02T19:31:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-sen-kennedy-calls-trump-an-insult-to-the-political-elite-who-never-talks-down-to-the-working-class.md",
+      "title": "Sen. Kennedy calls Trump 'an insult to the political elite' who never 'talks down' to the working class",
+      "excerpt": "The devotion of Donald Trump voters to their candidate stems from two factors, Sen. John Kennedy, R-La., told \"Tucker Carlson Tonight\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_7jamlbG6Hw/sen-john-kennedy-trump-an-insult-to-the-political-elite",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bee7c401-096b-4170-b016-408119f9f8fe/9b8497ea-e0bf-4985-8235-bbe6fdf7b1bb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-trump-an-insult-to-the-political-elite.amp",
+      "publishedDateTime": "2020-11-02T18:56:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote.md",
+      "title": "In final rally, Kamala Harris urges Pennsylvania to use 'power' and vote",
+      "excerpt": "In her final campaign rally before Election Day, Kamala Harris urged Pennsylvania to get out and vote. Harris said, “Your vote is your voice and your voice is your power.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
+      "originalUrl": "https://www.nbcnews.com/video/in-final-rally-kamala-harris-urges-pennsylvania-to-use-power-and-vote-95196229930",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/kamalalastrally.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo95196229930",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo95196229930",
+      "publishedDateTime": "2020-11-02T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-the-point-marco-rubio-goes-full-trump-on-election-eve.md",
+      "title": "The Point: Marco Rubio goes full Trump on election eve",
+      "excerpt": "Even as some ambitious 2024 Republicans have begun to distance themselves from Donald Trump's version of, uh, conservatism, Florida's Sen. Marco Rubio offered the equivalent of a bear hug for the incumbent just 48 hours before Election Day. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SV6u7GaW7tk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190128124838-01-marco-rubio-dec2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/02/politics/marco-rubio-donald-trump-election-2020/index.html",
+      "publishedDateTime": "2020-11-02T15:30:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations.md",
       "title": "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations",
       "excerpt": "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said.",
@@ -937,7 +1327,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -954,398 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp",
       "publishedDateTime": "2020-11-01T12:56:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-joe-biden-becomes-an-underdog-if-he-doesnt-win-pa-says-nate-silver.md",
-      "title": "Joe Biden becomes 'an underdog' if he doesn't win Pa., says Nate Silver",
-      "excerpt": "Without Pennsylvania and its 20 electoral votes, Democratic presidential nominee Joe Biden will become “an underdog,” the founder of an opinion poll analysis website, FiveThirtyEight, said on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM3J29QnmKk/joe-biden-underdog-without-pennsylvania-win-nate-silver",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-underdog-without-pennsylvania-win-nate-silver.amp",
-      "publishedDateTime": "2020-11-01T11:55:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-campaign-hits-back-at-buttigiegs-claim-that-trump-took-credit-for-obama-economy.md",
-      "title": "Trump campaign hits back at Buttigieg's claim that Trump 'took credit' for Obama economy",
-      "excerpt": "Mayor Pete Buttigieg was wrong about 2020 Democratic presidential hopeful Joe Biden's economic agenda being better for Americans, said Trump 2020 Communications Director Tim Murtaugh on Sunday, two days away from Election Day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-1LtxD5rTZE/tim-murtaugh-trump-obama-economy-pete-buttigieg",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tim-murtaugh-trump-obama-economy-pete-buttigieg.amp",
-      "publishedDateTime": "2020-11-01T11:30:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-joe-biden-is-last-shot-for-establishment-democrats-says-lawrence-jones.md",
-      "title": "Joe Biden is ‘last shot’ for establishment Democrats, says Lawrence Jones",
-      "excerpt": "Progressivism will gain momentum in the Democratic Party if Joe Biden loses the election, Fox Nation host Lawrence Jones said on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/j6bh5v7okI0/joe-biden-last-shot-dem-establishment-lawrence-jones",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-last-shot-dem-establishment-lawrence-jones.amp",
-      "publishedDateTime": "2020-11-01T09:24:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-hunter-bidens-business-was-industrial-scale-corruption-graham.md",
-      "title": "Hunter Biden's business was 'industrial-scale' corruption: Graham",
-      "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Sunday that he plans on holding a hearing where he will ask the FBI why they sat on the laptop believed to have belonged to Hunter Biden for almost a year without taking action.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7oB-3AQtPvE/graham-hunter-biden-business-industrial-scale-corruption",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff940e5b-abfd-4f83-a643-516042790627/644bed36-8304-4ae7-92cf-2c5809b22a97/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-hunter-biden-business-industrial-scale-corruption.amp",
-      "publishedDateTime": "2020-11-01T09:07:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
-      "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "publishedDateTime": "2020-11-01T08:10:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
-      "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
-      "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0JFxnLYBAcw/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80259ac2-43eb-438e-a2d5-2bdface5d4b2/bcc4294e-9b2c-457a-98ce-4d1de4a56c36/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.amp",
-      "publishedDateTime": "2020-10-31T23:47:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.md",
-      "title": "Ivanka Trump breaks Obama record on way to $35M-plus fundraising haul: reports",
-      "excerpt": "Ivanka Trump, White House senior adviser and first daughter, has reportedly raised tens of millions of dollars for her father’s reelection and even broke former President Obama’s single-day fundraising record at a Texas stop in September.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aNPNr4onWZY/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302653297420.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-breaks-obama-record-on-way-to-35m-plus-fundraising-haul-reports.amp",
-      "publishedDateTime": "2020-10-31T20:53:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

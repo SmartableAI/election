@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
-    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
-    publishedDateTime: 2020-11-18T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Trump reportedly told an ally he knows he lost the 2020 election but wants revenge on Democrats for disputing his 2016 win"
+    excerpt: "He is refusing to concede partly because he is still furious that Barack Obama and Hillary Clinton said Russia helped him win in 2016, CNN reported."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
-    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
-    publishedDateTime: 2020-11-18T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
-    excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
-    publishedDateTime: 2020-11-18T18:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Vice President Mike Pence, Karen Pence to visit Wisconsin Wednesday"
-    excerpt: "Vice President Mike Pence and his wife are both scheduled to attend Make America Great Again events in Wisconsin on Wednesday."
-    publishedDateTime: 2020-10-26T23:30:00Z
-    webUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday"
-    ampWebUrl: "https://www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-tmj4-com.cdn.ampproject.org/c/s/www.tmj4.com/news/election-2020/vice-president-mike-pence-karen-pence-to-visit-wisconsin-wednesday?_amp=true"
-    type: article
-    provider:
-      name: TMJ4
-      domain: tmj4.com
-    quality: 75
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/e32/44c3f81cadf84cf5a6f4e6d100388208/e32e24c517664385b1d3016243a4692c/poster_f74d996ec7964fcea32a4bd34c3826d4.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5fa2d44269331a0011bc73d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "bK2wQzrg288ryygZiTLrvgVLl1BmcZu3xTfzWwVgR71+W2uA9zL4GRaZBT9oadmMuKOm7hFeiOq1T0uarSlR18cS8N4VMiAs1AwJZ6Y7m1HO+cRaRuEyRc/Chi+YdJuNM/RcCvMrXawaCxYzm9i79+1CuOy7N5ZIuSipfwENnQvOx2qT6CXP1XzxCTcucT25yRc07Du21KCewQoKEXvuXo0uBQbbLk5OY1fuGiGSvPjskjmWCZc1w3BqUXw/qGtlqaX0sT1+4VNXOtMQpVMddSOoFFU5lNgVCZmOV7VnkXLX1Rn2kVws64S0ULS2g4IUNSE1OTMBqBc+0DPAz9YqdXQ/bR/2dY4MISW0QOhpD2o=;yA0KO+eXCGjF8KNaTl8Tnw=="

@@ -19,422 +19,260 @@ topics:
   - Mike Pence
 
 related:
-  - title: "NEWSMAKER-Long in Trump's shadow, Vice President Mike Pence set to emerge"
-    excerpt: "Vice President Mike Pence, a Christian conservative and one of the few constants in Donald Trump's tumultuous White House, has kept his boss's confidence by being careful never to step out of the president's shadow."
-    publishedDateTime: 2020-10-31T10:18:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-pence-profile-idUSL1N2HK1WT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27G0F3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27G0F3"
+  - title: "Trump influence seen in deadlock of Michigan election board"
+    excerpt: "President Donald Trump's efforts to sow doubt about the election seem to have played a role in a move by two Michigan Republicans to block certification of election results from Detroit"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 139
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201031&t=2&i=1539510870&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9U09G"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump and Mike Pence both campaign Sunday, despite coronavirus cases among vice president's staff"
-    excerpt: "Pence aides have tested positive for the virus, but he is not subject to quarantine because he is an \"essential\" government official, aides said."
-    publishedDateTime: 2020-10-25T15:31:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/25/pence-campaigns-sunday-despite-aides-covid-19-cases/6031990002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6031990002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6031990002"
+  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
+    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
+    publishedDateTime: 2020-11-16T12:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 133
+    quality: 128
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Supporters Push Back Against Victory Statement, Pence Says Votes Still to Count"
-    excerpt: "The president said that he already feels victory is sealed despite ongoing vote counts, vowing legal action to secure his position."
-    publishedDateTime: 2020-11-04T07:37:00Z
-    webUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686"
-    ampWebUrl: "https://www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-victory-statement-pence-election-votes-count-1544686?amp=1"
+  - title: "Trump campaign loses lawsuit seeking to halt Michigan vote count"
+    excerpt: "A judge in Michigan on Thursday tossed out a lawsuit brought by U.S. President Donald Trump's campaign in hopes of halting vote-counting in the battleground state."
+    publishedDateTime: 2020-11-06T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-michigan-idUSKBN27M0A8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0A8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0A8"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1664385/trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201106&t=2&i=1540205366&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA505Q"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Minority pushes Trump agenda largely unpopular among tribes"
-    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
-    publishedDateTime: 2020-10-24T17:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+  - title: "Trump bans U.S. investments in firms linked to Chinese military"
+    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
+    publishedDateTime: 2020-11-13T12:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump Fed nominee Shelton blocked in Senate, for now"
+    excerpt: "The U.S. Senate on Tuesday blocked President Donald Trump's controversial nomination of Judy Shelton to the Federal Reserve's board, though a White House spokesman expressed confidence she would eventually be confirmed."
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-fed-shelton-blocked-idUSKBN27X2UD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X2UD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541544795&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1PP"
+        width: 840
+        height: 545
+        isCached: true
+  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
+    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
+    publishedDateTime: 2020-11-17T22:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "GOP increasingly accepts Trump's defeat — but not in public"
+    excerpt: "Although a growing number of Republicans have quietly acknowledged that Joe Biden won the election, few are publicly challenging President Donald Trump"
+    publishedDateTime: 2020-11-19T15:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-increasingly-accepts-trumps-defeat-public-74286903"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ba8c7075a4c14cf49feee520212922ac_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris fires back at President Trump and other Republicans who mockingly mispronounce her name"
-    excerpt: "Mispronouncing Harris' name has become one of President Trump's frequent jokes at his campaign rallies."
-    publishedDateTime: 2020-10-31T14:48:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-fires-back-at-trump-for-mispronouncing-her-name-2020-10?amp"
+  - title: "How Trump tried to steal Michigan"
+    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
+    publishedDateTime: 2020-11-19T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f9d610969331a0011bc68dd?width=1200&format=jpeg"
-        width: 1000
-        height: 500
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "President Donald Trump handily wins Kentucky once again"
-    excerpt: "President Donald Trump nabbed another decisive victory in Kentucky after the polls closed in the Bluegrass State on Tuesday."
-    publishedDateTime: 2020-11-06T21:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/03/president-donald-trump-wins-2020-election-kentucky-ease/6130620002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6130620002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6130620002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/02/NLED/391a71ca-8580-45d5-9b96-8d0ab452c96f-AP20307617419308.jpg?auto=webp&crop=5999,3374,x0,y43&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence responds: I stand with President Donald Trump"
-    excerpt: "Vice President Mike Pence was not with President Donald Trump during his press conference this afternoon. He later tweeted he stands with the president and that we must count every legal vote. Eamon Javers joins Shep Smith to talk about the various responses from members of the Republican Party in support of President Trump."
-    publishedDateTime: 2020-11-06T01:48:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/05/vice-president-mike-pence-responds-i-stand-with-president-donald-trump.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 120
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106783180-16046249101604624906-12295478233-1080pnbcnews.jpg?v=1604624909"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Donald Trump won Ohio: A closer look at the campaign in a battleground state"
-    excerpt: "President Donald Trump improved on his 2016 map; former Vice President Joe Biden couldn't make up the difference in the cities and suburbs."
-    publishedDateTime: 2020-11-06T21:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/04/how-donald-trump-won-ohio-again/6161704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6161704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6161704002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/25/PCIN/bbc1d0b4-2ba3-472e-ac4c-cef8974a5311-AP20298827401012.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Amid record U.S. cases and new White House outbreak, Trump claims pandemic progress"
-    excerpt: "With U.S. coronavirus cases at record levels, President Donald Trump on Sunday repeated his refrain that the nation is \"rounding the turn\" in the pandemic, while Vice President Mike Pence pressed ahead with campaigning despite positive COVID-19 tests among multiple aides."
-    publishedDateTime: 2020-10-25T20:04:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/amid-record-u-s-cases-and-new-white-house-outbreak-trump-claims-pandemic-progress-idUKKBN27A04S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27A04S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27A04S"
+  - title: "Trump to meet Michigan lawmakers in bid to overturn electoral defeat"
+    excerpt: "President Donald Trump will meet with Republican leaders from Michigan at the White House on Friday as his campaign pursues an increasingly desperate bid to overturn the Nov. 3 election following a series of courtroom defeats."
+    publishedDateTime: 2020-11-20T15:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2800I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2800I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2800I5"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201025&t=2&i=1538782576&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9O0OK"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541913916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ09J"
+        width: 746
         height: 545
         isCached: true
-  - title: "CBS News projects Pres. Trump wins Indiana"
-    excerpt: "Watch \"CBS News projects Pres. Trump wins Indiana\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-04T02:47:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201104014307-cbs-news-projects-pres-trump-wins-indiana/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/04/story_07533968_1604454424.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Here's how President Donald Trump won Ohio by almost exactly the same margin as in 2016"
-    excerpt: "Former Vice President Joe Biden thought he could pull off the upset in bellwether Ohio, but Donald Trump used the same formula as in 2016 to win."
-    publishedDateTime: 2020-11-06T21:22:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/presidential/2020/11/04/analysis-how-donald-trump-easily-beat-joe-biden-battleground-ohio-election-day-results-for-president/6050222002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6050222002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6050222002"
+  - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
+    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
+    publishedDateTime: 2020-11-19T19:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/dc081906-4689-4966-9229-50734c07c33f-AP_Biden_1.jpg?auto=webp&crop=1464,824,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Not credible': Michigan court ruling another legal setback for President Trump"
+    excerpt: "A Michigan judge has denied a petition to block the certification of the 2020 election results in the heavily Democratic county that is home to Detroit, another legal setback for the Trump campaign, which has similar cases in several states."
+    publishedDateTime: 2020-11-14T02:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/counting-ballots-michigan-ap-jt-201113_1605303384179_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
+    excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-19T18:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump mounts all-out assault on election result in Michigan"
+    excerpt: "President calls county officials in attempt to derail Biden victory and plans to fly Republican Michigan lawmakers to Washington"
+    publishedDateTime: 2020-11-19T23:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/trump-michigan-election-result-assault-challenge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/cb5f38c73d8f61cfde138203bde53d3ea79cb07c/0_7_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa6c55620d9571f51e996ad13e363ad"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump withdraws federal lawsuit in Michigan, citing Wayne County canvasser affidavits"
+    excerpt: "The Trump campaign inaccurately characterized the actions of the Wayne County Board of Canvassers in its rationale for withdrawing the federal lawsuit."
+    publishedDateTime: 2020-11-19T16:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-michigan-lawsuit-detroit-wayne-county-canvassers/3776829001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776829001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776829001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
+    excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
+    publishedDateTime: 2020-11-14T23:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/ploy-flip-electors-trump-rejected-republican-leaders-4-key-states/6298966002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6298966002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6298966002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/PDTF/bb6e1ae0-d323-4fb5-affe-938c5d4faa75-AP20318849667174.jpg?auto=webp&crop=5703,3208,x0,y244&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
+    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
+    publishedDateTime: 2020-11-18T06:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 97
-  - title: "Vice President Mike Pence's top aides test positive for COVID-19, but he continues to work"
-    excerpt: "Mike Pence plans to preside over the Senate floor during a vote on Amy Coney Barrett's confirmation despite several of his top aides contracting COVID-19."
-    publishedDateTime: 2020-10-26T17:18:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/26/mike-pences-top-aides-test-positive-covid-19-vp-not-quarantining/6042345002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/26/USAT/33880932-5dfc-4a5a-86fc-4d0a3c6a7adb-VPC_PENCE_AIDES_HAVE_COVID_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Pence brings Trump’s closing message to Florida’s capital city"
-    excerpt: "Pence also continued the Trump administration’s focus on a positive spin about how they have handled the virus. The vice president promised a COVID-19 vaccine by the end of the year and vowed to reopen the economy and schools."
-    publishedDateTime: 2020-10-25T01:47:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/elections/2020/10/24/pence-brings-trumps-closing-message-to-floridas-capital-city/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 90
-    images:
-      - url: "https://www.tampabay.com/resizer/BYIRCtzhvxKarsiUDB61KZGh2YA=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/47HOJ2DIOZCQHJESLMYKRGX44M.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Mike Pence: ‘Show them Michigan is Trump country’"
-    excerpt: "Vice President Mike Pence asked Michigan voters to prove the state is “'Trump country” during a campaign appearance just six days from the election. Pence held a campaign rally at Bishop International Airport in Flint Wednesday,"
-    publishedDateTime: 2020-10-28T23:49:00Z
-    webUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html"
-    ampWebUrl: "https://www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/politics/2020/10/mike-pence-show-them-michigan-is-trump-country.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/U55OY3N3QRD2TGTDUAHHXF5NDQ.JPG"
-        width: 1300
-        height: 867
-        isCached: true
-  - title: "Vice President Mike Pence in Iowa to rally support for Trump, Ernst"
-    excerpt: "DES MOINES — Mike Pence and Joni Ernst stood on stage together and waved to the adoring crowd, two elected officials who find their respective re-election bids in real danger of losing in Iowa ..."
-    publishedDateTime: 2020-10-29T22:19:00Z
-    webUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.html"
-    ampWebUrl: "https://qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
-    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-in-iowa-to-rally-support-for-trump-ernst/article_cbccdf63-abd3-5f00-aa53-10f3c23a7d4d.amp.html"
-    type: article
-    provider:
-      name: Quad-City Times
-      domain: qctimes.com
-    quality: 90
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/6/62/6627b57c-d6bc-53d5-bdbd-d41ae599d8ab/5f9b3d433bf67.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Opinion: Vote for Donald Trump and Mike Pence"
-    excerpt: "Republican Party of Virginia Chairman Rich Anderson makes his party's closing argument on behalf of Donald Trump and Mike Pence."
-    publishedDateTime: 2020-10-31T06:05:00Z
-    webUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html"
-    ampWebUrl: "https://www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/opinion/vp-ed-column-anderson-1101-20201031-q7a7m32n2zdvbbobazuhzm7kw4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 90
-    images:
-      - url: "https://www.dailypress.com/resizer/ViTXaWpsZsnPSk2_BYdQmIIprrM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/U7O5QYGEJYFLJRZ6GTUVFO5HLA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Pence, in Arizona, says enthusiasm for Trump greater now than in 2016"
-    excerpt: "PHOENIX — Vice President Mike Pence, campaigning Friday in Arizona ahead of Election Day, believes enthusiasm for President Donald Trump is greater now than it was in 2016. Pence told KTAR News ..."
-    publishedDateTime: 2020-10-30T17:45:00Z
-    webUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/"
-    ampWebUrl: "https://ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/3661520/vp-pence-in-arizona-says-enthusiasm-for-trump-greater-now-than-in-2016/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 89
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2020/10/ap_2838d59a37064c5aa5590d683595b799-1-1.jpg"
-        width: 620
-        height: 370
-        isCached: true
-  - title: "Vice President Mike Pence rallies Iowa support for Donald Trump, Joni Ernst"
-    excerpt: "Vice President Mike Pence and U.S. Sen. Joni Ernst stood on stage together Thursday, waving to supporters with the Iowa Senate and presidential races in a dead heat heading into Election Day. “Four years ago you believed we could be strong again,"
-    publishedDateTime: 2020-10-30T06:28:00Z
-    webUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029"
-    ampWebUrl: "https://www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/vice-president-mike-pence-rallies-iowa-support-for-donald-trump-joni-ernst-20201029?template=amphtml"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 88
-    images:
-      - url: "https://www.thegazette.com/storyimage/GA/20201029/ARTICLE/201029661/AR/0/AR-201029661.jpg&MaxH=300&MaxW=500"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "In Flint, Mike Pence downplays systemic racism and urges support for Donald Trump"
-    excerpt: "President Donald Trump supports law enforcement, does not believe in institutional racism and is the only right choice for the voters of Michigan, Vice President Mike Pence said during a speech in Flint on Wednesday evening. The speech came six days ..."
-    publishedDateTime: 2020-10-29T01:04:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/28/mike-pence-flint-systemic-racism-trump/6062946002/"
-    ampWebUrl: "https://amp.freep.com/amp/6062946002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6062946002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PDTF/8e0b3abe-1494-47ca-8690-84a0c02238fb-AP20296625847430.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Flint Wednesday"
-    excerpt: "Today the Trump Campaign announced Vice President Mike Pence will hold a rally on Wednesday evening, in Flint."
-    publishedDateTime: 2020-10-26T16:51:00Z
-    webUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/"
-    ampWebUrl: "https://www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/your-local-election-hq/vice-president-mike-pence-to-make-campaign-stop-in-flint-wednesday/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 75
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/23f542e2e71148e6bf2a33da67870ac8.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Hundreds attend rally to see Vice President Mike Pence in Greenville"
-    excerpt: "The vice president had landed in Greenville, an Upstate South Carolina city that is, in most regards, strongly considered to be Trump country. “I don’t want to lose this country to Joe Biden,\" said Dean Cox,"
-    publishedDateTime: 2020-10-28T15:51:00Z
-    webUrl: "https://www.wyff4.com/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    ampWebUrl: "https://www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/hundreds-attend-rally-to-see-vice-president-mike-pence-in-greenville/34500226"
-    type: article
-    provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/img-5460-1603849421.jpg?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Who Is Captain Moroni And Why Is He Being Compared To President Trump?"
-    excerpt: "Sen. Mike Lee, (R-Utah), compared President Donald Trump to a figure in the Book of Mormon at an Arizona rally on Wednesday."
-    publishedDateTime: 2020-10-29T14:50:00Z
-    webUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574"
-    ampWebUrl: "https://www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-captain-moroni-why-he-being-compared-president-trump-3072574?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/28/us-president-donald-trump-campaigns-in-arizona-promising.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Pence continues Hoosier streak of one-term vice presidents"
-    excerpt: "With Vice President Mike Pence projected to lose his reelection bid, none of the four Republican vice presidents hailing from Indiana ever have served more than one term."
-    publishedDateTime: 2020-11-07T18:45:00Z
-    webUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.html"
-    ampWebUrl: "https://www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
-    cdnAmpWebUrl: "https://www-nwitimes-com.cdn.ampproject.org/c/s/www.nwitimes.com/news/local/govt-and-politics/elections/pence-continues-hoosier-streak-of-one-term-vice-presidents/article_61c0b650-1b01-552e-929d-8322272f78e0.amp.html"
-    type: article
-    provider:
-      name: Northwest Indiana Times
-      domain: nwitimes.com
-    quality: 75
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/7b/a7be45ba-d9a8-566f-b4dc-15f0bd11e7a1/578803e54016d.image.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Mike Pence: The Calm To Trump's Storm"
-    excerpt: "Vice President Mike Pence is the calm to Donald Trump's storm, bringing a sedate demeanor and the religious, conservative ballast the men hope will spare them from losing the White House."
-    publishedDateTime: 2020-10-30T00:00:00Z
-    webUrl: "https://www.barrons.com/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    ampWebUrl: "https://www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/mike-pence-the-calm-to-trump-s-storm-01604111106"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 70
-  - title: "With time short, Vice President Mike Pence returns in effort to keep Arizona red"
-    excerpt: "Vice President Mike Pence will campaign in Flagstaff and Tucson as the presidential race in battleground Arizona goes down to the wire."
-    publishedDateTime: 2020-10-30T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/30/vice-president-mike-pence-returns-effort-keep-arizona-red-flagstaff-tucson/6078523002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6078523002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6078523002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Locals Teed Off About New Trump Golf Course In Scotland"
-    excerpt: "On the roof of his house overlooking the sea in northeast Scotland, David Milne stands below a Mexican flag and stares down at a palatial golf clubhouse owned by Donald Trump. Milne has been a major opponent of the development ever since the US president began building the Trump International Golf Links near the village of Balmedie in 2006."
-    publishedDateTime: 2020-10-30T04:46:00Z
-    webUrl: "https://www.ibtimes.com/locals-teed-about-new-trump-golf-course-scotland-3072966"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/29/david-milne-seen-on-a-hillside-above-the.jpg"
-        width: 1024
-        height: 705
-        isCached: true
-  - title: "Vice President Pence Speaks at Trump Campaign Rally in Reno, Nevada"
-    excerpt: "Vice President Mike Pence spoke at a Trump campaign rally at the airport in Reno, Nevada."
-    publishedDateTime: 2020-11-04T06:21:00Z
-    webUrl: "https://www.c-span.org/video/?477488-1/vice-president-pence-speaks-trump-campaign-rally-reno-nevada"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
-  - title: "Vice President Pence Trump Campaign Rally in Elm City, North Carolina"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Elm City, North Carolina. He touted the administration's achievements and spoke about its efforts to rebuild the military, support law enforcement,"
-    publishedDateTime: 2020-11-04T18:59:00Z
-    webUrl: "https://www.c-span.org/event/?477602/c2020-vice-president-pence-holds-rally-elm-city-nc"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 50
   - title: "President Trump and Vice President Pence Speak at Campaign Rally in Traverse City, Michigan"
     excerpt: "President Trump and Vice President Mike Pence spoke at a campaign rally in Traverse City, Michigan. There are about 16 minutes between the vice president and president's remarks."
     publishedDateTime: 2020-11-04T03:22:00Z
@@ -444,33 +282,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 40
-  - title: "Vice President Pence Holds Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3."
-    publishedDateTime: 2020-10-30T13:55:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Holds Rally in Flagstaff, AZ"
-    excerpt: "President Pence delivers remarks at a campaign rally in Flagstaff, AZ. He and President Trump are trying to win the state again after beating Democrat Hillary Clinton in Arizona’s 2016 results by 3.5 points."
-    publishedDateTime: 2020-10-30T07:24:00Z
-    webUrl: "https://www.c-span.org/video/?477537-1/vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Flagstaff, Arizona"
-    excerpt: "Vice President Pence spoke at a Trump campaign rally in Flagstaff, Arizona. He criticized the Biden-Harris ticket and made the case for President Trump's re-election. The vice president was introduced by Senator Martha McSally (R-AZ)."
-    publishedDateTime: 2020-11-03T16:52:00Z
-    webUrl: "https://www.c-span.org/event/?477537/c2020-vice-president-pence-holds-rally-flagstaff-az"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "djEVYS4LLhev4LVBOR4bc3kLB48YyKGcB77plZBFj0smR9RkAit61MKTJsHe1A9Bxm2Q+VgLFfkvU4Giktl+FDum11Wyd7lHcZydgNd2g1ve4Le5P9xXaKPPhC5Uzdj2AHnFJydGIxk2c38vwBrjpz5idnSFvPP46yDtIUb3YnmLF+vGIaW6WpFQ20KwP7osvHcT53xq9xrhDK9irxjkW1eOxtcqsoryp2oESl5haa4gPTz/XSw9wHeZMm1ooZ5FsL0R16HBKHDnpv4hMCz9zzpY7bkHGrG2rROCwcBRs9PlU49q7ls4cRRZlNcBQ7Pisb29Wmuo3bihuLCSMPEyb/dfd7cXIMi70/ZetpGkVDTwPDXXgxjOnMPOWudZKaKSOM75Ct4QI/c9l0opm8qHi4ul5ElfzJy/da90w6Sv+BKees/ceNDEKROy3dwVtR2qXv+TGhWotnYWLaPBJOGSycipjCoDS/deUj7IJMzHCIYpFwj5MJxmxcmvXQLwdhh3Ntqq9AJwzKasiDUqy+r6Zg==;7KeDb/CMy8l+hQGCJAmNmQ=="
 ---

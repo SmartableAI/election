@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6181186002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6181186002"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYJWDOBCYUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 994
-        isCached: true
-  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
-    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 96
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
-        width: 6720
-        height: 4480
         isCached: true
 
 secured: "ZqZRW94eASPkVoRkDBDoLfaFFptr/m4l1EZU8Oqi/0loD2jIcdGULB9DioujK9SvwWLlJZxA9pSnNOsIjsePqFKbjZRsPHE5HYtdoBZK1r9sgRv7fhI4iNzZeRGsCcX+zrkp3DCQN6Eg5KXs6Nu+oGGpzzJe/LT7l6vH1dxJl+mlfWvgmBArjEZhgTQCQDs5M8baGL89aPTEEsLYngb7hQWPdR6VftIKd1fLLpODmR4+tfnSsM3m5X4nuhJ4TliWaWoHnKPzVzLy93IREBcA2zB6rokHaLIRzq5rFPQo+2AIN/HKofKd1xscr86aUaSvQZeUksgMPQco4d1x/iwOnTIrSQm7hBS6R7WV4JxqSgZKOPS2HQdAT0wQmVaBVCyNzNKXZa6nME76jW7fcNpDgmkGm2/fvmHxrKep74bjs5HjnXxdoJQiW8mhfxe0OUUale78KZRAmHiNUpZM74mYO3ps44dm1cnZr4Hhml73Z/Ggfc0LopH0w+pyuXNxohpmmelnunlY0OtJENx6LYvUyQ==;23Son2o6O0Z6cF/RmEUCCw=="

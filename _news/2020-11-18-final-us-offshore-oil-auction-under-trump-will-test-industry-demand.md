@@ -41,6 +41,22 @@ related:
         width: 753
         height: 545
         isCached: true
+  - title: "Trump fires election security official who contradicted him"
+    excerpt: "Donald Trump says he has fired a top election official who contradicted the US president's claims of voter fraud. President Trump said he \"terminated\" Cybersecurity and Infrastructure Security Agency (Cisa) chief Chris Krebs for his \"highly inaccurate\" remarks on vote integrity."
+    publishedDateTime: 2020-11-20T14:53:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-54982360?swpmtx=4ea60037c5a8cf8ec91499d3abbefdda&swpmtxnonce=f79901a55c"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-54982360"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-54982360"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15E0E/production/_115541698_mediaitem115541697.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
     excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
     publishedDateTime: 2020-11-18T06:46:00Z

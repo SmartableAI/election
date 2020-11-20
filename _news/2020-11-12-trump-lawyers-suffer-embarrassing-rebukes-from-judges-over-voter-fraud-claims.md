@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "No, Trump is not attempting a ‘coup.’ Here’s why the distinction matters."
-    excerpt: "But while the steps Trump and other Republicans officials have taken to discredit the results of the election are enormously damaging, they do not constitute a coup. This is not m"
-    publishedDateTime: 2020-11-11T22:45:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XZLP6QREHAI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
     excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
     publishedDateTime: 2020-11-12T14:21:00Z
@@ -79,19 +63,37 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "The Psychological Toll of 4 Years of Donald Trump Will Linger. Disciplined Hope Can Help Us More Forward"
-    excerpt: "In our fight against the oppression intensified by the Trump Administration, we have resisted Muslim bans, family separations, police violence, natural disasters, man-made disasters, undermined protections and compromised social safety nets."
-    publishedDateTime: 2020-11-10T16:27:00Z
-    webUrl: "https://time.com/5909885/after-donald-trump/"
+  - title: "Latinas for Trump founder unseated Florida Democrat after ‘shadow candidate’ with his surname entered the race"
+    excerpt: "Alex Rodriguez did not live in Miami and had never been involved in politics. But he did share a last name with the Democratic incumbent in a heated race for state Senate."
+    publishedDateTime: 2020-11-20T16:31:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/20/florida-election-trump-senator-rodriguez/?outputType=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 88
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/michelle-gustafson-joe-biden-kamala-harris-victory-speech.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
+    excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
+    publishedDateTime: 2020-11-19T10:51:00Z
+    webUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/darren-beattie-trump-speechwriter-white-nationalist-ties-rehired-holocaust-memorials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fb64cfa32f2170011f6ff67?width=1200&format=jpeg"
+        width: 1064
+        height: 532
         isCached: true
 
 secured: "BR/KcxmRha8GYzFzUvA73RcJ5idckAO/kyLR2jKJD6t1ezk1Bw+KYl2v6Em8XF+5QBthgtM2wd6+EEbUA/XfHAsPtdT98t1GDKBG0HeblwP3Z+2Aycoyp0vkgs1n9tM3+KT2De7LWlj/azM3AGgcYlsoyeJX1NgmP29cz15SPfgMD4YXKELdDGAdlcwacDrLWW02GF+u5wk47KlRmgVxI8Kf2/pa6jEzQAnLILoDsDIMHlm6DoptktwexYHm7gRdgLr88Sp3whRNtwT7TGWiYpgK+yPNox354xGjofIhv82KbMoSzNs2S7/5tHnBCEGQ9QQ8O/4KsfzjCX/Gd/fwL1zZbno20CEXEqjDVomMDzYmohAnsN9u05z8bZDf00u0FVnjpDXTlXDAdLKNqSe6RO7t3QyR533d+s+3g5XMBo8dNBjLjWMrM5cjXXzeWPVUl4UV01jeOYyyUEXqkMmQ4REvEBhwN8DIg2IeWEm3+yQDU5igzcl4ls9tntHCvRRNJWOGKHKIqjYpJ0QPdyL2Qg==;PpHECpokVHAEa88xlcfgGA=="

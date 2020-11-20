@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 205
+published: true
 
 provider:
   name: ABC
@@ -31,163 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump bans U.S. investments in firms linked to Chinese military"
-    excerpt: "The Trump administration on Thursday unveiled an executive order prohibiting U.S. investments in Chinese firms that Washington says are owned or controlled by the Chinese military, ramping up pressure on Beijing after the U."
-    publishedDateTime: 2020-11-13T12:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-securities-exclusive-idUKKBN27S2X3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27S2X3"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27S2X3"
+  - title: "Trump faces Wednesday deadline for Wisconsin vote recount"
+    excerpt: "President Donald Trump faces a Wednesday deadline to file for a recount in Wisconsin after Democrat Joe Biden defeated him in the state by more than 20,600 votes based on final canvassed totals. The totals submitted by all 72 counties to the state elections commission showed Trump with a roughly six-tenths of a point margin — close enough for Trump to file for a recount."
+    publishedDateTime: 2020-11-18T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-faces-wednesday-deadline-for-wisconsin-vote-recount/2020/11/18/5e9362f6-29ad-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541108180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0WZ"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Donald Trump wins North Carolina"
-    excerpt: "Donald Trump wins North Carolina. Trump taps Giuliani to take over election legal fight: Sources 24/7 coverage of breaking news and live events"
-    publishedDateTime: 2020-11-14T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/donald-trump-wins-north-carolina-74199063"
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump's Pentagon shake-up has the military worried about its future"
-    excerpt: "In recent days, President Donald Trump has shaken up Pentagon leadership, firing his defense secretary and installing officials seen as loyalists."
-    publishedDateTime: 2020-11-13T16:10:00Z
-    webUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/military-worried-trump-leadership-changes-may-upend-apolitical-nature-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5dcf2b2be94e862b3f19f618?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump hints at primary challenge for DeWine in tweet"
-    excerpt: "President Donald Trump appears to be encouraging a primary challenge to Ohio Gov. Mike DeWine in a Monday tweet."
-    publishedDateTime: 2020-11-16T23:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/trump-hints-primary-challenge-dewine-tweet/6309631002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6309631002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6309631002"
+  - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
+    excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
+    publishedDateTime: 2020-11-13T15:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/13/election-2020-trump-voter-fraud-claims-slammed-ex-officials/6276446002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6276446002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6276446002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump keeps losing in court. He keeps losing his lawyers, too."
-    excerpt: "And as things have progressed, Trump has confronted another glaring and growing problem: keeping his legal team intact. Over the past 10 days, three large law firms have distanced themselves from him and his claims,"
-    publishedDateTime: 2020-11-17T22:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-keeps-losing-court-he-keeps-losing-his-lawyers-too/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7OSJKBC3AI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Criminal probe, legal fights await Trump after White House"
-    excerpt: "President Donald Trump’s legal entanglements are likely to intensify when he leaves the White House and loses immunity from prosecution"
-    publishedDateTime: 2020-11-20T06:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/criminal-probe-legal-fights-await-trump-white-house-74311367"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
-    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
-    publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 107
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump officials unveil new U.S. citizenship test, as advocates worry it is too long, difficult and politicized"
-    excerpt: "The Trump administration unveiled a new U.S. citizenship test on Friday, adding a broader array of history and civics themes while requiring that legal residents answer twice as many questions correctly to pass."
-    publishedDateTime: 2020-11-14T00:21:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/new-us-citizenship-test-trump/2020/11/13/2029723e-25e9-11eb-8672-c281c7a2c96e_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOKWLERGBII6XJUIKKMK2XKYBI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
-    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
-    publishedDateTime: 2020-11-18T20:40:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
-    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
-    publishedDateTime: 2020-11-20T07:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+  - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
+    excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."
+    publishedDateTime: 2020-11-19T12:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-chief-of-staff-lets-slip-president-may-leave-office-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 93
     images:
-      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fb6684132f2170011f6ff9d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

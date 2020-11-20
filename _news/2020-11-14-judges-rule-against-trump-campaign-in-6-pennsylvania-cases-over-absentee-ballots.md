@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior GOP lawmakers grow anxious over Trump's effort to overturn election results "
+    excerpt: "A growing number of veteran GOP lawmakers are pushing back on President Donald Trump's tactics to overturn election results showing he lost the race, raising concerns that his tactics could hurt the US response to the coronavirus crisis and undercut a key pillar of democracy.\n    \n"
+    publishedDateTime: 2020-11-20T17:46:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/juQ2sPW01Aw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/gop-lawmakers-call-on-trump-to-begin-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/gop-lawmakers-call-on-trump-to-begin-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205170728-01-lamar-alexander-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Inside Rudy Giuliani's attempt to sow chaos on behalf of Trump and steal the election"
     excerpt: "One day before the Trump campaign's legal team needed to convince a federal judge that Joe Biden shouldn't have won Pennsylvania, Rudy Giuliani didn't like what he was hearing. Lawyers were going over arguments for the case at the Trump campaign headquarters in Arlington, Virginia, when Giuliani suddenly"
     publishedDateTime: 2020-11-20T00:16:53Z

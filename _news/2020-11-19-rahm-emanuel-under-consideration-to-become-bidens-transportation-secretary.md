@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportation-secretary/index.html"
 type: article
 quality: 173
-heat: 293
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Former GSA administrator: 'It's clear' we should recognize Biden as the President-elect"
-    excerpt: "The former head of the General Services Administration during the 2000 election said Thursday that he would ascertain the 2020 results and begin the formal transition to a Joe Biden presidency, which the current administrator has yet to do.\n    \n"
-    publishedDateTime: 2020-11-19T14:44:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gzxcA_bpRM0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/david-barram-gsa-2020-election-cnntv/index.html"
+  - title: "Biden taps several long-time aides for White House roles "
+    excerpt: "President-elect Joe Biden has tapped Louisa Terrell, a long-time aide and Capitol Hill veteran, as his director of legislative affairs -- a role that means she'll be in charge of shepherding Biden's agenda through what could be a divided Congress.\n    \n"
+    publishedDateTime: 2020-11-20T16:06:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119081000-former-gsa-administrator-david-barram-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia to certify Biden's win today, officials say"
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Friday that he'll certify President-elect Joe Biden's victory later in the day and will formalize the razor-thin presidential results after a statewide audit confirmed that Biden got more votes than President Donald Trump.\n    \n"
+    publishedDateTime: 2020-11-20T14:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDjrObsfZj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
+    excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
+    publishedDateTime: 2020-11-20T00:38:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vD5kvSJ24dE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden discusses mask mandate and vaccine distribution with bipartisan group of governors"
+    excerpt: "President-elect Joe Biden discussed a national mask mandate, plans to distribute a coronavirus vaccine and the need to help cash-strapped states Thursday in a meeting with Republican and Democratic governors.\n    \n"
+    publishedDateTime: 2020-11-19T22:29:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-a1izFV5Cpk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden acknowledges 'real brick walls' he'll face in Senate during video call with supporters"
+    excerpt: "President-elect Joe Biden acknowledged in a private video call with supporters on Wednesday that he will face \"real brick walls\" in the Senate if Republicans maintain their majority but said he thinks he can overcome the political divides that may exist.\n    \n"
+    publishedDateTime: 2020-11-19T00:23:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118140725-02-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "HHS secretary says department won't work with Biden's team until federal agency determines he won"
     excerpt: "The Health and Human Services Department will not work with President-elect Joe Biden's team until the General Services Administration makes a determination that he won the election, Secretary Alex Azar said Wednesday, even as public health experts stress that a smooth transition is a critical part of"
     publishedDateTime: 2020-11-18T20:56:53Z
@@ -76,6 +140,54 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190605154236-hhs-alex-azar-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Advice for Biden? We Want to Hear Yours"
+    excerpt: "We ask readers how the incoming president should confront the serious challenges that will face him. What do you see as the greatest challenge facing Joe Biden’s presidency? What advice would you give him to overcome it and avoid the pitfalls?"
+    publishedDateTime: 2020-11-18T02:19:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/18/world/18DC-BIDEN-TRADEjump02-inyt/merlin_179818962_2b8e0bbf-dd09-4f19-ba73-7300f0fb068e-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden praises health care workers during virtual roundtable"
+    excerpt: "President-elect Joe Biden held a virtual roundtable with frontline health care workers and assured them he would advocate for them as president and promised \"there is hope on the way.\"Nov. 18, 2020 © 2020 NBC UNIVERSAL"
+    publishedDateTime: 2020-11-19T05:16:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-praises-health-care-workers-during-virtual-roundtable-96158789761"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96158789761"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96158789761"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/there_is_hope_on_the_way.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden, nurse share emotional moment during virtual roundtable"
+    excerpt: "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett."
+    publishedDateTime: 2020-11-19T02:34:00Z
+    webUrl: "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,19 +223,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
-    excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
-    publishedDateTime: 2020-11-19T23:24:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
+  - title: "Biden was asked about canceling student loan debt. Progressives saw an opening."
+    excerpt: "The question the reporter asked  Joseph R. Biden Jr. on Monday was simple enough: Did canceling student-loan debt figure into his plans for the economy and would he take executive action to do it? “It does figure in my plan,"
+    publishedDateTime: 2020-11-19T17:53:00Z
+    webUrl: "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 121
+    quality: 131
     images:
-      - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18TRANSITION-BRIEFING-GEORGIA1/18TRANSITION-BRIEFING-GEORGIA1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

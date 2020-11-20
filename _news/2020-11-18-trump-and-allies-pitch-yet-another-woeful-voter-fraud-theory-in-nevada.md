@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/17/trump-allies-laun
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/17/trump-allies-launch-yet-another-woeful-voter-fraud-theory-nevada/?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 145
 published: true
 
 provider:
@@ -46,34 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYAKUOBDPYI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T10:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119001617-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Are there any other potential Trump firings?"
-    excerpt: "Watch \"Are there any other potential Trump firings?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201119071551-are-there-any-other-potential-trump-firings/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/19/story_07761281_1605770173.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "yVfj+gNO4ct4hHCWlfqONA5ZOSTXsRk3TcpLTGUI2tNGnTozkhsUZNUlmkJrJyfmDMzoeyqGNSojHvdmjSTlrHxQsJIusMMsA5bspM6k1BU6J2prAjR3iMDK0xhOuPaohANi8uj50JEFdgBaWr/QxBa0YNEh7k4hL0USJ+tD+oyplZ1RwrDBSW77S4IELO7TvJYDuVDjhOnjjOuQoFNcnnXKOHEjuSQu+vyNwBiP/oebQi72QNaUBLUkmrq6bv3mv3fOVhTzzSlqpVVfQ61kOavL38dyeu14ZVRAfBNu/vFVOCjqBJCRcCINb0pn7s6KSXofabRyLsKt7nedsyFer5Ql7IlPAaRwAr0JUMTdTZK1b3WhCITHvOXsPlMIT3Tn0ctS3K51FsOeXlc3v+KvYCql7zkmt2IiFMz68HKPVv32A8rp//9bvCyTlNXxqLhl0wQGotnFwl4pEML6Wb+760szhimmkNN6xXavMmukYCoJP9TtuJjVToHMgfJ5UwaolWdLPnuDnC0hcS/9eP6tWQ==;ekGnUYwwYH5q+KnZ/3VpSg=="

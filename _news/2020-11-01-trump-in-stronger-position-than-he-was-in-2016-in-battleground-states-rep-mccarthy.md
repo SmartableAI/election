@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lara Trump, Mark Meadows consider running for North Carolina Senate seat in 2022"
+    excerpt: "Trump campaign adviser Lara Trump and White House chief of staff Mark Meadows are both considering running for Senate in North Carolina after Sen. Richard Burr announced he would not seek reelection in 2022, Fox News has learned."
+    publishedDateTime: 2020-11-20T15:33:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fSQgFkM777Q/lara-trump-mark-meadows-north-carolina-senate-seat-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
     excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
     publishedDateTime: 2020-11-04T07:51:52Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5faf7e29402d49001924efb8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
+    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
+    publishedDateTime: 2020-11-13T14:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "tCJxDvOaqKXqVPA/Aao5yOSainn70FLBDaFVdP5owPygQQJ+20/uBaxJs8t6vx3EqlRy9uYBXVmyvf9sgc2XBiz4I0MaXKnoa9/0BTjH8U7Wp04+uGZaq74bgvezI0szqj+aueVCSbw/8tm+DMC0aOeJOiKFjH38wQY9nzz9IOGJfOIQXReBm/vWNydLDZRUw0kVjr4Xypurrbqo6ujYwxzATwcZHfY9aayGc7mqFikugAB5y6oY7dA0NJ0ojQ477zSO7JgUj13WlwSWgzn2PZt1nJKvWkxefInxtIXJgSvTpD66l6JFQQ0ub1XaWVA0TiUQZDyYsDX6jUIcVQZmCJMJYZDBagiBwArbvKHvkHgs+OS3C6sFVP4oDg7zbE9diDtvA99CPzdNWhJBZuwyze4ydI/jl2rj99zQnnzP40dAmY3thiq//qn3++Y4gOti4ETQUxAiexT1YWmoHjaM2X3e5V1mT8Fp3md+2fTeMAZe28pENtsg5aGlllxOy7Qb93yTj869Z7fc65QKTaTb0A==;Yw03hldB08gyhY2blzsTtw=="

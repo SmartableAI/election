@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6282623002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002"
 type: article
 quality: 117
-heat: 137
+heat: 177
 published: true
 
 provider:
@@ -44,6 +44,36 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 81
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "NbyTWMtqiRE3rmiBHnIY4fnjOPrgurXKaoxuIqEPzO1tKrECvAZ+cMVMa2O56fRSRc+gXIif4eSIU5XIFRCbgGx1WiK7SRVZS/d5guBJp7CdvgHhpdk07KMQFBBnDvxMmE92iLCsbGEv0QDSkq5mh2PQxS4ZPz7ILpizLcT9OX2YTXU6A7CV0u9/tob92+Te17L3mflgA82r4YUdPfzNDomz80o2SL4qV4UW1lWJnCTtqunkXghXzPasuAcRDIzRBh0rOrC5Y1JO0etHANthXfW0GMgwMEmqwz2GJH+7n78iqC+G+CsS8+rv9hnFUiPbwEdp1GBk+gWQvSiE+1ssTf1NzusGMjPZrcPCNx9TYWY=;GacgJ+Dz5j1FkFcdQgSbgw=="

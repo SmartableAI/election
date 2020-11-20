@@ -31,69 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "America's bellwethers crumbled in aligning with Trump in '20"
-    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
-    publishedDateTime: 2020-11-19T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+  - title: "New York subpoenas Trump Organization records on consulting fees paid to Ivanka"
+    excerpt: "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump."
+    publishedDateTime: 2020-11-20T10:31:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
-    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
-    publishedDateTime: 2020-11-19T19:42:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
+  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
+    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
+    publishedDateTime: 2020-11-20T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "If the GOP doesn't quit its Trump addiction it'll suck the life out of American democracy"
-    excerpt: "It's pitiful to see most of Trump's party join him in burning everything down after his loss, and it does not bode well for the future of our country."
-    publishedDateTime: 2020-11-15T22:34:00Z
-    webUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-quit-trump-addiction-suck-life-out-destroy-american-democracy-2020-11?amp"
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 116
+    quality: 89
     images:
-      - url: "https://i.insider.com/5faf1bc31c741f0019ac9d43?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
-    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "LtV4vcDIYOlRDQ0nm+NRo+hm2klTzTuVqKRx8vDsCZhDYJrCfZLXbt52ao4XA49cjuJgPjvmfnFyNZLFoNWdvrHhp9DPbGc6gxBfmTonY/SXHhq3OaHtNmFHVhQquJY7vgK16CCL1tHOR8lN64ZbOuKus1LigAYt128XcXOqzZjBY6hANcldpumcCM2lVHtHAFMLcYXPKkrYa+yaEbLmRHZgw+PQhpCA77duKCBiz5qWt6upspXbYB63AWU3T7wdNGPZE5X8Q+JPhOHc3H34zqTXf928hHUg9Brj7PS3dNTXjDh8akbQZcMct9MDhDQApgIrmP2b9vhgxhMOy5gvBfhWABSswvZWtQR3ObQtnkU=;P4Y9BPadxdZ68YGvxomL9w=="

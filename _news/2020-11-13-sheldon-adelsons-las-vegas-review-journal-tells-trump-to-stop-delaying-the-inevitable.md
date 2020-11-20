@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelson
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willyakowicz/2020/11/13/sheldon-adelsons-las-vegas-review-journal-tells-trump-to-stop-delaying-the-inevitable/amp/"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5POELBWLQEI6VGNQQQTOE3JAHM.jpg&w=1440"
         width: 1440
         height: 945
+        isCached: true
+  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
+    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
+    publishedDateTime: 2020-11-20T16:43:00Z
+    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Cu/AK9wApSflIfYMmm0woUj41SuB7epTPTIB/FJ+AxOa5fGbfBcei72A9r7p3F0vAIJJ/jZXKlERyM42/bQFF8E4oG/tp6dFa/aH7683lUWDJQ1BYmG4SNpCytlFXAvL7vDqca9NCVLG4zqUgqYhRJPzqKDAhjkAyNx/VjdApfwkY/44tYcpE5C0gIn8fDtN/DtC39TIg3UUTcKsFmpmL7qvDoftq4U5jLS0VIfmb6K9YO1iBae3jp1wq3PHMPOhdOkD+y5tf1VyQjoV217if3K5Zcak2D67bNH114jZ9dIgVRB7wMDVK5yN0k6rI0am3QE7emo42zp8o9wsMxBw6OQX5x4CBZh4eugwIw1cka4=;sAjQT7nrSt0uEdrg72DsiQ=="

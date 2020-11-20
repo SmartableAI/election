@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here Are the All the Lawsuits the Trump Campaign Has Filed Since Election Day—And Why Most Are Unlikely to Go Anywhere"
-    excerpt: "It was the latest indication that, even as Trump’s path to victory evaporates, his campaign will continue to fight the outcome in court. This week alone, the Trump campaign blitzed state and federal courts with roughly a dozen new lawsuits,"
-    publishedDateTime: 2020-11-07T17:51:00Z
-    webUrl: "https://time.com/5908505/trump-lawsuits-biden-wins/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 96
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Pennsylvania-Trump-election-lawsuits-vote-counting.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
 
 secured: "QgoxYwsCPB8spAfoMCyfKkuqWRALTIF7ZTQ57nhxhtQHtjaLbjIxK5NEK4lvwDAr+toHKwDeeoWmAabX9RQUlJ6lvyEwQegIRc8RO3kjwRgip1NiZX2B49fdWuOvQyjJrj5Pxq2ufJWOFipcskdnqgrolrx+cxa7ez7JPJ0SgZXQHPDHcUFAWdQjEHwGvKM755KXyZzYFdOngb3GYE3JUwHdiLtjbU99NquRVWnKf74befJJ5vbRs3/YJIjXQAifrvSqmpU3siU5SaaUgAg7Vy6gGo5cWivaAvXNLl9Y9MoMbB2pYEz1McAs0OeCbWwdJCuPUmAKUYHYpnfBmMhthxvMpnuOShMl1ejJWRznViU=;E6J0GZrtSS4ctdpQF6R1Gg=="
 ---

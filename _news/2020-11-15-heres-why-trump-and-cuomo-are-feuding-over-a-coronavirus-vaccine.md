@@ -31,227 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Trump coronavirus adviser Atlas tells Michigan to 'rise up' against COVID restrictions"
-    excerpt: "Dr. Scott Atlas, on Trump's coronavirus task force, said \"the only way this stops is if people rise up,\" after Michigan announced new COVID measures."
-    publishedDateTime: 2020-11-16T12:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/16/election-2020-live-updates-trump-biden-atlas-whitmer/6308427002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6308427002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6308427002"
+  - title: "Schumer calls Trump 'a moron' over coronavirus response"
+    excerpt: "Senate Minority Leader Charles Schumer (D-N.Y.) on Thursday said the federal government is failing to react appropriately to surging coronavirus cases around the country because President Trump is “a moron."
+    publishedDateTime: 2020-10-30T00:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show"
+    ampWebUrl: "https://thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/523499-schumer-calls-trump-a-moron-on-radio-show?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/16/USAT/807ac070-925a-4a69-96f6-b40cd9f4c6e6-SCOTT_ATLAS.jpg?auto=webp&crop=4172,2347,x0,y335&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds"
-    excerpt: "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic."
-    publishedDateTime: 2020-11-18T15:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/18/election-2020-updates-joe-biden-donald-trump/6335864002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 128
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/9bd46775-cafd-4391-94b8-ed069c35309e-GTY_1286212955.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: Bolton says Republicans 'coddling' Trump; Georgia will do hand recount"
-    excerpt: "Both Trump and Biden took part in Veterans Day ceremonies Wednesday. Biden continues the transition process as Trump contests the election."
-    publishedDateTime: 2020-11-12T04:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/11/election-2020-updates-biden-transition-trump-honors-veterans-day/6246438002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6246438002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6246438002"
-    type: article
-    provider:
-      name: The Clarion-Ledger
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/41cea45e-fe21-4819-aa48-7f740386034d-GTY_1285134487.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump campaign adviser Bossie tests positive for COVID-19: source"
-    excerpt: "The lawyer charged with leading President Donald Trump's post-election legal challenges, David Bossie, has tested positive for COVID-19, a source familiar with the matter said on Monday."
-    publishedDateTime: 2020-11-09T20:57:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-bossie-idUSKBN27P2QU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P2QU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P2QU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540597472&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81PZ"
-        width: 818
-        height: 545
+      - url: "https://thehill.com/sites/default/files/schumercharles_102620gn5_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "How Trump tried to steal Michigan"
-    excerpt: "Suddenly, President-elect Joe Biden’s win in Michigan seemed to be up in the air. Trump and members of his team celebrated the decision. Jenna Ellis, one of Trump’s legal advisers, crowed that the decision paved the way for “Republican state legislator [s] [to] select the electors” — that is,"
-    publishedDateTime: 2020-11-19T00:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/how-trump-tried-steal-michigan/?outputType=amp"
+  - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
+    publishedDateTime: 2020-10-25T19:24:00Z
+    webUrl: "https://www.cnbc.com/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/25/mike-pence-coronavirus-four-aides-test-positive-for-covid-19.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57BB6UBAOEI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://image.cnbcfm.com/api/v1/image/106758775-16034587192020-10-23t130410z_459438327_rc2doj9e42yw_rtrmadp_0_usa-election.jpeg?v=1603458769"
+        width: 2965
+        height: 1977
         isCached: true
-  - title: "Trump remains silent as US passes 250,000 COVID-19 deaths"
-    excerpt: "The White House did not respond to repeated inquiries from ABC News on whether Trump had any plans to recognize the more than 250,000 reported deaths related to COVID-19, although"
-    publishedDateTime: 2020-11-19T20:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-remains-silent-us-passes-250000-covid-19/story?id=74294671"
+  - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
+    excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
+    publishedDateTime: 2020-10-23T21:54:00Z
+    webUrl: "https://www.cnbc.com/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/23/joe-biden-lays-out-a-detailed-plan-to-fight-coronavirus-.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/coronavirus-deaths-memorial-rtr-jc-201119_1605805254490_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://image.cnbcfm.com/api/v1/image/106759351-16034839162020-10-23t193614z_543779170_rc2joj9bymez_rtrmadp_0_usa-election-biden.jpeg?v=1603483967"
+        width: 3500
+        height: 2314
         isCached: true
-  - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
-    excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
-    publishedDateTime: 2020-11-19T19:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/election-2020-updates-georgia-release-recount-results/3775154001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3775154001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3775154001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/dc081906-4689-4966-9229-50734c07c33f-AP_Biden_1.jpg?auto=webp&crop=1464,824,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
-    excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-    publishedDateTime: 2020-11-19T18:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-trump-invites-top-michigan-lawmakers-to-white-house-amid-longshot-bid-to-overturn-election-result/2020/11/19/e88b2026-2a97-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Donald Trump mounts all-out assault on election result in Michigan"
-    excerpt: "President calls county officials in attempt to derail Biden victory and plans to fly Republican Michigan lawmakers to Washington"
-    publishedDateTime: 2020-11-19T23:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/19/trump-michigan-election-result-assault-challenge"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/cb5f38c73d8f61cfde138203bde53d3ea79cb07c/0_7_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa6c55620d9571f51e996ad13e363ad"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend"
-    excerpt: "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend."
-    publishedDateTime: 2020-11-14T10:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6180632002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002"
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6028911002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump withdraws federal lawsuit in Michigan, citing Wayne County canvasser affidavits"
-    excerpt: "The Trump campaign inaccurately characterized the actions of the Wayne County Board of Canvassers in its rationale for withdrawing the federal lawsuit."
-    publishedDateTime: 2020-11-19T16:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/trump-michigan-lawsuit-detroit-wayne-county-canvassers/3776829001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3776829001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776829001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "David Bossie, Trump campaign adviser overseeing campaign legal challenges, has COVID-19"
-    excerpt: "Bossie was tapped just a few days ago to head the Trump campaign's legal challenges in contesting the outcome of the presidential election."
-    publishedDateTime: 2020-11-09T23:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/09/covid-19-campaign-adviser-david-bossie-tests-positive/6228110002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6228110002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6228110002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/09/USAT/dacb6498-dfd3-4970-bc6c-0276d4238ff6-AP_Election_2020_Protests_Phoenix.jpg?auto=webp&crop=5081,2859,x0,y169&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "With Trump headed back to Michigan, study says rallies led to 30,000 more COVID-19 cases"
-    excerpt: "The study concluded that previous rallies led to 30,000 more cases of COVID-19 in the weeks following 18 Trump rallies this year."
-    publishedDateTime: 2020-11-09T14:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/31/donald-trump-rallies-spread-covid-19-stanford-study/6103779002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6103779002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6103779002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/30/PDTF/09dd4367-9c40-4198-bdbe-3f832d561107-AP_Pictures_of_the_Week_in_N.jpg?auto=webp&crop=2369,1333,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
-    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
-    publishedDateTime: 2020-11-14T17:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump says coronavirus vaccines may be approved by year's end"
     excerpt: "President Trump spoke in public for the first time in more than a week, saying two coronavirus vaccines could be approved by the end of the year and available to Americans as soon as April. Ben Tracy has more."
@@ -267,67 +109,131 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
-    excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
-    publishedDateTime: 2020-11-18T06:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-challenges/2020/11/17/ea741372-28f6-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+  - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
+    excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
+    publishedDateTime: 2020-10-26T12:35:00Z
+    webUrl: "https://www.cbsnews.com/video/multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 97
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZBCBIRJGUI6XD5CA3T4XMKFYA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
-    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
-    publishedDateTime: 2020-11-15T11:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/26/ea344a62-27f3-43f3-bc18-064eec3db129/thumbnail/1200x630/2b643b630ac6e7dca1e24427c4417fa2/cbsn-fusion-multiple-people-in-vice-president-mike-pences-orbit-test-positive-for-the-coronavirus-thumbnail-574507-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Coronavirus updates: President-elect Joe Biden to announce COVID task force; Global infections surpass 50M; Air Force-Wyoming game canceled"
-    excerpt: "President-elect Joe Biden will take different approach to virus. Anchorage, Alaska, restrictions start Monday. US nears 10M cases. Latest COVID news."
-    publishedDateTime: 2020-11-09T09:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6215623002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6215623002"
+  - title: "Trump Let the Right Make Him the Herbert Hoover of the Coronavirus"
+    excerpt: "Perhaps we will look back at the 2020 election and conclude that Donald Trump, who was always going to be Donald Trump, never had a chance to beat an opponent who led him in virtually every poll ..."
+    publishedDateTime: 2020-10-26T15:54:00Z
+    webUrl: "https://nymag.com/intelligencer/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/donald-trump-lose-election-coronavirus-control-pandemic-masks-atlas.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/534558326c703175d42b0b4aba9c5a87c5526cfa/c=0-254-4876-2997/local/-/media/2020/10/29/USATODAY/usatsports/B9341974804Z.1_20201029020704_000_G4MRJ7I0H.2-0.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://pyxis.nymag.com/v1/imgs/c35/fbc/be3c8f77bbd298d4996104b93d272c6164-donald-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence's chief of staff, top adviser both test positive for coronavirus"
+    excerpt: "Sources tell ABC News, Marc Short, Chief of Staff to the Vice President Mike Pence has tested positive for COVID-19. And top adviser Marty Obst has also tested positive for coronavirus earlier ..."
+    publishedDateTime: 2020-10-25T03:43:00Z
+    webUrl: "https://abc7.com/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    ampWebUrl: "https://abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/pence-chief-of-staff-covid-19-coronavirus-adviser-tests-positive-for-aide-has/7316164/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 73
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7316573_102420-ap-mike-pence-img.jpg"
+        width: 3422
+        height: 2281
+        isCached: true
+  - title: "VP Mike Pence to continue campaigning after chief of staff tests positive for coronavirus"
+    excerpt: "Pence spokesman Devin O’Malley said Pence and his wife, Karen Pence, both tested negative for the virus on Saturday."
+    publishedDateTime: 2020-10-25T03:34:00Z
+    webUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/"
+    ampWebUrl: "https://www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2020/10/24/vp-mike-pence-to-continue-campaigning-after-chief-of-staff-tests-positive-for-coronavirus/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 66
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2020/10/Virus-Outbreak-Pence-16x9-1-1.jpg?w=1024&h=579"
+        width: 1024
+        height: 579
+        isCached: true
+  - title: "Vice President Mike Pence's chief of staff, Marc Short, has tested positive for coronavirus"
+    excerpt: "Vice President Mike Pence's chief of staff and his senior political adviser have tested positive for COVID-19, according to reports."
+    publishedDateTime: 2020-10-25T18:11:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/24/covid-top-adviser-vice-president-pence-reportedly-tests-positive/6028911002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6028911002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6028911002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/25/USAT/5b4bb626-1ed0-40b9-8a5f-6b2c4f62fa85-marc_short.jpg?auto=webp&crop=4920,2768,x0,y250&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
-    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
-    publishedDateTime: 2020-11-19T21:40:00Z
-    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
+    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
+    publishedDateTime: 2020-10-22T14:44:00Z
+    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 81
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
-        width: 720
-        height: 432
+      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
+        width: 1200
+        height: 816
+        isCached: true
+  - title: "Trump Spox Hogan Gidley Says He Doesn’t Want to ‘Quibble Over Semantics’ on WH Claim Trump Ended Coronavirus"
+    excerpt: "Hogan Gidley, press secretary for President Donald Trump's campaign, was grilled about the claim that one of Trump's accomplishments has been \"ending the Covid-19 pandemic,\" and responded by referring to the false claim as a matter of \"semantics."
+    publishedDateTime: 2020-10-28T22:34:00Z
+    webUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-spox-hogan-gidley-when-confronted-on-ending-pandemic-claim-im-not-going-to-quibble-about-semantics/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Alisyn-Camerota-Hogan-Gidley-10-28.jpg"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "North Carolina campaigns continue for Vice President Mike Pence after chief of staff tests positive for coronavirus"
+    excerpt: "Vice President Mike Pence will campaign in North Carolina Sunday after his chief of staff tested positive for the coronavirus."
+    publishedDateTime: 2020-10-27T20:14:00Z
+    webUrl: "https://www.wxii12.com/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    ampWebUrl: "https://www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/north-carolina-campaign-mike-pence-chief-staff-coronavirus/34473028"
+    type: article
+    provider:
+      name: WXII12
+      domain: wxii12.com
+    quality: 53
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/1000-19-1603642733.jpeg?crop=1.00xw:0.846xh;0,0.0685xh&resize=1200:*"
+        width: 1000
+        height: 563
         isCached: true
 
 secured: "LKOAuCc/jz7FNQFHpG5KHAiwGCNhTNVw/Z6YRwxTHwJ8TcTWDJE7wS4EmxjLANj5B4XGNVd4QtWbm5m3J/LwTojzasn7bwZ4VPvXlDJY/FyDg5SnUdkkS/D8jf5kcDYC78tEJ4D943LF5yDxItUcxBVjCfZ5omtLh0nmnYVG1zTpFMbBPHLwgAxxtBhmFIWQfviXhDRT7yOnGI4zKTMeT365dwSeJ9xCG4gegLwxbpu96rmlH8Mzz/PtS6KW+GDDo+W+Ae7QQcBH3vKscnPcqZ0eQgPK7GA9kdr8dKFERzqNAEgXBroT/CxmNjgUtN0UQAeKeJWWNZsZQQ3zj6in9iYn3+n7IA3N2o7absl/eN4=;UeJXtmiQzSQFr71U6kDmCQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigati
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true"
 type: article
 quality: 121
-heat: 121
+heat: 181
 published: true
 
 provider:
@@ -29,6 +29,56 @@ images:
     width: 320
     height: 209
     isCached: true
+
+related:
+  - title: "Ivanka Trump calls New York investigations into Trump Organization tax write-offs political 'harassment'"
+    excerpt: "\"This is harassment pure and simple,\" said Ivanka Trump after it was reported subpoenas were issued in connection with a consulting fee she was paid."
+    publishedDateTime: 2020-11-20T17:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/ivanka-trump-calls-investigations-trump-organization-taxes-harassment/6354080002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6354080002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6354080002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/681af82e-b400-457d-9906-c0af2393d801-AP_Election_2020_Trump.jpg?auto=webp&crop=2659,1496,x326,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New York fraud investigations into Trump have expanded to include consulting fee write-offs, some of which appeared to be paid to Ivanka Trump"
+    excerpt: "A Times investigation found one consulting fee exactly matched a payment disclosed by Ivanka Trump that she received from a firm she co-owns."
+    publishedDateTime: 2020-11-20T07:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-write-offs-investigated-may-have-gone-to-ivanka-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5fb7351050e71a0011556636?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's kids are said to be split over whether he should concede, with Ivanka looking for an off-ramp while Eric and Don Jr. want to fight to the end"
+    excerpt: "Ivanka Trump, Donald Trump Jr. and Eric Trump have different opinions on whether Trump should concede the presidential election, CNN said."
+    publishedDateTime: 2020-11-13T10:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-split-concede-or-fight-results-cnn-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5fae52c91e8d5000198134bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "66AK53VJOB2xsNq0rHS96u9w9aK23gXwDlt+uX4yhXm01G+clhJk3hMtVml8btZMJBTRX7/aJnjkCNiWj1QszdpsygS90d+bRQsiK/VZJcW/kY6Obk2ccjkj+82g7opakIfDU0DYYaWzA7hVfrtZih2dGHZZSc5AZpH/rYHF+stu5TY8H4v/YEcFILhM86mhYr54o39ntkYCQ+9d2639qBAFB30KGSFurhVks2FV7EYdjg9vZFvIkNLeINr+n3rA1sDlEFzcfq/MMGewB4p08V01u0njBvxyGqTsPYX4YO+JTicfUUfmJPEQ3AV6F/l4gNyAhz1iItzGicd94GjEZJKZBAkaOBmIuT76ssqrcTk=;5RVNHjjh7Ipf7W3wlGBdGQ=="
 ---

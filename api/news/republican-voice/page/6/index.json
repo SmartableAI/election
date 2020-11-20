@@ -2,6 +2,175 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-29-pence-stumps-for-vulnerable-gop-senators-resisting-democrat-takeover.md",
+      "title": "Pence stumps for vulnerable GOP senators resisting Democrat takeover",
+      "excerpt": "Vice President Mike Pence is campaigning with four GOP senators this week in an effort to boost their precarious standing in races that will help determine which party controls the upper chamber of Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ikrZ2JjQoR0/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/257344f4-Pence.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-stumps-for-gop-canidiates-in-effort-to-stave-off-democrats-hungry-to-take-back-senate.amp",
+      "publishedDateTime": "2020-10-29T11:38:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-biden-dismisses-record-economic-growth-as-not-nearly-enough-to-dig-out-of-deep-recession.md",
+      "title": "Biden dismisses record economic growth as not 'nearly enough' to dig out of 'deep' recession",
+      "excerpt": "Democratic presidential nominee Joe Biden dismissed the U.S. economy's record-shattering growth as not \"nearly enough\" to get the country out of a \"deep hole\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HYnv6vHSu3k/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20303505056598.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-record-gdp-growth-3rd-quarter-not-enough-trump-response.amp",
+      "publishedDateTime": "2020-10-29T09:17:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-former-democrat-rubin-on-why-he-is-voting-for-trump-no-feeling-of-patriotism-on-the-left-anymore.md",
+      "title": "Former Democrat Rubin on why he is voting for Trump: 'No feeling of patriotism' on the left anymore",
+      "excerpt": "President Trump is the last bastion to stopping the radical left, talk show host Dave Rubin said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ytK2_eDgo2E/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dave-rubin-why-voting-trump-no-feeling-patriotism-left-biden.amp",
+      "publishedDateTime": "2020-10-29T08:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-joe-biden-is-a-trojan-horse-for-socialism-says-tammy-bruce.md",
       "title": "Joe Biden is a 'Trojan Horse' for socialism, says Tammy Bruce",
       "excerpt": "2020 Democratic presidential candidate Joe Biden is being used as a \"trojan horse,\" Fox News contributor Tammy Bruce said on Thursday.",
@@ -1484,176 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaigns-with-medically-informed-approach-to-events-after-staffers-test-positive-for-covid-19.amp",
       "publishedDateTime": "2020-10-26T11:50:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-kamala-harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.md",
-      "title": "Kamala Harris thinks she can laugh her way through serious questions: Pavlich",
-      "excerpt": "Editor Katie Pavlich called Democratic vice-presidential nominee Sen. Kamala Harris “the most far-left Democrat in Washington, D.C.,\" and said Joe Biden picked her to \"make sure that the left wing of the party felt comfortable\" that they would have a voice in his administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pb5kaipyfMc/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 302,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-thinks-she-can-laugh-her-way-through-serious-questions-pavlich.amp",
-      "publishedDateTime": "2020-10-26T11:32:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-jared-kushner-peace-deals-are-much-harder-than-president-trump-is-making-them-look.md",
-      "title": "Jared Kushner: Peace deals 'are much harder than President Trump is making them look'",
-      "excerpt": "Peace deals “are much harder than President Trump is making them look,” White House adviser Jared Kushner, who has been involved in brokering the Middle East peace deals, told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rvkk-01jc-Y/jared-kushner-trump-israel-peace-deals",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jared-kushner-trump-israel-peace-deals.amp",
-      "publishedDateTime": "2020-10-26T09:25:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-pence-tests-negative-for-coronavirus-again-as-democrats-push-him-to-skip-barrett-vote.md",
-      "title": "Pence tests negative for coronavirus again as Democrats push him to skip Barrett vote",
-      "excerpt": "Senate Democrats are telling Vice President Mike Pence to stay away from Judge Amy Coney Barrett's confirmation vote on Capitol Hill after five people in Pence's orbit tested positive for coronavirus last week, although the vice president tested negative again on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvCvQgx_uzQ/mike-pence-coronavirus-test-barrett-vote-schumer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pence-coronavirus-test-barrett-vote-schumer.amp",
-      "publishedDateTime": "2020-10-26T08:01:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
