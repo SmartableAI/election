@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T19:16:00Z
+    webUrl: "https://www.chron.com/news/article/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    ampWebUrl: "https://www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z
@@ -68,6 +84,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
+    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
+    publishedDateTime: 2020-11-20T20:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs | Raleigh News & Observer"
     excerpt: "CANTON, Ga. Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
     publishedDateTime: 2020-11-20T16:21:00Z

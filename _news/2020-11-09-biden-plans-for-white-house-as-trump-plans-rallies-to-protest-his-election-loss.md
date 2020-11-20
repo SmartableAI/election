@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15661
+heat: 15681
 published: true
 
 provider:
@@ -4295,6 +4295,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201115&t=2&i=1541267276&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAE0EF"
         width: 818
         height: 545
+        isCached: true
+  - title: "As Democrats fume, the Trump appointee who can start the Biden transition is in no hurry"
+    excerpt: "Federal agencies have received instructions to prepare briefing materials but not provide them or take any calls from Biden’s team."
+    publishedDateTime: 2020-11-20T20:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMF25DRLFII6XGYUVWDSCV7LZE.jpg&w=1440"
+        width: 1200
+        height: 856
         isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."

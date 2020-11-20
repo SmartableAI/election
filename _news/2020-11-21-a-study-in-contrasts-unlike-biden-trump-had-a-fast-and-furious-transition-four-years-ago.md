@@ -413,6 +413,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Georgia expects to certify Biden victory as Trump prepares to meet Michigan Republicans – live"
+    excerpt: "Georgia’s secretary of state said office is still completing certification process, correcting a previous statement that declared the process complete"
+    publishedDateTime: 2020-11-20T20:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb81ccb8f087f6ff1099c17"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
+    images:
+      - url: "https://i.guim.co.uk/img/media/3578497e2820612317596b88df37dd26bb20ea97/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e914dd2692f8d6f905debb95e05db8c4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump, still not conceding defeat, trumpets vaccine progress"
     excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
     publishedDateTime: 2020-11-14T05:12:00Z
@@ -954,6 +970,6 @@ related:
         height: 563
         isCached: true
 
-secured: "gX29uiDvCgSEMg37NKsUKQAwL++I9ObfnUNXSBJv9n+qrdS5k6+xhFO5xxAWSW58kwmKCcACUnWd5kpMUBaiTqBnoH0oZCHhH4Kb3rhs0GeOMFegad06PaEgICeIHA4RMFWnxVM08jt4aF/cPH3Oha8EDjNXfvxP44ZZuoSWHyKz5pDre7DmZM91Y862cpbVNlRhlAAFpe1jrXOfDEmaLkux2RU9Rp90je7KkhIgo6VvKfcMSafFJprZJ0xKsGLt7PEXeYmpH3mk2150+5dOGegdyrDacI7VOuA45ygl0jxbB7pGmqnmNGcj2Lxafx+cIp/aBrUPq645tGqq7XfV9iafNgpwtUb4lvGAY2t3PJA=;BeYhgWCQpSSYyHCLTOpc0w=="
+secured: "XMr6fH7VEjXY9QfvyuSaS2AolDk7OQYerHQSTLJ+9PM7cOIACOHIhUH90in/pPgG+7WoVz/gL2ptZlopKMU/tTwIAtZ0U7m4k7fn+HdP0McChOeLLvEAB+2q66/cPcJrHgZRpAcEQ9ISL434jvhnULHB+hvpv69bFPjKgVtnwq3F0hNeQJUEBtPGI7pdiEg3/Qy+WqLdFA2kGaimcgYxY4KJcHFBO9ZmHJH3Svdulompe1Tnr3es5yMXFvNFDv78H48JG7wpKib7x78YdGzbslp+s88N9B0jR5/kqM4zJpn0MYHhnZLZ97ajVJZxGKPGDg22cjPv71/TJBpwPgQ4wtSLoClj5cmCtsoOdI/Cf/0Bb+6pXI7yzY+MMV7AYqsaPYSRmm3QJ/r1KvPYdXGi0UUsDFXNFE/zwwJeBvSK1bnFT1nqkZVxzprGQHN3mGAuhgxXEJnUC7QikpQ9I5MS1i21LYhW1BOjo1xQSpx8e0IxJ/UxkWrUg0LC6QsUoDcbfBxL8s7czfJYuIAWFK+snA==;JXP6cdo8FzCkAtL8B9KjSQ=="
 ---
 

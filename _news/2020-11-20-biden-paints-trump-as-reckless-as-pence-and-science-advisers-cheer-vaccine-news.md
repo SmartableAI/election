@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 1361
+heat: 1381
 published: true
 
 provider:
@@ -413,6 +413,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-inauguration-gty-rc-201120_1605879928149_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Georgia expects to certify Biden victory as Trump prepares to meet Michigan Republicans – live"
+    excerpt: "Georgia’s secretary of state said office is still completing certification process, correcting a previous statement that declared the process complete"
+    publishedDateTime: 2020-11-20T20:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb81ccb8f087f6ff1099c17"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
+    images:
+      - url: "https://i.guim.co.uk/img/media/3578497e2820612317596b88df37dd26bb20ea97/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e914dd2692f8d6f905debb95e05db8c4"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump, still not conceding defeat, trumpets vaccine progress"
     excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"

@@ -4311,6 +4311,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "As Democrats fume, the Trump appointee who can start the Biden transition is in no hurry"
+    excerpt: "Federal agencies have received instructions to prepare briefing materials but not provide them or take any calls from Biden’s team."
+    publishedDateTime: 2020-11-20T20:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/murphy-trump-biden-transition-/2020/11/20/93c42044-29d2-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMF25DRLFII6XGYUVWDSCV7LZE.jpg&w=1440"
+        width: 1200
+        height: 856
+        isCached: true
   - title: "President Trump and Joe Biden's last full day of campaigning"
     excerpt: "President Trump is hitting four different states on the final full day of campaigning, while Joe Biden is focusing on Pennsylvania. CBS News political contributor Lynda Tran and political analyst Leslie Sanchez joined CBSN to break down what to look out for on the final stretch."
     publishedDateTime: 2020-11-02T20:58:00Z

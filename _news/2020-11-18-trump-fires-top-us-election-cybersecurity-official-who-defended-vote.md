@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHA4BVBJG4I6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 991
+        isCached: true
+  - title: "Touting drug prices, Trump pushes his election win"
+    excerpt: "The Trump administration issued regulations Friday that could lower the prices Americans pay for many prescription drugs. In announcing the new policy President Donald Trump again claimed he had won the presidential election."
+    publishedDateTime: 2020-11-20T20:58:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/20/touting-drug-prices-trump-pushes-his-election-win/6362587002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9a143bdf-7170-406c-a781-9ab3e09a43e6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."

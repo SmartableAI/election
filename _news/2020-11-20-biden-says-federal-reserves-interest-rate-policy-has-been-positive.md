@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541548736&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG1R8"
         width: 781
         height: 545
+        isCached: true
+  - title: "'That's his first love': Why Biden may be a foreign policy president despite domestic crises"
+    excerpt: "The president-elect already knows many of the players on the world stage – from Vladimir Putin to Angela Merkel to Benjamin Netanyahu."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/joe-biden-has-more-foreign-experience-than-trump-obama-bush-clinton/6315516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6315516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6315516002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/f52547b1-2a3a-4726-82b9-11f1b16bc5a5-A07_BIDEN_NETANYAHU_16.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "k/dwRhv2sI7R0CqA5AROLY5+t92C6tEFTuVfFJk0s3dQXzXybqQLtMWpVOpSB6+K0Qtek5KPdIt2zs+9PIrulEZY+zsc03E9kcSDhXzdmoybGlEXd8pAp0WpFmJkgfha2GXBqUmxS8GgwpPqyZaIF0fIT8QbfFl8lYNJZiBVmOmZgbj+ujudl7rI9kdBCBAB30HQf9LRVUCTDk8W5DQp1MMH3vLXKv80tnR7sJfiK6a8TtQiWrsDyw44XcxbgWNV4XRlZluJv+H9qygOMkKP77BJqvvqJe08GnIQKkm3PV6tWSggG+h4QdYcTb7KOoZcMbLEt3DTP4Q2gjOqVVeJUX0+r/0FNFppY/NVpj/FcuY=;5a5D78sFp00cga3uz+lSTw=="

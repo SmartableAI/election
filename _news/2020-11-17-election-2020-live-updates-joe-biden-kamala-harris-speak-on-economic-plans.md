@@ -291,6 +291,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Here's What Young Voters Want From Joe Biden and Kamala Harris in the Next Four Years"
+    excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here’s what they want to see from them in the next four years."
+    publishedDateTime: 2020-11-20T12:43:34Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/heres-what-young-voters-want-from-joe-biden-and-kamala-harris-in-the-next-four-years/2737707/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/heres-what-young-voters-want-from-joe-biden-and-kamala-harris-in-the-next-four-years/2737707/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/heres-what-young-voters-want-from-joe-biden-and-kamala-harris-in-the-next-four-years/2737707/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 83
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president?"
     excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
     publishedDateTime: 2020-11-17T12:00:00Z

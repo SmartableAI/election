@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden, Trump voters both say more coronavirus relief needed"
+    excerpt: "The vast majority of Americans -- of all backgrounds -- want more COVID-19 relief."
+    publishedDateTime: 2020-11-20T20:23:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ta-bc2wjsZc/biden-trump-voters-more-covid-19-relief"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-voters-more-covid-19-relief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-voters-more-covid-19-relief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20297681321948-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer"
     excerpt: "Follow for the latest developments in the 2020 election."
     publishedDateTime: 2020-11-20T12:31:53Z
@@ -397,6 +413,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden transition official asks progressives to wait 'before they pass judgment’"
+    excerpt: "Amid criticism from progressive groups over President-elect Joe Biden’s choices so far for top White House officials, a leading Biden transition official on Friday encouraged people to wait to see the full picture of the team the president-elect names and highlighted that the Biden administration would"
+    publishedDateTime: 2020-11-20T20:16:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

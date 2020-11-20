@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-electio
 webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
 type: article
 quality: 105
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T19:16:00Z
+    webUrl: "https://www.chron.com/news/article/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    ampWebUrl: "https://www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z
@@ -68,6 +84,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
+    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
+    publishedDateTime: 2020-11-20T20:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs | Raleigh News & Observer"
     excerpt: "CANTON, Ga. Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
     publishedDateTime: 2020-11-20T16:21:00Z
@@ -80,6 +107,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "IrofjNd6DWInbYVGQM4/BkFXU2ucSPbW+Pna3T2PKnwNsta/HF8aCoZXKteNQzFS2A0kKjdwS0ElsAxOQTw8e6TU/b6ZQzxJv+U672y+TX+hLIGPpZ+sAMGv8VLnXv59PhxYtcPeh1lkhlV8U7nRWOF2uOATWf0jH2cJg4DFyYRxeTrxE109/wl87ylh990ZXIRdfR1PpNPY79eUK4SHWygtukLg6nuW6+NZuO6q6rM/lMX1njrURfbh/WEXbkCfAkBvYS80eLLO/UKggcNZ3v0JNPhf1SWgl+4UpkNbcqVbuGu2UcmGTbHeG8LnaAew8a4FFSjG58aZvg3SFRV4g+FP7KjOiVAtRSTLb4+xUJk=;ylQKsozerYOXg5+yqj4+Cw=="
+secured: "bD+7oE03R6+RWb010K1RDXNrht12/izw0KNN5W7nVT9mkBIOB5qbUbgCTHMMMSzzt6Tr6QqakPUHbtM875f6LLQC15EF50JwoeRF/R3VYeVpImgOgQ4LndZiDEE6LAdTl4e+qlUF3ZAP9bpU72a9L2tR/HBfGwXKfLzhgRcMVHb4ElyMioEwslXBLXbincL4joHiEucNcF67TplL5WxbwnsiwFFwMGte5QsYNwo01MNGsd9NAgTSZp4x3vJ68rEc2xoqezUz3dOIJf6GuhCcGG2BhsWw3RuNH9GeVtflWWiSNG+SPXUo6BbVwHlUjYzQBXDVzOtuJZK7vlN19eelEF8bAJdGaey/lf1ZtIgIoTaZRsNOeySkrbkPAiGFjOkmSGFChr+VnH8PRrw7oc0fIY9awZlzRpo6lk7Ceh+CQ40+59R8rzYlvFjxA3za6I20IR/lh0obGoWfMNbryXIyHJKRLEh7f7KqWtl/g9+0iRm2vGIZyY+pY7ccfeNl5v7AZDLLYl5V15cEZ+D0sEVZQQ==;AkwmAxtlCkgCGYJsm1IRCw=="
 ---
 

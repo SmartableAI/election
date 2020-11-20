@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "In new memoir, Barack Obama relishes taunting Trump: ‘He was a spectacle’"
+    excerpt: "Former President Obama holds off on mentioning Donald Trump until the end of his new memoir, \"A Promised Land.\" But his thoughts are worth the wait."
+    publishedDateTime: 2020-11-20T20:51:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/056cee9/2147483647/strip/true/crop/2000x1306+0+421/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F2c%2Fdedf568e4af087cab5f0a5c76f32%2Fla-ca-bk-a-promised-land-barack-obama-183.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump wasn’t just a rural phenomenon. Most of his supporters come from cities and suburbs."
     excerpt: "Are rural Americans Trump voters? Yes, many of them. Trump voters outnumber voters who supported Joe Biden 2 to 1 in rural counties. But are all Trump voters rural? Absolutely not. Voters in rural America accounted for less than a fifth of all votes cast for him."
     publishedDateTime: 2020-11-19T00:28:00Z

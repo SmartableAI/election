@@ -67,6 +67,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T19:16:00Z
+    webUrl: "https://www.chron.com/news/article/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    ampWebUrl: "https://www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/VP-Mike-Pence-comes-to-Georgia-ahead-of-Senate-15742733.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z
@@ -78,6 +94,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs | Charlotte Observer"
+    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determi"
+    publishedDateTime: 2020-11-20T20:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article247316979.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "Ko88RG3H2s2Fzsi3VoSNvLUHUgQ+qWdjpyDiyJfXVOF3e8vrBN95EPKVoQzz/ZQ9SVi+AOr3oKNALjI3yUcaOVnfdPveheHbZCf9/0vaWSKTmnHLb9c9E9qK7g8w87HPjCBqpuG5QLdJG7rQekKGcEKjkR7TtowjYNsBkj7Oet0ygvO6tjr+RGNSu+a2OXvlEgFZWMCgtUHA6Ulxgpdj1VYsi84Yis0CiZO2YJmYFyfV1/b6k08m707RnF6GLdpLeNFFFf/p1AkOF8LyFMD1rM3sBxxgdxQHlU87rWRxULFICrpjDV/FnP9/Fw2AGVAgtuHjFxtrKe77JTNNBgi77odfH5RCmk4LAKhyZ0COA1IXFCrSKZHW7OhDq99CVooyz1sDCLcvhSDxNJQjXtkwg+Xq9karnC9jtwTQ3XuVXrFNJBODBVa/TI1vIPkTBemo7rTATE+FxajNkjzlTQrsLcASQvDwd1lMTdxzHQZcuc3JpOgwicgLvrfarWFW8et2jE/QDSY25X7fJ0aWMItUIA==;/bmAVo6gbVlzuAIQebMMYA=="
 ---

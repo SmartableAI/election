@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'That's his first love': Why Biden may be a foreign policy president despite domestic crises"
+    excerpt: "The president-elect already knows many of the players on the world stage – from Vladimir Putin to Angela Merkel to Benjamin Netanyahu."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/20/joe-biden-has-more-foreign-experience-than-trump-obama-bush-clinton/6315516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6315516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6315516002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/f52547b1-2a3a-4726-82b9-11f1b16bc5a5-A07_BIDEN_NETANYAHU_16.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ifW5/x1t+x/ScInxbSwksIw5r4CdqMaGNJCPHqEHkIXGLRqGKDh7FF7sKwU4IiQuu+B97ocaOzKLEIWdAU2kalpYGXWrxbkxCiQYzggua6bv/u3YfT5eMmxuFINYAqbJil0KtTqHxbICCU3+1Wu6pePsdfpo+1KDA9gC7Jw2XU8EZiS9Ftn90Y3UjG4XpZIgqDXtxUrR58VL/Ot1aw6VVWkSCE62DaPiB7czb8IalIkvt8gU8G9bOieveUWD/PhfdRnBHoMO3vwRUb8m1QMW7SoUoEPUQarigtbcI5kzyunm/tJRjNNMVVX090l/7fwDF8doixmCJzEi//tyGD6CDXBdvAR6gOW5+Fr65LlGbPWiGsw/EpscpiVK5U61EKTcHGv1HnMceXauAETOYw18ce0ycjNXaGkeqSwi1nf8QAjgBzzyvPcyfkibgewkUjFWkWEXMzl3CnvlymwW6XtSrivTxrTOYC6CgiJR9jnQBoJSWMyzNWARJZaPMHfYLa6HX99ZBw+5ca7cjdRd1fkGqg==;KMXY5TcWlov6VMcgu3oxFA=="
 ---

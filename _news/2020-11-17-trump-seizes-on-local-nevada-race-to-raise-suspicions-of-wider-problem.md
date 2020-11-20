@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-count
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Partner Shelves Office Tower Sales Effort That Hoped to Raise $5 Billion"
+    excerpt: "The Trump family’s partner in two of its most valuable properties halted plans to sell the buildings, cutting off what could have been a big cash payout for the Trump Organization, which has hundreds of millions of dollars in debt coming due."
+    publishedDateTime: 2020-11-20T20:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-262906/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "KirSkWzKBp4XodVHxuQ54FRVUOEn42verQeJ2S14ytCscq9mtNbiuWkUctaTvkUMUymhh9RJVMzHOvprQ1gyNAN6XWiO4dada6fpkjt0MmQiy52nVp+VCOQrbHRBPfBk4b/TNG9Jc+TPvql48Ej2/xDZfDoq99UYjpD5uL1fjmoI6lvr2TRLnh50zYWjTUaUWhRRNphyCvKt/P3bKN8WBhhYEQmEr0BX6f4+bQJchGiYDWDil490vgIrX0iXRtjs8UdVIGTjqY2tW76aUvfTQ2K2tiO9cXVqqGm5m2spb+apLQIRwyeZEQ4s9kgjheSb7HeIIT1tHV0R4waElTKn9QJZ4ommjpY7QN+kvlUpYbo=;Vzm+Cqjd6/Qpx4sCdsrLDw=="
