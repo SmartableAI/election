@@ -495,6 +495,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Georgia governor certifies Biden win in state after hand recount"
+    excerpt: "Georgia Gov. Brian Kemp certified President-elect Joe Biden's win in the state Friday but called for another hand recount. "
+    publishedDateTime: 2020-11-21T06:17:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jIjTpB0uLI/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0224b7a-10f9-4af3-a49b-cf9e7ff63220/a802568a-dd68-4e59-8de5-158deb98d44c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
     excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
     publishedDateTime: 2020-11-13T05:38:18Z

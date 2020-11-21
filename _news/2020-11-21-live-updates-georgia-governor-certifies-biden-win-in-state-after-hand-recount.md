@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
-excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
-publishedDateTime: 2020-11-17T19:51:05Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
-ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+title: "LIVE UPDATES: Georgia governor certifies Biden win in state after hand recount"
+excerpt: "Georgia Gov. Brian Kemp certified President-elect Joe Biden's win in the state Friday but called for another hand recount. "
+publishedDateTime: 2020-11-21T06:17:58Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jIjTpB0uLI/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jIjTpB0uLI/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
 type: article
-quality: 167
+quality: 171
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0224b7a-10f9-4af3-a49b-cf9e7ff63220/a802568a-dd68-4e59-8de5-158deb98d44c/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -495,22 +495,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "LIVE UPDATES: Georgia governor certifies Biden win in state after hand recount"
-    excerpt: "Georgia Gov. Brian Kemp certified President-elect Joe Biden's win in the state Friday but called for another hand recount. "
-    publishedDateTime: 2020-11-21T06:17:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2jIjTpB0uLI/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-governor-certifies-biden-win-in-state-after-hand-recount.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0224b7a-10f9-4af3-a49b-cf9e7ff63220/a802568a-dd68-4e59-8de5-158deb98d44c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
     excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
     publishedDateTime: 2020-11-13T05:10:52Z
@@ -606,6 +590,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
+    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
+    publishedDateTime: 2020-11-17T19:51:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "President Trump sought options to retaliate against Iran's nuclear program, officials confirm"
     excerpt: "Last week, the International Atomic Energy Agency reported a sizable increase in the country’s uranium stockpile."
@@ -832,6 +832,6 @@ related:
         height: 640
         isCached: true
 
-secured: "L5ugYBl0iBEZjNuEkgUgm0Td8yMSQN/ccuIsSn4i/h0K8OFK+ZVygL5E7RibTyrEWyzYGGNpAFsoqMcS2TTJRId8Pls1EM2b7vEj6Frm17ctTDzULlC4Cu4w2EcvL7XZBDpGwps8ZJGBQHiEvZL/3syfiHSBvcB0M3X1EAleVOG6MI4eslkg/AkTdcwAlymdC2rkI9OEHw1J/LzzacEe2rmGwOVelfHPOgGbivcEv18Xpi9VUZhClz5G+NL0BpBNyCpvgNiMgBB0+25EotT7EVVcqzvfjS5jE3s5Qvy+fem7aTKeu8Q0uT9q9muZl/3pwzEhv79VXOz0MK2ghGKUioTbktBUF17AsbPh700nu+8=;Mb1uJVqYhrOxZrEIUGWziQ=="
+secured: "S9lBr2wHHUZ+MC5csex1HBLM/ttACjtUGXc+e7DWMnz+VSC2zdMt6mdhbU9jsM09Lx+LEnhQKwIGHvJwnVzLsMVfc/CB0JfVYAgAG7uz6IEAV73b47UeSAw3UYEWzRDMrbOfG1W/Jm9hOZIrrPE/XZqgGZ0TlBggQyC9d+Hp+4k+tBd/vXza/mwRzxkb6s0faLcreMU1JNijAXJAqMIJL5ZCr7zvfsrDEnG6PBxIObMqksgc0Auat+pvv4N+xe5dtor+KJyzxea9OHceoDVZamlqaoUAqs102WHQwn+ayuJWsE+D9l9G72QDWCIt4enXrTr4A2dEXXcW3pOPZK3WEhYhe43B2FhSHKsrDwojhjA=;+UjspI5gSNEyGzK917W03w=="
 ---
 
