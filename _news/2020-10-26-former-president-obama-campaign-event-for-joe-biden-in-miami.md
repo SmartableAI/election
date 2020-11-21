@@ -1251,6 +1251,22 @@ related:
         width: 1119
         height: 545
         isCached: true
+  - title: "Trump campaign again seeks to stop certification of Pennsylvania's election results"
+    excerpt: "The Trump campaign on Saturday filed a new brief in one of their numerous federal court cases in Pennsylvania. The brief rehashes claims that the campaign appeared to abandon earlier this week. The brief filed Saturday,"
+    publishedDateTime: 2020-11-21T22:28:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-campaign-seeks-to-stop-certification-of-pennsylvanias-election-results-again/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/17/bd11804d-33a9-4cad-9e63-50dc7bba9360/thumbnail/1200x630/933274b018464feed7fbcbdb62fdbf8a/gettyimages-1228757637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden campaign aide: Trump trying to distort former vice president's position on oil"
     excerpt: "A top campaign aide for Democratic presidential nominee Joe Biden said on Sunday that President Trump is “trying to distort” the former vice president’s position on oil."
     publishedDateTime: 2020-10-25T15:56:00Z

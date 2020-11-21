@@ -347,6 +347,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump tweets undermine Michigan leaders; images show Chatfield drinking at Trump hotel"
+    excerpt: "Skepticism that Michigan lawmakers focused on COVID-19 during their meeting with Trump was amplified by the president's tweets Saturday morning."
+    publishedDateTime: 2020-11-21T22:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/21/michigan-gop-trump-meeting-shirkey-chatfield/6374174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6374174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6374174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PDTF/be9899fd-9123-45c0-9edc-36e889f4fa59-EnWqkqOW4AEB3_F.JPEG?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
     excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
     publishedDateTime: 2020-11-14T23:52:00Z

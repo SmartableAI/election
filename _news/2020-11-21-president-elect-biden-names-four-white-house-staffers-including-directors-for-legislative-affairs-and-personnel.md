@@ -34,9 +34,9 @@ related:
   - title: "Georgia certifies election results, making Biden victory official"
     excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
     publishedDateTime: 2020-11-21T03:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
     type: article
     provider:
       name: ABC
@@ -397,6 +397,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can Joe Biden forgive student debt without Congress? Here's what the experts say"
+    excerpt: "Can the president forgive student debt without Congress? A lot is riding on that answer. With Republicans generally hostile toward the idea of debt cancellation, the legislative route could prove difficult."
+    publishedDateTime: 2020-11-21T19:39:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/can-joe-biden-forgive-student-debt-without-congress-experts-weigh-in.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106797715-1605562384011-gettyimages-1286022154-cz9i6227_2020111634442987.jpeg?v=1605814178"
+        width: 3429
+        height: 2472
+        isCached: true
   - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
     excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
     publishedDateTime: 2020-11-20T02:13:00Z
@@ -454,6 +470,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/f06f74bf85b8c68d941a81d2102b9fd7585e3ca6/137_0_3240_1945/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfe85e788f145de25daa8dc865006fa"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Georgia governor certifies electors for Biden"
+    excerpt: "Georgia’s governor has certified results showing Joe Biden won the presidential race over President Donald Trump. But the Republican governor did not clearly endorse the results, saying the law requires him to “formalize the certification."
+    publishedDateTime: 2020-11-20T23:51:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/20/georgia-governor-certifies-electors-biden/6365879002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6fae1a3-5fc7-4a52-9938-16a641c8a4b6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden turns 78 and is set to become the oldest U.S. president"
     excerpt: "President-elect Joe Biden turns 78 on Friday and is on track to be the oldest U.S. president in history, displacing Ronald Reagan."

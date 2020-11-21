@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-04-trump-ally-tweets-misleading-images-of-philadelphia-voting.md",
+      "title": "Trump Ally Tweets Misleading Images of Philadelphia Voting",
+      "excerpt": "Early Tuesday, a Trump campaign official posted an unfounded suggestion on Twitter that Democrats were illegally campaigning at a voting site in Philadelphia. Twitter labeled the tweet “misleading” and later “manipulated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/03/business/03distortions-photo-ogtweet/03distortions-photo-ogtweet-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/03/technology/trump-ally-tweets-misleading-images-of-philadelphia-voting.amp.html",
+      "publishedDateTime": "2020-11-03T16:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-biden-signs-wall-of-childhood-home-from-this-house-to-the-white-house.md",
       "title": "Biden signs wall of childhood home: 'From this house to the White House'",
       "excerpt": "Democratic presidential nominee Joe Biden waves to onlookers from the steps of his childhood home on Nov. 3 in Scranton, Pa. | Drew Angerer/ Former Vice President Joe Biden signed one of the living room walls of his childhood home during a stop in Scranton,",
@@ -1635,63 +1692,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-twitter-labels-trump-post-about-mail-ballots-as-disputed-and-misleading.md",
-      "title": "Twitter labels Trump post about mail ballots as ‘disputed’ and ‘misleading’",
-      "excerpt": "The president claimed, without evidence, there were “problems and discrepancies” with mail-in ballots “all over the USA.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
-      "originalUrl": "https://www.politico.com/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f109-dd93-ad7f-f90d0def0000&nlid=630318",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/cc/78/67c2074c4385a792442f74d82304/gettyimages-1229297971-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/26/twitter-blocks-trumps-post-mail-ballots-432697",
-      "publishedDateTime": "2020-10-27T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

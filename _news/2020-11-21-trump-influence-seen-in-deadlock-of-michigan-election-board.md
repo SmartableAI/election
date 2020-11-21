@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -330,6 +330,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDTF/accdacef-c7b3-4fbd-a19e-93a9a76e65ea-AP_Election_2020_Trump_MIEV1.jpg?auto=webp&crop=5322,2994,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump tweets undermine Michigan leaders; images show Chatfield drinking at Trump hotel"
+    excerpt: "Skepticism that Michigan lawmakers focused on COVID-19 during their meeting with Trump was amplified by the president's tweets Saturday morning."
+    publishedDateTime: 2020-11-21T22:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/21/michigan-gop-trump-meeting-shirkey-chatfield/6374174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6374174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6374174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PDTF/be9899fd-9123-45c0-9edc-36e889f4fa59-EnWqkqOW4AEB3_F.JPEG?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Black Detroit voters sue Trump campaign over effort to invalidate election results"
+    excerpt: "A group of Black voters in Detroit announced they are suing President Donald Trump and his campaign, alleging the targeted effort to overturn the election repeats one of the \"worst abuses in our nation's history\" by attempting to disenfranchise African American voters."
+    publishedDateTime: 2020-11-21T22:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/black-detroit-voters-sue-trump-campaign-effort-invalidate/story?id=74338935"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/black-detroit-voters-sue-trump-campaign-effort-invalidate/story?id=74338935"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/black-detroit-voters-sue-trump-campaign-effort-invalidate/story?id=74338935"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/black-voters-detroit-02-gty-llr-201121_1605996646291_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Options dwindling, Trump faces likely setback in Georgia recount"
     excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
     publishedDateTime: 2020-11-19T15:30:00Z
