@@ -239,6 +239,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden aide Blinken voices concern about rights group in Egypt"
+    excerpt: "A top adviser to President-elect Joe Biden, who has pledged a renewed U.S. emphasis on human rights, on Friday voiced concern about a prominent Egyptian rights group that said security agents had arrested its executive director this week."
+    publishedDateTime: 2020-11-20T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-egypt-rights-biden-idUSKBN2802UJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802UJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802UJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541955281&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1MJ"
+        width: 725
+        height: 545
+        isCached: true
   - title: "Biden's secret weapon to fight climate change without Senate support"
     excerpt: "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday."
     publishedDateTime: 2020-11-20T18:32:00Z
@@ -254,6 +270,38 @@ related:
       - url: "https://i.insider.com/5fb7ff9532f2170011f70583?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Birx wants to stay on in Biden administration: Colleagues"
+    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
+    publishedDateTime: 2020-11-20T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
     excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
@@ -350,6 +398,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
         width: 817
         height: 545
+        isCached: true
+  - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
+    excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
+    publishedDateTime: 2020-11-21T01:15:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-campaigns-in-georiga-for-senate-runoff-elections/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/81a7d18b-7048-4d17-b82d-971aace7b830/thumbnail/1200x630/182241d14d0784dc2ff695deb6bee018/cbsn-fusion-mike-pence-campaigns-in-georiga-for-senate-runoff-elections-thumbnail-592241-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden officially declared winner of Georgia following recount – as it happened"
     excerpt: "Audit upheld the original tally, Georgia secretary of state’s office said"
@@ -494,21 +556,16 @@ related:
         height: 630
         isCached: true
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
-    publishedDateTime: 2020-11-20T20:33:00Z
-    webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that wil"
+    publishedDateTime: 2020-11-20T18:24:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article247316979.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 55
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
 type: article
 quality: 178
-heat: 258
+heat: 278
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' members continue resisting calls for moderation, blast Biden's consideration of ex-Obama official"
+    excerpt: "The \"Squad\" of progressive Democrats continued to flout the party's establishment on Friday when members indicated it should take a more aggressive approach on racial issues."
+    publishedDateTime: 2020-11-21T03:28:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mNi_29dWHiQ/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fabf8dc-77ba-4344-883e-ae764338390c/61e81799-b0b2-48a3-a0e5-134e96aa3c3a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

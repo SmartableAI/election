@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Squad' members continue resisting calls for moderation, blast Biden's consideration of ex-Obama official"
+    excerpt: "The \"Squad\" of progressive Democrats continued to flout the party's establishment on Friday when members indicated it should take a more aggressive approach on racial issues."
+    publishedDateTime: 2020-11-21T03:28:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mNi_29dWHiQ/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fabf8dc-77ba-4344-883e-ae764338390c/61e81799-b0b2-48a3-a0e5-134e96aa3c3a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uG737N8qgoPxdLd8XoJyrShTybit4cZmdW22n764BIJtZxbC9IuYze7YkHtN5ZbggsXJY0pf2DJxEIxuSw3Ed9PyfzsqRSf0Y9xGRkgmDC4rfey3/KajFhG7zKDN08kBLjgFk036nT10bLp+h13hYzUL6+OJ3Te0qldXu7k7KKaWgv2Tkg11H+0CK51FHugTTh/3y7mzx0odKU0O/jMsuX2EmjWOecHfnRRB4Qd45VpPkuSLePsIBgEomoMgibzbNNktREoK8eRgBR5zUitlM8Bgjc0eDCkKdeMkkJtdATx+m9pPCCNtGYUQCpWlrommiutaN/n2eadLCx1n/R4tIdkhD/nS4N3aj7C49bAaoGc=;vpuj9CP4ENWpyJAp0J0w3Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html"
 type: article
 quality: 198
-heat: 2858
+heat: 2878
 published: true
 
 provider:
@@ -573,6 +573,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114052157-donald-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Donald Trump Jr. tests positive for coronavirus"
+    excerpt: "Donald Trump Jr., President Donald Trump's eldest son, has tested positive for the coronavirus, a spokesman told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-21T00:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BIa4HJRugAo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certifie
 ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://images.wsj.net/im-262788/social"
@@ -255,6 +256,6 @@ related:
         height: 853
         isCached: true
 
-secured: "tFGuFwpaEi/IngIA+NDxcS3Tkv3GhBRATcynsNovFcIjNrc1qN9nzQpxOIiS9C99gwlyemp5Vg4/uNYXzlTmwUMzjMYbQVbi0Lq+tfq13S60QdVx2D8BMizsqUr+uUyRZ0Lp/ZuwlfoEPVrRO7k55xvsPe1BZVqwnKSEZMN0YK8bWG06rkRXwq2/p+WHCbMZaNqQ8TGoQm7NRALWoIHALbHe+gGAhoZJGtZG9hgk1CIiKwvAb1OadV7JX0zB8mu33/e/ceGuxYijYOckCkG5XCM2tjwrHkuJc1ZyED457Xi5hhbmOsxt2jH3Y1TAWnz2tv/JidmtfxV2L1o0pdG7sFzNLi0NUl84P/0V5bPxCvE=;UiVROp1mDNaI+sq7by0k9g=="
+secured: "a2InDO5CfuGTictMTnJ3VoRDln9chnje3kKsw2L6kdF8zIh4GSab7R4N4hxZLMF1Ar6GLkOBYYoxDpp1/TJEL87luLI3CwCxMQ1xCPPyGMLaAvTHuY02PoJ0HcZPCnb3yTAdv2AyHABA3W4l6jR59MMpFAGfLJcbpQf9TayRJL6XzJI8mWEmI3LqKt5GHH7vj02bYszyHWQtjuwk4spwLgA1oMyNAJRRvUJBxhFRFXLLOHIuQ2lGt/TRLyshCon3UlCdJX4YlzUYREROfXES6DXqv9OcYWPutK8CkKkk9FXSszUtjJsUwX8X739cJhQChnQwbVr6UkRJ50esF2u5q9jBzAFtYMq89U7BaQXSmK5ocin6ZZHLqI/nCen8q04gUioZ863UE+bHA+RMoocZRvoTJLZTTgmcKLG/fgw1CG0AY4jz93yuTaBTcP18PtrwQUMDvys3bgIpGzegQpJrSBGgsrMd6C+c4YwP2Ko/fgyJ+sRbAI5hjCr0xPvoHVwSXtuFoVtbnc8C/7Kr3rbyjw==;BV9lbsICP/MByLCYH5EjCQ=="
 ---
 

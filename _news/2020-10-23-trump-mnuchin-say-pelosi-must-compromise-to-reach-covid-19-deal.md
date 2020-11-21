@@ -383,6 +383,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
+    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
+    publishedDateTime: 2020-11-21T00:49:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-junior-idUSKBN2802VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "Donald Trump Jr. tests positive for COVID-19"
+    excerpt: "A spokesman for Trump Jr. said he tested positive at the start of the week and has been \"quarantining out at his cabin since the result.\""
+    publishedDateTime: 2020-11-21T00:01:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-jr-covid-positive/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-jr-covid-positive/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-jr-covid-positive/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/28/21aca625-de5f-4637-9fb6-a09057a46a75/thumbnail/1200x630/8d4fe50872f997fde0f9e627a396a80e/gettyimages-1203975189.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
     excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
     publishedDateTime: 2020-10-20T17:37:00Z
@@ -561,6 +593,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump Jr. tests positive for COVID-19 - spokesman"
+    excerpt: "Donald Trump Jr. tested positive for COVID-19 this week and is experiencing no symptoms, according to a spokesman for the son of President Donald Trump. (Reporting by Steve Holland and Daphne Psaledakis;"
+    publishedDateTime: 2020-11-21T00:45:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-junior-idUSL1N2I62SK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2I62SK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2I62SK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'No need for security checks or COVID tests': Borat star meets Donald Trump Jr. and visits White House in deleted scenes"
     excerpt: "President Donald Trump also makes an appearance in a deleted scene from the new movie posted to Borat's Twitter account."
     publishedDateTime: 2020-10-23T21:32:00Z

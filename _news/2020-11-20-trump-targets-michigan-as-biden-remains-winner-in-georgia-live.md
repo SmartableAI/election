@@ -159,6 +159,22 @@ related:
         width: 838
         height: 545
         isCached: true
+  - title: "Chances narrow of Trump overturning Biden's win after Georgia loss"
+    excerpt: "President Donald Trump's desperate bid to overturn the Nov. 3 election result was dealt another blow on Friday after it was announced he had lost Georgia, while the winner, President-elect Joe Biden,"
+    publishedDateTime: 2020-11-21T00:01:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2800I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2800I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2800I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541913916&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ09J"
+        width: 746
+        height: 545
+        isCached: true
   - title: "Mich. leaders head to DC as Trump bids to subvert election"
     excerpt: "Two Michigan state legislators are headed to the White House as President Donald Trump makes an extraordinary and sure-to-be futile attempt to block Joe Biden’s victory in the battleground state and s"
     publishedDateTime: 2020-11-20T16:20:00Z
@@ -637,6 +653,38 @@ related:
         width: 783
         height: 545
         isCached: true
+  - title: "Readers reflect on four years of Donald Trump"
+    excerpt: "That America is truly on the edge of losing its long-standing position of trust in the world and that this could take place in a short four years under the influence of one man. Putting “America First,"
+    publishedDateTime: 2020-11-20T17:56:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-20/readers-reflect-on-four-years-of-donald-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-20/readers-reflect-on-four-years-of-donald-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-20/readers-reflect-on-four-years-of-donald-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "UPDATE 1-Donald Trump Jr. tests positive for COVID-19, says spokesman"
+    excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
+    publishedDateTime: 2020-11-21T04:31:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-junior/update-1-donald-trump-jr-tests-positive-for-covid-19-says-spokesman-idUSL1N2I62T5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
+        width: 855
+        height: 545
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -751,6 +799,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/19/16ec5c8f-c042-4095-8347-5d246dc6401d/thumbnail/1200x630/b458a35c652432ef04a16c48c860e8f8/cbsn-fusion-joe-biden-trump-refusal-to-concede-irresponsible-incredibly-damaging-thumbnail-591450-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Michigan lawmakers meet with Trump, say they haven't seen evidence of voter fraud"
+    excerpt: "State officials proclaim that the winner of the state's popular vote should get its electoral votes, and in Michigan that is Joe Biden"
+    publishedDateTime: 2020-11-21T00:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/20/trump-meets-michigan-lawmakers-part-challenge-biden-win/6361814002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6361814002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6361814002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
     excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
@@ -927,6 +991,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d710a6a5-3e94-44ae-8467-892ab69ba948_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "What the Biden administration could do with executive actions"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have promised to reinstate policies and rejoin organizations that President Trump eliminated during that past four years. But there's still more that they can potentially do during their first few days in office."
+    publishedDateTime: 2020-11-21T03:25:00Z
+    webUrl: "https://www.cbsnews.com/video/potential-executive-actions-the-biden-administration-could-take-to-move-the-country-forward/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/19c9c305-1560-4d9c-8060-d8255bbfca32/thumbnail/1200x630/7e4ef09c34ed3f9a57f81e2e6ea5ea6d/cbsn-fusion-potential-executive-actions-the-biden-administration-could-take-to-move-the-country-forward-thumbnail-592669-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."

@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
+    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
+    publishedDateTime: 2020-11-20T22:50:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 160
+    images:
+      - url: "https://images.wsj.net/im-262788/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
     excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
     publishedDateTime: 2020-11-13T02:04:00Z
@@ -189,22 +205,6 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-260247/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
-    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
-    publishedDateTime: 2020-11-20T22:50:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-262788/social"
         width: 1280
         height: 640
         isCached: true

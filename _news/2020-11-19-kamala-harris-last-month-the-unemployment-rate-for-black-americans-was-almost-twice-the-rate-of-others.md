@@ -29,7 +29,7 @@ related:
   - title: "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\""
     excerpt: "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country."
     publishedDateTime: 2020-11-20T14:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html"
     type: article
     provider:
       name: RealClearPolitics

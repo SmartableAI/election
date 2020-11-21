@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
 type: article
 quality: 156
-heat: 776
+heat: 796
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Here’s what young voters want from Joe Biden and Kamala Harris in the next four years"
+    excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here's what they want to see from them in the next four years."
+    publishedDateTime: 2020-11-20T22:43:00Z
+    webUrl: "https://www.cnbc.com/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 133
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
+        width: 3138
+        height: 2106
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 921
+heat: 961
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119124104-01-south-texas-family-residential-center-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's margin of victory over Trump surpasses 6 million votes"
+    excerpt: "President-elect Joe Biden's margin of victory over President Donald Trump surpassed 6 million votes on Friday, as ballots continue to be counted across the nation.\n    \n"
+    publishedDateTime: 2020-11-21T03:13:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_hT8tRdLQlE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-6-million-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-6-million-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -301,6 +317,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118183854-trump-casten-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia secretary of state certifies Biden's win"
+    excerpt: "Georgia Secretary of State Brad Raffensperger said Friday that he'll certify President-elect Joe Biden's victory later in the day and will formalize the razor-thin presidential results after a statewide audit confirmed that Biden got more votes than President Donald Trump.\n    \n"
+    publishedDateTime: 2020-11-21T00:13:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDjrObsfZj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1310
+heat: 1330
 published: true
 
 provider:
@@ -474,6 +474,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114102305-01-trump-rose-garden-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump unveils controversial drug price rules in a last-ditch attempt to fulfill campaign promise"
+    excerpt: "President Donald Trump unveiled two controversial rules on Friday aimed at reducing drug prices -- a last-ditch effort to fulfill a key 2016 promise that immediately sparked legal threats from the pharmaceutical industry and condemnation from Democrats.\n    \n"
+    publishedDateTime: 2020-11-20T23:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZtVpBeCS7Nw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/trump-unveils-controversial-drug-price-rules/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-unveils-controversial-drug-price-rules/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190103095059-20190103-drug-prices-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

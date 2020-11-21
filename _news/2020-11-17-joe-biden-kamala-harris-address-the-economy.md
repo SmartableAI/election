@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here’s what young voters want from Joe Biden and Kamala Harris in the next four years"
+    excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here's what they want to see from them in the next four years."
+    publishedDateTime: 2020-11-20T22:43:00Z
+    webUrl: "https://www.cnbc.com/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 133
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
+        width: 3138
+        height: 2106
+        isCached: true
   - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
     excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
     publishedDateTime: 2020-11-10T12:25:00Z

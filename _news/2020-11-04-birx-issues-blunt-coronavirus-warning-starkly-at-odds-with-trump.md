@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump Jr. tests positive for coronavirus. He has been isolating since Monday."
+    excerpt: "Donald Trump Jr., the president’s son, tested positive for the coronavirus, a spokesman for Mr. Trump said on Friday. Mr. Trump tested positive for the coronavirus at the beginning of the week and has been isolating since Monday,"
+    publishedDateTime: 2020-11-21T00:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-don-jr/merlin_177428364_81db8015-1144-4953-8788-b0c4cb10dba0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "/RL76r24nJ6ETKHk05ij3BB3hhb9p0RSoNvRqWJPVEoh/xDtJr5fJwoBqHW2nEjYCmKRtro6Jb0z0bLOC7OKacQUG3l67wgzALtKDhhdXZc7+ja29wEoSEVT8d7Sqn0z50aZKLiW7yU3a1RDbfFPgEmu+LEs1BgO91Q4uHZGdubaG/ntGtmWuwFD3VmN54OLZPvZ70X2RXslQvaLa7OgnADi4HlVbhgLwcKCad+v4OOIq9FKHrV1WN0/wE41/6JgyUw4PB9YtqIYt6acIsnR263W2qiRtMlI2SJet7uyuxZ+C5Up5aVfARjDovv4BFNBUDmVb1FMgGlXQ158efRoTiIlr2IOkKYjRHC5pZecOjw=;LSrdtrtcUGIHkbdmrXR/bQ=="
 ---

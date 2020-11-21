@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-21-plagued-by-covid-outbreaks-the-meatpacking-industry-could-be-forced-to-change-under-biden.md",
+      "title": "Plagued by COVID outbreaks, the meatpacking industry could be forced to change under Biden",
+      "excerpt": "President-elect Joe Biden could direct his agencies to implement and enforce strict safety measures to protect worker health, experts said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/",
+      "originalUrl": "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/04/21/USAT/9079416e-8378-4e8f-a692-4b24bef7a647-tyson_workers.JPG?auto=webp&crop=2015,1134,x0,y186&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3777230001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777230001",
+      "publishedDateTime": "2020-11-20T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-georgia-secretary-of-state-certifies-election-for-joe-biden.md",
       "title": "Georgia Secretary of State certifies election for Joe Biden",
       "excerpt": "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state",
@@ -10,7 +62,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636",
       "featuredContent": null,
       "highlight": null,
-      "heat": 800,
+      "heat": 880,
       "tags": null,
       "images": [
         {
@@ -474,7 +526,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 776,
+      "heat": 796,
       "tags": null,
       "images": [
         {
@@ -1312,7 +1364,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 15681,
+      "heat": 15701,
       "tags": null,
       "images": [
         {
@@ -1511,63 +1563,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-home-vandalized-after-california-man-hangs-effigy-of-biden.md",
-      "title": "Home vandalized after California man hangs effigy of Biden",
-      "excerpt": "The Northern California home of a supporter of President Donald Trump was vandalized Friday after an effigy of Joe Biden accompanied by the word \"cheater\" was hung from its second-story roof with a rope,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/home-vandalized-after-california-man-hangs-effigy-biden-n1246876",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_45/3426637/201106-brentwood-home-damage-cover-inline-jm-1949_4010630804b95605f983e1db6345adb2.jpg",
-          "width": 1245,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1246876",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1246876",
-      "publishedDateTime": "2020-11-06T17:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -64,6 +64,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Michigan statehouse leaders arrive at White House to meet with Trump as campaign peddles bogus fraud claims"
+    excerpt: "Michigan House Speaker Lee Chatfield is going to the White House today, a source familiar with the plans told CNN.\n    \n"
+    publishedDateTime: 2020-11-21T00:41:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78T6kZs8lzA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/michigan-house-speaker-will-meet-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120093600-01-lee-chatfield-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Transition Live Updates: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
+    excerpt: "The president invited a delegation of Michigan Republicans to the White House on Friday. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden announced more staff appointments and met with Speaker Nancy Pelosi and Senator Chuck Schumer."
+    publishedDateTime: 2020-11-21T00:37:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-meeting-whatweknow/merlin_180252009_22114c2b-02cd-4ef7-8533-8897833662f8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "KRUOrfrcILObo60QX4VjpmMmkejWr4tuVPNb5eC65UX0gYJ2n1umX8UfrLCpvrZJXQa59kHyWSdGu2/g+Y/80jv8xUrzMOzS31d6TnLZdwKksIvkWOiiDwoRV02+/+S3jK5gCXu/fh22b0D4ctQX+B4uRw/HIli5zRk92siX8dtK8RcBj33hg5Y809uX5sE4LyThZbBV1V4qA0dVIDNjaHdk9FPBEpoUg1nbWj4TVWEvbHdiuSEO0M9ez2ZFTYEhx7yC+qc5H3Acj/2jZAyG7hk0e9mY5SExZrc7hsglitVS4nyH2dtWvrh4t7//9IHyVi1Fz3DBTCvR2+4yHYZK83pDpwObfrdbzcA6ttD/4hI=;o4N07RlHckyYC3sTWGfn7A=="
 ---

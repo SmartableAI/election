@@ -2719,6 +2719,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump tries to leverage power of office to subvert Biden win"
+    excerpt: "President Donald Trump is trying to leverage the power of the Oval Office in an extraordinary attempt to block President-elect Joe Biden’s victory"
+    publishedDateTime: 2020-11-21T00:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-tries-to-leverage-power-of-office-to-subvert-biden-win/2020/11/20/599f232c-2b90-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-tries-to-leverage-power-of-office-to-subvert-biden-win/2020/11/20/599f232c-2b90-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-tries-to-leverage-power-of-office-to-subvert-biden-win/2020/11/20/599f232c-2b90-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
     excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
     publishedDateTime: 2020-10-23T19:42:00Z

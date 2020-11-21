@@ -187,6 +187,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What Trump allies said about election results in 2016"
+    excerpt: "President-elect Donald Trump. Now, those same people are baselessly suggesting Trump lost due to widespread fraud."
+    publishedDateTime: 2020-11-21T00:31:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-trump-allies-said-about-election-results-in-2016/2020/11/20/f274f1e1-8c31-48a1-a961-db6cd24b37c8_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-20-2020/t_15ed001c2b264384aa887bff10378474_name_20201120_GIULIANI_THEN_NOW_V2.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Rebuking Trump, DHS cybersecurity agency says no evidence of deleted, changed votes"
     excerpt: "Rebuking Trump, the Department of Homeland Security's cybersecurity agency says there is no evidence of deleted or changed votes."
     publishedDateTime: 2020-11-13T17:21:00Z

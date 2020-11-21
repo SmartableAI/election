@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
+    excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
+    publishedDateTime: 2020-11-20T23:50:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXULHIlFxak/bidens-electoral-college-victory-same-trumps-2016"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-electoral-college-victory-same-trumps-2016.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-electoral-college-victory-same-trumps-2016.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20322717057864.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump officials warn of new border surge if Biden reverses immigration policies"
     excerpt: "President-elect Joe Biden promised to reverse a number of key immigration policies enacted under President Trump, raising fears of a surge at the southern border, which administration officials believe they already are seeing."
     publishedDateTime: 2020-11-20T22:17:49Z
@@ -383,6 +399,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Omar suggests Biden should 'reverse' Trump's Middle East agreements, says they 'weren't peace deals'"
+    excerpt: "Rep. Ilhan Omar, D-Minn., laid out a scathing attack on President Trump's foreign policy Friday, arguing his Middle East agreements weren't actually \"peace deals\" but arms deals that should be reversed by the next administration."
+    publishedDateTime: 2020-11-21T02:12:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xx8GQu7FxJw/omar-biden-reverse-trump-middle-east-werent-peace-deals"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-reverse-trump-middle-east-werent-peace-deals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-reverse-trump-middle-east-werent-peace-deals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
     excerpt: "Nearly three-quarters of regional voters turned out for Biden."
     publishedDateTime: 2020-11-11T22:05:05Z
@@ -524,6 +556,22 @@ related:
     quality: 169
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden taps Facebook executive for White House role as big tech infiltrates transition"
+    excerpt: "Some of Biden's full-time staffers, as well as transition team members, have ties to Silicon Valley."
+    publishedDateTime: 2020-11-21T01:57:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-big-tech-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-big-tech-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

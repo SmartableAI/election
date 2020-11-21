@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 690
         isCached: true
+  - title: "Donald Trump Jr tests positive for coronavirus – as it happened"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-20T20:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb86a6f8f087f6ff1099ed6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump Jr tests positive for coronavirus – live"
+    excerpt: "President’s eldest son tested positive for Covid-19 earlier this week, spokesman said, and is fourth member of Trump family to contract virus"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates?page=with:block-5fb85c988f087f6ff1099e70"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/20/us-election-trump-michigan-biden-georgia-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d6e38cf16120655d6f33182716bf34403d310069/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d3646efad6165b44747fe4ae85d0375"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Mike Pence will not quarantine after four aides test positive for coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine himself despite two of his top aides testing positive for Covid-19, his office said."
     publishedDateTime: 2020-10-25T19:24:00Z

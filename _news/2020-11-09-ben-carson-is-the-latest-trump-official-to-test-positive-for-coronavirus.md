@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/ben-carson-coronavirus/index.html"
 type: article
 quality: 174
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/02/us/politics/02dc-virus-birx1/02dc-virus-birx1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Donald Trump Jr. tests positive for coronavirus. He has been isolating since Monday."
+    excerpt: "Donald Trump Jr., the president’s son, tested positive for the coronavirus, a spokesman for Mr. Trump said on Friday. Mr. Trump tested positive for the coronavirus at the beginning of the week and has been isolating since Monday,"
+    publishedDateTime: 2020-11-21T00:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/20/us/politics/donald-trump-jr-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-don-jr/merlin_177428364_81db8015-1144-4953-8788-b0c4cb10dba0-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

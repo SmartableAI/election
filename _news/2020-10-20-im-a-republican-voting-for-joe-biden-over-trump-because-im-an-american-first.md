@@ -593,6 +593,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump Jr. tests positive for coronavirus"
+    excerpt: "Donald Trump Jr., President Donald Trump's eldest son, has tested positive for the coronavirus, a spokesman told CNN on Friday.\n    \n"
+    publishedDateTime: 2020-11-21T00:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BIa4HJRugAo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/donald-trump-jr-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Obama saved his harshest critiques of Trump until the campaign's end"
     excerpt: "Barack Obama held back his most biting critiques of President Donald Trump in the first years of his post-presidency, hoping the lack of constant attacks would make his voice even more powerful at a time he thought it was most needed.\n    \n"
     publishedDateTime: 2020-10-28T18:52:04Z

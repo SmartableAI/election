@@ -21,6 +21,54 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Pence pitches Georgia senators as last line of GOP defense"
+    excerpt: "Vice President Mike Pence campaigned Friday in Georgia in support of the state’s two Republican senators and warning of a potential Democratic takeover of Washington in January"
+    publishedDateTime: 2020-11-21T00:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319047"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_379847ea0f644970a1858391707aad70_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pence arrives in Georgia to help Republican turnout in U.S. Senate battleground"
+    excerpt: "Vice President Mike Pence jumped into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election that will decide which party controls the Senate."
+    publishedDateTime: 2020-11-20T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-georgia-idUSKBN28015T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28015T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28015T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JC"
+        width: 823
+        height: 545
+        isCached: true
+  - title: "Pence goes down to Georgia as Republicans stir turnout in battleground Senate races"
+    excerpt: "Vice President Mike Pence will jump into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election battle that will decide Senate control."
+    publishedDateTime: 2020-11-20T16:01:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN28015T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28015T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28015T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JC"
+        width: 823
+        height: 545
+        isCached: true
   - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
     excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"
     publishedDateTime: 2020-11-17T02:57:00Z

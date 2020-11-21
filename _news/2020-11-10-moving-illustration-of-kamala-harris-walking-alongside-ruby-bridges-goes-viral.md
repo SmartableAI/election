@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 855
         isCached: true
+  - title: "Fact check: Kamala Harris has said she agrees with decriminalizing sex work"
+    excerpt: "Claims on social media that Vice President-elect Kamala Harris has endorsed legalizing prostitution are false."
+    publishedDateTime: 2020-11-21T00:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/20/fact-check-kamala-harris-has-agreed-decriminalizing-sex-work/6325987002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325987002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325987002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/28/USAT/aed08656-70ec-4fa2-b665-65f9e7f6858e-bet-hip-hop-awards-kamala.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Where is California native Kamala Harris spending Election Day?"
     excerpt: "Kamala Harris is spending part of her last day on the campaign trail in Detroit. She'll be touring the Motor City on Election Day, encouraging supporters to go to the polls, according to reports. The California native's last-minute visit in Michigan signals the importance of this state."
     publishedDateTime: 2020-11-03T19:17:00Z

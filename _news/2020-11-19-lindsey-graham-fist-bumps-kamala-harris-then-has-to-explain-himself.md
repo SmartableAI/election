@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here’s what young voters want from Joe Biden and Kamala Harris in the next four years"
+    excerpt: "Young voters were were key to getting Joe Biden and Kamala Harris elected. Here's what they want to see from them in the next four years."
+    publishedDateTime: 2020-11-20T22:43:00Z
+    webUrl: "https://www.cnbc.com/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/20/heres-what-young-voters-want-to-see-from-joe-biden-and-kamala-harris-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 133
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
+        width: 3138
+        height: 2106
+        isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-16T20:57:00Z
@@ -498,6 +514,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "4jWDLGZjtbCyPlqoVF0XrmXNGQCFM6BRhj2+CQ/kUhEB+KerJJ4EeS3Ick486iCdJj2zzkTlSNvL9rmZ/2HOiVB5t/LxWtPf8Nb9Mypq22FDoUs6y+/wuq5W99iQgCcCENegKj6JTKUCjmH9GQQz13SAA2ecLlK0fYb3amU68mUiHLId8WWWP+Zge8gMfXET6efYl/5ZnY8NQYf3JNN6OGEZpasFvq5EJfPYkRt8DKnN5Ln7/UoHbzTuhLNHq0HFvpenurFhN1zBMbTJjwkK3PRkKvE8tg/eB6QZR7Pu8VD0RAHcn/81lXM52iJB4Ji6RxjEorDFutxrG4XfU6f/720vsUfnPc+f55gXyFUY0Ek=;wPEGBdopeq+RJ8kbJNLhrA=="
+secured: "jmvAoYtUYCYfZt46mQsXGWEWhHjakgGtzvy3MDfZBVdTF5jd2zqb/ehDKDyPTm0oeAIH7pewek0sKR+krBBONy/m6TkO7Lj31xJqGPFNZl68ugM6/Sm3Fs/Qandk5qlG4JN8/1xDraYYOQKrCl46cPDM9mUbQpf1oGsO4DHPGyy3ZVfLl7jA13LPXFQ7JYnCBYuit9DAdNBDScEon6WLhqcn8wnMpMYhkoNCpPv2ZpnDBvIVc2a7T5jUw87i8auk9b5v+QW+y3V49gwG9xAXStZPNegVo5lSrQsrK41PU+gD/GLn3d47T8BCgUe3VDJY4INTfontI6CvTeSn5zENn5Q+AnFhtRP6E15TXfzJ6EI=;5YGtW5pjklmpZq3XhRpUCw=="
 ---
 
