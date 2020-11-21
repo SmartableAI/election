@@ -239,6 +239,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "POLICY REVEAL: How a Joe Biden presidency will affect real estate"
+    excerpt: "President-elect Joe Biden's plans include incentives for first-time homebuyers, ditching a tax break for investors, and ramping up affordable housing."
+    publishedDateTime: 2020-11-21T13:38:00Z
+    webUrl: "https://www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-joe-biden-presidency-real-estate-policy-transform-home-ownership-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5fa31f1bf7d1cb0019e39ddb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter will give @POTUS handle to Joe Biden on Inauguration Day"
+    excerpt: "Twitter will hand over official accounts to the new administration even if President Trump refuses to concede."
+    publishedDateTime: 2020-11-21T14:30:00Z
+    webUrl: "https://www.cbsnews.com/news/twitter-potus-handle-joe-biden-inauguration-day/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/twitter-potus-handle-joe-biden-inauguration-day/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/twitter-potus-handle-joe-biden-inauguration-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/155c3ec2-5e3e-46c2-8ed8-468f3a5ec36e/thumbnail/1200x630/73463b6b1361b2ac6e45672169361c28/cbsn-fusion-georgia-certifies-president-elect-joe-bidens-victory-thumbnail-592634-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
     excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
     publishedDateTime: 2020-11-20T07:33:00Z

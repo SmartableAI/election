@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1330
+heat: 1350
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119043304-03-donald-trump-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Georgia proves Trump has no chance of winning"
+    excerpt: "President-elect Joe Biden is going to be the next president of the United States. That hasn't stopped President Donald Trump and his campaign from claiming without any proof that there was wide scale fraud in the 2020 election.\n    \n"
+    publishedDateTime: 2020-11-21T14:09:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSRObI0gY_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/biden-trump-georgia-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/biden-trump-georgia-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Georgia proves Trump has no chance of winning"
+    excerpt: "President-elect Joe Biden is going to be the next president of the United States. That hasn't stopped President Donald Trump and his campaign from claiming without any proof that there was wide scale fraud in the 2020 election.\n    \n"
+    publishedDateTime: 2020-11-21T14:09:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OSRObI0gY_s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/biden-trump-georgia-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/biden-trump-georgia-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
     excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
     publishedDateTime: 2020-11-11T17:40:18Z

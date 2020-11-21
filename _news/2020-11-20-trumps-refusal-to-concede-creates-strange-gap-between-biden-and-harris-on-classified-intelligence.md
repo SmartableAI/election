@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 961
+heat: 981
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's margin of victory widens as Trump's subversion efforts grow more frantic"
+    excerpt: "Overturning elections sounds like the stuff of secret deals in smoke-filled rooms, but President Donald Trump's not even trying to hide his effort to subvert the results of the election as President-elect Joe Biden's margin widens to more than 6 million votes.\n    \n"
+    publishedDateTime: 2020-11-21T05:54:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PFZwuvUJL3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/donald-trump-joe-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/donald-trump-joe-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120193209-donald-trump-november-20-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
