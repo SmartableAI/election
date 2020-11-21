@@ -1,22 +1,22 @@
 ---
 category: news
-title: "In new memoir, Barack Obama relishes taunting Trump: ‘He was a spectacle’"
-excerpt: "Former President Obama holds off on mentioning Donald Trump until the end of his new memoir, \"A Promised Land.\" But his thoughts are worth the wait."
-publishedDateTime: 2020-11-20T20:51:00Z
-originalUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner"
-webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner"
-ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
+title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
+excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
+publishedDateTime: 2020-11-21T09:53:00Z
+originalUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
 type: article
-quality: 124
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/056cee9/2147483647/strip/true/crop/2000x1306+0+421/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F2c%2Fdedf568e4af087cab5f0a5c76f32%2Fla-ca-bk-a-promised-land-barack-obama-183.JPG"
-    width: 320
-    height: 209
+  - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
+    width: 600
+    height: 378
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 959
         isCached: true
-  - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
-    excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
-    publishedDateTime: 2020-11-21T09:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+  - title: "In new memoir, Barack Obama relishes taunting Trump: ‘He was a spectacle’"
+    excerpt: "Former President Obama holds off on mentioning Donald Trump until the end of his new memoir, \"A Promised Land.\" But his thoughts are worth the wait."
+    publishedDateTime: 2020-11-20T20:51:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
-        width: 600
-        height: 378
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/056cee9/2147483647/strip/true/crop/2000x1306+0+421/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F2c%2Fdedf568e4af087cab5f0a5c76f32%2Fla-ca-bk-a-promised-land-barack-obama-183.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump wasn’t just a rural phenomenon. Most of his supporters come from cities and suburbs."
     excerpt: "Are rural Americans Trump voters? Yes, many of them. Trump voters outnumber voters who supported Joe Biden 2 to 1 in rural counties. But are all Trump voters rural? Absolutely not. Voters in rural America accounted for less than a fifth of all votes cast for him."
@@ -158,6 +158,6 @@ related:
         height: 700
         isCached: true
 
-secured: "tZhsJWT0HM+wc39MgSLJ3prwj9FOp+U5lPCi9twsG9itkK4tsSMpfnoXlgBNMwxqOAqSzo7AkF5SUK+HqzjxLesIX0C3pI7GexDNJFZo+Fb8E1YFldCUpkPDkF15HvItGQZE6d2jofP54dMziaeoFzAwcr5Oa6iO9htnR6Tz8HFkuQQne9PYhYss5hc4QzKNZRKStirH6btodIW3Q22Yzu+UBW6pObKJEVRc9/Qe24fzKIvFFv2PucH5cG+Nqzo2s5r6AjAbqSn/jNDcNElvekAFte5IY7IcrzEJn+yurL0nyQ9qlPoXq5KDik9PqE2UdbX4BBAyovTm0p1nyL9FC/TGBximsGVtas98dO5UNq4=;+xHU9ey+m9Y/QS5Axob1UQ=="
+secured: "sYwoE7g6AZnCXYByJbbc8FdxkgUChuMH/ohK7YCl7zFnhJaw8dCe1KS87yQbbL1/2009IGaUQPXlMt2uxXpHYLXQlBoqPP3HiaRNuNBK71qp1bYQYrjXEbIxvzQGhA901xMzE/b7FUSrrqPv8P5bfdFLLjHZLnR0fGf2BEd1SOxSSKmk5I3KjNson9tGRrZt0WVV8MQwAy2Pn0cwPCjKFjU5wfklj+o7PqNqDyif+t/KccB4DGI3cTaebRSEPDuFCJvZ2MobZbSWU2SKxMF58X+sLJ7PLa/40JjL7FGL3VnShc2b7PC9zwwAdfAnvX3Zj2uZv0mptWkHKzEthTgIo2MqJ7BWGXRTSU7RDEp4x9w=;08nGppo6aGYGIoEqbQugXA=="
 ---
 

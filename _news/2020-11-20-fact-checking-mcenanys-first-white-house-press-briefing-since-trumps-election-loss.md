@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Georgia's pro-Trump election chief became the bane of the GOP"
+    excerpt: "On Friday morning, just hours before his office helped certify that Joe Biden won the state's 16 electoral votes, Georgia Secretary of State Brad Raffensperger was insistent he still supported Donald Trump and wished the President were heading to a second term.\n    \n"
+    publishedDateTime: 2020-11-21T16:28:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye3kMAjnnRY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: World braced for more bombshells from furious Donald Trump after election defeat"
     excerpt: "Both allies and enemies alike of Donald Trump are bracing themselves this week for foreign policy bombshells dropped by a furious US President lashing out over his election defeat.\n    \n"
     publishedDateTime: 2020-11-19T12:03:11Z

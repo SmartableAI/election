@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michigan election staff recommend certification of Biden win"
+    excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
+    publishedDateTime: 2020-11-21T01:51:00Z
+    webUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden's beach hideaway has political sun shining on Rehoboth"
     excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
     publishedDateTime: 2020-11-15T16:46:00Z

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michigan election staff recommend certification of Biden win"
+    excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
+    publishedDateTime: 2020-11-21T01:51:00Z
+    webUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
@@ -473,6 +489,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "SYjcvkqckXdmxLyckFSqBknWc0L+ScFp9s1ykYQmQPoYdk2beJJ5Z4pR7NGLXqQ7oKhMQ6cO5Wf2H52fJ5TYQ/LTT9qoyAGolW/MTptreyWx6Ap204lBl3z7hGj+Pb+cVAwTyU4rJmCUyw2N161DjWQvxz6/qUdFYyUUSJniDQXTpLPgjvWYJe65oUscN9Pz7eTdtLvXBoiXeI/MJOE7gOeJKpUpVk69otB2tb1fMPl+P5AIof/IegTOSBIlQRoS19YWnCAcNE5GR2tD75QAPTpK50vlHiG35H5s9rtIbPo76YZbr/j8pcxI42aYD0/zvUqRtyPyw1VKeJLHgxvkRDsAYGBMwVBDv07Ievzra/o=;WSIPchkIkEa8Lc8+YwhL7A=="
+secured: "DxLx2gnvlxTxDmS9cm4Qae67Eh9VY2q3EQbrfXNWgVLrMVC2W7hJRWn7GjDrm0eTTn7ossrJSR++rM7M3UuWVJIGJpqkrIqbClcNO6mpCsP+hqusMQA+hrwzUsrqW60Yfr1ptjoVbrUvDYTaSo6ESaClBqVWhBahgC9zqUbQ0qzALJW852qm9zG6Km9NYrF9W0g25uW32D/a0KgqRVoxDbz8T0Lsmv41Vv1uH5BY+BQNzfgkYq2VVmd9YrkhFMta5xt7SZ/aYw1BIaii2MViiwgjxGhjOcOukaz4jh93VWOuHOM7yokDXihqVY5zPLrKb+VrC2tvnZQD6FGGOMYs6hxlNqYsAXNNPocfyLesdAS6Y+3YhKWB31XdiY7efG7AkEvuBmYHDvbgIzbbLO5EpEOJ6Qg48e8j1HdjlIHYOoIH29vGFGRFgDsDHPlUkNlsGiWTjjO78fT7LLkjcbroCqWHO+Z+3QgW8jPae6lTeWv1wdQSD4CyUlfdrcVen7x2dJnO4gnvoqw2cnxlz3CiEA==;tNXTNni1AuvjEgAnesTO8Q=="
 ---
 

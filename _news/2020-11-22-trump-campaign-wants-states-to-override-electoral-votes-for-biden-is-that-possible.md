@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump Courts State Lawmakers Amid Effort to Block Biden Win"
-excerpt: "The president planned to meet Friday with two Michigan lawmakers as he continued to challenge President-elect Joe Biden’s victory, while his efforts to block several critical states from certifying Biden wins drew criticism from some fellow Republicans."
-publishedDateTime: 2020-11-20T16:51:00Z
-originalUrl: "https://www.wsj.com/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
-webUrl: "https://www.wsj.com/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+title: "Trump Campaign Wants States to Override Electoral Votes for Biden. Is That Possible?"
+excerpt: "A look at how state legislatures can become involved in choosing electors."
+publishedDateTime: 2020-11-21T16:09:00Z
+originalUrl: "https://www.wsj.com/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+webUrl: "https://www.wsj.com/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
 type: article
-quality: 150
+quality: 143
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-262801/social"
-    width: 1280
-    height: 640
+  - url: "https://images.wsj.net/im-262890?width=620&size=1.5"
+    width: 620
+    height: 413
     isCached: true
 
 related:
@@ -752,6 +752,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Courts State Lawmakers Amid Effort to Block Biden Win"
+    excerpt: "The president planned to meet Friday with two Michigan lawmakers as he continued to challenge President-elect Joe Biden’s victory, while his efforts to block several critical states from certifying Biden wins drew criticism from some fellow Republicans."
+    publishedDateTime: 2020-11-20T16:51:00Z
+    webUrl: "https://www.wsj.com/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-courts-state-lawmakers-amid-effort-to-block-biden-win-11605887559"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-262801/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z
@@ -767,22 +783,6 @@ related:
       - url: "https://images.wsj.net/im-260465/social"
         width: 1279
         height: 640
-        isCached: true
-  - title: "Trump Campaign Wants States to Override Electoral Votes for Biden. Is That Possible?"
-    excerpt: "A look at how state legislatures can become involved in choosing electors."
-    publishedDateTime: 2020-11-21T16:09:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 143
-    images:
-      - url: "https://images.wsj.net/im-262890?width=620&size=1.5"
-        width: 620
-        height: 413
         isCached: true
   - title: "Joe Biden Names Senior White House Staff"
     excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
@@ -865,6 +865,6 @@ related:
         height: 640
         isCached: true
 
-secured: "3pyZeKNVBHZVREP4Q2Ol7wtxxkMYCVqeTpdqg+PfqVZGCIre8d6/aniIXFg2pBmNTHok8JL727hQu3Y2Edr+cnmZAp4eOAQAEQ0Ck0bM2R0sxEKD1oeC1QhkTSeOCMYMUfE1BsKISIM+z24xMwjuglmULJcuBCzXSmNDSCJjJa72VujQrhDNsPfsrbHYSj7P5DxL+ZvC03kdX+r9SNlTmgaivRoG783ciQ5LmtFoMmtFzlMFmXCyjsxNMxtWGesnhMla0caNp4xZG51xCDYk8lXOWXPOjgT5kFj1yupYPS7MJVH4uEO0Bht3pEQxzo7hTmK6Wb5VGh9a6CwSDjfSNrviS+1gCuRQAKypBb+p9lM=;uz1/5xmLN/c62q+k3IWtIQ=="
+secured: "lWflDWTbfE6CGmk/gpnqbAzGfUrbSCmpMDc2ntgaxcmgm85yyAwEHbpyDKHst/shNV4GdbIyAxcmj0TLh9P3tjbrWh5l2xYrj8YsNjzeWpn3urt/eDMD6graa7DxlMPHnkzV2O2ZrRZUKRxaFyS8It96s4ukPpIpqk3FwpRjvF4UU9MN7fnDyqEesOjgj0YSwvEPKdrNEHyWbovQkhqAT3olHvaQVHKi4h8ATXmZp7v8Np9SQKL2mZuj/jLK1A78/SOqjpzOiq+TrCHfIQtnvG/oG3Zu8UaDmUvIhhy02sDFzfb5pqUfPtv6suPoERxiK148CSP4RF3foM5DMdEcOnH+N8YfOzrW7ezL3bHBRN4=;OpXW89kSwE7P8H2Yy4ZodQ=="
 ---
 

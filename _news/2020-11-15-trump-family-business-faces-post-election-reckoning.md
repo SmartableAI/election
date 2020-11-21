@@ -768,6 +768,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Trump Campaign Wants States to Override Electoral Votes for Biden. Is That Possible?"
+    excerpt: "A look at how state legislatures can become involved in choosing electors."
+    publishedDateTime: 2020-11-21T16:09:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-wants-states-to-override-electoral-votes-for-biden-is-that-possible-11605973695"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 143
+    images:
+      - url: "https://images.wsj.net/im-262890?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Joe Biden Names Senior White House Staff"
     excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
     publishedDateTime: 2020-11-17T16:09:00Z

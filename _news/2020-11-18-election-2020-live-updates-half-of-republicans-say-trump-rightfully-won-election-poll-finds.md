@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
 type: article
 quality: 128
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Coronavirus updates: Donald Trump Jr. tests positive; 471k US deaths by March, model estimates; CDC recommends against holiday travel"
+    excerpt: "Donald Trump Jr. tests positive for the coronavirus. Model predicts more deaths. Thanksgiving during a pandemic happened before. Latest COVID news."
+    publishedDateTime: 2020-11-21T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/21/covid-news-donald-trump-jr-positive-thanksgiving-travel-not-advised/6367181002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6367181002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6367181002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 94
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/NSTT/caa3ba8a-8e3c-4b49-82e2-2810caf33d05-Testing3.jpg?auto=webp&crop=1574,886,x0,y80&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "SJXj4MjHHveb3U5qT9Grpird1oAjUjmLXtjL5JiuHcQLjtWiPn9ST0Od5SgEkAgCuCqh3VGAd7Lsxh/V8fF/r39uesQRU3JmAsI0dWbSHvSPkywF38fJ+bkt6250lF6AMF+GEKxKsrcWJQwbhnNN1qJ/XCar10oZBG1Kmc5JfSeULub/o4rEMCdyotJ93x1JqmvJZFNABu2XVlciUWJtvVNbtIhX1lWFdHsxFeqYeFhiOAosG8Zd0MoSYY4bDDKmYWs+utUBkgS7UaEKkUELZ/0fZzqauV/S6FNnBR+7KQcqnm7BPgL9qYeH3THzL0qrVSDmPKS+YWzuXxmp9+v/AwyBJyKFZZFEODKjMU+cyJw=;woMyYpNq0cL10ajA4JzU9w=="

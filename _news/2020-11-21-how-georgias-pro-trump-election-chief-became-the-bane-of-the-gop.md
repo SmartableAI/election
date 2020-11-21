@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Analysis: Trump's endgame comes into view"
-excerpt: "In the real world, President-elect Joe Biden continues to hurtle toward his January 20 inauguration.\n    \n"
-publishedDateTime: 2020-11-13T04:00:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDzjaGI737A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDzjaGI737A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+title: "How Georgia's pro-Trump election chief became the bane of the GOP"
+excerpt: "On Friday morning, just hours before his office helped certify that Joe Biden won the state's 16 electoral votes, Georgia Secretary of State Brad Raffensperger was insistent he still supported Donald Trump and wished the President were heading to a second term.\n    \n"
+publishedDateTime: 2020-11-21T16:28:44Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye3kMAjnnRY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye3kMAjnnRY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
 type: article
-quality: 175
+quality: 190
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -60,22 +60,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118051338-01-donald-trump-rose-garden-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Georgia's pro-Trump election chief became the bane of the GOP"
-    excerpt: "On Friday morning, just hours before his office helped certify that Joe Biden won the state's 16 electoral votes, Georgia Secretary of State Brad Raffensperger was insistent he still supported Donald Trump and wished the President were heading to a second term.\n    \n"
-    publishedDateTime: 2020-11-21T16:28:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ye3kMAjnnRY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/brad-raffensperger-georgia-gop-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -140,6 +124,22 @@ related:
     quality: 176
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119043304-03-donald-trump-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's endgame comes into view"
+    excerpt: "In the real world, President-elect Joe Biden continues to hurtle toward his January 20 inauguration.\n    \n"
+    publishedDateTime: 2020-11-13T04:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDzjaGI737A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/12/politics/what-matters-november-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201105185402-04-trump-presser-1105-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -970,6 +970,6 @@ related:
         height: 549
         isCached: true
 
-secured: "C426Zh69+ILfvNsfv/MblxCiLQyjpyQo9igCrnU8CmW4vb1ZepiaIl/nPI8BumUcC3TyHAaNJhT0amhy+Xmzmxa+4nLVcQa8HZH9Q95aZG6vx3U44UnIJQf7z3i4GLX4ZjvPF6yb+4drUN71ToPATkuSzqneLzOdTY/rCF/2VjnfxSfEDKAEU83PBRvg8yVdN0u/8sypHJsj7mjcJmIHZSqmRdEeSKbosLRuRk8/Qv3dtjRmYvYEMlLmRKwzhS1ZseRU1fE3+PPNU79LiyVRZSqdf6gACUfeSM8ucOLKgQgTnEzRG92gb6R+1TbXx8XimZP+fnZbLmca4tVhyazKHPA09nUXMZGoJApy7QIL9QM=;HO5KNlmUXl9L7ErQTRnY5w=="
+secured: "X8cRGxVDWh1lc3jXmSemLERgWp6CB8qgjEVae4zupd2NQnM1DG+9I39jbGuLBq/rb018rs1fgUO2xx0oy+odx8fQzKzUSYtqXn8mSksNIMrDY4dYhFM65p1xd6G09kDe5L2259BCwbqGsKpGjhulDQz22piiDN0Sx643AD3zky1HbhsW5NwMZ3c/W8JDDSgKufgfckfFOfglgKIY17aiEPUyoZ5FfQsK9ClQK5Vh5u+lZH3IHOYol9vDiZGDoyot0upxYlHydHe8JNRCJruCfR4KibZdI0F6VGeaC31y7/3zfM7wwNDPkRY+olTDGUentNZZupNfzxeUwKAX2brn1S7fbjHc9gXHAB85e+b469s=;TRYJHBLnleP3N6wUE0UgKw=="
 ---
 

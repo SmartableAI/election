@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Coronavirus updates: Donald Trump Jr. tests positive; 471k US deaths by March, model estimates; CDC recommends against holiday travel"
+    excerpt: "Donald Trump Jr. tests positive for the coronavirus. Model predicts more deaths. Thanksgiving during a pandemic happened before. Latest COVID news."
+    publishedDateTime: 2020-11-21T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/21/covid-news-donald-trump-jr-positive-thanksgiving-travel-not-advised/6367181002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6367181002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6367181002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 94
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/21/NSTT/caa3ba8a-8e3c-4b49-82e2-2810caf33d05-Testing3.jpg?auto=webp&crop=1574,886,x0,y80&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eQCKBKoGkV9OL4g5XbMfl9ybCObINcq4v8wjm4NVrU5L7tlpglfoJDUgo+eJpy7hyLb+tg9rTxN89GM1Mk2QZiF+3QIIqnMNsm8ccZhRirSse9UuhC/gOaMqBHfF8XifdNBhiPpyuMbAexAa9SsjkNynRhlf0o/VypG8c4kw+kLwEd7nAFHW1cQaFzPvrFgWtjMElzehiZwhoF84szYw4IyUiN7cvFUguAmopEjp8q2WZ8H/jdRFuAwZnLFjQjsQP9ysH+cSxF9JKA0ez/+SnduZ2zTbWtpUK7hIqKyzvQHCpJ+ccRxylhimn2R8HlWGbkFOgMTcBw94fIYWLW4IIgY5tNnQYs5b5ERRLNfDLHT+NVNJcukL8jaV+4vDfrA/gZggpLvdGaq2zsifYqXhOJ3k81aDjRm268fuqUG+zkVKX0G8QKue0ar4eigczFFGHAU3Gd0knP3567l3wKkl+JSVLbUM0oRHkpAz1VStkb1bkvNo09Qa8wwZqqQv29Qj0YHOuAyUGLS2BtLxGGywlQ==;rbHpg4WKHdiVMlTH7O+tqw=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Birthday time: Biden turns 78, will be oldest U.S. president"
-excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
-publishedDateTime: 2020-11-21T01:11:00Z
-originalUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+title: "Michigan election staff recommend certification of Biden win"
+excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
+publishedDateTime: 2020-11-21T01:51:00Z
+originalUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
+webUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
 type: article
-quality: 125
+quality: 140
 heat: -1
 published: false
 
@@ -62,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c2dc6b238d6848fea993f5423697ffc3_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Michigan election staff recommend certification of Biden win"
-    excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
-    publishedDateTime: 2020-11-21T01:51:00Z
-    webUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/michigan-election-staff-recommends-state-to-ok-biden-victory/2020/11/20/06a91d88-2b9c-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
@@ -238,6 +222,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541955281&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1MJ"
         width: 725
         height: 545
+        isCached: true
+  - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
+    excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
+    publishedDateTime: 2020-11-21T01:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/birthday-time-biden-turns-78-will-be-oldest-us-president/2020/11/20/77052604-2b96-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "POLICY REVEAL: How a Joe Biden presidency will affect real estate"
     excerpt: "President-elect Joe Biden's plans include incentives for first-time homebuyers, ditching a tax break for investors, and ramping up affordable housing."
@@ -489,6 +489,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eHNQBcFWgTZOmCtZtxHA9TPRl4s70ZIBPwV0XoNsxqLsIUGVUMm/wzbdRbTayfTonBqu9mq0o6CAPAyoqetvWm1Z8ISW228BTdznjuvloolU9DvwFmYtBXetM8kUIGsUd6IZnMW9Z2gxIGSrUGhm4vMl4xyXOef1phGd4GppJT8dJxP5CGVVALY0lWstHIDSlTdBTGcpaSn5Mc+NTMjZJTFSRxrXwVafSKinY9Q+2OGXx2zUEEJNCSBzFmfIOZXdTXFgkLDEzLU4WiCc1YRelJKTo/sjgoXRRVSPCOT+nNJYxwQLrUhXRYzPkVdqYjqo6Fiz14ZybSXdg9z2t5AKhdo+bHK7Usv/XqqfDW93bWY=;/wQnNa+RmHscAb5BEK9R3g=="
+secured: "tuOiAJ0W8gYOlgR4SQOXv2q9ieRITQPBYlgkz54A9RS2fOj26Wtfpmuti3cEpBHo3Xr6B/k6zAWCqmRLGm8HgT1HJhTPzls/v4o89iPTM5HacMyjJzd3O9ZkyFBqDAj+iwv5FomWhuA2OKjJ0fnep+ArWk5k9wrKRAuBaT3BBaY3+rmxSpB0aeethJ4BIzE7BQynUiA6OEVINH1O5vbOGtW4MyJOFxykEst1e18rYvhbS0mxc9glPF7cBHM3dhoVic5NloaHbxoHLDuZu2LjX+phqfllUz/QVku20jXaJ4aDQX1pBqCtHbZyns+yvzV+7hds2UZEJ9vah96EqC03VOZRsZHVDSJc+6UUhMB/LC0=;Myx4EcrvsedUWioxOmynsg=="
 ---
 
