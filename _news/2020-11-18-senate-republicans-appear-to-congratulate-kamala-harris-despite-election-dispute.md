@@ -78,6 +78,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP-elect Kamala Harris gives Gen X slackers a taste of success"
+    excerpt: "Kamala Harris isn’t just historic because she’s the first woman, and first woman of color, to be elected vice president. She’s historic because she represents the first time a middle-aged Gen Xer"
+    publishedDateTime: 2020-11-21T18:31:00Z
+    webUrl: "https://nypost.com/2020/11/21/vp-elect-kamala-harris-gives-gen-x-slackers-a-taste-of-success/"
+    ampWebUrl: "https://nypost.com/2020/11/21/vp-elect-kamala-harris-gives-gen-x-slackers-a-taste-of-success/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/21/vp-elect-kamala-harris-gives-gen-x-slackers-a-taste-of-success/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/Madame-X-Kamala.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "California Democrats face a decision: Do they go for Kamala Harris’ Senate seat?"
     excerpt: "No matter who succeeds Kamala Harris in the Senate, there are going to be a lot of disappointed politicians. That’s to say nothing of various interest groups and political factions who are pushing for one person or another."
     publishedDateTime: 2020-11-19T15:24:00Z

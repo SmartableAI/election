@@ -176,6 +176,22 @@ related:
         width: 746
         height: 545
         isCached: true
+  - title: "Can American democracy survive Donald Trump?"
+    excerpt: "Lying, paranoia and conspiracy are defining features of a totalitarian society. What hope is there for a brand new era, in the aftermath of an administration that has relied on all three?"
+    publishedDateTime: 2020-11-21T10:39:00Z
+    webUrl: "https://www.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2020/nov/21/can-american-democracy-survive-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fdecd60107ee26ff8ec9fc6b7c101755148aca56/0_123_5704_3423/master/5704.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=97cfb0a42dc3034f2a07ffb6a4f8db8f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Land conservation plan stirs fight over Trump restrictions"
     excerpt: "U.S. officials say proposed land conservation purchases in dozens of states would preserve natural areas and increase access to tourist destinations"
     publishedDateTime: 2020-11-20T21:54:00Z

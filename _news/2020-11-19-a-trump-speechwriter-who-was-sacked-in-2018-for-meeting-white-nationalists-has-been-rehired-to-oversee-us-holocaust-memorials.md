@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
+    excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-21T18:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 102
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
 
 secured: "MaPO47QmfugqSi8XXkWXuBVwErUNjBhEQMbNVXIO8NwMIA71Aj7IDz4ds+LK+GJFkWtnrLkCbnT4IdRrGapw8kUdHRRM0aaSTUK3VybDXQ+IH6wjThhQjtgdlyHDEU9uH5xFZ/Yw8mX/eftd+DiSuABiH22Vfn9j/3+7j7Z0jUpolzQVtQVPN5iBetDiBUDgR7E+X3qMcU4DbJEREGR3gjV9rvypIvWkKq1nuT48xNGtpxELWAk64civBFOc5O/5jFlhrIP1K/iwffHz3piYu3dpjY6ZT+UjY+5D84Q8snr4wLzvMcx2tXvahlL/UncsXdNoh4lbu9zPwZUZIJRLm7mX6G8HY6bktrDknQmeFEo=;nV9+w2cB/ednGzlGee9pWQ=="
 ---

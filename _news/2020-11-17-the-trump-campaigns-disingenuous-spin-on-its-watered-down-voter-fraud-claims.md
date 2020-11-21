@@ -63,6 +63,22 @@ related:
         width: 784
         height: 545
         isCached: true
+  - title: "Judge rules against Trump global media chief after firings"
+    excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
+    publishedDateTime: 2020-11-21T18:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
     excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
     publishedDateTime: 2020-11-18T17:11:00Z

@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Michigan election staff recommend certification of Biden win"
+    excerpt: "Michigan's election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden's victory over President Donald Trump but likely not cool partisan strife over the vote."
+    publishedDateTime: 2020-11-21T18:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden's beach hideaway has political sun shining on Rehoboth"
     excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
     publishedDateTime: 2020-11-15T16:46:00Z

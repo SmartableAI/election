@@ -335,6 +335,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Battered by setbacks in push to reverse Biden win, Trump persists with fraud claims"
+    excerpt: "President Donald Trump, battered by back-to-back setbacks in his desperate bid to overturn the U.S. presidential election, persisted with claims of massive voter fraud on Saturday, two weeks after Democrat Joe Biden was declared president-elect."
+    publishedDateTime: 2020-11-21T18:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/wrapup-3-battered-by-setbacks-in-push-to-reverse-biden-win-trump-persists-with-fraud-claims-idUSL1N2I703I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN281075"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN281075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201121&t=2&i=1541967215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ08L"
+        width: 771
+        height: 545
+        isCached: true
   - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
     excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
     publishedDateTime: 2020-10-23T20:15:00Z

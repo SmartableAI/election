@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.md",
+      "title": "Reince Priebus reacts to Wis. Dems' rule-change try following Trump recount filing: ‘You can’t make this up!'",
+      "excerpt": "Former White House Chief of Staff Reince Priebus reacted on Twitter late Wednesday to the election situation in Wisconsin.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Reince-Preibus-Latino.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
+      "publishedDateTime": "2020-11-19T00:00:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-trump-friendly-newsmax-seeks-to-cut-into-foxs-viewership.md",
       "title": "Trump-friendly Newsmax seeks to cut into Fox’s viewership",
       "excerpt": "NEW YORK -- Now that his largely invisible network has suddenly been flooded by fans of President Donald Trump, Newsmax television personality Grant Stinchfield is puffing out his chest.",
@@ -718,58 +774,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-campaign-to-request-recount-in-two-counties-in-wisconsin-he-trails-in-the-state-by-about-20600-votes.md",
-      "title": "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes",
-      "excerpt": "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-18T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1370
+heat: 1390
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump tweets about election results and skips session on pandemic during G20 "
+    excerpt: "President Donald Trump participated in his final Group of 20 summit on Saturday by tweeting throughout the opening session and skipping a special side-conference focused on the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-11-21T18:41:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2bd6voe0Bik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/trump-g20-saturday-sessions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/trump-g20-saturday-sessions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121020808-01-donald-trump-1120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

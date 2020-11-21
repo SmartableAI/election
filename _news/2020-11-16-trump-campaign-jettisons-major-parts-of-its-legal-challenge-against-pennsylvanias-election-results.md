@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
 type: article
 quality: 126
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541682714&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1PZ"
         width: 784
         height: 545
+        isCached: true
+  - title: "Judge rules against Trump global media chief after firings"
+    excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
+    publishedDateTime: 2020-11-21T18:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."

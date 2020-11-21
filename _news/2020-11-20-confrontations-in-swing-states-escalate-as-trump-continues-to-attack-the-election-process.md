@@ -496,6 +496,22 @@ related:
         width: 2500
         height: 1714
         isCached: true
+  - title: "Trump Using Last Days to Lock in Policies and Make Biden’s Task More Difficult"
+    excerpt: "At a wide range of departments and agencies, Mr. Trump’s political appointees are going to extraordinary lengths to try to prevent Mr. Biden from rolling back the president’s legacy."
+    publishedDateTime: 2020-11-21T18:14:00Z
+    webUrl: "https://www.nytimes.com/2020/11/21/us/politics/trump-biden-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/21/us/politics/trump-biden-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/21/us/politics/trump-biden-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 146
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Highlights From the Transition: Biden Wins Arizona, Padding His Electoral College Margin Over Trump"
     excerpt: "This election was more — maybe more a referendum on who can handle Covid well than anything else. The Donald Trump approach was repudiated, the Joe Biden approach was embraced and that’s why we think there is a better chance to get a bill in the lame ..."
     publishedDateTime: 2020-11-19T07:28:00Z

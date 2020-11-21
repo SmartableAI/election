@@ -1,27 +1,33 @@
 ---
 category: news
 title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
-excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
-publishedDateTime: 2020-11-20T17:48:00Z
-originalUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
-webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
+excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+publishedDateTime: 2020-11-20T22:20:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+webUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/6a23d35018294cff8363c35b29d376cc/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Politics/WireAP_6a23d35018294cff8363c35b29d376cc_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -169,6 +175,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "bD+7oE03R6+RWb010K1RDXNrht12/izw0KNN5W7nVT9mkBIOB5qbUbgCTHMMMSzzt6Tr6QqakPUHbtM875f6LLQC15EF50JwoeRF/R3VYeVpImgOgQ4LndZiDEE6LAdTl4e+qlUF3ZAP9bpU72a9L2tR/HBfGwXKfLzhgRcMVHb4ElyMioEwslXBLXbincL4joHiEucNcF67TplL5WxbwnsiwFFwMGte5QsYNwo01MNGsd9NAgTSZp4x3vJ68rEc2xoqezUz3dOIJf6GuhCcGG2BhsWw3RuNH9GeVtflWWiSNG+SPXUo6BbVwHlUjYzQBXDVzOtuJZK7vlN19eelEF8bAJdGaey/lf1ZtIgIoTaZRsNOeySkrbkPAiGFjOkmSGFChr+VnH8PRrw7oc0fIY9awZlzRpo6lk7Ceh+CQ40+59R8rzYlvFjxA3za6I20IR/lh0obGoWfMNbryXIyHJKRLEh7f7KqWtl/g9+0iRm2vGIZyY+pY7ccfeNl5v7AZDLLYl5V15cEZ+D0sEVZQQ==;AkwmAxtlCkgCGYJsm1IRCw=="
+secured: "Bdo6xjHf/MjnegYY6NSYBA2mUw89ko9Sp5/EIczFFCpyGUvVKPALpbKEBAJJeo6MMSufR7XZ01Cutvk6oeFYJomDhwaqduOdzIz7aWUxCb0tLB5YaC2FEkslVYsEw92fSlYvQL3ARmDaL83GWz9RO4GdGsbg6c4DyBp0V217Jg1JmNP2YdrGCeMPJeA/5CFMX7R149s+nmM0UbsKpcoL5o1yXAYcouaFjJeexL/U0Pr6hF7BxW8ydGYJ4cVw6z/rzzB9NiZ4AlT9RHCsXv/FZLeP0JMEvP2tv4gl09cGVOfZeffjhxnD7Mx+TekiTY50rk1ra2LFORugPXeA3IpTjvPufdiUHxeX9++gCyO35RE=;oorDmojOqa2t7Xj1B03DSg=="
 ---
 

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
+    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/vp-mike-pence-georgia-ahead-senate-runoffs-74319045"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6a23d35018294cff8363c35b29d376cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence arrives in Georgia to help Republican turnout in U.S. Senate battleground"
     excerpt: "Vice President Mike Pence jumped into the fray of two red-hot U.S. Senate campaigns in Georgia on Friday, aiming to get Republican voters to turn out in force for a Jan. 5 runoff election that will decide which party controls the Senate."
     publishedDateTime: 2020-11-20T23:20:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541882775&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0JC"
         width: 823
         height: 545
-        isCached: true
-  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
-    publishedDateTime: 2020-11-20T17:48:00Z
-    webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/6a23d35018294cff8363c35b29d376cc/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Details released for VP Mike Pence 'bus tour' this Friday in Georgia"
     excerpt: "Vice President Mike Pence will be in Georgia on Friday to campaign for Senators David Perdue and Kelly Loeffler as they face an important January runoff. Pence will travel to Georgia and then embark on a \"bus tour,"

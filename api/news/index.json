@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-who-needs-russia-loudest-attacks-on-us-vote-are-from-trump.md",
+      "title": "Who needs Russia? Loudest attacks on US vote are from Trump",
+      "excerpt": "In the weeks before the presidential election, federal authorities warned that foreign countries could spread false information about the results to discredit the legitimacy of the outcome",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_b02740a5fba14ae7b27cb28de2934cc4_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908",
+      "publishedDateTime": "2020-11-21T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
       "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
       "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 740,
+      "heat": 760,
       "tags": null,
       "images": [
         {
@@ -546,7 +598,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 620,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -1258,58 +1310,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-new-york-subpoenas-trump-organization-records-on-consulting-fees-paid-to-ivanka.md",
-      "title": "New York subpoenas Trump Organization records on consulting fees paid to Ivanka",
-      "excerpt": "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
-      "publishedDateTime": "2020-11-20T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-new-york-subpoenas-trump-organization-records-on-consulting-fees-paid-to-ivanka.md",
+      "title": "New York subpoenas Trump Organization records on consulting fees paid to Ivanka",
+      "excerpt": "New York’s attorney general has sent a subpoena to the Trump Organization for records related to consulting fees paid to Ivanka Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/6ae8be4/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5a%2F3b%2F8b3c08284a4b9772eac3ad91e97a%2Felection-2020-trump-86023.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/ny-investigation-trump-consulting-fees-ivanka-taxes?_amp=true",
+      "publishedDateTime": "2020-11-20T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-trump-administration-does-not-support-lockdown-school-closures-pence.md",
       "title": "Trump administration does not support lockdown, school closures: Pence",
       "excerpt": "The Trump administration does not support another lockdown or school closures to stem the spread of the deadly coronavirus, Vice President Mike Pence said on Thursday, even as infections have hit record highs in recent days in the United States.",
@@ -443,7 +495,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -551,7 +603,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1501,
+      "heat": 1521,
       "tags": null,
       "images": [
         {
@@ -660,7 +712,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 981,
+      "heat": 1001,
       "tags": null,
       "images": [
         {
@@ -1295,62 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.md",
-      "title": "Reince Priebus reacts to Wis. Dems' rule-change try following Trump recount filing: ‘You can’t make this up!'",
-      "excerpt": "Former White House Chief of Staff Reince Priebus reacted on Twitter late Wednesday to the election situation in Wisconsin.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S35GgfTHxSQ/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Reince-Preibus-Latino.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-reacts-to-wis-dems-rule-change-try-following-trump-recount-filing-you-cant-make-this-up.amp",
-      "publishedDateTime": "2020-11-19T00:00:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

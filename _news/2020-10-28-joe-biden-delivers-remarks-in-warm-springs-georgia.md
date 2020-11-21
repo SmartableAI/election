@@ -67,6 +67,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Michigan election staff recommend certification of Biden win"
+    excerpt: "Michigan's election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden's victory over President Donald Trump but likely not cool partisan strife over the vote."
+    publishedDateTime: 2020-11-21T18:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-election-staff-recommends-state-biden-victory-74329734"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z

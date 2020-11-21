@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
+    excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-11-21T18:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/spokesman-trumps-son-don-jr-tested-positive-week-74326930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 102
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "A Trump speechwriter who was sacked in 2018 for meeting white nationalists has been rehired to oversee US Holocaust memorials"
     excerpt: "President Donald Trump appointed Darren Beattie to join the Commission for the Preservation of America's Heritage Abroad on Wednesday."
