@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_6f702168544143a0b452c89e1c1ab5f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump summons Michigan GOP leaders for extraordinary meeting"
+    excerpt: "President Donald Trump has summoned Michigan’s Republican legislative leaders to the White House for an extraordinary meeting Friday"
+    publishedDateTime: 2020-11-21T12:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-canvassers-oppose-certifying-detroit-area-votes-74293061"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -110,16 +110,21 @@ related:
         height: 641
         isCached: true
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that wil"
-    publishedDateTime: 2020-11-20T18:24:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 55
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z
@@ -168,6 +173,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "TZxTHekJdijZOc09It97WTt57Nya+lArX8qG8wfGyod9xn0c08S0U/dt3SvUe3XGeVmAQGbZmmr4kFYfq8o6se7H23y5m2xK1BuPG5jMJQqcH4L/3EkKgsdV9/AHqbyg4rHbT2HT0WY9enDOt+6TQsN96p9zIoVXUkEXIcWsweUUiu+PbKHtykT04E2JL6HUv7fCm4+rxeoc5I19BpJPZxnuzKPJ72DeKZicBcS3XaXmkCB7Nq3+P0X1DwmmqwwPe/WtsVZkwVdcSEXbQUfdGxtl55OSpmkmksXFRH3m5KGnmwNNDDfuqethxFkeux6MSP+GiBGa3HubjiYDECc4lJeShXuHfE4OJV30YRAvKhZ3QmWUnsP6strsE65u/cibUoLX5Ph3/a0bNFUiqRqLbW6Y8/oJv6vT20hi2rt/Kuy7zV7Qae6iJmrEZHWRXyQmbgcwzMQ+Yrz77WiN+Bpqz+H7xVmy7NPXlwn7YPAvH62HcrgcjhM65TTqU9+KyapY6ir+Q4FLfbkn2Vx1Logsxg==;8DGlivJzKYdjMt46T3OtuQ=="
+secured: "hnFyKmVtfaGWi9iGWiUy4E+eDY53f1I0bzyKM4SmgJOh55oEomw/PblOBbIYRpfi+nglnfTZ+vE8nomgzMEPU2Nj4zpVgCfW05YdOebaN7UqxrBm3JvdCISnkWFtEUsrLAXGSsXuetJ3D3NP+Ni2eOf65zmCQi0e6ie/+wqpzpOZLM5YSIa8aOXK63gBFp0VaZKOqhOGRAZuWCECLSscN+zhrqKmMMdVt4slgUBXy8j3pGU0nAkCfikbxsNLmYENOip3H8yeVq66okEucxQTBXaHLprOqRsqdg4KlCN8BvItGHQYcv0OM7xEuZrz6SGkkG1ImkRK+m2f8aTMF5uwGjC20NnpqrjyQWLxjV2om4++QSmEnFazxhjj1M1TSDUCbqiP+oU4L/CtR1cRbC+/Z4f3QBU1BDi4no3DHv/dGv26pqj0XRpm74fpC9SeqvgzaZrTB4mcabLFyLEZuy8oZSeVey1D0D+GIUBobFIbRpvp5OlaT40Lj5Mj81Zp70iOJ0/07t0MxNM9wIG3LNrWmw==;14Rf6Iy3rVYHYyeop6/e4w=="
 ---
 

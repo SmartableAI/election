@@ -7992,6 +7992,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump continues to deny election loss"
+    excerpt: "President Trump again falsely claimed Friday that he won re-election, challenging President-Elect Joe Biden's victory, and met with Michigan legislators in an apparent attempt to stoke distrust in the election results."
+    publishedDateTime: 2020-11-21T12:45:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-deny-election-loss/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/21/08f06e54-9a76-48c7-b6e7-600771b1339a/thumbnail/1200x630/f6705137ce31a276ceebe2205f3424af/cbsn-fusion-trump-continues-to-deny-election-loss-thumbnail-592870-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z

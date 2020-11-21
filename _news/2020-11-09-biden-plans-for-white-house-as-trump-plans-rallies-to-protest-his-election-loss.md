@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15701
+heat: 15721
 published: true
 
 provider:
@@ -7982,6 +7982,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5fb70b84e4b04d44576314d6-1605831556340?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump continues to deny election loss"
+    excerpt: "President Trump again falsely claimed Friday that he won re-election, challenging President-Elect Joe Biden's victory, and met with Michigan legislators in an apparent attempt to stoke distrust in the election results."
+    publishedDateTime: 2020-11-21T12:45:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-continues-to-deny-election-loss/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/21/08f06e54-9a76-48c7-b6e7-600771b1339a/thumbnail/1200x630/f6705137ce31a276ceebe2205f3424af/cbsn-fusion-trump-continues-to-deny-election-loss-thumbnail-592870-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-excerpt: "CANTON, Ga. Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that wil"
-publishedDateTime: 2020-11-20T18:24:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
+excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
+publishedDateTime: 2020-11-20T20:33:00Z
+originalUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
+webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
+ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Pence pitches Georgia senators as last line of GOP defense"
@@ -163,6 +169,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "7NoHzhiD9n+GRlSNAqbdbMONxVQQm0e/ZTRF/VIxaKtUBAmyk64hiq3UFT6KHqKKPSAv2e3/mU3eZy+x60pYPnK5RUYMUNHgsEKmHeaZq6mX0Cyit1Pz8UJzozivAXPe4q6Uiv8ssUxWZ5hBP/xctDRDjSkrGz7WvH9KdKLSYxoR2XbL4/i6q0gPMj3aI4VWRNilgAZwp+4Hm+Otep1IBi9zRtucFDMd3qTZOoWo/arKo9JwLxy69z+ISbdtELUQzpeRGToJAey+05TImCC1vRw77YfdeQslcUgQsN9Xrxgk6zYCC7NLRs6Xp1wTLMck3xHARvy4b55xkbNu3aeP48xE6mJZUbd5tl9Nx9lZ8zKmxgV4nLpZVQKzl6RaPIIGnoS60G1EjDi7vCAfurGjFsdABUMyb26tgu3Xua98h/AiQl9+NL+5589R8hArT8aaihjRxHHfqT0eN0NfQkcdqndCqMyMapvcAo42o6nGrZEJ0EJjIJ6R8tpMzMGA2RrHRuUEALQ6k8VuaIFPrqjHuA==;OYg/nXmY5Bs543P3AT2egw=="
+secured: "h1OKiTTUk91pXuM1NwTebmX1UmuciaIWO2Z+kzk6SWF4qaDiIFdqtJ/3imOMIQCH/2KSD2wsglm/t2jIM4LOfNDCdOhbysQiE8aJAZ2AqABB4683c7Seil0I6j9eDmSFdKqAIvj2emf8pso+w2MDq/nnIJwX4/X81RUq77Ez5z4E5j7lechPRCM4qN6FyuyeWUivUMoQZ1eJjjBSoqob2aDOFDfMbLX99GNRbaQMjs5l8PWiEIdEsPFSGMgRURonliLYSN4E5kbCdgWqWY6d+NeRVUrEvFhgNJ3xc4yGDFC1kTvS/vfqhBKt+pl2zbKDbw2j6L9Fx3G+MxGk6y1CDCIlrxElVpzJhZT/R0lhViY=;jfyvsNXIGiwfRaatwVhGwg=="
 ---
 
