@@ -880,6 +880,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "What each world leader at the G-20 summit has said about Trump — and Biden"
+    excerpt: "For years, world leaders from the Group of 20 have gathered at an annual meeting to discuss the global economy. The summit includes a moment when the group, including heads of state and government from some of the world’s most powerful countries,"
+    publishedDateTime: 2020-11-21T20:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/2020/11/21/what-g20-leaders-said-about-trump/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5H7XNCBMAMI6XHBBHTCQDUEYD4.jpg&w=1200"
+        width: 1200
+        height: 775
+        isCached: true
   - title: "Biden seeks coronavirus vaccine distribution plan as Trump blocks transition"
     excerpt: "President-elect Joe Biden spent Thursday working on plans to fight the coronavirus pandemic and trying to work around President Trump's refusal to share vital information. Ed O'Keefe has the details."
     publishedDateTime: 2020-11-20T02:08:00Z

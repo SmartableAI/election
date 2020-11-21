@@ -34,9 +34,9 @@ related:
   - title: "Georgia certifies election results, making Biden victory official"
     excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
     publishedDateTime: 2020-11-21T03:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
     type: article
     provider:
       name: ABC
@@ -302,6 +302,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/155c3ec2-5e3e-46c2-8ed8-468f3a5ec36e/thumbnail/1200x630/73463b6b1361b2ac6e45672169361c28/cbsn-fusion-georgia-certifies-president-elect-joe-bidens-victory-thumbnail-592634-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden to work to end executions as government sets 3 more"
+    excerpt: "WASHINGTON -- President-elect Joe Biden is against the death penalty and will work to end its use, his spokesman said Saturday, as the Justice Department scheduled three more federal executions during before the Jan."
+    publishedDateTime: 2020-11-21T18:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-work-end-executions-government-sets-74335318"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/201120_abcnl_breakdown_abubey_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
     excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."

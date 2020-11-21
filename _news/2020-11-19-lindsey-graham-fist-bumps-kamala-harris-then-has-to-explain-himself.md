@@ -513,7 +513,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "SC's Alpha Kappa Alpha sorority sisters celebrate Kamala Harris' rise to vice president"
+    excerpt: "In the wake of Harris' victory, South Carolina's Alpha Kappa Alpha sisters are celebrating not only the vice president-elect's win, but also Black and female representation on the geopolitical stage."
+    publishedDateTime: 2020-11-21T19:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/scs-alpha-kappa-alpha-sorority-sisters-celebrate-kamala-harris-rise-to-vice-president/article_51d1347e-29b4-11eb-b39d-8fa3e852804c.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/96/296636c9-1f77-50ec-8da8-addc8e226ab4/5fa8529a7c754.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
-secured: "4eWyQnry0DVqeLKViFewYEdoheLa79PWhxfUL3KVkWtMbRgWGbQgvpoVmtvxc5nHWiZXo3bUQ9pbh9Fe4kLrOEStlKPrqgsLeKEplOQ70vBuVww70cqcgsfJZICuVKFI9aAfXJAxmhNKPnmMxLX8nE2Xoh8kATN0F430P6ytpZ9x+Fkk1gKygb+KqxdpxgbVYvnJ6AWuHvM9Al1pMk1jrhYWBr0u4UJHGrUds59Yp/bVJi+aO2qHooXqQlV/ujqQuxODJYltBlnA6JQ/TKQfjlxStpK6FphxKT8CR3WXMiqDLmEUjcz62no6VfDglWHU8vCKmsGSYksfOO1YZrsPd2WF4wzi8KgriGaJ7Wpye2A=;7YjBUc+Ul5WkWwU7y6YEdQ=="
+secured: "1+0qpCPgm6qJpt6B7voNdWS6ab2sUDn0deOKEt9YVNkdIyVPYlC0PjafttyP36iiTvQE8EHsqb07ZvLnntqjreaUH/qGFopbdyA7KsEbZFolyp1IeKmXLg8ysqXtlFf8WtEPHYuSuD1BBG2tCLc/Gf7RJ24ggkh4k8OkiNVWW3OdnWLN27mJx2SUku5WqdcfWgaM3eTHSqsvkZfSqoHn9RXUJXtwcScwN5QkTdUAdiF1ppjTKT9ivNKtfZVZ7UucgB6qWOezPpMrls98OqhsYnA/eaTPxg5btd3xFh3+ulVPDdWmEbTxec06U9vLuoXCGVb2nYdCso4qESAmj2aUOQv0UTWz71C+XMbp6CN59t959w+4ZjMi+8NZtS+I/CUpOfW8k+YJw8x1z11jCaof6jjgEL7PtE/nQQs/jC2m3xVWfrGIZsWcQo7qOx9kLD/O0uOb1mdgOKXnJgjz/9UT8p7Dzmkqo5D+3QLPjcq3MJxJQTkz0aHbzt6mLqwFFEXrZKGl2EgA0E1oWg+dt9Q4uA==;8bocmg01luJGXjM1q6G+OQ=="
 ---
 

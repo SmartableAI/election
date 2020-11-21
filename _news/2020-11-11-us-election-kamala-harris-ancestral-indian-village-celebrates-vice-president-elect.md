@@ -513,6 +513,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "SC's Alpha Kappa Alpha sorority sisters celebrate Kamala Harris' rise to vice president"
+    excerpt: "In the wake of Harris' victory, South Carolina's Alpha Kappa Alpha sisters are celebrating not only the vice president-elect's win, but also Black and female representation on the geopolitical stage."
+    publishedDateTime: 2020-11-21T19:00:00Z
+    webUrl: "https://www.postandcourier.com/politics/scs-alpha-kappa-alpha-sorority-sisters-celebrate-kamala-harris-rise-to-vice-president/article_51d1347e-29b4-11eb-b39d-8fa3e852804c.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/96/296636c9-1f77-50ec-8da8-addc8e226ab4/5fa8529a7c754.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "sdR5O+Slr9oEzKsHWeNvv8dS3R4YP5r9odTtwsO7MXdx/od3TpnGr4V1nO5Hz0rqMeC9P+aagVZGL3fHZO+TpegsSXwHp0f6v1+HyP2M5a0K6Lb0rr7J5Iwyfz96usSDuEbg3eHrnDFLfJaERpJURxeyh0JJp68SODan27fKvR8Dv8RGUQ0m9o2JKGC3lzzVn2cmeC9kOCBCqkFDpw/CmT9YzZXpRisVCtezDU6G0CXKO9xoWasyUR5WMzH5zCBKc9hCdCuw7Sl6SE9zht9r7GBid2EmnwzwXi+wBt1d2stDXCGj27RtnoQ6I3EOLhIY77sPXSQns7YYp/aUDqIUTEIp7xa6kwRuOSnSyRjHkjU=;Br0T0bWyGJLlKypjvmlQdA=="
 ---

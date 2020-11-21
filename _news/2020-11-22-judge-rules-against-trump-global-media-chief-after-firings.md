@@ -2,21 +2,21 @@
 category: news
 title: "Judge rules against Trump global media chief after firings"
 excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
-publishedDateTime: 2020-11-21T18:12:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+publishedDateTime: 2020-11-21T20:48:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+webUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_8e72e544408c42f98a898fa65a9b4ec9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -160,6 +160,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9xi+8yjU6DZ92PwYRz9onuIRpwKGdnZiFiIciJ7hvCZe+qNSKvJuBCFsL+cXQZ0GoR1nfL3g89HJzvYmknr8QJLg7m3xLnjQ00M502Ke4Ma+PBwmbAcWeYRYRV1BxCnyO2MvxZWx+7giFe7SqghSERTay+QZF6ieMyG5Z2XfT9xzhmB8PMNWyksQh2azuZSxNLfcfnI2ILLul6gsG2co8XrM63HI8c3EHsSjN+5qIAOvW4Ju5WvSOgby9/uK3jDYBVOPUxbO2llbGjCxM6dfesL49P59K8CLLHopr7obagVTfpN/LEY8146xhKa1pPFZsOIOVBG/BSnEVNyFTeTnTZyIDzbyrFRSu8tEsJQ5VQ8=;ZK42Sl1jf+h1B2n0qLOFXA=="
+secured: "mbsG2SZSojJseCcwf0HqgbuDxTT4nn214xORoK+zTbIX38ADGkpGxyRTTIHL+NEOJffL+tHUM2QZxBsEGX0NsEUteNwQxf0CkRe13mIhgsluFkDJSD32u9KnJdCPwlppHhjgSvqCP/cOjxnWZ2UYQwtEcWmqTBmOKMavdIgqb45oJHw6e3xQUsyUBwMQr/OoJwgqqNUFxLoOKTes2dwqZ4x5kDY+ecDA4I4By5FcyB1Ks/Spx4Gc6VZybHSZNCH+6R28wLk7TQ010C3l2ao7eYRbQV0LXTCwwFHjakHi+awtiz7Qh1+u0/0nOdZ3SAGfMR4HGY8Hy7l8YZuW+Km2y9UEdZthJxDEBoVq9MeDFiM=;/vs51HyiAJjdYEu/bpzm+g=="
 ---
 

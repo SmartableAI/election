@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "Judge rules against Trump global media chief after firings"
     excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
-    publishedDateTime: 2020-11-21T18:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/judge-rules-against-trump-global-media-chief-after-firings/2020/11/21/1403ce68-2c25-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    publishedDateTime: 2020-11-21T20:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e72e544408c42f98a898fa65a9b4ec9_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."

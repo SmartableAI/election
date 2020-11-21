@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15721
+heat: 15741
 published: true
 
 provider:
@@ -2719,6 +2719,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden's popular vote lead over Trump stretches to more than 6m"
+    excerpt: "President-elect currently has 79,823,827 votes as he continues to rack up the highest number of votes in US history"
+    publishedDateTime: 2020-11-21T17:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/f630455b1df1ae42915822750d1f98556fc6c2ce/0_406_5508_3306/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9ed423b7c317584d2eea90a7370204c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

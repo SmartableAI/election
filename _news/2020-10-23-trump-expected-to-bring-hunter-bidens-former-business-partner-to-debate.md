@@ -2735,6 +2735,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden's popular vote lead over Trump stretches to more than 6m"
+    excerpt: "President-elect currently has 79,823,827 votes as he continues to rack up the highest number of votes in US history"
+    publishedDateTime: 2020-11-21T17:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/joe-biden-popular-vote-count-trump-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/f630455b1df1ae42915822750d1f98556fc6c2ce/0_406_5508_3306/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9ed423b7c317584d2eea90a7370204c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
     excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
     publishedDateTime: 2020-10-23T19:42:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'"
-    excerpt: "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\""
-    publishedDateTime: 2020-11-11T00:08:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
+  - title: "Trump calls into virtual G20 summit, talks COVID-19 with world leaders"
+    excerpt: "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency."
+    publishedDateTime: 2020-11-21T19:40:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Judge Rules Trump Administration Can’t Immediately Expel Migrant Children Under Pandemic Order"
-    excerpt: "The ruling said the Trump administration can’t immediately expel unaccompanied immigrant children and deny them a chance to request asylum under a public-health emergency the government declared in March."
-    publishedDateTime: 2020-11-18T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 123
-    images:
-      - url: "https://images.wsj.net/im-261647/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "KQFa3sJmNKaI7uNe8XLsZ2JDj6SX8bqGZQwjA3t4bRe8nFGMHL7A2d/Vc89+zykzrv6nZw8sE6ktkIJZCZmz+eTUOcOk87ySrPxdNWIjEBBBrxZ8dU8IhT3ZYiCanZ//BIxWfK5xBo12uLk7CGH6bw/Z3CZkUZxTu6mdVQitmzwpm02v427lzHgkiabMToMNelahzBSijTOukTC79e1QOT+nQyqyGWLdBU2EvkH4mhsENk3uK0ik9k0sBxLEw4stRXTMEfyo3bXf0JIMAamV8ellsYak1q4+kWvtdVCOU4S3mnXdidtIoJCYbI4QdGLHo66mrQtK68kGvNHyMCn7QUSiUpcUGABJuyjJWlWdfUE=;foKZD8N9P7I/mukSeTGnMA=="

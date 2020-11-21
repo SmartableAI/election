@@ -878,6 +878,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "What each world leader at the G-20 summit has said about Trump — and Biden"
+    excerpt: "For years, world leaders from the Group of 20 have gathered at an annual meeting to discuss the global economy. The summit includes a moment when the group, including heads of state and government from some of the world’s most powerful countries,"
+    publishedDateTime: 2020-11-21T20:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/2020/11/21/what-g20-leaders-said-about-trump/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5H7XNCBMAMI6XHBBHTCQDUEYD4.jpg&w=1200"
+        width: 1200
+        height: 775
+        isCached: true
   - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
     excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"
     publishedDateTime: 2020-11-18T21:24:00Z
