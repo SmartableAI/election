@@ -47,22 +47,6 @@ related:
         width: 806
         height: 545
         isCached: true
-  - title: "Biden's beach hideaway has political sun shining on Rehoboth"
-    excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
-    publishedDateTime: 2020-11-15T16:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d326617ed726417583bc6e83f3dd359f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'This is proof': Biden's win reveals power of Black voters"
     excerpt: "Power. Respect. Finally."
     publishedDateTime: 2020-11-09T22:25:00Z

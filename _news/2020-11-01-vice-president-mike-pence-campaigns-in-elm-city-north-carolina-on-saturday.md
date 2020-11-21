@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic nominee Joe Biden to visit Minnesota on Friday"
+    excerpt: "Democratic presidential nominee Joe Biden will return to Minnesota for a drive-in event in St. Paul on Friday, the campaign told the. The planned visit, four days before the Nov. 3 election, will come as both campaigns launch their final push to capture Minnesota's 10 electoral votes,"
+    publishedDateTime: 2020-10-29T18:30:00Z
+    webUrl: "https://www.startribune.com/democratic-nominee-joe-biden-to-visit-minnesota-on-friday/572911991/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eryG4T2OB/NXBgbi9bFUl2yiv3Bexe8sN/qxyqZ7/74HM0paWufw15OZOhA0L1E0XKD+FXOao0j2pdBuvbb+jVCILi+2mAdeKc2dhVNkz5Xc1BOxUnngpZlArE5kNKM/nkIciUnhJniFWVjujgps4mgK0pqCtRfI4Afd7KRk6XTxPQRvqxK5bgrzZAyoA9BJAVUtW7hkGAJjwXhPMfU8agMjcUvMSMWqwkqCk3KlqNXQc5VQ/u6zYWzuATUh5vTykN4F7D/iqP95biSVh7jgAXJVvVKFI0wRgNz/2cszQG0xwAgJAVi9FeVSH91hlBKWhh5y4ju12AFMiQ4+1EQY7BYJ00b3qoVrqje7CIkpnbyuI7kv7HcHGaoFWr5y8x/uwvZGpx8KT2aIPT2NOy2zyqupGivE7t4V2uxXFNoxUfBnOrZok3Q5FtCDef72i0X9jfOEh6jlzQ0exSNkrvQMUOB996/VIbrNMSfw1aXJMbknQF3tUFXmcXfL0jrobrzbiZ06EfsfA9y8bGEjyqwqbg==;0cc8/rNAcWPlmE5m2+z1jQ=="
 ---

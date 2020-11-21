@@ -2,11 +2,11 @@
 category: news
 title: "Donald Trump Jr. tests positive for COVID-19, says spokesman"
 excerpt: "Donald Trump Jr., the son of U.S. President Donald Trump, tested positive for COVID-19 this week, although he is experiencing no symptoms, according to his spokesman."
-publishedDateTime: 2020-11-21T00:49:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-junior-idUSKBN2802VT"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-junior-idUSKBN2802VT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802VT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802VT"
+publishedDateTime: 2020-11-21T04:32:00Z
+originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
+webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-junior-idUKKBN2802VP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2802VP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2802VP"
 type: article
 quality: 125
 heat: -1
@@ -917,6 +917,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ESLe5phcyo+456j7R1pnNtvtTgE/7zrHzD5Mj8hMEhgBUUp0zfS6p1Lo3LAK/ySRREJreKtdZLCu4QHwsDRlz3hFpkevk83tP3M45bI8WaDLIDXj2acDH0C4SqEBqVorm8G0LgzF5hOP36f4L6FJdz32RI6HaLgpMYAKVHik0ti76zsF6Hwb9SgcYpUXlMHQO94y9oByQGVJaFnwFht3oMbnKnClN7tOL3sdXcQbRTeHXd5czf+4TLPgYlVh6LHpKahu17lDRCltvuLgTjPwngj1OI1FqO2H+I8fh521a30x6WG+5XSROUHflY3DAfGaAHIcggdSh3Ryw+K9m6c7qZIoHaqTSF1jUftoEI0YMfU=;eXY8sO5H/IDJHnbRW25j9A=="
+secured: "mUjdn5hl7ubHnZPFO4VoFflLnnjjzFylI0264okNsTIHUMucixOLM4r29VpHaI0qfIkY8jE6jKozPlXB4nLUOpxiRUrJMiDSy0bAkV8CZPKBDZv9xiyzfZZ6wym2L4ZFUgEWJgemTFs7wr5MkWlb5QiMCE6PC9ma9ByTxTraRHCJp+U3UkeOzu49N5kbi+AwiIjzoYI5dBlVOmN7tlaGJ4oCbjmQpBfGR+Dh+3ow3x6IpM9hylBQx2z40isZ95XM4Ma/Cfy32In+VFvke/Dmji7mVn1gzEwriAXWEw8611xQP2BivCDx0c7wQRwT5fWgACgNy5opTCtuu7h1u940ic9m9LNT1ds6MwQz1bu8zlE=;2uR076vS/v9eH/bUIudRCQ=="
 ---
 

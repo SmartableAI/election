@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
 type: article
 quality: 90
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7516195_103120-wtvd-pence-open-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democratic nominee Joe Biden to visit Minnesota on Friday"
+    excerpt: "Democratic presidential nominee Joe Biden will return to Minnesota for a drive-in event in St. Paul on Friday, the campaign told the. The planned visit, four days before the Nov. 3 election, will come as both campaigns launch their final push to capture Minnesota's 10 electoral votes,"
+    publishedDateTime: 2020-10-29T18:30:00Z
+    webUrl: "https://www.startribune.com/democratic-nominee-joe-biden-to-visit-minnesota-on-friday/572911991/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1600457850_19098701+TRUMPBIDEN.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6POLybqNJcSiO3Pfv29PPo0t7gVyFn2tfB+X2r47oINWyhLV7ISQuxBqy2R7YkmslggkpTZbmrYQh9Gvsy5OWrast01jdJDSbn70+Rf6Pgx9GDR8udt+R4gQsE+HHtWXG7FhGZgs+VBPoU1dKA2Wyg7LPw23YBmZq2JHwcU39C+p64ygTHsYbuv2n74L7zfhlVi0lC5MSL4mta181ml0u6jKgVJhC4wdMTT2iVapKC6FWcrPvuwF3a6FVA5uAivV6KVHFRVX3h2BzjEpAe9n0gUSndT4cji0InvmCEc0+H0haFdCPYgiYclf7Ts6/F1EeQJyvaNzAcUZzWiZzMhpw/MaADqmTRu+SLlaE55+gnrlCe1de7asSx/5TI0RmL1vN2p4OPZ7OknZ4pOKWBS75V5Av3v2OoohFbLmnxaxQYGy47K7LpLEc5y2PiEEFNuX6Zg90PtbGLdpEooEwDDzxcpijXPih2KK+ReBNJJ4RPP0FyoxthBcPoW3kyP23yhpWHzJsvO/33l0IT1Zturm/A==;pvk4jhMhPhi2arIMpOrq4g=="

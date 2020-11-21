@@ -31,107 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tells governors he’ll help states overcome coronavirus"
-    excerpt: "In a virtual meeting with governors, Joe Biden has expressed concern that President Donald Trump’s unprecedented attempt to block the peaceful transition of power at the White House has hindered the f"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-reaches-out-to-governors-as-trump-stymies-transition/2020/11/19/0725682c-2a82-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+  - title: "Who are the top contenders for the Biden administration?"
+    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T18:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden set to meet Friday with top Democratic leaders in Congress"
+    excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
+    publishedDateTime: 2020-11-20T02:20:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541818310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1TB"
+        width: 832
+        height: 545
+        isCached: true
+  - title: "Birx wants to stay on in Biden administration: Colleagues"
+    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
+    publishedDateTime: 2020-11-20T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
+    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
+    publishedDateTime: 2020-11-11T00:29:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Coronavirus Is Surging Across The US So Mike Pence Held A Useless Briefing"
-    excerpt: "With coronavirus cases surging nationwide, experts fear another 150,000 Americans will die by in the next three months."
-    publishedDateTime: 2020-11-20T00:10:00Z
-    webUrl: "https://www.buzzfeednews.com/article/danvergano/coronavirus-surging-so-pence-briefing"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/danvergano/coronavirus-surging-so-pence-briefing"
+  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
+    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
+    publishedDateTime: 2020-11-12T23:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
+        width: 733
+        height: 545
+        isCached: true
+  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
+    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
+    publishedDateTime: 2020-11-19T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 123
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-11/18/18/campaign_images/184616d5f766/31-cool-and-useful-gadget-gifts-for-the-person-wh-2-13464-1605725191-31_dblbig.jpg"
-        width: 625
-        height: 415
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
+        height: 545
         isCached: true
-  - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
-    excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
-    publishedDateTime: 2020-11-14T17:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-congress-big-focused-coronavirus-relief-bill-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5fabd1b5f7d1cb0019e3b0b6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Hand in glove': President-elect Biden promises governors coordination in combatting coronavirus"
-    excerpt: "Governors noted it took eight months to distribute 100 million tests for the virus, but that distributing free vaccine in the coming months will require reaching 330 million Americans"
-    publishedDateTime: 2020-11-19T22:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/joe-biden-promises-governors-work-hand-glove-against-coronavirus/6341252002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6341252002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6341252002"
+  - title: "Plagued by COVID outbreaks, the meatpacking industry could be forced to change under Biden"
+    excerpt: "President-elect Joe Biden could direct his agencies to implement and enforce strict safety measures to protect worker health, experts said."
+    publishedDateTime: 2020-11-20T22:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3777230001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777230001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/5341e1cb-b550-4252-bfb6-4885180b4482-biden_governors_1.jpg?auto=webp&crop=2999,1687,x0,y127&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/04/21/USAT/9079416e-8378-4e8f-a692-4b24bef7a647-tyson_workers.JPG?auto=webp&crop=2015,1134,x0,y186&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence delivers remarks at the White House Coronavirus Task Force briefing"
-    excerpt: "Vice President Mike Pence delivered remarks at the White House Coronavirus Task Force briefing today. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox,"
-    publishedDateTime: 2020-11-19T22:31:00Z
-    webUrl: "https://www.cnbc.com/video/2020/11/19/vice-president-mike-pence-delivers-remarks-at-the-white-house-coronavirus-task-force-briefing.html"
+  - title: "Former US Secretary of State Henry Kissinger reveals his hopes for the next president: 'I like Joe Biden'"
+    excerpt: "Kissinger discussed what he expects from the new president, what successes he thinks Trump's administration had, and his longing for harmony."
+    publishedDateTime: 2020-11-11T03:28:00Z
+    webUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/henry-kissinger-us-administration-presidencey-joe-biden-trump-elections-election-2020-11?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 94
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106799878-16058227011605822696-12530909175-1080pnbcnews.jpg?v=1605822700"
-        width: 1920
-        height: 1080
+      - url: "https://i.insider.com/5faaca37f7d1cb0019e3ad4e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Why Joe Biden Needs Mitch McConnell to Govern"
-    excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
-    publishedDateTime: 2020-11-19T03:15:00Z
-    webUrl: "https://time.com/5913168/why-joe-biden-needs-mitch-mcconnell/"
+  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
+    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
+    publishedDateTime: 2020-11-14T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 85
-  - title: "Pence speaks at first coronavirus task briefing in months"
-    excerpt: "Vice President Mike Pence spoke Thursday about the effort against the coronavirus at the first White House coronavirus task force press briefing since July."
-    publishedDateTime: 2020-11-19T22:56:00Z
-    webUrl: "https://www.firstcoastnews.com/video/news/health/coronavirus/pence-covid-19-task-force-briefing/507-91be02d4-bcf8-468a-9114-11aef56aeb14"
-    type: article
-    provider:
-      name: First Coast News
-      domain: firstcoastnews.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://media.firstcoastnews.com/assets/CCT/images/08b5c1f1-df3c-499e-8afe-df8b583772b3/08b5c1f1-df3c-499e-8afe-df8b583772b3_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
 
 secured: "1Lj5P9h8NNRJsdr6AWOrbLPr+KbGZDn48Jp7X3HSwWymryllCh0ToyU/FVXxR992pbxRzZ1n6y4empQ1gDpOGdAApf533YHiOgjq7obmFBKtgCsJvmOrmNWaHuaIW2fnYX2y9t5aiziplKO8F5GcLCemkBw6JdFPbct+lJLXrxcIZ1vDKR8lKUVN0fL51nXZ0zC3lidjBtgnm1D0AfAPUjaJIaEHfGlIyJ6zjZk6HFWTQ3tta19Q0I6r1cZbrFgCDO6QB5WZY3kKn189WGXICvEw/wUWf7KnLCSxwy7IUr0WOu99B7+vT/DtZVDKYKIGBN1MTNtS4nTUE+iYpRm3SOS3Gg7wMRxZ2BEdKi4j6MlgjzdverCqDb66acHCSnlgGSq0/aL0LtRilARSRnUD7V/S2aB1vYyOzMVz6R7eCj+wuKwaPYX2zHroRi1umYerriqKiNNnB3rPvJbWCR09+GqHdFDi3Ob7meCQ87M9sUpFuYQoemMkAAzQGoT9nEMDwbDAiVhQwKo28g2zA1brVQ==;QDso70CjZfWy59FnQFYeWQ=="
 ---

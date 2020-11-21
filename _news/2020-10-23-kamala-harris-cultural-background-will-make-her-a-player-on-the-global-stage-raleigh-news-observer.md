@@ -43,6 +43,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "'Hopeful' Joe Biden Previews Tonight's Address to the Nation: 'I Think We're Gonna Do Well'"
+    excerpt: "Joe Biden shared a preview of what his comments might look like when he addresses the nation later tonight. Before the first results from the 2020 presidential election were projected, the Democratic candidate,"
+    publishedDateTime: 2020-11-04T02:05:00Z
+    webUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/"
+    ampWebUrl: "https://people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/election-2020-joe-biden-previews-address-to-nation/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 65
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B17600%2C3719%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fjoe-biden-4-2000.jpg"
+        width: 2000
+        height: 1047
+        isCached: true
 
 secured: "yzdLupIoKOBkdALtNgwnhMmDzObXAwuf02Nhp6YxlUkAJaK5JNLcvPV/1te3rokVplXY7muiFxygn//nvHltOm3FvFpBPrelG+JxRDa46FbBEBu2BpNGvz1KTPnSoHhkJvUefALcU0CpyYlmejrLPXHuYcIr+kuAd4o6RLxaiVaPX7YoQkCAypOxfC4/A6eCqFLublNXZSd1vovBnzG/CLWfYizDwZjS0xtKRapVUOVgEadGGrJSCs9f2PGHWY6C8Gdmoq7qn79R6CBjYaQCuDtByc4oCjiaKRfd0xjIKxIMp85B+uD7GmO4NCpDuoe/i1ZKryIRzg7R53DS0tgcaTAmkN9w0+wyXFVgd59S0JyC7TqUT9Yb1rnfe1Sdu8XJhqVhdFTWs4s5kMELm54gXDw9dG9FM6Hyb/vTssZIIPm0lOY58+yiLoGdHErsl1xKXgm1J2MJG0w906MUjUwe5CnQ5S+VKn/s/tDLUcaAhZ7UPMcQDqySKh0pK3B/eDwYKESjlGiV1FY72hmUbVn8aQ==;aLLQ6QI2PwvtfyThD5biuA=="
 ---

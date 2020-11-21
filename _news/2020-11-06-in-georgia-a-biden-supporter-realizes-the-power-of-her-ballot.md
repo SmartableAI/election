@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia certifies election results, making Biden victory official"
+    excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
+    publishedDateTime: 2020-11-21T03:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/raffensperger1-ap-ml-201120_1605881698070_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia Secretary of State certifies election for Joe Biden"
     excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
     publishedDateTime: 2020-11-20T22:15:00Z
@@ -45,22 +61,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "China’s Hong Kong crackdown poses an immediate challenge for Biden"
-    excerpt: "Follow the latest on Election 2020 China keeps tightening its grip on Hong Kong. On Wednesday, Beijing forced the ouster of four lawmakers in the semiautonomous city’s local government who, under a new directive,"
-    publishedDateTime: 2020-11-13T15:28:00Z
-    webUrl: "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2020/11/13/china-hong-kong-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOHRPIBCGEI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
@@ -76,6 +76,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0fc5437472c3a105a3ec2a7ae002e9f9a9aa9b27/0_143_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2672a5a9c08745a31f265e34db42a98b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's beach hideaway has political sun shining on Rehoboth"
+    excerpt: "Rehoboth Beach, Delaware, is a resort town that's known known for Atlantic waves that are sometimes surfable, as well as fresh-cut French fries and a mile wooden boardwalk that dates to the 1870s"
+    publishedDateTime: 2020-11-15T16:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-beach-hideaway-political-sun-shining-rehoboth-74218117"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d326617ed726417583bc6e83f3dd359f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "GEORGIA RESULTS: Biden is projected winner of Georgia"
     excerpt: "President-elect Joe Biden became the winner of Georgia's 16 electoral votes, Decision Desk HQ projected Saturday."
@@ -123,54 +139,6 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541511031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG19D"
         width: 749
-        height: 545
-        isCached: true
-  - title: "The Biden administration: Top staff and Cabinet contenders"
-    excerpt: "Democratic President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-18T07:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idINKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27X1OD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541517335&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0Y9"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "The Latest: Biden says his family following holiday guidance"
-    excerpt: "As Americans face the complications of holding holiday celebrations amid the ongoing pandemic, President-elect Joe Biden says he and his family are trying to navigate the same issues, with safety meas"
-    publishedDateTime: 2020-11-18T12:59:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/latest-biden-cites-trump-share-virus-plans-74239713"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_560af5a4403c48c3b0af26ba47adb366_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Who are the top contenders for the Biden administration?"
-    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
-    publishedDateTime: 2020-11-17T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
-        width: 817
         height: 545
         isCached: true
   - title: "Biden approaches 80 million votes in historic victory"
@@ -253,22 +221,6 @@ related:
         width: 725
         height: 545
         isCached: true
-  - title: "Biden's secret weapon to fight climate change without Senate support"
-    excerpt: "Welcome to Insider Energy, Business Insider's weekly energy newsletter. Sign up to get it in your inbox every Friday."
-    publishedDateTime: 2020-11-20T18:32:00Z
-    webUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/insider-energy-bidens-secret-weapon-3-big-clean-tech-deals-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5fb7ff9532f2170011f70583?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Birthday time: Biden turns 78, will be oldest U.S. president"
     excerpt: "President-elect Joe Biden turned 78 Friday, and he’ll soon take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on rac"
     publishedDateTime: 2020-11-21T01:11:00Z
@@ -284,54 +236,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Birx wants to stay on in Biden administration: Colleagues"
-    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
-    publishedDateTime: 2020-11-20T23:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Before Biden inauguration, 70,000 more could die from COVID-19 in the U.S."
-    excerpt: "U.S. President-elect Joe Biden has pledged to make controlling the coronavirus a top priority and is likely to push for mask wearing mandates and more fiscal stimulus to keep businesses and workers afloat."
-    publishedDateTime: 2020-11-14T03:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-economy-coronavirus-idUKKBN27T2W9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27T2W9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27T2W9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541165180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1P0"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
-    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
-    publishedDateTime: 2020-11-19T23:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
-        width: 825
-        height: 545
         isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
@@ -427,20 +331,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Who Might Joe Biden Select To Lead The Justice Department?"
-    excerpt: "Democrats have condemned what they call inappropriate closeness between the White House and Justice Department in the Trump era. That means picking an attorney general and other personnel is tricky."
-    publishedDateTime: 2020-11-19T10:03:00Z
-    webUrl: "https://www.npr.org/2020/11/19/936264465/who-might-joe-biden-select-to-lead-the-justice-department"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/11/18/ap_17271704790291_wide-a96cfb9319d3f8208d8f4cd60fbfc25b2ba833c5.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Biden's win in Georgia reaffirmed after recount"
     excerpt: "The president can request a recount because the results were still within 0.5%, but not until after statewide certification of results, which has to take place by Friday."
     publishedDateTime: 2020-11-20T01:28:00Z
@@ -482,20 +372,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/b1b3177/2147483647/strip/true/crop/5431x2851+0+385/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F78%2F5c%2Ffcde65dd1a38752f5a2a18ab106d%2Fafcc289c76504d47b99037d98f0001f1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "VP Mike Pence comes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that"
-    publishedDateTime: 2020-11-20T17:48:00Z
-    webUrl: "https://apnews.com/article/election-2020-joe-biden-georgia-elections-canton-76694efbb23fd8d1b6e1b9fd746f626e/gallery/6a23d35018294cff8363c35b29d376cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/6a23d35018294cff8363c35b29d376cc/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
@@ -555,28 +431,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "CANTON, Ga. Vice President Mike Pence campaigned in Georgia on Friday as the state's two Republican senators try to hold off Democratic challengers in January 5th runoffs that wil"
-    publishedDateTime: 2020-11-20T18:24:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/national-politics/article247316979.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 55
-  - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
-    publishedDateTime: 2020-11-20T17:44:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/vp-mike-pence-comes-to-georgia-ahead-of-senate-runoffs/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
   - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
     excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
     publishedDateTime: 2020-10-27T18:43:00Z

@@ -25,85 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden set to meet Friday with top Democratic leaders in Congress"
-    excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
-    publishedDateTime: 2020-11-20T02:20:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden campaign in NC"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-campaign-in-nc/19364158/?version=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: WRAL
+      domain: wral.com
+    quality: 90
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541818310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1TB"
-        width: 832
-        height: 545
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Pelosi says Republicans are \"refusing to accept reality\" of Biden victory"
-    excerpt: "Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer condemned Republicans for not acting on coronavirus."
-    publishedDateTime: 2020-11-12T16:19:00Z
-    webUrl: "https://www.cbsnews.com/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pelosi-says-republicans-are-refusing-to-accept-reality-of-biden-victory/"
+  - title: "VP Mike Pence, Stacey Abrams, Jill Biden to stop in NC today"
+    excerpt: "Three political figures will be stopping in North Carolina on Saturday to campaign for the 2020 presidential election."
+    publishedDateTime: 2020-10-31T15:19:00Z
+    webUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/"
+    ampWebUrl: "https://www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/vp-mike-pence-stacey-abrams-jill-biden-to-stop-in-nc-today/19364158/?version=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: WRAL
+      domain: wral.com
+    quality: 90
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/29/f4b52dcf-1c12-4048-b720-3b1b12f92395/thumbnail/1200x630/26875a3fadc2b361a01f8a587c12ace9/gettyimages-1229343901.jpg"
-        width: 1200
-        height: 630
+      - url: "https://wwwcache.wral.com/asset/news/2020/10/31/19364332/biden-DMID1-5opftcgu9-1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Sunrise Movement leader: 'It's on us' to make sure Biden embraces environmental 'mandate'"
-    excerpt: "A leader in the environmental advocacy group the Sunrise Movement expressed optimism that activists would be able to hold President-elect Joe Biden’s “feet to the fire” on climate issues."
-    publishedDateTime: 2020-11-16T17:41:00Z
-    webUrl: "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental"
-    ampWebUrl: "https://thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/526137-sunrise-movement-leader-its-on-us-to-make-sure-biden-embraces-environmental?amp"
+  - title: "Vice President Mike Pence campaigns in Elm City, North Carolina on Saturday"
+    excerpt: "Just three days before Election Day, Vice President Mike Pence will be returning to North Carolina on Saturday to make two campaign stops."
+    publishedDateTime: 2020-10-31T17:39:00Z
+    webUrl: "https://abc11.com/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
+    ampWebUrl: "https://abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/vice-president-mike-pence-visits-nc-elm-city-elizabeth/7513466/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
+      name: WTVD
+      domain: abc11.com
+    quality: 73
     images:
-      - url: "https://thehill.com/sites/default/files/biden11162020.jpg"
-        width: 791
-        height: 551
-        isCached: true
-  - title: "Biden, top Democrats lay groundwork for multibillion dollar push to boost U.S. broadband"
-    excerpt: "President-elect Joe Biden and top congressional Democrats are laying the groundwork to seek a massive increase in federal broadband spending next year, hoping they can secure billions of dollars in new government aid to improve internet access and affordability -- and help people stay online during the pandemic."
-    publishedDateTime: 2020-11-20T12:05:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/11/20/biden-congress-broadband-internet/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R55O6VRKQQI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 792
-        isCached: true
-  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
-    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
-    publishedDateTime: 2020-11-14T13:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.abcotvs.com/dip/images/7516195_103120-wtvd-pence-open-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ILKrVi1qMFs0cnGwwedKXHVE6DlwyEoFJwB/VVnjgivtw+cbwIMChCgeFRduisxyfWshsNiH7pPFitbdZ60Y4OzyowPYc+lLP0Qk50JYIHbrpe42gKYHCqmiHd/ZEHFEjwPEaYzOhvBFR5t4spdrn6PZamxZL/Mj8M0yBFBPMRJWnRXrE7oxGUZIE9ryJn6lEl8D0DLjXkgHipLYPtnNryS2qP0igoRbMutJNZd3vOGtZm9jKC23nmNpUtFL8ZgZVfAH57rMMfAcBY1Ek/RZ2ea58tIimSBmqlWDG/we4UvSBy2CJ/vdjVJFkTYKy5/7teGDvhuDhE2Sg0lIiHoBG5I3msz55ifxoW9K2UMIE6LhPSKoanhwlS4Q5g2ZnwEmN5H2pTzvXTH9GNbmv030dbmVGsZvcCEHxZyqnSd7cLq96tgP8FY6aK+VgzVCsh8NUfF0WrwnGIkdqTBSmU/kbMbs4x9OBcmfzsAdLPbGIekat0+ibRZr+Iqc2leFe1H8VzvBeksJErEnBsXXSHZdsQ==;zaFnAhieb/CslAnl6wSWng=="

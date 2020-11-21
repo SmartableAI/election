@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
 
 secured: "algS80BMIMhxVtO1ZvU3Qz55ZWRaZIT/RUq5kLASbdTSCsA+R4lzGTkoY6iSGiALWTEZO1VijazcIjaIUheSqALttkF09+8sZN9+4lrBhhKsvz2m3oOVca2wU1SYujrNwKg1DUrbt02DJVT7ZLIMUkkSpHyb4YNwKneM4KbPJkDjvbyinu5s2Ft5RDlZZxlq0dWRPzMpgE4h538HfvawVv8+AxD3SBN20TxVY1B2X8/u1e7S9miHIVMLxf0lGqvtP+2WCLyOrpZe7DxoZsn6SKqF/cZS3J3rYsMD41je4wfEAynxC3mvsRb8q7ab3B38N6QD3p/UBz23jXuqGF4icVwbZdT5kVVre4ZJQ9JLU7YzrC+Srbu1Db0IF+wEWsGhff8TJSCPXvmNj+xjTdB475F8WH8Fhd6uOgelGp4E/KV82+VrzpEf1tfuY9aUwYavZyB2jFGkOf/DLuN44bIMThajHn0XdvDTE7fCK8DmPTERp1fVbKyzWUAv/TLUZosbLqHwhem+vPevkgnevBlYrA==;xmRKWURr70F4Boq+KRUaXA=="
 ---

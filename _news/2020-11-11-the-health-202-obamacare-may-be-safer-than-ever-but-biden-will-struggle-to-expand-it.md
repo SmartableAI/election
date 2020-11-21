@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamac
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5fa5d9e31df1d500182196d0?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Barack Obama’s Legacy Abroad Looms Over Joe Biden"
+    excerpt: "Three years into his first term, President Barack Obama stood before the Australian Parliament and sketched out his vision for the United States’ tilting toward Asia. His tone was optimistic: Conflicts in Afghanistan and Iraq were winding down;"
+    publishedDateTime: 2020-11-17T11:05:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/11/barack-obama-joe-biden/617116/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617116/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617116/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/YeVOAHvinihgq6uGiFe69bRvP8c=/0x0:2000x1123/570x320/media/img/mt/2020/11/webart_bidenobamaAsia_thumb/original.jpg"
+        width: 570
+        height: 320
         isCached: true
 
 secured: "POsDUl9EVHvzzGe4T4zls3POtLVcGE7gGyU/XMiM7QA2TxZ+i9DS3D8j+GjuPWJwkhq9ZoQ2ezSyjdZJSW7LpX1zLEvpgvesK5x5b+qnzkVlI17Iis9uwK4cZX7gH9yNCrew39bX5Y6wjWTGVSBeKjle3oMS4SYowiwEB6wHSPEEEv+S6el4/WQt7w4UqkNduEqFGARaEcuhcWyUEzA5YbOc72EE6Ho8Q0aXP9vjux+xiyoc/uW9W8kt44BuHmrsNfPJVKuZVqCFoC0TEH4sLVmq4My8k7Nb/Prt4cSlOyU3AZhu0OfKZK7jpmngPZZclWJ6qU3KqC/wy+nL5Tqu672JBN5ihAR7LTKVhwPFcT4=;SfqA5DL5SYAMjLlFP0Yf0Q=="

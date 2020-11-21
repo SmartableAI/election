@@ -31,21 +31,160 @@ images:
     isCached: true
 
 related:
-  - title: "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory"
-    excerpt: "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year."
-    publishedDateTime: 2020-11-11T12:13:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp"
+  - title: "Who are the top contenders for the Biden administration?"
+    excerpt: "President-elect Joe Biden has promised to build an administration that reflects the diversity of the country, and is expected to announce his choices for some key White House posts in the next few weeks."
+    publishedDateTime: 2020-11-17T18:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet-factbox-idUSKBN27X1OD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541519015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0YJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden set to meet Friday with top Democratic leaders in Congress"
+    excerpt: "U.S. President-elect Joe Biden is scheduled to meet on Friday with House of Representatives Speaker Nancy Pelosi and Senate Democratic Leader Chuck Schumer, according to a Pelosi aide."
+    publishedDateTime: 2020-11-20T02:20:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN27Z32Z"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z32Z"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z32Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541818310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1TB"
+        width: 832
+        height: 545
+        isCached: true
+  - title: "Birx wants to stay on in Biden administration: Colleagues"
+    excerpt: "Dr. Deborah Birx, White House coronavirus response coordinator, has said she would be interested in helping the Biden administration get up and running, colleagues said."
+    publishedDateTime: 2020-11-20T23:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/birx-stay-biden-administration-colleagues/story?id=74315290"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
+    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
+    publishedDateTime: 2020-11-11T00:29:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden received 'congratulations' from Pope Francis: transition statement"
+    excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
+    publishedDateTime: 2020-11-12T23:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pope/biden-received-congratulations-from-pope-francis-transition-statement-idUSKBN27S2TQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2TQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541026140&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1WO"
+        width: 733
+        height: 545
+        isCached: true
+  - title: "Biden says he has picked a Treasury secretary who will please all Democrats"
+    excerpt: "President-elect Joe Biden said on Thursday he had selected his Treasury secretary and would reveal his choice as soon as next week."
+    publishedDateTime: 2020-11-19T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dollar-idUSKBN27Z34L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z34L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541824389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UT"
+        width: 825
+        height: 545
+        isCached: true
+  - title: "Plagued by COVID outbreaks, the meatpacking industry could be forced to change under Biden"
+    excerpt: "President-elect Joe Biden could direct his agencies to implement and enforce strict safety measures to protect worker health, experts said."
+    publishedDateTime: 2020-11-20T22:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/investigations/2020/11/20/meatpacking-industry-could-face-significant-changes-under-joe-biden/3777230001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3777230001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3777230001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WVC5I7Z3RBSDDNDGK4S3YOKSU.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.gannett-cdn.com/presto/2020/04/21/USAT/9079416e-8378-4e8f-a692-4b24bef7a647-tyson_workers.JPG?auto=webp&crop=2015,1134,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden made his first administration hire this week, with others on the horizon. Here are some top contenders."
+    excerpt: "Biden has long said that his cabinet will also reflect how the country looks, noting he will have women and people of color in leadership positions. Here are some of the top names being floated for cabinet positions: Doug Jones,"
+    publishedDateTime: 2020-11-14T13:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/14/biden-administration-top-contenders-include-susan-rice-tom-perez/6279888002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6279888002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6279888002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
+    excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
+    publishedDateTime: 2020-11-17T02:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-canada/canada-will-press-biden-administration-for-integrated-buy-north-america-approach-idUST5N2FK01W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUST5N2FK01W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUST5N2FK01W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+  - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
+    excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
+    publishedDateTime: 2020-11-13T18:23:00Z
+    webUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vivek-murthy-biden-coronavirus-advisor-focused-restrictions-not-lockdown-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5faebd8b402d49001924ed2f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "zlp1cyTSlS1xxLMrSzdwj5Hf/2BYtDiBP0EbT210nJxQpjW2RC49D0MfAzBP8Fwmb+UxYXM6ClJSBrFZM20hCi9N6KLrxHkzi3ljK80CEcUM3KYj/x4OeU0pOiJfdsre2cjeQ2noaT0047iXZSAy+JKz51yH21ge+xb/hdbFraYLuVhSscXyiywtFrNzWxj5fT+f9GP93ToeNCaDmDBqIr4R+7+DKvxr+uTjy5oVBEJditL9W6MtaICuq8cWXvO3j0a9zpM0jnyYQc0QAiEzZchCoA7/2zSF9dDVv0veYq/1+Kw733fwGb9PhBRESzozLuGde3pO248sJ//p9TedOEq34v1cxh368pKT+DRJRpCE3U6BVhWoNLngDyJUPrUnNHG8MSsS+VmsxLOE7jDQeAJVMyWJ6aHrFs9EXlv58RFQwA8i3D6QnCm2PtjKxHhHVV367qA8KP30q0JczgJZ4OGNKvzc9JBpUgwprGNRqWr8jSIP3In0f0I5obhVvgCRqm4CbdsV3RE3MpQnzY6HXw==;oN4fZwcs9rFWtqZ85bE2uA=="
