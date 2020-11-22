@@ -379,6 +379,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Legal problems Trump could face transitioning back into private life"
+    excerpt: "As President Trump continues to fight the election outcome, officials in New York have ramped up investigations into his business dealings. New York Law School professor Rebecca Roiphe joins CBSN to discuss."
+    publishedDateTime: 2020-11-22T02:03:00Z
+    webUrl: "https://www.cbsnews.com/video/the-legal-problems-trump-could-face-transitioning-back-into-private-life/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/22/b0c187f2-d5ba-4f9a-8dfd-9539e2bfb8f5/thumbnail/1200x630/025ce1ee61943a240beca27eeb6e5940/cbsn-fusion-the-legal-problems-trump-could-face-transitioning-back-into-private-life-thumbnail-593356-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GOP officials in key Michigan county decline to certify ballot count, upending vote process as Trump scrambles to regain ground"
     excerpt: "The limited victory for the president’s campaign arrived amid a string of failures in its beleaguered effort to overturn the result of the election through the courts."
     publishedDateTime: 2020-11-18T06:37:00Z

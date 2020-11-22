@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump privately plots his next act — including a potential 2024 run"
+    excerpt: "In a nod to the reality that he is destined to leave office in January, the president is seriously contemplating life beyond the White House, telling advisers he wants to remain an omnipresent force in politics and the media."
+    publishedDateTime: 2020-11-22T02:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUWRS4BLO4I6XEVXN3YXWP7DWQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
     excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
     publishedDateTime: 2020-11-18T22:10:00Z

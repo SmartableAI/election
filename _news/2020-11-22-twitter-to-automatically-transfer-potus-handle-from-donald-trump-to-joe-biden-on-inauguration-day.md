@@ -749,6 +749,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump team requests recount of Georgia presidential vote"
+    excerpt: "President Donald Trump's legal team says his campaign has requested a recount of votes in the Georgia presidential race after results showed Democrat Joe Biden winning the state"
+    publishedDateTime: 2020-11-22T04:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3651d3ff22b948ea8a125c4570a0789a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -939,6 +955,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/20/dbfb0e3c-909a-45bf-a584-0df26fad6365/thumbnail/1200x630/7a412fed2def80afe847d062731d6194/1119-en-okeefe-591669-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    excerpt: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    publishedDateTime: 2020-11-22T03:32:00Z
+    webUrl: "https://www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
     excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"
@@ -1142,6 +1174,6 @@ related:
         height: 563
         isCached: true
 
-secured: "vBaCxlxjKX8mmq3C4739FL9VfhF9waTL1F8RT2m0c/vkf2Jt34ajiSWL+a03lmq9GvcBuJQJLHSju3vb4pQjY0NO7BKGXP5X6V9pUjpOoExlpMLlweP6dd3goMOi2q1aA6VK02vREOPi/xRmAclUovZBX0f/GKHVHn0FtThDOAv7+9KBi5j0qeZ9IhszKpGS5hA1pIgsoIulVwzMZWuTnlgunCzUzVKbNBUPvEAN4ePUFiGVZEIAl9EB+SxcKm2jNbzjj9xj7lgjZhJzruqZi8cnJmCzxJBpG5gEymPA4G8Oo5K2N4uR17E+nWDIm9cI/KclsjwT69Dr84Vq/nxWkotX0y6FyQiK4ndUleQaooI=;dc22VVL1LDGCnGpZifLwRw=="
+secured: "k5hCRttAGE9gFKeHIC5wBWHXwnUjP1RKfusz/CMkGsT4J4Y2z5DEOJXFYkTfFgj37RCW4pQlEulGLTbkXfMNJTDXVQ567krKj3t0zWtWKrJRt+FSpwMI4WznIosg6b+FmQ9iqaPhkUBjonvGf2dBbPWwU0/C9PU1Oe2r01DypIGTJJMOnxRXFd8kskl7BF19JtCg3aSt/XPl6K3VtBnB1MTP20Db+1y40I6pdPU+DHPPLxigLtQSK/oUXtHXZV6uMzU6mtgx+uBmAPHzhcwJUeZu+cJpJtPaQmuG+TTFvA9PS4WBo2Hcd3SvufHRQc/zqN1RoUtEd1BeohR9T0I4Rp1uFiYG50RrV5rCwO96/fgFDyCGgovDEYLYsawq/VXBBtv8nvWsB3KlEurfgJqSILKAmsYaJPYtC8Yc9WSC7rmY/qL1Sr9/VtpjUqSO8dhU/Szx1hl+aSC/FFoChC31tjAVTeO9NQvQ8ecj8U5Xei3OLoTHEqMTCjT+hxmllJSbIZ9wl0CSsSyyBVRQUiFepw==;Z03V5gdDcjufaPeKUxfQ1A=="
 ---
 

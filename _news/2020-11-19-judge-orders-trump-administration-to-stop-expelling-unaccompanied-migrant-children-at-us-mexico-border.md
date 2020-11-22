@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
-    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
-    publishedDateTime: 2020-11-15T11:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
-    images:
-      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "jy2t5THIUJNJ/ig7Ai7vw1IqGYTaD+RsFNTZr7rCPD7iMBzlAyJLHh1GcL+v3AT2IBjBqPkElE75RI1KjvkVyntc4sEKl9ENWKplD9vlgeJHjUd8JM00OK7bzvpI64veC3mbeAi6JMGF0Wtpwdi4calYsFRW3xRNXH+zZDhOKEQmRTQYhVajbscFXIJ54ma5f7LlEopK23CGSDx8qt3Hrq3JIU5Ix3QXdpcj4bShug7d6jnGRLdpnc92WzFchaDkUOZTp6w2nfx5aIrohndGX4vUWeHv36xqRIv8zDCpPAq6Sisd4diRnaPUkSEWZ7WCavfYmidArY7EaDCINH0c023XDOU3pfrEzuODhaw8hhiK257AK+b8uo2iHDHe6kfBHHeIZhmWX00nsTCX52f82nrD0UGe2X/n6DkErx13nVtMMCtj+GhR+5i9eI44tziTQRQitwEU6Ls2DONN9/i5j7Dv6U3YRPWbzz8fnE2uWZRMKWSbZifAU9zAQsZggBAwgkLsjWX/4lGAvVlNp6ui+g==;HmuGi/14DVQn5O+LjXGONQ=="
 ---

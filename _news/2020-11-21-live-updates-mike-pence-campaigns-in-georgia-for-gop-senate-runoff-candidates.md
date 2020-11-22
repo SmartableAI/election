@@ -256,6 +256,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Federal Judge Dismisses Trump Campaign Lawsuit in Pennsylvania"
+    excerpt: "The lawsuit, which had sought to halt vote certification, was one of the last remaining legal avenues for the president’s campaign in the state."
+    publishedDateTime: 2020-11-22T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263331/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
     excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
     publishedDateTime: 2020-11-17T20:30:00Z
@@ -271,6 +287,6 @@ related:
         height: 853
         isCached: true
 
-secured: "0rHmHCCv5y9fJtyNCNCMQT04WpRB6lThyvWboZvptQYmWfqlDbihGqIoQhwQWI8Hv+otmhd+2RJdwLwXMjv9wGhwYm8s0skfpfqr1gxnSGjHwSU8cP1/K886Zc5mPKXF1Kcgrfk6361edLgX6Ay9oMJEPRiuWsTOWi48LyFGbwb0VyfdQOL4vOJRdddEgxCbCWi3AFrKZWmwK0DrDxuNLBtZ7gAliVAEIdda8SDbx9rRXKpHi28NPkREpjpdRpq4ZVg0yU4m5no8i8GMSFLQALulfsYFFir2cu75NmAoJyjImeUmoebWIp8+ZoTcWzeVGSG2TavJkz/4AS4uG/5yleNsxa5mqEwL43eNY/bdVEg=;CJ5KJ7ED8TGiLEfJQ1aNug=="
+secured: "WieX3FEF6ZcfjZn5X2QlWQWVLVf/27W7il+eO5SDo4yAEJQG+zxMK29cEIs8NjKIyaIigbb+1S89ZoKk9VbCvxcIntXtO2ANY6huckaBz/Dof9exiWQK4lA9jfUZuS56E/8GTICPlYu0DBx2ydTHBz5FsDt9DwK8P1kM0FHoOqgzhihaMgK/bsxzjIIDXe3QqO+GoiRqrCgnHq6HZ/Ord95UlqCPD76Lx6TSWBgwWhKjtrmH8J7EfDRhtVcBiTIiET3xUrDhFEfxfLhNOTFCsEagqHN87DQ9EfCsBtGfVDoXfXYTc5Tt1Qtg1dGiGdaViXieeht2qpXh4g45fihAg70zcQ/KnAzmukcmiRPQvOAQ4tY748VpNrwehV+BtDVZmrNxfS2zlt1GySAyOJk8Sq71vWIYdqdVYB6g70L4OlTNGDP9TZNXUzIituU0blQhNKqx90/B4I4/UB3ckPe0yOMu/zewLydyrUR2wlsGKAHgTLEG4mQolkd7Qgq7e46aa+z2T2hDQuAjZcnd1uECTA==;TeSuenN5AfyKmkwvdRvBWw=="
 ---
 

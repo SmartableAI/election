@@ -765,6 +765,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump team requests recount of Georgia presidential vote"
+    excerpt: "President Donald Trump's legal team says his campaign has requested a recount of votes in the Georgia presidential race after results showed Democrat Joe Biden winning the state"
+    publishedDateTime: 2020-11-22T04:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-team-requests-recount-georgia-presidential-vote-74341653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3651d3ff22b948ea8a125c4570a0789a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -939,6 +955,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/20/dbfb0e3c-909a-45bf-a584-0df26fad6365/thumbnail/1200x630/7a412fed2def80afe847d062731d6194/1119-en-okeefe-591669-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    excerpt: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    publishedDateTime: 2020-11-22T03:32:00Z
+    webUrl: "https://www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/president-donald-trump-requests-recount-of-votes-in-georgia-presidential-race-after-results-show-joe-biden-winning-state/2020/11/21/4ebe13bc-2c73-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
     excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"

@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump privately plots his next act — including a potential 2024 run"
+    excerpt: "In a nod to the reality that he is destined to leave office in January, the president is seriously contemplating life beyond the White House, telling advisers he wants to remain an omnipresent force in politics and the media."
+    publishedDateTime: 2020-11-22T02:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-2024-rematch/2020/11/21/58ce87ac-2a8d-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUWRS4BLO4I6XEVXN3YXWP7DWQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Abuse of the rule of law': 1,000 ex-judges, legal experts slam Trump's false claims of voter fraud"
     excerpt: "\"Court challenges ... must be based on facts, on evidence,\" says the letter from 1,000 attorneys, including retired federal and state judges, state attorneys general and law professors."
     publishedDateTime: 2020-11-13T15:15:00Z

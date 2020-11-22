@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump team requests official recount of Georgia presidential vote"
+    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
+    publishedDateTime: 2020-11-22T04:34:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+        width: 320
+        height: 209
+        isCached: true
   - title: "The Cybersecurity 202: Firing CISA chief leaves Trump unchecked to make false claims about election fraud"
     excerpt: "By firing the government’s top election security official by tweet last night, President Trump showed he’s ready to remove any internal check on his baseless claims about election fraud. Cybersecurity and Infrastructure Security Agency Director Chris Krebs was dispatched after the government's top election security official debunked on Twitter the baseless claim by Trump and his allies that the recent election was widely manipulated."
     publishedDateTime: 2020-11-18T12:35:00Z

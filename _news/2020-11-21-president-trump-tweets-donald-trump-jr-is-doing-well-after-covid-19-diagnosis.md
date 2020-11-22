@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump appears to admit Covid is 'running wild' in the US"
+    excerpt: "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy"
+    publishedDateTime: 2020-11-22T03:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
     excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
     publishedDateTime: 2020-11-17T21:20:00Z
@@ -75,6 +91,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
+    excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
+    publishedDateTime: 2020-11-20T00:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/19/wisconsin-recount-could-quickly-turn-into-lawsuit/6349231002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6349231002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6349231002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/PMJS/10cc0a7d-458e-462e-bcbd-9068a3e897f7-MJS_5.jpg?auto=webp&crop=5471,3077,x1,y268&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump hasn't attended a coronavirus task force meeting in five months and is taking no role in combatting the surge in the disease"
+    excerpt: "President Trump is not taking any role in attempting to actively manage the disease, according to reports, as deaths again increase."
+    publishedDateTime: 2020-11-15T11:21:00Z
+    webUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hasnt-attended-coronavirus-task-force-meeting-in-5-months-report-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
     excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
     publishedDateTime: 2020-11-19T21:40:00Z
@@ -90,6 +138,6 @@ related:
         height: 432
         isCached: true
 
-secured: "wWVOSqDUzzRFwFN6gseOhs4A4IXKOs/QNfMnI9iZi5ofQz/angFNFwcqtvhGoJYwPy9D2shl5wAvxGSIZW+kRPPMUB0dFPnWKkmMKOjV14bIf2Jxyua0e1jB+gK8s5uEVcpkpiysMWa7y+XpnWH2ZKxyDYaIhKLl2wmpdR7lo3m/cawr1wKaQVLXyf9gYdiy8/S7sHngy/wno+jfpE/otCT/4wfr5+vmxx72iHdZJlDkulQbeykrhAXe9+wXnUGJNusNsRXVWFgTkWz3jK584Abr/izztqpvjt8Wkn2a0zQc8m/4FXtKMPzyreq3AhOSFTTnbmURjOFgxFnfNsiexu/4gPYEbamTyaoy+Z215Lk=;tQJfAMZsKzvtGBBTxE25Pw=="
+secured: "enZ7xpykmlBChQZJ1RYDWgya314BnNzSfQ6uMYH0zdMImM+7x7My5wNfbOkEs9xNP8Jt2ToLhGXSWRJ5jhqxsYN4c24dBuL42dN4MJDXEl9gqkf2umGx7mTA/+CerJaCid2Vp/dzEEvY6/TLhcTOGenO5EKP2c32FHskzHjbUkcoJonwZxCA43LcvrIglJMHiSzceXQOr8nL7Nq/YOM1Q9lb8MD/opS/1bRKpQ47CQ5HuLSN/peu5e2QEkmqT57jaR5JKTd4mm0zZ9aaqHU4lBc2s87jlq2+ZOMUh/9ect7djRTQeR5EvXQ28pd5uHovHn/8lFo2iFWtTziGtIwHZ94qdxyAuyY65ynu3VI07NDoI6fv1xoWfckxQTbWEOikomCNLgf8AarMHmHHCqql7FGMIXWLFuXH09VPaJEIFiF1gA3g+3ouJIgRfm9/9R81tzpWqs7Ki9m9IbmF3wqGB1AcsXQouLWxXAXWkzkIXsiPJ6dLkGijuJeC4qgnZZvUnmwJIDHefivhRSNRvujC3w==;xYYJWEtDaF2XmOzmQcFHQQ=="
 ---
 

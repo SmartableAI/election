@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 499
+heat: 519
 published: true
 
 provider:
@@ -237,6 +237,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-260321/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Federal Judge Dismisses Trump Campaign Lawsuit in Pennsylvania"
+    excerpt: "The lawsuit, which had sought to halt vote certification, was one of the last remaining legal avenues for the president’s campaign in the state."
+    publishedDateTime: 2020-11-22T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263331/social"
         width: 1280
         height: 640
         isCached: true

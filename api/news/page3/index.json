@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-giuliani-presses-trump-election-challenge-case-in-fiery-news-conference-with-legal-team.md",
+      "title": "Giuliani presses Trump election challenge case in fiery news conference with legal team",
+      "excerpt": "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp",
+      "publishedDateTime": "2020-11-19T10:31:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-washington-post-trump-spoke-to-gop-official-who-now-wants-to-rescind-vote-to-certify-detroits-results.md",
       "title": "Washington Post: Trump spoke to GOP official who now wants to 'rescind' vote to certify Detroit's results",
       "excerpt": "The two Republican members of the Wayne County Board of Canvassers want to \"rescind\" their votes to certify the presidential results from the county, the largest in Michigan and home to the city of Detroit, even though the board has already certified the results.\n    \n",
@@ -1325,62 +1381,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-aoc-linked-group-advises-biden-to-pass-economic-agenda-with-or-without-formal-legislation.md",
-      "title": "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'",
-      "excerpt": "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
-      "publishedDateTime": "2020-11-18T07:56:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia’s secretary of state certifies election win for Joe Biden"
+    excerpt: "Georgia’s top elections official, Brad Raffensperger, certified results showing Joe Biden won his state's presidential vote after a hand tally."
+    publishedDateTime: 2020-11-21T05:51:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/georgia-secretary-of-state-to-certify-election-for-biden?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Michigan election staff recommend certification of Biden win"
     excerpt: "Michigan’s election agency on Friday recommended that the Nov. 3 results be certified next week by state canvassers, a decision that would bless Joe Biden’s victory over President Donald Trump but likely not cool partisan strife over the vote."
     publishedDateTime: 2020-11-21T01:51:00Z
@@ -237,6 +253,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden wins Georgia, flipping the state for Democrats"
+    excerpt: "Joe Biden has won Georgia and its 16 electoral votes, an extraordinary victory for Democrats who pushed to expand their electoral map through the Sun Belt. The win by Biden pads his Electoral College margin of victory over President Donald Trump."
+    publishedDateTime: 2020-11-20T06:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joe-biden-wins-georgia-flipping-state-democrats-74308658"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2bd986c8bb2444a091b9f5bbf7d1601b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden aide Blinken voices concern about rights group in Egypt"
     excerpt: "A top adviser to President-elect Joe Biden, who has pledged a renewed U.S. emphasis on human rights, on Friday voiced concern about a prominent Egyptian rights group that said security agents had arrested its executive director this week."
     publishedDateTime: 2020-11-20T23:06:00Z
@@ -268,6 +300,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Georgia's secretary of state certifies Joe Biden as winner"
+    excerpt: "Georgia Secretary of State Brad Raffensperger told reporters on Friday that President-elect Joe Biden had definitively won the state."
+    publishedDateTime: 2020-11-20T21:15:00Z
+    webUrl: "https://www.cbsnews.com/news/georgia-recount-election-2020-will-of-people-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/georgia-recount-election-2020-will-of-people-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/georgia-recount-election-2020-will-of-people-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/06/1755600a-04e5-461d-9e09-506763a1a14b/thumbnail/1200x630/1df5f3ce60ca58edb57564d723f94fc4/gettyimages-1229492060.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "POLICY REVEAL: How a Joe Biden presidency will affect real estate"
     excerpt: "President-elect Joe Biden's plans include incentives for first-time homebuyers, ditching a tax break for investors, and ramping up affordable housing."
@@ -413,6 +461,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Cannabis industry has 30-40% more upside, pot ETF issuer says after Joe Biden victory"
+    excerpt: "Cannabis companies have an eventful four years ahead of them. Pot stocks have been hot following Election Day, with big names in the space including Canopy Growth, Aurora Cannabis, Cronos Group and Tilray all lighting up on the prospects of a Joe Biden presidency."
+    publishedDateTime: 2020-11-21T21:37:00Z
+    webUrl: "https://www.cnbc.com/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/21/cannabis-industry-has-30-40percent-upside-etf-issuer-says-after-biden-win.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106800529-1605909943714-gettyimages-166995067-1051226800.jpeg?v=1605910000"
+        width: 4256
+        height: 2799
+        isCached: true
   - title: "Joe Biden spent much of the general election in his basement. Now, he and his aides ponder a very public inauguration."
     excerpt: "Joe Biden spent months of his presidential campaign safely ensconced in his basement, communicating to the country via a television camera. His convention speech was delivered to a near-empty room in Delaware."
     publishedDateTime: 2020-11-22T00:38:00Z
@@ -426,6 +490,22 @@ related:
     quality: 116
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQZ22BMEII6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
+    excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
+    publishedDateTime: 2020-11-22T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-campaign-requests-recount-of-hand-recounted-results-in-georgia-which-is-unlikely-to-change-outcome/2020/11/21/18ad955e-2c73-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRUQDRMPQI6XD5CA3T4XMKFYA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

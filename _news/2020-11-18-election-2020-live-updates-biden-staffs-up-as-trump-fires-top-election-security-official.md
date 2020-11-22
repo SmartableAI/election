@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-2020-trump-bi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-2020-trump-biden-nov-18-2020.amp"
 type: article
 quality: 196
-heat: 1256
+heat: 1276
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e2b8b04-0c67-4cfb-960f-b3be13dc1faf/47643ade-707a-4c8e-8d2c-c7e293275276/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump questions why Biden forming cabinet as his legal team continues voter-fraud fight"
+    excerpt: "President Trump took to Twitter on Saturday night to voice frustrations about Joe Biden making Cabinet choices, as Trump's legal team continued to push allegations of election and voter fraud."
+    publishedDateTime: 2020-11-22T03:18:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eNtSwnj94gk/trump-biden-forming-cabinet-legal-team-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden hits Trump for refusing to concede, says 'national mask mandate' discussed with govs"
     excerpt: "President-elect Joe Biden says that he’s decided his choice for Treasury secretary and that he’ll make the announcement either just before or after Thanksgiving – calling his choice “someone who I think will be accepted by all elements of the Democratic Party.”"

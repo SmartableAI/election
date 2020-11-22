@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Judge's order dismissing Trump campaign Pennsylvania lawsuit"
+    excerpt: "Judge Matthew Brann of the US District Court in the Middle District of Pennsylvania dealt a death blow on Saturday to the Trump campaign's effort to overturn President-elect Joe Biden's victory. Read Brann's order below.\n    \n"
+    publishedDateTime: 2020-11-22T03:20:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/usgrGXvSUF0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
     excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
     publishedDateTime: 2020-11-14T00:49:42Z

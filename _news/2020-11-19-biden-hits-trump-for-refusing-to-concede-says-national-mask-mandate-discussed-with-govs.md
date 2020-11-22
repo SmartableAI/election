@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump questions why Biden forming cabinet as his legal team continues voter-fraud fight"
+    excerpt: "President Trump took to Twitter on Saturday night to voice frustrations about Joe Biden making Cabinet choices, as Trump's legal team continued to push allegations of election and voter fraud."
+    publishedDateTime: 2020-11-22T03:18:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eNtSwnj94gk/trump-biden-forming-cabinet-legal-team-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
     excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
     publishedDateTime: 2020-11-16T03:38:20Z

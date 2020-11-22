@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump questions why Biden forming cabinet as his legal team continues voter-fraud fight"
+    excerpt: "President Trump took to Twitter on Saturday night to voice frustrations about Joe Biden making Cabinet choices, as Trump's legal team continued to push allegations of election and voter fraud."
+    publishedDateTime: 2020-11-22T03:18:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eNtSwnj94gk/trump-biden-forming-cabinet-legal-team-voter-fraud"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-forming-cabinet-legal-team-voter-fraud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden hits Trump for refusing to concede, says 'national mask mandate' discussed with govs"
     excerpt: "President-elect Joe Biden says that he’s decided his choice for Treasury secretary and that he’ll make the announcement either just before or after Thanksgiving – calling his choice “someone who I think will be accepted by all elements of the Democratic Party.”"
     publishedDateTime: 2020-11-19T22:51:01Z

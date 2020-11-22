@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-donald-trump-appears-to-admit-covid-is-running-wild-in-the-us.md",
+      "title": "Donald Trump appears to admit Covid is 'running wild' in the US",
+      "excerpt": "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "publishedDateTime": "2020-11-21T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-wisconsin-officials-trump-observers-obstructing-recount.md",
       "title": "Wisconsin officials: Trump observers obstructing recount",
       "excerpt": "Election officials in Wisconsin said Saturday that Trump poll watchers were “obstructing” the recount and acting in “bad faith” as tabulations continue in Milwaukee and Dane counties.",
@@ -390,7 +442,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 840,
+      "heat": 940,
       "tags": null,
       "images": [
         {
@@ -663,7 +715,7 @@
       "originalUrl": "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -931,7 +983,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -1283,62 +1335,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-ga-secretary-of-state-im-a-proud-trump-supporter-but-numbers-dont-lie.md",
-      "title": "GA secretary of state: I'm a proud Trump supporter but numbers don't lie",
-      "excerpt": "Georgia Secretary of State Brad Raffensperger spoke after his office confirmed that President-elect Joe Biden defeated President Donald Trump in the state and found no widespread fraud after a statewide audit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vS1u39yPSrY/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120084211-secretary-of-state-brad-raffensperger-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn",
-      "publishedDateTime": "2020-11-20T05:56:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump seeks expedited appeal of Pennsylvania ruling against effort to toss mail-in ballots"
+    excerpt: "Lawyers for President Donald Trump's re-election campaign said on Saturday they are seeking expedited appeal of a Pennsylvania judge's ruling against their effort to throw out mail-in ballots."
+    publishedDateTime: 2020-11-22T02:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-pensylvania-appeal-idUSKBN28201W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28201W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28201W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542036740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL00V"
+        width: 691
+        height: 545
+        isCached: true
   - title: "Fact check: Partly false claim about discarded ballots in Pennsylvania amplified by Eric Trump"
     excerpt: "Viral posts are partly false about less than a dozen discarded ballots in Pennsylvania. They weren't found in a ditch and aren't evidence of fraud."
     publishedDateTime: 2020-11-10T14:38:00Z

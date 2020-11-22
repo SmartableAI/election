@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -362,6 +362,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08z45k3.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Legal problems Trump could face transitioning back into private life"
+    excerpt: "As President Trump continues to fight the election outcome, officials in New York have ramped up investigations into his business dealings. New York Law School professor Rebecca Roiphe joins CBSN to discuss."
+    publishedDateTime: 2020-11-22T02:03:00Z
+    webUrl: "https://www.cbsnews.com/video/the-legal-problems-trump-could-face-transitioning-back-into-private-life/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/22/b0c187f2-d5ba-4f9a-8dfd-9539e2bfb8f5/thumbnail/1200x630/025ce1ee61943a240beca27eeb6e5940/cbsn-fusion-the-legal-problems-trump-could-face-transitioning-back-into-private-life-thumbnail-593356-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
     excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."

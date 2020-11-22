@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Holds Lead in Georgia After Hand Recount"
 excerpt: "President-elect Joe Biden remained ahead in Georgia after a hand recount of the state’s 5 million presidential votes, Georgia Secretary of State Brad Raffensperger said. Mr. Raffensperger still must certify the results,"
 publishedDateTime: 2020-11-20T06:21:00Z
-originalUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=tech_trending_now_article_pos5"
-webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=tech_trending_now_article_pos5"
+originalUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=trending_now_pos5"
+webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=trending_now_pos5"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
 type: article
@@ -97,6 +97,6 @@ related:
         height: 320
         isCached: true
 
-secured: "yMnzpn/Bgj6zXpQRvhcyLEZa+Ar3Qyor03XEZYeXRQqrmvsVXgRldJFAk4Raj3Scx/ZnKws4YA0zs3imMa/DLfFb4rLz+WPxLLQqmnKLfg3nwxbHr23aH6mqlu+a0LDYFMb0wt77hcGtagPqeTgmekC3NQpCJ/AlnQBxbVH1eCUnVdin9RSRTtzdu5V0W9GL1TgKgFOIFv563bNxOoM0Mde0OF7KYNnKyPYwOI94REqQk2ILuWun5+OWCkIReB9NTJHbFKmBkMGkuKS38CLX1lpqbjgxmMic3ZgEc7tc8gQaf2Tzk5krWuauBqgWE/Otp5iWnGom8Y4npDlIp9LNUp1IjT/AsVb0HMwAzydRQt0=;IK4FMC/zORqz9h7DmSYcig=="
+secured: "3rqXTIu0FMQXcwfQq3mOCHXpUyjiYK2T/CKBGfQ9Sv8qB5p/FmFo4sVDjrkt+GegXcz63GzhzhYhUuemnEE9qmD+JO8t8AN+T+/YgbWck9emmgRgBzS+MtYAa0mCV5X9aPRqCIfIsbjVmWrRtzhUDUeXHAt7NfTw7pDua97GfVv28FNHpAUPHV/y2bDLKO8kobCgQPGpJHlULUodYIGNnyngeGf37WunQT0mem/Mde9kkMZqr5XUM9e7LqCOC2ZkZg4xGzAZbM7GTNS+XZecCkBHTOE3GPov3en6QhKehqBEhK8qlhQUG/opmF5kj26Py2un5SYk4VE6hZzKvW8rO/6r71XcUWLcK6/hCEMvCQQ=;ikhkrTeTGJR6pF5sJZdQjA=="
 ---
 

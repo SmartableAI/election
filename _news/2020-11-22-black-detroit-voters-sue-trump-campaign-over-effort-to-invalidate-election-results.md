@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump team requests official recount of Georgia presidential vote"
+    excerpt: "President Trump's legal team says his campaign has requested an official recount of votes in the Georgia presidential race using safeguards including signature matching."
+    publishedDateTime: 2020-11-22T04:34:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/trump-team-requests-recount-of-georgia-presidential-vote?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f587f3c/2147483647/strip/true/crop/3975x2596+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fee%2F767d85ba4bf48dbe023f78da0899%2Fa32de59bb9f3444596f970c6e31b3e80"
+        width: 320
+        height: 209
+        isCached: true
   - title: "As Trump gets more brazen about trying to steal the election, can congressional Republicans ditch him?"
     excerpt: "Congressional Republicans reluctantly backed President Trump on his false voter fraud claims in the hope that the situation would provide a natural exit ramp for them. His legal cases would wind down,"
     publishedDateTime: 2020-11-20T22:30:00Z
@@ -336,6 +352,6 @@ related:
         height: 563
         isCached: true
 
-secured: "mJ0DUkPd15Ovw3SBOW+URczJwH8eBPX+bSWEClAj7vspsorEE7wba/R066pbbqzgaa50Gds47cTULVLpNx7bYetIU6Sd54BMcBLsz84PbCLW60ImLbf0d+LFOwHxmtppkXs1H7JVxRPbcOmdTF4LrbzpGeWiZY3kiO+rEsxDfjOdfNqB2TZTiJ5RNpM+Bv2X9P1xjZCj7wlZPxH0c9HAp1sEfLOAQhmxsRuZGm4sdRT590bnRpsnDlyAem1MABO5CxwJrypuBxos5SlVVOs0UVEUHj7PqoAu4p3USBTG05Ar1MLXbOSe6mCS8zjSguDvycBpZcT0AYTucSLxfrx5gOiLVm/w80c8lySyyR/Id3o=;5MVeYTQzvT3rXD6FuLMUqw=="
+secured: "Ta0K8jWfKbMPljo2d6JCvxgshli9+Kmy8Zo4PG6L3xej8yPM69nF5aAvBN1y5oa4+9rGyZJ08HcKrH6H8AgqTl0b4NTEByLYRxw/kMtwB9is6nntDAo6C9s/m37eBC6xp7aEMuYFZh8xpQ1W0y/FUQnYIfMMtHkWYng+yHdixD+tvHExLnwna3V0ZeLnBOp8AJSoW+HUZCevhL2/YBs5EnxnC6YzytHCcAsKWKu29olCs5CrKsbQqe7IB8NCWBGTV2YSuV8Z+TI7nt92OxoiCJ87pRemL9iW5piQUSglEYPuTz7fPqjGfVph5d+pG5E/prZMoB75tI3TqieuUqaCG6RYz1/+UYQJgaKnzkYN/JiIORS9xTFfgg0OTazES/e3fh7Sq5EDRPP0xWFi7nUjliJ1LS8TYBna5zd0zIvipUXvguDbpKOOeLiMuzj9HYSeFJsHJAU//UzaaNJJcsHpfZ5tibr4EjymKeEJR10+ba+qAIqb6M+NSzWZx9UEMkTXBBcnpKBcPDtmIAgrJ21LzQ==;Gi/91XwzZXYd7oBlQ3mp6Q=="
 ---
 

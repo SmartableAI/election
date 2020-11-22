@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-donald-trump-appears-to-admit-covid-is-running-wild-in-the-us.md",
+      "title": "Donald Trump appears to admit Covid is 'running wild' in the US",
+      "excerpt": "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us",
+      "publishedDateTime": "2020-11-21T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-justice-dept-meets-trump-giuliani-vote-fraud-claims-with-silent-skepticism.md",
       "title": "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism",
       "excerpt": "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.theguardian.com/world/live/2020/nov/20/coronavirus-live-news-china-has-given-1m-people-sinopharm-vaccine-us-cdc-warns-against-thanksgiving-travel?page=with:block-5fb849138f087f6ff1099dcf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -431,7 +483,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -696,7 +748,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1601,
+      "heat": 1641,
       "tags": null,
       "images": [
         {
@@ -1336,7 +1388,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1388,7 +1440,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -1533,54 +1585,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
-      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
-      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "publishedDateTime": "2020-11-17T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

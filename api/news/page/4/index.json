@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-18-aoc-linked-group-advises-biden-to-pass-economic-agenda-with-or-without-formal-legislation.md",
+      "title": "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'",
+      "excerpt": "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
+      "publishedDateTime": "2020-11-18T07:56:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-just-ridiculous-cnn-speaks-to-georgia-voter-the-trump-campaign-falsely-accused-of-casting-ballot-in-the-name-of-a-dead-woman.md",
       "title": "'Just ridiculous': CNN speaks to Georgia voter the Trump campaign falsely accused of casting ballot in the name of a dead woman",
       "excerpt": "President Donald Trump's campaign and Fox News host Tucker Carlson alleged last week that a vote cast by a Georgia woman named Deborah Jean Christiansen was fraudulent.\n    \n",
@@ -282,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1256,
+      "heat": 1276,
       "tags": null,
       "images": [
         {
@@ -386,7 +442,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -494,7 +550,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -1016,58 +1072,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-new-covid-19-closures-trump-campaign-lawsuit-hurricane-iota-5-things-to-know-tuesday.md",
-      "title": "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday",
-      "excerpt": "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/11/17/covid-19-closures-trump-campaign-lawsuit-5-things-know-tuesday/6282623002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/11/13/USATODAY/usatsports/covid-closure-gettyimages-1216449625.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6282623002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6282623002",
-      "publishedDateTime": "2020-11-17T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

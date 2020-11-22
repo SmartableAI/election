@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
 type: article
 quality: 190
-heat: 590
+heat: 610
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021211-03-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Judge's order dismissing Trump campaign Pennsylvania lawsuit"
+    excerpt: "Judge Matthew Brann of the US District Court in the Middle District of Pennsylvania dealt a death blow on Saturday to the Trump campaign's effort to overturn President-elect Joe Biden's victory. Read Brann's order below.\n    \n"
+    publishedDateTime: 2020-11-22T03:20:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/usgrGXvSUF0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/pennsylvania-trump-lawsuit-dismissal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

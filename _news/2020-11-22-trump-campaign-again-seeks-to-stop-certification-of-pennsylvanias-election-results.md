@@ -1103,6 +1103,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump bid to overturn election stumbles as judge tosses Pennsylvania lawsuit"
+    excerpt: "President Donald Trump was dealt a new setback on Saturday in his desperate bid to overturn the U.S. election as a federal judge dismissed a lawsuit filed by his campaign that sought to throw out millions of mail-in votes in Pennsylvania."
+    publishedDateTime: 2020-11-22T02:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN281075"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN281075"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN281075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201121&t=2&i=1541978954&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAK04I"
+        width: 875
+        height: 545
+        isCached: true
   - title: "Rolling Stone endorses Biden, calls Trump 'categorically unfit to be president'"
     excerpt: "Rolling Stone magazine is endorsing Democratic nominee Joe Biden, saying in a piece on Monday that America has lived “under a man categorically unfit to be president” for the last four years."
     publishedDateTime: 2020-10-19T13:15:00Z
@@ -1822,6 +1838,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Judge throws out Trump bid to stop Pennsylvania vote certification"
+    excerpt: "A federal judge in Pennsylvania says he won’t stop officials from certifying election results that show Democrat Joe Biden winning the state by more than 81,000 votes."
+    publishedDateTime: 2020-11-22T02:25:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-throws-out-trump-bid-to-stop-pa-vote-certification"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-throws-out-trump-bid-to-stop-pa-vote-certification?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/judge-throws-out-trump-bid-to-stop-pa-vote-certification?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
     excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."

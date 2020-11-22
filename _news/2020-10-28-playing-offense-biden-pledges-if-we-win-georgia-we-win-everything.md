@@ -82,7 +82,7 @@ related:
   - title: "Joe Biden Holds Lead in Georgia After Hand Recount"
     excerpt: "President-elect Joe Biden remained ahead in Georgia after a hand recount of the state’s 5 million presidential votes, Georgia Secretary of State Brad Raffensperger said. Mr. Raffensperger still must certify the results,"
     publishedDateTime: 2020-11-20T06:21:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=tech_trending_now_article_pos5"
+    webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=trending_now_pos5"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
     type: article

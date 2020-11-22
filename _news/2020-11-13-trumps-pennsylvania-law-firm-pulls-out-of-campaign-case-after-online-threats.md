@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Federal Judge Dismisses Trump Campaign Lawsuit in Pennsylvania"
+    excerpt: "The lawsuit, which had sought to halt vote certification, was one of the last remaining legal avenues for the president’s campaign in the state."
+    publishedDateTime: 2020-11-22T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263331/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
     excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."
     publishedDateTime: 2020-11-21T07:16:00Z
