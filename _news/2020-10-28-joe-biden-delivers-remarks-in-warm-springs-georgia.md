@@ -35,6 +35,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia Secretary of State certifies election for Joe Biden"
+    excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
+    publishedDateTime: 2020-11-21T03:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c2dc6b238d6848fea993f5423697ffc3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Georgia’s secretary of state certifies election win for Joe Biden"
     excerpt: "Georgia’s top elections official, Brad Raffensperger, certified results showing Joe Biden won his state's presidential vote after a hand tally."
     publishedDateTime: 2020-11-21T05:51:00Z
@@ -638,22 +654,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/14/4915ad22-c06c-421d-bfef-cc05adef7dfc/thumbnail/1200x630/81c0785255cc2dc4c1023fc9fb34f789/cbsn-fusion-iran-expands-stockpile-enriched-uranium-joe-biden-challenge-thumbnail-588204-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Georgia Secretary of State certifies election for Joe Biden"
-    excerpt: "Georgia’s top elections official on Friday certified results showing Joe Biden won the presidential race over Republican President Donald Trump."
-    publishedDateTime: 2020-11-20T20:44:00Z
-    webUrl: "https://www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/"
-    ampWebUrl: "https://www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 90
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/11/Election_2020_Georgia_72219.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "aBhCqDUZzmyvmZ4w8d9l1zPB2Llab9xozSnW4mKApGTIre4XdtLOndBGE5j7KdVii2bLEg24vlGxfe9yPTbxCmP4qrelb02Wx8Pzk0cwX1lhyP82RaQpZbpv9EV6ezUHY49zlsbpcPVSgjiNtxt1UcSATMC6Jgtn4n/QXLke7hXO6B1JFUKGrJrdDFbNV9gQeSkg1LgwqEfTiWKKNHru67S4EQhXWV0p+A1vId5yY7AW3leiaRW7/JXx4sRHnH7QOcVpcUbEox2YWdD7Di+pchwM1C3bkXYVbuMWa6BHKq4bK4PaW3QpCyMzuLN3j8J4tZBXJj4o370qj1kaRaTnRsmsFpnA00uXXiDdHG+v2AEhSbQE3KewgfN2dgm3HEWwdibrFBJN7FfZubMo0xpjxuH0dJdcsGUakGAD1X2CT/VTr9hMsZOL0Is7oOcyCl1tQeM5q+EBt9a/87QAtruwWOsFuLYmpo3VEDR03AFP2dmNHHU8m3mQYCqg44v9P6xjLburLIMLsxuUKGKoH7tJDQ==;CaW07aIi96gqMVvqVjZmUg=="

@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Politics Chat: Trump's GOP Support May Be Waning As He Contests Election Results"
+    excerpt: "There are cracks in the wall of Republican support for Donald Trump but not enough to make the president concede that he lost the election."
+    publishedDateTime: 2020-11-22T12:20:00Z
+    webUrl: "https://www.npr.org/2020/11/22/937708572/politics-chat-trumps-gop-support-may-be-waning-as-he-contests-election-results"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 115
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Fact check: Partly false claim about discarded ballots in Pennsylvania amplified by Eric Trump"
     excerpt: "Viral posts are partly false about less than a dozen discarded ballots in Pennsylvania. They weren't found in a ditch and aren't evidence of fraud."
     publishedDateTime: 2020-11-10T14:38:00Z

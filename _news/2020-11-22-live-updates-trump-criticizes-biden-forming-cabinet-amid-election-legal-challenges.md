@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp"
 type: article
 quality: 199
-heat: 919
+heat: 939
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ed2c9e6-c984-4497-a36b-1fb3a6b754f6/8901daa8-0ee6-430e-94fc-b1bfc2f15c53/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden adviser: Trump seeking to 'subvert the democratic system' with legal challenges"
+    excerpt: "Kate Bedingfield, senior adviser to President-elect Joe Biden's transition team, said that Biden does not feel that President Trump's legal challenges to the 2020 election results pose a threat to his projected victory."
+    publishedDateTime: 2020-11-22T15:22:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SSNvenmWQ74/biden-trump-campaign-lawsuits-no-concern-bedingfield-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-campaign-lawsuits-no-concern-bedingfield-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-campaign-lawsuits-no-concern-bedingfield-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d839f2e5-8d70-41f4-8154-eb3f68428ce7/40bab2b2-e7da-4186-bd50-ee573bd704e8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

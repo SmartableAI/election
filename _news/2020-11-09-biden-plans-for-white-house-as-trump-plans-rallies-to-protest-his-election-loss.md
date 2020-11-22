@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15781
+heat: 15801
 published: true
 
 provider:
@@ -734,6 +734,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541139441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC0A7"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden to name first Cabinet picks on Tuesday but Trump digs in despite election loss"
+    excerpt: "Joe Biden will announce the first of his Cabinet picks on Tuesday, a senior aide said on Sunday, as the president-elect moves ahead with planning for his incoming administration while President Donald Trump showed no sign of abandoning his long-shot bid to overturn the U."
+    publishedDateTime: 2020-11-22T16:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN28205H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28205H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28205H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL039"
+        width: 811
         height: 545
         isCached: true
   - title: "2020 Election Live Updates: Trump and Biden make last-minute appeals on eve of election"

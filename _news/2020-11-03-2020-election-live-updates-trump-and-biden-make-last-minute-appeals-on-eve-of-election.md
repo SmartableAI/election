@@ -751,6 +751,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden to name first Cabinet picks on Tuesday but Trump digs in despite election loss"
+    excerpt: "Joe Biden will announce the first of his Cabinet picks on Tuesday, a senior aide said on Sunday, as the president-elect moves ahead with planning for his incoming administration while President Donald Trump showed no sign of abandoning his long-shot bid to overturn the U."
+    publishedDateTime: 2020-11-22T16:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idCAKBN28205H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN28205H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28205H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044619&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL039"
+        width: 811
+        height: 545
+        isCached: true
   - title: "'This AIN’T over!' Vice President Mike Pence exhorts Trump campaign to continue challenging election result"
     excerpt: "Trump campaign lawyers and GOP allies are pressing their fight in several states Joe Biden won narrowly, including Pennsylvania, Michigan and Nevada."
     publishedDateTime: 2020-11-09T19:48:00Z

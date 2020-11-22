@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President-elect Joe Biden to announce Cabinet picks Tuesday"
+    excerpt: "President-elect Joe Biden will announce his first Cabinet picks on Tuesday, two key members of his transition team said on Sunday, forging ahead with plans for his administration as President Donald Trump continues to deny the legitimacy of Biden's win.\n    \n"
+    publishedDateTime: 2020-11-22T16:09:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_KolvtJEl3g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-cabinet-announcements-jen-psaki-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-cabinet-announcements-jen-psaki-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104144349-joe-biden-file-november-2-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z

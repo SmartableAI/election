@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michigan leader: Trump didn’t ask for election interference"
+    excerpt: "Michigan House Speaker Lee Chatfield says President Donald Trump didn’t ask the state’s Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House"
+    publishedDateTime: 2020-11-22T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/michigan-leader-trump-didnt-ask-for-election-interference/2020/11/22/c8220a98-2cd6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
     publishedDateTime: 2020-11-20T20:57:00Z

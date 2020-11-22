@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump"
 ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
 type: article
-quality: 122
+quality: 132
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvania-promo/21transition-briefing-pennsylvania-promo-facebookJumbo-v2.jpg"
@@ -385,6 +386,6 @@ related:
         height: 550
         isCached: true
 
-secured: "vbNvUPNCyTqx4ooLPHnbWOOEgUqQXZNMG5choFlFFPL6ZkOpb1aGRZRgL0oBEgCjGcjQeuzO11dwesft2HJlVI6SPh8Iq/TodmCj2pSeNLmQMgb/gs/iNjKbrP9ZbHaOHGXd5eDiVylkroakWV0B9dQMjHt3OIMJYTRHhswCG+c28lSSP7MTJIYoUFO7qS5U+XfhJfBo4f1vVJnHFCw2CTKWxwmgY5KdaBY2LWIqC1kL3sOmn4v1IdQWpLezWJiL5m9g4u0MJweurCAutpkwgDHIXWm2yCzB6Bf4teS6ymGKiMwlMG9X6atPoebPJ+JnGoTwc32x+qMYJ4kMrXX/n0Vdz4F4sQMXqWUTySXYIkw=;ove36WTxciaW5GjVxVBWRw=="
+secured: "ReRJbcDuvrKOAAT+/KxaqDBhsFhYmCtn22a7N+E8BM6U51JFrqrsrSwR9Q2ShE6zgqsd+Fynkgpn32+hx2KbLStAxlEoBNJ1AW9fn/g4hR+hE2FZwtj6hsNgfPN0wMqvYILtm0uAnl+IAbFcQxnHWaxfY2zi3om8wf7/BbA97xvmG1EvJ7HYQxN9PPnUFX0iUaxgZc4tq6tZzKqGxckBbMnqcv1WIJ0r66KsrBDbbfAbNm7BhJ0nHfMsH9FI59x+ZJYJjukpi7hf44OXptn391quZLlvvoURzC7M5i7Kp+xLTvsNXkcq8MDVgMJqa7EpLH4iQhTiBqKNLa+LwjWdsoFWq3sSdvWc1W6EF6blb/JunI01O0fPusDjpN0bjgvPVM+Q0OXi0j8IJwIjoCtp2hwZ+hrQOkbYkU5bxbdOJdt4puGplOj8qnlywpQqU8qWYrhfcY09QME6UmHoDQ0lcTxeETAhEB3XWVyRBvnFoEShdAniIXnxvMTt2woEf+50ExN25V++84SIxpBgX8tMgg==;gBIU4Q+RiiC9OmOY95dI0w=="
 ---
 

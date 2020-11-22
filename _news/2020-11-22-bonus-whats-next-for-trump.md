@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lobster biz hopes for stability after tumultuous Trump era"
+    excerpt: "President Donald Trump positioned himself as a friend of New England’s lobstermen, but members of the industry said they are looking forward to the possibility of stability under President-elect Joe B"
+    publishedDateTime: 2020-11-22T15:42:00Z
+    webUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/lobster-biz-hopes-for-stability-after-tumultuous-trump-era/2020/11/22/5d569582-2cd9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "'Elders' group of ex-leaders founded by Mandela urges Trump to accept defeat"
     excerpt: "The Elders, a group of prominent former world leaders, voiced concern on Thursday at U.S. President Donald Trump's refusal to concede electoral defeat, saying it showed disrespect for the integrity of American democracy."
     publishedDateTime: 2020-11-12T14:21:00Z
@@ -126,6 +142,6 @@ related:
         height: 532
         isCached: true
 
-secured: "vM9II4Yq8vv40hFW50yKSKA8VFozuEOG3SaivA4dv51SvcksjzvEcbB0iyxbSMpVH+nignW0M8GBQJbx9xmVVEf1kj+jiUm3gbEXq7LmxAYMmqb8IEVH2zDydnNHU7aAalx5UuCEtBNuC+bqkudRhKdgT6+B/acac/CHxWGn5Kc45srcnwz9vJD5OuEV1imc3tkYL8fhSp9bM5SWcmfObr9VstrhIELstZygBI54kRSytNFdW0aih8L4lSkcBAlU/HwWW2Wp58YVY+WiQHeRvPneLX4MxT9lUEewnrv58cWWimyplCzz37jVAnyuIDepA7n6LLmcPbWsgFwqggRvHXrnarhh+BOhYSuHNXHPftU=;v4VDZvDhtTIQ+6fsejS7BQ=="
+secured: "IohYY9VjoODLNO+iMpaiHnu5wztBVKsIqlbXF8PXQN/l9LdVhQ6MXSBHBRWwari7hBsFgS6hyjn8EFU9rCev/54gjyB0EyMPnpvPjfobFIIsm3wkLLLe8Eu6Lyh0WbSAEjSa+E8yycDdwi3/bmUCKLxrR1nE9fN/Qmdrlh2pePop5CfUISqhRXSo1MrEALrm4VhuLq2FTorjCFE01MJvryvZMRwbIW10niRbH4mD1nGwjBIZi3+4FK3iz6VJd5vUlJXmDpLySQFMFS5UoSoZybutIaxuR1RpR8/C77pbS4KMGTZg4AKD9nIXxYF9zEx3r/qwrkSMpqqXz4Mc3jsa2prNR/3R08cW1iAbr0Zpc17hkB1zRLTHInj6IQzujrfOLvZEjKneJP5K+s9gVWcvnNsClAbUJDEE9Efi5953qYrK6mNAT56aogxH0iS+3BD4LGxY4BLHmWYqEU75jO9s/2+Y2RnNXax8pb6kd5iOrPFIvUdZ7WmV7ZHujifCM9G6kM6VkRLWyQejYTMFa7aaOA==;9XdmHvGKll2ELhaes7CThA=="
 ---
 
