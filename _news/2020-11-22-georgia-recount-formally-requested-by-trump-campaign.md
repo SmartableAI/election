@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Joe Biden wins presidential race in Georgia, defeating Trump"
-excerpt: "Biden now has 306 electoral votes."
-publishedDateTime: 2020-11-20T01:19:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+title: "Georgia recount formally requested by Trump campaign"
+excerpt: "President Trump’s legal team Saturday formally requested a recount in Georgia -- a day after the state certified the election for President-elect Joe Biden."
+publishedDateTime: 2020-11-22T06:19:26Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
+ampWebUrl: "https://www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
 type: article
-quality: 190
+quality: 175
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/6e26c1f6-AP20319621877550.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
     excerpt: "Follow for the latest updates on the Senate runoffs in Georgia."
@@ -94,22 +110,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Georgia recount formally requested by Trump campaign"
-    excerpt: "President Trump’s legal team Saturday formally requested a recount in Georgia -- a day after the state certified the election for President-elect Joe Biden."
-    publishedDateTime: 2020-11-22T06:19:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/6e26c1f6-AP20319621877550.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
@@ -318,6 +318,6 @@ related:
         height: 853
         isCached: true
 
-secured: "HvO0U+PEA3rI0NBvxP2o4U1Zsxzfn+Y6AdwqR8ALhKfVqsmvIkbc5ZhZcoDnSW/62aM26fs9yAyeF6nm5mNs5evnu0XWMcHbSJ8rAB0q1BSjDy1dPuUSdAb4xuJx8w4ANh3H5CjxqkPZYFkGJKK0QSz0Z1Flcu7cSWg6i4CuXq24kIoBVp2+F2RsaE2zrm8ONM6XHP0HDYeAS7EzFboC9Rhe79wbBpRrCV4m+QmmklTFZGDSHjYXeJCY/qVn+0DfyWEdq8DC9j7Q7xYcH5Ku6TwetPT5nSMQc2zWuznDOxBYi8U7PNLdAvn8OcIfDX75qKzbtUK0mdaWxuTE5a+gKIdwwwE/zXIKzRYlfe4k08w=;QmK9GWFGp3zIPys9dT+BVw=="
+secured: "P/UlqXDikpFPkcTlhM/Y8AnCsYSdHoA6dmXymTF0LUm0dIBhtPzuvGTchGpmtbooOmk5bwcAap7ucJfcvCFz08k/BjbymWtYYzxs2uMIzMYPojcXObqx17lt816WBCvHQPTlAXRUG2wL7fEZDjYie3+ASm5rGzNY/qxTvC+++Vqrm1rTq3fDiJjt1eMlIgt7GBHh0NYQhptdX8KNNDXfej12EBdCha/yE/pQ7lZp9KJwuXzrydVJC88pCu8mmrCHKJUavRh5Jl5rRUEvSrcwV4aFBdK9nFwhY6UH9t09jcSnkpSag4VwT4l8Ib2Nr9/gp2SSKS8C8zptDTUg4JY8fT0Mv3zbLrAJtmaJ8e8Etz8=;zeTo5wslGlvvM5Ls1SVWyw=="
 ---
 

@@ -64,20 +64,20 @@ related:
         height: 545
         isCached: true
   - title: "Judge rules against Trump global media chief after firings"
-    excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
-    publishedDateTime: 2020-11-21T20:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+    excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets."
+    publishedDateTime: 2020-11-22T06:43:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8e72e544408c42f98a898fa65a9b4ec9_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."

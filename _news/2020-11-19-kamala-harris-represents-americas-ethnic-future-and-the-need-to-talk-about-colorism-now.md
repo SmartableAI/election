@@ -2,19 +2,21 @@
 category: news
 title: "Kamala Harris represents America’s ethnic future, and the need to talk about colorism now"
 excerpt: "With Harris’ ascension to the White House, America’s caramel-skinned future is officially here. We can see it, touch it. Now it’s time to talk about it through the lens of representation."
-publishedDateTime: 2020-11-19T04:01:00Z
-originalUrl: "https://www.sfchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-webUrl: "https://www.sfchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-ampWebUrl: "https://www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+publishedDateTime: 2020-11-19T08:15:00Z
+originalUrl: "https://www.houstonchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+webUrl: "https://www.houstonchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
 type: article
-quality: 66
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -346,6 +348,6 @@ related:
       domain: charlotteobserver.com
     quality: 51
 
-secured: "tt0Q74N+2M5HYlt2SmsM7kyTX+rt5SiCqtCw4zdYsVWfwS9wevbFvyVh6wm4is0E+sTNemt39BCzJ17mmGOliiRR+5YpmSc2c9tqDv3IdYfdfSx/f1hSKllhDGvVAdqqpXzXMCYIzaL483FXwT6iLyMjJ2TyG0+50INarJ7u0t/2YCHLdVonqNQtOOgR0titPUcfQi4N3O/jrT/sKx+cGBv8wF8XiFaCo4HwqGzer3xjXfxKimB1aRbi1pw3f65rEd0HjkA+bPEbcWq2WfY0d4pXwO6FmDQ8mrDOrk50Z4lEKcnVy9WK3pRjvSpAwtmg4kA93Zdz2TzL7RWAmKLCdeAo/5cx2ZI6hZ0sKSVd1cI=;+rpK3qWGQlIAlvdPnfWhPw=="
+secured: "+EMOA+RVpX6/IgqwocGTQKTNj/mXWUkTOxhU51nTwEffN/yBVAk3KrfsWLD9aMZgYfZhPwBkBPdOsDZCMQMv8wnPBGmWPBZW6TYvYYnQZz05lcizBPNpDNCgdFoXBDA94TdQRax4AxqD6CWL7APzwg0Y8xjD6+zpz9yIVqPT69xQ/9e14Slf+wvuUgqMKhF8OFgyVe0FVuxshPLCXflILsS/RjD9Gt5iq+UJVHh/4l55y3GU/tbOFMcIdqViI769z0B6M1kwQ1PXeutWT3ptgzCStjWC+dplfWoSkSswUkRZxBEHB9GTnWngnF6C34Yp0ZSb/IXudOLRu3dnoMvw2Kc3RaIdYVcmNnGw8AW5afU=;FPhMEGWBIalsoCJUbTUbog=="
 ---
 

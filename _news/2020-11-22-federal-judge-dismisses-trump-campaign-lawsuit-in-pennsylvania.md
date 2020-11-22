@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Georgia recount formally requested by Trump campaign"
+    excerpt: "President Trump’s legal team Saturday formally requested a recount in Georgia -- a day after the state certified the election for President-elect Joe Biden."
+    publishedDateTime: 2020-11-22T06:19:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/6e26c1f6-AP20319621877550.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
     publishedDateTime: 2020-11-13T21:37:11Z
@@ -271,6 +287,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/980d4b4b-3e68-4642-9f81-5ae44da0f382/58bdd76c-c4be-4d4f-a9bc-9742e810ac34/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Campaign Seeks Georgia Recount as Sen. Loeffler Tests Positive for Covid-19"
+    excerpt: "President Trump’s re-election campaign said it had filed a petition seeking a recount in Georgia, while the campaign of Republican Sen. Kelly Loeffler said she was in quarantine after getting mixed results from tests for Covid-19."
+    publishedDateTime: 2020-11-22T06:04:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-263349/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
     excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."

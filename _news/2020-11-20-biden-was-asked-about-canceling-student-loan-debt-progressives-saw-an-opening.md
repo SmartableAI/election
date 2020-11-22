@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Should We Worry About Joe Biden’s Age?"
+    excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
+    publishedDateTime: 2020-11-20T03:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden team taps Justice Department veterans to circumvent transition standoff"
     excerpt: "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration."
     publishedDateTime: 2020-11-16T19:12:00Z

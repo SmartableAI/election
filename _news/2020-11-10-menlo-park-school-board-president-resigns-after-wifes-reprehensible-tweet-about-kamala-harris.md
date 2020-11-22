@@ -161,6 +161,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris represents America’s ethnic future, and the need to talk about colorism now"
+    excerpt: "With Harris’ ascension to the White House, America’s caramel-skinned future is officially here. We can see it, touch it. Now it’s time to talk about it through the lens of representation."
+    publishedDateTime: 2020-11-19T08:15:00Z
+    webUrl: "https://www.houstonchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 96
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/11/20247141/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "5 Howard University Women on Kamala Harris' Historic Election and the Impact of HBCUs"
     excerpt: "Norwood attended a basketball game at her alma mater, Howard University, when Sen. Kamala Harris, who at the time had just launched her 2020 presidential campaign, greeted the crowd. \"It was so exciting to see her there,"
     publishedDateTime: 2020-11-13T15:54:00Z
@@ -240,22 +254,6 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Kamala Harris represents America’s ethnic future, and the need to talk about colorism now"
-    excerpt: "With Harris’ ascension to the White House, America’s caramel-skinned future is officially here. We can see it, touch it. Now it’s time to talk about it through the lens of representation."
-    publishedDateTime: 2020-11-19T04:01:00Z
-    webUrl: "https://www.sfchronicle.com/living/article/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-    ampWebUrl: "https://www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/living/amp/Kamala-Harris-represents-America-s-ethnic-15737066.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 66
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/17/11/20247141/3/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Michigan police officer fired over social media post depicting Kamala Harris as watermelon"
     excerpt: "OAKLAND COUNTY, MI – A part-time sheriff’s deputy was recently fired after posting a photo of carved watermelon meant to depict , WXYZ Detroit reports. The Facebook post included a photo of three carved pumpkins meant to represent President Donald Trump,"

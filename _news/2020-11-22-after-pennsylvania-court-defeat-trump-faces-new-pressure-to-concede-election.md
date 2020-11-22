@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump meeting with Michigan Republicans will not include campaign: White House"
-excerpt: "A meeting between U.S. President Donald Trump and Michigan Republicans on Friday is not an \"advocacy meeting\" and will not include campaign officials, White House Press Secretary Kayleigh McEnany said,"
-publishedDateTime: 2020-11-20T20:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-michigan-idUSKBN2802CK"
-webUrl: "https://www.reuters.com/article/us-usa-trump-michigan-idUSKBN2802CK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802CK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802CK"
+title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
+excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."
+publishedDateTime: 2020-11-22T05:37:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN282054"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN282054"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN282054"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN282054"
 type: article
-quality: 121
+quality: 137
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541946203&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ19G"
-    width: 783
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
+    width: 808
     height: 545
     isCached: true
 
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
-    excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."
-    publishedDateTime: 2020-11-22T05:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN282054"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN282054"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN282054"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
-        width: 808
-        height: 545
         isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
@@ -303,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump meeting with Michigan Republicans will not include campaign: White House"
+    excerpt: "A meeting between U.S. President Donald Trump and Michigan Republicans on Friday is not an \"advocacy meeting\" and will not include campaign officials, White House Press Secretary Kayleigh McEnany said,"
+    publishedDateTime: 2020-11-20T20:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-michigan-idUSKBN2802CK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2802CK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2802CK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541946203&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ19G"
+        width: 783
+        height: 545
+        isCached: true
   - title: "AP sources: Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result"
     excerpt: "Trump invites top Michigan lawmakers to White House, amid longshot bid to overturn election result. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
     publishedDateTime: 2020-11-19T18:49:00Z
@@ -458,6 +458,6 @@ related:
       domain: c-span.org
     quality: 40
 
-secured: "GO3bM2RTeOH0IlAXEOxYBsdX48Z1ieZegQilkB1eshdydqtmv38ryZXSSKE5urG9jGm8fUcbR/MOQ30Cb0Sgm7f0xVBOXilN9++fu6IsybYaIbOqmuZFi30O8Wqd131njA3EzmWR6Gh9Yr52mT/vSQkJVP8Y/wKDrr1S/ctlNmfr7FPzqriIVd1sTVOiYNA6taWeqjmWjhxPJ+fEpG0TBotsyEZalD+03OA/uWpv4htHhkP2PkAhn0IekxnrFOAV5SgJmkTAGpKpF8T2JoXudQDcXlIqKpbn3YL4d8jszlUUhwhRc1UufjlWS5mIPPxkY3xPcZYCs5Pw/6qBn7r2Tsrp89kUH6eOP5kj63k7HQE=;c8vemk1sjaWwuTqjcTMa2w=="
+secured: "UgqSxyNYDcM4O6nRB/yprgrSe1Eke6EtsN48ZzoLjXLuXymCy1z8KivxZWxyNHrhXfmwwgTTimwn+nsx1tDAHLAU4ydyr+MKvXYObQeqFoeLUDLR92s9xpCW9Q7xcmAp22jiLcFZCWPmJ4VYoULPpxuCJz+N810HgPBng2PTty2mETIRixk+CdqtWTzPagPnz6jsqf9Ejf0FGvN1j2NX8odX/jZcagH4+Ap49kUHmeeKjzFW4HcLHNgxFL9J+Q08Gfdkh2KHzCu+Qcaa2x7cjQeTgn4gnaEKPwtk4qbD2vPig6T1VBOPivdeajyHR2F8bi6Q7F6vBuJhhpsb5rfRLL93EuhhYCbLukH4F0g+s3E=;N82LO9wFZRLuo3zxl+o2oQ=="
 ---
 

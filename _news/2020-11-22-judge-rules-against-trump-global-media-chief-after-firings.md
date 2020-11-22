@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Judge rules against Trump global media chief after firings"
-excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets who was accused of trying to turn it into a propaganda vehicle to promote Pre"
-publishedDateTime: 2020-11-21T20:48:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
-webUrl: "https://abcnews.go.com/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-rules-trump-global-media-chief-firings-74336971"
+excerpt: "A federal judge has ruled against the head of the agency that runs the Voice of America and other U.S.-funded news outlets."
+publishedDateTime: 2020-11-22T06:43:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings"
+webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/judge-rules-against-trump-global-media-chief-after-firings?_amp=true"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_8e72e544408c42f98a898fa65a9b4ec9_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -176,6 +176,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mbsG2SZSojJseCcwf0HqgbuDxTT4nn214xORoK+zTbIX38ADGkpGxyRTTIHL+NEOJffL+tHUM2QZxBsEGX0NsEUteNwQxf0CkRe13mIhgsluFkDJSD32u9KnJdCPwlppHhjgSvqCP/cOjxnWZ2UYQwtEcWmqTBmOKMavdIgqb45oJHw6e3xQUsyUBwMQr/OoJwgqqNUFxLoOKTes2dwqZ4x5kDY+ecDA4I4By5FcyB1Ks/Spx4Gc6VZybHSZNCH+6R28wLk7TQ010C3l2ao7eYRbQV0LXTCwwFHjakHi+awtiz7Qh1+u0/0nOdZ3SAGfMR4HGY8Hy7l8YZuW+Km2y9UEdZthJxDEBoVq9MeDFiM=;/vs51HyiAJjdYEu/bpzm+g=="
+secured: "JazTQLI7sM7fS1wr7K869SZnZ7XBwoUXy3aTi4YnOJYbsUlM+3c8qqTf/q/vM+hWl80e6VXu+7g4k/JWU7s06Ap0TXdmY6mfj8O6G71UhJwPyizbDEJDCU82V3eHQJWo/d6gFllCWOce21sBvEpD0SP7e03tgFzE0kdE9jr/GjPhp3z5fH408SGHLyxs0j6b446JrLPF3bsJ3cZj4HzG8jXvpeYE7+abW9M3bnCK5K37e/d+EL34ee2ic5s2B6yLZ2tP5ll6ofXp90zmv7svV/J7Ynf4oMXB9VxgNaepHNrZSOvBxD7iZMlRWF73LJ8aYVfxIrNH64JB+tQbFtxF4AWoR8I3sZqdHHmeumqlleo=;6/pJqscDwnoCL9s5hk1ydw=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
-excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
-publishedDateTime: 2020-11-18T20:40:00Z
-originalUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
+excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
+publishedDateTime: 2020-11-22T06:32:00Z
+originalUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
 type: article
-quality: 101
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
     width: 1440
-    height: 960
+    height: 810
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/11babe9d3a64c4d54f512bcefe3890e0b1c37495/0_12_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ac28a2429a8046cea6435f95cff76d4b"
         width: 600
         height: 360
-        isCached: true
-  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
-    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
-    publishedDateTime: 2020-11-22T06:32:00Z
-    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 810
         isCached: true
   - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
     excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
@@ -92,6 +76,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/755a0dcc-e996-4758-99b4-56ad96a722f9_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Judge stops Trump policy of ‘expelling’ child migrants, questioning legality of border controls linked to covid crisis"
+    excerpt: "Decision could have wider implications for the Biden administration as illegal border crossings into the United States have risen to their highest levels in more than a year."
+    publishedDateTime: 2020-11-18T20:40:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/judge-halts-expulsion-minors-border-covid/2020/11/18/80e58c52-29b8-11eb-b847-66c66ace1afb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S4TYO3BJ3QI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "President Trump is seeking a recount in two Wisconsin counties, but what he’s really doing is preparing for a lawsuit."
     excerpt: "By pursuing the recount, Trump has given himself a vehicle for a lawsuit that would likely go before a judge by early December."
@@ -154,6 +154,6 @@ related:
         height: 432
         isCached: true
 
-secured: "QbDIir/1WEFIESVFy95B4N5jfdPO99RXWfeeWLhQGey2Kf1Zkl3DkS2gb1dT/nTbB99Nwh98h+KIGDjb6vrfa4cmm6HbUiCJvhkMFnKLwW1MZeg0JSUZmUjms8qrIhPhyXS6eNNJQSajIa1B22qqmph3RsefmGwvmom2CHAaG0dir7j8zzBYiyd80fu8ECFhtr1MnsA9I7NfXWkHPghmCKpFAVTH2sED50uNYvnJ83ikGz01RxVu2kIb6MSNxo+EsJz/sxpzmgdh/5vKDOMId2HsmANBZfBpUzBGdm5Ycinjx3sBaJaq8NBlLD+yAEUW9WXUVlwOttGP0646qyo07MWgn4aPUOIIf20TQjLz3P4=;ClP8sA3CpkT0Xq8kfkaj+g=="
+secured: "5IOv0Lh/8+1LBjLuEuH60evNlEIuBWdDwtlDRt6+mJ0jWxAkb8YvFIb2+PR4ZiDUYBpcQWDDzCTGIytgugC4oj0RgggaXH/tFD7XnDebbo0cEgudKWics24lGncIcvHL8LLP1wWE/dxxuE3oYdWH+VuuPxzayVpZkL5KMspmhX//SZjVp2erEUpq3Oxq1sbxOKnZK++QNRleQsJQRiAVQq2HMu3vJUcAFgcgvJmJJJxftxceUEl+hxBaHITrbIB/yUlXE0LF/hdRR5n5NGULoY3u8DK5NHb5T7N/a8aQGmxM8JmhWFAyIp0QbgZnj9AyNwIO4zcHBtyiUAX+OlCv8WUXK+mqGaEt3qCbXMbIz/E=;zMwxqnNI7Ed2GSm08EP6ug=="
 ---
 

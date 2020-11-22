@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Should We Worry About Joe Biden’s Age?"
+    excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
+    publishedDateTime: 2020-11-20T03:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden was asked about canceling student loan debt. Progressives saw an opening."
     excerpt: "The question the reporter asked  Joseph R. Biden Jr. on Monday was simple enough: Did canceling student-loan debt figure into his plans for the economy and would he take executive action to do it? “It does figure in my plan,"
     publishedDateTime: 2020-11-19T17:53:00Z

@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
+    excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."
+    publishedDateTime: 2020-11-22T05:37:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN282054"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN282054"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN282054"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
     publishedDateTime: 2020-11-20T20:57:00Z

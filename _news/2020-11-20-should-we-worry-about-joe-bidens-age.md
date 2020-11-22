@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Biden taps several long-time aides for White House roles "
-excerpt: "President-elect Joe Biden has tapped Louisa Terrell, a long-time aide and Capitol Hill veteran, as his director of legislative affairs -- a role that means she'll be in charge of shepherding Biden's agenda through what could be a divided Congress.\n    \n"
-publishedDateTime: 2020-11-20T16:06:24Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
+title: "Should We Worry About Joe Biden’s Age?"
+excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
+publishedDateTime: 2020-11-20T03:29:00Z
+originalUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
+webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
 type: article
-quality: 175
-heat: 455
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
+  - title: "Biden taps several long-time aides for White House roles "
+    excerpt: "President-elect Joe Biden has tapped Louisa Terrell, a long-time aide and Capitol Hill veteran, as his director of legislative affairs -- a role that means she'll be in charge of shepherding Biden's agenda through what could be a divided Congress.\n    \n"
+    publishedDateTime: 2020-11-20T16:06:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia to certify Biden's win today, officials say"
     excerpt: "Georgia Secretary of State Brad Raffensperger said Friday that he'll certify President-elect Joe Biden's victory later in the day and will formalize the razor-thin presidential results after a statewide audit confirmed that Biden got more votes than President Donald Trump.\n    \n"
     publishedDateTime: 2020-11-20T14:10:39Z
@@ -207,22 +224,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Should We Worry About Joe Biden’s Age?"
-    excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
-    publishedDateTime: 2020-11-20T03:29:00Z
-    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden team taps Justice Department veterans to circumvent transition standoff"
     excerpt: "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration."
     publishedDateTime: 2020-11-16T19:12:00Z
@@ -256,6 +257,6 @@ related:
         height: 550
         isCached: true
 
-secured: "2+nbcDqTeG2Gc16kTjbf/81w0bieTTlE2s5LJJMWwCXYk4hMX3vEqrOMhzJyMZgEtvDXQcdpmZjBRac9YojGbbvZdFIqjDZkq1tm5NLWTVjvVBYkNkbPGZm1wjbuGr0R3L55XrU8p5dCV5CNQ3wetbTg0vgvSivFwlEVVF3BOXboIrmYjUG2/s8qMeBtPA2t2e4BsafuJbCVPISojsr4d/lZ3jHeFNEVWixdj8Qd4FffJwtD6xcShc4CM32FINF5shFS7os94NrbIPkHVf1193+z/1rKYYquOLQHBvdGnW6uP0rJvvQqb4vtd4iX99+pSh3yFw6w0wRw6zRt4+DP9uMTR3KAlIKyKA2JbBkTlo8=;T1AqMhdlw0Q77AkiZYqMFQ=="
+secured: "yzBUAf3+v9Bcj7gIhrSQ5D9JEL6fKeYwICrm+I3NiAJjPu/xLDZClu+qS8bJ1PjgzxAv6jyAiIwdIId4jttEYSEycHNbMrdcO1WfFlrmRrUvMR56A9R5N5iCcJ4GQUqOJvoc9D5WTUhScy4vK3FKCpHqOfCcMUC66vrHG8elI4LJ7mZiDZepaftMWQ4uSnWMqIJEzAHgMji7gF6wAKwyhvIbAKdYaz9m5+9M1M0/SJA5woBk4F1RYx/AEAoph5HyyEIGbpifiGGgfIfmgRbOBRH6QRlAf7XgHSEdE+pyLKFwiVrqSk+zt/VbzifuSNc882HHB9D26G1KAPxsYfUFYCeZ4a49CQoBNZ3HaiK15JE=;zaSwN93VAj1jqpD6pdWMcw=="
 ---
 

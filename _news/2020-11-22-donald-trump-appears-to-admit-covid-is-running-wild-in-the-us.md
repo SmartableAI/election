@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Experimental drug given to Trump to treat covid-19 wins FDA clearance"
+    excerpt: "The Food and Drug Administration on Saturday granted emergency authorization to the experimental antibody treatment given to President Trump last month when he developed covid-19, the disease caused by the coronavirus."
+    publishedDateTime: 2020-11-22T06:32:00Z
+    webUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/11/21/regeneron-fda-clearance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B47Z67Q2ZUI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "New COVID-19 closures, Trump campaign lawsuit, Hurricane Iota: 5 things to know Tuesday"
     excerpt: "More states face new closures and restrictions due to COVID-19, the Trump campaign heads to court in Pennsylvania and more news to start your Tuesday."
     publishedDateTime: 2020-11-17T21:20:00Z
@@ -138,6 +154,6 @@ related:
         height: 432
         isCached: true
 
-secured: "0m5XB7vIisiVZtlguP61jcQ4o8EMgAS8XQJXedoikJ2pcRwj1MfTTvDrwndomVNow0k5noUAw7Y/nDZCBFcNc7LwPHr7+kARsN0jaWJXrdvYswpUtDYmCZdlVHPOoWeA6ESb27xCIYzIKeNLWs3Rp46J0rA3RP1AXKew9odLXf5E8B4SU30XDeYIz7hNpJ9498XfHZdwhjNn+bFVa7oO9/OZXD8lyJgcRgx7EzGUBgebRXXX45/TCI6A/crTLrGgzxMO2Z3jG6CYPg0MDBNol2gjdU9pjqQO1GLbDmTH6Kiszpc7FVVt/P0qI+tJijkWtbiVfq+19oEh3BlR/mGAWYrLEMupORLxvu3RrLLhRBQ=;oQ4bgz3Z6f4b4xpsPCdjpA=="
+secured: "/w4fwjCb/hAPlGhk172VQDbfRrq41j7xcfT1/GNIhOJoOYHCTZY0fNkTwF5BgaX43+KtOq7OnZ5Py67aYQVzj6VCZ/68K7Fuwk/pFA/TH9BTayxFTcujKaHGO9PqN0ewuMmbBIlqCF7hd5qSu/2Qo+ZLm0vC3xIAbUxpQVs9BCLxeMNEHUFmV137aMTA27QFgQC5rLy6UJh0C0aQRpJoaouWxxo75kbBKTrRxZAWb2bmSo8rFIXRHcJa7JoeXxJ4WRdBz6d55jMWNSmEzHmvy+RrMR6PYTTjQ0YPZ2hVYRI7cXlxuoD26uxFBskYiITooIsRB4IylxgbtPrUKRXyakB0UkJmGP3hT7/Mu4Km/9xNMA6Q51hweGEDdLysyY8KJAJoneG44mnKDJbt7gOJ+oQOoMvcbEa0T63wMngk5AnvJsrAcNfBqwEPJzOGbi7UnH7Sjynp5DWRi5Keqi8G4o1uqv7l56siQeV/DO0os+U3rp8VGWxGLjc79LRBiDNcnWPytOkiYzvq6CT22yW4rQ==;Q9EdB++WS35b+aruBBvZYA=="
 ---
 

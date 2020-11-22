@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/fact-check-georgia-dead-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/fact-check-georgia-dead-voter-deborah-jean-christiansen/index.html"
 type: article
 quality: 147
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump campaign requests Georgia recount that's unlikely to change his loss in the state"
+    excerpt: "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n"
+    publishedDateTime: 2020-11-22T05:38:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57IMkYkp5ok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/georgia-presidential-election-recount/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111113617-ballot-counting-georgia-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "gSVz9cuX/7bk8gBzx53ehuHLpPgxKgMC7r5uiLdoQ1gSrbdt0Gjm8KTPzx/T+7e86KnZ9F6Hi0gkopMPh2C/LA1ilQsV85oJP3zTXqJuc5tOkSrtedXtfyx3xJJ1WlkVeQVErcKa5OBXvy+f4Dldt3kWpw+vcAF1/5IXNaMtbXmUE/z7VnwFCkgFPpYHowSdhyqiXHy53O2hJqHgJfKp0vVxOfJq0GOwPtOr3Q05+ZuNGTXkBQ3Oq+iD5P1HCZL2EaJXpUdzmFqVugMKVDoiTxnPfwkX+3XGau6Thj0bViRIWsxecC8HUGXsXZPDH6nFVe8PNhnaqrnJwLD2mXmktgFQOxBPt7UE70fBk6OSYE0=;0wi/galSOEzRJSEgXMTw5Q=="
 ---

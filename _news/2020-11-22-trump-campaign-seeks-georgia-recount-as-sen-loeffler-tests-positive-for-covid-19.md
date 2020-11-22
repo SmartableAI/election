@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Joe Biden wins presidential race in Georgia, defeating Trump"
-excerpt: "Biden now has 306 electoral votes."
-publishedDateTime: 2020-11-20T01:19:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+title: "Trump Campaign Seeks Georgia Recount as Sen. Loeffler Tests Positive for Covid-19"
+excerpt: "President Trump’s re-election campaign said it had filed a petition seeking a recount in Georgia, while the campaign of Republican Sen. Kelly Loeffler said she was in quarantine after getting mixed results from tests for Covid-19."
+publishedDateTime: 2020-11-22T06:04:00Z
+originalUrl: "https://www.wsj.com/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+webUrl: "https://www.wsj.com/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
 type: article
-quality: 190
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-263349/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
@@ -46,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
     excerpt: "Follow for the latest updates on the Senate runoffs in Georgia."
@@ -287,22 +304,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Campaign Seeks Georgia Recount as Sen. Loeffler Tests Positive for Covid-19"
-    excerpt: "President Trump’s re-election campaign said it had filed a petition seeking a recount in Georgia, while the campaign of Republican Sen. Kelly Loeffler said she was in quarantine after getting mixed results from tests for Covid-19."
-    publishedDateTime: 2020-11-22T06:04:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-seeks-georgiarecount-as-sen-loeffler-tests-positive-for-covid-19-11606023136"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "https://images.wsj.net/im-263349/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
     excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."
     publishedDateTime: 2020-11-17T20:30:00Z
@@ -318,6 +319,6 @@ related:
         height: 853
         isCached: true
 
-secured: "HvO0U+PEA3rI0NBvxP2o4U1Zsxzfn+Y6AdwqR8ALhKfVqsmvIkbc5ZhZcoDnSW/62aM26fs9yAyeF6nm5mNs5evnu0XWMcHbSJ8rAB0q1BSjDy1dPuUSdAb4xuJx8w4ANh3H5CjxqkPZYFkGJKK0QSz0Z1Flcu7cSWg6i4CuXq24kIoBVp2+F2RsaE2zrm8ONM6XHP0HDYeAS7EzFboC9Rhe79wbBpRrCV4m+QmmklTFZGDSHjYXeJCY/qVn+0DfyWEdq8DC9j7Q7xYcH5Ku6TwetPT5nSMQc2zWuznDOxBYi8U7PNLdAvn8OcIfDX75qKzbtUK0mdaWxuTE5a+gKIdwwwE/zXIKzRYlfe4k08w=;QmK9GWFGp3zIPys9dT+BVw=="
+secured: "CfpM3Feuk7fu5FO5b20Hzsdn1iM6NgM89xbuRBY00ZOBfaBbhs1N5y44AEPur3a066wZZq9lUyRoIjjWybsiDWJYfrMCfgChsYULLlS/PjYykoVhaVO1PTAzUSf0p61c9SpWh0WF6k+wNhXn1DQIlqtj44BLH9pL4Sn9AEoH8KObJ6UUQ4NC0/mS45nuHZqYbRxlS6fqa6DsVcw8xI4LYtXnCXsNXB/7xtmGA9hkT9cQD1Tssy0R8IGtQ7CUlrh/ybijwEjQdhNZFTiqGogF/LhW1T7KZrbfmMX8StGf2ol2atn/yhU8IyWsqHocaKt0qhqQXnN8mMy++rUK0HQ6Q7lG8XkS/AXL3E4lUdHUGkk=;4XrMAMin66yibTc+VoxlrQ=="
 ---
 
