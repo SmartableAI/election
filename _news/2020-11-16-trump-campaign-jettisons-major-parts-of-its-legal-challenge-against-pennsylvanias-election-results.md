@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-lawsuit-pennsylvania/2020/11/15/4aab8048-279b-11eb-9b14-ad872157ebc9_story.html?outputType=amp"
 type: article
 quality: 126
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -173,6 +173,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's legal team cried vote fraud, but courts found none"
+    excerpt: "As they frantically searched for ways to salvage President Donald Trump's failed reelection bid, his campaign pursued a dizzying game of legal hopscotch that centered on the biggest prize of all: Pennsylvania."
+    publishedDateTime: 2020-11-22T17:52:00Z
+    webUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Pennsylvania lawyers shredded Rudy Giuliani's arguments in Trump's biggest election lawsuit, calling them 'disgraceful' and 'really inventive'"
     excerpt: "One defense lawyer described Giuliani as living in a \"fantasy world\" and said his arguments were \"disgraceful in an American courtroom.\""
     publishedDateTime: 2020-11-18T08:31:00Z

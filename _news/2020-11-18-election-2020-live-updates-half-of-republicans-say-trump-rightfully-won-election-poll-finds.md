@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6335864002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335864002"
 type: article
 quality: 128
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8c168e520ff2426bb2426d672fa2421a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Coronavirus updates: Thanksgiving travel surges despite warnings; experimental drug given to Trump gains FDA authorization"
+    excerpt: "Thanksgiving travel surges despite warnings from CDC and Fauci. Trump's experimental antibody cocktail gains FDA authorization. Latest COVID news."
+    publishedDateTime: 2020-11-22T15:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/11/22/covid-news-thanksgiving-travel-surges-trump-cocktail-gains-fda-ok/6379847002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6379847002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6379847002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/22/USAT/28bfc08e-dd45-454e-a914-068386d0fdbd-covid_thanks.jpg?auto=webp&crop=3340,1879,x0,y169&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Coronavirus updates: Donald Trump Jr. tests positive; model estimates 471k US deaths by March; Cuomo to receive International Emmy"
     excerpt: "Donald Trump Jr. tests positive for the coronavirus. Model predicts more deaths. Thanksgiving during a pandemic happened before. Latest COVID news."

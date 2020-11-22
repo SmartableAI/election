@@ -1,0 +1,51 @@
+---
+category: news
+title: "Chris Christie calls Trump's legal team a 'national embarrassment' "
+excerpt: "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n"
+publishedDateTime: 2020-11-22T18:26:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Ivanka Trump calls legal inquiries into Trump business political ‘harassment’"
+    excerpt: "The president’s daughter was responding to a New York Times report saying investigations now include tax write-offs that appear to involve her."
+    publishedDateTime: 2020-11-20T03:48:00Z
+    webUrl: "https://www.politico.com/news/2020/11/19/ivanka-trump-investigations-harassment-438561"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/84/b8/cceb76c04cf4a74a543235e77f6e/181128-ivanka-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+
+secured: "iwzjiTf+DhHFzDKhNoaqliWgOQvtaf3WTJKKQ+NRhr9/Egx8NV01OXmLq7foBvxEfdbudm0NQ3tjg0WY7iQ1klYFM4u1IgnKu7v8REo45z7FbEL5pK5JeFAAbXUkwBEVTvUZZILBedosEE8QJLituKyz7NAtXpWdNgcBzbP/9Vxv0C+c01RMNVVomHGoJt5SEG6eykWNbNd1A70RXowZjRosgG6hnrIvhR8dbS7Nx20JQeWsqwdOPRlf+qkT/MrT/Fentnc4Sbwwxn5u4fK6SrcAVkXMr/l3s9LXrW8JlHGvXbHW5Epy0JInQWqo+YD791AYyMxiu49yPjWiGMFnBmZXYokNlrdbaqpnN3AtKhY=;rs+kQvBNcZHH8HVGIg+ebQ=="
+---
+

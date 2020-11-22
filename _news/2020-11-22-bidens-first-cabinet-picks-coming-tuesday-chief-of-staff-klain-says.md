@@ -3,8 +3,8 @@ category: news
 title: "Biden's first Cabinet picks coming Tuesday, chief of staff Klain says"
 excerpt: "President-elect Joe Biden will announce the first of his Cabinet picks on Tuesday, incoming White House Chief of Staff Ron Klain said on Sunday."
 publishedDateTime: 2020-11-22T14:58:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2820GO"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2820GO"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN2820GO"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet-idUSKBN2820GO"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820GO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820GO"
 type: article
@@ -133,6 +133,6 @@ related:
       domain: businessinsider.com
     quality: 98
 
-secured: "Y717Ae+hFci8pXujz8pLf3UlOv0FYdhP6PNaMspYp30Q+DzTDcQm/xnnhFhiUpCuknB1i+fikjHPp1a1czJ+Zo7h/bHSG/8nlRg+Zs2qlAQGfoe9L64TmcS0tKA61rGvpEi8eas/nI5ogoDneg+gyhnXFMvIy3k15/IwqP5Zv5+xb1G9XEgoiMYVzumaiEPbOzT1EMHNWXcq3Evynu7LzW8PDZIz5T0OjTpaRPvt7VmNxuEL1CRVbJltuw81w4LcQZQDOLJps5Wl039iCE7DBQsIfONC5XSwX0syCLprnkeE4RHeQC+pilRMCdIUvRWpN0FMe7am4y7ygET5px5g24Hq1+uWtXf07HkbV35SLXs=;looB/fwbb9oPZA1STv+B5w=="
+secured: "02kTSctyQyz5S+d+NjJlJWwaNVqLulZsjh0aJy6YwNmjIhtT7JgpgjoKlOe251qhBIsfLaq/ZyLtWWY+IMwk/NWyjgTHCzaiJV9DbCw9mPSLll4AWpcxkO8SWZOiCDDWHhhxQ5iVhz45M/YZmFYF4f1B+hkWVgzd2YYf359I93qrManSRv00b7uh4U5CycF2NixvXTGWrsecoS4pl90yH0vfAglmeoyDmCRghYygiAkJ95Hx+Eq4/z6QdrEUmp0IrNZSoWWoJOxt78espTNUscFSSw23/0eXoWGTYethOWfGr/NEeywTpC3eSjj/KOlzyteU4q5koSPhk5kVmgzRmeI0/OA3bqj+9z8XgJMCOnA=;RtZI+a2P17LHIoUw70ay3g=="
 ---
 

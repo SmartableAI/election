@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump team making false argument about his 2016 transition"
+    excerpt: "Donald Trump and his allies are harking back to his presidential transition four years ago to make a false argument that his own presidency was denied a fair chance by Barack Obama’s team for a clean"
+    publishedDateTime: 2020-11-22T17:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
     excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
     publishedDateTime: 2020-11-17T16:09:00Z

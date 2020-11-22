@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp"
 type: article
 quality: 199
-heat: 939
+heat: 959
 published: true
 
 provider:
@@ -332,6 +332,22 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Higher education groups ask Biden to reverse Trump orders on Title IX reform, critical race theory"
+    excerpt: "Groups representing colleges and universities have urged President-elect Joe Biden to “move quickly” and undo many of President Trump’s orders that affect higher education policy, including Title IX reform and critical race theory."
+    publishedDateTime: 2020-11-22T17:15:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QabenjQQm4/higher-education-biden-reverse-trump-orders-title-ix-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/higher-education-biden-reverse-trump-orders-title-ix-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/higher-education-biden-reverse-trump-orders-title-ix-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcb73ed2-d096-4c2f-8bbf-41e6cf993a64/374ed0ec-5351-4c8c-b62c-0eca14538fda/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

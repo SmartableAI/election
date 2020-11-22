@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3767048001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767048001"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump team making false argument about his 2016 transition"
+    excerpt: "Donald Trump and his allies are harking back to his presidential transition four years ago to make a false argument that his own presidency was denied a fair chance by Barack Obama’s team for a clean"
+    publishedDateTime: 2020-11-22T17:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

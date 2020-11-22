@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chris Christie dismissed Trump's legal team as 'a national embarrassment'"
+    excerpt: "The former New Jersey governor and staunch ally of the president said that in cases of voter fraud, there is \"an obligation to present the evidence.\""
+    publishedDateTime: 2020-11-22T17:31:00Z
+    webUrl: "https://www.businessinsider.com/chris-christie-trump-legal-team-courts-contesting-presidential-election-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f7904f6282c500018c7875e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "XE1MuXrKDmXEjgLTi0C8064DbEyldZwcrbZsgh8zhHB16K2Wn+RjU2HmETskdKj2NqRY8fRPj3hNJCt4ClFFfjwQP+hjVpf2oXuzKyoB7+5uqoQi2a2hokmuuVNNuVZUS2Q1YuXjEZdUTF8T/0kDydcDYC8vZR3L1TNjNLVPcA/Oq18al2XG5o2mxpiPUXKZwf9MMVbkn+8dQJyHugYdNnB6GveHI+hboUvJjN+xZ7Xf2umuw04hk0BW8quYl9D+n6J8I58aaj2PPR6QaOI1/igWViKZLTOpyzbt/mYq56uUGTySV1VxSUOwsuNnqsBnC5nzEmFamSsvL5tsnWPGmmckS0Y3mS4ma46ZZ0DHIGiIUl9q6dXgpxTmeDpsYbz0kPY71TssrVMLGNl2xdZLpsv/1Rr/+Oo7cpAEZT/trjwkabC51CJ7K48RJxvS6jCUa8KUu6LdLmmWi9yZqwVXCqeGT9od7sbhddcottP+Rd52xrQEECQ6fw04wdKKy0w0qd2hyKVngcV72fnTV5txZQ==;3zpUupVMyAWkXzMVIJxgRA=="
 ---

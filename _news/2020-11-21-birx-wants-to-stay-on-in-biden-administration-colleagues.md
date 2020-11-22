@@ -63,6 +63,22 @@ related:
         width: 832
         height: 545
         isCached: true
+  - title: "Biden inauguration will be scaled down amid COVID, aide says"
+    excerpt: "The inauguration of President-elect Joe Biden will be a scaled-down version of the usual traditions that will not endanger Americans health amid the coronavirus pandemic, a top aide said on Sunday."
+    publishedDateTime: 2020-11-22T17:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-inauguration/biden-inauguration-will-be-scaled-down-amid-covid-aide-says-idUSL1N2I80B7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820LG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820LG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542071473&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0DT"
+        width: 689
+        height: 545
+        isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
     publishedDateTime: 2020-11-11T00:29:00Z

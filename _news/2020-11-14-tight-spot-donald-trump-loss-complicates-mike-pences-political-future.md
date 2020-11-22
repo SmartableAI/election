@@ -855,6 +855,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump administration exits Open Skies Treaty"
+    excerpt: "The withdrawal comes six months after President Trump announced his intention to exit because Russia has been violating the pact."
+    publishedDateTime: 2020-11-22T18:26:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/2020/11/22/trump-administration-exits-open-skies-treaty/"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/2020/11/22/trump-administration-exits-open-skies-treaty/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/2020/11/22/trump-administration-exits-open-skies-treaty/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DIFPWZRM4II6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -985,6 +1001,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump's Election Lawsuits Explained"
+    excerpt: "Navarro asks Ross Garber of Tulane Law School about the lawsuits filed by the Trump campaign and its allies."
+    publishedDateTime: 2020-11-22T12:20:00Z
+    webUrl: "https://www.npr.org/2020/11/22/937708523/donald-trumps-election-lawsuits-explained"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
     excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."

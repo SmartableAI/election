@@ -189,6 +189,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's legal team cried vote fraud, but courts found none"
+    excerpt: "As they frantically searched for ways to salvage President Donald Trump's failed reelection bid, his campaign pursued a dizzying game of legal hopscotch that centered on the biggest prize of all: Pennsylvania."
+    publishedDateTime: 2020-11-22T17:52:00Z
+    webUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-legal-team-cried-vote-fraud-but-courts-found-none-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "lypg/BkUFPRvv6yCFm1KLlojGbLEBNPXVAB5WyCynkllQltuccTuYZMW5M5gbmcpjZQ9z+1fjoV4vBwttiORNhy2+O0nar4KMeN2P4juCH3RASpy5S7y4d7/Xv3b3vt36Xolfui6PFwGsq0T33xrjIM9gfx3IX341riivEzzgzGG3fRNl0i9UA9oWN9+I813+YjrBhcPG0ixwdfsNNwKb2nC9v3SiAoZp0ysSoukQviEnlCTzXGeo8DBlTrlXFLXtrEXi4sEwfsfK7JTocOD8u8uzsodOhKbH1RTpNfAc4A+C8q7vkoi5cLlt6xughFHTRryS3FSoT/1Lm3fOKIM+8MtvVNNf/8SUKZi0f796Fs=;sWJ2G2v/NS/fxtFV+0Wsxw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
 type: article
 quality: 119
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Chris Christie dismissed Trump's legal team as 'a national embarrassment'"
+    excerpt: "The former New Jersey governor and staunch ally of the president said that in cases of voter fraud, there is \"an obligation to present the evidence.\""
+    publishedDateTime: 2020-11-22T17:31:00Z
+    webUrl: "https://www.businessinsider.com/chris-christie-trump-legal-team-courts-contesting-presidential-election-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f7904f6282c500018c7875e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "tCJxDvOaqKXqVPA/Aao5yOSainn70FLBDaFVdP5owPygQQJ+20/uBaxJs8t6vx3EqlRy9uYBXVmyvf9sgc2XBiz4I0MaXKnoa9/0BTjH8U7Wp04+uGZaq74bgvezI0szqj+aueVCSbw/8tm+DMC0aOeJOiKFjH38wQY9nzz9IOGJfOIQXReBm/vWNydLDZRUw0kVjr4Xypurrbqo6ujYwxzATwcZHfY9aayGc7mqFikugAB5y6oY7dA0NJ0ojQ477zSO7JgUj13WlwSWgzn2PZt1nJKvWkxefInxtIXJgSvTpD66l6JFQQ0ub1XaWVA0TiUQZDyYsDX6jUIcVQZmCJMJYZDBagiBwArbvKHvkHgs+OS3C6sFVP4oDg7zbE9diDtvA99CPzdNWhJBZuwyze4ydI/jl2rj99zQnnzP40dAmY3thiq//qn3++Y4gOti4ETQUxAiexT1YWmoHjaM2X3e5V1mT8Fp3md+2fTeMAZe28pENtsg5aGlllxOy7Qb93yTj869Z7fc65QKTaTb0A==;Yw03hldB08gyhY2blzsTtw=="
