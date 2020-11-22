@@ -79,6 +79,22 @@ related:
         width: 708
         height: 545
         isCached: true
+  - title: "Election 2020 live updates: Donald Trump Jr. positive for COVID-19; Georgia certifies Biden win"
+    excerpt: "Georgia Gov. Brian Kemp signed off on the certification of President-elect Joe Biden's election victory in the state and its 16 electoral votes."
+    publishedDateTime: 2020-11-22T13:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/20/election-2020-updates-biden-wins-georgia-dems-demand-gsa-briefing/6353572002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6353572002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6353572002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 143
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/06/USAT/7da9e214-2513-48d8-9b55-867bdcefce8b-AP_Election_2020_Georgia_2.jpg?auto=webp&crop=5356,3013,x0,y272&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tight spot: Trump loss complicates Pence's political future"
     excerpt: "For Vice President Mike Pence, a second term for President Donald Trump would have been a ticket to Republican frontrunner status for 2024"
     publishedDateTime: 2020-11-14T00:07:00Z

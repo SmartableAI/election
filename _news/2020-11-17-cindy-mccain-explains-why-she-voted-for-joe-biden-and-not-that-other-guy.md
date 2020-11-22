@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Biden's first Cabinet picks coming Tuesday, chief of staff Klain says"
+    excerpt: "President-elect Joe Biden will announce the first of his Cabinet picks on Tuesday, incoming White House Chief of Staff Ron Klain said on Sunday."
+    publishedDateTime: 2020-11-22T14:58:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2820GO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820GO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820GO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542065250&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL09T"
+        width: 849
+        height: 545
+        isCached: true
   - title: "Joe Biden taps Ron Klain as chief of staff"
     excerpt: "Watch \"President-elect Joe Biden taps Ron Klain as chief of staff as Trump continues election fight\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-12T12:10:00Z

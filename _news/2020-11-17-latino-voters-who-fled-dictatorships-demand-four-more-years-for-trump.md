@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6257746002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6257746002"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FMDZT4PMMJABVGESEOJQP6BKA4.png&w=1440"
         width: 1200
         height: 675
+        isCached: true
+  - title: "BONUS: WHAT'S NEXT FOR TRUMP?"
+    excerpt: "In this bonus episode of Up First, It's Been a Minute host Sam Sanders explores what might happen to Donald Trump after he leaves office. This episode breaks down ongoing investigations and lawsuits into Trump and his family,"
+    publishedDateTime: 2020-11-22T11:50:00Z
+    webUrl: "https://www.npr.org/2020/11/20/937270241/bonus-whats-next-for-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/20/UpFirst_New_Logo_NPR_Small_wide-f01c27b52e6edc22229e2621c6064fe967306656.png?s=1400"
+        width: 1400
+        height: 786
         isCached: true
   - title: "Spokesman: Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms"
     excerpt: "Trump's son Don Jr. has tested positive this week for coronavirus, has been isolating and has no symptoms. 24/7 coverage of breaking news and live events"

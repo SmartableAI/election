@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Georgia Secretary of State certifies election for Joe Biden"
-excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
-publishedDateTime: 2020-11-21T03:05:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
-webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
+excerpt: "Georgia’s top elections official on Friday certified results showing Joe Biden won the presidential race over Republican President Donald Trump."
+publishedDateTime: 2020-11-20T20:44:00Z
+originalUrl: "https://www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/"
+webUrl: "https://www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/"
+ampWebUrl: "https://www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/20/georgia-certifies-election-joe-biden-winner/amp/"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c2dc6b238d6848fea993f5423697ffc3_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.denverpost.com/wp-content/uploads/2020/11/Election_2020_Georgia_72219.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -661,6 +657,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Ev7HWQZGhhEibRaXsEBaD0EL0RQ9l7IISJnGiqTTUoFD76YvKYKZIfswXwa0feZOwuQS5JSqJktXCalikW+sQ8YrmlEsXvCQOLEKeuBCkLFf+ZoNGTPHqsno8jtSUndg0my+5CxRGR1LejbnPFHLIAZaILbzvVYOp6YpNDng2sBjM3lUIFhoUU5V2MjdvnzCU/OmFJDn8Qbtswmzn6xLNzZoL/qTGI8Kc6PpAkQFhGCRRiaYwS5GbNKGylWxXmR3kQZ1eg4wktLwDesQI5tTaExr78uryleb5W94sR/+pP/yV6Cxs/NByGHRNFBlrBoHXWc+rIRodpSMrQ9EelKw+XPzXv7rvIWR6JYoia/ofnfhI9vtWtwqeeeuxU44CL4xYMICmes0Ha6faDOM4ZqqzG/V9dnpd78geHeOoL3R6vK5DExENIogo/5EpHAA9Yjht9iWveTXqjPe3sAdFzCVLEXzrn0VCPVWGGptZUHtKrDqtaxirzIcnemOxzJUcHnP1eFf8QGrMT3acm1gltHrbw==;My25SgGQQxH0i2YaVOmi/A=="
+secured: "esq2IqEJx8cgOEU9kfS3iuVy89RC/B11gFkaHj9guiMzlFVlXGT1FWk3QxRBPGuaKB+yVNpv/VHIBviOu+YpiN9d5wh14B3k9EEFl0c8sXf+h84hnLW5vJWR1EiFZQzBAKfV+MzM6dCkUim9UD6nJ7LnkAjDvnrOAiKElIOavrERkQWKIsL+2ZuqrXFJcDcFqk4avcOkUODp1pXjUZl3irruFWBM/WZnqdl9Z94qK+vRgzV3q7bhRal2ampdWvH9brGFi5BkGOSt3gaNtgSbea1+QqNvde86wSa3Grb3A+BkzG+tjIW6NGaV1z6ieOfRUNGIhSOw4mou84OQyjQFdkV0Wz66oRLtJX4kn8Cr0aY=;U65sb5K5/KsHMsmwj1Afyg=="
 ---
 

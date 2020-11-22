@@ -368,6 +368,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Presidential Transition Live Updates: Trump Suffers Another Legal Loss, This Time in Pennsylvania"
+    excerpt: "Business leaders called for an orderly transition. Senator Kelly Loeffler of Georgia tested positive for the coronavirus and then received an inconclusive result. And the White House scheduled three more executions to take place before the start of the Biden administration."
+    publishedDateTime: 2020-11-22T14:06:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/21/world/21transition-briefing-pennsylvania-promo/21transition-briefing-pennsylvania-promo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "6wPC6iGlxukFqClLsgXkVPBMN1hH4XCu0pQIclIXyuGflXSzS5TTAvp2TnLSRhSIY7hQC0J6++Jr5CT+lx0r5B7a/GkF4WzIU2x9/6HNjvrBB9QQL6Xh2ARIFMla2CfM2p6ETmX9Xe/p5YKSE7PcD3r6n1jwSfKrrCF+qaidzzFgljHuwH5UHm+vu2aXYPhnTnFfsXmu6FnQJKv/WkaHl04ynzx4OKQJ0gkXFLlE3Xxyrive6DFhqhGPKNMsZkJxIVG4Y5ZywufvcbWii9wBqquMRxNPzmO7d1605Ogr4RE2YtZJxomtuSVyU0Ma8DuIreEbHi/RbZHflf1UyKfXwKr0M0bD5I3srG5+6yprRmQ=;1iwW3qEBZ8s8b7XCw6v8Lw=="
 ---

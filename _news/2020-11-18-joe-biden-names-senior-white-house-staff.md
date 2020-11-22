@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rahm Emanuel, who opponents say conspired to cover up murder of Black teen, could be Biden's Cabinet pick"
+    excerpt: "Rahm Emanuel may be on the shortlist for President-elect Joe Biden's Cabinet, but the same issues that derailed his reelection for mayor of Chicago -- namely his record on social justice -- are likely to resurface again as Biden makes his final picks. "
+    publishedDateTime: 2020-11-22T14:51:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eN1oB6WQJ6w/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden appoints two former lobbyists to senior staff"
     excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
     publishedDateTime: 2020-11-20T05:36:00Z
