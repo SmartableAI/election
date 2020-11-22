@@ -49,7 +49,7 @@ related:
         isCached: true
   - title: "Georgia Secretary of State certifies election for Joe Biden"
     excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
-    publishedDateTime: 2020-11-20T22:15:00Z
+    publishedDateTime: 2020-11-21T03:05:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
@@ -430,6 +430,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541716689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI08O"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden Won The Election—But He's Still Left Waiting In The Wings."
+    excerpt: "As President Trump refuses to concede the election Joe Biden won, Biden warns that that lack of cooperation on the transition could lead to even more deaths from the coronavirus.This episode: reporter Danielle Kurtzleben,"
+    publishedDateTime: 2020-11-19T20:32:00Z
+    webUrl: "https://www.npr.org/2020/11/19/936736673/joe-biden-won-the-election-but-hes-still-left-waiting-in-the-wings"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/19/gettyimages-1229297768_wide-7b13db2b5f417fa0b97794aa7d929a14e38f3cc3.jpg?s=1400"
+        width: 1278
+        height: 719
         isCached: true
   - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
     excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."

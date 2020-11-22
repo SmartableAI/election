@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.md",
+      "title": "LIVE UPDATES: Trump criticizes Biden forming Cabinet amid election legal challenges",
+      "excerpt": "Follow for the latest updates on the 2020 election and transition.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs3o2ZWLLek/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs3o2ZWLLek/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 919,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb1aa8f3-0458-4a03-be2d-54c95d1ecb93/2e7295ff-211b-4097-a629-4eb9be3afbb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp",
+      "publishedDateTime": "2020-11-21T23:00:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-trump-campaign-requests-georgia-recount-thats-unlikely-to-change-his-loss-in-the-state.md",
       "title": "Trump campaign requests Georgia recount that's unlikely to change his loss in the state",
       "excerpt": "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n",
@@ -122,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -247,62 +303,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
       "publishedDateTime": "2020-11-21T12:02:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
-      "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
-      "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
-      "publishedDateTime": "2020-11-21T11:40:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -498,7 +498,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 940,
+      "heat": 960,
       "tags": null,
       "images": [
         {
@@ -763,6 +763,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-21-michigan-lawmakers-meet-with-trump-say-they-are-unaware-of-info-that-would-change-election-results.md",
+      "title": "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results",
+      "excerpt": "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp",
+      "publishedDateTime": "2020-11-20T17:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-coronavirus-live-news-donald-trump-jr-tests-positive-as-mexico-deaths-pass-100000.md",
       "title": "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000",
       "excerpt": "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases",
@@ -896,6 +952,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
       "publishedDateTime": "2020-11-20T16:13:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-former-gop-sen-corker-slams-trump-legal-challenges-calls-on-republicans-to-challenge-demagoguery.md",
+      "title": "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'",
+      "excerpt": "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
+      "publishedDateTime": "2020-11-20T11:44:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1244,105 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-trump-digs-deeper-into-debunked-conspiracy-theories-instead-of-embracing-reality.md",
-      "title": "Trump digs deeper into debunked conspiracy theories instead of embracing reality ",
-      "excerpt": "At first, President Donald Trump's refusal to concede an election he clearly lost appeared to many of his allies a temporary stage of grief. Give it a few days, some shrugged. A week, tops.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-3-GJql1x0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140503-02-white-house-1118-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/trump-conspiracy-theories-election-2020/index.html",
-      "publishedDateTime": "2020-11-20T06:52:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-vp-mike-pences-daughter-delivers-powerful-explanation-of-where-sin-can-lead.md",
-      "title": "VP Mike Pence’s daughter delivers powerful explanation of where ‘sin can lead’",
-      "excerpt": "Doubt is a normal part of any faith journey, but how do doubt and sin interact — and what role does spiritual uncertainty play in pushing people away from God?",
-      "sourceUrl": null,
-      "webUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "originalUrl": "https://www.christianpost.com/news/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.christianpost.com/files/cache/image/13/91/139137_w_400_601.jpg",
-          "width": 400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "cdnAmpWebUrl": "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html",
-      "publishedDateTime": "2020-11-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Christian Post",
-        "domain": "christianpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

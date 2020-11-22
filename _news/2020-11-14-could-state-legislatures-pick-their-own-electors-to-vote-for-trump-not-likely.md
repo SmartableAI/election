@@ -892,6 +892,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Antibody Treatment Given to Trump Gets F.D.A. Emergency Approval"
+    excerpt: "Europe, despite some progress, remains in a fierce fight with the virus. The U.S. case total passes 12 million, and hospitalizations soar past 82,000."
+    publishedDateTime: 2020-11-22T11:26:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/us/21virus-briefing-europe/21virus-briefing-europe-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "How Trump Hopes to Use Party Machinery to Retain Control of the G.O.P."
+    excerpt: "Ronna McDaniel, a close ally of President Trump, wants to remain head of the Republican National Committee, worrying party members who believe the president will try to use the group to keep control of the G."
+    publishedDateTime: 2020-11-22T10:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/trump-gop-control.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/trump-gop-control.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/trump-gop-control.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
     excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
     publishedDateTime: 2020-11-12T01:39:00Z

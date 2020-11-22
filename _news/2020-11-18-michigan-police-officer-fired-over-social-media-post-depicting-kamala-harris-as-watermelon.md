@@ -268,6 +268,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Sheriff’s court deputy fired after posting photo of Kamala Harris watermelon carving"
+    excerpt: "A part-time court deputy with the Oakland County Sheriff’s Office was terminated after she was found to have posted a photo on social media showing Joe Biden, Donald Trump, and Mike Pence"
+    publishedDateTime: 2020-11-21T20:57:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/michigancop.jpg?w=780&h=438"
+        width: 780
+        height: 438
+        isCached: true
   - title: "Kamala Harris Elementary? Berkeley vice mayor wants school renamed to honor vice president-elect"
     excerpt: "Vice Mayor Sophie Hahn introduced the resolution to the City Council on Monday to urge the school district to begin the process of renaming Thousand Oaks Elementary School after vice president-elect Harris."
     publishedDateTime: 2020-11-12T02:25:00Z

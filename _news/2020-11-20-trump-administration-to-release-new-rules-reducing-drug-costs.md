@@ -32,117 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Giuliani presses Trump election challenge case in fiery news conference with legal team"
-    excerpt: "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country."
-    publishedDateTime: 2020-11-19T18:31:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+  - title: "Trump seizes on local Nevada race to raise suspicions of wider problem"
+    excerpt: "President Trump called Nevada’s Clark County's decision to decline certifying one of its local races due to a number of discrepancies “a big victory,” and suggested that the issue could be evidence of a wider problem in the state."
+    publishedDateTime: 2020-11-17T07:35:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AbxyA80riSg/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-seizes-on-nevadas-clark-county-commission-race-to-raise-suspicions-of-wider-problem.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump slams delay in North Carolina vote count, presses for Arizona audit"
-    excerpt: "President Trump on Thursday slammed the delay in counting votes from the 2020 presidential election in North Carolina — a state that has yet to declare the president or Joe Biden the winner — while urging an audit in Arizona, as he and his campaign continue to fight for recounts and mount legal battles"
-    publishedDateTime: 2020-11-12T14:14:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5XPiMn-N8y4/trump-slams-north-carolina-election-delay-vote-count-arizona-audit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-north-carolina-election-delay-vote-count-arizona-audit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
-    excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
-    publishedDateTime: 2020-11-18T14:37:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+  - title: "Trump’s conspiracy claims will have long hangover"
+    excerpt: "What we're trying to illustrate is that not all conspiracy theories are alike."
+    publishedDateTime: 2020-11-18T22:23:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xuSVrjzD4M/trumps-conspiracy-claims-will-have-long-hangover"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
-    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
-    publishedDateTime: 2020-11-20T14:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+  - title: "Trump Partner Shelves Office Tower Sales Effort That Hoped to Raise $5 Billion"
+    excerpt: "The Trump family’s partner in two of its most valuable properties halted plans to sell the buildings, cutting off what could have been a big cash payout for the Trump Organization, which has hundreds of millions of dollars in debt coming due."
+    publishedDateTime: 2020-11-20T20:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-partner-shelves-office-tower-sales-effort-that-hoped-to-raise-5-billion-11605903350"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-262906/social"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'"
-    excerpt: "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results."
-    publishedDateTime: 2020-11-20T19:44:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery"
-    ampWebUrl: "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg"
-        width: 1280
-        height: 720
+        height: 640
         isCached: true
 
 secured: "D+3nlxhhRI6QLBv3Hf5qoEey9uO8kMgldj5QVnGo0/LvHFQAq5cXMeSX+BllzgwdxhxtJG9cVYvFsRzF74FFXfJZwwwYn4UYgxpIOM8thv+IyYFDpTUzDmvZiY/faUN3afRtL0FU1X4N6IFinvUd26wIrpd5HKnUyKhJy8Ou0yMLbL2YJYYa06KgVBpiit+kMVc7t19hZVRbFn8JyXiM4PBhiv1i1kGXfB1ja4TnWBepf8pc0Fdnn91SzJrXhGFe7axhTZK7RSdE1FNkTppo2wOl6U3MpPgFZFI1ovEwyYm2u6lB4dVwnYvE3C7tGlRPVOLx8SQFrmM/AlB25TWvCNFSNacOIAuV5G1F4qccUEs=;WIS2eEPKKvQi0euA4pzm2g=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-imm
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
 type: article
 quality: 163
-heat: 183
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
+    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
+    publishedDateTime: 2020-11-17T19:51:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
     excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
     publishedDateTime: 2020-11-19T15:25:17Z

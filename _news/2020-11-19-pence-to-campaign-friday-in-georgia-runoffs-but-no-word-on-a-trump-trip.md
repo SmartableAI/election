@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 559
+heat: 579
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
       - url: "https://images.wsj.net/im-263331/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump campaign files petition for Georgia recount"
+    excerpt: "President Trump’s campaign announced Saturday that it has filed a petition demanding a recount in Georgia — a day after officials certified Joe Biden’s victory in the state."
+    publishedDateTime: 2020-11-22T10:34:00Z
+    webUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/"
+    ampWebUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/E5F4B63F-C065-4346-8049-42B88D89FB7F.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
     excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."

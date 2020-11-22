@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Don Trump Jr. tests positive for COVID-19"
-    excerpt: "Donald Trump Jr. confirmed with Fox News Friday night that he tested positive for the coronavirus earlier this week and is now under quarantine."
-    publishedDateTime: 2020-11-20T23:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZMX428iCZbg/don-trump-jr-tests-positive-for-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump to Participate in Virtual G-20 Summit This Weekend"
     excerpt: "President Trump will participate in the virtual G-20 summit, held this weekend in Riyadh, Saudi Arabia, according to a senior administration official."
     publishedDateTime: 2020-11-20T22:02:00Z

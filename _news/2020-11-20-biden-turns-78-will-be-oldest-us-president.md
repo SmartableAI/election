@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden’s campaign manager headed to White House as deputy chief of staff"
+    excerpt: "Joe Biden’s presidential campaign manager, Jen O’Malley Dillon, will serve as deputy chief of staff in the White House come January."
+    publishedDateTime: 2020-11-17T02:59:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Wj8T0kTaas/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-campaign-manager-headed-to-white-house-as-deputy-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House leaders urge Democrats not to join team Biden to maintain majority"
     excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
     publishedDateTime: 2020-11-16T03:09:07Z
@@ -92,6 +108,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315617426290.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "LA Mayor Garcetti caught between local troubles, possible Biden cabinet position"
+    excerpt: "Los Angeles Mayor Eric Garcetti has avoided answering whether he’d leave his current position if a cabinet position was offered to him in President-elect Joe Biden's administration, but speculation has continued to mount, according to reports."
+    publishedDateTime: 2020-11-13T05:10:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UdakTKT3mGU/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/la-mayor-garcetti-caught-between-local-troubles-possible-biden-cabinet-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1198708520.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

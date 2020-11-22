@@ -49,7 +49,7 @@ related:
         isCached: true
   - title: "Georgia Secretary of State certifies election for Joe Biden"
     excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
-    publishedDateTime: 2020-11-20T22:15:00Z
+    publishedDateTime: 2020-11-21T03:05:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
     ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
@@ -431,6 +431,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Won The Election—But He's Still Left Waiting In The Wings."
+    excerpt: "As President Trump refuses to concede the election Joe Biden won, Biden warns that that lack of cooperation on the transition could lead to even more deaths from the coronavirus.This episode: reporter Danielle Kurtzleben,"
+    publishedDateTime: 2020-11-19T20:32:00Z
+    webUrl: "https://www.npr.org/2020/11/19/936736673/joe-biden-won-the-election-but-hes-still-left-waiting-in-the-wings"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/19/gettyimages-1229297768_wide-7b13db2b5f417fa0b97794aa7d929a14e38f3cc3.jpg?s=1400"
+        width: 1278
+        height: 719
+        isCached: true
   - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
     excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
     publishedDateTime: 2020-11-21T01:15:00Z
@@ -647,6 +661,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "KmmI3OxL3IvD1bCBKMOFOlQ0dlp7TwrtC+bitA6YnboWaGTfYKO9hDDBo13nupOXmMPYRiISR/4hxxcnjYFd83caZIvbn7+2XiKLk+w8mm9at7tJL2c5EzxoabQ7wBdYdRcO8Iz76qw5YDBPF+qpzZ2lneyN3IpFbnn3yrhfBH8xX6mXKTixnl2oecJcuFDhaIW6bS3BoD8uEsyZVlY1pDmd7W+Y4rsqZAC1Kd/hz4DrOVARcfk/9PsOvmSYwnEGrpa8vOGP5cJR1bYbonVoDJzTfQ6gRD2OnuE/6FL5GF0luyS/Uj1Y2hFtEfQh80JWal797tnO4i8oD+MKVEFiGd6Thyj6rLFbWNi4ac/mUtM=;SW+vDK8l4jQdBJCoMErgHA=="
+secured: "PzykoMdMMPuSPCwFWY38g5wY3t7tcjiXYEx6SQUCzpvDl36yRhVmkhBxEyEW/KjfF1rDkqoof1soXyzi9CErRvy3w+FkIvj5f9c96ojc0hmUqCbgLonYeEZ9cI1OPM76cmZ8kKm6ZjCrayP5x/wwydAE4dtDt81GNgOuLHgU6bGikE15MCyFFvKHS0Rr0vGpxJvJWONRhcLisASC7caybJ1S7jk+G/hGytaRcNJKi2NuEG/+Dd4KOUQiJVqufD4TNV2Ce6bPwaHa14qgq/wyJNbvbKWwO9PtWxu6e8YXEL/m3/Rmmx/QQSSUs99mOoI+PSPS1D2mKBw8WKlYeTuFdIL0BEIbq3DNX0hLqs2deCw3nXFOMUg6/PS7gOlambM3GjhELeyS7FEAzy+x2eF0vSfIVuUYVPIRvMLXR7Mh8IAJCNu8icV9d/V6GQYocUiQfRpoaj8EaFVzpYuwpnS64ZGAwTyx5ZjAxRqeXJx5wqNTEKXHDtUo/cZHEQ2QbCkN+wFBcoYn+8ZXCrddYVITPg==;vnPxD0wFxRgacuN3JOhlOw=="
 ---
 

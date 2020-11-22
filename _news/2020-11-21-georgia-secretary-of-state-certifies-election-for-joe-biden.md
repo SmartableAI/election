@@ -2,7 +2,7 @@
 category: news
 title: "Georgia Secretary of State certifies election for Joe Biden"
 excerpt: "Georgia’s top elections official has certified results showing Democrat Joe Biden won the presidential race in the state"
-publishedDateTime: 2020-11-20T22:15:00Z
+publishedDateTime: 2020-11-21T03:05:00Z
 originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
 webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
 ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-secretary-state-certify-election-biden-74314636"
@@ -415,6 +415,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden Won The Election—But He's Still Left Waiting In The Wings."
+    excerpt: "As President Trump refuses to concede the election Joe Biden won, Biden warns that that lack of cooperation on the transition could lead to even more deaths from the coronavirus.This episode: reporter Danielle Kurtzleben,"
+    publishedDateTime: 2020-11-19T20:32:00Z
+    webUrl: "https://www.npr.org/2020/11/19/936736673/joe-biden-won-the-election-but-hes-still-left-waiting-in-the-wings"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/19/gettyimages-1229297768_wide-7b13db2b5f417fa0b97794aa7d929a14e38f3cc3.jpg?s=1400"
+        width: 1278
+        height: 719
+        isCached: true
   - title: "Mike Pence campaigns in Georgia for Senate runoff elections"
     excerpt: "Vice President Mike Pence is campaigning in Georgia ahead of the two Senate runoff elections there in January. CBS News campaign reporter LaCrai Mitchell joined CBSN with details on that and the outcome of the recount in Georgia."
     publishedDateTime: 2020-11-21T01:15:00Z
@@ -647,6 +661,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "j2Zd1H35bpeEBY3sBhexwoTeeXYZTlR9AWVpfWf1OAw6A/Q+Mpoqt2xb8kzGgGb3ChDzFZlUH+VgMP8M+8hGU9T9H2+U8YYz/OS2nzg5r0M1PsjyDr+UYNTAtEpovotT3yYX52tqgGKlRFnvV3yplPCDid/GQz7L7szJMm1Q99MDv+1Iy08xozjmdJEYr4h3Fefhan01KkAg5QyitM1LwAuKfCNKKb38RBNdQFS3Crnzl5j9ibXfzB4+qfHeCeGsGjUDNSWYdO3dp65c8aBKe9XjSyCXnMNDr2QP4wEge3+RNPQ9O7MDywMfa0TY4lJEohW9vVEV8/mTLfLRj5L590eSwPEWpYZYzEhDlpLK86Tz/48UhmbDWaro63by8D4KMTqTsJAQ2fP9Gao13Z99dDrA+kvpRQ2o58LvCr/vwBtcbPAqjGlp8FOyhp31y/1fe8MQHQJ+Yq1TULKJADmDz/P/qNID/gJDaY5gGBSMNxsnysPoJRoHExrQSz1u9u9G8A4aA8A8qC+L7hQFn4+zUw==;whLkU3snRRJjVrRkNYKlKQ=="
+secured: "Ev7HWQZGhhEibRaXsEBaD0EL0RQ9l7IISJnGiqTTUoFD76YvKYKZIfswXwa0feZOwuQS5JSqJktXCalikW+sQ8YrmlEsXvCQOLEKeuBCkLFf+ZoNGTPHqsno8jtSUndg0my+5CxRGR1LejbnPFHLIAZaILbzvVYOp6YpNDng2sBjM3lUIFhoUU5V2MjdvnzCU/OmFJDn8Qbtswmzn6xLNzZoL/qTGI8Kc6PpAkQFhGCRRiaYwS5GbNKGylWxXmR3kQZ1eg4wktLwDesQI5tTaExr78uryleb5W94sR/+pP/yV6Cxs/NByGHRNFBlrBoHXWc+rIRodpSMrQ9EelKw+XPzXv7rvIWR6JYoia/ofnfhI9vtWtwqeeeuxU44CL4xYMICmes0Ha6faDOM4ZqqzG/V9dnpd78geHeOoL3R6vK5DExENIogo/5EpHAA9Yjht9iWveTXqjPe3sAdFzCVLEXzrn0VCPVWGGptZUHtKrDqtaxirzIcnemOxzJUcHnP1eFf8QGrMT3acm1gltHrbw==;My25SgGQQxH0i2YaVOmi/A=="
 ---
 

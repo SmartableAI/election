@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Jr. Tests Positive For The Coronavirus"
+    excerpt: "The president's son, who announced his diagnosis on Instagram, said he has no symptoms and feels fine. Trump Jr. said he plans to quarantine and \"take it seriously.\""
+    publishedDateTime: 2020-11-21T16:54:00Z
+    webUrl: "https://www.npr.org/2020/11/21/937574684/donald-trump-jr-tests-positive-for-the-coronavirus"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/21/ap_20325834765888_wide-c0ccca04b1e02e8ea0ac59c4d149f229f64d7718.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Multiple people in Vice President Mike Pence's orbit test positive for the coronavirus"
     excerpt: "Vice President Mike Pence will not quarantine after multiple people in his orbit test positive for the coronavirus. Pence's press secretary says the vice president is essential personnel and will maintain his schedule."
     publishedDateTime: 2020-10-26T12:35:00Z

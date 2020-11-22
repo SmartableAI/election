@@ -37,10 +37,10 @@ related:
         isCached: true
   - title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
     excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."
-    publishedDateTime: 2020-11-22T05:37:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN282054"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN282054"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN282054"
+    publishedDateTime: 2020-11-22T10:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN282054"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN282054"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN282054"
     type: article
     provider:
       name: Reuters

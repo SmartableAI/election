@@ -143,6 +143,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elizabeth Warren's ex-chief of staff, senior Bernie Sanders adviser among members of Biden transition team"
+    excerpt: "The transition organization for President-elect Joe Biden announced its \"agency review teams\" on Tuesday, and among those who will be laying the groundwork for the Biden-Harris administration are a senior adviser to Sen. Bernie Sanders and the former chief of staff to Sen. Elizabeth Warren."
+    publishedDateTime: 2020-11-11T18:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lic4MTWjabY/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team"
+    ampWebUrl: "https://www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/elizabeth-warrens-ex-chief-of-staff-bidens-hhs-transition-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "8X55TLeX2g9lr+xALmJlR+lCXoG7pXMBpzZAEBeNd+6yb5Lj12iGuL/cT+osj5qZxuRX8fqXu+Zp9djcZrMtH0tm+QwqLzVoAflMd7IFNBuywAsBh4WvIpL/vO4ONKEZWFlEGbz0kq18u7VYushIpzzd6/2996mLJ3tvcQ1CEDbMr0Au3v2IyKaAT4oeMYfwgsGLAKHpSt/y+7XHorqipwbBAFqQW5yBWSW6ZhOKJxQ4eMoaVFMrxxOK9z0Tyl7XumUa2NXLtQcPRHyHU+3MUYMrjEY31FvUO1JNbMgQtfl+3NpkOm8hP+zHMe5qidlUVzTlC3PggUBeaSx3gSSRqB4emXRTBZ8wbJdBTjH9Wbw=;1UfRd2kHvo7NnlBzNpL6xQ=="
 ---

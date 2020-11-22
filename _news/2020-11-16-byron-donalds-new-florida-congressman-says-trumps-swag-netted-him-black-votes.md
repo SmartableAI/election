@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
-    excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-11-16T20:14:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/syhQIuAl_-s/trump-election-challenges-allegations-short-evidence-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z
@@ -186,22 +170,6 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
-    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
-    publishedDateTime: 2020-11-15T18:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -360,6 +328,22 @@ related:
       - url: "https://images.wsj.net/im-260095?size=1.5"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Trump Administration Takes Final Steps to Auction Drilling Rights in Arctic Wildlife Refuge"
+    excerpt: "The Interior Department is taking final steps to secure oil development in the 19-million-acre Alaskan wilderness by initiating a leasing process to strike deals with drillers before President-elect Joe Biden can stop it."
+    publishedDateTime: 2020-11-16T18:40:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-takes-final-steps-to-auction-drilling-rights-in-arctic-wildlife-refuge-11605551187"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-260604/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"

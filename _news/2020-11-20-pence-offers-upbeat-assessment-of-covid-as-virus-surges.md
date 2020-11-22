@@ -44,7 +44,7 @@ related:
   - title: "Mike Pence on virus: US 'has never been more prepared'"
     excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
     publishedDateTime: 2020-11-19T23:10:00Z
-    webUrl: "https://tulsaworld.com/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
+    webUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
     ampWebUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
     cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
     type: article

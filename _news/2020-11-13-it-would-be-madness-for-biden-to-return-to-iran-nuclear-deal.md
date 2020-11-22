@@ -36,6 +36,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Live Updates: Biden's lead grows in Pennsylvania"
+    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
+    publishedDateTime: 2020-11-12T05:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
     excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
     publishedDateTime: 2020-11-13T03:28:12Z
@@ -68,22 +84,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden taps reparations advocate for Treasury transition"
-    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
-    publishedDateTime: 2020-11-16T15:32:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
     excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
     publishedDateTime: 2020-11-10T01:24:04Z
@@ -99,6 +99,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
+    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
+    publishedDateTime: 2020-11-17T16:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
     excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."

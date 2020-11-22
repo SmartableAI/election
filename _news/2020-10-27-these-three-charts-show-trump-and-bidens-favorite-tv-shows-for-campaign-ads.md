@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's attempt to steal the election unravels as coronavirus cases surge"
+    excerpt: "President Donald Trump's attempts to overturn his election loss are plunging deeper into incoherence.\n    \n"
+    publishedDateTime: 2020-11-22T06:57:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V3rCceihuSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/trump-election-results-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-election-results-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021120-02-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump campaign deceptively snips video of Biden quoting the Pope"
     excerpt: "The Trump campaign's \"war room\" Twitter account has been serially dishonest, repeatedly taking quotes from former Vice President Joe Biden and other Democrats out of context.\n    \n"
     publishedDateTime: 2020-10-28T00:52:43Z

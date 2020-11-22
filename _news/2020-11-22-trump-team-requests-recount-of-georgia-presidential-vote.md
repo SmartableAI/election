@@ -765,6 +765,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Top Biden adviser seen as making tech regulation more likely"
+    excerpt: "President-elect Joe Biden’s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability,"
+    publishedDateTime: 2020-11-22T12:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tech-idUSKBN2820DC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820DC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820DC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542059149&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL07I"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -1174,6 +1190,6 @@ related:
         height: 563
         isCached: true
 
-secured: "hfknkuTRiW+lqSiBXxz0d+bpSBlNuqAAngXYaEB49U/6NrA20NP1fTC22Z+YGHpCAZ1EDnFDomH3e4uYq2FSVq/ZJbOvnTMR318f1vLGCmCgXaG9T/u/yjuiuo8Xq3PXhUT+5Yh6sp78MEPJc5BBjCYHSn1Y8vWM/lg0lRbByVWZr+HHGjT5d1BRFbdcYnymtyhxXO0JM7OgNW2o6RDJZbbR3b2sz7S87ndoUPvpT33iqUosUHBubRSrKge2AqlxyjzDNV3s1c69qmuc0/5SO/hoGhubW7lLc3/XmW/kJzOPNiZHXzsYaLNPQ+H7n9gY3fSSzacADkD3+Ng4hGYjSUsRvTZvI2L6LnXNbpQoYVo=;3NykiryVldeSX43N8KM5FA=="
+secured: "7b/vtpXgN+vfjWR9DV1v+SGgn0xtJy4Y+oq5JyHbmZmluqlnxGB+f4asBxHmxCjT7V6Ld364X+t2N3bt08Sf1vA0EwVeQ5Z79YUfTstTdeGoVe7zvgAEno3ugnXLlQVSoH/uxuwG9EFiLP26T/2DFUGWoxSlo/CmmlxuT63nn0WnFQ2nSzOLjmlcG93m+xCuGkMqnUreSct9Tfwbx32HEhJAI8lAJU6vpSr3BycRtXv3UraMvBlogNnupVXuMVRXIv/xFdKMMXWh159/uZqQAumxAF81StFQSMDS3KL1CKW3jbAmYhiZZe5vif5KlD/cD+bks8tcnhf2fG5P7rxn7b1OGW9ZXGuZlswTv9VesbWXIgdW9x+nl0T0qWTr/+l78yDDepuOBDQb6tFZ4pdhHINGdrjk7c8JsQRooqBV2wACiyMdYUm7t9J0shV/LpUNPkFe6J4wDO752bz2s1IaxTOUw/5paoi7+41YU8h25cURAl43Ebg4iwhr/VtieQFVxrJrbHTMJGIpLSvdO7KLyg==;vcMlRPdt75on62z/PYoN+w=="
 ---
 

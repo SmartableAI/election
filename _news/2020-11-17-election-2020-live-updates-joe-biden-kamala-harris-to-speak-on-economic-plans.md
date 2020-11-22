@@ -8849,6 +8849,20 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "President-elect Joe Biden moves forward with transition despite lack of cooperation from Trump administration"
+    excerpt: "President-elect Joe Biden is moving forward with his White House transition despite a lack of cooperation from the Trump administration. He met on Friday with top congressional leaders to discuss the pandemic and economic crisis."
+    publishedDateTime: 2020-11-22T04:38:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 111
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/22/933536a8-feae-449e-b0ef-91d041baf466/thumbnail/1200x630/79c11776cd93261bb89d8341cd764c93/cbsn-fusion-president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration-thumbnail-593219-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exclusive: Republicans seeking to raise at least $60 million to fund Trump legal challenges - sources"
     excerpt: "Republicans are trying to raise at least $60 million to fund legal challenges brought by President Donald Trump over the U.S. presidential election’s results, three sources familiar with the matter said on Friday."
     publishedDateTime: 2020-11-07T07:31:00Z
@@ -10053,20 +10067,6 @@ related:
     quality: 101
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/dca2106c-3a63-49bc-b603-118fd7c56e21/thumbnail/1200x630g1/3279733527c0b15579dd370f5c9d5ad9/barackobamab1920-588435-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "President-elect Joe Biden moves forward with transition despite lack of cooperation from Trump administration"
-    excerpt: "President-elect Joe Biden is moving forward with his White House transition despite a lack of cooperation from the Trump administration. He met on Friday with top congressional leaders to discuss the pandemic and economic crisis."
-    publishedDateTime: 2020-11-22T04:38:00Z
-    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 101
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/22/933536a8-feae-449e-b0ef-91d041baf466/thumbnail/1200x630/79c11776cd93261bb89d8341cd764c93/cbsn-fusion-president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration-thumbnail-593219-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

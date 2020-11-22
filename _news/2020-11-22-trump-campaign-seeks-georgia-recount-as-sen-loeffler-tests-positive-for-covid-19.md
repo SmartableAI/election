@@ -288,6 +288,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump campaign files petition for Georgia recount"
+    excerpt: "President Trump’s campaign announced Saturday that it has filed a petition demanding a recount in Georgia — a day after officials certified Joe Biden’s victory in the state."
+    publishedDateTime: 2020-11-22T10:34:00Z
+    webUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/"
+    ampWebUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/E5F4B63F-C065-4346-8049-42B88D89FB7F.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
     excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."
     publishedDateTime: 2020-11-21T07:16:00Z
@@ -319,6 +335,6 @@ related:
         height: 853
         isCached: true
 
-secured: "CfpM3Feuk7fu5FO5b20Hzsdn1iM6NgM89xbuRBY00ZOBfaBbhs1N5y44AEPur3a066wZZq9lUyRoIjjWybsiDWJYfrMCfgChsYULLlS/PjYykoVhaVO1PTAzUSf0p61c9SpWh0WF6k+wNhXn1DQIlqtj44BLH9pL4Sn9AEoH8KObJ6UUQ4NC0/mS45nuHZqYbRxlS6fqa6DsVcw8xI4LYtXnCXsNXB/7xtmGA9hkT9cQD1Tssy0R8IGtQ7CUlrh/ybijwEjQdhNZFTiqGogF/LhW1T7KZrbfmMX8StGf2ol2atn/yhU8IyWsqHocaKt0qhqQXnN8mMy++rUK0HQ6Q7lG8XkS/AXL3E4lUdHUGkk=;4XrMAMin66yibTc+VoxlrQ=="
+secured: "kKNyyzH8r2zQamkMjiwcK+bMXH8uUr21CnOzDjQKMv4bi6gA4f9xjuQ2rRT5Oo20VA7khhITrcJVIO3bIkBXg7OzNigMD8yeNsx8NWo5qI+hjKcyOBftewsGMyHi/KrTqTuIe/5klEmZXz3e1gt/arnprCEAlmj3EQM3QkKNrHRXT4XkqxN5iPPmT9pRDAGYtgczRmsvpDlM000o4n4g5b00Q/5ZY9VM+/qdO/wKsuhPTpEv614fUDX5XLQcRXJ7jhsu2Tkwi3NcmyWXeifuILyNn8xi0tH5U0+daXn3z8gY5uYBHDnkwmDcG78wQAapYVqv0LtGox/s0dzs1uF7dIyCaEwwE/fApbA2za3fs5YSyqT4ibmIpndF9ryhKwmsjdTGdlrbU648AjnfkxAbqDy9HTcpWXhzouO2ISLEkEIf+DHQeERNsHcHatrc7ZdsRDL5RO9VbXD3kH4IAwsb1PZXT3NRdxgHTFhUZjizUNHYzgp7Ld7WlzS3apxfBgrnsZnrbZEnj1bqQPZROjxf2Q==;u5IoD3oqMybC93+8HHhzSQ=="
 ---
 

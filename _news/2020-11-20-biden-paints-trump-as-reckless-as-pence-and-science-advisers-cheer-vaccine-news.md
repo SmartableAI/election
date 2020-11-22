@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 1641
+heat: 1661
 published: true
 
 provider:
@@ -749,6 +749,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Top Biden adviser seen as making tech regulation more likely"
+    excerpt: "President-elect Joe Biden’s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability,"
+    publishedDateTime: 2020-11-22T12:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tech-idUSKBN2820DC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820DC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820DC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542059149&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL07I"
+        width: 808
+        height: 545
         isCached: true
   - title: "Trump team requests recount of Georgia presidential vote"
     excerpt: "President Donald Trump's legal team says his campaign has requested a recount of votes in the Georgia presidential race after results showed Democrat Joe Biden winning the state"

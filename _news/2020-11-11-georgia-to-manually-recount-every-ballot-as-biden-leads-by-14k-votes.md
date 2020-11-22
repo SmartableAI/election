@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-election-manual-recount-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden starts staffing up with senior White House announcements"
+    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
+    publishedDateTime: 2020-11-17T16:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
+    excerpt: "Nearly three-quarters of regional voters turned out for Biden."
+    publishedDateTime: 2020-11-11T22:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1QVVz3KmJrI/biden-won-silicon-valley-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c45b08f-c341-42d0-9197-8605f61f1988/5c039d53-2a9a-4699-8848-5afb02b4bff3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
     excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
     publishedDateTime: 2020-11-10T20:19:13Z

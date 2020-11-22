@@ -31,117 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Giuliani presses Trump election challenge case in fiery news conference with legal team"
-    excerpt: "President Trump's personal attorney Rudy Giuliani on Thursday aggressively made the case for the Trump campaign's legal challenge of the 2020 election results, alleging in a firery news conference that there was a \"centralized\" plan to carry out voter fraud around the country."
-    publishedDateTime: 2020-11-19T18:31:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GDOwgGh5Z3I/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-presses-trump-election-challenge-case-in-fiery-news-conference.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324639992107-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+  - title: "Massive lines at Trump rally in battleground state North Carolina"
+    excerpt: "Supporters reportedly lined up hours in advance for President Trump's rally in Hickory, North Carolina on Sunday."
+    publishedDateTime: 2020-11-01T20:56:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j4I8cRTrRuE/trump-nc-rally-long-lines"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-nc-rally-long-lines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Trump-NC-Lines-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
-    excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
-    publishedDateTime: 2020-11-18T14:37:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp"
+  - title: "Trump investment in North Carolina's Native American Lumbee Tribe pays off"
+    excerpt: "Robeson County voters chose Trump (59%) over Democratic nominee Joe Biden (41%) after Trump held a rally there on Oct. 24, according to preliminary data."
+    publishedDateTime: 2020-11-06T15:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liGTPvgPESY/trump-north-carolina-lumbee-robeson-native-american"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-lumbee-robeson-native-american.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20298688186744.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump parade rolls through NYC neighborhood, receives surprising support"
+    excerpt: "Video taken of a pro-Trump auto parade ahead of Sunday’s chaotic “Jews for Trump” rally in New York City shows at least one neighborhood giving the parade a warm reception hours before clashes broke out elsewhere in the city between Trump supporters and protesters."
+    publishedDateTime: 2020-10-28T22:38:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sNaFob8Bmpk/pro-trump-parade-rolls-through-nyc-neighborhood"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-parade-rolls-through-nyc-neighborhood.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3706f679-6725-4e41-8b0b-4117586db841/b2fef4ae-3f28-4dc1-bcf7-a4111b0ab125/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lara Trump, Mark Meadows consider running for North Carolina Senate seat in 2022"
+    excerpt: "Trump campaign adviser Lara Trump and White House chief of staff Mark Meadows are both considering running for Senate in North Carolina after Sen. Richard Burr announced he would not seek reelection in 2022, Fox News has learned."
+    publishedDateTime: 2020-11-20T15:33:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fSQgFkM777Q/lara-trump-mark-meadows-north-carolina-senate-seat-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-mark-meadows-north-carolina-senate-seat-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
-    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
-    publishedDateTime: 2020-11-20T14:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
+  - title: "Trump in 'stronger position than he was in 2016' in battleground states: Rep. McCarthy"
+    excerpt: "President Trump is in a \"stronger position than he was in 2016\" in battleground states Arizona, Wisconsin, Ohio and Georgia, House Minority Leader Kevin McCarthy said on Sunday."
+    publishedDateTime: 2020-11-01T18:33:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_5sY1CudaMM/trump-2016-2020-battleground-states-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2016-2020-battleground-states-kevin-mccarthy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20306646863849.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'"
-    excerpt: "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results."
-    publishedDateTime: 2020-11-20T19:44:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery"
-    ampWebUrl: "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
+  - title: "Trump claims victory with many states still undeclared, hints at possible Supreme Court case"
+    excerpt: "President Trump declared victory in multiple key battleground states early Wednesday, even though it remained unclear who had the votes to win, as Trump hinted the White House would push the Supreme Court to rule over disputed ballots, warning that a “very sad group of people” was trying to “disenfranchise”"
+    publishedDateTime: 2020-11-04T07:51:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/woEU1fA0WWw/trump-claims-victory-states-undecided-supreme-court-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-claims-victory-states-undecided-supreme-court-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 164
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump Administration to Release New Rules Reducing Drug Costs"
-    excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
-    publishedDateTime: 2020-11-20T04:19:00Z
-    webUrl: "https://www.wsj.com/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+  - title: "Tucker Carlson: Media misjudged Trump support among non-White voters"
+    excerpt: "Tucker Carlson criticized the mainstream media on Tuesday for painting President Trump as a racist who would struggle to attract non-White voters after the president delivered a strong showing in Miam"
+    publishedDateTime: 2020-11-04T02:58:00Z
+    webUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters"
+    ampWebUrl: "https://www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tucker-carlson-media-misjudged-trump-support-among-non-white-voters.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
-        width: 620
-        height: 413
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aaI5xsE+bD2HhcjntgDqulFGTlk4TQdUWdMR6r0NwDDdQw0aoAh+s5sH8p2v/tZThm7WrZFSSWj0pY0PS6WrZdP0dWlLgva1hnDGXYsqGeKgMtbjRggX9PFEmA/WwMjB1SZl4kq62C/l7Las30vRmjRIEJJSIllY5vdykVp7Pwuhuf8eYImkTFJxGBermZ6jdb3ik/zo20JaBke6tNHWHLuuJ87gGKZsXLFIdQXMYBqd6bFeMWQLlej+uCTvMaHTwhJ4usO72fny4nz2wLicxTCabRjKnpCYXgqweDhcHI9MPlHVOHIR1UtGdkry88Utpq8vRf7+VmG48HOlqUG2Ii7J+GRyJFsJs385OOeMTKE=;yjgxfIc5dmoIpe98WRiLug=="

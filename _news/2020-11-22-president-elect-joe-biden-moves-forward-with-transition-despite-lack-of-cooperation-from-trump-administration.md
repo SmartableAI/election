@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-22T04:38:00Z
 originalUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration/"
 webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration/"
 type: article
-quality: 101
+quality: 111
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/22/933536a8-feae-449e-b0ef-91d041baf466/thumbnail/1200x630/79c11776cd93261bb89d8341cd764c93/cbsn-fusion-president-elect-joe-biden-moves-forward-with-transition-despite-lack-of-cooperation-from-trump-administration-thumbnail-593219-640x360.jpg"
@@ -11849,6 +11850,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "C5Ut2ToBb4Y4qd8eaTY6jXSnAjk7SSk/GwrEo85dPBZloVzvR9HW7G1CIeFRn1SQ3DqjCOblkknuIanaQSQKiw0/JXV5l2OZ2shjiQ1/W+ObxTTv8qe1JnoB0D5LA/+3KJn0LgdmreUVEqJas/rnqo+MZfmaGUygn1oopgnesLOGJBlD+czrejvgtVVTe0jHUv2Egob9Pk2F9dFAcYWQzQyrwXBpoJkQ5QQ8lyqlkbCXSIVeWx7hXle60stHjNUdmh3UMcihB2loEzdDe1PgXuTDcSfuWp3SxzsweZuK18/l6WRdGbsqmaU+vDKT4NTq++iLXAKK5wCPd5vEqZap62USKSL96rXQDbHgI8hk0CM=;OhGpWy0MHlbFNnjqKGKlyg=="
+secured: "ZuOI5y4uXyUXe7KfoM+acbw3JD42T5MMIPAfmFVO1TJYcPtIE2BNMACUIm5BLQJSip04H/q0ufsFnEH3St6fld6UG/7Ip8TdLupQMFtS8Frj/vTF6oOgnyFWOTbmA/Xvo95J8TBf/m+HMU8nPegTE+78eHYAePO/R01i0xId4JSX0CRwpr7YAGS5NGo27PuSSU2TFXWoHwsA0tsZzJTud8txyxJrsGnzgrjU1Fbs/Uz9iGEAQbrERWpbaOwmEAgibzhyjJ2BZhEVu+/Iw5oXQr44OqlFOKVLjYUom017iwuc8xf0MmsyLDTVmEzm4PHV3MZLg4tyku5urmgr3TTiYfNyWVoTaCf0IHqCfS57P1Bbl6it77C6y3bfGc/Puf6c5oPnD45WG1LXWazG7dypuk5wuMbq5whFmcVpk/U9NFC+Cbd2R3Xlqgv42ERaKHDy04bD0jTCHpvIna5hA0nF/VAGfzTJFp/AjJdT9fKHka3uebLiHpaAVFlMzG53b8f20he2c+ewy1/t612N0Eq4Lg==;bHLtt2ndqibOWuNaIztDdg=="
 ---
 

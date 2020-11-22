@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1390
+heat: 1430
 published: true
 
 provider:
@@ -872,6 +872,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/19/us/politics/19laratrump1/19laratrump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Antibody Treatment Given to Trump Gets F.D.A. Emergency Approval"
+    excerpt: "Europe, despite some progress, remains in a fierce fight with the virus. The U.S. case total passes 12 million, and hospitalizations soar past 82,000."
+    publishedDateTime: 2020-11-22T11:26:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/21/world/covid-19-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/us/21virus-briefing-europe/21virus-briefing-europe-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "How Trump Hopes to Use Party Machinery to Retain Control of the G.O.P."
+    excerpt: "Ronna McDaniel, a close ally of President Trump, wants to remain head of the Republican National Committee, worrying party members who believe the president will try to use the group to keep control of the G."
+    publishedDateTime: 2020-11-22T10:16:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/trump-gop-control.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/trump-gop-control.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/trump-gop-control.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

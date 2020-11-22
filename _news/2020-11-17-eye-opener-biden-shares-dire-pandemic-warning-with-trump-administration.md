@@ -750,6 +750,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Top Biden adviser seen as making tech regulation more likely"
+    excerpt: "President-elect Joe Biden’s top technology adviser helped craft California's landmark online privacy law and recently condemned a controversial federal statute that protects internet companies from liability,"
+    publishedDateTime: 2020-11-22T12:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tech-idUSKBN2820DC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820DC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820DC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542059149&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL07I"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Trump team requests recount of Georgia presidential vote"
     excerpt: "President Donald Trump's legal team says his campaign has requested a recount of votes in the Georgia presidential race after results showed Democrat Joe Biden winning the state"
     publishedDateTime: 2020-11-22T04:58:00Z

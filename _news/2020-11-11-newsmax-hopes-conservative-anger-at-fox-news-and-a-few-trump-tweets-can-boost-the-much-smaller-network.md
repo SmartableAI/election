@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "FDA allows emergency use of antibody drug Trump received"
+    excerpt: "U.S. health officials have allowed emergency use of a second antibody drug to help the immune system fight COVID-19"
+    publishedDateTime: 2020-11-22T08:06:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/fda-emergency-antibody-drug-trump-received-74341614"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/fda-emergency-antibody-drug-trump-received-74341614"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/fda-emergency-antibody-drug-trump-received-74341614"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/201121_nwo_covidpkg_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "sLqcYis7xU/S1Q0kytznTqyc+5TpoI77334caPDyNNtowCUO45shuBcrf9d+Z4uNgcbI2I6ThYQrS+BkujgkXrrIk0IuHKu1CEIjBLmPfx0wwaFhz1OtFxcedzq8zRed76LUXyfGtgyOkORHhvi+nqMElEAVHnR35FAZifoiwDVoaK+D6PWlba+x1bbRNJ+vzWxQzaEyo7tLZZo7SPPVDZx8RqFXYjiTIeVHIrbYoQPzMaSBUqYNh31PwTWx9j/B77rwJRvI0hKshb6bVb8fI/UvbiNrPhtcRU3PEyASuL2ssa7Kgmdtai0xsaoLbGttUTk8yV3Ub9iDMrNo4vEBWN2SfpVwKixeZy7EfQl1DYw=;1WNtYA1jtnuCHJyBgqxhrg=="
 ---

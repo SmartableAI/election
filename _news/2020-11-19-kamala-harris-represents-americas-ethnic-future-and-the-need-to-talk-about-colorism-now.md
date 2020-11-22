@@ -256,6 +256,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Sheriff’s court deputy fired after posting photo of Kamala Harris watermelon carving"
+    excerpt: "A part-time court deputy with the Oakland County Sheriff’s Office was terminated after she was found to have posted a photo on social media showing Joe Biden, Donald Trump, and Mike Pence"
+    publishedDateTime: 2020-11-21T20:57:00Z
+    webUrl: "https://www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/"
+    ampWebUrl: "https://www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/21/sheriffs-court-deputy-fired-after-posting-photo-of-kamala-harris-watermelon-carving/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 68
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/michigancop.jpg?w=780&h=438"
+        width: 780
+        height: 438
+        isCached: true
   - title: "Michigan police officer fired over social media post depicting Kamala Harris as watermelon"
     excerpt: "OAKLAND COUNTY, MI – A part-time sheriff’s deputy was recently fired after posting a photo of carved watermelon meant to depict , WXYZ Detroit reports. The Facebook post included a photo of three carved pumpkins meant to represent President Donald Trump,"
     publishedDateTime: 2020-11-18T02:02:00Z

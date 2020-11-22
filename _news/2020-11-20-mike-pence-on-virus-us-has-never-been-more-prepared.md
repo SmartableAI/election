@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence on virus: US 'has never been more prepared'"
 excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
 publishedDateTime: 2020-11-19T23:10:00Z
-originalUrl: "https://tulsaworld.com/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
-webUrl: "https://tulsaworld.com/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
+originalUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
+webUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
 ampWebUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
 type: article
@@ -52,6 +52,6 @@ related:
         height: 799
         isCached: true
 
-secured: "iUC8UvwThPGoyb2odBwlEduwfstX9q1kPO7FF61eZbZ1lVeixagdQJcBh4pWS60iEOIV3G3IzdCvecLLi8+9YmCzC7iz2/Zdvp85DCTTRIm07H8YdX+youQyAVHskh+re0RLmDbD2C2RkB2tUErxoBImtjc0ict4OGaFEr5v6Ul+cvxh7ZZM/MAq4L7N9CEEag5LimQVWpyNqRw9b6GlOIpU4MXTBEdqImf0W5w5iVnRE8Dy9KQqXaMFWQu1YxkR8mkWFMXZwh9I9FkmM9QTlM1yyqCNx4HGZLzkDQ7LxCm0f2rCoq8H2PUjBLLkD/KM854cp8ftaSUxVJAejKwk0jceBuk/D1A0JHD5p7VNqzOpnR4a7d0F5SfBaVriA87+d8YaPI/0Hs10q4TgBPngbfC0J5ZNJxDXXUWC1Dt1DLtVRS2fSg9EaODqDzS3UWYtUgspQYXhCtLdg/qL2vxeyvtQ19dbbltOl5ssZ4fGzFHDY9kMp8sMWPtPwvh6MvsVioi+0BtP+R8Gg725mT0IJw==;x1Ge3LFyOkdAjCW4QW1BHQ=="
+secured: "hM5TOXdvc/yUjD8kx6U8/BgMJpeIzQWOuM+fngKrQ8JDu3+uwnG+7Yc/yQrGrX/7/E7fL/iNZHo0cbewL6BkkfOdd9VSXf3XdrKLcsnysG3OW97PJLu5Dyr+dbzYo+fYzOJcmECgOY/Do5KS1mAs/3EBZpETJrBEelryg8cBpklAzdTCh3AkFZdHDFsDefLeFZmW5eP26fjoB2PaUWXurYz/v21baPgJ57FXZMdACfSDhBuAkq1SyiA6xZNccKHiAZeUgvCfdrL/2zjO1X6oFf1QoPlf2RtgQ0WZ4k1t6R/8Sql3ygP3iSUjdG6DHCn570H9ZTjYVi1KWVFys1L1H7B5QeLQ7zvUTdfElaWItWbZoa+B+fgh8MmJZn2+VjvWF+6K59b35uSe0LD0jROxwvFvIVzMWE56R+ShaXvjUIXj1KsE0i5hMeIbrn8DxWmX22zzP1/PoFPkz097uQZm2xIpkgMUwHaZjnjX7gVm4YXmIX74lHqPcNPAkkTmi3yhEzw+5paLJ6w5tAfX3B6NpA==;OrS1BYspY6/am4RXqyW3Mw=="
 ---
 
