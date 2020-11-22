@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania judge throws out Trump lawsuit, clearing way for Biden win"
+    excerpt: "A Pennsylvania judge threw out a lawsuit that sought to prevent the state from certifying the election results in favor of President-elect Joe Biden, who won the state by about 80,000 votes."
+    publishedDateTime: 2020-11-21T23:58:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jkAmduuRsRQ/pennsylvania-judge-throws-out-trump-lawsuit-biden-win"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-judge-throws-out-trump-lawsuit-biden-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-judge-throws-out-trump-lawsuit-biden-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ed7bef1-abb4-4144-990f-945e21d96f1b/fe3038f6-9b82-4c44-8dcb-f8f7736bfd04/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
     excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
     publishedDateTime: 2020-11-16T17:26:39Z

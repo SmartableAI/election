@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge dismisses Trump campaign Pennsylvania lawsuit"
+    excerpt: "A US District Court judge Saturday dismissed a lawsuit by the Trump campaign trying to invalidate millions of Pennsylvania mail-in votes.\n    \n"
+    publishedDateTime: 2020-11-22T00:43:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WjaCBQ3rpvw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/politics/federal-judge-dismisses-trump-pennsylvania-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/politics/federal-judge-dismisses-trump-pennsylvania-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021211-03-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judges rule against Trump campaign in 6 Pennsylvania cases over absentee ballots"
     excerpt: "Two judges in Pennsylvania on Friday tossed a half dozen court cases the Trump campaign had brought to invalidate thousands of votes around Philadelphia, where voters carried President-elect Joe Biden to a clear win in the battleground state.\n    \n"
     publishedDateTime: 2020-11-14T00:49:42Z

@@ -34,9 +34,9 @@ related:
   - title: "Georgia certifies election results, making Biden victory official"
     excerpt: "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount."
     publishedDateTime: 2020-11-21T03:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-biden/story?id=74315511"
+    webUrl: "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
     type: article
     provider:
       name: ABC
@@ -428,6 +428,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ff8825f43985d6014cbeb12ed53fad87a858d14e/0_187_5614_3369/master/5614.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f201c487f62826b504bc6e4dc0187888"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden spent much of the general election in his basement. Now, he and his aides ponder a very public inauguration."
+    excerpt: "Joe Biden spent months of his presidential campaign safely ensconced in his basement, communicating to the country via a television camera. His convention speech was delivered to a near-empty room in Delaware."
+    publishedDateTime: 2020-11-22T00:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-trump/2020/11/21/5c0b8398-2b73-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQZ22BMEII6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "In Georgia, a Biden supporter realizes the power of her ballot"
     excerpt: "Cynthia Kendrick and her family watched anxiously as TV coverage of the presidential election zoomed in on their community."

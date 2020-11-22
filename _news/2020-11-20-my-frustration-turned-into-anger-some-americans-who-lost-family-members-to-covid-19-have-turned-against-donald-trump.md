@@ -75,6 +75,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump Tweets Donald Trump Jr. Is Doing Well After COVID-19 Diagnosis"
+    excerpt: "Donald Trump Jr. learned of his positive result earlier this week and has had no symptoms, according to a spokesperson"
+    publishedDateTime: 2020-11-21T15:31:00Z
+    webUrl: "https://time.com/5914624/president-trump-tweets-donald-trump-jr-is-doing-well-after-covid-19-diagnosis/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 101
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/AP20325835953740.jpg"
+        width: 3899
+        height: 2596
+        isCached: true
 
 secured: "u1XN1tJ/OK3/8ccfLROY0kFmma4Ars7yeP8rd8lnhXf1Mxk4BciRPnDAao4cVw9FFj7E+PqTwWh70GTBgO1gQmdyuUTFJD9FKyh8IXDtbk1UA1FlYh1QxUElxu1lzAR/7uYSUGZ/oNMrIZx310p48euU22Qe8D1EKLc1SwCMaoG9TRxxv3vnxUQ56F/0d9k0ZcEcfA1H04hR5zK0hC8jfb8cneopvQBRySux1NsYilFjmQrAj9GHoAF9AMIlmboobEjO9ouz4l4yqJrPoHVwmLdQMAWGOGZdczJs6gh7xJ5dHdsZi2wFhclaAji7/0O6/fXaPlk9u/Y14LV7nfnLlQCeYnOYKz2+5XSrgqn97laZBNxbeZgirwhznpgQ7pVCB9WSsRzWvQYKxK8CfjxtNYxuh9e6Q6DeiQGVM38dU8Kk2ZkvB8yJ2eUg5dlkLxwINvS7+TFbhk9Vj6Rw+afPkIVCuycGnqBMfQnjNWFvWMI85kD+3aE+xfWhnulyz6agksAPIdblR1r3JVYkmBLSsw==;DHkAIgQDnBJMSYRdUTgfMA=="
 ---

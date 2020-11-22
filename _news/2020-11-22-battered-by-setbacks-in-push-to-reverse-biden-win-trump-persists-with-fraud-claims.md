@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Battered by setbacks in push to reverse Biden win, Trump persists with fraud claims"
-excerpt: "President Donald Trump, battered by back-to-back setbacks in his desperate bid to overturn the U.S. presidential election, persisted with claims of massive voter fraud on Saturday, two weeks after Democrat Joe Biden was declared president-elect."
-publishedDateTime: 2020-11-21T18:15:00Z
-originalUrl: "https://www.reuters.com/article/usa-election/wrapup-3-battered-by-setbacks-in-push-to-reverse-biden-win-trump-persists-with-fraud-claims-idUSL1N2I703I"
-webUrl: "https://www.reuters.com/article/usa-election/wrapup-3-battered-by-setbacks-in-push-to-reverse-biden-win-trump-persists-with-fraud-claims-idUSL1N2I703I"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN281075"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN281075"
+excerpt: "Battered by setbacks in a desperate bid to overturn the U.S. presidential election, President Donald Trump persisted with claims of voter fraud on Saturday and his allies called for an audit of results from a Michigan county that voted overwhelmingly for Democrat Joe Biden."
+publishedDateTime: 2020-11-21T23:45:00Z
+originalUrl: "https://www.reuters.com/article/usa-election/wrapup-4-battered-by-setbacks-in-push-to-reverse-biden-win-trump-persists-with-fraud-claims-idUSL1N2I703I"
+webUrl: "https://www.reuters.com/article/usa-election/wrapup-4-battered-by-setbacks-in-push-to-reverse-biden-win-trump-persists-with-fraud-claims-idUSL1N2I703I"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2800IX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2800IX"
 type: article
 quality: 134
 heat: -1
@@ -477,6 +477,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Twitter to automatically transfer @POTUS handle from Donald Trump to Joe Biden on Inauguration Day"
+    excerpt: "Twitter says it will automatically transfer the @POTUS Twitter handle from President Donald Trump to President-elect Joe Biden on Inauguration Day,"
+    publishedDateTime: 2020-11-21T19:56:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/11/21/twitter-potus-handle-transfer-trump-biden-inauguration-day/6374818002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6374818002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6374818002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, still not conceding defeat, trumpets vaccine progress"
     excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
     publishedDateTime: 2020-11-14T05:12:00Z
@@ -669,6 +685,22 @@ related:
         width: 783
         height: 545
         isCached: true
+  - title: "Happy 78th birthday, Joe Biden"
+    excerpt: "Joe Biden turns 78 on Friday, meaning he will surpass President Trump and President Reagan as the oldest president when he is inaugurated Jan. 20. Trump — four years Biden’s j"
+    publishedDateTime: 2020-11-21T03:03:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-20/joe-biden-life-in-photos"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-20/joe-biden-life-in-photos?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-20/joe-biden-life-in-photos?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/787c233/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F10%2Ffc%2Fdae66bd1283657d65601e371f0b3%2Fdd9443bf3c7248e68d5d86b309a1c6dc"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Readers reflect on four years of Donald Trump"
     excerpt: "That America is truly on the edge of losing its long-standing position of trust in the world and that this could take place in a short four years under the influence of one man. Putting “America First,"
     publishedDateTime: 2020-11-20T17:56:00Z
@@ -700,6 +732,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541958241&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ1N5"
         width: 855
         height: 545
+        isCached: true
+  - title: "Judge throws out Trump bid to stop PA vote certification"
+    excerpt: "A federal judge in Pennsylvania says he won’t stop officials from certifying election results that show Democrat Joe Biden winning the state by more than 80,000 votes"
+    publishedDateTime: 2020-11-21T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/national/judge-throws-out-trump-bid-to-stop-pa-vote-certification/2020/11/21/5ee17d64-2c51-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/judge-throws-out-trump-bid-to-stop-pa-vote-certification/2020/11/21/5ee17d64-2c51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/judge-throws-out-trump-bid-to-stop-pa-vote-certification/2020/11/21/5ee17d64-2c51-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
@@ -1094,6 +1142,6 @@ related:
         height: 563
         isCached: true
 
-secured: "JcMTzEwtbUP3LHJJdvAZJL9vna2nDaGE79Q9RO9QTdkDRCbpJEwLH33OwOdTFzJTWk7CpxmQKjdV2hjA1TajKpvLAl1F/uv9+7LXmVF5ctWzU9LFxSr2n9lA1n0VCMubBe8295U0yDp8K0Tz5ExHtF0TMb3W5GMP8Gk/Kc/jyL4TzQH2Kn9AhDx6z5Q5vzAN38SCN5KEQjjwlp+jiYRy8T7EOhHbFQqszQwiDcjmdgRIiXmQtqWVSYjHp3na+/8IA4CZqmRTaTLEkhZVOSW2XmXQ5pLnjtc/i+BMu0bW0nSLNE0IRZhMZhOBZFwPrdI0a+Ezku4YUU6GE790QVPBwcHOprpFiEjnezhN2IX6STOXtW6AopEwR6f3rIOGVSOYNnWpP8FDVTJshhqU5DdiY+sslmZtLykHiI5mrGzDngLkp3/o89sQZcWGt7Sw8ds53FWlryvbQFQefp3UGgB2w1vEgBUwbzsiHjojJsGm/KdQMqSWKGfnESlv1bRicNfkFq3nUeMXxdgt6suO1C3a9g==;PSrgysRbT07OLCYXRB28Nw=="
+secured: "2RP6lLW4YqH2xULsQbzfc+2IX7ge1AQ/Zbp3/XGiPAdCxTwmndeIuuyVOaivy3COTuQ9tGYrmXItrLlstx8VWXd6qzKSYeEqG+2++f2o/YOVNX2wZPol91aVTCkJq3WYSi1E8+0nKZsO7SfL50ZfiF/54GfiRFAo8eakkLdmLFTcjcne44eaXhOSman2xT+12N2LiDSvuy39abh4jn9Dr80/9Y0nJtW8EfIOVD5J7e2u9aey68+BCGvh/odwmuTQF2ae2KtvlILh/AR8UFxYBxiQSzEJt41hWrONuhyVF0OUUwX7LhCutCYPY0l4UZf7ePWuZUuvUzCMwQuG82gDmbjIu7wRVmdCEpmPeOEvCKk=;/CIK9swImNGW6H79wrMo4w=="
 ---
 

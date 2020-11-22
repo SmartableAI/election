@@ -78,22 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-21T07:09:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FTZuPO7LIK0/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/980d4b4b-3e68-4642-9f81-5ae44da0f382/58bdd76c-c4be-4d4f-a9bc-9742e810ac34/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pence, in Georgia, vows to ‘keep fighting’ but acknowledges ‘uncertain days ahead’"
     excerpt: "Vice President Mike Pence hit the campaign trial Friday in Georgia, stumping with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections, which will determine whether the GOP keeps its majority in the chamber."
     publishedDateTime: 2020-11-20T22:13:13Z
@@ -269,6 +253,22 @@ related:
       - url: "https://images.wsj.net/im-260321/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
+    excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."
+    publishedDateTime: 2020-11-21T07:16:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/980d4b4b-3e68-4642-9f81-5ae44da0f382/58bdd76c-c4be-4d4f-a9bc-9742e810ac34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "tvfdfN8+mfLFFOjOBZigVLWT6qeQjPRLof+QTuqfQZbEOG+ROCjm6F3AwmtoG6+0xN4GDpuczTIhxkjwYFlsQVpPgKoWolLIH7xlgYaw4bP7H/uLN36dXvfXh/rBI3v44mKWZPKpvezP7e3brxQFgoYVj1BXBUI83+/xGECJGN2amp/vOUHY4WblbiMeWerDoSrCLAPmMFKMHkxfe502RKVAPjoq8mRijH1XGHohNw9/Nufu/JlLzOiOGyN7t3hNGkehsohDJxCQeEoytxkDxOma/3iWQvOg+1oW+03JIqQHjrkesWC/XJox55kImECWn0u+vj1kehzUmMAEty+DhosRLa7zgw5wJ7otF81YQlo=;1VnkGzQmAats8ojGT2Ip2w=="

@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the January Senate runoffs in Georgia"
-    publishedDateTime: 2020-11-21T07:09:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FTZuPO7LIK0/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/980d4b4b-3e68-4642-9f81-5ae44da0f382/58bdd76c-c4be-4d4f-a9bc-9742e810ac34/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
     excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
     publishedDateTime: 2020-11-05T10:04:28Z
@@ -255,6 +239,22 @@ related:
       - url: "https://images.wsj.net/im-260321/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
+    excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."
+    publishedDateTime: 2020-11-21T07:16:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-campaigns-in-georgia-for-gop-senate-runoff-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/980d4b4b-3e68-4642-9f81-5ae44da0f382/58bdd76c-c4be-4d4f-a9bc-9742e810ac34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Giuliani Has Sought $20,000 a Day From Trump Campaign for Post-Election Work"
     excerpt: "Rudy Giuliani's legal expertise doesn't come cheap. Representatives for the former New York mayor asked the Trump campaign last week to pay Mr. Giuliani $20,000 a day, an unusually high fee, according to a person familiar with the matter."

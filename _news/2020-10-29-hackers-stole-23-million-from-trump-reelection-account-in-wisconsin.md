@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-2
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/29/hackers-stole-23-million-from-trump-reelection-account-in-wisconsin/amp/"
 type: article
 quality: 140
-heat: 800
+heat: 780
 published: true
 
 provider:
@@ -158,22 +158,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_5546612ea42249c3ae8e8da615383e4f_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Wisconsin officials: Trump observers obstructing recount"
-    excerpt: "Election officials overseeing the recount of votes in Wisconsin’s largest county say observers for President Trump are unduly slowing the process"
-    publishedDateTime: 2020-11-21T22:48:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-21/wisconsin-officials-trump-observers-obstructing-recount"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-21/wisconsin-officials-trump-observers-obstructing-recount?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-21/wisconsin-officials-trump-observers-obstructing-recount?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."

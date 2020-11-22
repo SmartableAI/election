@@ -9,7 +9,7 @@ ampWebUrl: "https://www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-
 cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/vp-mike-pences-daughter-charlotte-explains-where-sin-can-lead.html"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:
