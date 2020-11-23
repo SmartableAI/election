@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542108109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM070"
