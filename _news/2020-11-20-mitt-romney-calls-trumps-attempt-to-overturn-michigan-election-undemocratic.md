@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html"
 type: article
 quality: 186
-heat: 286
+heat: 306
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_47/3430251/201122-chris-christie-jm-1058_8937645ec05d585e54153f941356303d.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Transition Highlights: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
+    excerpt: "Two Republicans who attended the meeting vowed not to interfere with the certification process in their state. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden met with Speaker Nancy Pelosi and Senator Chuck Schumer."
+    publishedDateTime: 2020-11-23T16:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-meeting-whatweknow/merlin_180252009_22114c2b-02cd-4ef7-8533-8897833662f8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Transition Live Updates: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
     excerpt: "The president invited a delegation of Michigan Republicans to the White House on Friday. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden announced more staff appointments and met with Speaker Nancy Pelosi and Senator Chuck Schumer."

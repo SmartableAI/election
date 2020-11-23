@@ -251,6 +251,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump-Biden transition live updates: Biden to name U.N. ambassador pick"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-23T15:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-nga-rt-rc-201119_1605821130213_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
@@ -287,6 +303,22 @@ related:
     excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
     publishedDateTime: 2020-11-23T14:06:00Z
     webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbbe888f0868ed26c10681"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/da41fd47cec3e95aec1c0a0495177f04911cd1f7/0_26_3034_1821/master/3034.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168f7b930d8d42d9a6603e7ec2d20cc7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live"
+    excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
+    publishedDateTime: 2020-11-23T16:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbd13d8f087f6ff109c156"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article

@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump friend and adviser Steve Schwarzman recognizes Biden as President-elect"
+    excerpt: "President Donald Trump's friends and allies are increasingly doing what he will not: acknowledging the reality that Joe Biden will be the next President of the United States.\n    \n"
+    publishedDateTime: 2020-11-23T16:13:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TshSb7KP3D0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/steve-schwarzman-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/steve-schwarzman-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123110936-steve-schwarzman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden transition making fundraising push as Trump administration blocks funding"
     excerpt: "President-elect Joe Biden's team is making a fundraising push for its transition operations as the General Services Administration has yet to ascertain Biden as the election winner -- a move that would open up millions of dollars in federal money for the President-elect's transition work.\n    \n"
     publishedDateTime: 2020-11-20T22:43:44Z

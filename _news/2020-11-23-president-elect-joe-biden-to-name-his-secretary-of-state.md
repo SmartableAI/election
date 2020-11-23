@@ -293,6 +293,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New Zealand leader Ardern offers virus know-how to Joe Biden"
+    excerpt: "New Zealand Prime Minister Jacinda Ardern on Monday became the latest world leader to congratulate President-elect Joe Biden on his election victory, saying"
+    publishedDateTime: 2020-11-23T06:23:00Z
+    webUrl: "https://apnews.com/article/joe-biden-coronavirus-pandemic-new-zealand-fb090a3b10eefc49df72acd279331fb4/gallery/20d48a66042b44f68661851e84a0f400"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/20d48a66042b44f68661851e84a0f400/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."
     publishedDateTime: 2020-11-16T21:34:00Z

@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump friend and adviser Steve Schwarzman recognizes Biden as President-elect"
+    excerpt: "President Donald Trump's friends and allies are increasingly doing what he will not: acknowledging the reality that Joe Biden will be the next President of the United States.\n    \n"
+    publishedDateTime: 2020-11-23T16:13:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TshSb7KP3D0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/steve-schwarzman-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/steve-schwarzman-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123110936-steve-schwarzman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
     excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
     publishedDateTime: 2020-11-17T23:59:12Z

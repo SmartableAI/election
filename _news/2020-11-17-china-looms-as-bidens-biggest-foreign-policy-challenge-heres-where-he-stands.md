@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why Biden's secretary of state pick tells us a lot about his priorities as president"
+    excerpt: "Joe Biden is poised to name Antony Blinken as his secretary of state on Tuesday, a telling pick that reveals what the President-elect views as his most urgent priorities in the wake of Donald Trump's four years in office -- and the sort of people he will entrust with accomplishing those goals.\n    \n"
+    publishedDateTime: 2020-11-23T16:04:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DkuTuCqX6j4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/biden-blinken-secretary-of-state/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/biden-blinken-secretary-of-state/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110103817-01-biden-admin-possibilities-blinken-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden gaining support from suburban counties in North Carolina"
     excerpt: "NBC's Chuck Todd takes a look at how Joe Biden is receiving more support in suburban counties in North Carolina than Hillary Clinton or Barack Obama did in their presidential races."
     publishedDateTime: 2020-11-04T02:10:00Z

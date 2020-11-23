@@ -495,6 +495,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump investigations will be used to 'satisfy' hard-left progressive base in Biden admin: Ben Domenech"
+    excerpt: "In the next four years, Trump “investigations are going to be used to satisfy Joe Biden's hard-left progressive base,” the Federalist publisher Ben Domenech predicted Monday."
+    publishedDateTime: 2020-11-23T16:34:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/taTtpF7YuR8/trump-investigations-biden-satisfy-left-progressive-base-ben-domenech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-investigations-biden-satisfy-left-progressive-base-ben-domenech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-investigations-biden-satisfy-left-progressive-base-ben-domenech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
     excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
     publishedDateTime: 2020-11-15T18:47:51Z
@@ -510,6 +526,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Possible Biden national security adviser pick tied Trump campaign to Russia in 2016 briefings with reporters"
+    excerpt: "President-elect Joe Biden potential pick for national security adviser, Jake Sullivan, acknowledged to the House Intelligence Committee that he had told reporters in 2016 that then-candidate Donald Trump's campaign could have ties to Russia."
+    publishedDateTime: 2020-11-23T16:03:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CIRd0U25YaU/biden-national-security-jake-sullivan-trump-campaign-russia-2016-reporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-jake-sullivan-trump-campaign-russia-2016-reporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-jake-sullivan-trump-campaign-russia-2016-reporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
     excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden builds out White House legislative affairs team"
+    excerpt: "President-elect Joe Biden is building out his legislative affairs team in the White House, announcing two more key roles in the office that will guide his agenda through what could be a divided Congress.\n    \n"
+    publishedDateTime: 2020-11-23T16:01:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-wQ10bK9ErQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/biden-white-house-legislative-affairs-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/biden-white-house-legislative-affairs-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to nominate Antony Blinken as secretary of state"
     excerpt: "President-elect Joe Biden is poised to nominate Antony Blinken to serve as secretary of state, people familiar with the matter told CNN, elevating a longtime foreign policy adviser as Biden makes his first round of Cabinet announcements Tuesday.\n    \n"
     publishedDateTime: 2020-11-23T03:59:06Z

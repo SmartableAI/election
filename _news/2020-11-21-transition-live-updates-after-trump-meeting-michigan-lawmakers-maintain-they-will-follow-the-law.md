@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Transition Highlights: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
+    excerpt: "Two Republicans who attended the meeting vowed not to interfere with the certification process in their state. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden met with Speaker Nancy Pelosi and Senator Chuck Schumer."
+    publishedDateTime: 2020-11-23T16:13:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/20/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/20/us/politics/20transition-briefing-meeting-whatweknow/merlin_180252009_22114c2b-02cd-4ef7-8533-8897833662f8-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "WXuBWa7BD+g9PgOdl9eORmQCBHsM9Nw7bKWPGDh+YAWAQATszzuZGT1mFEmcNJ1hwgfvoQBkYKcPQsnMirvXh+Liq2uizPcLWGHZyX0Kh5ICsADOpOneL6NGQHEaK4DSPnUmz/yZtndOEFDy9wsgFMVQVQxaNmNsyIecXuJku2SnN/dSNjkOJ9HwcVI4OS40smA37oDr0w6aP52xv7vqEnuu5Nb8s0wjsvS9cz4Ary9Ha7iIqG/XlFRQpdk5JQh5xtjn5Qvp7G6sAVWlECQG8mlypEcp0Q/bXy22KfSVxGMu7w47D4zb/wSWB4VsOQoVAQ5GGcEn1buUCTwpu9n/w6HB+hzxS3tyNMBO0cGacvQ=;7fLWfH4hwoh4Y6iaNPbD9g=="
 ---

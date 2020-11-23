@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
 type: article
 quality: 156
-heat: 836
+heat: 856
 published: true
 
 provider:
@@ -279,6 +279,20 @@ related:
       - url: "https://i.insider.com/5fb3d7b5d0c5f832483137f5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "New Zealand leader Ardern offers virus know-how to Joe Biden"
+    excerpt: "New Zealand Prime Minister Jacinda Ardern on Monday became the latest world leader to congratulate President-elect Joe Biden on his election victory, saying"
+    publishedDateTime: 2020-11-23T06:23:00Z
+    webUrl: "https://apnews.com/article/joe-biden-coronavirus-pandemic-new-zealand-fb090a3b10eefc49df72acd279331fb4/gallery/20d48a66042b44f68661851e84a0f400"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/20d48a66042b44f68661851e84a0f400/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "President-Elect Joe Biden To Name His Secretary Of State"
     excerpt: "Biden will nominate Antony Blinken, a source familiar with the transition discussions tells NPR. The source added that Jake Sullivan is a strong lead for the position of national security adviser."

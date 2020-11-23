@@ -521,6 +521,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump campaign calls for another Georgia recount as more election lawsuits fail"
+    excerpt: "Trump campaign is now asking for a second recount in Georgia after the state certified President-elect Joe Biden as the winner on Friday. The campaign continues to lose election lawsuit challenges in court."
+    publishedDateTime: 2020-11-23T16:15:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-campaign-calls-for-georgia-recount-election-lawsuit-losses/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/23/9d9ee8b8-1391-4875-9a2e-47257af90deb/thumbnail/1200x630/0f05cb62de9e3d9ba3ff14a64ee7f8ca/cbsn-fusion-trump-campaign-calls-for-georgia-recount-after-continued-election-lawsuit-losses-thumbnail-594109-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President-elect Joe Biden expected to name Antony Blinken as secretary of state, sources say"
+    excerpt: "Antony J. Blinken, one of President-elect Joe Biden’s closest foreign policy advisers, is expected to be nominated for secretary of state, according to people close to the process."
+    publishedDateTime: 2020-11-23T11:28:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-blinken-secretary-state-biden-20201123-wnttxizx6fh7hfc3rs2gxivzai-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P_cTD6Cd8IFZ0-iYj7geHMpoi9g=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UODTB3WA7BAKZDAT2QXVN3JNHA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
     excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
     publishedDateTime: 2020-11-22T04:51:00Z
@@ -592,6 +622,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6fae1a3-5fc7-4a52-9938-16a641c8a4b6_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden taps longtime foreign policy officials for key positions"
+    excerpt: "President-elect Joe Biden's Cabinet is coming into sharper focus as he gears up to announce key nominations this week. He has selected Tony Blinken to serve as secretary of state, Linda Thomas-Greenfield as ambassador to the U."
+    publishedDateTime: 2020-11-23T15:27:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-foreign-policy-cabinet-positions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/23/e6bfef73-c2d2-4f81-80f2-9738b59a6faa/thumbnail/1200x630/f1955699b718ed89b9893f0509fe5498/cbsn-fusion-biden-taps-longtime-foreign-policy-diplomats-for-key-cabinet-positions-thumbnail-594045-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."

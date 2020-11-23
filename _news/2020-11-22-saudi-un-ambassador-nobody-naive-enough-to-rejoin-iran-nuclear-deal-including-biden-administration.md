@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
+    excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
+    publishedDateTime: 2020-11-23T15:10:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_uJezUfk5w/biden-secretary-of-state-blinken-iraq-war-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Blinken_Tony.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'"
     excerpt: "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday."
     publishedDateTime: 2020-11-12T00:46:49Z

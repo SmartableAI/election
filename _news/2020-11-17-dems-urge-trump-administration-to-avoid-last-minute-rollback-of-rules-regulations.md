@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "For Trump and GOP, Risks in Post-Election Fight Rise"
+    excerpt: "Undermining the legitimacy of a system that has benefited Republicans could leave president remembered more as a sore loser than as consequential."
+    publishedDateTime: 2020-11-23T16:34:00Z
+    webUrl: "https://www.wsj.com/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033?mod=politics_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-263547/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump Administration to Release New Rules Reducing Drug Costs"
     excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
     publishedDateTime: 2020-11-20T04:19:00Z

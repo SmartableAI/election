@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "For Trump and GOP, Risks in Post-Election Fight Rise"
+    excerpt: "Undermining the legitimacy of a system that has benefited Republicans could leave president remembered more as a sore loser than as consequential."
+    publishedDateTime: 2020-11-23T16:34:00Z
+    webUrl: "https://www.wsj.com/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033?mod=politics_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/for-trump-and-gop-risks-in-post-election-fight-rise-11606141033"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-263547/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "D+3nlxhhRI6QLBv3Hf5qoEey9uO8kMgldj5QVnGo0/LvHFQAq5cXMeSX+BllzgwdxhxtJG9cVYvFsRzF74FFXfJZwwwYn4UYgxpIOM8thv+IyYFDpTUzDmvZiY/faUN3afRtL0FU1X4N6IFinvUd26wIrpd5HKnUyKhJy8Ou0yMLbL2YJYYa06KgVBpiit+kMVc7t19hZVRbFn8JyXiM4PBhiv1i1kGXfB1ja4TnWBepf8pc0Fdnn91SzJrXhGFe7axhTZK7RSdE1FNkTppo2wOl6U3MpPgFZFI1ovEwyYm2u6lB4dVwnYvE3C7tGlRPVOLx8SQFrmM/AlB25TWvCNFSNacOIAuV5G1F4qccUEs=;WIS2eEPKKvQi0euA4pzm2g=="
 ---
