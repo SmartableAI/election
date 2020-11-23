@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
-excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
-publishedDateTime: 2020-11-19T19:42:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
-webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
+title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
+excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
+publishedDateTime: 2020-11-23T02:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
 type: article
-quality: 120
+quality: 111
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
-    excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
-    publishedDateTime: 2020-11-23T02:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/attorney-heading-up-trump-recount-wants-throw-out-his-own-vote/6382647002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6382647002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382647002"
+  - title: "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting"
+    excerpt: "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting."
+    publishedDateTime: 2020-11-19T19:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3776190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 111
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/21/PMJS/f177309e-811b-46d6-b7f4-2da8cebb9b00-RECOUNT_05318.JPG?auto=webp&crop=3899,2194,x0,y207&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aXyYwLrYUiCi2/HtL+8YJASQHP4+srE0Eq8Hsl6pgDjnIxO3bEWLiaD9Cj/Bg4RjijPN+J3HSv3J5id3ed/LlRR7qML9hPQe2rTvDRzvJqeiY/DWk1JIJG6vSBQOyD0rH7GBriCV8MN0IoKEcZpUmMDCFP1SP2zRQa50yA1OL9j+Wu1k+btPZA7OWxPBkJnjuXm7o5ZWjaXtOJ2gHripKFd298EJXimtTImQp9wUK0EcauYdl8ddZcOSR6U4zoVCzGoZCkEgLxQHHAqL3u8uxmB0/RbIGrl3gNknwnW3Zq6xqvV7Kc/bB+VAQTrqKOP5yFh1VC48MPcp/7N47EYwpA1tZ+ffPc0dbYptbYC+USzv351u2Daj9fdCYTUXXZ14zm+xcqbP7FIJOXuY0j5wisHB09NEhGn6v800omS2IP9w24+DKcSe7la95442CYENe3zu/y4O2WNmZbf2Foh71k6ygB1WLk/WADl1jM4eDmOvTdlaorUgLaV95o8A5w+pto2JAf1PzCi0rrESa1cpFA==;qVSRVdP0TW4od8TQgPdOmA=="
+secured: "F9duSC5WgFbZjIcrmN3iVvzq5hvrgPyjje1Ls3R/e3amTND4JrtmDAyiWmihA1EKA85RHHM+U+dPtYcIn6cj6/Ye/1ydhIzFCBgqrndEdjsjcT3zXfHen+I1wvSreNTEANRS/A17UnwMmNpYgF6UsV2874S0cejIgCjRk3CpaCagxH8qS4R1DaPtPofVH0g4YVg+ILJqGUXr75iCpeWcihmgN6MtF7gJOHvnzGuxxj6pnOWs0i8CtSmNJdmQRxHGRqMZGSEwcGPjEL5bQnVSGshl6tAjUinhVhrTTYG+tjWm/2fYsv++QpcKagq+x6CTRF674tfdgX9TwW/oeQM4y0eGm9nfX5c/3XZhZvq+jMg=;AGeaXCoJfjiuw2atCjQtLA=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
+      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
+      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "publishedDateTime": "2020-11-18T13:31:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
       "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
       "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
@@ -610,62 +666,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-mulvaney-slams-giuliani-leading-trump-campaign-legal-efforts-this-is-not-a-television-program.md",
-      "title": "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'",
-      "excerpt": "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TsnKDL202_8/mulvaney-slams-giuliani-trump-campaign-legal-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mulvaney-slams-giuliani-trump-campaign-legal-fight.amp",
-      "publishedDateTime": "2020-11-18T06:37:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-this-is-extremely-powerful-data-trumps-2020-campaign-app-manufacturer-in-financial-trouble.md",
       "title": "'This is extremely powerful data': Trump's 2020 campaign app manufacturer in financial trouble",
       "excerpt": "The \"Official Trump 2020 App\" allowed President Trump's reelection campaign to monitor the movements of his supporters.",
@@ -886,7 +886,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1450,
+      "heat": 1470,
       "tags": null,
       "images": [
         {

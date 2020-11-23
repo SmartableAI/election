@@ -908,6 +908,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Team Disavows Lawyer Who Peddled Conspiracy Theories on Voting"
+    excerpt: "President Trump’s campaign issued a striking repudiation of Sidney Powell, who had offered up widely derided conspiracy theories as she tried to aid the president’s baseless challenges to vote counts."
+    publishedDateTime: 2020-11-23T02:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
     excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
     publishedDateTime: 2020-11-12T01:39:00Z

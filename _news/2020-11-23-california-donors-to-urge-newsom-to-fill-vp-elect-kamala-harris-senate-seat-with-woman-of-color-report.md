@@ -1,14 +1,14 @@
 ---
 category: news
-title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
-excerpt: "In a very friendly moment, Sen. Lindsey Graham, R-S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
-publishedDateTime: 2020-11-17T22:43:19Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oMsby_g2syY/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oMsby_g2syY/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor"
-ampWebUrl: "https://www.foxnews.com/politics/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor.amp"
+title: "California donors to urge Newsom to fill VP-elect Kamala Harris' Senate seat with woman of color: report"
+excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox.  "
+publishedDateTime: 2020-11-23T01:20:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
+ampWebUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
 type: article
-quality: 171
+quality: 168
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dc6aa3a-4997-448f-a8ac-d28ed976cf7c/761c7ebb-30a9-466b-8bdf-f819ca2c7503/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "WATCH: Sen. Lindsey Graham gives Vice President-elect Kamala Harris a fist bump on the Senate floor"
+    excerpt: "In a very friendly moment, Sen. Lindsey Graham, R-S.C., greeted Sen. Kamala Harris D-Calif., the vice president-elect, with the new version of the handshake on the Senate floor."
+    publishedDateTime: 2020-11-17T22:43:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oMsby_g2syY/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watch-sen-lindsey-graham-gives-vice-president-elect-kamala-harris-a-fist-bump-on-the-senate-floor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "BLM demands Newsom appoint Black woman to fill Harris' Senate seat: 'Nonnegotiable – this must be done'"
     excerpt: "Black Lives Matter launched a petition Monday calling on California Gov. Gavin Newsom to appoint a Black woman to fill the U.S. Senate seat to be vacated by Kamala Harris once she officially resigns to become vice president."
     publishedDateTime: 2020-11-17T17:44:26Z
@@ -63,22 +79,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "California donors to urge Newsom to fill VP-elect Kamala Harris' Senate seat with woman of color: report"
-    excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox.  "
-    publishedDateTime: 2020-11-23T01:20:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
-    ampWebUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dc6aa3a-4997-448f-a8ac-d28ed976cf7c/761c7ebb-30a9-466b-8bdf-f819ca2c7503/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "VP-elect Kamala Harris gives Gen X slackers a taste of success"
     excerpt: "Kamala Harris isn’t just historic because she’s the first woman, and first woman of color, to be elected vice president. She’s historic because she represents the first time a middle-aged Gen Xer"
@@ -143,6 +143,6 @@ related:
         height: 720
         isCached: true
 
-secured: "35DE3fpEkXnJJYZqDoLUcbqm+vNd31gnHdMDv3+i9217iSjHZvyNDjun2MvWZAmGGEnSjemuxs7sqWBcizvCwcSfDrOKM+W9pL8hN7MVH+GUQxu5DkOLqe46jjNr+Yr/kKXaRrlFC0bzOk46cSXznp4IcwxajcOG2q2+nJ80uQGJl+qjZNuk1DXcdGsaGkXUrWpdjTWb+av6XWaTdaBgQ99PrXObCdYBV8hNu4d3QUBw0MorehFMklmumgXBENi/+E0fMG27XoaFPk4hDSGNop0S0uj1SdaktHormtCHrCI+uwPYrP/9CNtr9p8dktHQIM3n79C3KKNrfCZaXZRpFqC8b0UgcsxpDAmo6+4Q8nc=;wSMOf0uhAs/5Ifrb3X9yCA=="
+secured: "7psNXT5knqa0PZgAP/M8kT9p+uYHegSeWaKNn9Kjzuq+aCnjhWxQXAwAk1oNRXxPmEsQk163aUkzXu57oMmpOrQnA1R4PZwWeLlGTkg495ig63WETdlf+lnTpZbUUqumfPKJHRzgURdO3fQu3G8aflhGstM8l17JkwI1J1+rqniKf1UYNdKKy45S8dh4LX77Bz3As2fdQww8XSe9nEtQ4IzpZFSctx+6fK+mx16k+oEA2+WMefXtLT93kLtt3sKmUT903+mRbq1MJNzstcq3fQRbCSlwoLRammMWtUnCQkTy3clzk1lTv4hEw6UV66Jy0zBWHz6zwq3eEKFLbwsfzLd16L/oPQs5mPOTeHFMts8=;hhm6QwW0U+xxb2FOaF0/vw=="
 ---
 

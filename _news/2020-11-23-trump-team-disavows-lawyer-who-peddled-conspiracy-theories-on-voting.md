@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Federal judge tears into Trump administration over its handling of DACA"
-excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
-publishedDateTime: 2020-11-18T17:46:27Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+title: "Trump Team Disavows Lawyer Who Peddled Conspiracy Theories on Voting"
+excerpt: "President Trump’s campaign issued a striking repudiation of Sidney Powell, who had offered up widely derided conspiracy theories as she tried to aid the president’s baseless challenges to vote counts."
+publishedDateTime: 2020-11-23T02:48:00Z
+originalUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
+webUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
+ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027162026-daca-rally-0618-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -238,6 +239,22 @@ related:
       - url: "https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg"
         width: 460
         height: 259
+        isCached: true
+  - title: "Federal judge tears into Trump administration over its handling of DACA"
+    excerpt: "A federal judge in New York who ruled over the weekend that the new DACA rules were invalid tore into the Trump administration for its handling of the program in a hearing Wednesday, calling the latest government actions a \"sad and inappropriate use of executive authority.\"\n    \n"
+    publishedDateTime: 2020-11-18T17:46:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WhftvUg0p5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/daca-garaufis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201027162026-daca-rally-0618-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "GOP lawmaker: Colleagues waiting for Trump to come to terms with loss"
     excerpt: "Illinois Republican Rep. Adam Kinzinger told CNN's John Berman that he believes his Republican colleagues are waiting for President Trump to accept his election loss before recognizing President-elect Joe Biden.\n    \n"
@@ -907,22 +924,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Team Disavows Lawyer Who Peddled Conspiracy Theories on Voting"
-    excerpt: "President Trump’s campaign issued a striking repudiation of Sidney Powell, who had offered up widely derided conspiracy theories as she tried to aid the president’s baseless challenges to vote counts."
-    publishedDateTime: 2020-11-23T02:48:00Z
-    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Stacks the Pentagon and Intel Agencies With Loyalists. To What End?"
     excerpt: "So far, there is no evidence the appointees harbor a secret agenda or arrived with an action plan. But their sudden appearance amounts to a purge of the Pentagon’s top civilian hierarchy without recent precedent."
     publishedDateTime: 2020-11-12T01:39:00Z
@@ -1050,6 +1051,6 @@ related:
         height: 549
         isCached: true
 
-secured: "06k1Va6iEIgFpq3rt7zR5S1jM42/fhMnecQL+Omt91So80xus8Ur3HHOfGBPW0YE9U5vyxGGXRM988k+DyxjCXvBmp6PgVl8ZWwpYDt77Whm3R4DuMYlklqTxbTUJWau0HjztyMQTWsHnqSND/8DDIysYBljaecsU8Ah4cOJU8oNhZDEYB3TFwDHFmUGQGoLB6x41A6LugDAuMUmBxajILaZC4fwXADlsX4IQJp6pFFLsdcyJTNHZNqqZpTJkqrvcflh9Ay5GE5a8anYA1Hr6iwqU9nohBdpVl5BOB7Ef+Ucn3oviVaPD0BPc3jVI60BZb90czgz71xUM52rUSoi2CmJQQat8aafqzeJtXfHIiw=;vQGENs5iNwYon05ry4P0sA=="
+secured: "RbsAQgDjyUYmdrzsmsAjZ81c83c5/gnDcdZWAqngieckGp12+sMuT9enz+31itvp4hRELkkRX5omGFQNBh34BN839n4LQ4jVP9Si5uY1GGXZf+rDL6H3cnmxJ68r7H0DhaKNB0cDftDUY/fccqVe/PfLM+upnOo3vTLJYvne3XeelpKCeAWP1MIH4geeav44CHPYl1pXQMmdoc+4CLx91pBHgOeLpD/2aJ6txdjrOIONQnCtK61P49+AuKEgpOw/vMQOH9isg3v5cMlQIOadT0cwBIVdRvc4h2wmo/o8KKQxGLyKYlAgGoMYWRb2+BeqnJn01kox9RxFX8efcGsJbvXn3CDa2RKIcq3nS5wv6HU=;93v9nd7B3FrFzxf7SUrCQA=="
 ---
 

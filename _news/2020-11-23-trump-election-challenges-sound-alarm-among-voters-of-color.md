@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump election challenges sound alarm among voters of color"
-excerpt: "Joe Biden was powered to victory in Michigan, Wisconsin, Pennsylvania and Georgia in part by Black voters concentrated in cities such as Detroit, Philadelphia, Atlanta."
-publishedDateTime: 2020-11-22T22:55:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color"
-webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
+excerpt: "President-elect Joe Biden was in part powered to victory in Michigan, Wisconsin, Pennsylvania and Georgia by Black voters, many of them concentrated in cities such as Detroit, Philadelphia and Atlanta"
+publishedDateTime: 2020-11-22T19:53:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -398,6 +398,6 @@ related:
         height: 563
         isCached: true
 
-secured: "gMp/j5zqlYPO5GG/G7wHckURTNb7Vyv0LwuuFjDgwarJ9YkegGIkyuEfyaYPLnIwl4yuYMIqzOBiYAiuvUn07Z2DX+sh1o8n/taJvefItAkICEY5i2sXN8acWg9BvvywdVFgE9WZdDtlQKXZIWfyXRu2myN/QWfHEchp/uiv41kgdSOMepk2AwaRJ2MEPRqV3IoZyxqMN+Vu9wGBpIIlUqBE0F4+6v6mMb6zn6szSWRN4QkAkx0p8JgsOyKqIHrvKl/doUvJ8reBPzaS+oOMcoPxTmTNG6cqwDMmJiiQAHhzXAWuKGq2Pq2SPrIkF11pWyyMvCWL12uColE1/C1x0tb4wKGTdI55FJ7WHxkoSQg=;oVcSAc1CFMucVEACSgh5QA=="
+secured: "qa8MAboVRF306CQJf+3GDU5HtXYnYAJldxFP2Lb2eorLvOzQfLViEDu0xhk/ri0EbEIOVoophBu6Zw6/hmuR/B/EO+k4SD7s8IYQRUP0r6Pg1xK20/YdHo8oe36k+/QuuKCaELLWcPPbvhuxXzI9lQguhmecXxGRjvlQWegJUQt9EoeblXj0QBnk4p1Oc65S7vePhbhBGkk24fyw8aMPEOJSqMlOxpG9GlUMptKs3oFGsumZ0eDhm45injT3LBoYR5BT1irAmSP64C7hK2kQ5kix2G6C9khqDSRWxODEUQh582owFznWBfVb3Grn2YkM3Xng0GzORprtQmSx6bv/RnaofXxTIEn5o6kWJPA+k9k=;9CtJMq79eNOZyiwgCuHpRQ=="
 ---
 

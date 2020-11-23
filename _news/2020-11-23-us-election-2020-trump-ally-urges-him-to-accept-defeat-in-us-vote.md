@@ -64,20 +64,20 @@ related:
         height: 576
         isCached: true
   - title: "Trump election challenges sound alarm among voters of color"
-    excerpt: "Joe Biden was powered to victory in Michigan, Wisconsin, Pennsylvania and Georgia in part by Black voters concentrated in cities such as Detroit, Philadelphia, Atlanta."
-    publishedDateTime: 2020-11-22T22:55:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
+    excerpt: "President-elect Joe Biden was in part powered to victory in Michigan, Wisconsin, Pennsylvania and Georgia by Black voters, many of them concentrated in cities such as Detroit, Philadelphia and Atlanta"
+    publishedDateTime: 2020-11-22T19:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-election-challenges-sound-alarm-voters-color-74345706"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
     excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."

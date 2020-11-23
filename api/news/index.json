@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
+      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
+      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
+      "publishedDateTime": "2020-11-22T17:25:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-trump-campaign-parts-ways-with-powell-after-vote-switching-claim.md",
       "title": "Trump campaign parts ways with Powell after vote-switching claim",
       "excerpt": "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden.",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -286,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 182,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1284,62 +1340,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
       "publishedDateTime": "2020-11-20T16:13:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-former-gop-sen-corker-slams-trump-legal-challenges-calls-on-republicans-to-challenge-demagoguery.md",
-      "title": "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'",
-      "excerpt": "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
-      "publishedDateTime": "2020-11-20T11:44:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

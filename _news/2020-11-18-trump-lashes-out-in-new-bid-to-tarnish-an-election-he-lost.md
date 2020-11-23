@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -904,6 +904,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/merlin_176138586_35ef7c38-42aa-48f2-a55a-270f533056ea-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Team Disavows Lawyer Who Peddled Conspiracy Theories on Voting"
+    excerpt: "President Trump’s campaign issued a striking repudiation of Sidney Powell, who had offered up widely derided conspiracy theories as she tried to aid the president’s baseless challenges to vote counts."
+    publishedDateTime: 2020-11-23T02:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -924,6 +924,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Team Disavows Lawyer Who Peddled Conspiracy Theories on Voting"
+    excerpt: "President Trump’s campaign issued a striking repudiation of Sidney Powell, who had offered up widely derided conspiracy theories as she tried to aid the president’s baseless challenges to vote counts."
+    publishedDateTime: 2020-11-23T02:48:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/sidney-powell-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump officials object, but school doors are closing across the country."
     excerpt: "The Trump administration stressed its opposition on Thursday to closing schools as a means to combat the coronavirus, even as some of the largest districts in the United States were closing anew or postponed reopening."
     publishedDateTime: 2020-11-20T15:50:00Z

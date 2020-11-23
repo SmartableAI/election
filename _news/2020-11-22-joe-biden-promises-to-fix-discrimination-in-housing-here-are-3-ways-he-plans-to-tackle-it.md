@@ -109,6 +109,22 @@ related:
         width: 689
         height: 545
         isCached: true
+  - title: "Joe Biden to nominate Antony Blinken as Secretary of State"
+    excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
+    publishedDateTime: 2020-11-23T02:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 922
+        isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
     publishedDateTime: 2020-11-11T00:29:00Z

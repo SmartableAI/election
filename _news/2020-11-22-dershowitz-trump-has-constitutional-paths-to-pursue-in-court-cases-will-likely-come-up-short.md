@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-election-legal-fig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-election-legal-fight-sunday-morning-futures.amp"
 type: article
 quality: 162
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Chris Christie rips Trump's legal team as ‘national embarrassment’"
-    excerpt: "Former New Jersey Governor Chris on Sunday ripped President Donald Trump’s legal team who have been waging unsuccessful legal challenges to his loss in the November Election, calling their efforts a “national embarrassment.”"
-    publishedDateTime: 2020-11-22T20:27:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5aPvSdfwdDU/chris-christie-trump-legal-team-national-embarrassment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20327567521283.jpg"
-        width: 1024
-        height: 740
-        isCached: true
 
 secured: "rEr4qM8scXnoe5CoNt+C55HxcSISuvVGdvAR/dv5R0Pn68qg8Ha2C5JaMDkIfv7yThkDiUBTyVILOvXu/uE8yNjujklPfHMFNrF4fCgOCF0spdBg0CNKF0SHts+HQyNLuL+JariYXaV9w7j4AJ+OrZRSLr3pMS3PrSyh0jsL8Vi9Qs0LFYlQFvFf0pn/ysBOKFvoB/NpUrMp5rk/rLLiFSY7GIEW9QvtSIcZ0uOAWToCzKKkFDWaS5VQa8L/jZPi0aV2FuFXIeLIZsKExXssRhzb89GKVRa5RKU9/rY+poTbDFc7vl9+fTFNkSDLrBXPujP/QAISlfELOUV5j5kHzHq6ry+2T56UnLhi/xjJuLo=;IVcvOJ2S86oWZ4DddCuHRA=="
 ---

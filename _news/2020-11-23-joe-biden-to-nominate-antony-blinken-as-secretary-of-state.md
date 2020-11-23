@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Keep the tough approach or seek cooperation? China looms large for Biden."
-excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
-publishedDateTime: 2020-11-11T00:29:00Z
-originalUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
-ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+title: "Joe Biden to nominate Antony Blinken as Secretary of State"
+excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
+publishedDateTime: 2020-11-23T02:44:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
+webUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
     width: 1440
-    height: 960
+    height: 922
     isCached: true
 
 related:
@@ -111,21 +111,21 @@ related:
         width: 689
         height: 545
         isCached: true
-  - title: "Joe Biden to nominate Antony Blinken as Secretary of State"
-    excerpt: "President-elect Joe Biden is planning to announce that he has selected Tony Blinken, one of his closest and longest serving foreign policy advisers, to be his Secretary of State. It puts Blinken at one of the highest-profile cabinet positions at a time when Biden is planning to put foreign policy as a major pillar in his administration,"
-    publishedDateTime: 2020-11-23T02:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/joe-biden-nominate-antony-blinken-secretary-state/?outputType=amp"
+  - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
+    excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
+    publishedDateTime: 2020-11-11T00:29:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/11/10/china-foreign-policy-looms-large-for-biden/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4U264BCD4I6XHCKBXDCILCICQ.jpg&w=1440"
         width: 1440
-        height: 922
+        height: 960
         isCached: true
   - title: "Biden received 'congratulations' from Pope Francis: transition statement"
     excerpt: "Elect Joe Biden spoke with Pope Francis on Thursday, and Biden thanked him for his \"blessing and congratulations,\" his transition team said in a statement."
@@ -265,6 +265,6 @@ related:
         height: 600
         isCached: true
 
-secured: "i2kr1ZeAleElhITjmpmX4RxoZKzLI7u+m+CaMiQ7GwmgGOWkhBECa+7bDTmkGPorS0JHBHnvyRBdsRh2/mBeTycpAJtCie388MpWOydpxevzO3iPizDd6RK/TD/fZO0O3J3NnZkZEk/6uYEfjt7l7my9gUZL4pWKxIJnYONmvI44GMbf3kfjPIFM5ls8PnGbYTl/S7heJTSLp+Nx211iNwqOdZHgZYV04Bk1QjXmhSFJA2aRrdROR4kRJbWlRW+Iya0vVXrWuWw8aFuG+DBT5BK7eA8Y0PY7T0E2GlXKo73BHgpRmsAF0qwhdEDdJdThuukk7Q8/BzvDAKqvrl4tIDcyWup/sOtrB1mx8ylPaqM=;ttUwjeG3wh5nEGHJVzhlwA=="
+secured: "MZj62z96J2Dj49pjSzZprEZKLoJqIxaF+Gd8EZafX2cQPFUIJtvtBaKXnWfUwT3BDIfDNBvixdtoJpXBsdaxatF3NvULIxqfgRLCBA+WQl719rAgiOcZ0PFpQtv6CAVGKM0hscKDxgWu81T9nZPWVChXAKlapo2gkJyKYU5PFGijYRSpvLR/BPGYOX+8ywARzASPWs3+bbmk1nl9vzQU5FOkHeuk5dNJEYDcK//kYLo0KcdMQ/9PJaglVXclx/M+D1VCp0WUWs99wSf/N9tyg5PTXPCM50S0flB1Za2Kxm6fBKbo6Fch1MPYmj546F1u2/RHagvzB9MG0xwBY0V0snxvyJ+A0zTSeiFeroKNj4g=;lCjN2AU8nqCLm4hWEjr7LA=="
 ---
 
