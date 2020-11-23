@@ -2,6 +2,222 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-23-trump-campaign-parts-ways-with-powell-after-vote-switching-claim.md",
+      "title": "Trump campaign parts ways with Powell after vote-switching claim",
+      "excerpt": "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2820UB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB",
+      "publishedDateTime": "2020-11-22T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-biden-expected-to-make-trip-to-georgia-to-stump-for-ossoff-warnock.md",
+      "title": "Biden expected to make trip to Georgia to stump for Ossoff, Warnock",
+      "excerpt": "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
+      "publishedDateTime": "2020-11-22T13:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-larry-hogan-to-trump-stop-golfing-and-concede-the-election.md",
+      "title": "Larry Hogan to Trump: 'Stop golfing and concede' the election",
+      "excerpt": "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
+      "publishedDateTime": "2020-11-22T12:14:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
+      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
+      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "publishedDateTime": "2020-11-22T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-chris-christie-calls-trumps-legal-team-a-national-embarrassment.md",
       "title": "Chris Christie calls Trump's legal team a 'national embarrassment' ",
       "excerpt": "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n",
@@ -14,7 +230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -70,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -182,7 +398,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 959,
+      "heat": 999,
       "tags": null,
       "images": [
         {
@@ -390,58 +606,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-22-justice-dept-meets-trump-giuliani-vote-fraud-claims-with-silent-skepticism.md",
-      "title": "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism",
-      "excerpt": "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-21T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-21-rep-elect-august-pfluger-of-texas-calls-biden-oil-plans-extremely-alarming.md",
       "title": "Rep.-elect August Pfluger of Texas calls Biden oil plans 'extremely alarming'",
       "excerpt": "An Air Force veteran newly elected to represent an oil-rich Texas district said President-elect Joe Biden's proposals on taxes, and the oil and gas industry are \"extremely alarming.\"",
@@ -471,6 +635,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-elect-august-pfluger-air-force-veteran-from-texas-calls-joe-bidens-oil-plans-extremely-alarming.amp",
       "publishedDateTime": "2020-11-21T12:02:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.md",
+      "title": "Trump calls into virtual G20 summit, talks COVID-19 with world leaders",
+      "excerpt": "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp",
+      "publishedDateTime": "2020-11-21T11:40:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -666,7 +886,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 980,
       "tags": null,
       "images": [
         {
@@ -931,62 +1151,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-21-michigan-lawmakers-meet-with-trump-say-they-are-unaware-of-info-that-would-change-election-results.md",
-      "title": "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results",
-      "excerpt": "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp",
-      "publishedDateTime": "2020-11-20T17:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-21-coronavirus-live-news-donald-trump-jr-tests-positive-as-mexico-deaths-pass-100000.md",
       "title": "Coronavirus live news: Donald Trump Jr tests positive as Mexico deaths pass 100,000",
       "excerpt": "Obrador rejects criticism as political attacks; Canada fears big rise in cases could overwhelm hospitals; Italy records 37,242 new cases",
@@ -1200,166 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-call-his-bluff-edward-norton-lays-out-poker-style-trump-analysis-we-never-expected.md",
-      "title": "‘Call his bluff’: Edward Norton lays out poker-style Trump analysis we never expected",
-      "excerpt": "Actor Edward Norton spelled out Donald Trump's lame-duck actions in poker terms on Friday, laying out the president's \"desperate endgame.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/9a49969/2147483647/strip/true/crop/5606x3661+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2Fc0%2Fa44b6d7448beb7ccb29c4145503d%2Fap20173019976707.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/movies/story/2020-11-20/edward-norton-donald-trump-poker?_amp=true",
-      "publishedDateTime": "2020-11-20T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-mcenany-rips-inexcusable-2016-transition-says-gsa-certification-for-biden-will-come-at-the-right-moment.md",
-      "title": "McEnany rips 'inexcusable' 2016 transition, says GSA certification for Biden will come 'at the right moment'",
-      "excerpt": "White House Press Secretary Kayleigh McEnany on Friday said the General Services Administration will certify Joe Biden’s election at the “right moment,” while slamming the 2016 transition process from Barack Obama to Donald Trump as “inexcusable.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp",
-      "publishedDateTime": "2020-11-20T10:19:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-trump-influence-seen-in-deadlock-of-michigan-election-board.md",
-      "title": "Trump influence seen in deadlock of Michigan election board",
-      "excerpt": "President Donald Trump's efforts to sow doubt about the election seem to have played a role in a move by two Michigan Republicans to block certification of election results from Detroit",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 720,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
-      "publishedDateTime": "2020-11-20T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

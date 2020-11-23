@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump team making false argument about his 2016 transition"
-    excerpt: "Donald Trump and his allies are harking back to his presidential transition four years ago to make a false argument that his own presidency was denied a fair chance by Barack Obama’s team for a clean"
-    publishedDateTime: 2020-11-22T17:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Spurred on by false claims of fraud, Trump supporters rally in Washington"
     excerpt: "Tens of thousands of President Donald Trump's supporters marched through downtown Washington on Saturday, echoing his unsubstantiated claims of election fraud and cheering as his motorcade drove past."
     publishedDateTime: 2020-11-15T07:46:00Z
@@ -111,6 +95,17 @@ related:
         width: 1200
         height: 681
         isCached: true
+  - title: "Trump team making false argument about his 2016 transition"
+    excerpt: "WASHINGTON (AP) — It’s not just President-elect Joe Biden’s transition that’s under a microscope."
+    publishedDateTime: 2020-11-22T21:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Mwl5ASeELZ8y/UceA67m4nny/R0ybxGyPHoVC/q6FlO9U5XoHKP+gMYuEjgzla189Oxs6Yo4KLv2JDl62onwkJTT1JTlcW0SpRfuhTucY1eQyAy0IxVATm3EdJb9kdhTnDwwBM6atWfi9xeddBRYlagOfIAsOkN0kpRErEZq2GSj1xv8n2javomOVVCVQh6iXAKum/ZEJbQbxIMrE3fV65pYFIGUDQZoXMwAvxh+BMtrHuEM+D6auUc9l+uGIujix3jQviatWODoiA5iHZB1GV16nvnZSqNbvu7X77pKTMApJEE/7w/biFEaiN+/SWW7+zASXYoEPX4MHsSRFIUgIBMIMd6lQDD5u6wzzzlHAh+FpbxNdFxqkREBtW1yUJYBV8W+aKymzq/as3hk4MLSDJlNVRgCzxZdiR4WjIcW7vrao48kVntgS3AOLmXxH8JUb/LHag/9Flcd3jkuBy8yfXUcItPIvCXkfT/GAoKLmRtjBD9MLy4zdGH/+Np8KyjLe8sApSbg0gedVSfdXQv79g==;WaHA/poVesWCDNmla1lRog=="
 ---

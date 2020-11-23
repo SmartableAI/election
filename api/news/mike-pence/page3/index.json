@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
+      "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
+      "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/20/USAT/30b6b6a8-f313-416b-bda7-2d96d93cab19-AP_Election_2020_Pence.jpg?auto=webp&crop=3478,1956,x0,y177&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3720360001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001",
+      "publishedDateTime": "2020-10-22T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh.md",
       "title": "Vice President Mike Pence To Make Campaign Stop In Pittsburgh",
       "excerpt": "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ...",

@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Michigan leader: Trump didn't ask for election interference"
+    excerpt: "Michigan House Speaker Lee Chatfield says President Donald Trump didn't ask the state's Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House"
+    publishedDateTime: 2020-11-22T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_077cc0b67660404b9c5897228a3dc50d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
     publishedDateTime: 2020-11-20T20:57:00Z

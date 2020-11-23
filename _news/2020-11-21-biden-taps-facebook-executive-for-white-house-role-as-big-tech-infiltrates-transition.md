@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes"
+    excerpt: "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview."
+    publishedDateTime: 2020-11-22T20:19:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "oAmpZDX1+SCe1menniiM9L6x/lkjcVrtWUxptCCoYU9SyqNWI8ttdp6goH4XTcnqKHDsngR0BQ3m7s1FEpJwIk8dYHw3KbyZNEBS3R9X9keR+MkLNJyCVsgwX4MfhCr7WdaPCVFLg55zJjCtfAMWaIARj8w3PPnZ0TFdWjjqg1n/dY10KRw66Z1JDrFpR2iY3mPWQ4FNkGsIUmLtfYJoB3voshFuGcA5w7ypSukY/T+hLPfecTq2pnUtfcDjpuSVjd0XAn6lpRDWBcXQ61e9ErvCDRr6GTO5lul4icENR1tfUAHo3aCbwN9778tusL8AWfdNY0cvEBGzai7ATkw27o8QjAdT+NrW8hdE6nK35fw=;8kBEZVaqHMDy7HGE/v3YHw=="
 ---

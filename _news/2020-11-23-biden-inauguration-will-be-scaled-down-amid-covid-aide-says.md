@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pompeo touts Iran policy in Gulf ahead of Biden presidency"
+    excerpt: "U.S. Secretary of State Mike Pompeo is defending his tour of Arab Gulf states and the Trump administration’s continued efforts to squeeze Iran, even as a new U.S. administration led by Joe Biden prepa"
+    publishedDateTime: 2020-11-22T13:44:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_79b95503c7e24edf9b39f4c30a2704cd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."
     publishedDateTime: 2020-11-11T00:29:00Z
@@ -233,6 +249,6 @@ related:
         height: 600
         isCached: true
 
-secured: "I/f1Wg/RrI4CcFRgI0/exrQ0l7BJkS+r71mFFrDefvjtUwGM9ts4YPvwdJHOeXFmk0QP6KGqFAzwN5l0kPvSq5Ai3YkKxmL1ZvDwENvUE/ddAW1dcRytOEjPNW79xlUkhEIF1glbFU24dFN4gkP7d/A/3EIcPO1A4W2yXTDq8v7mCRE947/GcP5VXeFNmrVfs2jnQ96qBq7RaPrfAiMVb4N5yU1zSskuNJGKvMT4CrFvs0NvVdI0vlAt3PcoXW/X/SBEBV0yKS0yg9N8kMC3yRK47MfzB7kWG+a0TXQzn8m0xxVJzEEibKa0vKwfJe3xrF3vc0VmJluK6F0TD9imDFdhb7GXkOen9+jq+Apyzl0=;sl2fQVev+Hs4Mdo9AOt7TQ=="
+secured: "HisOvDNWKxU986jXfxN+tHejtsGCrJU44xeUcSRTTZj8k7Wdvb2FKZQyZBhrxYsZJHksk7XdeymuEK0vSulhFHwyzECnsGvAP0BBrBAGaePywbPjyFZndWbNGSbciBxyazlNjRQfUy8/tdTJQ7KVAknlsvwutz4LM0oN/XXsPlINgW/2UyOaf2mpjm5jnPHmLanVTbz3nHWzIbcH0DFiju/o0Rsss6pLpKNA2i1tVConWfsw39FA1UCtyJ5pTFy2+Gyb9l4TEgbSeYOXf+fBS1B/1SvSGOTqWKWQjAoGCwFAcoGMjXTH+xz9keS3ZmTb7XHNfQGoCR3Ozlk0Rp9bVvlJxiDYLjxTj6oLMK0C8bJN5SvWjJ2DFJt4/nH/1gFy4d9SjclMef2zmHj2XADAqaHXVBB9pbWMj290nBUByrfXZK3x+twwRQSYE6obJayuNySV4d6/o5L/7SoruHofzSpgTNGroeCsgfyRMTavoM1dFR5WC7B8IyV9Vtaw/flvPpeW04yVKkafRElzag0zhw==;NW2B1CmDfScPL/PefFx/AQ=="
 ---
 

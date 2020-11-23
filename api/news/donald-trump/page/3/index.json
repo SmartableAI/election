@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-11-join-us-at-1-pm-et-thursday-for-a-chat-with-insider-politics-reporter-tom-lobianco-about-whats-next-for-republicans-and-trump.md",
+      "title": "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump",
+      "excerpt": "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "originalUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp",
+      "publishedDateTime": "2020-11-10T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-authoritarians-from-mussolini-to-trump.md",
       "title": "Authoritarians From Mussolini to Trump",
       "excerpt": "Ghiat contributes to this literature in a book that compares Trump to a wide variety of earlier strongmen, including Mussolini, Hitler,, Francisco Franco, Muammar Qaddafi, Silvio Berlusconi and Mobutu Sese Seko,",
@@ -436,7 +488,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 15801,
+      "heat": 15821,
       "tags": null,
       "images": [
         {
@@ -1041,58 +1093,6 @@
       "ampWebUrl": "https://www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-chris-wallace-casts-doubt-on-trump-election-lawsuits-2020-11?amp",
       "publishedDateTime": "2020-11-07T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-08-rudy-giuliani-releases-politics-video-pausing-for-a-sponsored-cigar-commercial-and-blaming-fox-news-for-trumps-defeat.md",
-      "title": "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat",
-      "excerpt": "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
-      "originalUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp",
-      "publishedDateTime": "2020-11-07T10:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

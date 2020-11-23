@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
-    excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "
-    publishedDateTime: 2020-11-19T00:02:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW49pO_2Yak/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b33d5c9-6607-4ab8-bfb8-6152a9e00754/51d36a08-79b4-4fc3-b161-51e90e4f3205/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024"
     excerpt: "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024."
     publishedDateTime: 2020-11-11T00:08:10Z

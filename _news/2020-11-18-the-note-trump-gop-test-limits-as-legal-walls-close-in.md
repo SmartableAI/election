@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Trailer: All the votes Trump and his allies are challenging"
+    excerpt: "How to get rid of 5.2 million votes, the down-ballot Republicans adopting the new “don't concede” mindset, and the latest from Georgia."
+    publishedDateTime: 2020-11-22T23:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/22/trailer-all-votes-trump-his-allies-are-challenging/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/22/trailer-all-votes-trump-his-allies-are-challenging/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/22/trailer-all-votes-trump-his-allies-are-challenging/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/223XM7BNAAI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 1039
+        isCached: true
   - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
     excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
     publishedDateTime: 2020-11-18T22:10:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/ce583045-798c-46cc-a18d-e3b61692e606-AP_Trump_15.JPG?auto=webp&crop=5026,2827,x0,y20&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Morning mail: Trump urged to drop legal fight, pill testing support, platypus habitat loss"
+    excerpt: "US president faces pressure from Republicans to drop court battle over election results. Plus: platypus threatened by shrinking habitat"
+    publishedDateTime: 2020-11-22T20:08:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2020/nov/23/morning-mail-trump-urged-to-drop-legal-fight-pill-testing-support-platypus-habitat-loss"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+    images:
+      - url: "https://i.guim.co.uk/img/media/47f7a111879bb65257e7055fa97774c03a3f0350/0_0_5292_3175/master/5292.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71fbd817f0d27663b419dcd9b5eba51b"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump's chief of staff told GOP senators to 'make the most of' the next 45 days in an apparent admission that Trump could leave office"
     excerpt: "Chief of staff Mark Meadows seemed to acknowledge to senators the reality that Trump is leaving the White House — though Trump himself has not."

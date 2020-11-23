@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump calls into virtual G20 summit, talks COVID-19 with world leaders"
     excerpt: "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency."
     publishedDateTime: 2020-11-21T19:40:41Z
@@ -76,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
-    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
-    publishedDateTime: 2020-11-20T14:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

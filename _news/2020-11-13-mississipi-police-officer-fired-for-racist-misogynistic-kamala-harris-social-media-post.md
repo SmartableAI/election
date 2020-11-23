@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "GOP Congressman Steve King Faces Backlash for Asking Kamala Harris if She Is Descended From 'Slaves or Slave Owners'"
+    excerpt: "\"Who's going to tell him how Black people got to Jamaica and how some of their descendants wound up with European blood?\" said Joy Reid."
+    publishedDateTime: 2020-11-22T21:47:00Z
+    webUrl: "https://www.newsweek.com/gop-congressman-steve-king-faces-backlash-asking-kamala-harris-if-she-descended-slaves-slave-1549361"
+    ampWebUrl: "https://www.newsweek.com/gop-congressman-steve-king-faces-backlash-asking-kamala-harris-if-she-descended-slaves-slave-1549361?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-congressman-steve-king-faces-backlash-asking-kamala-harris-if-she-descended-slaves-slave-1549361?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 102
+    images:
+      - url: "https://d.newsweek.com/en/full/1674326/steve-king.jpg"
+        width: 3000
+        height: 2196
+        isCached: true
   - title: "This is America: Kamala Harris is a first – and 'won't be the last'"
     excerpt: "She is Kamala Harris. We are Fatima Farha and Kaanita Iyer, writing this week’s \"This Is America,\" a newsletter centered around race, identity and the ways they shape our lives. Harris’ win is a groundbreaking moment for our country."
     publishedDateTime: 2020-11-12T22:54:00Z

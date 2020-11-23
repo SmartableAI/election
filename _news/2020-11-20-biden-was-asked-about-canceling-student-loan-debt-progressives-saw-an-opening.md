@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden has made his pick for treasury secretary, says he will announce choice soon"
+    excerpt: "Biden's team signaled to allies in the business community that he had whittled his list of options for treasury secretary to at least three names."
+    publishedDateTime: 2020-11-20T07:13:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/joe-biden-made-his-pick-treasury-secretary-says-he-will-n1248302"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248302"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248302"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429713/201119-joe-biden-se-510p_fc983fc16986ee10227b7c1e7809a2f5.jpg"
+        width: 2500
+        height: 1707
+        isCached: true
 
 secured: "HtNdqy0a0UCl5tIBxrpS5q0CzA48LkIQ0dR7TZ0Ku8t2iXfAZ2FhgpzWBTBgO/w+ggsAeSCrzdxo8Yb7tOSpO5i8E/oIKG2kX24+rlxzoTD/ehEtyaLn/WXg1UheEfW+Lum9rJs7mEzuNTdsWxIgNRzZEEgXxZdF9NbIyb0C3CBcgohHq3zinxFpOzF6zHVipRUAZv3Ou4fSb6LShe4NDHWWRpZcQL6fEFYgpE93fok3KZdZm77uj3hank/GfXw/uNNnCTtlRAjBBMVNTN0yEJKszURdVNgDgeu+48x3zRLgSH+s5VXtE1NTuORIsJz0ms9W667QlGjxBY6hS4XfX+U60XbOS6pnxkfBSEAdOKG8JolV92B7+2QE+Qu1dGyan26LT86NfKhzZOYY/6bHAzXyyDZHqubVB885ssCXiZ/EVrAfyViBpidKcIIbz51h4meYBmidq9EBRRTrii1cd9q+R1d1FJBg3ftvKNHAV/qx9ijAf09fc9y+Hg+veRbk6TpBnpdBflS0VKUV5CQ2Hw==;dRhLqBLa/aR0a9S7wGey6w=="
 ---

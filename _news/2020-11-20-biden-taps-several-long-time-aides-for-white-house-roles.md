@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden has made his pick for treasury secretary, says he will announce choice soon"
+    excerpt: "Biden's team signaled to allies in the business community that he had whittled his list of options for treasury secretary to at least three names."
+    publishedDateTime: 2020-11-20T07:13:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/joe-biden-made-his-pick-treasury-secretary-says-he-will-n1248302"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248302"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248302"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429713/201119-joe-biden-se-510p_fc983fc16986ee10227b7c1e7809a2f5.jpg"
+        width: 2500
+        height: 1707
         isCached: true
 
 secured: "2+nbcDqTeG2Gc16kTjbf/81w0bieTTlE2s5LJJMWwCXYk4hMX3vEqrOMhzJyMZgEtvDXQcdpmZjBRac9YojGbbvZdFIqjDZkq1tm5NLWTVjvVBYkNkbPGZm1wjbuGr0R3L55XrU8p5dCV5CNQ3wetbTg0vgvSivFwlEVVF3BOXboIrmYjUG2/s8qMeBtPA2t2e4BsafuJbCVPISojsr4d/lZ3jHeFNEVWixdj8Qd4FffJwtD6xcShc4CM32FINF5shFS7os94NrbIPkHVf1193+z/1rKYYquOLQHBvdGnW6uP0rJvvQqb4vtd4iX99+pSh3yFw6w0wRw6zRt4+DP9uMTR3KAlIKyKA2JbBkTlo8=;T1AqMhdlw0Q77AkiZYqMFQ=="

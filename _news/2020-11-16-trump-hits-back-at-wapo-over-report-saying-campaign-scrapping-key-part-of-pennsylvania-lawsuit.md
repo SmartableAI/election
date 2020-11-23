@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
+    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
+    publishedDateTime: 2020-11-19T16:20:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
     excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
     publishedDateTime: 2020-11-11T16:54:42Z
@@ -46,36 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea9f25e8-6385-4323-b73b-db50ab67f4f3/571ae161-8619-4643-8c44-cefd5e7c3e27/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump vows to keep ‘fighting,’ will use ‘every aspect of the law’ in ballot-counting battle"
-    excerpt: "President Trump on Friday vowed to keep “fighting,” saying he will use “every aspect of the law” as election officials in key battleground states continue to count ballots for the uncalled 2020 presidential race."
-    publishedDateTime: 2020-11-06T19:03:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZvHPT2-nI5E/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vows-to-keep-fighting-will-use-every-aspect-of-the-law-in-ballot-counting-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Campaign Gets Positive Ruling in Challenge to Pennsylvania Vote-Count Process"
-    excerpt: "In a win for one of the Trump campaign's recent legal challenges, a Pennsylvania appeals court ruled Thursday that poll observers must be allowed to closely observe the vote-counting process. The Trum"
-    publishedDateTime: 2020-11-05T16:21:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/ZhdOMn7amAYher9H1Hgp"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 109
-    images:
-      - url: "https://images.wsj.net/im-255469?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "E33wUAgM1B2lE2HS+yTqynmBHMDQQd6Jy1qWguOrTGPIwIBRQrKthvBDrpaaqdb6Q29wJzioSTG5G4kNP+q9DLLz3MY/fjwULZk9H7LWbfj6YkF3/h6htyMKsCjkZdJX7ZKp8bDsnKhFacSXw59A3AXIeFf9hyGjfKndMs3jxziCxuhBE9Ffw4rWAk2952932wEfxaul8F3Lx/X+d1rxSY2aePhEzJvT3BcyYI9L42nFl842fJy6dWoz4Vqs7J3lXIm7tnn/+GgSX56DEOT6Ht59Cexhjb8B5n0nPpsMSPDP9EuVdRy219JM7y9h79apzQ2N7/GMtsWuzktjHYZGCCg9YAfuSLkSTecvgwh8HwE=;XakDW+ObzkJqwb50VZtIsw=="

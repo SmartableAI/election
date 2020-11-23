@@ -159,6 +159,38 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "In Wisconsin recount, Trump challenges pile up and slow tally"
+    excerpt: "A large contingent of observers supporting President Trump are making their presence felt in Wisconsin's partial election recount."
+    publishedDateTime: 2020-11-22T22:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/wisconsin-recount-trump-challenges-slow-tally?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "In Wisconsin recount, Trump challenges pile up, slow tally"
+    excerpt: "A large contingent of observers supporting President Donald Trump are making their presence felt in Wisconsin’s partial election recount"
+    publishedDateTime: 2020-11-22T20:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump campaign would have to pay nearly $8 million for Wisconsin recount"
     excerpt: "President Donald Trump's campaign would have to pay nearly $8 million to start a recount in Wisconsin, a state he narrowly lost two weeks ago."
     publishedDateTime: 2020-11-17T11:57:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
 type: article
 quality: 169
-heat: 229
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,53 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump"
-    excerpt: "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday."
-    publishedDateTime: 2020-11-12T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp"
+  - title: "Larry Hogan to Trump: 'Stop golfing and concede' the election"
+    excerpt: "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election."
+    publishedDateTime: 2020-11-22T20:14:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election"
+    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'"
-    excerpt: "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\""
-    publishedDateTime: 2020-11-11T00:08:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ud_ZkW3g830/mike-pompeo-trump-administration-one-president-at-a-time"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-trump-administration-one-president-at-a-time.amp"
+  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
+    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
+    publishedDateTime: 2020-11-21T01:00:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 176
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be5ee69f-d07b-4ce2-94b3-49542bf4a361/c66c74b5-8b94-49cd-b059-8a3e287e3253/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Judge Rules Trump Administration Can’t Immediately Expel Migrant Children Under Pandemic Order"
-    excerpt: "The ruling said the Trump administration can’t immediately expel unaccompanied immigrant children and deny them a chance to request asylum under a public-health emergency the government declared in March."
-    publishedDateTime: 2020-11-18T18:03:00Z
-    webUrl: "https://www.wsj.com/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judge-rules-trump-administration-cant-immediately-expel-migrant-children-under-pandemic-order-11605721508"
+  - title: "Trump’s conspiracy claims will have long hangover"
+    excerpt: "What we're trying to illustrate is that not all conspiracy theories are alike."
+    publishedDateTime: 2020-11-18T22:23:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xuSVrjzD4M/trumps-conspiracy-claims-will-have-long-hangover"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'"
+    excerpt: "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday."
+    publishedDateTime: 2020-11-15T19:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Obama-Biden-Flint-Michigan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
+    excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "
+    publishedDateTime: 2020-11-19T00:02:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW49pO_2Yak/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b33d5c9-6607-4ab8-bfb8-6152a9e00754/51d36a08-79b4-4fc3-b161-51e90e4f3205/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Administration to Release New Rules Reducing Drug Costs"
+    excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
+    publishedDateTime: 2020-11-20T04:19:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 123
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-261647/social"
-        width: 1280
-        height: 640
+      - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "lw0r20cl0ZQAtTjC+vklMV13FqiJ7WYrpoXdtcAxoIdtPYxazvXSddiWrT64jY6Zrn2Il2hqomvsvhUtclescWWZfhuuAlytd9YSKC49buxHLAIFBeoeW/ovlb3jR9i45oJorlqXC9JKNNMEFgwyzj93uHx+IvCIe5cDiHbnpHTtt57PsbhCWFwFvKd4m38jPKkkl89uwoQg3UhgYj0XVRqDK5eUz+1Moy0h1p4NLgxlNwAwWiAS/oZ5KeFINVQu1BLvC3CX3kN6On7kO1hoILeoxgbsitvLgPtr6xClvAMfvDhjD5MZuee/9OUlasOlUkJCYeZF96x6c/qNtyBYW7t16HuOHbMAty40k0oPKuc=;6PHllNBrc65+j9d4gQwkaA=="

@@ -61,6 +61,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump election challenges sound alarm among voters of color"
+    excerpt: "Joe Biden was powered to victory in Michigan, Wisconsin, Pennsylvania and Georgia in part by Black voters concentrated in cities such as Detroit, Philadelphia, Atlanta."
+    publishedDateTime: 2020-11-22T22:55:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/trump-election-challenges-sound-alarm-among-voters-of-color?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/97f8e63/2147483647/strip/true/crop/3639x2377+0+25/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F30%2F81aab5264727991f7a823d391e72%2Fbiden-65717.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "US election 2020: Trump ally urges him to accept defeat in US vote"
+    excerpt: "President Trump has refused to concede the election, making unsubstantiated claims of widespread electoral fraud. Many Republicans have supported his legal efforts but a small but growing number have broken ranks."
+    publishedDateTime: 2020-11-23T00:14:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55038777"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55038777"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55038777"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11AF8/production/_115604427_gettyimages-866761794.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
     excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
     publishedDateTime: 2020-11-18T06:46:00Z
@@ -335,6 +367,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump's decision to withdraw troops from Afghanistan prompts security concerns"
+    excerpt: "The Trump administration this week announced plans to withdraw 2,000 troops from Afghanistan by mid-January. Critics say the withdrawal could lead to more violence in the already war-torn country. Imtiaz Tyab reports."
+    publishedDateTime: 2020-11-22T22:39:00Z
+    webUrl: "https://www.cbsnews.com/video/trumps-decision-to-withdraw-troops-from-afghanistan-prompts-security-concerns/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/22/9f2f0cc0-f69e-4cef-8033-046102b91c49/thumbnail/1200x630/f38542116f301e38c774ea9ecbe8e23c/1121-en-tyab-593299-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump cancelled his annual plans to spend Thanksgiving at Mar-a-Lago, as aides describe a 'bunker mentality' at the White House"
     excerpt: "Since the election President Donald Trump has largely confined himself to the White House, watching cable news, tweeting, and firing senior officials."
     publishedDateTime: 2020-11-18T16:07:00Z

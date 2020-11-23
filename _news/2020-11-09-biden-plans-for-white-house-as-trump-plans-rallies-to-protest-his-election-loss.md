@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15801
+heat: 15821
 published: true
 
 provider:
@@ -2751,6 +2751,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f630455b1df1ae42915822750d1f98556fc6c2ce/0_406_5508_3306/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9ed423b7c317584d2eea90a7370204c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump slams global climate agreement Biden intends to rejoin"
+    excerpt: "President Trump rails against the Paris climate accord and tells world leaders at a virtual summit that the agreement was designed to cripple the U.S. economy."
+    publishedDateTime: 2020-11-23T00:40:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44bdcb4/2147483647/strip/true/crop/3600x2351+0+221/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F10%2F6e%2F7cf459314ea1ba893cf600c2a3ba%2Fgettyimages-1175710803.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

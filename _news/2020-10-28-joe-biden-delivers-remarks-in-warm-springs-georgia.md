@@ -655,6 +655,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
+    excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
+    publishedDateTime: 2020-11-21T02:50:00Z
+    webUrl: "https://floridapolitics.com/archives/384675-mike-pence-election"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Pence-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "aBhCqDUZzmyvmZ4w8d9l1zPB2Llab9xozSnW4mKApGTIre4XdtLOndBGE5j7KdVii2bLEg24vlGxfe9yPTbxCmP4qrelb02Wx8Pzk0cwX1lhyP82RaQpZbpv9EV6ezUHY49zlsbpcPVSgjiNtxt1UcSATMC6Jgtn4n/QXLke7hXO6B1JFUKGrJrdDFbNV9gQeSkg1LgwqEfTiWKKNHru67S4EQhXWV0p+A1vId5yY7AW3leiaRW7/JXx4sRHnH7QOcVpcUbEox2YWdD7Di+pchwM1C3bkXYVbuMWa6BHKq4bK4PaW3QpCyMzuLN3j8J4tZBXJj4o370qj1kaRaTnRsmsFpnA00uXXiDdHG+v2AEhSbQE3KewgfN2dgm3HEWwdibrFBJN7FfZubMo0xpjxuH0dJdcsGUakGAD1X2CT/VTr9hMsZOL0Is7oOcyCl1tQeM5q+EBt9a/87QAtruwWOsFuLYmpo3VEDR03AFP2dmNHHU8m3mQYCqg44v9P6xjLburLIMLsxuUKGKoH7tJDQ==;CaW07aIi96gqMVvqVjZmUg=="
 ---

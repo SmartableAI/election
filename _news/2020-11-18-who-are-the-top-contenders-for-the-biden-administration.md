@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/deborah-birx-ss-jt-201120_1605888616659_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pompeo touts Iran policy in Gulf ahead of Biden presidency"
+    excerpt: "U.S. Secretary of State Mike Pompeo is defending his tour of Arab Gulf states and the Trump administration’s continued efforts to squeeze Iran, even as a new U.S. administration led by Joe Biden prepa"
+    publishedDateTime: 2020-11-22T13:44:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/pompeo-touts-iran-policy-gulf-ahead-biden-presidency-74344603"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_79b95503c7e24edf9b39f4c30a2704cd_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

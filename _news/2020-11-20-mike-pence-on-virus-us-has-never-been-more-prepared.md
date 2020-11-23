@@ -2,19 +2,19 @@
 category: news
 title: "Mike Pence on virus: US 'has never been more prepared'"
 excerpt: "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of"
-publishedDateTime: 2020-11-19T23:10:00Z
-originalUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
-webUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.html"
-ampWebUrl: "https://tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_89bee7e7-84bc-5ccc-8b62-a2a7a12ae1a5.amp.html"
+publishedDateTime: 2020-11-20T02:08:00Z
+originalUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.html"
+webUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.html"
+ampWebUrl: "https://www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/mike-pence-on-virus-us-has-never-been-more-prepared/video_3b807094-5fd9-5240-af71-6cff7158a319.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
@@ -52,6 +52,6 @@ related:
         height: 799
         isCached: true
 
-secured: "hM5TOXdvc/yUjD8kx6U8/BgMJpeIzQWOuM+fngKrQ8JDu3+uwnG+7Yc/yQrGrX/7/E7fL/iNZHo0cbewL6BkkfOdd9VSXf3XdrKLcsnysG3OW97PJLu5Dyr+dbzYo+fYzOJcmECgOY/Do5KS1mAs/3EBZpETJrBEelryg8cBpklAzdTCh3AkFZdHDFsDefLeFZmW5eP26fjoB2PaUWXurYz/v21baPgJ57FXZMdACfSDhBuAkq1SyiA6xZNccKHiAZeUgvCfdrL/2zjO1X6oFf1QoPlf2RtgQ0WZ4k1t6R/8Sql3ygP3iSUjdG6DHCn570H9ZTjYVi1KWVFys1L1H7B5QeLQ7zvUTdfElaWItWbZoa+B+fgh8MmJZn2+VjvWF+6K59b35uSe0LD0jROxwvFvIVzMWE56R+ShaXvjUIXj1KsE0i5hMeIbrn8DxWmX22zzP1/PoFPkz097uQZm2xIpkgMUwHaZjnjX7gVm4YXmIX74lHqPcNPAkkTmi3yhEzw+5paLJ6w5tAfX3B6NpA==;OrS1BYspY6/am4RXqyW3Mw=="
+secured: "5WmTrGZzq3kmcsgidT46JEgqpyo2JPRoyo2G36hkyLxNMKdecquNz4K23n8og/dvVkcr9y4TljORTSc87sBiR/CbHbOTURIhbZBiq85/+aEkWbyRK8PoHjfeiubPeMTVtWU4bKSwBWutp/+yNfYokxSy6Szw0rSg6c8LEZu9ZVbnY9Gjq9ChCnvOCViw0ZOY8Nwu6bmRiXyUFowC4SXyM4ZhZdFm6UGwMDCv/EdqLipmu8CmhMQGtj5RBu63foYvJSybcuCMEloai85h4jkskSK7zjirNiFgr5edDMOqgD2Gt8c5ihZgJ935G8/a5eJ4EQthy3QJJ+2kQmS/8qAWV9TbpiSAzmKxJV4IPt6SDcHSGb8wDWKtKR9iPVtHuZsbogkvSsXweMturKAWOZJ7UiC/mQr4gCyzBEQz38sdnIsl9l/Vt5dY9fZRNNKC10TgBSYooZK14Gem8h0beAchqGZzPficJwD0R+uZOcMRjo3Etmmf8OXZXGuV95ret6TVsfUxejsoCUX2PqyO9WDBdw==;IvdJZYJZyN9/hS6j7zbohw=="
 ---
 

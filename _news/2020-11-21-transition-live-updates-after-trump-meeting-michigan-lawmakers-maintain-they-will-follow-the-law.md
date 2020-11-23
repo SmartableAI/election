@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Christie calls Trump's legal efforts a 'national embarrassment' as more Republicans speak out"
+    excerpt: "Chris Christie, a longtime ally of President Donald Trump, said Sunday that the president's legal battle over the election results has reached the point of \"national embarrassment\" and that it's time for the president to move on."
+    publishedDateTime: 2020-11-22T18:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/christie-calls-trump-s-legal-efforts-national-embarrassment-more-republicans-n1248553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248553"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_47/3430251/201122-chris-christie-jm-1058_8937645ec05d585e54153f941356303d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "WXuBWa7BD+g9PgOdl9eORmQCBHsM9Nw7bKWPGDh+YAWAQATszzuZGT1mFEmcNJ1hwgfvoQBkYKcPQsnMirvXh+Liq2uizPcLWGHZyX0Kh5ICsADOpOneL6NGQHEaK4DSPnUmz/yZtndOEFDy9wsgFMVQVQxaNmNsyIecXuJku2SnN/dSNjkOJ9HwcVI4OS40smA37oDr0w6aP52xv7vqEnuu5Nb8s0wjsvS9cz4Ary9Ha7iIqG/XlFRQpdk5JQh5xtjn5Qvp7G6sAVWlECQG8mlypEcp0Q/bXy22KfSVxGMu7w47D4zb/wSWB4VsOQoVAQ5GGcEn1buUCTwpu9n/w6HB+hzxS3tyNMBO0cGacvQ=;7fLWfH4hwoh4Y6iaNPbD9g=="
 ---

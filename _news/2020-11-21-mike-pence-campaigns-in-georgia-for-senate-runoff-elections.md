@@ -651,6 +651,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
+    excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
+    publishedDateTime: 2020-11-21T02:50:00Z
+    webUrl: "https://floridapolitics.com/archives/384675-mike-pence-election"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 70
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2020/11/Pence-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Joe Biden Delivers Remarks in Warm Springs, Georgia"
     excerpt: "T13:46:02-04:00 a week to go to election day, Democratic presidential candidate Joe Biden delivers remarks in Warm Springs, Georgia, home to FDR’s “Little White House.” The former vice president says he’s running to help “unite” and “heal” the country."
     publishedDateTime: 2020-10-27T18:43:00Z

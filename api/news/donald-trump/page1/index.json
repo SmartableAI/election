@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-23-trump-campaign-parts-ways-with-powell-after-vote-switching-claim.md",
+      "title": "Trump campaign parts ways with Powell after vote-switching claim",
+      "excerpt": "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2820UB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB",
+      "publishedDateTime": "2020-11-22T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
+      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
+      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "publishedDateTime": "2020-11-22T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-donald-trump-appears-to-admit-covid-is-running-wild-in-the-us.md",
       "title": "Donald Trump appears to admit Covid is 'running wild' in the US",
       "excerpt": "Comments, in contrast to pre-election rhetoric, come as FDA approves emergency use authorisation for Regeneron antibody therapy",
@@ -34,58 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-justice-dept-meets-trump-giuliani-vote-fraud-claims-with-silent-skepticism.md",
-      "title": "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism",
-      "excerpt": "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUUPVKBMAMI6XD5CA3T4XMKFYA.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-giuliani-election-fraud-justice-department/2020/11/21/223eb074-2b8f-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-21T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -270,7 +322,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 720,
+      "heat": 740,
       "tags": null,
       "images": [
         {
@@ -631,6 +683,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-promising-more-lawsuits-trump-attorney-rudy-giuliani-recycles-litany-of-debunked-claims.md",
+      "title": "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims",
+      "excerpt": "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "originalUrl": "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035",
+      "publishedDateTime": "2020-11-19T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-breakingviews-cox-donald-trump-is-the-new-benjamin-harrison.md",
       "title": "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison",
       "excerpt": "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in",
@@ -691,7 +795,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1781,
+      "heat": 1861,
       "tags": null,
       "images": [
         {
@@ -733,58 +837,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-donald-trump-called-monica-palmer-after-wayne-county-board-of-canvassers-meeting.md",
-      "title": "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting",
-      "excerpt": "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3776190001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001",
-      "publishedDateTime": "2020-11-19T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1331,7 +1383,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1383,7 +1435,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -1528,54 +1580,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
-      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
-      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "publishedDateTime": "2020-11-17T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

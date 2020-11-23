@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
 type: article
 quality: 162
-heat: -1
-published: false
+heat: 182
+published: true
 
 provider:
   name: Fox News
@@ -31,67 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
+  - title: "Dominion rep responds to Trump campaign claims in Fox News interview: 'Physically impossible' to switch votes"
+    excerpt: "Trump campaign attorney Sidney Powell claims that the 2020 election was significantly impacted by votes cast through machines from Dominion Voting Systems being altered to go to Joe Biden instead of President Trump, but according to Dominion spokesperson Michael Steel, this could not have occurred."
+    publishedDateTime: 2020-11-22T21:01:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rQzRFFxSzGo/dominion-rep-responds-to-trump-campaign-impossible-to-switch-votes"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 136
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump calls into virtual G20 summit, talks COVID-19 with world leaders"
-    excerpt: "President Trump took part in the first of two virtual meetings with world leaders Saturday as part of a coronavirus-throttled G20 summit — in what could be the last international gathering of his presidency."
-    publishedDateTime: 2020-11-21T19:40:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdxC1b1tUtI/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/G20-GETTY.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump administration moves to limit work permits for immigrants with deportation orders"
-    excerpt: "The Trump administration on Tuesday announced that it was moving to limit work permits for immigrants who have deportation orders, but have been temporarily released -- a move that officials say will encourage them to remove themselves from the country."
-    publishedDateTime: 2020-11-17T22:25:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/co8-4WB46DI/trump-administration-work-permits-immigrants-deportation-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-work-permits-immigrants-deportation-orders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/mitt-romney-ben-sasse-trump/index.html"
 type: article
 quality: 186
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112191137-obama-cbs-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Christie calls Trump's legal efforts a 'national embarrassment' as more Republicans speak out"
+    excerpt: "Chris Christie, a longtime ally of President Donald Trump, said Sunday that the president's legal battle over the election results has reached the point of \"national embarrassment\" and that it's time for the president to move on."
+    publishedDateTime: 2020-11-22T18:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/christie-calls-trump-s-legal-efforts-national-embarrassment-more-republicans-n1248553"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248553"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248553"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_47/3430251/201122-chris-christie-jm-1058_8937645ec05d585e54153f941356303d.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Transition Live Updates: After Trump Meeting, Michigan Lawmakers Maintain They Will Follow the Law"
     excerpt: "The president invited a delegation of Michigan Republicans to the White House on Friday. In Georgia, the state certified President-elect Joe Biden’s victory in the state. Mr. Biden announced more staff appointments and met with Speaker Nancy Pelosi and Senator Chuck Schumer."

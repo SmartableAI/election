@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden declines to say where he stands on BLM-backed BREATHE Act"
+    excerpt: "President-elect Joe Biden has been silent on his stance on the Black Lives Matter-backed BREATHE Act, despite pushes from the progressive wing of his party to pass sweeping legislation aimed at social justice reform in the first 100 days of his administration."
+    publishedDateTime: 2020-11-22T20:28:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HsPJKCceLts/where-does-biden-stand-on-blm-backed-breathe-act"
+    ampWebUrl: "https://www.foxnews.com/politics/where-does-biden-stand-on-blm-backed-breathe-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-does-biden-stand-on-blm-backed-breathe-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e23b00ac-fc65-4731-b500-ea160ffe4958/55fccbe4-c3f2-4d43-80fd-4ee86b22009d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden forms team to oversee confirmation process for key administration posts"
     excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
     publishedDateTime: 2020-11-18T14:12:03Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 720
+heat: 740
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Michigan leader: Trump didn't ask for election interference"
+    excerpt: "Michigan House Speaker Lee Chatfield says President Donald Trump didn't ask the state's Republican lawmakers to “break the law” or “interfere” with the election during a meeting at the White House"
+    publishedDateTime: 2020-11-22T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-leader-trump-election-interference-74345814"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_077cc0b67660404b9c5897228a3dc50d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "After Pennsylvania court defeat, Trump faces new pressure to concede election"
     excerpt: "After a scathing court setback in Pennsylvania, President Donald Trump faces increased pressure from his fellow Republicans to drop his effort to overturn the U.S. presidential election and concede to Democrat Joe Biden."

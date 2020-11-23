@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump team making false argument about his 2016 transition"
-    excerpt: "Donald Trump and his allies are harking back to his presidential transition four years ago to make a false argument that his own presidency was denied a fair chance by Barack Obama’s team for a clean"
-    publishedDateTime: 2020-11-22T17:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
     excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
     publishedDateTime: 2020-11-17T16:09:00Z
@@ -111,6 +95,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump team making false argument about his 2016 transition"
+    excerpt: "WASHINGTON (AP) — It’s not just President-elect Joe Biden’s transition that’s under a microscope."
+    publishedDateTime: 2020-11-22T21:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "J8ekgKvh2Kg8bz53bDtQsCDzMNGc1Z5hr6cePme+8VCwsZ453qab8l6beqdhwoT0oKTxBoZP8U/RXMMaDmjTbunFHtXzbHpL/5Sl6uibiGEjDVQSb83NDJJepXwYAmSCBEsUlpY/7DnEczLqbRJGZHUnd/Bu/UN2IewZMwmcV01g7xNM9wHzwT6lWX2xdqWp+yiIo11T8PgFDsuO3Dim6nPA2o/NipvTauRXAp+Vk4vIad7XR/YVY59OoEThTIm1JBFlWsY9/oTMG7oCI1iLaaRr0y1TtiKkCL2Iw0N0Oq3gLRemiLIRwKjtElGhPPP4Tq0bVCG9EmaG0LDLpCdzLUzWmqhFXQEVBrEdoitzTcA=;F4wbKsV3b+4XasSjIttuzg=="
 ---

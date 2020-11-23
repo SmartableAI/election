@@ -126,6 +126,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign files appeal after Pennsylvania judge shoots down lawsuit"
+    excerpt: "President Trump’s legal team on Sunday filed an appeal to a federal judge’s ruling that struck down his campaign’s effort to block the certification of votes in Pennsylvania."
+    publishedDateTime: 2020-11-22T20:14:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Go4nq8a7seE/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
     publishedDateTime: 2020-11-13T21:37:11Z

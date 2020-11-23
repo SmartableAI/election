@@ -2767,6 +2767,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump slams global climate agreement Biden intends to rejoin"
+    excerpt: "President Trump rails against the Paris climate accord and tells world leaders at a virtual summit that the agreement was designed to cripple the U.S. economy."
+    publishedDateTime: 2020-11-23T00:40:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-22/trump-slams-paris-climate-agreement-biden-intends-to-rejoin?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/44bdcb4/2147483647/strip/true/crop/3600x2351+0+221/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F10%2F6e%2F7cf459314ea1ba893cf600c2a3ba%2Fgettyimages-1175710803.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
     excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
     publishedDateTime: 2020-10-23T19:42:00Z

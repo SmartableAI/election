@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump team making false argument about his 2016 transition"
-excerpt: "Donald Trump and his allies are harking back to his presidential transition four years ago to make a false argument that his own presidency was denied a fair chance by Barack Obama’s team for a clean"
-publishedDateTime: 2020-11-22T17:16:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-team-making-false-argument-about-his-2016-transition/2020/11/22/77a0e444-2ce6-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+excerpt: "WASHINGTON (AP) — It’s not just President-elect Joe Biden’s transition that’s under a microscope."
+publishedDateTime: 2020-11-22T21:14:00Z
+originalUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11"
+webUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11"
+ampWebUrl: "https://www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-making-false-argument-about-his-2016-transition-2020-11?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany"
@@ -112,6 +106,6 @@ related:
         height: 675
         isCached: true
 
-secured: "bWpvtrfU67mffx3BGBm2hAx5+6cKqDl13lCob41ooMjmYrfJdLUHlB+1oMW5auj+j21MooDvikwNUdnb0GRxUIuRzgbGeKxxnGTfXZqBSnp4JlPUlaUAXVbicFZKCMlQ0RMZipRxXqqKMKo7FEzvvd7kDPSEFhbIht9VE0r5OMa0p0lNMQmqxM/N4NpvaeZTbfEtVycBjq12WGazW3USWzJarMuwg82Ws4xRKPgbgjOYClOZDawKwjbiXpt2IpkKNN1DxvPbWx34GVBV7D/csfjXuyySvCEpf3imwQ9pyA32/9WvYw8qdPukOZlr5idBf9cJhczHKx4h5Vi0Oo9SARNnVVfoMzIP6D7jYxj6g5o=;AyggDlLxpiFkkFWfujaLCg=="
+secured: "D1+HmkjmA397eJ/QYA7Z1LHos4MyPm0BT4OpjG0kiCd1mJxZyNr8Lgh/qRbfLr3MqRujcF1Z/1d7Q366lRvTa/AytbT9z2r0MfNAqgf/kmwbvJ4FI3Y2mSByzKISPZ+H8nd8zbTjh9dfWzsImBzLQ7xEwSPdlv4q85tTtJ018KbcsGL3lkPgB7Aq0h4TwYkjudGhkyVIE2EVbPYk/6i6QJMaNyc2vQNunnihXIjTmj8kixSQVxmBAkTEl/1+mpdnM7idWm0sEkXGWzgY0r49sFqyrCMzCZrC2rpMqGw24vyR805O67B9AzBplk2S/lf31CAti7wD76+IDfvgOD94ocRE/qxCNYIUuNVQnGO8NXs=;scOHEq049EpgCwTzX1zGUQ=="
 ---
 

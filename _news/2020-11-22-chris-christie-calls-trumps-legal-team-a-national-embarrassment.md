@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Christie says Trump legal team ‘a national embarrassment’"
+    excerpt: "The former New Jersey governor said the president’s legal defense has an obligation to present actual evidence."
+    publishedDateTime: 2020-11-22T18:09:00Z
+    webUrl: "https://www.politico.com/news/2020/11/22/christie-donald-trump-legal-embarassment-election-439251"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/22/christie-donald-trump-legal-embarassment-election-439251"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/22/christie-donald-trump-legal-embarassment-election-439251"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d4/9a/9e7ef2214cd290b56bb9062e3188/gettyimages-1229684189-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Ivanka Trump calls legal inquiries into Trump business political ‘harassment’"
     excerpt: "The president’s daughter was responding to a New York Times report saying investigations now include tax write-offs that appear to involve her."
     publishedDateTime: 2020-11-20T03:48:00Z

@@ -2,6 +2,332 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.md",
+      "title": "NJ Dem congressman has called for Trump to be tried for 'crimes against the United States'",
+      "excerpt": "Staunch critic of President Trump, Rep. Bill Pascrell Jr., D-N.J., has called for Trump and members of his administration to be investigated and prosecuted once he leaves office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs5uS66SmPQ/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs5uS66SmPQ/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/249bb128-878a-46ae-956d-2c58c2a411ed/e4c8af7a-cb44-4294-a2ae-91f1fdc56e4b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-congressman-has-called-for-trump-to-be-tried-for-crimes-against-the-united-states.amp",
+      "publishedDateTime": "2020-11-19T18:28:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-breakingviews-cox-donald-trump-is-the-new-benjamin-harrison.md",
+      "title": "Breakingviews - Cox: Donald Trump is the new Benjamin Harrison",
+      "excerpt": "New York Magazine proclaimed Benjamin Harrison the most forgotten of America’s commanders in chief. Donald Trump’s turbulent stint as a fellow one-term president may, ironically, revive interest in his 19th century Republican forebear’s four years in",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-breakingviews/breakingviews-cox-donald-trump-is-the-new-benjamin-harrison-idUSKBN27Z343",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541819456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UH",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z343",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343",
+      "publishedDateTime": "2020-11-19T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-new-squad-member-suggests-biden-needs-to-pay-minority-communities-back-after-election-support.md",
+      "title": "New 'squad' member suggests Biden needs to pay minority communities back after election support",
+      "excerpt": "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 438,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp",
+      "publishedDateTime": "2020-11-19T18:22:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-biden-paints-trump-as-reckless-as-pence-and-science-advisers-cheer-vaccine-news.md",
+      "title": "Biden paints Trump as reckless as Pence and science advisers cheer vaccine news",
+      "excerpt": "At dueling public events, the president-elect and the White House offered starkly different views of Trump’s pandemic response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1861,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUMXMZBKXAI6XHBBHTCQDUEYD4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-19T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-pence-on-virus-us-has-never-been-more-prepared.md",
+      "title": "Pence on virus: US 'has never been more prepared'",
+      "excerpt": "Vice President Mike Pence offered an upbeat assessment of the coronavirus situation in the U.S., despite a surge in cases, hospitalizations and more than 250,000 deaths. He spoke at the first coronavirus task force briefing in months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/11/19/pence-virus-us-has-never-been-more-prepared/6349703002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/1b2d795c-256d-4fd7-9029-79fd5463556e_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-trumps-refusal-to-concede-creates-strange-gap-between-biden-and-harris-on-classified-intelligence.md",
+      "title": "Trump's refusal to concede creates strange gap between Biden and Harris on classified intelligence",
+      "excerpt": "Vice President-elect Kamala Harris took part in a classified briefing of the Senate Intelligence Committee this week and emerged in a strange position -- being more informed about current threats than President-elect Joe Biden but bound by congressional rules to keep that information from him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ooSwoBiPky0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1021,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116153545-05-biden-harris-economy-remarks-1116-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html",
+      "publishedDateTime": "2020-11-19T16:10:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-pence-to-campaign-friday-in-georgia-runoffs-but-no-word-on-a-trump-trip.md",
       "title": "Pence to campaign Friday in Georgia runoffs, but no word on a Trump trip",
       "excerpt": "Vice President Mike Pence heads to Georgia on Friday, to campaign with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections. But there's no word on whether President Trump will head to Georgia.",
@@ -14,7 +340,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 579,
+      "heat": 599,
       "tags": null,
       "images": [
         {
@@ -158,58 +484,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-20-donald-trump-called-monica-palmer-after-wayne-county-board-of-canvassers-meeting.md",
-      "title": "Donald Trump called Monica Palmer after Wayne County Board of Canvassers meeting",
-      "excerpt": "Monica Palmer, the Republican chair of the Wayne County Board of Canvassers, says Trump called her after Tuesday night's meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/michigan/detroit/2020/11/19/trump-monica-palmer-wayne-canvassers-certification-election/3776190001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/ea67708f-0b90-4e33-8844-f0ea57dc05b4-AP_Election_2020_Trump_MIAB1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3776190001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3776190001",
-      "publishedDateTime": "2020-11-19T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-washington-post-trump-spoke-to-gop-official-who-now-wants-to-rescind-vote-to-certify-detroits-results.md",
       "title": "Washington Post: Trump spoke to GOP official who now wants to 'rescind' vote to certify Detroit's results",
       "excerpt": "The two Republican members of the Wayne County Board of Canvassers want to \"rescind\" their votes to certify the presidential results from the county, the largest in Michigan and home to the city of Detroit, even though the board has already certified the results.\n    \n",
@@ -263,6 +537,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-campaign-drops-lawsuit-challenging-michigan-voting-results.md",
+      "title": "Trump campaign drops lawsuit challenging Michigan voting results",
+      "excerpt": "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
+      "publishedDateTime": "2020-11-19T08:20:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -655,7 +985,7 @@
       "originalUrl": "https://www.newsweek.com/conservative-pastor-says-kamala-harris-driven-antichrist-spirit-1548407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -1009,341 +1339,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
       "publishedDateTime": "2020-11-18T13:31:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
-      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
-      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
-      "publishedDateTime": "2020-11-18T13:18:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
-      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
-      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
-      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
-      "publishedDateTime": "2020-11-18T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
-      "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
-      "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18mccarthy-qa/18mccarthy-qa-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
-      "publishedDateTime": "2020-11-18T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
-      "title": "Trump Fires Again, This Time a Cybersecurity Official",
-      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "publishedDateTime": "2020-11-18T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers.md",
-      "title": "Watch live: Biden holds virtual roundtable with frontline health care workers",
-      "excerpt": "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with frontline health care workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/biden_frontline.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo96133189788",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96133189788",
-      "publishedDateTime": "2020-11-18T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
-      "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
-      "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "publishedDateTime": "2020-11-18T09:27:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

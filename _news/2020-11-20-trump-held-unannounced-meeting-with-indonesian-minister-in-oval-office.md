@@ -987,6 +987,22 @@ related:
         width: 1856
         height: 1237
         isCached: true
+  - title: "The F.D.A. grants emergency authorization of the coronavirus antibody treatment given to Trump."
+    excerpt: "The Food and Drug Administration has granted emergency authorization for the experimental antibody treatment given to President Trump shortly after he tested positive for the coronavirus, giving doctors another option to treat patients as cases across the country continue to rise."
+    publishedDateTime: 2020-11-22T20:01:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/the-fda-grants-emergency-authorization-of-the-coronavirus-antibody-treatment-given-to-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/the-fda-grants-emergency-authorization-of-the-coronavirus-antibody-treatment-given-to-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/the-fda-grants-emergency-authorization-of-the-coronavirus-antibody-treatment-given-to-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/21/us/21virus-briefing-regeneron-antibodies/21virus-briefing-regeneron-antibodies-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "More Republicans call for a smooth transition as Trump continues spreading baseless fraud claims."
     excerpt: "Even as more top Republicans urged President Trump on Sunday to allow for an orderly presidential transition, the president himself, after briefly appearing to acknowledge his election loss, resumed spreading the kinds of baseless accusations of election fraud that his supporters have embraced."
     publishedDateTime: 2020-11-16T18:36:00Z

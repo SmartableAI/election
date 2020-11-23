@@ -383,6 +383,22 @@ related:
         width: 836
         height: 545
         isCached: true
+  - title: "Here are the GOP lawmakers who have called on Trump to acknowledge Biden's victory"
+    excerpt: "A small but growing minority of congressional Republicans and elected leaders around the country have begun to acknowledge Biden's victory."
+    publishedDateTime: 2020-11-22T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/22/running-list-republican-leaders-who-say-biden-won/6382054002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6382054002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6382054002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/10/25/USAT/a3010204-90f0-4e6b-9abf-c0539d1c26c5-Romney_1.JPG?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Split screen: Biden preps to be president; Trump fights for the job he is ignoring"
     excerpt: "Joe Biden busily prepares to be president, projecting the normalcy he promised, while President Trump fights to keep the job even as he has stopped doing the work."
     publishedDateTime: 2020-11-22T16:07:00Z
@@ -845,6 +861,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    excerpt: "President Donald Trump requests recount of votes in Georgia presidential race after results show Joe Biden winning state"
+    publishedDateTime: 2020-11-22T19:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-requests-recount-votes-georgia-presidential-74341652"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-donald-trump-requests-recount-votes-georgia-presidential-74341652"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-donald-trump-requests-recount-votes-georgia-presidential-74341652"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump administration exits Open Skies Treaty"
     excerpt: "The withdrawal comes six months after President Trump announced his intention to exit because Russia has been violating the pact."
     publishedDateTime: 2020-11-22T18:26:00Z
@@ -874,6 +906,22 @@ related:
     quality: 124
     images:
       - url: "https://i.insider.com/5fb57c6750e71a001155602f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's defeat by Joe Biden has triggered a huge wave of relief among the United States' European allies"
+    excerpt: "\"There was not really a plan B in case Trump won,\" said Jana Puglierin from the European Council on Foreign Relations."
+    publishedDateTime: 2020-11-21T16:41:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-victory-donald-trump-triggered-huge-relief-in-europe-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-victory-donald-trump-triggered-huge-relief-in-europe-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-victory-donald-trump-triggered-huge-relief-in-europe-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5fb7fe1f32f2170011f7057a?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -1081,6 +1129,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump team requests another recount of Georgia’s presidential race, a day after results certified in Joe Biden’s victory"
+    excerpt: "The Trump campaign sent a hand-delivered letter to the secretary of state’s office requesting the recount in an election that has been fraught with unfounded accusations of fraud."
+    publishedDateTime: 2020-11-22T21:04:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-georgia-election-results-20201122-z2u7ty2mrnddrnfh27375facwm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-georgia-election-results-20201122-z2u7ty2mrnddrnfh27375facwm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-georgia-election-results-20201122-z2u7ty2mrnddrnfh27375facwm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/A5XbNYgotAgH4GqPocsciK7H0K8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VQF4GI3P7RGI3AX5SFZRW7JLMQ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Fact check: Letter on Biden not being President-elect does not reflect Congress’ official stance"
     excerpt: "Social media users have been sharing a letter online that says Joe Biden is not President-elect and that this is the official stance of the U.S. Congress. The letter, however, while authentic, was sent by one subcommittee member and does not represent the official view"

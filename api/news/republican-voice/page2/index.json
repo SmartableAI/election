@@ -2,6 +2,231 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-biden-warns-of-another-200k-dead-from-covid-by-inauguration.md",
+      "title": "Biden warns of another 200K dead from COVID by inauguration",
+      "excerpt": "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
+      "publishedDateTime": "2020-11-18T14:33:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
+      "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
+      "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFeC7FaRG18/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb79142-e591-4f8d-b94b-537cfef2a225/01381103-38da-4c6a-bb08-4d9d41678d54/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
+      "publishedDateTime": "2020-11-18T13:31:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
+      "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
+      "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
+      "publishedDateTime": "2020-11-18T09:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-candace-owens-newsom-will-follow-marxist-blm-appoint-black-woman-to-replace-kamala-harris-in-senate.md",
+      "title": "Candace Owens: Newsom will follow 'Marxist' BLM, appoint Black woman to replace Kamala Harris in Senate",
+      "excerpt": "California Gov. Gavin Newsom will bend the knee to Black Lives Matter, author Candace Owens argued on Wednesday, reacting to the organization calling on Newsom to appoint a Black woman to fill the senate seat vacated by Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSmW3emT3Zc/candace-owens-gavin-newsom-blm-senate-kamala-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSmW3emT3Zc/candace-owens-gavin-newsom-blm-senate-kamala-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/candace-owens-gavin-newsom-blm-senate-kamala-harris.amp",
+      "publishedDateTime": "2020-11-18T07:56:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-aoc-linked-group-advises-biden-to-pass-economic-agenda-with-or-without-formal-legislation.md",
       "title": "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'",
       "excerpt": "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year.",
@@ -442,62 +667,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-dems-urge-trump-administration-to-avoid-last-minute-rollback-of-rules-regulations.md",
-      "title": "Dems urge Trump administration to avoid last-minute rollback of rules, regulations",
-      "excerpt": "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp",
-      "publishedDateTime": "2020-11-17T05:26:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-justice-dems-group-behind-aoc-boosts-rep-ro-khanna-for-harris-senate-seat.md",
       "title": "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat",
       "excerpt": "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris.",
@@ -567,7 +736,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -836,62 +1005,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-15-obama-defends-campaign-trail-attacks-on-trump-i-was-just-stating-facts.md",
-      "title": "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'",
-      "excerpt": "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Obama-Biden-Flint-Michigan-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp",
-      "publishedDateTime": "2020-11-15T11:13:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
       "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
       "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
@@ -1073,7 +1186,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1185,7 +1298,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 157,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -1397,6 +1510,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
+      "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
+      "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P-O7cp_-T7Q/debbie-dingell-democrats-2020-election-trump-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/209326cc-92d6-4863-89c9-75e6a9cf1c32/e6cf906a-65c1-44ce-9c3d-9ee228487ae4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debbie-dingell-democrats-2020-election-trump-voters.amp",
+      "publishedDateTime": "2020-11-12T15:28:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.md",
       "title": "Possible Biden Cabinet pick Heidi Heitkamp once took fire for outing sexual assault survivors",
       "excerpt": "Former Sen. Heidi Heitkamp, who faced backlash during the 2018 primaries that she ultimately lost after she mistakenly outed sexual assault survivors in a campaign ad, is on the shortlist for a position in President-elect Joe Biden's Cabinet. ",
@@ -1482,174 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp",
       "publishedDateTime": "2020-11-12T10:07:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-schumer-blasts-gop-senators-for-throwing-temper-tantrum-over-election-results-president-trump-lost.md",
-      "title": "Schumer blasts GOP senators for throwing 'temper tantrum' over election results: 'President Trump lost'",
-      "excerpt": "Senate Minority Leader Chuck Schumer took aim at his Republican colleagues on Thursday, accusing them of \"spreading conspiracy theories\" about last week's election. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89660b60-94c1-4072-846d-d1edfee4bbda/150629d2-6bc7-4585-86b7-fb991ca425a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp",
-      "publishedDateTime": "2020-11-12T09:03:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-vaccine-trashing-cuomo-snubbed-azar-skipped-17-white-house-meetings.md",
-      "title": "'Trump vaccine'-trashing Cuomo snubbed Azar, skipped 17 White House meetings",
-      "excerpt": "New York Gov. Andrew Cuomo has skipped more than a dozen White House meetings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z2mbbIru8GU/cuomo-snubbed-azar-skipped-17-white-house-meetings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbc3a34-e906-4c30-a8c2-d1beb6a03f9e/9ec6b368-4889-404c-bf5a-e3c01a768c45/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-snubbed-azar-skipped-17-white-house-meetings.amp",
-      "publishedDateTime": "2020-11-12T09:03:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-trump-letting-litigation-play-out-in-key-election-states-pa-voters-allege-unequal-system-mcenany.md",
-      "title": "Trump 'letting litigation play out' in key election states, PA voters allege 'unequal system': McEnany",
-      "excerpt": "Trump campaign senior adviser Kayleigh McEnany previewed \"a number of affidavits\" to be filed in Pennsylvania Thursday alleging an \"unequal system.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qr6hqgI4oFg/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-2020-trump-results-pennsylvania-campaign-lawsuit-kayleigh-mcenany.amp",
-      "publishedDateTime": "2020-11-12T07:14:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

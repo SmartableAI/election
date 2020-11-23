@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1001
+heat: 1021
 published: true
 
 provider:
@@ -653,6 +653,22 @@ related:
     quality: 132
     images:
       - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16transition-briefing-promo1/16transition-briefing-monday-lede-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "G20 Summit Closes With Little Progress and Big Gaps Between Trump and Allies"
+    excerpt: "World leaders committed to some efforts to fight the coronavirus pandemic, but the meeting illustrated the difficulty of carrying out an agenda when the United States is indifferent or hostile to many goals."
+    publishedDateTime: 2020-11-22T21:54:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22transition-briefing-g20/22transition-briefing-g20-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -607,6 +607,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Continues to Challenge Election Results as Legal Options Dwindle"
+    excerpt: "A defiant President Trump continued efforts to contest the outcome of the election, as his legal options narrowed and a number of Republicans expressed frustration with his refusal to acknowledge defeat."
+    publishedDateTime: 2020-11-22T22:27:00Z
+    webUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-263365/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z
@@ -638,6 +654,22 @@ related:
       - url: "https://images.wsj.net/im-262890?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "Will the Biden campaign take legal action to force transition process?"
+    excerpt: "But at this point I will have confidence in the vaccine, and if -- if it WALLACE: Finally, and I need a quick answer here, the delayed transition - INGLESBY: Yeah. WALLACE: -- President-elect Biden said today that people may die because the Trump administration is not reading them in on vaccine distribution issues for a seamless turnover on January 20th."
+    publishedDateTime: 2020-11-22T18:46:00Z
+    webUrl: "https://www.foxnews.com/transcript/will-the-biden-campaign-take-legal-action-to-force-transition-process"
+    ampWebUrl: "https://www.foxnews.com/transcript/will-the-biden-campaign-take-legal-action-to-force-transition-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/will-the-biden-campaign-take-legal-action-to-force-transition-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d839f2e5-8d70-41f4-8154-eb3f68428ce7/40bab2b2-e7da-4186-bd50-ee573bd704e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WkpvyxccWtshrfeH7xQjWBNDVrpoLEMV/qEFVHUw7S5wEvWR2ayZVaGd/zZpsQooXzzRLfAyGu0mpYpB+qDLxekV2SclNpUuJy6FuDfAD0rt2UtIZEHNXwDx7fhxk46iojpUDSMAyz+P6MnIKsphR0JCW0Y8pyYFtSel+7D1KVax68+fevFjLRc9/Mp4LBCRvx+mXj3nPySHAHYYtghSY4QQsUhdFhcpyzHmx4GaPA+eKJpwQYuCoTZ+LygFCuXGBVaABir3rbq+rc1ubQO9M4yozZa3cY/ClVwofI7dt+UoVNyP3TpStJkM+RBZmtvptxAxSLiyWOL9AUvPnw4N56kg3KH8rnJcSSKNjejM954=;GSmiT9Dj7dNSLnfHldKe5g=="

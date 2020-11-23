@@ -2,6 +2,341 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-18-trumps-legal-adviser-jenna-ellis-in-2016-called-him-an-idiot-and-said-his-supporters-didnt-care-about-facts-or-logic.md",
+      "title": "Trump's legal adviser Jenna Ellis in 2016 called him an 'idiot' and said his supporters didn't care about 'facts or logic'",
+      "excerpt": "Jenna Ellis has been one of President Donald Trump's most ardent defenders since joining his campaign as a legal adviser and surrogate a year ago, but in early 2016 she was one of his toughest critics and deeply opposed his candidacy, according to a CNN KFile review of statements she made on her official",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eeaiOSIjN6U/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200515141458-01-jenna-ellis-donald-trump-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/kfile-jenna-ellis-2016-trump-comments/index.html",
+      "publishedDateTime": "2020-11-18T13:18:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-nyc-subway-system-faces-steep-cuts-mta-chairman-calls-on-amtrak-joe-biden-to-stave-off-9400-layoffs.md",
+      "title": "NYC subway system faces steep cuts; MTA chairman calls on 'Amtrak Joe' Biden to stave off 9,400 layoffs",
+      "excerpt": "New York City subways and buses could lose nearly 7,000 jobs amid service reductions of up to 40%. Commuter rail fare increases are also possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "originalUrl": "https://www.usatoday.com/story/travel/news/2020/11/18/nyc-subway-mta-face-layoffs-service-cuts-without-federal-funds/3767537001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/27/PWES/be75293b-beea-4106-8558-f24dfb547641-ts102720mtacommuters02.JPG?auto=webp&crop=6456,3632,x0,y328&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3767537001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3767537001",
+      "publishedDateTime": "2020-11-18T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-kevin-mccarthy-the-house-minority-leader-doesnt-think-trump-is-going-away.md",
+      "title": "Kevin McCarthy, the House Minority Leader, Doesn’t Think Trump Is Going Away",
+      "excerpt": "The California Republican believes his party’s victories in 2020 came thanks to the president, not in spite of him: “He brought turnout.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/politics/18mccarthy-qa/18mccarthy-qa-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
+      "publishedDateTime": "2020-11-18T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
+      "title": "Trump Fires Again, This Time a Cybersecurity Official",
+      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "publishedDateTime": "2020-11-18T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers.md",
+      "title": "Watch live: Biden holds virtual roundtable with frontline health care workers",
+      "excerpt": "Watch live coverage as President-elect Joe Biden holds a virtual roundtable with frontline health care workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-virtual-roundtable-with-frontline-health-care-workers-96133189788",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202011/biden_frontline.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo96133189788",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96133189788",
+      "publishedDateTime": "2020-11-18T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
+      "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
+      "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
+      "publishedDateTime": "2020-11-18T09:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-a-federal-judge-ordered-the-trump-administration-to-end-a-program-that-deports-immigrant-children-who-cross-the-southern-border-alone.md",
       "title": "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone",
       "excerpt": "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic.",
@@ -495,7 +830,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-gop-test-limits-legal-walls-close/story?id=74257407",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -551,7 +886,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1430,
+      "heat": 1450,
       "tags": null,
       "images": [
         {
@@ -603,7 +938,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -1024,327 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-election-2020-live-updates-gop-colleagues-congratulate-harris-biden-speaks-to-netanyahu.md",
-      "title": "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu",
-      "excerpt": "President-elect Joe Biden on Tuesday spoke to Israeli Prime Minister Benjamin Netanyahu and Indian Prime Minister Narendra Modi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 816,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6321470002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002",
-      "publishedDateTime": "2020-11-17T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump.md",
-      "title": "Rockets ‘revolt’ linked to owner Tilman Fertitta’s ties to Trump",
-      "excerpt": "The Houston Rockets are having one of the more tumultuous offseasons in the NBA. Both of their superstars, Russell Westbrook and James Harden, have already requested trades. One NBA insider said",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "originalUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/james-harden-russell-westbrook.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/17/rockets-revolt-linked-to-owner-tilman-fertittas-ties-to-trump/amp/",
-      "publishedDateTime": "2020-11-17T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-us-announces-further-drawdown-of-troops-in-afghanistan-and-iraq-before-biden-takes-office.md",
-      "title": "US announces further drawdown of troops in Afghanistan and Iraq before Biden takes office",
-      "excerpt": "Acting Secretary of Defense Christopher C. Miller announced Tuesday that the US will withdraw thousands more US troops from Afghanistan and Iraq by Jan 15, 2021 -- just days before President-elect Joe Biden takes office, confirming plans first reported by CNN on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7d10S1Y4_s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O7d10S1Y4_s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117144605-us-soldiers-iraq-file-march-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/afghanistan-iraq-withdrawal-pentagon/index.html",
-      "publishedDateTime": "2020-11-17T12:11:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-cedric-richmond-tapped-for-biden-white-house-role-has-history-of-controversies.md",
-      "title": "Cedric Richmond, tapped for Biden White House role, has history of controversies",
-      "excerpt": "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "publishedDateTime": "2020-11-17T11:59:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.md",
-      "title": "Biden says there should be 'immediate' congressional action on student loan forgiveness",
-      "excerpt": "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "publishedDateTime": "2020-11-17T11:51:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-cnns-amanpour-regrets-equating-trump-with-nazi-assault.md",
-      "title": "CNN’s Amanpour regrets equating Trump with Nazi assault",
-      "excerpt": "CNN’s Christiane Amanpour says she regrets a comment equating Donald Trump’s presidency with Kristallnacht, an attack on Jews in Nazi Germany seen historically as the launch of the Holocaust",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/cnns-amanpour-regrets-equating-trump-with-nazi-assault/2020/11/17/ec84d590-290d-11eb-9c21-3cc501d0981f_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-17T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

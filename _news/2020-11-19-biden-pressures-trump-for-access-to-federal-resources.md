@@ -670,6 +670,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "G20 Summit Closes With Little Progress and Big Gaps Between Trump and Allies"
+    excerpt: "World leaders committed to some efforts to fight the coronavirus pandemic, but the meeting illustrated the difficulty of carrying out an agenda when the United States is indifferent or hostile to many goals."
+    publishedDateTime: 2020-11-22T21:54:00Z
+    webUrl: "https://www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/us/politics/g20-summit-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22transition-briefing-g20/22transition-briefing-g20-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "J36cMYlCTVq9bM13WH53tZ5dbKgK8QixuQmtrD73lCVMT2scY3pdObtOtFpZoedTxikhIv8hoDo1/83s1F8Gignyymw6L0rpjjsZgc8ybQjFLuhrl6Wt3kYhfPj30WW+JOPb7JAYFyAOnx4GK9wRACxuvHHC9MJ+3RzpmUZAzTIYfIv9CSpUX1Ag9dkz4qa2mzZrDOYVdsbhecRNyzxQPXtywVxaydWKjXAXBJqjKcwgCVsLkFB8agurYoSLlbuAHHTCJxTuxLbh6prufaFjt3/hAdr/sL3y3vTs8zDfalbtJ1Kf2HVgX+VsXe6dWC+wYA7pqorWQbAw22BnMPsfrJSSUL6FfVcf2PC8WBnOTcY=;ONfBQ+WpPL+lDeh/Zgmm1w=="
 ---

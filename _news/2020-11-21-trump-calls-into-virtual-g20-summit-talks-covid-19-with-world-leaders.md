@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-trump-calls-into-virtual-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-calls-into-virtual-g20-summit-talks-covid-19-with-world-leaders.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 195
+published: true
 
 provider:
   name: Fox News
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign drops lawsuit challenging Michigan voting results"
-    excerpt: "President Trump's reelection campaign said Thursday that it is dropping a lawsuit challenging voting results in Michigan, which show Democrat Joe Biden narrowly carrying the battleground state."
-    publishedDateTime: 2020-11-19T16:20:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PYLhurJy8ZU/trump-campaign-drops-lawsuit-challenging-michigan-voting-results"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a98bd85-8cb6-40db-a341-bed123126296/b14b578b-9eab-4265-bd71-466ccf3a8c4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump administration moves to limit work permits for immigrants with deportation orders"
     excerpt: "The Trump administration on Tuesday announced that it was moving to limit work permits for immigrants who have deportation orders, but have been temporarily released -- a move that officials say will encourage them to remove themselves from the country."
     publishedDateTime: 2020-11-17T22:25:12Z
@@ -76,22 +44,6 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dominion counters Trump legal team after press conference claims: 'No ties to Venezuela or Cuba'"
-    excerpt: "Election technology firm Dominion Voting Systems responded to allegations made by President Trump’s top lawyers, who claimed election fraud and foreign interference conducted through the voting software in an incendiary Thursday press conference."
-    publishedDateTime: 2020-11-20T14:34:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sc9CucTQrxY/election-tech-dominion-counters-giuliani-venezuela-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/election-tech-dominion-counters-giuliani-venezuela-cuba.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

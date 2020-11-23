@@ -31,53 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Trump 'frustrated' but still 'strong' after election, Geraldo says"
-    excerpt: "Fox News’ Geraldo Rivera says he has “no doubt” President Trump will run again in 2024 if his post-election lawsuits fail to alter the results of his 2020 run against Joe Biden."
-    publishedDateTime: 2020-11-14T05:57:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ndaTaOo_00Y/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-frustrated-but-still-strong-after-election-geraldo-says.amp"
+  - title: "Larry Hogan to Trump: 'Stop golfing and concede' the election"
+    excerpt: "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election."
+    publishedDateTime: 2020-11-22T20:14:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election"
+    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f925242-9535-48dc-b0c7-99e1668d52e6/f314b605-adc5-4d79-91c0-c639bb1bb271/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
+    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
+    publishedDateTime: 2020-11-21T01:00:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024"
-    excerpt: "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024."
-    publishedDateTime: 2020-11-11T00:08:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7no2jXBuGVE/rubio-says-trump-would-again-be-frontrunner-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024.amp"
+  - title: "Trump’s conspiracy claims will have long hangover"
+    excerpt: "What we're trying to illustrate is that not all conspiracy theories are alike."
+    publishedDateTime: 2020-11-18T22:23:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xuSVrjzD4M/trumps-conspiracy-claims-will-have-long-hangover"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-conspiracy-claims-will-have-long-hangover.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb29866c-2b95-48fc-a56b-01a88cc60f21/126b8d97-2ce4-4707-9d37-9343a2d7451d/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'"
+    excerpt: "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday."
+    publishedDateTime: 2020-11-15T19:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeoVHuk5zhg/obama-trump-campaign-trail-biden-president"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-campaign-trail-biden-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Obama-Biden-Flint-Michigan-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
+    excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
+    publishedDateTime: 2020-11-17T13:26:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qy41fnyaXik/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-urge-trump-administration-to-avoid-last-minute-rules-regulations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Nadler.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Trump campaign notches court win over Pennsylvania ballot deadline"
-    excerpt: "A Pennsylvania judge ruled in favor of the Trump 2020 Campaign on Thursday, ordering that the commonwealth may not count ballots where voters needed to provide proof of identification and failed to do so by Nov. 9."
-    publishedDateTime: 2020-11-13T05:38:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8lQ05vuAWZQ/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaign-notches-court-win-over-pennsylvania-ballot-deadline.amp"
+  - title: "Trump Administration to Release New Rules Reducing Drug Costs"
+    excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."
+    publishedDateTime: 2020-11-20T04:19:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-to-release-new-rules-aimed-at-driving-down-pharmaceutical-prices-friday-11605826607"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad4f7059-6a1c-4c13-8c56-1500f5e3194b/a32212e6-c4fe-472c-a36b-b568d020c8bc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "9xG0rR6TKNtQqwrm6IeoQaLnRF89mFhm0EAW669PbDLBpnHqdtRgzRpNEcW5fsjHAPSRaezViFUQVD+EqhGPOO24AqIaTZgBaRImJEXFvE5nYmWDrSZh6i9GjPGzW333cfRFNrY6V7PrNUCSOckCWR79YDsi9B+KhQ0BzFEyGmckRtY4FttpW4dNvronWNVGtzy67zI5puGt5gXCbraMx79yIfy5H5cUVV2yWN4X+xX2UMrrpnCrWn7eAYpIv/McqdezPkeY6s6d0961QKXuiKGrugAlBGS9Izlnm9Fzcr7SrrATb2SZq744oyGCN9UFccY6XhZb1Y2Nz79C0ZGRbiRIOlNBaACtTObW/EPL3To=;qQBPhksDusW9RBFtu7OYKg=="
