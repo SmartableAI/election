@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
+    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
+    publishedDateTime: 2020-11-23T10:17:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Justice Dept. meets Trump, Giuliani vote-fraud claims with silent skepticism"
     excerpt: "The Justice Department has met President Trump’s fantastical claims of widespread voter fraud with two weeks of skeptical silence, not taking any overt moves to investigate what Trump’s lawyer, Rudolph W."
     publishedDateTime: 2020-11-21T22:18:00Z

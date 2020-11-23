@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
+    excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
+    publishedDateTime: 2020-11-23T10:17:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/trump-campaign-legal-team-distances-sidney-powell?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/512e097/2147483647/strip/true/crop/3034x1982+0+21/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F89%2F66%2F110684d9467c885e9125a53f9c39%2Fap20325745047715.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Giuliani releases statement distancing Trump campaign from lawyer Sidney Powell"
     excerpt: "The president’s legal team was thrown into tumult Sunday when two Trump attorneys – Rudolph W. Giuliani and Jenna Ellis – released a statement abruptly distancing the campaign from a third attorney, Sidney Powell."
     publishedDateTime: 2020-11-23T00:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_14be807cc03a49eba1b405df722af843_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Man seen exhaling on women outside Trump golf club charged"
+    excerpt: "A man seen forcefully exhaling on two women outside President Donald Trump’s Virginia golf course has been charged with assault"
+    publishedDateTime: 2020-11-23T04:42:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/man-exhaling-women-trump-golf-club-charged-74350304"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201122_gma_ault4_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

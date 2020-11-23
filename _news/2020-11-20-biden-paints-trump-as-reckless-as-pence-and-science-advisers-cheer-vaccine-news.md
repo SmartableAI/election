@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 1881
+heat: 1901
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-economic-meeting-06-rt-jef-201116_1605558683683_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live updates"
+    excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
+    publishedDateTime: 2020-11-23T10:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb8a208f086720dd68f7aa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/42b09837f90bf31f8f3cab89c05df60f3f25351f/1148_947_3480_2087/master/3480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=415315c367e041cf4e74f6c36c311dcf"
+        width: 600
+        height: 360
         isCached: true
   - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
     excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."

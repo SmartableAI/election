@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Joe Biden Picks Antony Blinken for Secretary of State"
-excerpt: "Blinken served as top foreign-policy adviser during campaign, Obama administration"
-publishedDateTime: 2020-11-23T03:09:00Z
+excerpt: "Blinken served as Biden’s top foreign-policy adviser during his presidential campaign after roles in the Obama administration."
+publishedDateTime: 2020-11-23T09:22:00Z
 originalUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
 webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
@@ -97,6 +97,6 @@ related:
         height: 340
         isCached: true
 
-secured: "bKR6Iv95INzKZpIJgzKiqSOw2ZhM/dqRytH9ZXPwcLGYkD1/rcfOthIfahHEhIrCHLhjtngg7ffEMswdicSRDPFGoWjw5Fic5a8hucyT4siwSLtEqMBe17O5NGxNAJHj8JnnYIGPqFxY8cQocPwE2dgB0p2YaMr2kSOMYO+etkTKdeK1RGH3lJeFKar71KKzCfx/lbvzO5TCv3BvGv74E6VRYUU8LjLs+qzfW+g5tSnDtInQWQ+nNms2odrZG3hcZNExonSfhxyIUV/I7q4sYEwH+4pNNzRa1MQTtwqJWcFkQ4U34i2nbwvi8qpskKBfs/8yr+qnT9ygloQuU/1C2kNBuPTPufKUvJPTzHidtFcFyuZW1NxHMAAYSYPrSF3wr+JfJNcyHTMo7ptEJlBTGV2aqISOF25i5FPMRg8W6UWfsDkzW4twHfg8YrWBv5kauuKqBcNN5HvE1qhHJ7MPGGLsyjBcG+Kst5M2caVXN/IB53PCQZYiFCJzx0Dd79YM3yHoR7lTbKTxKqQxfBbc3Q==;A3ShG2dyP9I24XnS/zxCjg=="
+secured: "8piLb2v56h3oEgU5/wSjRBJBZUmoO9qCulvpFCzpBltDF8J0lWxevAH7KxJAPR2u91Fll7EGBeHRNNjEQdNl8mFII+FhjCsgB/O2NojQigP/A6hv0G8FRdqFSLbF8SAv+Dchhp2FUohzt43MLs4GYv6RVr9VuvJsFJU0D0sgNymT4+p7b3xri1u69ssl8511+7yFk9o+wyhSDBQNz1/wjZkAafAcPlz1zUZoYC8uvlO/bagT7i+wOtezTMbTtZAKVTXmYESt72CYUmbIqL9OjB9LoBhMFLm0eAMusQu+A7pvbPtRKXkNnhkSD/ppnlkExGTqWNQXo5bPyun+jNAzKUstEZJTbxf5pDHbCPgz+44=;i9agAPAy3k3YFQm13yzXvw=="
 ---
 

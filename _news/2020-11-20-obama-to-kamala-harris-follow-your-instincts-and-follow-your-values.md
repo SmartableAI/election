@@ -3,8 +3,8 @@ category: news
 title: "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\""
 excerpt: "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country."
 publishedDateTime: 2020-11-20T14:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/11/20/obama_to_kamala_harris_follow_your_instincts_and_follow_your_values.html#!"
 type: article
 quality: 65
 heat: 105
@@ -55,6 +55,6 @@ related:
         height: 562
         isCached: true
 
-secured: "1C8k8QvSXHytpc8tnOuZz98N+IlH6oWfneV/VXnbDDZ1srQCGff5O+8SlAtxCFpnuZNWflSHfMiHW8/oefp+gqBQnhVqqQlaBubAwpW0kDDv6oWM1k5z08nG7Vit6fcJE0DI6L3vVyKUxqV3ssL9R4Vi/0AJtF/KnO56nFidX5Y4hGOOvKv6Vot5udG+BjH2muh0sVR7RfpGmQzIQe5V5R/qGyMllrCsjnliX0+Vw1bB0AMNoKxsyHhHuGKvHrEV9oaccrAlC9xBM6TUbsbG8TO67i9xrfjPqywcW8PEa5QGWXj1EqqrP3D0lGjuqLTWSMfKqpHu0P5tpgjNiBMKANyBfifaL6jru814jyPCfLZzUbGwfLjFR6aB4LFEs/1U8U4QDE3hYPTn1cZDWhM+cZchTN/zX4wBD8ABlgJ2QLYsYUgIdl1F6Ocsti7sSHCbGwH12lDh9bkbPhdcMInkIKXbkpSHsFLKKsuVVNtFBlkVkbEwC2hqKxGZorYPd0I2YY3EiARAAO9C7VihkQKHsg==;Vo5LIsbyCX1vRl6Ev83MiA=="
+secured: "WFrk9oMszqEQ2vdQJMJyyClh5CrBRTsG9WNs+0YfP0fe2CNMs+2slYTxvhAfLHYJaIdQTcjUy5sHfQKYpMUKTVWCZWog/xjnShwTqLbLroK2LDZI3QhcqAszcMNjVI9df00LUfGegdW0FbJBrNxae5fKlCS53MlCTqAZA9M27RH+ePEb0tuJM2A3EibRLqOOXb25CgEuS5ZU6Lm/UkOrnat0AEUOoCTYPOakydIoidyz0JQ+Vv8iomIGqpZd+/X7ROmFeX+G/vCbUUC+Zw9cjmhFizdSEQKhu6blCWmXudETP/M0C+VYeF+T7wVqey77sZLPboXHvX9cgajz7iQozQCxVLIKIS3/xC98BFRchlf8qbqAF1tcBQwcKg9kDtE0zuw9w7+1lWsc8CWkMA4GSKSUGsXvTUg/1d49DjpuhP5/H6V3Efd3H5LfDSVfUHRXgNAGMVX8+WjaXMW6JWT1x595PLHJ+nJBjBb6lsuw4p2MaC7Kp55oUSQmjIgVFF9lJdJksSO8dkIboSXtGFeYPw==;+RMRmFLFJ6cAXrm1Vf9/vw=="
 ---
 

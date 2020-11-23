@@ -80,8 +80,8 @@ related:
         height: 720
         isCached: true
   - title: "Joe Biden Picks Antony Blinken for Secretary of State"
-    excerpt: "Blinken served as top foreign-policy adviser during campaign, Obama administration"
-    publishedDateTime: 2020-11-23T03:09:00Z
+    excerpt: "Blinken served as Biden’s top foreign-policy adviser during his presidential campaign after roles in the Obama administration."
+    publishedDateTime: 2020-11-23T09:22:00Z
     webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
     ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"

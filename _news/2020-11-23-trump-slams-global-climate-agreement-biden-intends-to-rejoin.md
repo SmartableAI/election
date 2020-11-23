@@ -2767,6 +2767,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump aims to box in Biden abroad, but it may not work"
+    excerpt: "The Trump administration is enacting new rules and regulations that it hopes will box in President-elect Joe Biden on numerous foreign policy matters"
+    publishedDateTime: 2020-11-23T05:08:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -3794,7 +3810,7 @@ related:
   - title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
     excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
     publishedDateTime: 2020-11-23T06:29:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2830ET"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
     type: article

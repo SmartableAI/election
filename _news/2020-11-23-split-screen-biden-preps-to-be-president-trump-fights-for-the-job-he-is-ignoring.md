@@ -447,6 +447,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live updates"
+    excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
+    publishedDateTime: 2020-11-23T10:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb8a208f086720dd68f7aa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/42b09837f90bf31f8f3cab89c05df60f3f25351f/1148_947_3480_2087/master/3480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=415315c367e041cf4e74f6c36c311dcf"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
     excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."
     publishedDateTime: 2020-10-23T05:01:00Z

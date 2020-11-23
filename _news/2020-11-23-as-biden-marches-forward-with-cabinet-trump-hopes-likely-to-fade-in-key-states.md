@@ -3,8 +3,8 @@ category: news
 title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
 excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
 publishedDateTime: 2020-11-23T06:29:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN2830ET"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2830ET"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
 type: article
@@ -2766,6 +2766,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f630455b1df1ae42915822750d1f98556fc6c2ce/0_406_5508_3306/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9ed423b7c317584d2eea90a7370204c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump aims to box in Biden abroad, but it may not work"
+    excerpt: "The Trump administration is enacting new rules and regulations that it hopes will box in President-elect Joe Biden on numerous foreign policy matters"
+    publishedDateTime: 2020-11-23T05:08:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-aims-to-box-in-biden-abroad-but-it-may-not-work/2020/11/23/e8e2b480-2d49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump slams global climate agreement Biden intends to rejoin"
     excerpt: "President Trump rails against the Paris climate accord and tells world leaders at a virtual summit that the agreement was designed to cripple the U.S. economy."
@@ -11897,6 +11913,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8gSZU+aBO3iFBezcSi3+KqA7RGzFf0PthO2LYWQRVjDI83liKRpvLsffbl6hiJ5BGUF1pGkVeVEuMORb/Ztel2QhZkB9Bhm1eydMSGNuLVfd66NpJ8YeXw9K/Wy+rpawsvML2S91pO0Q//W5iJsGyZ1S5GvHfFl8bqgNXDD1bBGuEsmK5fmqwWxEVGUk7tkEVAlPkAM8vttatrJm6LQQ3/xZYyvPsXm8m6tSn8tXSQHE7paxFcu+mmbrneqWoj46iEZzFTDC+VvhYdDdVDTYprOwKCkQQpb4rdiZGhhooCY0zxkcbXDK6GkynMOf3IrQgq3jXdENHeIsAzbajSWweQYGS+G/ka3i3/md8UK+azM=;sN5LDeekozCT96XcSCviWQ=="
+secured: "NY6HDLiqrO0Ak156k4BVNgxwyJjRCcWnyEfokJBq/Hav5MFaPTtApXjKtzEjCpWCyjJS7DbAoKu+RqNtrWyBF7J6b0Hh8S7suP/3WT9Mao52CrGNcUgA+cSOPF3lridKoyfG+1sYDe+18vEUYpRqEhH8TPWGs0oS+8GSiTwp735gMr5XCFPTyFwA7pG+5JfxuDh/0PqRjTKxd/aZF7hU3KKovXB1iUgNgvWBrwZ7xUuiDcOEEKw9rV562eS4JxasCG+NdacjwMQSsy+gDQLxJaGWp8+qndGo84EjMmd5GufKg/4TOiCnqtFDechLJsunpQff+95ooxpeaR3LC3kiTsBg3JYfS9M1UiVoYkuc0nya9duGlQWLorbwVssBCiIEFqqZhpGcumJ0+kl/dQUnqpk7toaVvMH3AeN+K6hOvzA/9eFx9ClprnstlZl0uJcOc3ofzIC0ui0wJ0q69rrQeobwoJE9bIsrk4YAetE3pffYaxekHvgHpHXDhC/QAD0E3diu9UrtIMdaWUirqRQT0A==;olweJPzeC0hmbC7ao0C7HA=="
 ---
 
