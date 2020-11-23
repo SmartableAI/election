@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
-excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
-publishedDateTime: 2020-11-10T02:38:00Z
-originalUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
-cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
+excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
+publishedDateTime: 2020-11-23T12:09:00Z
+originalUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
+webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
+ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
 type: article
-quality: 68
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Chicago Sun-Times
-  domain: suntimes.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
+    width: 1440
+    height: 963
     isCached: true
 
 related:
@@ -74,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0b181b21095bc3a796911dd26901369361851cd7/0_34_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=be3e6c728f6dd90cfe4eeee23cba9186"
         width: 600
         height: 360
-        isCached: true
-  - title: "For interracial couples, Kamala Harris and Doug Emhoff are a ‘monumental’ symbol"
-    excerpt: "The vice president elect is Black and her husband is White, making them the first interracial couple at the highest reaches of the U.S. government"
-    publishedDateTime: 2020-11-23T12:09:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2020/11/23/harris-emhoff-interracial-couples/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJVQRVQ5RMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 963
         isCached: true
   - title: "Celebrating Diwali, some see Kamala Harris’ rise reflected in stories of good over evil"
     excerpt: "The festival of lights takes on new meaning this year for Indian Americans in California who supported the Democratic presidential ticket of Joe Biden and Kamala Harris."
@@ -268,6 +256,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 72
+  - title: "Black Chicagoans celebrate VP-elect Kamala Harris’ monumental moment in Black history"
+    excerpt: "From the South Side to North Side, West Side to East, Black Chicagoans celebrated with much excitement the finally announced presidential election results — making Kamala Harris the first Black and South Asian American and first woman vice president."
+    publishedDateTime: 2020-11-10T02:38:00Z
+    webUrl: "https://chicago.suntimes.com/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2020/11/9/21557596/black-chicagoans-celebrate-vp-elect-kamala-harris-monumental-moment-in-black-history"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 68
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Sheriff’s court deputy fired after posting photo of Kamala Harris watermelon carving"
     excerpt: "A part-time court deputy with the Oakland County Sheriff’s Office was terminated after she was found to have posted a photo on social media showing Joe Biden, Donald Trump, and Mike Pence"
     publishedDateTime: 2020-11-21T20:57:00Z
@@ -376,6 +380,6 @@ related:
       domain: charlotteobserver.com
     quality: 51
 
-secured: "MsdLGmtGsbuejCNRKsmgygHHgv8p06yxORfvWt1uJBXfmqeOYxlU9wAbNJm4IiT+PkbmRGW82xq7jqFHhVI2LrxxUKYlPHlIqLU62DB8kaWNpr1VvJrfY3dimOf8/gDKhUXo4/Nsk/zymZgVmzhq0N6DZSijPvKM+1gqVLzTGGIBu1OcH2OVSh/sEFpFZ/Yj3k3n7zhkZTOXWRtmgspx7wni3MAQFU2TyN4ab38kfFRJicvNwobL1OLYs6hRnCkpUmMRdI9FziFxXZHnX8Dx0iHHihPkDXfC8tdSdq0iCq6LINNKND2XXJQwPX/HWQwndhMQIGnfvk0RcqvESrzG1s+6G1HQFUprZXVzFNgZb60=;J7FAZk/9j7lhjLOjST8veg=="
+secured: "yqd+RmfIrU9ooD6fhTgleSsfmrC1x0ie9NqiN4z2nCX1ExmL13WfoIuHHU3OyRHhJWmETqG1BGyWK4EcHhVvF2zdB1L8eheHW7JnZsASL5uRlvUZFOnPWLKvpkDD3IMMgLOl4gOKsSym2i1yFklN0ZUv3lWmhP4VYKzt56swuBMDPsYfQ0/QTjJyXIZm7GPphSzuYfCX+kMjsKpfZ8gInwiJ8guR55ZFGQi6uwkjqZvZMR58y/Cj5TuzbRW4kBiuhYqBZJsLj6Ihv+QPjGjIKDhfkGplsVttWB5GCMgsnjrqoEiZ5NMvk2R2RtGw4xLZeayu8XuKpCTfLSidXsWX8eWW4KZyhLaJxgwPAIrL1N0=;64EAh2sfRTboIhdWiv5QFA=="
 ---
 

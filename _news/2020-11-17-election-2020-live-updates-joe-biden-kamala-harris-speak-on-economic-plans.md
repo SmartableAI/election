@@ -291,6 +291,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President-Elect Joe Biden To Name His Secretary Of State"
+    excerpt: "Biden will nominate Antony Blinken, a source familiar with the transition discussions tells NPR. The source added that Jake Sullivan is a strong lead for the position of national security adviser."
+    publishedDateTime: 2020-11-23T11:17:00Z
+    webUrl: "https://www.npr.org/2020/11/23/937876749/president-elect-joe-biden-to-name-his-secretary-of-state"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
     publishedDateTime: 2020-10-27T19:48:00Z

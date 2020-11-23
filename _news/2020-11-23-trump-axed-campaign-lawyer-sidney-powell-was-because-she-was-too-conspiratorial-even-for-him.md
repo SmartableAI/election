@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump campaign parts ways with Powell after vote-switching claim"
-excerpt: "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden."
-publishedDateTime: 2020-11-23T00:52:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
+title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
+excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
+publishedDateTime: 2020-11-23T11:56:00Z
+originalUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
+webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
+ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
 type: article
-quality: 125
-heat: 266
-published: true
+quality: 113
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP"
-    width: 817
-    height: 545
+  - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
+  - title: "Trump campaign parts ways with Powell after vote-switching claim"
+    excerpt: "U.S. President Donald Trump's election campaign on Sunday distanced itself from Sidney Powell, a lawyer who claimed at a news conference last week that electronic voting systems had switched millions of ballots to President-elect Joe Biden."
+    publishedDateTime: 2020-11-23T00:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-powell-idUSKBN2820UB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2820UB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2820UB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542089529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL0IP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump campaign disavows conspiracy theory-spouting attorney Sidney Powell"
     excerpt: "The Trump campaign’s legal team is distancing itself from conservative attorney Sidney Powell, a purveyor of unfounded voting conspiracy theories."
     publishedDateTime: 2020-11-23T10:17:00Z
@@ -95,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
-    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
-    publishedDateTime: 2020-11-23T11:56:00Z
-    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
     excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
     publishedDateTime: 2020-11-23T02:00:00Z
@@ -144,6 +144,6 @@ related:
         height: 600
         isCached: true
 
-secured: "O+WC0PcmCN/2a4wyckF4pwomR6gjZvB5Q0gBqW8kNNM9Wc3/3EhxEx+qKpKyKoENxLhc0awTZO7NQ+VdfvcE+htPegUXDvFZIizbya7Qh6NQNLPGztqOeo8/5YSeyasP9K7WCeFSgJAIZ+QeqY9u9LC3lS6dlUq1vS8Cjlv/r/ZxHNcNYLs6gXSZWsDplWGnDFkxOzdpVmeuF0RsmplY9+2IWkPLq7T+kAtKY5BlknE1KNatJxcMJN/+JzwQOT26j6Wx34d0TrbEzWyFEVdH2HX0zL6+odWV6UPzSWDVb/71lo26vhRG//Eo2osO9zhbNZmrwSiSlkZsE9FBg6agbkbTsCMWkL72yUGGHmbjozP0oDiY0RoO2oN4521b/AsguZuPTO/S38YGO8eRel8YPchY+E+ucVoEULnTsYDYbEAl/W95P6ES7RhMxlzcsm6cIkMESF3g9XeB5yfi1Xyrpgvuu1vKAZ0XovghA3XXD5iK3WasZuB/9XsjDpcoKvWqUKmObbycq6Ki9QYxMd33dw==;5EafIAuxS7RUUeaC9ZugPQ=="
+secured: "V0LD76zK4P3tEs6v0uIf1Reyq+3R3U+GMb5c2LakGWqhm4oDXUeqZnzmYGpMJdgMvnzCaYIaoLbL8NawcBfwhmzntPkwji3mEXPKz1b3qpaLR8Roc54bH0p4DbR2qgcamb3zbieicS5ahBwuyrBxgR/XduHWIeFhMXwqyxiRVCdwZWF20KAzR75R9RPps81/sYiFyUxiKh+ArN5lN1Fi8ToyFnj4mPrdeZm4YPVRdzLSIrUGT0m/Rq+RQNrZ6kspSU9jjlJq7+vny9XrOEzkkbwr2aQlXb3Txu4zP7tRnE172zH2w7FOmL6/uJdSLAZi4W9T1oI8MOwk5e6rbHP0tQwJMRBVvgSXqiKU+y5ztYY=;O7HZVEh0yoP/oeUqqgDJig=="
 ---
 

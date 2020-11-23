@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump axed campaign lawyer Sidney Powell was because 'she was too conspiratorial even for him'"
+    excerpt: "Powell has alleged a vast plot involving foreign communists and GOP officials to subvert the election, but even Trump it seems has heard enough."
+    publishedDateTime: 2020-11-23T11:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-patience-with-conspiracy-theorist-attorney-powell-nyt-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5fbb973350e71a0011556be6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Attorney heading up Trump campaign's Wisconsin recount effort is seeking to throw out his own vote"
     excerpt: "Jim Troupis, a former Dane County judge and Cross Plains attorney, voted early using the state's in-person absentee option."
     publishedDateTime: 2020-11-23T02:00:00Z

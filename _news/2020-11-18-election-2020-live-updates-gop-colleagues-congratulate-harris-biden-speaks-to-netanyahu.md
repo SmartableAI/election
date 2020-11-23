@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
 type: article
 quality: 156
-heat: 816
+heat: 836
 published: true
 
 provider:
@@ -279,6 +279,20 @@ related:
       - url: "https://i.insider.com/5fb3d7b5d0c5f832483137f5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President-Elect Joe Biden To Name His Secretary Of State"
+    excerpt: "Biden will nominate Antony Blinken, a source familiar with the transition discussions tells NPR. The source added that Jake Sullivan is a strong lead for the position of national security adviser."
+    publishedDateTime: 2020-11-23T11:17:00Z
+    webUrl: "https://www.npr.org/2020/11/23/937876749/president-elect-joe-biden-to-name-his-secretary-of-state"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."

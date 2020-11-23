@@ -465,8 +465,8 @@ related:
         isCached: true
   - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live updates"
     excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
-    publishedDateTime: 2020-11-23T10:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb8a208f086720dd68f7aa"
+    publishedDateTime: 2020-11-23T12:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb99e48f087f6ff109be12"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article

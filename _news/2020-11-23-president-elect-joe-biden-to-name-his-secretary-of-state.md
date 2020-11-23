@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Kamala Harris receives congratulatory welcome from several GOP senators who haven't acknowledged Biden’s win"
-excerpt: "Vice President-elect Kamala Harris on Tuesday returned to the Senate floor, where she cast the decisive vote to block President Trump's controversial pick for the Federal Reserve, Judy Shelton. Before that,"
-publishedDateTime: 2020-11-17T21:32:00Z
-originalUrl: "https://theweek.com/speedreads/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
-webUrl: "https://theweek.com/speedreads/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
-ampWebUrl: "https://bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
-cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+title: "President-Elect Joe Biden To Name His Secretary Of State"
+excerpt: "Biden will nominate Antony Blinken, a source familiar with the transition discussions tells NPR. The source added that Jake Sullivan is a strong lead for the position of national security adviser."
+publishedDateTime: 2020-11-23T11:17:00Z
+originalUrl: "https://www.npr.org/2020/11/23/937876749/president-elect-joe-biden-to-name-his-secretary-of-state"
+webUrl: "https://www.npr.org/2020/11/23/937876749/president-elect-joe-biden-to-name-his-secretary-of-state"
 type: article
-quality: 71
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: THE WEEK
-  domain: theweek.com
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Joe Biden
 
 images:
-  - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229657402.jpg?itok=f65NQoIj"
-    width: 840
-    height: 560
+  - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+    width: 800
+    height: 800
     isCached: true
 
 related:
@@ -291,20 +293,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President-Elect Joe Biden To Name His Secretary Of State"
-    excerpt: "Biden will nominate Antony Blinken, a source familiar with the transition discussions tells NPR. The source added that Jake Sullivan is a strong lead for the position of national security adviser."
-    publishedDateTime: 2020-11-23T11:17:00Z
-    webUrl: "https://www.npr.org/2020/11/23/937876749/president-elect-joe-biden-to-name-his-secretary-of-state"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Election 2020 live updates: Joe Biden, Kamala Harris speak on economic plans"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris spoke about the economy, and a member of Congress tested positive for coronavirus."
     publishedDateTime: 2020-11-16T21:34:00Z
@@ -433,6 +421,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris receives congratulatory welcome from several GOP senators who haven't acknowledged Biden’s win"
+    excerpt: "Vice President-elect Kamala Harris on Tuesday returned to the Senate floor, where she cast the decisive vote to block President Trump's controversial pick for the Federal Reserve, Judy Shelton. Before that,"
+    publishedDateTime: 2020-11-17T21:32:00Z
+    webUrl: "https://theweek.com/speedreads/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    ampWebUrl: "https://bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    cdnAmpWebUrl: "https://bypass-theweek-com.cdn.ampproject.org/c/s/bypass.theweek.com/speedreads-amp/950464/kamala-harris-receives-congratulatory-welcome-from-several-gop-senators-who-havent-acknowledged-bidens-win"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 71
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1229657402.jpg?itok=f65NQoIj"
+        width: 840
+        height: 560
+        isCached: true
   - title: "The ‘last voice in the room.’ What will Kamala Harris do as Joe Biden’s vice president? | Raleigh News & Observer"
     excerpt: "Joe Biden has promised that Vice president-elect Kamala Harris will be the “last voice in the room” at crucial moments."
     publishedDateTime: 2020-11-17T21:08:00Z
@@ -542,6 +546,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+PzdQ/kXt7DVJOljgsE6PnoOtRSgYAL3JYMQYe1F7lSwzA/nKBSChMsdNWeQ85HyP+UciJbfOzZkQ99BQYJL4xj8NWCP2p/AQ9pzBs5WAzMWPxOtRnu36iJ7NAagh16vsUbde7jCOcBYVxOcDYx2+O+g8bYxJ6eov+yyPFdH8ZoPqPtVa2pGF9qDj2TGeKmGmaxtT0bqK/z9Z4/NCV6o1rSMgbv31NP6WyI3QW+eZJmcYpn/bLrfcmgDBiF4QEG93eCw40n14fnsTGTpkPak77cnGqUPbUbG3HzZ/XPKlwx/GhWdkGK98MFI2cgGur06DijZ8SlBpuCiCJiMRTGJQBFPoumCJc5SEAnvFwzyquCjlSNHf0IsjFoZ8n0JTM0tWyDLbbf7fh3iMbsbSrwV5QCkF2e+d7Rb0OVDfwNO8cpusDniBP5vGNT3YP+RdzyGXz7RdWmuwwES6T3yKDWfivP/FXJ1rP1x3MuDIavR0D7iigKVOTtAP3vn4O0Zjo9JiDs2hjlxECXvmeXljy+eBw==;szJeKSqCKDt0zl2PV8gA0Q=="
+secured: "NUbZwbmC2Ko9gOZQEET3yXky9QR4dzz4LELTol/Wwjjin9HaPLb4qdjDYVGwGi0FzbTG4bTeY3A/Y7Gehg6gpgxD6CE+gZsAWyn1yDbxwwU8LP7OKmRZE5gdJM18XbJ/P5YuiKQ6tXCF9InoYQL78/tBEeABSYh5MVSb+E/WiytPcZYu7yiSaqi2m8fo1SvDgk+8taFKWHi5JCB9J9zVWdWqlh+ZupYz45uLB/tdQAsU6uTrUrwOVz3SCQIrEatWzchoX85m5Fp990M0y39X8eHfvVpNFPrKWl+nahni/1tECFJQm4/QsN7qIc+BsGJBiD1tgwFHutw2a7KgTvf0sN7nt7Vscd99ym772NmmQ9Q=;w0r/WpelRsc/Z4s3r9CxJQ=="
 ---
 

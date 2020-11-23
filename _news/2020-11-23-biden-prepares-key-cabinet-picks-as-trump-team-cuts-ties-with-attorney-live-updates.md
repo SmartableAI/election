@@ -2,9 +2,9 @@
 category: news
 title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live updates"
 excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
-publishedDateTime: 2020-11-23T10:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb8a208f086720dd68f7aa"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb8a208f086720dd68f7aa"
+publishedDateTime: 2020-11-23T12:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb99e48f087f6ff109be12"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbb99e48f087f6ff109be12"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -1378,6 +1378,6 @@ related:
         height: 563
         isCached: true
 
-secured: "kC2eEBTrg21HM7DUnrIANCI6jW5wb3bNsrM1me11CPA3K/DosUl4/5FWMosmvIvt6D9MUSUP09B4e90n2y5+Gf5MffdXQPWkHXDMfe4dYEwytr8tz7wya3rLLYqGabSbnGoH01Wa3KmiL4M15GAGWRLOZXGaMU5SZS7+IUFN23MO+BK0w4UrlygbCdIRv2oG159EdlMMqZzY0DjH+Iul3hjOfRznwgszjUz9f35C0iG09wnuftfsyJSuCBv7xwzQBYDn8AX4UyqhRH0ETlyM2WcZeJzzvN6geEWB+//G4MnUlmFaoO+s8/hKTGIwv8dGe1/0I79lKQ8DwkRm8uijVH2exhLwl+XC7C/rG6r2x/k=;mQ0Iy5nIf4poIJW7Lzssqw=="
+secured: "u+5rOaYmmGS6hWmgVSgwf9xdbXx1P0vhIBmVbvDRm4YkjlIv4dh1AC9VZBXkKkoIAiAqJs9ov+zfAXqNsYW/Jkzd1NdASACdaPdzTbiNT9C45kEflLTYWth1ctt7q0Rx35ej7eGYxgvB/QvhSeC8Ne2AKaQqB79VrbN4x+eDMpKmZvxBCbXSm7Zcs0A6CyQ5z4SChOhfRabB/oFBUqDfHdKnYzbW972a0o6SOcvyfKLK+QWhja4zLf+GgjZ2DmMGEUng0rrKAb342PFQKU0elBl/l4Ntl5oGjvcepNLU8MXuzGtf+et5kgSqKBmAkTYkHH24OEKNBWC+n+Jq0unFQ8oZGLDZq2Qx5x1sXf8ywFA=;xWas5K0xCUCQ74GpLgu6cw=="
 ---
 

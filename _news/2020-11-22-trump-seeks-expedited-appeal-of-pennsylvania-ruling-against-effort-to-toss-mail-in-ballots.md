@@ -200,6 +200,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Campaign Legal Team Distances Itself From Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell."
+    publishedDateTime: 2020-11-23T01:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "d2XTWjeqxThik1pRbkAzDOr9O2qdPFjI6K7JpwiEerJauKsJAvuHD4tBIAlpOA/zZCaSOPxTjIlWK6oYJNwChWbH8vOmYvCL/tz044cUkbwoVeC/8vvoZteFoGBLCtySvXF3wRxXkW1umjfLZ7Jl01IBAd10F//1aH9WiQzJSJWG3I30fE7jkcidlHBW003QQ+uq/+aC4Pe+mIS2ezKOCpEcpiQS+gyTbX+Ldrt2g4M4yBVO2sG7nuSHRBQ5KnXL77TdHCSYK1ricy1/iK1h9U6fNxf3VVIMwEKkYj1xWNsmslfeyb71hrqb7ssKIZR4o0+70abDzzTo8g4onahhx99QW2uU51bdON2nbfXGnjWUAwHKjRpTpz4dOiockzscT+osIjqMw/zoLojgAhqd5qjMiXLTgwCfWcgmX2OAHG09JNzaXRenW9U8n1mkcQMc+wnFSN60vvoo5z9rKffk7/9R49XZHEGHivcCYgVb8+FSAayS4y6IczA+fGAvpChrnmkUBTVljhXLBYCryu1sZA==;xRpDTED2oYHKJciMSBP8nQ=="
 ---
