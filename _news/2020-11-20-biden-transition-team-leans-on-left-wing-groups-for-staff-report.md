@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-left-wing-sta
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden Picks Antony Blinken for Secretary of State"
+    excerpt: "Blinken served as top foreign-policy adviser during campaign, Obama administration"
+    publishedDateTime: 2020-11-23T03:09:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263491/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "bmSmA52/F2qBxUP3cjAHXDZ3NlCqaXPxiS0zrV2WYLJEk50HnGrlFyIPFRkPJ7i1uimac88PiUjSd5mQtoYJUkfeR5ZAt3Y9UnQcgnjA+67fzBM6GuBAD04//74sDHBMBDEeBFV+ygvSf4hP77pU3uPLTwhqsI1uDVPmTZRv/NAKPQoQutU7G6eVM4HL/hZAiiugZOEsSKOOY+wgBZpXljQmEsXYD2cPBG5f0P0kTf2j4ppiye4vMnyK8px6GoV6wbXY2vjEpNIQdVimWAn61xF+PGyC7BSoXWolT/AsQgmCvDoTtT5A4qOf3lRPUiM41NCCTWsEa6iQ1ydzOXE9YuXWBQsA46kgUfOSoQKpFds=;6XVUh0/kUKpz1EZkH9BQ/Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-acco
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 176
 published: true
 
 provider:

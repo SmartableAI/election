@@ -113,7 +113,23 @@ related:
         isCached: true
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
-    publishedDateTime: 2020-11-20T20:33:00Z
+    publishedDateTime: 2020-11-20T18:54:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
+    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/bb/8bb064a3-e028-5ba6-bd0f-74d65dd1bd56/5fb7fd5e79343.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pence pitches Georgia senators as last line of GOP defense"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determine who"
+    publishedDateTime: 2020-11-23T04:19:00Z
     webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
     ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
     cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"

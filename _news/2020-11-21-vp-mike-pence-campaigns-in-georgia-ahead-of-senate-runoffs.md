@@ -2,26 +2,26 @@
 category: news
 title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
 excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
-publishedDateTime: 2020-11-20T20:33:00Z
-originalUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
-webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
-ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
-cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+publishedDateTime: 2020-11-20T18:54:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
+ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/bb/8bb064a3-e028-5ba6-bd0f-74d65dd1bd56/5fb7fd5e79343.image.jpg?resize=1024%2C682"
     width: 1024
     height: 682
     isCached: true
@@ -123,6 +123,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Pence pitches Georgia senators as last line of GOP defense"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators Friday, trying to hold off their Democratic challengers in Jan. 5 runoffs that will determine who"
+    publishedDateTime: 2020-11-23T04:19:00Z
+    webUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_c31612ed-bfb7-5304-8125-d526bcf9411b.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/fb/dfb407a1-2b44-576e-a616-82384c37d4c2/5fb804904e9cd.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"
     publishedDateTime: 2020-11-20T17:44:00Z
@@ -171,6 +187,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "17cPX6RIg0XQr/QQ9iFazP9NsOKgL0N1rk3FxBul1gKDD5EtvjRSwXfVuuIlJeL7+kgjyJNuELQC8FAPApWuj+G//NvdXWNzVO8kDwMPVOa/jjY7AycBsdfIpUvB4p+Y72XkN8g2raasgN2296RRrb5VaFm0HL8sXyyxUXUkJAoQ3oV6/LtbauJot+9E0fqOzHNKR70VXm8HZQz/q89q+byEspgdjrQ+VVunQ4kLgdNkFCFWjJndQ+wiB5yvG4MI6IShlVTGMmkGHadwDxmGicVIrtTHHDhnLBH9HIf6fADOUVDyZBtPBfhBgZt1hMB6Sb5YU3ob9H+N5U2Xf3TL+opmBFk5gvaPyTBPTFJKOhKtHH3SYxbiqjNi43XaBCtRih6Da6qGTAxCo/yPgEKR6MPTKrX6Or3RrqzpZtriqpG0l/XbXOS1qiaAfpUwli2A0ai5k76bqRbtb8oEytRoWp8s1/9QYIMWN8+BcP7gHScmyi7jZ7xOpC20g1YQVm5cKLM7xmZaX0k8YHopEsLWPA==;LiGH1TfJ7TYpNsS3Z+gIxA=="
+secured: "UvQZVZdG2zfcVd8xDLd4vbkUXwx4qK4drjiGg2SgjylrtCUemQD8y3tgzuseJUdivdr5nH06bsdZnF4w+tcmk3vxlB4b3HVhCkhfSQO28DwB+enEcN68twejf7V11mU5wmzaCjdHHf5lrJXYpDPUV7xZcrUlFoL4KaFQnM4Ay3Nfa7LX3LqpJTwryHmxp437s8/+x6wJ4srO8ynyLV+ynxndEhi7lH5m1g3+VXGEVt+jGVegvX+jsSfTBiiVBr5QSeUorviY9SoLiS0b/BIS4YlGlHlaC/hhYRyXxIG30NSzubIlO1ofymhiXovs3y1SkM7GaR+yS3S2cMP8i1kyIVuz4JSwJAQIIIxUJBfjAec=;QSkO+Nqu2C5bxXEE74QXbg=="
 ---
 

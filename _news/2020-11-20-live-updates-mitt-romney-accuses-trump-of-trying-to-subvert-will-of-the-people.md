@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Maryland governor says Trump should concede election, stop golfing"
+    excerpt: "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede the election to President-elect Joe Biden."
+    publishedDateTime: 2020-11-23T04:13:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HjDS0TRwM9Q/live-updates-election-11-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136edf0b-46df-4daf-a851-e680fbfc13d6/ae1cd84e-3eac-48e4-9006-31e425302bfb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden tweet about leaving Afghanistan by 2014 resurfaces as Trump pulls troops"
     excerpt: "President Trump’s announced plan to withdraw troops from Afghanistan and Iraq has been met with mixed reactions with some Republicans pushing back on the idea, but President-elect Joe Biden has been relatively mum."
     publishedDateTime: 2020-11-18T02:27:33Z
@@ -348,6 +364,22 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
+    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
+    publishedDateTime: 2020-11-23T04:13:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -524,6 +556,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19f7009b-cdfe-4c8a-9bdb-a36ee8de55f4/4381a915-2587-412b-8656-f82dc900a64b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden to likely visit Georgia, help Democrats in January Senate runoff"
+    excerpt: "President-elect Joe Biden will likely visit Georgia to boost campaign efforts for the two Democratic candidates in the January Senate runoff, according to his top aide."
+    publishedDateTime: 2020-11-23T04:13:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AEop6vFTOSw/live-updates-georgia-11-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dc6269f-e25b-4630-a5db-4d561bb72fe3/a14a44a4-3844-403a-95b3-9a09b13de519/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

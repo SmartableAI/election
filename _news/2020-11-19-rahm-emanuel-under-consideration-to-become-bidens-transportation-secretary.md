@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden poised to nominate Antony Blinken as secretary of state"
+    excerpt: "President-elect Joe Biden is poised to nominate Antony Blinken to serve as secretary of state, people familiar with the matter told CNN, elevating a longtime foreign policy adviser as Biden makes his first round of Cabinet announcements Tuesday.\n    \n"
+    publishedDateTime: 2020-11-23T03:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4VQdW4vb4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
     excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
     publishedDateTime: 2020-11-20T00:38:42Z

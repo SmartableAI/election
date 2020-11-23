@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1021
+heat: 1041
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vinograd: Trump trying to kneecap Biden administration"
+    excerpt: "CNN national security analyst Samantha Vinograd explains why, despite President-elect Joe Biden's experience and seasoned support staff, the incoming administration might find itself playing catch-up on January 20.\n    \n"
+    publishedDateTime: 2020-11-22T21:40:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xv8oQP3JBbo/trump-biden-transition-catch-up-vinograd-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/22/trump-biden-transition-catch-up-vinograd-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/22/trump-biden-transition-catch-up-vinograd-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122162036-samantha-vinograd-1122-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
