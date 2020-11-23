@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Media executives and financial firms are making a land grab for Fox News viewers and Trump supporters, and a new player just entered the race"
+    excerpt: "The latest initiative comes from right-wing entrepreneurs including John Cardillo."
+    publishedDateTime: 2020-11-23T21:59:00Z
+    webUrl: "https://www.businessinsider.com/several-media-players-are-chasing-trump-supporters-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/5f9af1486f5b310011724345?width=1200&format=jpeg"
+        width: 1190
+        height: 595
         isCached: true
 
 secured: "BS3E5M7/wM/rnPciTvQWSIPUftHSoY39fFo+zLF5GtGv/PyTPGqndNiFloN69eIOIvwYxIKS/xwfU7yccINBRIx6/l0l6s5tbGWxf6URyIla376ii4Yn1wLjwOs7c87q5docyLFrVGr6xdDNecMO+6bmgAWml/xv6gg7c/qKGr2g8cIUM8kTLiB5CU4G4iD/svKtnShiTmcrBca4lG35RGx6iqJGUmFrZSzrAP92egThn+/t873ucv99aN6E/+TsWkHdihmkiqsRKwoqlDxz12eKagtmJXllemBxhyJsnhchVfoODBIprJZ25QqmzmceMkvDg/VYHpypVcMMD4QVrfX7YoTlCjMqHHQDV+mJ/U8=;8NjAyKEPUZ/f3IqibfPCpQ=="

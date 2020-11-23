@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/the-medias-new-rule-no-joe-biden-cri
 webUrl: "https://www.thedailybeast.com/the-medias-new-rule-no-joe-biden-criticism-until-november-4th"
 type: article
 quality: 45
-heat: 65
+heat: 45
 published: false
 
 provider:

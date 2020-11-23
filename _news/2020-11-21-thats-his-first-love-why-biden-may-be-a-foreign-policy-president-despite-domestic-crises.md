@@ -79,6 +79,17 @@ related:
         width: 781
         height: 545
         isCached: true
+  - title: "AP source: Biden taps ex-Fed chair Yellen to lead treasury"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has chosen former Federal Reserve Chair Janet Yellen to serve as treasury secretary, a pivotal role in which she would help shape and direct his economic policies,"
+    publishedDateTime: 2020-11-23T22:15:00Z
+    webUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ap-source-biden-taps-ex-fed-chair-yellen-to-lead-treasury-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "QZnn2zAqhaLcE16c/vxLJjJ53JoWG5Yks8xAU7AfM4dKM+1Tb6Qr5J50Yex0UGKV3+QdC76NUq2NK/m8OE/EQsHEShM8jYHJ4/zxLtLMe62WfSNNxFv7zhpaEo/aDpTN8boKZLOnEwQMFIaXZ1vSXVwfkd42yxI+3rjMJxJcvzEG/NS/Upg7iFYeDMa2+UsqKEl2r2k766EdRxEPl9JaFAHvQqHvbXvc9+lk+xLkvyvttfhwZIAAWPM49PC5crqJBkjY8VyOyqmEwfXDdsLcKa4mlQAaLy7E1gf4WVQRLxu4VQt+DykzVLYRjVnnnlJds0aKHxm/EzmabUYPvgq3mz+Xfot9NKUcJmo67btIsdGS0a7fKDMonM+XC7aAwu1VVPwe3cLC2X1uMhbvlVxqofaF0BM798sFCH4lK+MDERxiTaOcaXeyfOhXOm7dUfgkZEoSEN/m4ahRFjux1CdpL11nJoSuLCzf0RMaZuNh5fPU+EeWvFjWb4XHNP62yTFQDed3RhZ5wSCCJuOe16UdpQ==;Fk/Mp9phdA4TI2KFon0k0Q=="
 ---

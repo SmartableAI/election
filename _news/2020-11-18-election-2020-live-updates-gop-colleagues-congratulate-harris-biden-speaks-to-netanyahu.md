@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6321470002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6321470002"
 type: article
 quality: 156
-heat: 856
+heat: 876
 published: true
 
 provider:
@@ -560,6 +560,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Vice President-elect Kamala Harris"
+    excerpt: "Janelle Jones is \"super hopeful\" about Black women's influence in the next U.S. government, but worried about the disinvestment that may come with austerity."
+    publishedDateTime: 2020-11-23T21:51:00Z
+    webUrl: "https://www.marketplace.org/tag/vice-president-elect-kamala-harris/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 35
 
 secured: "xIUhmD0VJKClb1i9Khjqu+4WJZtrtzPlRZeeVcMZ768Sr5abpySCpH8wlNt/sEQ9ttvXchpDUfmnG14E7eJD6VImrJVdkjCQujECD+gvh0QTYG2aFqIO+2k5/zd4LwvVwXUf3M1QilzeKNB+s6Vpr5L35K8NPVIvYq8YSrQnJx/RI60F0lJWMqLgItyXQZL/FPaBws+0EyzyX/Rq8H4Ni4m5oXI31S+O3zGwuArEvTXWKcdwb4gAoIHLa3cEXhxtLFVOV909htn4O2KlrL7LS5rnJh1nXK9q/Eqf/ViJBFyec17y2wTkiLoUWVIB8F2MLblG65fIX/xq6xBG6rUnY0z4SIfgKuBcYAqLUpDt0Ib8ZO2RImXb7aIkUC18wZwnuUh3G1cUl0Bu24BHNKoTZbEb1oaXkQXo3Zdrxd43fSRD67L2+OGq6c1Jz5c26SMdN7eAaaw3UJ1AvGeKMtMuJTvGvao+5vMPBCMuh4EBUUFTbP9SPPFVTFGrWhEJ2/kg4kX7XJDwgQq2w2VH0pxR0Q==;Y5k7WX6Y1MybhP6IlN6vgw=="
 ---

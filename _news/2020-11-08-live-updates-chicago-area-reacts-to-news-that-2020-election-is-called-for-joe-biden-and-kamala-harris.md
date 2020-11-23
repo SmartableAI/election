@@ -559,6 +559,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Vice President-elect Kamala Harris"
+    excerpt: "Janelle Jones is \"super hopeful\" about Black women's influence in the next U.S. government, but worried about the disinvestment that may come with austerity."
+    publishedDateTime: 2020-11-23T21:51:00Z
+    webUrl: "https://www.marketplace.org/tag/vice-president-elect-kamala-harris/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 35
 
 secured: "/6oIlSG2+qhReroAQwW4WNNjBcDIT5Xke7um6m1Z7imfYU0knp/OvzKWwdSeZMCcBBLF+a3x9dVnURKbiPN/qsAEuIatdoDn8cnsUsMr8i+mfbjCCrSjSdvBqv3VBj1XwResxfBg6BXLexh0W0XOE1rxsOlweCMgu7tp9HME+IsUEIZQtW2+mT5Ze/j+mAt0ZAMTJpllVtxv2L+W392+YZXZiKMWPaIpid/ImkSGBBoC5K+ziJWHBCsTrdZBCx7u+Y+zQLLeNojKYziEU2lCI56DrQsr43arrOJqFrlMY8Bzt4OGxY4CkGS4YXOufC8GunAfe1tt+WVcVeEGi3M3XXudev+suiF+WA4nB5HpN/I=;L6swVyoFwP12yJSebNIjGw=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2830ET"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
 type: article
-quality: 136
+quality: 146
 heat: -1
 published: false
 
@@ -606,6 +606,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541350261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF09R"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden names team to steer U.S. foreign policy in post-Trump era"
+    excerpt: "U.S. President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping trusted aide Antony Blinken to head the State Department and take the lead in rebuilding Washington's relationships in Europe and the rest of the world."
+    publishedDateTime: 2020-11-23T21:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2830EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830EB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830EB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542108170&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM06Z"
+        width: 825
         height: 545
         isCached: true
   - title: "Biden on the cusp of U.S. election victory as Trump presses unfounded fraud claims"
@@ -3822,6 +3838,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541453588&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0AA"
         width: 806
+        height: 545
+        isCached: true
+  - title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
+    excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
+    publishedDateTime: 2020-11-23T19:57:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542108109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM070"
+        width: 825
         height: 545
         isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"
@@ -8093,6 +8125,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Despite Trump's prod, Mich. to consider certifying Biden win"
+    excerpt: "Michigan election officials on Monday planned to consider certifying President-elect Joe Biden’s 154,000-vote victory in the state as President Donald Trump’s brazen attempts to subvert the results of the election faced increasingly stiff resistance from the courts and fellow Republicans."
+    publishedDateTime: 2020-11-23T18:48:00Z
+    webUrl: "https://www.businessinsider.com/despite-trumps-prod-mich-to-consider-certifying-biden-win-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/despite-trumps-prod-mich-to-consider-certifying-biden-win-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/despite-trumps-prod-mich-to-consider-certifying-biden-win-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z

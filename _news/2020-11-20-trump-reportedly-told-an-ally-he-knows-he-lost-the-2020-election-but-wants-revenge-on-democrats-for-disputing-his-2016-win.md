@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-knows-lost-election-wants-reve
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-knows-lost-election-wants-revenge-for-2016-cnn-2020-11?amp"
 type: article
 quality: 114
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump is reportedly worried that his legal team is made up of 'fools that are making him look bad'"
+    excerpt: "The president did not like seeing Rudy Giuliani's hair dye dripping down the side of the attorney's face at a news conference."
+    publishedDateTime: 2020-11-23T22:56:00Z
+    webUrl: "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-concerned-with-legal-team-giuliani-rudy-election-sidney-powell-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5fbc2bcd32f2170011f70c55?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "OgsIXpiMGoVWxz6DoMEKl4OYci2hQuc+G5m5pgNNXBj0IROZDs7JMZ1vzAaj0QBPyq5qs426pXgk2AfnLqN7CQGl2SBJYuvwsuN+ZOld3YtY59M/Wagz0LlgtDFh8gdtmEi1W2ulv9TpeWhWId6qIDtGJrQ25iNNq+p2S96w6fsLOXzDfPXvYh2A25V+GU4doPD4U+KoACmDokrbta5FxpnBpxly6kADYF06Xc70/UvygPaLpyHQj5aLlmL/zvQP+fV2wJpslhKuBa8vp3q+l8eWYJp9eU2VFJqQ3HJQgCMrdZ9pxZE7oYU0oVYzIv0n9xTnAp6LMQmGizxK5zr9bDCb7A2yzJbjq0JHo4OLKwo=;WaBxoZXzHy7dzZnFNAveww=="
 ---

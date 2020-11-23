@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
-    excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
-    publishedDateTime: 2020-11-19T15:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q8vJlGMOEKc/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "M7V3I9V03dTkz599rdp2fIUWecELQFiv3W26E0LWcugTokq8UuzNVnIC8jI6VldokBt4xEBGrm4Gbg71BImFgtY+SxHf73DLFH6+4rPAetkJxOJc4duP2w1DaOWDGAo9cYYl5bF9ZxEasmiFb6e7CcCKDbR4nMHMs8dOfkew5IX2NtAjM5pYoURHQydTZe9B1hkxNH1KqD5wvF6JY1NgHVzSqi0pxFO6e0qcqmfYKAgxXh7VejNyONI99+rndMozCtqhS+VpyTPp0FWmjG25h+5hCDxNhBVLq64wPIS4CEqYDwDgq+3rJfzkrrxCBhaVJpQjIchnEqx/EJgfKO6sc2pg4Xa2lxwEH9ewVt0xibw=;h6q3kaaZpRA9r8SFB7ZPPw=="
 ---

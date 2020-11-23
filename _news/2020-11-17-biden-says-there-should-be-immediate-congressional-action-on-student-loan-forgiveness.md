@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
 type: article
 quality: 167
-heat: 207
+heat: 187
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
-    excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
-    publishedDateTime: 2020-11-19T15:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q8vJlGMOEKc/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "L5ugYBl0iBEZjNuEkgUgm0Td8yMSQN/ccuIsSn4i/h0K8OFK+ZVygL5E7RibTyrEWyzYGGNpAFsoqMcS2TTJRId8Pls1EM2b7vEj6Frm17ctTDzULlC4Cu4w2EcvL7XZBDpGwps8ZJGBQHiEvZL/3syfiHSBvcB0M3X1EAleVOG6MI4eslkg/AkTdcwAlymdC2rkI9OEHw1J/LzzacEe2rmGwOVelfHPOgGbivcEv18Xpi9VUZhClz5G+NL0BpBNyCpvgNiMgBB0+25EotT7EVVcqzvfjS5jE3s5Qvy+fem7aTKeu8Q0uT9q9muZl/3pwzEhv79VXOz0MK2ghGKUioTbktBUF17AsbPh700nu+8=;Mb1uJVqYhrOxZrEIUGWziQ=="

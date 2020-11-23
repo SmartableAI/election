@@ -2,13 +2,13 @@
 category: news
 title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
 excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
-publishedDateTime: 2020-11-23T15:10:34Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_uJezUfk5w/biden-secretary-of-state-blinken-iraq-war-criticism"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_uJezUfk5w/biden-secretary-of-state-blinken-iraq-war-criticism"
+publishedDateTime: 2020-11-23T15:26:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism"
+webUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism"
 ampWebUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -153,6 +154,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Knhz2kTF/12Zyeh8Bhjc8bGFIDHHJyqZzq+CQgu1T7pvTmSt4LKlcfqM3tR03e9Fj3lD2UDxucp4Uhayu3cQBWVo7GjyxpCA6GURUA12mFoN58yX0Vsil1PjvRKdmlRnOR1IKh3C/75agujLz+QevdRf/A0xBBui9NgVX9P4xVK6O27WOED5a1pqzebNf3UtKsnb9YkYtsyG+JVnxxpQbLeClhIOzxIOhoKnvUp3dadKq5PCRT0oM4uHsNBbH3heRGChIWWfLDuTxJrATzMjR4C0XudNyEim1z/NRFVtp2f66hx5ge+wKNtQgCvkZNFz0r8Bn/AjYq6myQMcyNCz3BiuzM2fkj/dpsdzEjINUs0=;lOPsEuUHupzOxpG+4dvsFw=="
+secured: "h9HVoq6LUHYI3+9+pFNlO1DL3GeIsAd72Z6TDn8sJQKErw8mrq4Y3HfuFlfThd62VUOaDMcqV7s+MUKheKh1VXLOO16eqZjwg6RTRRBIZLvT3bac1rmUehUptDmAjmbZWFJnnc5Gfq2dc6CytXChXuv41e9ZEVxv0rhpPQg4E6kd0fONwdRTOMhW1EMGzXoawTiKqBRBN+Se+jCEH5R2o9RIKv7rskp7GPuy+bvX9vVF3JAQGE2Z/ojI9nk/Ipvylc25MKje+Cvt7lEJJMczZ4YMkA2X9YkYkBWLbTWYEconuVywqyiSPNcUsk2QroXXyjcpjttdXPcL8eDoNVKQIcA/1Mw5AGN2kr8NHMEtVJM=;LTHfu8GGC1UXZkwUzKLRBw=="
 ---
 

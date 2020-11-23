@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia is finalizing details of recount requested by Trump"
+    excerpt: "After the Trump campaign requested a recount of the presidential ballots in Georgia, state election officials were working to finalize the details of how and when that will be done"
+    publishedDateTime: 2020-11-23T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-finalizing-details-recount-requested-trump-74363070"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b5baa1c4965042f09dfa624bf6606608_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z
@@ -650,6 +666,31 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/23/e6bfef73-c2d2-4f81-80f2-9738b59a6faa/thumbnail/1200x630/f1955699b718ed89b9893f0509fe5498/cbsn-fusion-biden-taps-longtime-foreign-policy-diplomats-for-key-cabinet-positions-thumbnail-594045-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP senator, business leaders urge prompt Biden transition"
+    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect ."
+    publishedDateTime: 2020-11-23T22:15:00Z
+    webUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
+    excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."
+    publishedDateTime: 2020-11-23T02:19:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-to-announce-first-picks-for-cabinet-on-tuesday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 104
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/23/fa44d308-e61c-4ea7-9137-25740292a053/thumbnail/1200x630/f2768a8e2568955440af08d82047d228/cbsn-fusion-president-elect-joe-biden-to-announce-first-picks-for-cabinet-on-tuesday-thumbnail-593838-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

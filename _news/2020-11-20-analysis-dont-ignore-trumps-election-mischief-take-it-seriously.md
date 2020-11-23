@@ -397,6 +397,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump's fundraising could benefit his post-White House political life"
+    excerpt: "One email asks for donations to \"Stop the Left from trying to steal the Election.\" Another offers a \"COUNT ALL LEGAL VOTES\" T-shirt in exchange for a $30 contribution. A third, signed by Eric Trump, asks for $5 \"IMMEDIATELY to support the official Election Defense Fund.\"\n    \n"
+    publishedDateTime: 2020-11-23T20:31:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s1IVawS7MQ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/trump-fundraising-money-save-america/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/trump-fundraising-money-save-america/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123150135-01-trump-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration informs Congress of intent to sell $23B in arms to UAE"
     excerpt: "Secretary of State Mike Pompeo announced Tuesday that the Trump administration had formally notified Congress of its intent to sell approximately $23 billion in advanced weaponry to the United Arab Emirates.\n    \n"
     publishedDateTime: 2020-11-11T17:40:18Z
@@ -936,6 +952,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump hopes to use party machinery to retain control of the G.O.P."
+    excerpt: "As President Trump brazenly seeks to delay the certification of the election in hopes of overturning his defeat, he is also mounting a less high-profile but similarly audacious bid to keep control of the Republican National Committee even after he leaves office."
+    publishedDateTime: 2020-11-23T18:28:00Z
+    webUrl: "https://www.nytimes.com/2020/11/23/us/trump-hopes-to-use-party-machinery-to-retain-control-of-the-gop.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/23/us/trump-hopes-to-use-party-machinery-to-retain-control-of-the-gop.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/us/trump-hopes-to-use-party-machinery-to-retain-control-of-the-gop.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/22/us/politics/22rnc-1/22rnc-1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

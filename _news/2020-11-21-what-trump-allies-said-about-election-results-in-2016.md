@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Drip by drip, U.S. Republicans slowly break from Trump election claims"
+    excerpt: "More prominent Republicans on Monday joined the call for President Donald Trump to end efforts to overturn his election defeat and allow President-elect Joe Biden to begin the formal transition to a new administration."
+    publishedDateTime: 2020-11-23T19:55:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-congress-idUKKBN2832O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2832O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2832O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542200476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump fires top U.S. election cybersecurity official who defended security of vote"
     excerpt: "President Donald Trump on Tuesday fired top U.S. cybersecurity official Chris Krebs in a tweet, accusing him without evidence of making a \"highly inaccurate\" statement affirming the security of the Nov."
     publishedDateTime: 2020-11-18T06:46:00Z
@@ -253,6 +269,22 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "Republican national security experts call on Trump to concede, begin transition"
+    excerpt: "Imploring GOP lawmakers to speak up, more than 100 former officials issued a statement Monday saying Trump’s refusal to accept the election results is dangerous and harmful."
+    publishedDateTime: 2020-11-23T18:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-concede-republicans-national-security/2020/11/23/af5e6a36-2d3c-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-concede-republicans-national-security/2020/11/23/af5e6a36-2d3c-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-concede-republicans-national-security/2020/11/23/af5e6a36-2d3c-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPTXHPH6VEI6NG3YQJGMVOKEGU.jpg&w=1440"
+        width: 1440
+        height: 1145
+        isCached: true
   - title: "Touting drug prices, Trump pushes his election win"
     excerpt: "The Trump administration issued regulations Friday that could lower the prices Americans pay for many prescription drugs. In announcing the new policy President Donald Trump again claimed he had won the presidential election."
     publishedDateTime: 2020-11-20T20:58:00Z
@@ -331,6 +363,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Special jeopardy': 100 former Republican national security officials warn Trump must allow transition"
+    excerpt: "More than 100 Republican former national security officials, including former Defense and Homeland Security secretaries, warned that President Donald Trump's refusal to allow a transition to President-elect Joe Biden imperils the nation."
+    publishedDateTime: 2020-11-23T19:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/23/100-gop-national-security-officials-trump-transition-refusal-hurts-us/6392529002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6392529002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6392529002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/8d76dc1f44ead81f9ed821cd7dfb1fe76d1eb865/c=0-192-2465-1583/local/-/media/USATODAY/USATODAY/2014/08/22/1408727238000-EPA-USA-HAGEL-PENTAGON-DEFENSE.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Trump fires nation's top election security official after agency said election was securely run"
     excerpt: "Trump fires nation's top election security official after agency said election was securely run President Trump fired his administration's top election security official, Christopher Krebs, who led the Cybersecurity and Infrastructure Security Agency."
     publishedDateTime: 2020-11-19T02:20:00Z
@@ -358,6 +406,22 @@ related:
     quality: 106
     images:
       - url: "https://i.insider.com/5e5579defee23d42fa295e4a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Election officials are facing death threats in key swing states where Trump is trying to overturn the results of the 2020 presidential race"
+    excerpt: "The Trump campaign has filed lawsuits in Michigan, Pennsylvania, Arizona, Georgia, and Nevada. Officials there are being threatened with violence."
+    publishedDateTime: 2020-11-23T20:26:00Z
+    webUrl: "https://www.businessinsider.com/trumps-election-lawsuits-prompt-death-threats-against-state-officials-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trumps-election-lawsuits-prompt-death-threats-against-state-officials-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-election-lawsuits-prompt-death-threats-against-state-officials-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5fbbdd3b32f2170011f70a17?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

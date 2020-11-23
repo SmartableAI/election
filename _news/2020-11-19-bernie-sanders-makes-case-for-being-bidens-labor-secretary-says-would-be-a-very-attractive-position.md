@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
-    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
-    publishedDateTime: 2020-11-17T19:51:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+  - title: "Biden picks Blinken, Mayorkas, Sullivan for key Cabinet positions"
+    excerpt: "President-elect Joe Biden on Monday announced a number of key Cabinet appointments, including Antony Blinken as secretary of state, Alejandro Mayorkas as secretary of homeland security, and Avril Haines to serve as the first woman to lead the intelligence community, among other positions."
+    publishedDateTime: 2020-11-23T17:28:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Xavier Becerra, possible Biden AG pick, once said illegal immigration should be decriminalized"
-    excerpt: "California Attorney General Xavier Becerra, who Fox News is told is being considered to serve as attorney general in the upcoming Biden administration, once said that illegal immigration should be decriminalized -- one of a number of radical stances he has taken on the subject."
-    publishedDateTime: 2020-11-18T16:21:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-NQdNI0lWI8/xavier-becerra-biden-ag-illegal-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
+  - title: "Biden's national security adviser pick played key role in Clinton email scandal"
+    excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
+    publishedDateTime: 2020-11-23T21:16:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XH4uG_Yy7ZE/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 171
     images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

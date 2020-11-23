@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump's election lawsuit leads to 3rd Circuit grant for expedited review"
+    excerpt: "The Third Circuit Court of Appeals granted the Trump campaign's request for an expedited review of a lower court's decision to dismiss a lawsuit over voting in Pennsylvania."
+    publishedDateTime: 2020-11-23T17:39:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AueMUFx0TNM/3rd-circuit-grants-trump-campaign-motion-for-expedited-review"
+    ampWebUrl: "https://www.foxnews.com/politics/3rd-circuit-grants-trump-campaign-motion-for-expedited-review.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/3rd-circuit-grants-trump-campaign-motion-for-expedited-review.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
     excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
     publishedDateTime: 2020-11-21T01:00:03Z
@@ -76,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Former GOP national security officials urge Trump to concede"
+    excerpt: "More than 100 former senior national security officials who served in Republican administrations are urging President Trump to concede the 2020 presidential election, saying his refusal to do so is “a serious threat to America’s democratic process and to our national security.”"
+    publishedDateTime: 2020-11-23T17:29:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/61gg44UINj0/former-gop-national-security-officials-urge-trump-to-concede"
+    ampWebUrl: "https://www.foxnews.com/politics/former-gop-national-security-officials-urge-trump-to-concede.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-gop-national-security-officials-urge-trump-to-concede.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

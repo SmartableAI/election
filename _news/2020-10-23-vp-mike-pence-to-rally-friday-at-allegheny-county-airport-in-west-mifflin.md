@@ -7,7 +7,7 @@ originalUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-
 webUrl: "https://triblive.com/news/politics-election/vp-mike-pence-to-hold-rally-friday-at-allegheny-county-airport-in-west-mifflin/"
 type: article
 quality: 34
-heat: 54
+heat: 34
 published: false
 
 provider:

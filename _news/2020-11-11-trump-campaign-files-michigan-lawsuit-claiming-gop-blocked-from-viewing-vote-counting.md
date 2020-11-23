@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
+    excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
+    publishedDateTime: 2020-11-23T21:41:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8ESxnRedrk/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21212b6f-71af-45fa-bda8-db4cce1855c1/9cd41134-3b22-4a3f-91c1-fd8799d3f7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump hits back at WaPo over report saying campaign scrapping key part of Pennsylvania lawsuit"
     excerpt: "President Trump and his team are pushing back against reports that his campaign significantly scaled back allegations in a Pennsylvania lawsuit over the 2020 election, although an amended complaint filed Sunday did significantly alter the case's stated goals."
     publishedDateTime: 2020-11-16T15:28:31Z

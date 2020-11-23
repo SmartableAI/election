@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Media executives and financial firms are making a land grab for Fox News viewers and Trump supporters, and a new player just entered the race"
+    excerpt: "The latest initiative comes from right-wing entrepreneurs including John Cardillo."
+    publishedDateTime: 2020-11-23T21:59:00Z
+    webUrl: "https://www.businessinsider.com/several-media-players-are-chasing-trump-supporters-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/5f9af1486f5b310011724345?width=1200&format=jpeg"
+        width: 1190
+        height: 595
+        isCached: true
 
 secured: "ZKYBVV4iG+ZqJv8KNcl2Kn0fiIEm68rE3H3MdU4G5cGqeP/pfAsLAu7VoayCehuqlroF8cvqh5pOJ1IdaTMadMVVb9DRj9oOlVkV2z1sS+YCqcnOjILJYzbw48wKuzGVWCLdg9w07/rb/I+7uNuIP5QtISPmr3wABHijgc+jETvXhlyNEuO+uoXV9/0NtllTWY38uMSpNCL6fPsgES2aJh+WeG3KmsZBDpjfUasSQb7AuHz+4UEXj9SxTdT4XumnYWGkZdC98PP/wWrs9TGTuj5/iMp8c8ZIXV0AwotkZ/Wml4JrOqh775k1LhrdVSLsrFd+zBBML8dKKGMKQLd6JWFDircX5/6TwAnrG9H71S8=;M9k4aUPWKrvm0APxOEfVNw=="
 ---

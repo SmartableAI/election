@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More recalled Biden as winning the election"
+    excerpt: "Although President Donald Trump falsely claimed victory and refused to concede the 2020 presidential election, Americans largely got the message that President-elect Joe Biden won and Trump lost, according to the final interviews of a polling project tracking how Americans followed news about the 2020"
+    publishedDateTime: 2020-11-23T18:01:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jH5porM3WKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/breakthrough-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/breakthrough-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116175720-joe-biden-1105-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump aims to undermine Biden's legitimacy even as legal challenges fizzle"
     excerpt: "When President Donald Trump learned at the end of last week that his lawyers were dropping their lawsuit seeking a review of ballots in Arizona, the news caught him by surprise.\n    \n"
     publishedDateTime: 2020-11-17T02:46:58Z
@@ -400,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden announces top foreign policy and national security picks "
+    excerpt: "President-elect Joe Biden on Monday announced the members of his foreign policy and national security team.\n    \n"
+    publishedDateTime: 2020-11-23T18:33:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wpJc0c97mm0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123133601-6-split-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z
@@ -480,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Another GOP senator says it's time to begin transition process to Biden administration"
+    excerpt: "Republican Sen. Shelley Moore Capito said Monday it's time for President-elect Joe Biden to begin \"receiving all appropriate briefings\" for a smooth transfer of power, the latest crack in President Donald Trump's GOP support as he continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-11-23T22:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXlMmX_szgU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/shelley-moore-capito-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/shelley-moore-capito-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180829105521-shelley-moore-capito-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lankford argues he did 'step in' Friday and had private conversation with GSA over Biden transition process"
     excerpt: "Sen. James Lankford said Monday that he did \"step in\" with the General Services Administration late last week over the presidential transition process -- and seemed satisfied with the agency's handling of the matter, although there is no indication yet that Joe Biden will start getting the intelligence"
     publishedDateTime: 2020-11-17T02:41:53Z
@@ -525,6 +573,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23transition-briefing-certification/23transition-briefing-certification-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "G.M. Drops Its Support for Trump Climate Rollbacks and Aligns With Biden"
+    excerpt: "General Motors said it would no longer back President Trump’s lawsuit seeking to strip California of the power to set fuel economy standards."
+    publishedDateTime: 2020-11-23T20:09:00Z
+    webUrl: "https://www.nytimes.com/2020/11/23/climate/general-motors-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/23/climate/general-motors-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/climate/general-motors-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 149
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/climate/23CLI-GM/23CLI-GM-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -687,6 +751,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202011/f_mo_kamala_graham_201118-00_00_22_08-Still001.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden expected to choose a woman to lead Treasury"
+    excerpt: "President-elect Biden is expected to select a woman to lead the Treasury for the first time. The two leading contenders are former Federal Reserve Chair Janet Yellen and Federal Reserve Governor Lael Brainard."
+    publishedDateTime: 2020-11-23T19:38:00Z
+    webUrl: "https://www.cnn.com/videos/business/2020/11/23/biden-treasury-secretary-contenders-yellen-brainard.cnnbusiness"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2020/11/23/biden-treasury-secretary-contenders-yellen-brainard.cnnbusiness"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2020/11/23/biden-treasury-secretary-contenders-yellen-brainard.cnnbusiness"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
     excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."

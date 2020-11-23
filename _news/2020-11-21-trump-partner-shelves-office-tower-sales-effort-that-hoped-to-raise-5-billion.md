@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "OMB Lists Positions Stripped of Job Protection Under Trump Order"
+    excerpt: "Youre fired. They defined his celebrity on reality television, and they could now make him infamous among career civil servants"
+    publishedDateTime: 2020-11-23T22:41:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/11/21/omb_lists_workers_stripped_of_job_protection_under_trump_order_144708.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/47/473955_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "hYZS6ynhnnVApzdRnix8ulZoesfyX5p9lGFr0XqfhBgZEQa3pCE82kFtN71jYaoK01uYS8i7DS0A+x3q50NauC+rseQjCUaHPbRt6uEk+3LLSjxN3LlQH4IXRoeioWyHf/T5Wq8pa6lXWzsbHZm7oFRs9rkC8roadcxZFYhb/h5e2NIyHxfVNhtryPpGV9qvQnJRKUn8tXoZYJSSxOvnzj+NKLwY4niZ7NE1QB18NlHxr2DwiuyJTEeC3SuS6roqxfRXLcLOmALMEH4LnA16TCWiT7n3AVNV5j3ZwpwCxJrTpTPzIsqgoNKTcPbbrSMzpVR7OkQCILaMBPujEwSj+Z+l75mu8/coaYsvFk0/OH4=;EJjDUbl4LGv3usUdEGcvAg=="
 ---

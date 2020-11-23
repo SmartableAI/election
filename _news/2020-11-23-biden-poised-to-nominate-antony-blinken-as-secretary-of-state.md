@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to pick Janet Yellen for Treasury secretary"
+    excerpt: "President-elect Joe Biden will choose Janet Yellen, former chair of the Federal Reserve, as his secretary of the Treasury, according to a source with knowledge of the pick.\n    \n"
+    publishedDateTime: 2020-11-23T22:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnc9d2kP2ZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Michigan's state board certifies Biden's win"
+    excerpt: "The Michigan State Board of Canvassers is expected to meet Monday to vote on certifying the state's election results, a step that would formally grant President-elect Joe Biden the state's 16 electoral votes.\n    \n"
+    publishedDateTime: 2020-11-23T22:23:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v89a2U1HsJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/michigan-certify-election-results-monday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/michigan-certify-election-results-monday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107151334-detroit-ballots-1104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z

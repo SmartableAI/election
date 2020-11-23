@@ -321,6 +321,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Georgia recount signature-matching impossible despite demands from Trump, Republicans, says secretary of state"
+    excerpt: "The Trump campaign and high-profile Republicans are demanding that signature-matching be a major part of the recount the president filed for in Georgia where President-elect Joe Biden beat him by less than one half of a percentage point – but the secretary of state's office is saying that ship has sailed."
+    publishedDateTime: 2020-11-23T20:03:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QE-Fa8Hpu-w/trump-republicans-demand-signature-matching-in-georgia-recount-but-raffensperger-says-doing-so-is-impossible"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
+    excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
+    publishedDateTime: 2020-11-23T22:07:00Z
+    webUrl: "https://www.wsj.com/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-263840?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "LIVE UPDATES: Mike Pence campaigns in Georgia for GOP Senate runoff candidates"
     excerpt: "Vice President Mike Pence flew to Georgia on Friday to campaign for Republican U.S. Senate incumbents David Perdue and Kelly Loeffler, who both face runoff elections Jan. 5 against Democratic challengers."
     publishedDateTime: 2020-11-21T07:16:00Z

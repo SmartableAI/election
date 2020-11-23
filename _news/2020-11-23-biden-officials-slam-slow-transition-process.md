@@ -269,6 +269,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump campaign to ask appeals court to halt Biden win in Pennsylvania"
+    excerpt: "U.S. President Donald Trump's campaign on Monday told a federal appeals court it would seek to halt the \"effect\" of Pennsylvania's likely certification of the Nov. 3 election results, after a lower court paved the way to certify President-elect Joe Biden as the winner."
+    publishedDateTime: 2020-11-23T21:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-election-lawsuit-idUSKBN2832XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832XL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542208886&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1I6"
+        width: 748
+        height: 545
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
@@ -477,6 +493,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Michigan election officials to consider certifying Joe Biden’s 154,000-vote victory despite Trump’s delay tactics"
+    excerpt: "Michigan election officials on Monday planned to consider certifying President-elect Joe Biden’s 154,000-vote victory."
+    publishedDateTime: 2020-11-23T17:51:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-michigan-election-results-20201123-g3sdpxf6a5bx7jbem4v4f74ko4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-michigan-election-results-20201123-g3sdpxf6a5bx7jbem4v4f74ko4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-michigan-election-results-20201123-g3sdpxf6a5bx7jbem4v4f74ko4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lDcHhKHgnZ3Xx6ewT7bF5vpCzYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMEF4JOTCGCGUTDKZB4KLUSWYI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
     excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
     publishedDateTime: 2020-10-23T20:15:00Z
@@ -635,6 +667,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Daily 202: Picking Blinken for State previews how differently Biden will govern than Trump"
+    excerpt: "Four years ago, President-elect Donald Trump picked ExxonMobil CEO Rex Tillerson to be secretary of state after meeting him just once. After running against the Washington establishment, the only president in American history to take office with no prior governing or military experience picked someone with no prior governing or military experience to be the nation’s chief diplomat."
+    publishedDateTime: 2020-11-23T16:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/23/daily-202-picking-blinken-state-previews-how-differently-biden-will-govern-than-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/23/daily-202-picking-blinken-state-previews-how-differently-biden-will-govern-than-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/23/daily-202-picking-blinken-state-previews-how-differently-biden-will-govern-than-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNQUQWRNG4I6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
   - title: "Twitter to automatically transfer @POTUS handle from Donald Trump to Joe Biden on Inauguration Day"
     excerpt: "Twitter says it will automatically transfer the @POTUS Twitter handle from President Donald Trump to President-elect Joe Biden on Inauguration Day,"
     publishedDateTime: 2020-11-21T19:56:00Z
@@ -666,6 +714,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/dc76e8fe-e32f-4328-ae69-42bbcfc7aeb3-AP_Trump_Legal_Challenges.jpg?auto=webp&crop=5999,3374,x0,y506&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Former Defense Secretary Jim Mattis says Biden should toss all of Trump's 'America First' policies"
+    excerpt: "\"We hope they will quickly revise the national security strategy to eliminate 'America first' from its contents,\" Mattis and three others wrote."
+    publishedDateTime: 2020-11-23T19:29:00Z
+    webUrl: "https://www.businessinsider.com/mattis-says-biden-should-eliminate-trumps-america-first-policies-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/mattis-says-biden-should-eliminate-trumps-america-first-policies-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mattis-says-biden-should-eliminate-trumps-america-first-policies-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5c0be53545972a31eb6544a7?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Trump, still not conceding defeat, trumpets vaccine progress"
     excerpt: "President Donald Trump has offered a rosy update on the race for a vaccine for the resurgent coronavirus, while gliding over significant challenges to come"
@@ -987,6 +1051,22 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Ex-Homeland Security official Mayorkas returns under Biden"
+    excerpt: "President-elect Joe Biden is turning to a veteran of the Department of Homeland Security to lead the agency amid widespread concern that it became overtly politicized under President Donald Trump in c"
+    publishedDateTime: 2020-11-23T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -1147,6 +1227,22 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Maskless man seen exhaling on women outside Trump golf club charged with assault"
+    excerpt: "In video footage, Raymond Deskins, 61, is seen intentionally blowing air on two women — after one points out that he's not wearing a mask."
+    publishedDateTime: 2020-11-23T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/23/man-exhales-women-virginia-trump-golf-club-charged-assault/6389144002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6389144002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6389144002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/8f545167-3cce-4af0-b7b3-bf12f6f92475-GTY_1287095511.jpg?auto=webp&crop=3731,2099,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden says U.S., allies need to set global trade rules to counter China's influence"
     excerpt: "U.S. President-elect Joe Biden said on Monday the United States needed to negotiate with allies to set global trading rules to counter China's growing influence but declined to say whether he would join a new China-backed Asian trade pact signed on Sunday."
@@ -1383,6 +1479,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/19c9c305-1560-4d9c-8060-d8255bbfca32/thumbnail/1200x630/7e4ef09c34ed3f9a57f81e2e6ea5ea6d/cbsn-fusion-potential-executive-actions-the-biden-administration-could-take-to-move-the-country-forward-thumbnail-592669-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump's Destruction Of Documents"
+    excerpt: "\"Because of the desire to avoid disclosure of information...people have been moving to these commercial messaging systems like Signal...this is really changing the way civil servants and government officials behave,"
+    publishedDateTime: 2020-11-23T18:44:00Z
+    webUrl: "https://www.npr.org/2020/11/23/938003009/donald-trumps-destruction-of-documents"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/23/20.11.20-trump-768x512_wide-39c338ce5cf6711db69fa5487d1ba3a38fdee280.jpg?s=1400"
+        width: 768
+        height: 432
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."

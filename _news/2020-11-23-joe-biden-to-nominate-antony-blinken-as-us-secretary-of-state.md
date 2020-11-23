@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominat
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Biden picks Janet Yellen as first woman Treasury secretary, tapping former Fed chair to help rescue economy"
+    excerpt: "Biden chose Janet Yellen to become Treasury secretary, tapping her to guide his efforts to steer the pandemic-hit economy out of crisis."
+    publishedDateTime: 2020-11-23T22:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/23/biden-picks-alejandro-mayorkas-first-latino-head-homeland-security/6392845002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6392845002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6392845002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/920b6a85-b0ba-4fad-8081-a8faa3fa72aa-Yellen.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "d7AkB2doxz2dpD/JRvF/TCeBkDTDYBmoi6QdZP10g6wp4vcpVD9NJRI/cXxYyrTnTAaEkX8tYl7xbRjRAd88YenlriPHEnMlOnHEoa2jlZTntzhYRofhHhTLZ99HVqygHOlGODIfvNOsUB9bheBPX4cTcdzoGmoCL0WFM3OcGUbTbiqEs+v/ginXX92Fj+OiW0WUPpO8KwhC4AelMaPPJWnSEyK54lWuz41PTgsivtNGwtLUCd5+E1yRu7VG5t2R6thePpMmYJa/w5DI9xkFT9WIlCzQaiJ9Qpqzf3PF6OgUfVyhgxULfos3F0oAk9Pnm922dHtQIz17lp8gGkBQrCR/yb9e3UEbXnM802ED9RNUWtYAROwGp4+slRi5R+t6/VQ4wNSnoWFA2B3v8d9ivdPiMZYZIuDKEIZEIwES3iOrtPLZSRgQ7cB7pk3du2U44t0NeuSKga7CZmdTXWWSXjsQvDcfVpHkU7RI8P6wWXK8blDQhx8Dg5TPlsxHWi6LuQW+kjwcbLftE0J5O5FqZg==;PGK6inyhtKr92FOUwL4+Pw=="
 ---

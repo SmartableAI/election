@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump supporter who exhaled over women during protests is charged with assault"
+    excerpt: "Raymond Deskins charged after breathing forcefully over two women during altercation outside Trump golf club in Virginia"
+    publishedDateTime: 2020-11-23T20:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/23/trump-supporter-who-exhaled-over-women-during-protests-is-charged-with-assault"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/23/trump-supporter-who-exhaled-over-women-during-protests-is-charged-with-assault"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/trump-supporter-who-exhaled-over-women-during-protests-is-charged-with-assault"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/32bcee050a9b8034d012ef484e611a25a2b101cc/0_255_4322_2593/master/4322.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7342ac6132c6124205255f69fbaf1a1"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "+Os02O0orMlO/VmFANzIwPfaeL/MiFoHksUPQ7fHlNSAlW2OOd4toy2xvEkfwb3K0bZqKx9sqb6kKPCwRKCxQ4oHipGrdcD7nRgrHmM/CrJmQpFsdd0Av4LHCbONVc6r3C4kQRRtsbaSzNeOFxNictB8wix9UXHmMEbYE+e4c9nloxsTWZhEoszFY4r8/rLdNlD+hllwkNIwyCE3X2xNkiOrXzS3WKgyx+0TjCZyS4EzTAiwDUl5zqRyPtIcgmMs+wsKqiH1ByqLkRbeX+yc+OgjuJw429WdT2MkFsCPnTVNCpr1y3SxI0PmPXWVI4/VppGSQuA7fy9am+us3/hvIViM7H4DHYi4T8ifcgUHbUY=;XdngSXEBsa+VklJbn33KwQ=="
 ---

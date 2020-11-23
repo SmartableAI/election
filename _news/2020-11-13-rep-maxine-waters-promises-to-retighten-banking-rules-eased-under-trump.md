@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "What if Trump actually did it?"
+    excerpt: "Yes, we know that this is far-fetched, but bear with us for a moment."
+    publishedDateTime: 2020-11-23T21:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzkxiSC9jxc/what-if-trump-actually-did-it"
+    ampWebUrl: "https://www.foxnews.com/politics/what-if-trump-actually-did-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-if-trump-actually-did-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to Participate in Virtual G-20 Summit This Weekend"
     excerpt: "President Trump will participate in the virtual G-20 summit, held this weekend in Riyadh, Saudi Arabia, according to a senior administration official."
     publishedDateTime: 2020-11-20T22:02:00Z

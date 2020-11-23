@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
+    excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
+    publishedDateTime: 2020-11-23T21:41:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I8ESxnRedrk/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county"
+    ampWebUrl: "https://www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pa-supreme-court-rejects-trump-challenge-absentee-ballots-allegheny-county.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21212b6f-71af-45fa-bda8-db4cce1855c1/9cd41134-3b22-4a3f-91c1-fd8799d3f7e6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign files Michigan lawsuit claiming GOP blocked from viewing vote counting"
     excerpt: "The Trump campaign has filed a lawsuit against Michigan Secretary of State Jocelyn Benson and Wayne County officials in which they allege that credentialed election challengers were blocked from having sufficient view of the vote-counting process, challenges against certain ballots were ignored, and"
     publishedDateTime: 2020-11-11T16:54:42Z

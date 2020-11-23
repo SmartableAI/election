@@ -8,6 +8,9 @@ webUrl: "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white
 ampWebUrl: "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/"
 type: article
+quality: 135
+heat: 135
+published: true
 
 provider:
   name: New York Post

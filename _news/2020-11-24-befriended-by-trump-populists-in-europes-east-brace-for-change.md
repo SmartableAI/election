@@ -8,6 +8,9 @@ webUrl: "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-ea
 ampWebUrl: "https://www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894"
 type: article
+quality: 135
+heat: 135
+published: true
 
 provider:
   name: Wall Street Journal
