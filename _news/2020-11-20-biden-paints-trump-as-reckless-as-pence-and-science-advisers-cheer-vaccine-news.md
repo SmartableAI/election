@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 1861
+heat: 1881
 published: true
 
 provider:
@@ -1290,6 +1290,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/21/19c9c305-1560-4d9c-8060-d8255bbfca32/thumbnail/1200x630/7e4ef09c34ed3f9a57f81e2e6ea5ea6d/cbsn-fusion-potential-executive-actions-the-biden-administration-could-take-to-move-the-country-forward-thumbnail-592669-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden officials slam slow transition process"
+    excerpt: "President-elect Joe Biden’s transition team on Nov. 22 criticized the General Services Administration for failing to ascertain the results of the 2020 election and said it could jeopardize national security and the rollout of coronavirus vaccines."
+    publishedDateTime: 2020-11-22T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-officials-slam-slow-transition-process/2020/11/22/d019d9f7-74da-4219-85da-4f2c7bd4cbed_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-22-2020/t_7eccb3b24ede4e229022800b46ef1a0b_name_20201122_SUNDAY_SHOWS_V3.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."

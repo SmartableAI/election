@@ -1300,6 +1300,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden officials slam slow transition process"
+    excerpt: "President-elect Joe Biden’s transition team on Nov. 22 criticized the General Services Administration for failing to ascertain the results of the 2020 election and said it could jeopardize national security and the rollout of coronavirus vaccines."
+    publishedDateTime: 2020-11-22T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-officials-slam-slow-transition-process/2020/11/22/d019d9f7-74da-4219-85da-4f2c7bd4cbed_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-22-2020/t_7eccb3b24ede4e229022800b46ef1a0b_name_20201122_SUNDAY_SHOWS_V3.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
     publishedDateTime: 2020-11-19T14:07:00Z

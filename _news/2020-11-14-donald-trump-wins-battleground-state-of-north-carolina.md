@@ -3803,6 +3803,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
+    excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
+    publishedDateTime: 2020-11-23T06:29:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542108109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM070"
+        width: 825
+        height: 545
+        isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"
     excerpt: "Their final debate behind them, President Donald Trump and Democrat Joe Biden are packaging their divergent personal styles and policy prescriptions into closing messages for the final sprint to Election Day."
     publishedDateTime: 2020-10-24T21:01:00Z

@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More Republicans are losing patience with Trump's legal absurdities"
+    excerpt: "President Donald Trump's effort to overturn the election he lost is being increasingly undermined by the inanity of his legal claims and is causing some high-profile Republicans to peel off even with most of his party mute amid his constitutional arson.\n    \n"
+    publishedDateTime: 2020-11-23T06:22:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PkDCt8-Fbtg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/donald-trump-republicans-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/donald-trump-republicans-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z

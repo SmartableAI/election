@@ -36,6 +36,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden expected to pick Antony Blinken as top diplomat"
+    excerpt: ""
+    publishedDateTime: 2020-11-23T06:12:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZTz72Id-jw8/biden-expected-to-pick-antony-blinken-as-top-diplomat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
     excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
     publishedDateTime: 2020-11-16T22:48:27Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15821
+heat: 15841
 published: true
 
 provider:
@@ -3790,6 +3790,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201117&t=2&i=1541453588&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0AA"
         width: 806
+        height: 545
+        isCached: true
+  - title: "As Biden marches forward with Cabinet, Trump hopes likely to fade in key states"
+    excerpt: "U.S. President Donald Trump's increasingly tenuous efforts to reverse his election loss to President-elect Joe Biden could be dealt a lethal blow on Monday, as Biden turns to the task of building his cabinet."
+    publishedDateTime: 2020-11-23T06:29:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2830EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542108109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM070"
+        width: 825
         height: 545
         isCached: true
   - title: "Trump, Biden frame closing appeals for sprint to election"

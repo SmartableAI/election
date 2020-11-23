@@ -1306,6 +1306,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden officials slam slow transition process"
+    excerpt: "President-elect Joe Biden’s transition team on Nov. 22 criticized the General Services Administration for failing to ascertain the results of the 2020 election and said it could jeopardize national security and the rollout of coronavirus vaccines."
+    publishedDateTime: 2020-11-22T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/biden-officials-slam-slow-transition-process/2020/11/22/d019d9f7-74da-4219-85da-4f2c7bd4cbed_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-22-2020/t_7eccb3b24ede4e229022800b46ef1a0b_name_20201122_SUNDAY_SHOWS_V3.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Duluth airport barred Pence after Trump broke virus rules"
     excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
     publishedDateTime: 2020-11-19T17:39:00Z

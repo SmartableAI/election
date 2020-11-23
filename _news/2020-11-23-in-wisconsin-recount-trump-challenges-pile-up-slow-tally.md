@@ -1,34 +1,28 @@
 ---
 category: news
 title: "In Wisconsin recount, Trump challenges pile up, slow tally"
-excerpt: "A large contingent of observers supporting President Donald Trump are making their presence felt in Wisconsin’s partial election recount"
-publishedDateTime: 2020-11-22T20:25:00Z
-originalUrl: "https://www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-wisconsin-recount-trump-challenges-pile-up-slow-tally/2020/11/22/d829fd2c-2d00-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+excerpt: "Wisconsin recount observer Ardis Cerny stretched her neck as far as she could toward a Plexiglas divider separating her from two vote counters, eagle-eyeing them as they scrutinized ballot papers one by one."
+publishedDateTime: 2020-11-22T23:32:00Z
+originalUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11"
+webUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11"
+ampWebUrl: "https://www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/in-wisconsin-recount-trump-challenges-pile-up-slow-tally-2020-11?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Hackers Stole $2.3 Million From Trump Reelection Account In Wisconsin"
@@ -545,6 +539,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qUOGHeFXQKm8AxnR/yQcignewpxgc+MFgC+OV8pW5SLx2ZCf3EZpRCDC9ZnjPD1ysUyrT2fnm8KmmjCkOozpdEQhqZ7vQJSL19a2yAR3f/z8qc8uezuiIP02g5cmkh0KMwJvPjnqTr5YZH6by3cuMSV0X+MvxRKBGE2J0gneFjf0cXR2IDpyX2L/5YoV3EQUeQdwfFCBz3xjFD7G1wigom3si/L1+AcbcdYl40ocoo4gLF3PPPlsOVC3Nemlle2kosJh85qWajzq0thNdo84FGbfgvMhX36dEAQHRQ+h3Hjnq9DZ5vZuAt5KAaTHiKw+oEKVDE7Jmfsyp78/+3jdnv/o2HsfY5fjoMN5MTYE53s=;jhEIeLWFjuvcgN/H5q3E/w=="
+secured: "YwPUNT4BOSajxaRLxtWBrBmWncTBRZjS009pPsZX273fAviXXj1g7bjTasIpAmm1KSeNk5iHkOVl/GIzSwSkJW8OSKcnxtO4LJWRoWtmYG2y9gJGNkeBk+5j7VOBZBdzVbQRTyzWs4taTSD4hMomXOnKw4yValS2Ro89Mi4JB2io8mo7w6fiMc23nZX4c+/OJDNyrEb8ZecaBrHP91ksTHkxM2ul889ionBp4TnvZSDeA5Uog6HMqco5ftGMOAcFqt5ppXj+5+9iwiLcwut9HCTFo6gWvSBD9rYPqYSHdC5HRFI48hyJwq6NL6hwxeOvXkv1zoUjMRwVG0NE4UqUH4T3tgEjHBmXeEXhxM1Y1Ho=;lKgkLHc1ub5GVnODzFisGQ=="
 ---
 
