@@ -47,6 +47,22 @@ related:
         width: 837
         height: 545
         isCached: true
+  - title: "Trump's closest business ally just admitted that the president lost the election"
+    excerpt: "The result of the 2020 election is \"very certain,\" and Joe Biden is the president-elect, Blackstone CEO and Trump ally Stephen Schwarzman told Axios."
+    publishedDateTime: 2020-11-23T14:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-won-admits-trump-ally-and-blackstone-ceo-stephen-schwarzmann-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5fbbba6050e71a0011556c19?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "sAD4V1FniswizCJJjmpQyF+RnSEeBJ/mlJd/LKSFU1ctth1ngmHUBDy5GQ4+AKD+ZRSRMN6kqNh9/phFBKBn19t9EiSJTY0tP+LxIUx1uOjG5dpNTF5SMRnoL2LhbzQ+adjCwrhtS4XboSzWfrJI4t1j176izMaexkj1KoEV0xasAcmEKAyTJPrnfhrrTu8sG+7/YOmbQEQd2vV/K8lgD6AcenOjHtMiwH+7E/hv52/JZwAiBrjgkaMnWQeMIg9k4lzmuuQz0+dbqHIDyQUU8Sms/dNmSTXnTHk77+kM2Uzz5Mhv9LwBbWNcOk1151wMUFwpxcLpMAwxJPj+EJi3xvDYY8I2vdX3XtRJu5kNNug=;oBTE8rz6ysySky7Il/J4Jg=="
 ---

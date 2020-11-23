@@ -3,25 +3,25 @@ category: news
 title: "Mike Pence rallies with Loeffler, Perdue in Cherokee County"
 excerpt: "Vice President Mike Pence traveled to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage."
 publishedDateTime: 2020-11-20T19:35:00Z
-originalUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-webUrl: "https://www.khou.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-ampWebUrl: "https://www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+originalUrl: "https://www.firstcoastnews.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+webUrl: "https://www.firstcoastnews.com/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
+cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/elections/mike-pence-visit-to-georgia-today-everything-you-need-to-know/85-9d9028c6-85bb-44fd-976c-7093737a7698"
 type: article
 quality: 75
 heat: 95
 published: true
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: First Coast News
+  domain: firstcoastnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.khou.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
+  - url: "https://media.firstcoastnews.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 563
         isCached: true
 
-secured: "rN+rBBj3Xi1wuX6D6LOM2RDYETQjrTFcePMzM4tk27sL1ENeSt8DNXNDEMstiAR0o8hn/VtMvitAKwmjuxhb7E8wzggso226LbTE77udYWYd9col8U3JSxLI5TUcJc8XjvzM5W9nA4Z5zw3Ij23J21l3/4QuOwgTUAQcOZ74xk0bXno6fWGm2QbvEM+IfJBMlNo5lXYKJZqfYtqi9Smnmgtg/1skR3A5WVBt41bG8h7nqLpJPLBNl66TSTwPXyeuwy1OOvzIapTazEkiPDnVnGLbk90jms6To4exWuJrQ1bepNDFCzD8POM7b8AXgKsjyjQ2BGXCGnOpUxviBkIUEAI4lOHe/dQhS/tjgEd5HiPlUqofnn5123f6iWAdKA5gW+k4/OC6dZt1NXSdSHcKOOVPU88NXC18gi+tJjgp0ZdNBUAXL/8B7czzZIMPRJYW5+d8D9mg9G+7COXhEng8ovhjBZMAgia2hyI8lwOq5GmskFP6u0IXT1WH8ouvhg/7cS1H+V+IrvU9s0ANKoKqYw==;Lipg6CVeVJ5XKApFt2FgVg=="
+secured: "EA8j0iIfXPCtY/WuHT8dnsOQBIaM8o1/eKh7uXklCu9ZpG90fupMAqnvWbzC2ASSeL7s2W4M3KGJVN5yE9F8471gMPVkPUTZ7IhjoFp1+z+l01PdoSq/9ev+qic7zNDjqJvALp5V0XLN5RMY9llprOGMtWssblOIqA/V0vxWEMzBa+fYwF3cXIZkmOIkPDKp9O8zr91ffgqOSkqKfF30cxYHFHzWcQS+A/UhA6duN5NRNlaY4jq/Ugmc0FhHVw2n5bu/iDWTcp1AhoFo/Zur633jq/SjYAHpBBD7FCYVRhapYAEHLo18tLOrMcTQBAbrb8QH9kXrHCgsJSz29ezQf7EoKt9zn7a4H8Vsoy80/Cc=;XoYZj6440r5A28s1axQ5nQ=="
 ---
 

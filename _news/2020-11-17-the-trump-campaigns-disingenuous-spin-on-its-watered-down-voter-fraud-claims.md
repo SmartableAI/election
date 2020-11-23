@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump campaign legal team distances itself from Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+    publishedDateTime: 2020-11-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign moves to seek partial recount of Wisconsin, hoping to overturn results"
     excerpt: "The Trump campaign says it will seek recounts in Dane and Milwaukee counties, Wisconsin's two most populous and liberal-leaning counties."
     publishedDateTime: 2020-11-18T17:11:00Z
@@ -200,17 +216,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Campaign Legal Team Distances Itself From Powell"
-    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell."
-    publishedDateTime: 2020-11-23T01:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "fJ/p1btumZaweGnC2HY25lwcK67VVHY/8JXFrvsLscaGeSf9Euru0aFOXZwOrLFj1Nd7ke3ConoycDryMM1Kd0qcGt6st+HOIZVKaQovpTA3LX0FRI0FPzHHyQ5O3lvpaqPYiJlLLAk89LMSAJrtzjTTIhbE1tQXs/F2Zlf6qU8Ll65z6ptJ788iVShSyV7xPslTpOBplVfAgja7koPlcnaTp4ziBHyjwTFkGT0+N5l2MYG3qBbehjYQbLM45/yQ8hPKOUOi2vB4qFWKUGs+pihZ8HfFiFn7MvtT73qgLNjpisf70ay4+dAMxja+T2VHfgzArNyvv7uqzopfFKvvlTeArh3EETdgix+TS0VZ0qs=;fgrjlQeqDO6wQoBwVzCO5A=="
 ---

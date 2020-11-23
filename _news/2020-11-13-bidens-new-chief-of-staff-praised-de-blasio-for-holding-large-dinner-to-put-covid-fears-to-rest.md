@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other"
+    excerpt: "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do."
+    publishedDateTime: 2020-11-23T12:57:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates"
+    ampWebUrl: "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "6BiyHYZFkQML56BbwwxEwURLfL++yyqAfuWOHz6r/go6PlUO3hu92ojxLIw2yFyjrueCRqMRxo5xS0XMP/ayMy/wj4lHRVfkHMeIk9tE55aIjVrPr7l1ieJ9ixfxuNPHQarsNPBRH1yXNjQTNxnB6D/wpUkn8ntw5CDaWUR1OcOrwmvgM/71E1wOKBT1jmRfPaEE3ikDZRBymGHyessR1Jjty4Jf+6JpzjC8W2qBdIJRuuGh8zaQ8mroKKA8STq9MKWhScwFCfxvMAnF7hDMpqwSIkEXgrLIfCNKsG0kpknkDxVIjmD2tN0gSdlAukjf1o7Ye2TxqbgUHLZYXwIQK6gPaKvxFyTHIBqX8pSavFM=;TvEtB6eQ+efqH4U+pRsR9A=="
 ---

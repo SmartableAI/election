@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "More GOP lawmakers call on Trump to begin presidential transition: 'It is time'"
+    excerpt: "A small but growing group of Republican lawmakers are calling on President Trump to begin the transition of power to President-elect Joe Biden, even as the incumbent refuses to concede and forges ahead with a series of legal challenges trying to overturn the results of the Nov. 3 election.  "
+    publishedDateTime: 2020-11-23T14:09:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gC0N5OZlgTw/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time"
+    ampWebUrl: "https://www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
     excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
     publishedDateTime: 2020-11-17T13:26:41Z

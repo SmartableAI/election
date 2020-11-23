@@ -144,6 +144,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Perdue, Loeffler back Trump call for Georgia recount, more signature matching"
+    excerpt: "As President Trump's campaign officially requested another recount of ballots in Georgia over the weekend, Sens. Kelly Loeffler and David Perdue, the Republicans in the critical Jan. 5 Senate runoff races in the state, backed the recount effort as they continue to slam the handling of Georgia's vote"
+    publishedDateTime: 2020-11-23T14:21:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OaqBAvbg9CA/perdue-loeffler-back-trump-call-for-georgia-recount"
+    ampWebUrl: "https://www.foxnews.com/politics/perdue-loeffler-back-trump-call-for-georgia-recount.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-loeffler-back-trump-call-for-georgia-recount.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden likely to campaign in Georgia for runoffs that will shape the Senate, top aide says"
     excerpt: "President-elect Joe Biden will likely travel to Georgia to campaign for the two Democratic Senate candidates ahead of two January runoffs, according to his new chief of staff. "
     publishedDateTime: 2020-11-16T17:06:13Z

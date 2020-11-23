@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 1901
+heat: 1941
 published: true
 
 provider:
@@ -269,6 +269,22 @@ related:
     quality: 139
     images:
       - url: "https://i.guim.co.uk/img/media/29a4e4bd1daecef4294e20fa128cc630dd8cd4f1/0_266_5017_3012/master/5017.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=22a3bed55fd07aa1d42446132f5f062f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live"
+    excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
+    publishedDateTime: 2020-11-23T14:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbbe888f0868ed26c10681"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 137
+    images:
+      - url: "https://i.guim.co.uk/img/media/da41fd47cec3e95aec1c0a0495177f04911cd1f7/0_26_3034_1821/master/3034.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168f7b930d8d42d9a6603e7ec2d20cc7"
         width: 600
         height: 360
         isCached: true
@@ -587,6 +603,22 @@ related:
     quality: 126
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: Trump legal team distances itself from lawyer Sidney Powell, Biden taps Blinken as secretary of state"
+    excerpt: "Rudy Giuliani and Jenna Ellis distanced themselves from Trump team lawyer Sidney Powell. Joe Biden will tap Antony Blinken as secretary of state."
+    publishedDateTime: 2020-11-23T13:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/23/election-2020-updates-trump-biden-president/6388215002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6388215002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6388215002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/dc76e8fe-e32f-4328-ae69-42bbcfc7aeb3-AP_Trump_Legal_Challenges.jpg?auto=webp&crop=5999,3374,x0,y506&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

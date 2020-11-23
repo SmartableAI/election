@@ -674,8 +674,8 @@ related:
         isCached: true
   - title: "Trump Continues to Challenge Election Results as Legal Options Dwindle"
     excerpt: "A defiant President Trump continued efforts to contest the outcome of the election, as his legal options narrowed and a number of Republicans expressed frustration with his refusal to acknowledge defeat."
-    publishedDateTime: 2020-11-22T22:27:00Z
-    webUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos1"
+    publishedDateTime: 2020-11-23T14:40:00Z
+    webUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos2"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
     type: article

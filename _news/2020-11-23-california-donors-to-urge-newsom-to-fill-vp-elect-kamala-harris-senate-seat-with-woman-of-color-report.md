@@ -1,14 +1,14 @@
 ---
 category: news
 title: "California donors to urge Newsom to fill VP-elect Kamala Harris' Senate seat with woman of color: report"
-excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox.  "
-publishedDateTime: 2020-11-23T01:20:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
+excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox."
+publishedDateTime: 2020-11-23T01:35:00Z
+originalUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
+webUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
 ampWebUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
 type: article
-quality: 168
+quality: 118
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dc6aa3a-4997-448f-a8ac-d28ed976cf7c/761c7ebb-30a9-466b-8bdf-f819ca2c7503/1280x720/match/image.jpg"
@@ -143,6 +143,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7unE8GAko+6v8jgQ49bkO1UkmahYAEeS0w76Xa9Nxam+Sq3nVuTsButXw2Efb9H6KVwCWkIC+M5IWZQciknkLB8dca4NqaCVCg/T3OybXmQ7AJVnifkXTh4v6y424hnHRCVdNbX8LvqEjId7t5mG8g/wi6OTq/YE1vfSdmPOI84s0tOnD/8Dm+sJjBPSGGPE4MAYi8bcqwZwDOkEXgrN+D4g+8RFr+YPnpvhFFRLj8z1Wpt3SAZe+0rottDa8t4xxgZTDbYMl2lZlAfjur5xgfCYaSdTjzgZQ1m8+8V3qPRlqjCRJvP7jGsaCNQJGeySLkYS8GT7qrjQhXGjzF7ADLY4IMWGwFeQQyDbjjRxDSk=;ZOlux5WAKI4GvvScRBkiBg=="
+secured: "yz4Brfe9qdQjlqFJkKBwrDEqfHkhv5Bva9esbFgTClMtUZ0AphmmRgJCG9oD/sU0Kv9iLDq2uEPG9xz8e7c6RgWVqOl8/13mjw/4x9pRxtMU/ZnYYwY1Hm/IJZ37WIAciEXgxkkwfHMT6hvEeiBQrG4x+zMZWtHg8fZ9NZZV8C+s+0gjZLyd1edzcH0a7/rS9CaVI27sFrzW4678ZubF0FoVseRgWwweQXPDACr/cFuwCERbf54gly7KQQIX2Szz5LeG8oaKuX/xuOJXQF40QHvZFWkASpnbpRZb6AZ1Vprir1h+KS7ScgcsabY52grAk9sdiICdho9maNXI/SirqawOJWER3b0ULOhbCjuH2Z4=;nJcbYHu5CMqvP9NmlDZGBQ=="
 ---
 

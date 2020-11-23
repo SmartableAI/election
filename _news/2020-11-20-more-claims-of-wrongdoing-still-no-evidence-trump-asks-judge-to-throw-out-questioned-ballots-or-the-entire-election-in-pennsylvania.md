@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump campaign legal team distances itself from Powell"
+    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+    publishedDateTime: 2020-11-23T06:44:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Trump campaign’s disingenuous spin on its watered-down voter fraud claims"
     excerpt: "The campaign is disputing a Washington Post article about its scaled-back lawsuit in Pennsylvania. But a look at the lawsuit — and its claims about The Post's reporting — reveal the truth."
     publishedDateTime: 2020-11-16T18:26:00Z
@@ -200,17 +216,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Campaign Legal Team Distances Itself From Powell"
-    excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell."
-    publishedDateTime: 2020-11-23T01:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "xI6lw6iWIUCpzXcd+8EKS6nse465tk/NmbruyAMr/frMAeVEbDrEmJ+cGG0kSRXTA1XG7RxWrIxH8P9b0pGGBzgSWfMDqrhyHlnxwXjz7xw/jAQc0qxhWPnsvGMlpgjdQH9sFx9jHi4LeMf71MPbrSgKhIlgNNZF7JesEhHzXXSWvRjZcyjZs/+Jh4Uc5CkWHBedwc7u+In86VYSIkQ8fyZdjJYmkSvI1J5XJxp0DZ9frPvJ4Sl0SP6nh4iuc3d/7oBI5jPMM5+Htqhfg/v2HWGFamyjTaQRTUr6aPeI+GJcXJzx5aoCGAdA8BnkT6XjJxM8V8VLU96WnMr2j/NrSOUj/YNy94iJOttT6kXjPmGVyREdDWGj0NRIecxb2LQ5ADrhN300JGX+DYWxbN3UKRRSH34RFpQlg+X1SGuiR/lC9wzeH5BbtcpbGuInXQLDVwJp+V33m8Kf6+UopFVhN2F4+Zm9D1hjjFHpqG/5zf9ywLObYWyKfpaesPlWX1mQfY6vdJbEjy0Bum1rAGJVyw==;/XAQDk70520h6tGkNMcqzQ=="
 ---

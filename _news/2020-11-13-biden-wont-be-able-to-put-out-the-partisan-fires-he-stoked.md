@@ -116,6 +116,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration"
+    excerpt: "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world."
+    publishedDateTime: 2020-11-22T22:21:00Z
+    webUrl: "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20326568855426-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "9GbvGlAD6AdGQ6f8XDpD/eDw91JC5HWyKzGwc2rtH28grz5l872X/vMpCdPvVLm6xOyud0Rqtb5525dbWvgv06Q1L+BsCllb2np5M2oWtr0244X71hevuWpy36jk5K2U6dK2B0o0tu6StTh41o8WZVHKAuwt04bp66sid542O4/ku04mecWrmAWWSKXRpafoPD7t73j1vR0zWiGu/rtx1YyZw3/Bv+icQJo+jhn8LuHMyWCsnNOBlt8JfKJrXxxViTdX9HtyyV/U1xPUP856ivLAG8+h6qytj5N0jY/MeNlRW6/YCiCpqREQlhWf3hrYlAu9hCprYIBMEoxlDxTGZsAeZWtW160TA9gzVJpFLUc=;So2J7jExlPsgUk9XRuuOPw=="
 ---

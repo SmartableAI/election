@@ -76,22 +76,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "California donors to urge Newsom to fill VP-elect Kamala Harris' Senate seat with woman of color: report"
-    excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox.  "
-    publishedDateTime: 2020-11-23T01:20:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljqANDsyOUo/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
-    ampWebUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dc6aa3a-4997-448f-a8ac-d28ed976cf7c/761c7ebb-30a9-466b-8bdf-f819ca2c7503/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "California Democrats face a decision: Do they go for Kamala Harris’ Senate seat?"
     excerpt: "No matter who succeeds Kamala Harris in the Senate, there are going to be a lot of disappointed politicians. That’s to say nothing of various interest groups and political factions who are pushing for one person or another."
     publishedDateTime: 2020-11-19T15:24:00Z
@@ -135,6 +119,22 @@ related:
     quality: 121
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a12d7b4-a5ff-4f72-a486-ac19d95bc04c/ff3e7f2d-83ad-40b4-a5b4-f35750b0e633/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "California donors to urge Newsom to fill VP-elect Kamala Harris' Senate seat with woman of color: report"
+    excerpt: "A group of about 150 of California's largest political donors will urge Gov. Gavin Newsom on Monday to choose a woman of color to fill the Senate seat of Vice President-Elect Kamala Harris, according a report by Vox."
+    publishedDateTime: 2020-11-23T01:35:00Z
+    webUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report"
+    ampWebUrl: "https://www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-donors-to-urge-gov-newsom-to-fill-vp-elect-kamala-harris-senate-seat-with-woman-of-color-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6dc6aa3a-4997-448f-a8ac-d28ed976cf7c/761c7ebb-30a9-466b-8bdf-f819ca2c7503/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Campaign Legal Team Distances Itself From Powell"
-excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell."
-publishedDateTime: 2020-11-23T01:08:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-11-22/trump-campaign-legal-team-distances-itself-from-powell?context=amp"
+title: "Trump campaign legal team distances itself from Powell"
+excerpt: "The Trump campaign’s legal team is moving to distance itself from a firebrand conservative attorney, Sidney Powell"
+publishedDateTime: 2020-11-23T06:44:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+webUrl: "https://abcnews.go.com/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/trump-campaign-legal-team-distances-powell-74351362"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/US/WireAP_17cfc180a8774b43bb88b736e14821fe_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Trump campaign jettisons major parts of its legal challenge against Pennsylvania’s election results"
@@ -211,6 +217,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0nB+l7BEzb/WlgQmCuu6p2A+o4s0C7fPAEYl/33bo9AwlVBZIJMDhb65NaDIbOiPlGxAwcXRU55KhnEDWqm/fhAoGDdCUtJyLIrVKVbSjj4LDqPFZ5WGqqDK3Kk5DQZWTrS9S44BhBrJ9hqEbLUMPhLVPIMcfl7Jug1sIp1bn4nP6ERFHMYI9/+ZLDbgyywkaht25/8rSKVtA06CiLX7vX9391a2rI/U1kfPkC+70TjPGnEdEEo1cPwytXoLBtfHosFN2/lwFgEkmjimKhbWNgAea8JNoqxoQs24lkYuim/ooFafpbQZiEokGRN7uzKKZLj/pV/F65kVSb8XZlDDa7IkBOtkVgUO/VUhdR4W07cR7womY03dmT+QlZXuHPrJYOzUfhI4i9E9iH3DnU05azAHaZhn6DGLpKiLbGRVG4g3p0T6fd5ooPRMiGJ6r9c66b1EJb5ZnCqC3r8XsOLBq4iFSYrJmd4F2QkJk59y3F4LmJBXQE+a5RDyq6puXmKO+yO06VfZedUHZ1zAZOEEKg==;Cj2nUjwqIwr/ah5PI3qVAg=="
+secured: "osuYXw7sjeGSAR6vO6IYAVoeYjvUg+ixe/eiTNVgJDMB+7cts1CGTZv0X4yScTbeXvMVXEnmm801hkOos8u6nz1Jhr322IOIyXVZnHNt1ca7ImfEtM00Kan0fBQ3IWsGizeTeFewa0P4mw1p/h6yKxWMpdWTLndmvkaXl/Fb/acL1a2DfS/lHbTG27lqq0Hl1vSGetWy11Bnn+qt5PFoaAkDruywhNtRM6197IXnZsEZJOoDlMF8I7zsv5E+Xpcn1hEEB1wI6zsnwpkAk9/IkLOUj12PyJLwvKri+mVHi5S3BE0qAlwgvcahu/trtTBdjehwUnlzuyqyVDeN5RCFK0cXZav08FZQvrW96m+2mVA=;9SB+1taENC83vpGFZg92vw=="
 ---
 

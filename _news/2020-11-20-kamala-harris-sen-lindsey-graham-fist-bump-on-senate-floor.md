@@ -496,6 +496,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden Transition Live Updates: 2 States Set to Certify Election Results"
+    excerpt: "Pennsylvania and Michigan, whose results are both contested by President Trump, are scheduled to verify President-elect Joe Biden’s victory."
+    publishedDateTime: 2020-11-23T13:42:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/23/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/23/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/23/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23transition-briefing-certification/23transition-briefing-certification-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Current and former Trump officials privately reach out to President-elect Biden"
     excerpt: "The officials stressed that the outreach does not replace the national security and Covid-19 briefings the Trump administration has been refusing to provide Biden."
     publishedDateTime: 2020-11-19T12:23:00Z
@@ -701,6 +717,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18transition-briefing-biden-virus/18transition-briefing-biden-virus-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "TRUMP appointee: BIDEN WON election — State passes 200k COVID CASES — DCF discriminated against PARENTS"
+    excerpt: "Rep. Stephen Lynch threw cold water on speculation that he's in the mix for a job in President-elect Joe Biden's administration, saying the House already lost \"quite a few\" moderate Democrats earlier this month."
+    publishedDateTime: 2020-11-23T12:13:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/11/23/trump-appointee-biden-won-election-state-passes-200k-covid-cases-dcf-some-parents-490968"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "U+pi0tZFarxRoMcqPv/LD4SltIrJQUp9SawgxZw6f/FtLPZSyROFAhVFuIfAEOYAQ3qNa4bo9Uje65DwcfdjqbJIXvL1sPcK8vFvbtysmEr2m8oS09fSmUBP2tGtlI0woRro24E/5T59p10hTsxcqMuyWUw/ws17dy1FiPm+1hA6+bS8+PHlmXM4fkQPkuaglh4aeSaDA6vnBLQQohnF5qOvcNeWAHlULyJUnHEahT6WxnMfmfVcwwMGkgM7rXj/gqHNiy9X1E8SStrLttUTr4CPU+qlKfRBRdH3rq+YtEC3iy01JPJ524VeGrf6yDc/O3ANskdCIQ615bL2S6hG/OGyYKM3y6EPhAZ9bHZa2IOnca29WtrHcsPiIZnzH437x3hxSPt6uSeXhH8LJo4O2bLIxqX4yhKDzlQVhctJ868NJJWzqZF0RaedF/pP6KXEK0EAknCQjo58SYGAWKxsJv23RUZ0Ntn9SheSpSjsDRPHNpNnGu7Op0O2LBnr2dVYoHeOi/UM0wR9v3IhD9FGiA==;cqgTOc7hykz4AK1j3WNviQ=="

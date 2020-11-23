@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Factbox: Trump suffers major defeat in legal battle to overturn the election, but presses on"
+    excerpt: "U.S. President Donald Trump's campaign and his allies have suffered a string of judicial defeats in their bid to prevent states from certifying President-Elect Joe Biden as the winner of the Nov. 3 presidential election."
+    publishedDateTime: 2020-11-23T11:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-legal-challenges-factbox-idUSKBN28317I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28317I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28317I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 129
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542136694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM0MG"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Options dwindling, Trump faces likely setback in Georgia recount"
     excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over Donald Trump after a painstaking recount, which would deal yet another setback to the president's attempts to cling to power."
     publishedDateTime: 2020-11-19T18:51:00Z

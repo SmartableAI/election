@@ -2,9 +2,9 @@
 category: news
 title: "Trump Continues to Challenge Election Results as Legal Options Dwindle"
 excerpt: "A defiant President Trump continued efforts to contest the outcome of the election, as his legal options narrowed and a number of Republicans expressed frustration with his refusal to acknowledge defeat."
-publishedDateTime: 2020-11-22T22:27:00Z
-originalUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos1"
-webUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos1"
+publishedDateTime: 2020-11-23T14:40:00Z
+originalUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos2"
+webUrl: "https://www.wsj.com/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065?mod=hp_lead_pos2"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-continues-to-challenge-election-results-as-legal-options-dwindle-11606066065"
 type: article
@@ -721,6 +721,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eeXGa4EYDTv23CojvgvKEgITJAp/tbMNxuOSO++LDUni+tQjgDl4NRz2poNdAORakc2k3QkwoVVuqx1flrl8KQBNGJH0jOONasOxQMe9AM79838EQ1J+XzBr/ATQQ6E3h31+Oils2E5IBNw9DYuusAu+lotqYRdL84ZcSkrTtQreabFcDnqxFjHVsilSOZXq1L4h2KHPNrTMVluPPKf3gnhYQFfwGyuWx1QeIs9X5fhhe3uS9Ato59XgH4CY9U6oBSQqUhIvlAhYZfnITAgE/z2y798+PJ3bY97t4cpiMB1Szpcn7RSasxasEqsaqv2oCUOj9/h1wxyfZwbJf4TOkKNubHZCDV2VOcTc9zQ+F6I=;XbTDXOqmPt7URTXiDEvU/A=="
+secured: "9He56SOScA1adBO1fm/V8aR3pmZXeHsoe9i99zBJYHULv1lpbLoF0di6aaDwJV1UuruAzWUAzLOsYl88ojsbPx6rD7ACkfmuJJHykV02W5AP+uZkq4VUGNJ80V6dk1M2BnWd+9MDLfXGpHe2jQ0o1w57E844adVDsL8fU1/6LKP03cwjiwe6rjuZeexZw1czCGAtM9gDni3ilk7fLPuGIL+u8zuO0nyqUP5lAVoBRGvIjum/cyPGsLMlasrJW3HIDuE9G6JM062qN/Xeqx5vpclBPu6agwUuycEPwOPUu8s5OeI9N/drq8NljznLC/1tKn+8kiWS/c5mjDUxO3pL/nsfH8C9ESYYoIb90Bsp4XE=;7exNXnJaYdiqdlz0Y370BQ=="
 ---
 
