@@ -1,14 +1,14 @@
 ---
 category: news
 title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
-excerpt: "Follow for the latest updates on the Senate runoffs in Georgia."
-publishedDateTime: 2020-11-20T05:30:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNw4g_YE4w0/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNw4g_YE4w0/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
+excerpt: "Vice President Mike Pence plans to campaign in Georgia Friday for the Republican runoff candidates, Sens. David Perdue and Kelly Loeffler, whose races will decide which party controls the Senate. Both races headed to a Jan."
+publishedDateTime: 2020-11-20T09:34:00Z
+originalUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
+webUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
 ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
 type: article
-quality: 182
+quality: 132
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
@@ -397,6 +397,6 @@ related:
         height: 853
         isCached: true
 
-secured: "puR+0GpBQW45Wc2n4RcZ5Et45ECzp19qfoDzxOEwiaexu6EiMFzNtUeLos7X7bFhJ0kgPMqyl5Y9qGPCCED+xzAD7dlzJ9ni7thHgdt5KGu/QPV+9WEbWkhBa2tcu3VUiu+5kAbh+qQEU4xPObzV+VfPa35WJA3pDEKFWAx1Fj+2NXoPzOruWztpQl4tBA+l3dndjPw8UJSJ3MegmiHwa93IwrP+HLj2w0aJGEX7xt3g9b0v9zyC6rV0s1ZbjZ5RavhElBN/mp+zEHL6BOSO5QKw2Vp08FaLqLPlYn2a2VHGtqaqdZulxgRRgct92Kcs/N7yEqiHp2ERXBcDLBPZpgy5U6jArXvWxfbrGZZLw4c=;e9fyql3LzsUdR3lK05u2og=="
+secured: "QgPdKj9YkuwwhpXc48RtWELhR07EpCYObGC65vY3CPaSgXruV98sydf14hXD76pdvTtuykYGzokROsn3F4YafPyY7WRUjyTFQ8UX8YasYBeZNSHhIvPYrWFUUcqzlyAaYp+AAz4UPaZWPjZaLOq8u+/0tU3nwvxEP2gbOFNx9iZ27H+NOUlTpujooOEL8QEcMDUZISduPeEkSh93WN4ylYb+gBgc8oN4IDt0B+JvFJoi6hsngB7UxC43nY1xA27Lev7a4aCcDDErKVoj5zeEYU3F5eXagHKYiIrPVG3/7mF6tV3vOpEcNUDO+9SrZcjKxYcuLYh6CPSKEURTRvlEv/BUnSiFi/8nLxpKrZK1gOY=;G+/fybqzpWzdSqRrsCGW2A=="
 ---
 

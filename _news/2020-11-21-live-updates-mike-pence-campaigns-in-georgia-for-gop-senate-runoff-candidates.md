@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
-    excerpt: "Follow for the latest updates on the Senate runoffs in Georgia."
-    publishedDateTime: 2020-11-20T05:30:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NNw4g_YE4w0/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pence, in Georgia, vows to ‘keep fighting’ but acknowledges ‘uncertain days ahead’"
     excerpt: "Vice President Mike Pence hit the campaign trial Friday in Georgia, stumping with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections, which will determine whether the GOP keeps its majority in the chamber."
     publishedDateTime: 2020-11-20T22:13:13Z
@@ -365,6 +349,22 @@ related:
       - url: "https://images.wsj.net/im-263840?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
+    excerpt: "Vice President Mike Pence plans to campaign in Georgia Friday for the Republican runoff candidates, Sens. David Perdue and Kelly Loeffler, whose races will decide which party controls the Senate. Both races headed to a Jan."
+    publishedDateTime: 2020-11-20T09:34:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mike-pence-to-campaign-in-georgia-for-senate-runoff-candidates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Campaign Seeks Georgia Recount as Sen. Loeffler Tests Positive for Covid-19"
     excerpt: "President Trump’s re-election campaign said it had filed a petition seeking a recount in Georgia, while the campaign of Republican Sen. Kelly Loeffler said she was in quarantine after getting mixed results from tests for Covid-19."

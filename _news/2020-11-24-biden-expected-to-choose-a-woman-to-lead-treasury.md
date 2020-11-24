@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: GSA tells Biden transition can formally begin"
+    excerpt: "The GSA has informed President-elect Joe Biden that the Trump administration is ready to begin the formal transition process, according to a letter from Administrator Emily Murphy sent Monday afternoon and obtained by CNN.\n    \n"
+    publishedDateTime: 2020-11-24T00:44:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u-11oCv-NZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/transition-biden-gsa-begin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/transition-biden-gsa-begin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z
@@ -768,6 +784,38 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "These girls see themselves in Kamala Harris"
+    excerpt: "When US Sen. Kamala Harris of California was elected as the first vice president of the United States who is female, Black and South Asian, girls of different races and ethnicities saw themselves in her."
+    publishedDateTime: 2020-11-21T08:26:00Z
+    webUrl: "https://www.cnn.com/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112210448-15-kamala-harris-girls-reactions-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What Donald Trump Liked About Being President"
+    excerpt: "He preferred the parts of the job that combined pomp, splendor and a world amenable to his decisions. In other words, he always seemed to genuinely enjoy pardoning turkeys."
+    publishedDateTime: 2020-11-23T23:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23trump-memo1/23trump-memo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
     excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
     publishedDateTime: 2020-11-16T13:00:00Z
@@ -827,6 +875,22 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Joe Biden nominates first woman to lead intelligence and first Latino to head homeland security"
+    excerpt: "President-elect Joe Biden on Monday unveiled a slate of top foreign policy and national security picks, including the first woman to lead the US intelligence community and first Latino to helm the Department of Homeland Security."
+    publishedDateTime: 2020-11-23T16:44:00Z
+    webUrl: "https://www.cnn.com/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html?sr=twCNN112320joe-biden-foreign-policy-national-security-cabinet0145PMVODtop"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 123
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123133601-6-split-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "C454PGEImXLQxrdMgWUkDFbV42K6FXR9y+IpQ2yaOkr5SaZP1/lV5JP8G3fh3/0x2mq7zaTUHolVP2CytbeS+xLoFyeGbqGHpnTnwFwSS9kxOa7wnEr33Mt7oSVj1HL85Emu0E42Zl3Py+QFL0lps9C2c5j/PSJ8/MW0LEREUlNwvlbcpqbaF9bStgO5SsmiIP2hWc+N59RRf5QfxqpIS2mxUovTuqiO+3/WOCtGk0erh0UrKBi4ELDqfQTMgueW9SxpszdLULReFyPQUy5ysmFVDATntc/vElnZv6WZHhBeqFZB5Fln4PhHkoUPsCxYBRPHjXjBV7TD6XVr6D/hcBsRhol5PL8vYQQAQGPoD78uYw5DtnqQpL3eyreMfYRO7Z0hmEHw1YQEZ6XeP7DSPxQwPJy7UhpzFcWt/d8NTjeN52dFMspWA9D6vqvKwAYWHzAu340mpVHPqv0ehRTmcwg7DrNujEHXYjYw9+f+JmEVan4dv44uwnP1QAxPVpxcAvPdw6iS+qtckoAS6IbdvQ==;xiRzue3G4Svzux+YWLU0sw=="

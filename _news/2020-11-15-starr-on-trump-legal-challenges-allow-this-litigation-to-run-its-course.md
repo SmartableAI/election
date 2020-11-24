@@ -575,6 +575,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GSA chief informs President-elect Biden that formal transition process can begin"
+    excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
+    publishedDateTime: 2020-11-23T23:31:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EXL20C8DJd8/gsa-chief-letter-president-elect-biden-formal-transition-process-resources"
+    ampWebUrl: "https://www.foxnews.com/politics/gsa-chief-letter-president-elect-biden-formal-transition-process-resources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gsa-chief-letter-president-elect-biden-formal-transition-process-resources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9296518-0638-4026-ab46-7281db8578f7/70ab4285-1557-4909-8c07-e99220b6d3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump says he will appeal Pennsylvania judge's ruling tossing lawsuit"
     excerpt: "President Trump said Saturday that his campaign plans to appeal a Pennsylvania judge's decision to dismiss a lawsuit aimed at keeping the state from certifying its election results next week in favor of President-elect Joe Biden. "
     publishedDateTime: 2020-11-22T06:55:49Z
@@ -719,6 +735,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "GSA notifies Biden that Trump administration is ready to start transition process"
+    excerpt: ""
+    publishedDateTime: 2020-11-23T23:33:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1nyOUpBiSPM/gsa-notifies-biden-that-trump-administration-is-ready-to-start-transition-process"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
   - title: "Trump Campaign Wants States to Override Electoral Votes for Biden. Is That Possible?"
     excerpt: "A look at how state legislatures can become involved in choosing electors."
     publishedDateTime: 2020-11-21T16:09:00Z

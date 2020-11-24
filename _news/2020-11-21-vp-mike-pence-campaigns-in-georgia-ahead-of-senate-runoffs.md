@@ -1,27 +1,29 @@
 ---
 category: news
 title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
-publishedDateTime: 2020-11-20T20:33:00Z
-originalUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
-webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
+publishedDateTime: 2020-11-20T18:54:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
+ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Dayton Daily News
-  domain: daytondailynews.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/bb/8bb064a3-e028-5ba6-bd0f-74d65dd1bd56/5fb7fd5e79343.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -185,6 +187,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "BY7oynRV0+nApuvQRcOB2Xzk36aB4gxRknxroFtk0XO0VT2+D4pSoYxHk/un60HknpiuLLGbkwwhUd3U1r6iXh1vuuFDkrZOsnF24BfLhgUsRgd6kjqk5shkVRLjxazNlkeVk6LrLLnCOGQPwpQM3Ta6RT+dXeqpMp48G9QeIGf7ke9l4MWon6Oe+rWvHPvPl9uPW9/4WFnVhmdpMH5NFR6aml+Jby7Ik21j3sxJeTGqvRwOIUULX22z7kcZHakgI2TnhzWn9mixDJI59ejeZ2bsSiRPm8EOttqgY1u06qC4/xi5s7LOxn+jtqR/DMeM2zTS3glFarV9aV3yfOoDgGHfeuAnFHE2ol8ccJydlNM=;TgC+yZhIHVfzEZNm+2l5JA=="
+secured: "5PRFZaJlNi+a3RKhoq5SDQg515Lzw6VSRG0JM6mTidQqdjakAyTXtZk/3O0wfdyzqQ2s4Hzjr3URrOJJt9fk+ixL1OCIT26P2nLwxR36tbdzFDp/y/RRqeiiVsGDTsjc6uICJ0/0EnnMFNHpp+8cBdXFmIfjTz4zmWMX7CqxFCtSBj6bzNBZcQkR+IpW/+2yhT0PPskSEuqUAx3bTbmFjKh0BjsYYpOHzb+j3cSlfKyTHvz84jiLm+OGEDe7cDLqGatR7DBVf/6o17Llea0a8oqnnDeajGmeHIWIeT9VP9Mf/1pn/opzZyWnlBVV0pB2N/+EuOCaG7pABG5I4k2pZ17cVqdyueR9WblhPQaqY0Y=;8eaxv3wzn1Nbx7zxXmdw9g=="
 ---
 

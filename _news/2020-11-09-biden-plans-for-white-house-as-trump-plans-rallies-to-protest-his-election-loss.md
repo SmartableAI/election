@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15921
+heat: 15961
 published: true
 
 provider:
@@ -2815,6 +2815,38 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/44bdcb4/2147483647/strip/true/crop/3600x2351+0+221/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F10%2F6e%2F7cf459314ea1ba893cf600c2a3ba%2Fgettyimages-1175710803.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Feds agree to help Biden transition after more Trump defeats"
+    excerpt: "After weeks of delay, the federal government has acknowledged President-elect Joe Biden was the “apparent winner” of the Nov. 3 election"
+    publishedDateTime: 2020-11-24T00:41:00Z
+    webUrl: "https://www.washingtonpost.com/national/feds-agree-to-help-biden-transition-after-more-trump-defeats/2020/11/23/ce4e25d8-2ded-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/feds-agree-to-help-biden-transition-after-more-trump-defeats/2020/11/23/ce4e25d8-2ded-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/feds-agree-to-help-biden-transition-after-more-trump-defeats/2020/11/23/ce4e25d8-2ded-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump agrees to begin transition to Biden administration – live"
+    excerpt: "President tweets after General Services Administration tells president-elect process can start – follow all the latest news"
+    publishedDateTime: 2020-11-24T00:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbc1e628f0868ed26c10c5a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/7ba926954d9023422e41b8fda5ca0280bec1481b/53_324_3793_2276/master/3793.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ecf4089dd58a78e5f149d5d7e8827b19"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

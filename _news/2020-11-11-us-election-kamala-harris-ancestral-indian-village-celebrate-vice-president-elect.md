@@ -169,6 +169,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden stresses cooperation with nation's mayors"
+    excerpt: "President-elect Joe Biden says he wants to work closely with the nation’s mayors to help Americans cope during the coronavirus pandemic"
+    publishedDateTime: 2020-11-23T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5bf85a0daf40e48c4a17f4002b7386_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
     excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
     publishedDateTime: 2020-11-13T20:16:00Z

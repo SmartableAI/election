@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
+    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
+    publishedDateTime: 2020-11-24T00:01:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "Se+fv3t8/4K/KIayNkZs7Eu7O9d5OrY/v+NLdgz7zpkDuj7g/l25btsoiUYO9vqHZWUBdNAqKfWG1FtAque/RQ1aWQIoCMY1bqo8Cb3gcBODvLmssgWPxa6BYYddhjKbBl4uu2vizIBf56uRN3JBeMoQSQIVJq2rZL5jKEXhQ5d/RmKOIigKE/sdcCK1COg/PXTsCH3CXvR7Osj4qkuxBbGoB54ryMz7NV+79GJBOc1GSp0BnCzUDJ3pPKt8gK2JBlwHPfbL5+fB7UVe8Z923ETR27kF1emhqmjRfMnmLXo7uj+4oM0ZCQDhuk2rnmIe3ICMaixzh3EvUkJvyAxzvkicuHXzksgkZ3NKELnoRxgNfUakjDCub3ydX8HC2x5KJEvAGmcrKFm9/7l1soA9eBpuCqj5Fi6NmDy6HjADWfY0jxGmuUwE7bD50w1mizy2D2+BXVwZf+LvxJRL4DkmtaOBbGx3Ua0Yld8fnL0xJnRmjf7pyF/oWJZ5me09bNKV6hY9ju1z75nxf5MLWFGYOg==;Ew/6OLQI/9KvsLP/F7wxkg=="
 ---

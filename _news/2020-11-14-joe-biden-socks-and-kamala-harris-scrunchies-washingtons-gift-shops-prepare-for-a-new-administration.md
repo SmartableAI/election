@@ -171,6 +171,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Latest: Biden stresses cooperation with nation's mayors"
+    excerpt: "President-elect Joe Biden says he wants to work closely with the nation’s mayors to help Americans cope during the coronavirus pandemic"
+    publishedDateTime: 2020-11-23T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5bf85a0daf40e48c4a17f4002b7386_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Lindsey Graham Explains Why He Fist Bumped Kamala Harris Despite Refusing to Acknowledge Biden's Victory"
     excerpt: "Sen. Lindsey Graham (R-S.C.) reportedly said he was \"just saying hello\" after being spotted giving Vice President-elect Kamala Harris what appeared to be a congratulatory fist bump on the Senate floor on Tuesday."
     publishedDateTime: 2020-11-18T01:19:00Z

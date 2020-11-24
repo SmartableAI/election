@@ -2,11 +2,11 @@
 category: news
 title: "Drip by drip, U.S. Republicans slowly break from Trump election claims"
 excerpt: "More prominent Republicans on Monday joined the call for President Donald Trump to end efforts to overturn his election defeat and allow President-elect Joe Biden to begin the formal transition to a new administration."
-publishedDateTime: 2020-11-23T19:55:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-congress-idUKKBN2832O8"
-webUrl: "https://www.reuters.com/article/uk-usa-election-congress-idUKKBN2832O8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2832O8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2832O8"
+publishedDateTime: 2020-11-24T00:17:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2832O7"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2832O7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832O7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832O7"
 type: article
 quality: 140
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542200476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CT"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542193989&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CZ"
     width: 817
     height: 545
     isCached: true
@@ -478,6 +478,6 @@ related:
         height: 563
         isCached: true
 
-secured: "wFBLb0lS6ocPwjShgkDp9MHhs/BlEQGZkBdcd0vrBLvMtyW1EA+Ot9nNqdsTyOVLrAhSxTpg1xtZyt2rp6nDc519Knx8u52aQPStKrvTotrvfOSk0PoOmnd0TqgV9V5CAu8spAMGJIkhfrFEh5JfmUqTmTjg1jgQ447S73eJaLzJjayqxiPKb+bUo2obKOvc8SNcbSfxvn2islCmXYqYsrt+8Mp7Nkv5Qao/LNIghjS4egE7E2VrFWyO1dT+Q3lMW5IcsmYFobmeqXIXXvK8mafKTp2BAhFDS12Z1zGjoIiQ8N1/7KnZPTx3dIn68Zb1cQGxqqaOX80ZW4YC6GduXbYMEMmxXDm5gk+LHJcxrhE=;kxkfrs8p7SRu9WiDg+Bwcg=="
+secured: "dOTxfeaAchn8x++Gg2sm9oh9n8fjtxP9QEFy/bAZYx4te0RiU8n7taEwC31CzIyrT/SqYf9CvV0OXAjIZVvdhUDfvWugxoUUs2y8pYPy2efXSs92YSiOeUUaQ7sgiLWJ2kbdFTWcVe/KpABaFJRqVNhT5UOppmhvFGe9B6Y/wSacUtNW+66ZQbIl/niMvqS5J+FzIv3v9LOTbmPsxMR/JWqwPdq4u+W406Ajg6iHo1XznpxrknrfVa4Q3BkW5hvhv7qmQbDYzebs8dINW3iuzAznaj5eWTQl1pd71KL9IzyjlphlX5XuemM2KoCxaahmISunKS4Na5cHSA6yTOyQMFnk8v3Q3GCcXbuDYH/3nkQ=;HCWMKD1d81BtDVzL+OSQ6g=="
 ---
 

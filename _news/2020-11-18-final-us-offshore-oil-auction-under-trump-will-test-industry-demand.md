@@ -91,17 +91,17 @@ related:
         isCached: true
   - title: "Drip by drip, U.S. Republicans slowly break from Trump election claims"
     excerpt: "More prominent Republicans on Monday joined the call for President Donald Trump to end efforts to overturn his election defeat and allow President-elect Joe Biden to begin the formal transition to a new administration."
-    publishedDateTime: 2020-11-23T19:55:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-congress-idUKKBN2832O8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2832O8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2832O8"
+    publishedDateTime: 2020-11-24T00:17:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2832O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832O7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 140
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542200476&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CT"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542193989&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CZ"
         width: 817
         height: 545
         isCached: true

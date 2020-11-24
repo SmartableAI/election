@@ -335,6 +335,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump gives GSA official go-ahead to start transition to Biden administration"
+    excerpt: "President Donald Trump on Monday said he had given Emily Murphy, the head of the General Services Administration, the go-ahead to proceed with a transition for President-elect Joe Biden's administration despite plans to continue with legal challenges."
+    publishedDateTime: 2020-11-23T23:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-gsa/trump-gives-gsa-official-go-ahead-to-start-transition-to-biden-administration-idUSKBN28335G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28335G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28335G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542218328&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1MC"
+        width: 808
+        height: 545
+        isCached: true
   - title: "Trump faces Wisconsin recount deadline as Biden keeps focus on COVID-19 response"
     excerpt: "U.S. President Donald Trump's bid to overturn his election defeat faces a deadline in Wisconsin on Wednesday, where his campaign has to decide whether to pay $7.9 million for a recount in a state President-elect Joe Biden won."
     publishedDateTime: 2020-11-18T15:29:00Z
@@ -574,6 +590,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541572573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAG0A0"
         width: 781
         height: 545
+        isCached: true
+  - title: "Business leaders, including many who backed Trump, say it’s time to make way for Biden"
+    excerpt: "Withholding resources and vital information from an incoming administration puts the public and economic health and security of America at risk,\" the letter says."
+    publishedDateTime: 2020-11-24T00:45:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/11/23/trump-biden-transition-business-leaders-letter/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/23/trump-biden-transition-business-leaders-letter/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/23/trump-biden-transition-business-leaders-letter/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XQ7UBYBNVII6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
     excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."

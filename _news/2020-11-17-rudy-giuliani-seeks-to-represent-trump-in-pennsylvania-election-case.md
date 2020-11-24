@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
 type: article
 quality: 190
-heat: 630
+heat: 650
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005154527-01-trump-walter-reed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pennsylvania Supreme Court rejects Trump campaign's effort to block counting certain absentee ballots"
+    excerpt: "Pennsylvania's Supreme Court on Monday rejected the Trump campaign's effort to block the counting of absentee ballots with missing dates or names, clearing the way for 10,000 votes to be counted in Philadelphia and Allegheny counties, in another defeat for President Donald Trump's desperate legal battle.\n"
+    publishedDateTime: 2020-11-23T23:50:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nv2D31TkH84/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/pennsylvania-supreme-court-trump-campaign-absentee-ballots/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/pennsylvania-supreme-court-trump-campaign-absentee-ballots/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

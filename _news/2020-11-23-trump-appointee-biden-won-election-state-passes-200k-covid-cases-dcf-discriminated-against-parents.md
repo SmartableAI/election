@@ -430,6 +430,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: GSA tells Biden transition can formally begin"
+    excerpt: "The GSA has informed President-elect Joe Biden that the Trump administration is ready to begin the formal transition process, according to a letter from Administrator Emily Murphy sent Monday afternoon and obtained by CNN.\n    \n"
+    publishedDateTime: 2020-11-24T00:44:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u-11oCv-NZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/transition-biden-gsa-begin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/transition-biden-gsa-begin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z
@@ -766,6 +782,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "These girls see themselves in Kamala Harris"
+    excerpt: "When US Sen. Kamala Harris of California was elected as the first vice president of the United States who is female, Black and South Asian, girls of different races and ethnicities saw themselves in her."
+    publishedDateTime: 2020-11-21T08:26:00Z
+    webUrl: "https://www.cnn.com/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/21/health/girls-see-themselves-kamala-harris-wellness/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112210448-15-kamala-harris-girls-reactions-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to choose a woman to lead Treasury"
     excerpt: "President-elect Biden is expected to select a woman to lead the Treasury for the first time. The two leading contenders are former Federal Reserve Chair Janet Yellen and Federal Reserve Governor Lael Brainard."
     publishedDateTime: 2020-11-23T19:38:00Z
@@ -781,6 +813,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "What Donald Trump Liked About Being President"
+    excerpt: "He preferred the parts of the job that combined pomp, splendor and a world amenable to his decisions. In other words, he always seemed to genuinely enjoy pardoning turkeys."
+    publishedDateTime: 2020-11-23T23:12:00Z
+    webUrl: "https://www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/us/politics/trump-turkey-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23trump-memo1/23trump-memo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
     excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
@@ -827,6 +875,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18transition-briefing-biden-virus/18transition-briefing-biden-virus-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden nominates first woman to lead intelligence and first Latino to head homeland security"
+    excerpt: "President-elect Joe Biden on Monday unveiled a slate of top foreign policy and national security picks, including the first woman to lead the US intelligence community and first Latino to helm the Department of Homeland Security."
+    publishedDateTime: 2020-11-23T16:44:00Z
+    webUrl: "https://www.cnn.com/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html?sr=twCNN112320joe-biden-foreign-policy-national-security-cabinet0145PMVODtop"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/joe-biden-foreign-policy-national-security-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 123
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123133601-6-split-biden-admin-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "UY4T6300PnyTOgmTqhZwA22RSH5qJM4nP3QCvmaJMDkMn8JKL8bji0jjojzCynt/75ggxUF/uYBoJLyecKOhbFVlc/lBN+JO4Wm0S7wFe/W1NTqzHIQoVjoxyziaUOwfl3eubn40l/dzCKIGeKR1nkIbUY3rWgmlxSa2E7q9rLykyDNQoetRS5H9OhiC/wL00GWJ/YbUweFsFRv76BgO8ZLg1GF8skymibYxYvzrtTxgfscQ6sipEzszxmU/H+Fthu4c0v/NN9rRC6konAOCkpNJRcy4KeYBuG69+4ntPMpPqeHDxFg++mjy7fGz5cUTZW9gIQ9Hd1+j3K7UPUiRHPhzDyxcYJe6rGwIAcwGKrw=;z37xgOvIWYg30/7DnkMv0Q=="

@@ -248,6 +248,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 99
+  - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
+    excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
+    publishedDateTime: 2020-11-23T23:15:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/avril-haines-to-head-intelligence-community/2020/11/23/e9dce3f4-2daf-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BVSY3BNWQI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 978
+        isCached: true
   - title: "One of Biden's top coronavirus advisors calls for focused restrictions based on disease spread instead of a nationwide lockdown"
     excerpt: "\"So we've got to follow science, but we've got to also be more precise than we were in the spring,\" Dr. Vivek Murthy said on Friday."
     publishedDateTime: 2020-11-13T18:23:00Z
