@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-19-pence-to-campaign-friday-in-georgia-runoffs-but-no-word-on-a-trump-trip.md",
+      "title": "Pence to campaign Friday in Georgia runoffs, but no word on a Trump trip",
+      "excerpt": "Vice President Mike Pence heads to Georgia on Friday, to campaign with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections. But there's no word on whether President Trump will head to Georgia.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbCjbBeWboc/pence-campaign-friday-georgia-runoffs-trump-trip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 479,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp",
+      "publishedDateTime": "2020-11-19T14:24:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-trump-faces-economic-redline.md",
       "title": "Trump faces economic redline",
       "excerpt": "When it comes to who’s-telling-whom, economic interests usually dictate political actions.",
@@ -87,6 +144,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
       "publishedDateTime": "2020-11-19T08:20:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-19-spike.md",
+      "title": "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike",
+      "excerpt": "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
+      "publishedDateTime": "2020-11-19T08:17:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -238,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 447,
+      "heat": 367,
       "tags": null,
       "images": [
         {
@@ -294,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -451,62 +564,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-biden-warns-of-another-200k-dead-from-covid-by-inauguration.md",
-      "title": "Biden warns of another 200K dead from COVID by inauguration",
-      "excerpt": "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "publishedDateTime": "2020-11-18T14:33:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-ny-dem-gov-cuomos-office-blames-religious-gatherings-as-super-spreaders-not-biden-celebrations.md",
       "title": "NY Dem Gov Cuomo's office blames religious gatherings as 'super-spreaders,' not Biden celebrations",
       "excerpt": "Cuomo's office responded to the Roman Catholic Diocese of Brooklyn's petition for emergency relief.",
@@ -536,62 +593,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-gov-cuomo-religious-gatherings-preferential-treatment-scotus-filing.amp",
       "publishedDateTime": "2020-11-18T13:31:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
-      "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
-      "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "publishedDateTime": "2020-11-18T09:27:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -788,6 +789,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-jones-yates-becerra-among-names-floated-for-biden-attorney-general.md",
+      "title": "Jones, Yates, Becerra among names floated for Biden attorney general",
+      "excerpt": "President-elect Joe Biden is considering several individuals to serve as the attorney general in his administration, including former Alabama Sen. Doug Jones, former Deputy Attorney General Sally Yates and California Attorney General Xavier Becerra, Fox News is told.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
+      "publishedDateTime": "2020-11-18T05:53:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-trump-fires-cisa-director-chris-krebs-claims-statement-on-election-security-was-highly-inaccurate.md",
       "title": "Trump fires CISA Director Chris Krebs, claims statement on election security was 'highly inaccurate'",
       "excerpt": "Krebs-led CISA said the Nov. 3 election was the 'most secure in American history'",
@@ -888,174 +945,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-cedric-richmond-tapped-for-biden-white-house-role-has-history-of-controversies.md",
-      "title": "Cedric Richmond, tapped for Biden White House role, has history of controversies",
-      "excerpt": "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "publishedDateTime": "2020-11-17T11:59:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.md",
-      "title": "Biden says there should be 'immediate' congressional action on student loan forgiveness",
-      "excerpt": "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "publishedDateTime": "2020-11-17T11:51:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
-      "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
-      "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea062ee3-cd24-4b77-84bb-3780a23ee251/f63ef748-e85c-435c-b7ab-17c1c79c160d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "publishedDateTime": "2020-11-17T08:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1242,7 +1131,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1315,6 +1204,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-klan-rallies.amp",
       "publishedDateTime": "2020-11-16T12:21:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-trump-swipes-at-dewine-after-gop-governors-comments-on-biden-transition.md",
+      "title": "Trump swipes at DeWine after GOP governor's comments on Biden transition",
+      "excerpt": "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
+      "publishedDateTime": "2020-11-16T09:26:39-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1579,7 +1524,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1635,7 +1580,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1652,6 +1597,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-maga-rally-dc-saturday.amp",
       "publishedDateTime": "2020-11-13T16:16:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-will-biden-consider-adding-republicans-to-his-administration.md",
+      "title": "Will Biden consider adding Republicans to his administration?",
+      "excerpt": "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp",
+      "publishedDateTime": "2020-11-13T15:37:32-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -31,85 +31,211 @@ images:
     isCached: true
 
 related:
-  - title: "Biden warns of another 200K dead from COVID by inauguration"
-    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
-    publishedDateTime: 2020-11-18T22:33:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+  - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
+    excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
+    publishedDateTime: 2020-11-16T17:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cindy McCain joins Joe Biden transition team advisory board"
+    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
+    publishedDateTime: 2020-11-10T16:02:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike"
-    excerpt: "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter."
-    publishedDateTime: 2020-11-19T16:17:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden taps reparations advocate for Treasury transition"
+    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
+    publishedDateTime: 2020-11-16T15:32:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
+    excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
+    publishedDateTime: 2020-11-17T01:36:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZwxSKo3RErg/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30641ef-6df3-4cc6-97fb-f47ba35daa0d/da6ba733-6fcc-4921-951f-1ca4f2d004ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden transition team leans on left-wing groups for staff: report"
+    excerpt: "Around 20 individuals work for progressive-leaning philanthropic groups."
+    publishedDateTime: 2020-11-20T03:08:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9hVyK7HLcRo/biden-transition-team-left-wing-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
+    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
+    publishedDateTime: 2020-11-20T02:21:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schumer blasts GOP senators for throwing 'temper tantrum' over election results: 'President Trump lost'"
+    excerpt: "Senate Minority Leader Chuck Schumer took aim at his Republican colleagues on Thursday, accusing them of \"spreading conspiracy theories\" about last week's election. "
+    publishedDateTime: 2020-11-12T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89660b60-94c1-4072-846d-d1edfee4bbda/150629d2-6bc7-4585-86b7-fb991ca425a1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
+    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
+    publishedDateTime: 2020-11-14T20:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
-    excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
-    publishedDateTime: 2020-11-13T17:35:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0dd7uOHLI8/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
+  - title: "Trump calls Romney a 'RINO' after GOP senator targets president's 'undemocratic action'"
+    excerpt: "President Trump took aim Friday at one of his most vocal Republican critics – Sen. Mitt Romney – calling the him a “RINO.”"
+    publishedDateTime: 2020-11-20T16:30:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other"
-    excerpt: "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do."
-    publishedDateTime: 2020-11-23T12:57:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates"
-    ampWebUrl: "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's new chief of staff praised de Blasio for holding large dinner to put COVID fears to rest"
-    excerpt: "President-elect Joe Biden's pick for chief of staff Ron Klain previously decried a \"fear epidemic\" at the beginning of the COVID-19 outbreak, and praised New York City Mayor Bill de Blasio for participating in a large dinner in Queens."
-    publishedDateTime: 2020-11-13T00:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R5VwOql-8g/klain-covid-tweet-fear-epidemic-nyc"
-    ampWebUrl: "https://www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54c7ce-bf86-4534-ad75-337c9f985a82/8d32a57a-c1f1-4927-be8a-33f4a292438b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-257077/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
+    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
+    publishedDateTime: 2020-11-12T16:22:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-258844?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "GfShaaD/XCqbo+ZjUUADifpMx82QZGjkeo+1NzxXAN/csnM3sjPp8nitHGAiWXApvomcQ7QFN1Nl6fskvsUuScxrQj2wD+ybD7X0iW5eRgfwNTzhMMJVzejhUfvL5EvN2pwGG1TmQMK6cjbQRYj9Ol/LDXcFWuacPq8NYqgCEFY2EtIt2EGWdNHtp0V1aF+LgqzXTk/GeRbgytedVh15sWCKUE+PaVsMdDee/Qx41X2hV6IuY2727XSNJc1W0VzreK9fseR3FpXRS/EFyY1Ju0oJ1iT7EPGi2yqMiCydiz6xNJAf6XGGkuP794h/+1fuYGC7WiSGZhU8agOYQL+JgWXfDQnUMif5fWXEXRZ/JGg=;N9rnxi2cQmMPolVFesIgBA=="

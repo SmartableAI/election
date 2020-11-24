@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
-    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
-    publishedDateTime: 2020-11-14T20:55:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "FLASHBACK: All the times Cuomo expressed skepticism of Trump coronavirus vaccine"
     excerpt: "New York Gov. Andrew Cuomo has repeatedly questioned President Trump’s political motives regarding a coronavirus vaccine and its credibility under his leadership."
     publishedDateTime: 2020-11-15T20:20:21Z

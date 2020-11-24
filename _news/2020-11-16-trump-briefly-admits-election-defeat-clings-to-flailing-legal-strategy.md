@@ -2863,6 +2863,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden’s nominees have pushed policies that Trump used to fuel his rise"
+    excerpt: "As establishment figures take control again, they face a populace altered since Democrats last held the White House."
+    publishedDateTime: 2020-11-24T16:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-trump-policies/2020/11/23/73f07ae0-2da3-11eb-860d-f7999599cbc2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-trump-policies/2020/11/23/73f07ae0-2da3-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-trump-policies/2020/11/23/73f07ae0-2da3-11eb-860d-f7999599cbc2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEIGIPRNZII6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -3357,6 +3373,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542037831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL018"
         width: 875
+        height: 545
+        isCached: true
+  - title: "Biden forges ahead with building team after Trump clears way for transition"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
+    publishedDateTime: 2020-11-24T16:22:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN2841BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542281529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN0PX"
+        width: 853
         height: 545
         isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"

@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden warns of another 200K dead from COVID by inauguration"
-    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
-    publishedDateTime: 2020-11-18T22:33:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike"
-    excerpt: "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter."
-    publishedDateTime: 2020-11-19T16:17:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
+  - title: "Biden deputy chief of staff touted 'mandatory buybacks' of assault weapons"
+    excerpt: "President-elect Joe Biden’s incoming deputy chief of staff once touted a gun control proposal that called for “mandatory” buybacks of certain rifles, as seen in a resurfaced campaign video."
+    publishedDateTime: 2020-11-19T00:56:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrF150Q6l4k/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deputy-chief-staff-mandatory-buyback-assault-weapons-gun-control.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Jen-OMalley-Dillon-is-the-Biden-Campaign-Manager-1.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -74,38 +58,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
-    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
-    publishedDateTime: 2020-11-17T17:44:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
-    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other"
-    excerpt: "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do."
-    publishedDateTime: 2020-11-23T12:57:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates"
-    ampWebUrl: "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

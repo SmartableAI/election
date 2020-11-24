@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
+      "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
+      "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-12T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-kyle-rittenhouses-mother-slams-biden-over-white-supremacist-ad-hes-not-a-racist-he-is-my-son.md",
       "title": "Kyle Rittenhouse's mother slams Biden over 'White supremacist' ad: 'He's not a racist, he is my son'",
       "excerpt": "Joe Biden's presidential campaign \"used my son's image to get votes,\" the mother of a man who shot and killed two demonstrators in Kenosha, Wis. over the summer told \"Tucker Carlson Tonight\" Thursday. ",
@@ -234,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -359,62 +411,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp",
       "publishedDateTime": "2020-11-12T10:07:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-schumer-blasts-gop-senators-for-throwing-temper-tantrum-over-election-results-president-trump-lost.md",
-      "title": "Schumer blasts GOP senators for throwing 'temper tantrum' over election results: 'President Trump lost'",
-      "excerpt": "Senate Minority Leader Chuck Schumer took aim at his Republican colleagues on Thursday, accusing them of \"spreading conspiracy theories\" about last week's election. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89660b60-94c1-4072-846d-d1edfee4bbda/150629d2-6bc7-4585-86b7-fb991ca425a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp",
-      "publishedDateTime": "2020-11-12T09:03:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -726,7 +722,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -874,63 +870,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-flashback-bidens-chief-of-staff-pick-admits-obama-admin-did-everything-wrong-with-h1n1.md",
-      "title": "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1",
-      "excerpt": "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
-      "originalUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/155cc3c3-e6cd-4d92-8fd5-59afb1417b81/cb3148a7-2aea-4e6f-ac4f-518d7f99bcfb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
-      "publishedDateTime": "2020-11-11T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-with-backing-from-trump-rnc-chair-mcdaniel-expected-to-run-for-another-term.md",
       "title": "With backing from Trump, RNC chair McDaniel expected to run for another term",
       "excerpt": "With the backing of President Trump, Ronna McDaniel’s expected to run for a second 4-year term as chair of the Republican National Committee (RNC).",
@@ -1040,6 +979,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster-masquerading-as-diplomatic-triumph.md",
+      "title": "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'",
+      "excerpt": "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d6cb2c1-b59f-480d-8f8a-e6494726da30/1f1727ec-3082-495f-b325-dc172502d366/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp",
+      "publishedDateTime": "2020-11-11T16:46:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1219,7 +1214,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {

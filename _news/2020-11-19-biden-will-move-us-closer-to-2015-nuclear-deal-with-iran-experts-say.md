@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer"
+    excerpt: "Follow for the latest developments in the 2020 election."
+    publishedDateTime: 2020-11-20T12:31:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f052cb7c-eb11-4b09-a6d3-03469e7b0739/92fc3b81-6048-4b27-adfe-2dbea62e35ec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden appoints two former lobbyists to senior staff"
+    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
+    publishedDateTime: 2020-11-18T00:19:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BzjWSVcWpCk/biden-two-former-lobbyists-senior-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
     excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task."
     publishedDateTime: 2020-11-18T17:27:22Z
@@ -48,111 +80,118 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden expected to pick Antony Blinken as top diplomat"
-    excerpt: ""
-    publishedDateTime: 2020-11-23T06:12:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZTz72Id-jw8/biden-expected-to-pick-antony-blinken-as-top-diplomat"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-expected-to-pick-antony-blinken-as-top-diplomat.amp"
+  - title: "Biden tells Pelosi and Schumer ‘mi casa, you casa’"
+    excerpt: "President-elect Joe Biden is urging Congress to quickly pass a COVID relief amid a new surge in the coronavirus pandemic, according to a top Biden transition official."
+    publishedDateTime: 2020-11-21T00:13:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yYitcmc6D5Q/biden-tells-pelosi-and-schumer-mi-casa-you-casa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden says public health experts recommend 10 people max at Thanksgiving gatherings"
-    excerpt: "President-elect Joe Biden says that public health experts tell him they recommend limiting Thanksgiving family gatherings to 10 people or less as the coronavirus pandemic surges again across the country."
-    publishedDateTime: 2020-11-16T22:48:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VxI2TUzzrQ/biden-public-health-experts-10-people-max-thanksgiving-gatherings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-public-health-experts-10-people-max-thanksgiving-gatherings.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration"
-    excerpt: "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world.”"
-    publishedDateTime: 2020-11-22T22:12:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pZA84hVOLQ8/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
+  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
+    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
+    publishedDateTime: 2020-11-16T19:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20326568855426-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "McMaster warns Biden on Iran deal: Don't resurrect 'political disaster masquerading as diplomatic triumph'"
-    excerpt: "President-elect Joe Biden should not rejoin the 2015 Iran nuclear deal once he takes office, former National Security Adviser Gen. H.R. McMaster told \"Special Report\" Wednesday."
-    publishedDateTime: 2020-11-12T00:46:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5MCNxCBXGk/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster"
-    ampWebUrl: "https://www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-biden-on-iran-deal-dont-resurrect-political-disaster.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d6cb2c1-b59f-480d-8f8a-e6494726da30/1f1727ec-3082-495f-b325-dc172502d366/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
-    excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
-    publishedDateTime: 2020-11-23T15:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
+  - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
+    excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
+    publishedDateTime: 2020-11-20T08:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNfuWTGcMRs/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 125
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Blinken_Tony.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b07fbf9-f747-4615-8169-50562db72cdb/218acde3-1d04-49ce-9bb6-fa40ebdb3bba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration"
-    excerpt: "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world."
-    publishedDateTime: 2020-11-22T22:21:00Z
-    webUrl: "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp"
+  - title: "LIVE UPDATES: Wisconsin recounts begin in 2 Democratic counties at Trump request"
+    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
+    publishedDateTime: 2020-11-21T07:44:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2VVxPRK67w/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 119
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20326568855426-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbccafed-16c9-4435-93de-562383fc0ea6/994a4418-3a2f-450b-b128-b2ae669c184d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
-    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
-    publishedDateTime: 2020-11-12T20:28:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
+  - title: "Live Updates: Biden to likely visit Georgia, help Democrats in January Senate runoff"
+    excerpt: "President-elect Joe Biden will likely visit Georgia to boost campaign efforts for the two Democratic candidates in the January Senate runoff, according to his top aide."
+    publishedDateTime: 2020-11-23T04:13:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AEop6vFTOSw/live-updates-georgia-11-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dc6269f-e25b-4630-a5db-4d561bb72fe3/a14a44a4-3844-403a-95b3-9a09b13de519/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham warns Biden, Pelosi and Schumer would form 'trifecta from hell' if Democrats take Senate"
+    excerpt: "\"A lot's at stake\" in Georgia's dual Senate runoff elections on Jan. 5, Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told “Hannity” Monday night."
+    publishedDateTime: 2020-11-24T04:56:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OI-nOlU5p0M/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2069c0c-74dd-472f-8781-6653e4b602e0/b7bd73a7-fd86-42e4-8c9e-e7f2862265a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden appoints two former lobbyists to senior staff"
+    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
+    publishedDateTime: 2020-11-20T05:36:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "oC8gSXR0/QCIYDl72oFZoFWgqQuxBoTVe4Xj6BXipBDQWzhGbPziCAvX1luEaJ+V3gsSew9RzFPfhal5Ht1bBfZaIkfce4YakRVxlFAvr2GSuZpsyPgEn3j2x+kaVgq3g5tLRgOO6FcchoLb6X2vuZUo9v79vqoQ6uBI/THQG4+IjQMb4Nsg6/YYWctFyz3WQ1/gCEAG9ClSe6Y4vtkHlilyB9oXqHkaNwZqiJAMsAqb0yfP0Y6662N/Kqr9dAbi0aGqO23U3Y6PqAfA60QMO1YlRmV2QxDhWrm1wDML1TRzkRGIq+I2PL8u70DmrOzp0Jzg1/rAmcAuyVl0eLFq0OSmW0NcLefk4lNIojlf89XZTwaRUaWmVjUmgLJaTVcPpz3+5w2snGkCMODoPNXdBmh6RmVwu+Zjltd9X5WN8WNCR+ROLDRW5Ti86EFKSpr0sbBsDsR68cWEvuJMU86Q3ka05TaeVPLGYbSt0/yvQLo78OxyqlDAd8eSoI3DDodpZqiFxBsB77iPGZhujAhqvg==;9PROyyGpPkC1FrXK2h2vvQ=="
 ---

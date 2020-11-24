@@ -31,213 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "New 'squad' member suggests Biden needs to pay minority communities back after election support"
-    excerpt: "Congressman-elect Jamaal Bowman, D-N.Y., indicated on Thursday that President-elect Joe Biden owed Black and Brown people after they helped elect him."
-    publishedDateTime: 2020-11-20T02:22:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FF6nLI8xEpE/bowman-biden-payback-black-communities"
-    ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
+  - title: "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer"
+    excerpt: "Follow for the latest developments in the 2020 election."
+    publishedDateTime: 2020-11-20T12:31:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 178
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9649eda-3c54-4b54-843e-66c817d257a1/8c70831b-bb19-4800-91d5-ed29bb44f6b2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f052cb7c-eb11-4b09-a6d3-03469e7b0739/92fc3b81-6048-4b27-adfe-2dbea62e35ec/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Susan Rice ‘very open’ to joining Biden administration"
-    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-18T19:31:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOkI3nkofM/susan-rice-very-open-to-joining-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
+    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task."
+    publishedDateTime: 2020-11-18T17:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tells Pelosi and Schumer ‘mi casa, you casa’"
+    excerpt: "President-elect Joe Biden is urging Congress to quickly pass a COVID relief amid a new surge in the coronavirus pandemic, according to a top Biden transition official."
+    publishedDateTime: 2020-11-21T00:13:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yYitcmc6D5Q/biden-tells-pelosi-and-schumer-mi-casa-you-casa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Catholics divided as bishops examine Biden's abortion stance"
-    excerpt: "Catholics split almost evenly in supporting Donald Trump or Joe Biden in the presidential election. Now they're sharply divided over a declaration by the head of the U.S. Conference of Catholic Bishops that the president-elect's support for abortion rights presents the church with a \"difficult and complex"
-    publishedDateTime: 2020-11-19T00:38:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQT3sYyvLco/catholics-divided-as-bishops-examine-bidens-abortion-stance"
-    ampWebUrl: "https://www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
+  - title: "Biden denounces 'all acts of violence' after attacks on Trump supporters at MAGA rally; Schumer, Pelosi silent"
+    excerpt: "President-elect Joe Biden denounced \"all acts of violence\" in a statement to Fox News after attacks on President Trump's supporters at the so-called Million MAGA March in Washington, D.C., on Saturday."
+    publishedDateTime: 2020-11-16T19:35:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eX0nWuGv1l4/biden-statement-million-maga-march-violence-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-million-maga-march-violence-trump-supporters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322818833918.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
-    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
-    publishedDateTime: 2020-11-20T02:21:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b3457b-ba94-47f4-b97b-3294258f431f/65d47e56-5f9a-4825-b359-8a709e8d2ba7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden declines to say where he stands on BLM-backed BREATHE Act"
-    excerpt: "President-elect Joe Biden has been silent on his stance on the Black Lives Matter-backed BREATHE Act, despite pushes from the progressive wing of his party to pass sweeping legislation aimed at social justice reform in the first 100 days of his administration."
-    publishedDateTime: 2020-11-22T20:28:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HsPJKCceLts/where-does-biden-stand-on-blm-backed-breathe-act"
-    ampWebUrl: "https://www.foxnews.com/politics/where-does-biden-stand-on-blm-backed-breathe-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-does-biden-stand-on-blm-backed-breathe-act.amp"
+  - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
+    excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
+    publishedDateTime: 2020-11-20T08:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNfuWTGcMRs/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e23b00ac-fc65-4731-b500-ea160ffe4958/55fccbe4-c3f2-4d43-80fd-4ee86b22009d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b07fbf9-f747-4615-8169-50562db72cdb/218acde3-1d04-49ce-9bb6-fa40ebdb3bba/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's new WH national security adviser downplayed Antifa threat"
-    excerpt: "Jake Sullivan, the Democratic aide tapped by President-elect Joe Biden to be the next White House national security advisor, previously downplayed Antifa, calling them “a loose collection of people on the internet.”"
-    publishedDateTime: 2020-11-24T02:58:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/atMePuuAx9A/biden-jake-sullivan-antifa"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-jake-sullivan-antifa.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jake-sullivan-antifa.amp"
+  - title: "LIVE UPDATES: Wisconsin recounts begin in 2 Democratic counties at Trump request"
+    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
+    publishedDateTime: 2020-11-21T07:44:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2VVxPRK67w/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbccafed-16c9-4435-93de-562383fc0ea6/994a4418-3a2f-450b-b128-b2ae669c184d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden forms team to oversee confirmation process for key administration posts"
-    excerpt: "President-elect Joe Biden has appointed former Obama White House communications director Jen Psaki to lead a team to oversee the confirmation process for key administration appointments."
-    publishedDateTime: 2020-11-18T14:12:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tj9jlrCOh0w/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-forms-team-to-oversee-confirmation-process-for-key-administration-posts.amp"
+  - title: "Live Updates: Biden to likely visit Georgia, help Democrats in January Senate runoff"
+    excerpt: "President-elect Joe Biden will likely visit Georgia to boost campaign efforts for the two Democratic candidates in the January Senate runoff, according to his top aide."
+    publishedDateTime: 2020-11-23T04:13:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AEop6vFTOSw/live-updates-georgia-11-23-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal"
-    excerpt: "The progressive lawmakers belonging to the “Squad” took to the steps of the DNC Thursday to demand President-elect Joe Biden in his administration implement the Green New Deal, transforming the U.S. economy to combat climate change and creating thousands of jobs in renewable energy."
-    publishedDateTime: 2020-11-19T22:39:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xKbGF-xlqFM/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-and-squad-rally-outside-dnc-to-pressure-biden-into-embracing-green-new-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Squad' members says Rahm Emanuel 'should not be considered' for any role in Biden administration"
-    excerpt: "Members of the progressive \"squad\" are insisting that former Chicago Mayor Rahm Emanuel not join the next administration in any capacity, including for a less visible role than what President-Elect Biden's team was originally considering."
-    publishedDateTime: 2020-11-24T01:45:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2D2jlsRAMBQ/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/552c9879-fee7-430d-9d8e-506921cc1983/beed0d10-e19d-4a4a-b671-290590b7c655/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dc6269f-e25b-4630-a5db-4d561bb72fe3/a14a44a4-3844-403a-95b3-9a09b13de519/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
-    excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."
-    publishedDateTime: 2020-11-12T23:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qBcYEELdMMg/biden-education-secretary-frontrunners-teachers-unions-charter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-education-secretary-frontrunners-teachers-unions-charter.amp"
+  - title: "Graham warns Biden, Pelosi and Schumer would form 'trifecta from hell' if Democrats take Senate"
+    excerpt: "\"A lot's at stake\" in Georgia's dual Senate runoff elections on Jan. 5, Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told “Hannity” Monday night."
+    publishedDateTime: 2020-11-24T04:56:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OI-nOlU5p0M/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-biden-schumer-pelosi-trifecta-from-hell.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/455f5aec-6a2a-4f12-866f-3eb56fc4def3/5c9bce4e-4a86-4635-bce4-1a37402b58ef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2069c0c-74dd-472f-8781-6653e4b602e0/b7bd73a7-fd86-42e4-8c9e-e7f2862265a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Squad' members continue resisting calls for moderation, blast Biden's consideration of ex-Obama official"
-    excerpt: "The \"Squad\" of progressive Democrats continued to flout the party's establishment on Friday when members indicated it should take a more aggressive approach on racial issues."
-    publishedDateTime: 2020-11-21T03:28:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mNi_29dWHiQ/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-continue-resisting-calls-for-moderation-blast-bidens-consideration-of-ex-obama-official.amp"
+  - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
+    excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task. The Biden team tells Fox News that Biden’s stance on Iran is “spelled out ..."
+    publishedDateTime: 2020-11-19T02:07:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fabf8dc-77ba-4344-883e-ae764338390c/61e81799-b0b2-48a3-a0e5-134e96aa3c3a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rahm Emanuel, who opponents say conspired to cover up murder of Black teen, could be Biden's Cabinet pick"
-    excerpt: "Rahm Emanuel may be on the shortlist for President-elect Joe Biden's Cabinet, but the same issues that derailed his reelection for mayor of Chicago -- namely his record on social justice -- are likely to resurface again as Biden makes his final picks. "
-    publishedDateTime: 2020-11-22T14:51:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eN1oB6WQJ6w/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rahm-emanuel-who-opponents-say-conspired-to-cover-up-murder-of-black-teen-could-be-bidens-cabinet-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Names Senior White House Staff"
-    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
-    publishedDateTime: 2020-11-17T16:09:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-261059/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
   - title: "Biden appoints two former lobbyists to senior staff"
     excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
@@ -254,22 +190,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Susan Rice ‘very open’ to joining Biden administration"
-    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-20T06:17:00Z
-    webUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75188fc4-a0ce-4dae-b7d4-a0d3cbebbc4f/443b5139-fead-4592-b1a9-0784af256204/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "nvDN0u2WrhIgPKngYxyBP2zFnl8xm9uC/4cHXPfBnpaBmcc1mNa6zvL2Zfh/hNBBXDrqW882TiE84wKyxOoql8xpSZjc6dlhJuPVRkiPfQtvmtzeUA4k0fwcyoxlodeeBoaFKfkqGpT17eYS9lae7sekGpOriWscRTxQAQCKkcHaiF+EZApMwqKyUlp1WrQE7WXL7pBC7TZsra8LebKfwl+YLOXjkB/d02lcS/4c/mMIdhGcrHnTGvqXt2M/KlWLdVua/fZKcIuiTBffuoN7Xtt8gZf9ANv4d5QTWYY6zi8+5df/u91e6dnGDgkGfuJhq/amwJRL4Y2MD0cUPgtoow2Z9ZFqSdyxaQFrR7Hj/40=;EKVGMLwUdIAp5T6KXVxrdA=="

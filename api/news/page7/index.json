@@ -482,7 +482,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -694,7 +694,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -791,6 +791,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-will-biden-consider-adding-republicans-to-his-administration.md",
+      "title": "Will Biden consider adding Republicans to his administration?",
+      "excerpt": "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp",
+      "publishedDateTime": "2020-11-13T15:37:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1271,58 +1327,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
-      "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
-      "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-12T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump Remade the GOP. Now What?"
-    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
-    publishedDateTime: 2020-11-10T02:16:00Z
-    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-257077/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
     excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
     publishedDateTime: 2020-11-12T13:05:00Z

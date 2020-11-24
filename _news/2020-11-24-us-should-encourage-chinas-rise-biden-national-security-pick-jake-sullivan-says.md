@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DHS pick Mayorkas intervened to help Democrat-connected foreign investors: IG"
+    excerpt: "President-elect Joe Biden's pick for Homeland Security secretary, Alejandro Mayorkas, faced criticism during the Obama administration after a scathing inspector general report found that he intervened to help foreign investors in the EB-5 visa program who were connected to top Democrats."
+    publishedDateTime: 2020-11-24T16:13:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/789WRB_4Lf4/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-pick-mayorkas-intervened-democratic-connected-eb5-investors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
     excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"
     publishedDateTime: 2020-11-24T03:29:44Z
@@ -94,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden secretary of state pick Blinken opposed terrorist label for Iran's Revolutionary Guard"
+    excerpt: "Antony Blinken, President-elect Joe Biden’s pick for secretary of state, opposed designating the Islamic Revolutionary Guard Corp (IRGC) a foreign terrorist organization out of fears it would lead to blowback -- a potential sign of the softer stance a Biden administration is expected to take toward Iran."
+    publishedDateTime: 2020-11-24T15:18:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I0HcE1J9gLM/biden-blinken-opposed-terrorist-label-iran-revolutionary-guard"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-opposed-terrorist-label-iran-revolutionary-guard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-opposed-terrorist-label-iran-revolutionary-guard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/e5ef5659-AP20328073654227.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "After joining Burisma, Hunter Biden requested meetings with Antony Blinken: State Dept. emails"
     excerpt: "New Secretary of State pick Antony Blinken has a long-standing relationship with President-elect Joe Biden going back to their days in the Obama administration, but State Department emails revealed that during that time Blinken appeared to have made a connection with Hunter Biden as well."
@@ -111,21 +143,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
-    excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
-    publishedDateTime: 2020-11-19T15:25:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q8vJlGMOEKc/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-makes-case-to-join-biden-admin-says-secretary-of-labor-would-be-a-very-attractive-position.amp"
+  - title: "Biden's expected secretary of state pick Blinken criticized over Iraq War, consulting work"
+    excerpt: "President-elect Joe Biden's expected pick for secretary of state received criticism for his recent consulting work and early support for the Iraq War as outlets reported Antony Blinken would soon be announced for the post."
+    publishedDateTime: 2020-11-23T15:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-secretary-of-state-blinken-iraq-war-criticism.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 125
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Blinken_Tony.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Fnqau1ISbTrI6FCs+WiWfGFQUt+oHNloRFIZmTMlnY6hCEY3BzjgxjDoCLzU2CaBEa8jbuUXS9iBs8gkAaGvKn58K9lOp392ci97WK0nEVOFbCCPXZeT0noODqqvEDYxqdS30Cqd28s2p1KmWaLHPYRJnxOxK88pJ94le3k2LpW/H4A3VSv5ZFAo1qGBJAn7qN7i9a2kdHXwYYwTG380BO07avmVgYJqi2kWEw7ZhFunJtQlmXoXT/lAZcXEQ1m2kIe6/nKavo0QAy/VfGHGxJ7Sqi7RauOxzeAeqEPXNcHPKclZhYUJUpHf+b7N7/8tWbzcdMbbbH8TawZiFZQQmQsZkDVIqhhT7mxE+tMaBpI=;CLsYShE8KJ2DdkwvC/mbJQ=="

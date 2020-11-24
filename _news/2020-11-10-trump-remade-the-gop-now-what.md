@@ -32,113 +32,209 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Van Drew: Trump ripped the band-aid off, changed American politics"
-    excerpt: "Democrat-turned Republican Rep. Jeff Van Drew, R-N.J., told “Fox & Friends” on Monday that he wanted to thank President Trump for helping to shape the new Republican Party saying he thinks “the president broke everything open.”"
-    publishedDateTime: 2020-11-09T17:17:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2LbggWPoMP8/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
+  - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
+    excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
+    publishedDateTime: 2020-11-16T17:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cindy McCain joins Joe Biden transition team advisory board"
+    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
+    publishedDateTime: 2020-11-10T16:02:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Dem. Rep. Ryan urges Trump to put the needs of the American people first"
-    excerpt: "Biden surrogate Rep. Tim Ryan, D-Ohio, had a message for President Trump on Sunday, saying, “You can’t put your own concerns in front of the concerns of the American people.”"
-    publishedDateTime: 2020-11-15T21:43:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YOoHX2qITsQ/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-ryan-urges-trump-to-put-the-needs-of-the-american-people-first.amp"
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden taps reparations advocate for Treasury transition"
+    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
+    publishedDateTime: 2020-11-16T15:32:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
+    excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
+    publishedDateTime: 2020-11-17T01:36:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZwxSKo3RErg/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30641ef-6df3-4cc6-97fb-f47ba35daa0d/da6ba733-6fcc-4921-951f-1ca4f2d004ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden transition team leans on left-wing groups for staff: report"
+    excerpt: "Around 20 individuals work for progressive-leaning philanthropic groups."
+    publishedDateTime: 2020-11-20T03:08:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9hVyK7HLcRo/biden-transition-team-left-wing-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
+    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
+    publishedDateTime: 2020-11-20T02:21:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schumer blasts GOP senators for throwing 'temper tantrum' over election results: 'President Trump lost'"
+    excerpt: "Senate Minority Leader Chuck Schumer took aim at his Republican colleagues on Thursday, accusing them of \"spreading conspiracy theories\" about last week's election. "
+    publishedDateTime: 2020-11-12T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cindy McCain: Trump will remain a force in politics but Republicans want civility"
-    excerpt: "President Trump will remain a political force in politics, said Cindy McCain after the 2020 presidential election showing Democratic candidate Joe Biden as the likely leader."
-    publishedDateTime: 2020-11-09T21:54:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jbXG97U6KZ0/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trump-will-remain-a-force-in-politics-but-republicans-want-civility.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "These Dems balked at a coronavirus vaccine under Trump. Will they change their tune now?"
-    excerpt: "When President Trump first told the American public that a coronavirus vaccine could come this year -- at the time he said possibly before Election Day -- Democrats including Vice President-elect Kamala Harris said they would not trust Trump as to any vaccine's safety."
-    publishedDateTime: 2020-11-09T20:01:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F4dtB1xwKqY/democrats-balked-at-coronavirus-vaccine-under-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-balked-at-coronavirus-vaccine-under-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89660b60-94c1-4072-846d-d1edfee4bbda/150629d2-6bc7-4585-86b7-fb991ca425a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
-    excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."
-    publishedDateTime: 2020-11-12T13:05:00Z
-    webUrl: "https://www.wsj.com/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    ampWebUrl: "https://www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/more-new-yorkers-voted-for-donald-trump-in-2020-than-in-2016-11605186022"
+  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
+    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
+    publishedDateTime: 2020-11-14T20:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
     images:
-      - url: "https://images.wsj.net/im-258710/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump Bars Americans From Investing in Firms That Help China’s Military"
-    excerpt: "The ban applies to 31 companies including state-run aerospace, shipbuilding and construction enterprises."
-    publishedDateTime: 2020-11-13T04:20:00Z
-    webUrl: "https://www.wsj.com/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-bars-americans-from-investing-in-firms-that-help-chinas-military-11605209431"
+  - title: "Trump calls Romney a 'RINO' after GOP senator targets president's 'undemocratic action'"
+    excerpt: "President Trump took aim Friday at one of his most vocal Republican critics – Sen. Mitt Romney – calling the him a “RINO.”"
+    publishedDateTime: 2020-11-20T16:30:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
-      - url: "https://images.wsj.net/im-259063/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump Launches 'Save America' Political Action Committee"
-    excerpt: "President Trump has started a political action committee called Save America that will allow him to back candidates for office and exert financial influence in Washington once his presidency ends. “The President always planned to do this,"
-    publishedDateTime: 2020-11-10T20:25:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/Xo9tbJLvrTGRqLq3qMHy"
+  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
+    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
+    publishedDateTime: 2020-11-17T17:44:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
+    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
+    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
+    publishedDateTime: 2020-11-12T16:22:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 115
+    quality: 130
     images:
-      - url: "https://images.wsj.net/im-257919?size=1.5"
+      - url: "https://images.wsj.net/im-258844?size=1.5"
         width: 1280
         height: 853
         isCached: true

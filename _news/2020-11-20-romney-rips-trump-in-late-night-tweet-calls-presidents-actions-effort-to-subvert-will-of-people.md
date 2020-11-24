@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/romney-rips-trump-in-tweet-calls-ac
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-rips-trump-in-tweet-calls-actions-effort-to-subvert-will-of-people.amp"
 type: article
 quality: 161
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Trump calls Romney a 'RINO' after GOP senator targets president's 'undemocratic action'"
-    excerpt: "President Trump took aim Friday at one of his most vocal Republican critics – Sen. Mitt Romney – calling the him a “RINO.”"
-    publishedDateTime: 2020-11-20T16:30:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "sHfAxt30EF8NZJBHO2vpuFZOQv+DMrtbmwLXGLQYfuIsnXokdF+hMi6MjtK5YjJMMHVgkStFfliOyMDikZvCCJkBk82f7ecrr6tMVANmnrGvM8kSDImi5ckC5EOqX0R2oRJZhV8WuyyChnWyomfbZXWxYtcWN61MzeG11h09CT/6mXiZa2tbeEUCwUEj66fq1NBB1tfg84wgUmdYCBT5yM0rtBNGcRA3eGamdMi7kWf0vdQOn+0Hcx86AvfAD1N1J0N6iBRCAclg6v9ajPJ7SJ4zPYB3VSixuF7xy3X9x4Cd3XM9Nsk12D1q7Yct5ufpoJ/yhGd6N+g1Y3uAcyUm31sEsGjxNWrPNUbDUBjWzKo=;OXVIEK22nKNVdjnPPpYDWA=="
 ---

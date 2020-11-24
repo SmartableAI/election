@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
+    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
+    publishedDateTime: 2020-11-15T13:52:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's election lawsuit leads to 3rd Circuit grant for expedited review"
     excerpt: "The Third Circuit Court of Appeals granted the Trump campaign's request for an expedited review of a lower court's decision to dismiss a lawsuit over voting in Pennsylvania."
     publishedDateTime: 2020-11-23T17:39:41Z
@@ -60,22 +76,6 @@ related:
     quality: 189
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
-    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
-    publishedDateTime: 2020-11-21T01:00:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Don Trump Jr. tests positive for COVID-19"
+    excerpt: "Donald Trump Jr. confirmed with Fox News Friday night that he tested positive for the coronavirus earlier this week and is now under quarantine."
+    publishedDateTime: 2020-11-20T23:30:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZMX428iCZbg/don-trump-jr-tests-positive-for-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former GOP national security officials urge Trump to concede"
     excerpt: "More than 100 former senior national security officials who served in Republican administrations are urging President Trump to concede the 2020 presidential election, saying his refusal to do so is “a serious threat to America’s democratic process and to our national security.”"
     publishedDateTime: 2020-11-23T17:29:23Z
@@ -110,38 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
-    excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "
-    publishedDateTime: 2020-11-19T00:02:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW49pO_2Yak/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b33d5c9-6607-4ab8-bfb8-6152a9e00754/51d36a08-79b4-4fc3-b161-51e90e4f3205/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "More GOP lawmakers call on Trump to begin presidential transition: 'It is time'"
-    excerpt: "A small but growing group of Republican lawmakers are calling on President Trump to begin the transition of power to President-elect Joe Biden, even as the incumbent refuses to concede and forges ahead with a series of legal challenges trying to overturn the results of the Nov. 3 election.  "
-    publishedDateTime: 2020-11-23T14:09:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gC0N5OZlgTw/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time"
-    ampWebUrl: "https://www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
     excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
@@ -173,6 +157,22 @@ related:
     images:
       - url: "https://images.wsj.net/im-263547/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
+    excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
+    publishedDateTime: 2020-11-17T14:51:00Z
+    webUrl: "https://www.wsj.com/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    ampWebUrl: "https://www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 146
+    images:
+      - url: "https://images.wsj.net/im-260465/social"
+        width: 1279
         height: 640
         isCached: true
   - title: "Trump Administration to Release New Rules Reducing Drug Costs"

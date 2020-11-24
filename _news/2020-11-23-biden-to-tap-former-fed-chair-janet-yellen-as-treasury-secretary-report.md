@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-tap-former-fed-chair-janet-yellen-as-treasury-secretary-report.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Mattis says he hopes Joe Biden takes 'America First' out of national security strategy"
-    excerpt: "Former Defense Secretary Jim Mattis said in an op-ed on Monday that he hopes President-elect Joe Biden will take “America First” out of the national security strategy for his incoming administration."
-    publishedDateTime: 2020-11-23T21:38:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EOi-_U2Odcw/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "e7YeilnppEyfNLqWdBV8lD5KWtWjNHAqeB9VNxx2Dl/SmnaFuMyIY2co1cyZyWf6JPgz3KKE7gAhgmbX84Fb5VmUDNpl5UXgOEKN9FzZGX1VMjiVHQKWDMcuwhB3o50QBk2FPyE38JKzSLrKhk7VK3quF9x7UOxQlaknro1mYP7uwCE0jYB/9gNFWvEb27waoWz10xkNB+O9em/5D/Q8fcsqRn9PdUSXs2loaiRuht1W1sQJFZLujs0Fo8LZg0kRgsBli0F8i+zNnYmtVFWCvl7xPFJyw5qi1L/qHLXo4hFPTKL8rwuNUSMx3oIcz5fKKCjAUm8eDS25AxmTkxn369BgItxNMIClSFHLdSGSmX8=;109WZCcyYdFbE21Hkto/Ag=="
 ---

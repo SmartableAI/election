@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-20-the-latest-pence-offers-positive-covid-19-assessment-in-us.md",
+      "title": "The Latest: Pence offers positive COVID-19 assessment in US",
+      "excerpt": "Vice President Mike Pence is offering an upbeat assessment of the status of the coronavirus in the U.S., despite a surge in cases, hospitalizations and more than a quarter of a million deaths. Pence says President Donald Trump directed that Thursday’s briefing be held.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "originalUrl": "https://www.chron.com/news/article/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-China-s-Xi-calls-for-cooperation-on-15738624.php",
+      "publishedDateTime": "2020-11-19T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-faces-economic-redline.md",
+      "title": "Trump faces economic redline",
+      "excerpt": "When it comes to who’s-telling-whom, economic interests usually dictate political actions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HW6LqRkl98I/trump-faces-economic-redline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-faces-economic-redline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-faces-economic-redline.amp",
+      "publishedDateTime": "2020-11-19T13:53:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-washington-post-trump-spoke-to-gop-official-who-now-wants-to-rescind-vote-to-certify-detroits-results.md",
       "title": "Washington Post: Trump spoke to GOP official who now wants to 'rescind' vote to certify Detroit's results",
       "excerpt": "The two Republican members of the Wayne County Board of Canvassers want to \"rescind\" their votes to certify the presidential results from the county, the largest in Michigan and home to the city of Detroit, even though the board has already certified the results.\n    \n",
@@ -87,6 +186,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp",
       "publishedDateTime": "2020-11-19T08:20:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-19-spike.md",
+      "title": "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike",
+      "excerpt": "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp",
+      "publishedDateTime": "2020-11-19T08:17:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -559,7 +714,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 447,
+      "heat": 367,
       "tags": null,
       "images": [
         {
@@ -615,7 +770,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -745,62 +900,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-andrew-cuomo-trump-ego.amp",
       "publishedDateTime": "2020-11-18T15:03:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-biden-warns-of-another-200k-dead-from-covid-by-inauguration.md",
-      "title": "Biden warns of another 200K dead from COVID by inauguration",
-      "excerpt": "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp",
-      "publishedDateTime": "2020-11-18T14:33:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1163,62 +1262,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-biden-will-move-us-closer-to-2015-nuclear-deal-with-iran-experts-say.md",
-      "title": "Biden will move US closer to 2015 nuclear deal with Iran, experts say",
-      "excerpt": "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-6TwsE2cvfg/biden-2015-nuclear-deal-with-iran-experts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78c5351f-1e6a-4256-a555-bc5a71ce021b/6476bc68-b4a6-40c2-8684-26bf2e32cef7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2015-nuclear-deal-with-iran-experts.amp",
-      "publishedDateTime": "2020-11-18T09:27:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-a-federal-judge-ordered-the-trump-administration-to-end-a-program-that-deports-immigrant-children-who-cross-the-southern-border-alone.md",
       "title": "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone",
       "excerpt": "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic.",
@@ -1325,62 +1368,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-aoc-linked-group-advises-biden-to-pass-economic-agenda-with-or-without-formal-legislation.md",
-      "title": "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'",
-      "excerpt": "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
-      "publishedDateTime": "2020-11-18T07:56:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

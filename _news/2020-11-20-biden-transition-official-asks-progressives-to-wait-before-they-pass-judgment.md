@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-transition-progressives-wait-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp"
 type: article
 quality: 171
-heat: -1
-published: false
+heat: 251
+published: true
 
 provider:
   name: Fox News
@@ -31,69 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Biden transition team leans on left-wing groups for staff: report"
-    excerpt: "Around 20 individuals work for progressive-leaning philanthropic groups."
-    publishedDateTime: 2020-11-20T03:08:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9hVyK7HLcRo/biden-transition-team-left-wing-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+  - title: "Cedric Richmond, tapped for Biden White House role, has history of controversies"
+    excerpt: "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies."
+    publishedDateTime: 2020-11-17T19:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden taps Facebook executive for White House role as big tech infiltrates transition"
-    excerpt: "Some of Biden's full-time staffers, as well as transition team members, have ties to Silicon Valley."
-    publishedDateTime: 2020-11-21T01:57:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-big-tech-transition-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-big-tech-transition-team.amp"
+  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
+    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
+    publishedDateTime: 2020-11-17T19:51:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes"
-    excerpt: "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview."
-    publishedDateTime: 2020-11-22T20:19:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden Picks Antony Blinken for Secretary of State"
-    excerpt: "Blinken served as Biden’s top foreign-policy adviser during his presidential campaign after roles in the Obama administration."
-    publishedDateTime: 2020-11-23T09:22:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+  - title: "Progressive group slams two of Biden's White House appointees as 'corporate-friendly insiders'"
+    excerpt: "Progressive Democrats slammed President-elect Joe Biden’s appointments of Rep. Cedric Richmond and Steve Ricchetti to White House posts, calling them “unacceptable.”"
+    publishedDateTime: 2020-11-17T17:50:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUuUQlT4kmg/progressive-group-bidens-white-house-appointees-as-corporate-friendly"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-bidens-white-house-appointees-as-corporate-friendly.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://images.wsj.net/im-263491/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McEnany rips 'inexcusable' 2016 transition, says GSA certification for Biden will come 'at the right moment'"
+    excerpt: "White House Press Secretary Kayleigh McEnany on Friday said the General Services Administration will certify Joe Biden’s election at the “right moment,” while slamming the 2016 transition process from Barack Obama to Donald Trump as “inexcusable.”"
+    publishedDateTime: 2020-11-20T18:19:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "aImiJJBzautQ+mqogCRqbeg+nmL+IV07bNPy6/jtQ08o1BOrRrfO33Vbp1rZr9f7E1nWissNIphgw7aU1ohxUf1LBUvsZPYGcH5yaS1JxCsBqMEGo+RmXJoEh9Z34qOd98MU15Dm7xpE3C+N+i1NBFFh3bc6LAl8tqdcLJiR/KyyBs8PBL1DdI36mimOj/KoX2kJLKIo7NUXOlXPLECuefHXNNf458eWX5kw9JVKpPWDWA6iaS3pM0Dhe7JSQx2Aum7t1bANhcrJiQnqP81vTrMbfSNgr+VsF/b9Vq837rVaYlTT+hzTZyA0NzlckWZpCYUJJBeh9p5KmKs7lVG4ipO1B9FV3b7JKiSK/Q3xr70=;dQLy34bPMFprbRqhmhTTDA=="

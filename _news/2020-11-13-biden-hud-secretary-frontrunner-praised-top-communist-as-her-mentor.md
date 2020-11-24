@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
+    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
+    publishedDateTime: 2020-11-13T03:28:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xt0xakfq0kJWpjNq+NqRf//caGtbgMuMaDrXUo0/Gz0TpDPQDtu/dmf4qsQiIeHEuSrpdFjDhTrKiZTDRsjUT+bkPYWK1XYuPoVaOzPdueBrfpLf3pv73rizBv0RraA4tip9n/F6N2MWkI/kP+bZa3BKkg7Koc+fzFIBzvLn5ARxHiyIlIYE/lGdI3xvuvEBkJ3nU3Kc/7gRJN8CoBQCp7YSNzoHK3V8QcSNRUuYXycK+g4bx14KsR1sKecvYvX6hlI+U4o1Gt0dVcGVVkMgilQlhqaFQ7evzBWntk4Df4foRRMhvaa7hPEM7I6NNzEV2sfjvgTL8aRIv/zoASjaiPWisXKhd2g51fJ6l15ceFQ=;mwXMZfFIX02ZVv3c6TG7kQ=="
 ---

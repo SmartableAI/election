@@ -398,7 +398,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 690,
+      "heat": 770,
       "tags": null,
       "images": [
         {
@@ -723,7 +723,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1267,7 +1267,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1319,7 +1319,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 16061,
+      "heat": 16101,
       "tags": null,
       "images": [
         {

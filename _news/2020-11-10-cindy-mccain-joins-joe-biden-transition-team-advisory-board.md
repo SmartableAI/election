@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
 type: article
 quality: 175
-heat: 395
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,175 +31,212 @@ images:
     isCached: true
 
 related:
-  - title: "Live Updates: Biden's lead grows in Pennsylvania"
-    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
-    publishedDateTime: 2020-11-12T05:20:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+  - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
+    excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
+    publishedDateTime: 2020-11-16T17:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "In letter to Trump, GOP lawmaker pushes for withdrawal of US troops"
+    excerpt: "House Freedom Caucus Chairman Rep. Andy Biggs, R-Ariz., is calling on the Trump administration to \"strategically\" withdraw U.S. forces from Iraq and Afghanistan."
+    publishedDateTime: 2020-11-12T20:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QcqpdQ1asVQ/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops"
+    ampWebUrl: "https://www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-letter-to-trump-gop-lawmaker-pushes-for-withdrawal-of-u-s-troops.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/ANDY-BIGGS-Getty.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
-    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
-    publishedDateTime: 2020-11-13T03:28:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
+  - title: "Biden taps reparations advocate for Treasury transition"
+    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
+    publishedDateTime: 2020-11-16T15:32:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
+    excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
+    publishedDateTime: 2020-11-17T01:36:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZwxSKo3RErg/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30641ef-6df3-4cc6-97fb-f47ba35daa0d/da6ba733-6fcc-4921-951f-1ca4f2d004ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Will Biden consider adding Republicans to his administration?"
-    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
-    publishedDateTime: 2020-11-13T23:37:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+  - title: "Biden transition team leans on left-wing groups for staff: report"
+    excerpt: "Around 20 individuals work for progressive-leaning philanthropic groups."
+    publishedDateTime: 2020-11-20T03:08:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9hVyK7HLcRo/biden-transition-team-left-wing-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-team-left-wing-staff.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
-    excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
-    publishedDateTime: 2020-11-10T01:24:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epwnhudD93A/joe-biden-economic-lockdowns-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
+    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
+    publishedDateTime: 2020-11-20T02:21:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
+    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Schumer blasts GOP senators for throwing 'temper tantrum' over election results: 'President Trump lost'"
+    excerpt: "Senate Minority Leader Chuck Schumer took aim at his Republican colleagues on Thursday, accusing them of \"spreading conspiracy theories\" about last week's election. "
+    publishedDateTime: 2020-11-12T17:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mhbP5fezYWk/schumer-gop-senators-presidential-election-results"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-gop-senators-presidential-election-results.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89660b60-94c1-4072-846d-d1edfee4bbda/150629d2-6bc7-4585-86b7-fb991ca425a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
-    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
-    publishedDateTime: 2020-11-17T16:47:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+  - title: "Cuomo swipes at Trump after president threatens to withhold vaccine from NY"
+    excerpt: "New York Gov. Andrew Cuomo claimed Americans don’t trust President Trump in a series of televised interviews Friday, after the commander in chief singled out the governor’s stated lack of trust in the administration’s coronavirus vaccine push during a Rose Garden speech."
+    publishedDateTime: 2020-11-14T20:55:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Z-rihsBnsg/cuomo-swipes-trump-president-ny-coronavirus-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-swipes-trump-president-ny-coronavirus-vaccines.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20318839451844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
-    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
-    publishedDateTime: 2020-11-11T02:24:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+  - title: "Trump calls Romney a 'RINO' after GOP senator targets president's 'undemocratic action'"
+    excerpt: "President Trump took aim Friday at one of his most vocal Republican critics – Sen. Mitt Romney – calling the him a “RINO.”"
+    publishedDateTime: 2020-11-20T16:30:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
-    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
-    publishedDateTime: 2020-11-17T22:54:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
-    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
-    publishedDateTime: 2020-11-17T21:22:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
+    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
+    publishedDateTime: 2020-11-17T17:44:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
+    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's picks for transition team the latest sign of a radically different approach to immigration"
+    excerpt: "President-elect Joe Biden is months away from taking office, and he hasn’t named his Cabinet yet, but there are already signs from his transition team of the radically different approach to immigration he intends to take once in office."
+    publishedDateTime: 2020-11-13T19:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8avUgAVfKSw/bidens-transition-team-dhs-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-transition-team-dhs-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a58812-b41d-4c39-bcef-2828868c34c3/c9ceab52-cd99-40d5-be00-da7d49c3f2ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+  - title: "Trump Remade the GOP. Now What?"
+    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
+    publishedDateTime: 2020-11-10T02:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-259713/social"
+      - url: "https://images.wsj.net/im-257077/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
-    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
+    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
+    publishedDateTime: 2020-11-12T16:22:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://images.wsj.net/im-260065/social"
+      - url: "https://images.wsj.net/im-258844?size=1.5"
         width: 1280
-        height: 640
+        height: 853
         isCached: true
-  - title: "It Would Be Madness for Biden to Return to Iran Nuclear Deal"
-    excerpt: "This week's news that Iran has amassed a huge stockpile of enriched uranium beyond the limits it agreed to makes it all the more absurd that President-elect Joe Biden wishes to return the United States to the disastrous Iran nuclear deal."
-    publishedDateTime: 2020-11-13T12:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/13/it_would_be_madness_for_biden_to_return_to_iran_nuclear_deal_529178.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "NZLz5MYBuOzNcPjcrW+NqC1DWjvpZCzIFBEYXojuckzPuJf4wS8M2TwqOD4X/XPBNJTJwB+K27lbVRlnJpv5xfQFurY6mzhT9O5oMBJa7Xo8Y2nA60H5S0JI2dwC58NgkXpLbuQsIJdN7g1Kg8QZ+8jpBIYTfxclS8knpfP0sWP79hFdHAMrfpdz+NzO0//UuxRS8AE1Yofnz7RKR/KB9gTycXlRI/u8ZeFNtKhq4webpyQTrXZSF56xjnvx/5OEh3H+y8CdNroiGKQg8CC7kZimaiqQz3XVX8IsecELQ0McgJGBZg5mONpfsY9Vg+yEkeXWh59sO7NsJG8G4Jd9znqEX+OETCynA28yD8kIdUQ=;RozxxKDh26PdtBb7I7bKSw=="
 ---

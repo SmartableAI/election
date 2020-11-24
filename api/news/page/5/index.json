@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-aoc-linked-group-advises-biden-to-pass-economic-agenda-with-or-without-formal-legislation.md",
+      "title": "AOC-linked group advises Biden to pass economic agenda 'with or without formal legislation'",
+      "excerpt": "A progressive group with ties to Rep. Alexandria Ocasio-Cortez, D-N.Y., is privately advising President-elect Joe Biden to move forward with his economic agenda whether or not Democrats win control of the Senate in a pair of Georgia runoffs early next year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rj-CtzrRrns/aoc-progressive-group-biden-economic-agenda-senate-control",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-progressive-group-biden-economic-agenda-senate-control.amp",
+      "publishedDateTime": "2020-11-18T07:56:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-election-2020-live-updates-half-of-republicans-say-trump-rightfully-won-election-poll-finds.md",
       "title": "Election 2020 live updates: Half of Republicans say Trump 'rightfully won' election, poll finds",
       "excerpt": "After naming nine appointees to his incoming administration, Joe Biden will speak with frontline health care workers battling the COVID-19 pandemic.",
@@ -83,6 +139,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-violence-mike-lee-feinstein-friends.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-violence-mike-lee-feinstein-friends.amp",
       "publishedDateTime": "2020-11-18T07:20:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-jones-yates-becerra-among-names-floated-for-biden-attorney-general.md",
+      "title": "Jones, Yates, Becerra among names floated for Biden attorney general",
+      "excerpt": "President-elect Joe Biden is considering several individuals to serve as the attorney general in his administration, including former Alabama Sen. Doug Jones, former Deputy Attorney General Sally Yates and California Attorney General Xavier Becerra, Fox News is told.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp",
+      "publishedDateTime": "2020-11-18T05:53:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -330,7 +442,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1570,
+      "heat": 1590,
       "tags": null,
       "images": [
         {
@@ -382,7 +494,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-trump-krebs-idUKKBN27Y01A",
       "featuredContent": null,
       "highlight": null,
-      "heat": 720,
+      "heat": 740,
       "tags": null,
       "images": [
         {
@@ -814,7 +926,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 936,
+      "heat": 976,
       "tags": null,
       "images": [
         {
@@ -960,118 +1072,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-cedric-richmond-tapped-for-biden-white-house-role-has-history-of-controversies.md",
-      "title": "Cedric Richmond, tapped for Biden White House role, has history of controversies",
-      "excerpt": "President-elect Joe Biden’s transition team on Tuesday announced that Rep. Cedric Richmond, D-La., has been tapped as a senior adviser in the White House Office of Public Engagement -- leaving his House seat vacant and bringing with him a number of past controversies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iRCCeEjj73I/cedric-richmond-biden-white-house-controversies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3efb104a-b635-4947-bf80-8cb9e49b1b93/0f80a8d1-73c1-49b6-beb3-20552f4b90cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp",
-      "publishedDateTime": "2020-11-17T11:59:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.md",
-      "title": "Biden says there should be 'immediate' congressional action on student loan forgiveness",
-      "excerpt": "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp",
-      "publishedDateTime": "2020-11-17T11:51:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1231,62 +1231,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-facebook-twitter-take-heat-over-hunter-biden-story-during-hearing-dorsey-admits-this-action-was-wrong.md",
-      "title": "Facebook, Twitter take heat over Hunter Biden story during hearing; Dorsey admits 'this action was wrong'",
-      "excerpt": "Twitter CEO Jack Dorsey and Facebook CEO Mark Zuckerberg are testifying before the Senate Judiciary Committee Tuesday morning, and right from the beginning of the hearing they faced pressure over the censorship of a New York Post story about Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Y5164sYBqY/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea062ee3-cd24-4b77-84bb-3780a23ee251/f63ef748-e85c-435c-b7ab-17c1c79c160d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-twitter-grilled-hunter-biden-story-hearing-dorsey.amp",
-      "publishedDateTime": "2020-11-17T08:35:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-rudy-giuliani-seeks-to-represent-trump-in-pennsylvania-election-case.md",
       "title": "Rudy Giuliani seeks to represent Trump in Pennsylvania election case",
       "excerpt": "Rudy Giuliani, President Donald Trump's personal lawyer, formally told a federal court that he will represent the Trump campaign in its long shot case to block Pennsylvania from certifying votes.\n    \n",
@@ -1340,6 +1284,63 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-justice-dems-group-behind-aoc-boosts-rep-ro-khanna-for-harris-senate-seat.md",
+      "title": "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat",
+      "excerpt": "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
+      "publishedDateTime": "2020-11-17T05:25:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     }
   ],

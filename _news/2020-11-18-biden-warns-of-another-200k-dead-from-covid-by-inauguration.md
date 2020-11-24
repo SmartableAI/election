@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-fr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
 type: article
 quality: 175
-heat: 275
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,83 +31,179 @@ images:
     isCached: true
 
 related:
-  - title: "Biden hasn't said anything on Newsom dinner controversy amid COVID-19 spike"
-    excerpt: "California Gov. Gavin Newsom is still facing backlash for dining at a restaurant with a large group while pushing new coronavirus restrictions on indoor dining during a spike in cases, and President-elect Joe Biden has yet to weigh in on the matter."
-    publishedDateTime: 2020-11-19T16:17:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5_vEytGCGE/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hasnt-said-anything-on-newsom-dinner-controversy-amid-covid-spike.amp"
+  - title: "Will Biden consider adding Republicans to his administration?"
+    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
+    publishedDateTime: 2020-11-13T23:37:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
+    excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
+    publishedDateTime: 2020-11-10T01:24:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epwnhudD93A/joe-biden-economic-lockdowns-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
+    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
+    publishedDateTime: 2020-11-17T16:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11af338c-b330-4a30-86d5-5183dcb461b1/72b511e0-3f69-4b8d-9e92-292161ee6f79/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's incoming chief of staff Ron Klain opposed COVID-19 lockdowns early in pandemic"
-    excerpt: "President-elect Joe Biden’s incoming chief of staff, Ron Klain, once slammed the use of the word “lockdown” in the early days of the coronavirus pandemic in comments that have resurfaced in light of new calls for more restrictions to combat the spread of the virus. "
-    publishedDateTime: 2020-11-13T17:35:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0dd7uOHLI8/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-biden-chief-of-staff-coronavirus-lockdowns-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "State Department warns incoming Biden administration of China's intent to be top world power"
-    excerpt: "In a detailed policy document, President Trump’s State Department is warning the incoming administration that it must address a Chinese government intent on displacing the United States as the world’s foremost power."
-    publishedDateTime: 2020-11-17T17:44:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AaJvLTZexAM/state-department-warns-incoming-biden-administration-china"
-    ampWebUrl: "https://www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-department-warns-incoming-biden-administration-china.amp"
+  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
+    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
+    publishedDateTime: 2020-11-12T21:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/rich-edson.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other"
-    excerpt: "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do."
-    publishedDateTime: 2020-11-23T12:57:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates"
-    ampWebUrl: "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp"
+  - title: "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDmPE_w-QKg/catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bernie Sanders: 'Enormously insulting' if Biden ignores progressives in his administration"
+    excerpt: "Bernie Sanders and Elizabeth Warren, leaders of the Democratic Party's left wing, are at risk of being excluded from the senior ranks of President-elect Joe Biden's administration as the incoming president balances the demands of his party's progressive base against the political realities of a narrowly"
+    publishedDateTime: 2020-11-20T16:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IboItUQG_gY/bernie-sanders-biden-progressives-in-his-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Some Roman Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Roman Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6Q9PW5qhBA/roman-catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden's new chief of staff praised de Blasio for holding large dinner to put COVID fears to rest"
-    excerpt: "President-elect Joe Biden's pick for chief of staff Ron Klain previously decried a \"fear epidemic\" at the beginning of the COVID-19 outbreak, and praised New York City Mayor Bill de Blasio for participating in a large dinner in Queens."
-    publishedDateTime: 2020-11-13T00:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0R5VwOql-8g/klain-covid-tweet-fear-epidemic-nyc"
-    ampWebUrl: "https://www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/klain-covid-tweet-fear-epidemic-nyc.amp"
+  - title: "A sign of America’s future under Biden? This transition team member has questioned the First Amendment"
+    excerpt: "The leader of President-elect Joe Biden’s transition team for federal media outlets has, in the past, publicly endorsed both weakening the First Amendment and governments' use of propaganda on their own citizens."
+    publishedDateTime: 2020-11-19T23:53:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54c7ce-bf86-4534-ad75-337c9f985a82/8d32a57a-c1f1-4927-be8a-33f4a292438b/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Richard-Stengel-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
+    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
+    publishedDateTime: 2020-11-17T21:22:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What Are Joe Biden’s Plans for Covid-19?"
+    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
+    publishedDateTime: 2020-11-13T18:27:00Z
+    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-259713/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1"
+    excerpt: "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history."
+    publishedDateTime: 2020-11-12T02:46:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/155cc3c3-e6cd-4d92-8fd5-59afb1417b81/cb3148a7-2aea-4e6f-ac4f-518d7f99bcfb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

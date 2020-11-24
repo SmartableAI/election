@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-federal-election-official-blasts-trumps-false-election-claims-as-laughable-baffling-and-insulting.md",
+      "title": "Federal election official blasts Trump's false election claims as 'laughable,' 'baffling' and 'insulting'",
+      "excerpt": "A senior federal election security official who was appointed by President Donald Trump has blasted the President's false post-election claims, calling them \"baffling\", \"laughable\" and \"insulting\".\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6V-YMu-4iNw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6V-YMu-4iNw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201113145715-ben-hovland-october-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/13/politics/hovland-trump-election-claims/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/13/politics/hovland-trump-election-claims/index.html",
+      "publishedDateTime": "2020-11-13T12:20:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-biden-names-ron-klain-as-his-white-house-chief-of-staff.md",
       "title": "Biden names Ron Klain as his White House chief of staff",
       "excerpt": "President-elect Joe Biden is poised to name his White House chief of staff as early as Thursday, with longtime adviser Ron Klain the leading finalist for the post, three people familiar with the matter tell CNN.\n    \n",
@@ -1636,63 +1692,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.md",
-      "title": "The view in Wisconsin: Biden holds a slim lead after nearly all votes are counted.",
-      "excerpt": "Wisconsin’s municipal clerks are nearly finished counting the state’s ballots, and former Vice President Joseph R. Biden Jr. has a lead of slightly more than 20,000 votes over President Trump, said Ann Jacobs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/04/reader-center/04blog-wisco-graphic/04blog-wisco-graphic-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/04/us/politics/the-view-in-wisconsin-biden-holds-a-slim-lead-after-nearly-all-votes-are-counted.amp.html",
-      "publishedDateTime": "2020-11-04T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

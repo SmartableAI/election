@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-adm
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 395
+published: true
 
 provider:
   name: Fox News
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cindy McCain joins Joe Biden transition team advisory board"
-    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
-    publishedDateTime: 2020-11-10T16:02:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+  - title: "Biden warns of another 200K dead from COVID by inauguration"
+    excerpt: "With new coronavirus cases surging again from coast to coast, President-elect Joe Biden is warning of a potential grim milestone - the potential of another 200,000 COVID deaths by his inauguration"
+    publishedDateTime: 2020-11-18T22:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/evu2XTDFB9k/biden-warns-of-another-200k-dead-from-covid-by-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-of-another-200k-dead-from-covid-by-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Live Updates: Biden's lead grows in Pennsylvania"
-    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
-    publishedDateTime: 2020-11-12T05:20:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
-    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
-    publishedDateTime: 2020-11-13T03:28:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
     excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
@@ -111,37 +79,85 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
-    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
-    publishedDateTime: 2020-11-11T02:24:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
+  - title: "Chris Wallace: 'Joe Biden may have been done a favor if Republicans hold the Senate'"
+    excerpt: "The GOP holding the Senate majority would work in President-elect Joe Biden’s favor, \"Fox News Sunday\" host Chris Wallace told Fox News Radio's “The Brian Kilmeade Show” on Thursday."
+    publishedDateTime: 2020-11-12T21:26:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xo_1sGtA8Xo/chris-wallace-joe-biden-gop-senate-georgia-runoffs"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-wallace-joe-biden-gop-senate-georgia-runoffs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDmPE_w-QKg/catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-warn-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
-    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
-    publishedDateTime: 2020-11-17T22:54:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+  - title: "Bernie Sanders: 'Enormously insulting' if Biden ignores progressives in his administration"
+    excerpt: "Bernie Sanders and Elizabeth Warren, leaders of the Democratic Party's left wing, are at risk of being excluded from the senior ranks of President-elect Joe Biden's administration as the incoming president balances the demands of his party's progressive base against the political realities of a narrowly"
+    publishedDateTime: 2020-11-20T16:45:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IboItUQG_gY/bernie-sanders-biden-progressives-in-his-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-biden-progressives-in-his-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1203406186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Some Roman Catholics sounding alarm about Biden administration, conflicts with moral teachings"
+    excerpt: "Some Roman Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings."
+    publishedDateTime: 2020-11-21T01:55:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c6Q9PW5qhBA/roman-catholics-warn-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roman-catholics-warn-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A sign of America’s future under Biden? This transition team member has questioned the First Amendment"
+    excerpt: "The leader of President-elect Joe Biden’s transition team for federal media outlets has, in the past, publicly endorsed both weakening the First Amendment and governments' use of propaganda on their own citizens."
+    publishedDateTime: 2020-11-19T23:53:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Richard-Stengel-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
     excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
@@ -175,31 +191,22 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
-    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+  - title: "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1"
+    excerpt: "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history."
+    publishedDateTime: 2020-11-12T02:46:00Z
+    webUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
     images:
-      - url: "https://images.wsj.net/im-260065/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/155cc3c3-e6cd-4d92-8fd5-59afb1417b81/cb3148a7-2aea-4e6f-ac4f-518d7f99bcfb/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "It Would Be Madness for Biden to Return to Iran Nuclear Deal"
-    excerpt: "This week's news that Iran has amassed a huge stockpile of enriched uranium beyond the limits it agreed to makes it all the more absurd that President-elect Joe Biden wishes to return the United States to the disastrous Iran nuclear deal."
-    publishedDateTime: 2020-11-13T12:25:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/13/it_would_be_madness_for_biden_to_return_to_iran_nuclear_deal_529178.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "fw3v+w/ZohXmslW1QP8toKuTAS9NoKGJNP19gIyXuCK3/r7SSi9ziFS6pXze340H4OmpuZQx1rQ1/84WUnifJKOEr40yqn/RW/uq7aK9xSOe8EJh0PbbGSVUzlC7fSZ+IG1xbcMD7G8eSm9UsomSLATQbiuFuCDWJdNztPnP5loVMBWCsFptLmZokG2gMJiQ75XBUpdHk1bXE92DxAak0efsWciEPOvrdVD0eSHRd7zZNzCNV4XoNepTMFYGYaXZ+bT2KdUpVclDOp68ohqSfe3D01BebAZvz4bb1aF7iMmtqYaxLJMQbannM8m4uaAdhIR2Wu0a3g2L6FuBNJzio5rPMQxYdL8wrb8mBaACDC8=;nsKychfsJnHFrAVgUUVHow=="
 ---

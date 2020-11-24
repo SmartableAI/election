@@ -365,6 +365,36 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
+    excerpt: "Biden and vice president Kamala D. Harris received 3,458,229 votes. Republican candidates Donald J. Trump and Michael R. Pence trailed with 3,377,674 votes."
+    publishedDateTime: 2020-11-24T16:24:00Z
+    webUrl: "https://www.ydr.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+    ampWebUrl: "https://amp.ydr.com/amp/6407257002"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/6407257002"
+    type: article
+    provider:
+      name: YDR
+      domain: ydr.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?auto=webp&crop=5714,3214,x0,y437&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pressure rising on Newsom about who will replace Kamala Harris in Senate"
+    excerpt: "Pressure is ramping up for California Gov. Gavin Newsom to select either a Black woman or a Latino to fill Sen. Kamala Harris’ seat in the U.S. Senate when she leaves in January to become vice president."
+    publishedDateTime: 2020-11-23T18:33:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Pressure-rising-on-Newsom-about-who-will-replace-15749407.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 104
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/11/51/19962492/7/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "2020 Election Live Updates: Biden on track for historic California victory, Kamala Harris heads west"
     excerpt: "Every pollster expects Joe Biden to win big in California on election night. The question is how big. New polling suggests Biden’s margin could be of historic proportions, possibly the largest in the state in a century."
     publishedDateTime: 2020-10-27T19:48:00Z

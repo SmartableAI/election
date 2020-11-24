@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/donald-trump-transition/index.html"
 type: article
 quality: 190
-heat: 1570
+heat: 1590
 published: true
 
 provider:
@@ -968,6 +968,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/23/us/politics/22trump-legal-print/22trump-legal-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As Trump Exits, Rifts in Europe Widen Again"
+    excerpt: "The Trump presidency forced European countries to come together and stand more on their own. But officials in France and Germany are already tussling about life after he departs."
+    publishedDateTime: 2020-11-24T15:42:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/world/europe/trump-macron-merkel-france-germany.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/world/europe/trump-macron-merkel-france-germany.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/world/europe/trump-macron-merkel-france-germany.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/world/24germany-france1/merlin_179923614_a4931cd9-fa0e-4563-86a7-c4b8d987b69b-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-van-drew-trump-ripped-band-aid-off-changed-american-politics.amp"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/099faceb-1615-4e7b-afcb-a7c7202dec3f/2fc973bf-71b6-4759-b179-89f24a5ca219/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump Remade the GOP. Now What?"
-    excerpt: "President Trump, despite losing re-election, is poised to remain a powerful influence on a Republican Party he helped shift from one rooted in a decades-old style of conservatism to populism and nationalism."
-    publishedDateTime: 2020-11-10T02:16:00Z
-    webUrl: "https://www.wsj.com/articles/trump-remade-the-gop-now-what-11604956604"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-remade-the-gop-now-what-11604956604"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-257077/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "More New Yorkers Voted for Donald Trump in 2020 Than in 2016"
     excerpt: "The Republican president received tens of thousands more votes in New York City in the 2020 presidential election than in 2016, and some of his largest gains came from the South Bronx."

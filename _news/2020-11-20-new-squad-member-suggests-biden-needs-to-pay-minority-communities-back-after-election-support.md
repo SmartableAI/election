@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
 type: article
 quality: 178
-heat: 478
+heat: 338
 published: true
 
 provider:
@@ -31,70 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden appoints two former lobbyists to senior staff"
-    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
-    publishedDateTime: 2020-11-18T00:19:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BzjWSVcWpCk/biden-two-former-lobbyists-senior-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Susan Rice ‘very open’ to joining Biden administration"
-    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-18T19:31:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOkI3nkofM/susan-rice-very-open-to-joining-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Catholics divided as bishops examine Biden's abortion stance"
-    excerpt: "Catholics split almost evenly in supporting Donald Trump or Joe Biden in the presidential election. Now they're sharply divided over a declaration by the head of the U.S. Conference of Catholic Bishops that the president-elect's support for abortion rights presents the church with a \"difficult and complex"
-    publishedDateTime: 2020-11-19T00:38:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQT3sYyvLco/catholics-divided-as-bishops-examine-bidens-abortion-stance"
-    ampWebUrl: "https://www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322818833918.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Warren joins groups pushing Biden to cancel student loan debt on Day 1"
-    excerpt: "Nearly 240 organizations signed on to a letter sent to the President-Elect this week."
-    publishedDateTime: 2020-11-20T02:21:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1USFuM1Miw/warren-biden-cancel-student-loan-debt"
-    ampWebUrl: "https://www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-biden-cancel-student-loan-debt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7df857bf-a0d9-4038-8120-983910b416e1/d3c42b30-b923-49df-8966-d951940c3f4c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden declines to say where he stands on BLM-backed BREATHE Act"
     excerpt: "President-elect Joe Biden has been silent on his stance on the Black Lives Matter-backed BREATHE Act, despite pushes from the progressive wing of his party to pass sweeping legislation aimed at social justice reform in the first 100 days of his administration."
     publishedDateTime: 2020-11-22T20:28:28Z
@@ -220,54 +156,6 @@ related:
     quality: 158
     images:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Names Senior White House Staff"
-    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
-    publishedDateTime: 2020-11-17T16:09:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-261059/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden appoints two former lobbyists to senior staff"
-    excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
-    publishedDateTime: 2020-11-20T05:36:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-two-former-lobbyists-senior-staff.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20321762660990.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Susan Rice ‘very open’ to joining Biden administration"
-    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
-    publishedDateTime: 2020-11-20T06:17:00Z
-    webUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75188fc4-a0ce-4dae-b7d4-a0d3cbebbc4f/443b5139-fead-4592-b1a9-0784af256204/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

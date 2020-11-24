@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pennsylvania certifies election results for Biden despite Trump legal challenges"
+    excerpt: "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday."
+    publishedDateTime: 2020-11-24T16:21:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: Trump criticizes Biden forming Cabinet amid election legal challenges"
     excerpt: "Follow for the latest updates on the 2020 election and transition."
     publishedDateTime: 2020-11-22T07:00:59Z
@@ -63,6 +79,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
+    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
+    publishedDateTime: 2020-10-26T18:49:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Trump voters both say more coronavirus relief needed"
     excerpt: "The vast majority of Americans -- of all backgrounds -- want more COVID-19 relief."
     publishedDateTime: 2020-11-20T20:23:49Z
@@ -79,28 +111,28 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "ELECTION 2020 LIVE UPDATES: Biden to meet with Pelosi, Schumer"
-    excerpt: "Follow for the latest developments in the 2020 election."
-    publishedDateTime: 2020-11-20T12:31:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HT_EivXLUSM/live-updates-elections-2020-nov-20-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f052cb7c-eb11-4b09-a6d3-03469e7b0739/92fc3b81-6048-4b27-adfe-2dbea62e35ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Georgia certifies Joe Biden victory in 2020 presidential election"
     excerpt: "Biden has 306 electoral votes to Trump’s 232."
     publishedDateTime: 2020-11-20T21:34:46Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2RBQSgcIrA0/georgia-certifies-joe-biden-victory-2020-election"
     ampWebUrl: "https://www.foxnews.com/politics/georgia-certifies-joe-biden-victory-2020-election.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-certifies-joe-biden-victory-2020-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
+    excerpt: "Biden now has 306 electoral votes."
+    publishedDateTime: 2020-11-20T01:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
     type: article
     provider:
       name: Fox News
@@ -143,38 +175,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
-    excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
-    publishedDateTime: 2020-11-15T13:52:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e4FQAj249Do/trump-tweets-biden-won-rigged-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-biden-won-rigged-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf8f9538-a425-4b94-88bf-ff23aa192648/e61d238c-7d25-4e93-9a6c-dd1a44bf5de9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump swipes at DeWine after GOP governor's comments on Biden transition"
-    excerpt: "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio."
-    publishedDateTime: 2020-11-16T17:26:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
     excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
     publishedDateTime: 2020-11-20T23:50:37Z
@@ -204,22 +204,6 @@ related:
     quality: 186
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb52f56a-37a3-4f76-a447-f271b2612c08/93be24a1-997f-401f-b587-56d49ed62089/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
-    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
-    publishedDateTime: 2020-11-11T03:36:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -255,21 +239,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
-    excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-11-16T20:14:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/syhQIuAl_-s/trump-election-challenges-allegations-short-evidence-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
+  - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
+    excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
+    publishedDateTime: 2020-10-21T02:09:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXoaSe8Ouo4/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sen. Kennedy: Media's disparate treatment of Biden, Trump will 'undermine democracy'"
     excerpt: "Senate Judiciary Committee member John N. Kennedy, R-La., said Tuesday that the media suddenly struck a different tone this week when they questioned President-elect Joe Biden almost exclusively about his viewpoint of President Trump."
@@ -367,35 +351,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
-    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
-    publishedDateTime: 2020-11-16T03:38:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+  - title: "Trump campaign loses Pennsylvania Supreme Court challenge to Philadelphia election observers"
+    excerpt: "The Pennyslvania Supreme Court ruled Tuesday that the Philadelphia Board of Elections acted within its authority in regulating the positioning of election observers, striking another blow to the Trump campaign's post-election legal challenges."
+    publishedDateTime: 2020-11-17T22:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S03QHVqS180/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims"
-    excerpt: "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”"
-    publishedDateTime: 2020-11-23T04:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
+  - title: "Michigan lawmakers meet with Trump, say they are unaware of info that would change election results"
+    excerpt: "Michigan’s top two legislative leaders met at the White House Friday afternoon with President Trump and his legal team to discuss the president’s legal dispute to the vote count in their state. "
+    publishedDateTime: 2020-11-21T01:00:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mfk9NBbaZ04/michigan-lawmakers-meet-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-lawmakers-meet-with-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 176
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20319487719756-e1605539138290.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -431,85 +415,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden taps reparations advocate for Treasury transition"
-    excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
-    publishedDateTime: 2020-11-16T15:32:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7LLrUSFUls/biden-taps-reparations-advocate-for-treasury-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-reparations-advocate-for-treasury-transition.amp"
+  - title: "Susan Rice ‘very open’ to joining Biden administration"
+    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-18T19:31:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOkI3nkofM/susan-rice-very-open-to-joining-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP_Mehrsa-Baradaran.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump adviser Dr. Scott Atlas clarifies 'rise up' tweet after backlash from Biden, Michigan governor"
-    excerpt: "Dr. Scott Atlas, a member of President Trump's coronavirus task force, clarified his weekend tweet urging citizens of Michigan to \"rise up\" against new COVID-19 restrictions Monday after President-elect Joe Biden raised the issue at a press conference."
-    publishedDateTime: 2020-11-17T01:36:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZwxSKo3RErg/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dr-scott-atlas-tweet-rise-up-michigan-governor-whitmer-joe-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30641ef-6df3-4cc6-97fb-f47ba35daa0d/da6ba733-6fcc-4921-951f-1ca4f2d004ed/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Jones, Yates, Becerra among names floated for Biden attorney general"
-    excerpt: "President-elect Joe Biden is considering several individuals to serve as the attorney general in his administration, including former Alabama Sen. Doug Jones, former Deputy Attorney General Sally Yates and California Attorney General Xavier Becerra, Fox News is told."
-    publishedDateTime: 2020-11-18T13:53:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names"
-    ampWebUrl: "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Liberal group calls key Biden hire a betrayal"
-    excerpt: "President-elect Joe Biden is getting some flak for one of his cabinet picks who will deal with climate issues, with one liberal group calling the choice a “betrayal” because of the appointee’s record receiving money from the oil and gas industry."
-    publishedDateTime: 2020-11-18T01:03:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wxC3rEd4xo/liberal-group-calls-key-biden-hire-a-betrayal"
-    ampWebUrl: "https://www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+  - title: "Catholics divided as bishops examine Biden's abortion stance"
+    excerpt: "Catholics split almost evenly in supporting Donald Trump or Joe Biden in the presidential election. Now they're sharply divided over a declaration by the head of the U.S. Conference of Catholic Bishops that the president-elect's support for abortion rights presents the church with a \"difficult and complex"
+    publishedDateTime: 2020-11-19T00:38:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQT3sYyvLco/catholics-divided-as-bishops-examine-bidens-abortion-stance"
+    ampWebUrl: "https://www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-divided-as-bishops-examine-bidens-abortion-stance.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322672454276.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322818833918.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Don Trump Jr. tests positive for COVID-19"
-    excerpt: "Donald Trump Jr. confirmed with Fox News Friday night that he tested positive for the coronavirus earlier this week and is now under quarantine."
-    publishedDateTime: 2020-11-20T23:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZMX428iCZbg/don-trump-jr-tests-positive-for-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/don-trump-jr-tests-positive-for-covid-19.amp"
+  - title: "Biden turns 78, will be oldest US president"
+    excerpt: "President-elect Joe Biden turned 78 on Friday. In exactly two months, he'll take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on racial injustice."
+    publishedDateTime: 2020-11-20T09:48:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MFaSevIpZo8/biden-turns-78-will-be-oldest-us-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321746591594.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Georgia recount formally requested by Trump campaign"
+    excerpt: "President Trump’s legal team Saturday formally requested a recount in Georgia -- a day after the state certified the election for President-elect Joe Biden."
+    publishedDateTime: 2020-11-22T06:19:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/6e26c1f6-AP20319621877550.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Live Updates: Biden gets green light to begin formal transition process"
     excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
@@ -527,21 +495,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
-    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
-    publishedDateTime: 2020-11-24T03:53:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
+  - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
+    excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "
+    publishedDateTime: 2020-11-19T00:02:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW49pO_2Yak/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wont-break-with-tradition-will-proceed-with-annual-turkey-pardon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b33d5c9-6607-4ab8-bfb8-6152a9e00754/51d36a08-79b4-4fc3-b161-51e90e4f3205/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign files appeal after Pennsylvania judge shoots down lawsuit"
+    excerpt: "President Trump’s legal team on Sunday filed an appeal to a federal judge’s ruling that struck down his campaign’s effort to block the certification of votes in Pennsylvania."
+    publishedDateTime: 2020-11-22T20:14:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Go4nq8a7seE/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump investigations will be used to 'satisfy' hard-left progressive base in Biden admin: Ben Domenech"
     excerpt: "In the next four years, Trump “investigations are going to be used to satisfy Joe Biden's hard-left progressive base,” the Federalist publisher Ben Domenech predicted Monday."
@@ -554,22 +538,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
-    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
-    publishedDateTime: 2020-11-15T18:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
@@ -591,6 +559,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "More GOP lawmakers call on Trump to begin presidential transition: 'It is time'"
+    excerpt: "A small but growing group of Republican lawmakers are calling on President Trump to begin the transition of power to President-elect Joe Biden, even as the incumbent refuses to concede and forges ahead with a series of legal challenges trying to overturn the results of the Nov. 3 election.  "
+    publishedDateTime: 2020-11-23T14:09:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gC0N5OZlgTw/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time"
+    ampWebUrl: "https://www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/more-gop-lawmakers-call-on-trump-to-begin-presidential-transition-it-is-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Possible Biden national security adviser pick tied Trump campaign to Russia in 2016 briefings with reporters"
     excerpt: "President-elect Joe Biden potential pick for national security adviser, Jake Sullivan, acknowledged to the House Intelligence Committee that he had told reporters in 2016 that then-candidate Donald Trump's campaign could have ties to Russia."
     publishedDateTime: 2020-11-23T16:03:30Z
@@ -604,38 +588,6 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Mitt Romney accuses Trump of trying to 'subvert' will of the people"
-    excerpt: "Follow for the latest updates on President Trump's legal fight over the 2020 election."
-    publishedDateTime: 2020-11-20T08:04:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNfuWTGcMRs/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-mitt-romney-accuses-trump-of-trying-to-subvert-the-will-of-the-people.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b07fbf9-f747-4615-8169-50562db72cdb/218acde3-1d04-49ce-9bb6-fa40ebdb3bba/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Wisconsin recounts begin in 2 Democratic counties at Trump request"
-    excerpt: "Follow for the latest updates on Trump's 2020 legal challenges"
-    publishedDateTime: 2020-11-21T07:44:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j2VVxPRK67w/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-wisconsin-begins-recount-in-2-democratic-counties-after-trump-request.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bbccafed-16c9-4435-93de-562383fc0ea6/994a4418-3a2f-450b-b128-b2ae669c184d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -671,51 +623,67 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden to likely visit Georgia, help Democrats in January Senate runoff"
-    excerpt: "President-elect Joe Biden will likely visit Georgia to boost campaign efforts for the two Democratic candidates in the January Senate runoff, according to his top aide."
-    publishedDateTime: 2020-11-23T04:13:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AEop6vFTOSw/live-updates-georgia-11-23-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-11-23-2020.amp"
+  - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
+    excerpt: "Follow for the latest developments on the 2020 election legal fight."
+    publishedDateTime: 2020-11-18T15:15:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AvV_Zvo9RxQ/live-updates-election-legal-fight-nov-18-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1dc6269f-e25b-4630-a5db-4d561bb72fe3/a14a44a4-3844-403a-95b3-9a09b13de519/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Pennsylvania court rejects Trump effort to block 9,000 late-arriving absentee ballots"
-    excerpt: "The latest updates on the Trump campaign's 2020 legal battle."
-    publishedDateTime: 2020-11-15T08:05:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xqILdCB5fkg/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pennsylvania-court-rejects-trump-effort-to-block-9000-late-arriving-absentee-ballots.amp"
+  - title: "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'"
+    excerpt: "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results."
+    publishedDateTime: 2020-11-20T19:44:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery"
+    ampWebUrl: "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0fb0da50-f3b6-4175-bf1a-a589a89046ea/d6bc5969-56c7-4af3-a3fd-6449fe84882c/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Family Business Faces Post-Election Reckoning"
-    excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
-    publishedDateTime: 2020-11-15T12:30:00Z
-    webUrl: "https://www.wsj.com/articles/trump-family-business-faces-post-election-reckoning-11605436201"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
+    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
+    publishedDateTime: 2020-11-20T22:50:00Z
+    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 160
+    images:
+      - url: "https://images.wsj.net/im-262788/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
+    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
+    publishedDateTime: 2020-11-13T02:04:00Z
+    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 150
     images:
-      - url: "https://images.wsj.net/im-255810/social"
+      - url: "https://images.wsj.net/im-258970/social"
         width: 1280
         height: 640
         isCached: true
@@ -799,22 +767,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
-    excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
-    publishedDateTime: 2020-11-17T14:51:00Z
-    webUrl: "https://www.wsj.com/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    ampWebUrl: "https://www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/voting-machine-supplier-criticized-by-trump-in-spotlight-on-election-integrity-11605624361"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-260465/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "GSA notifies Biden that Trump administration is ready to start transition process"
     excerpt: ""
     publishedDateTime: 2020-11-23T23:33:01Z
@@ -840,6 +792,86 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Joe Biden Names Senior White House Staff"
+    excerpt: "President-elect Joe Biden named a slate of key White House staff members as he continues to fill out his team before taking office in January."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-names-senior-white-house-staff-11605629103"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-261059/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Holds Lead in Georgia After Hand Recount"
+    excerpt: "President-elect Joe Biden remained ahead in Georgia after a hand recount of the state’s 5 million presidential votes, Georgia Secretary of State Brad Raffensperger said. Mr. Raffensperger still must certify the results,"
+    publishedDateTime: 2020-11-20T06:21:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=trending_now_pos5"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-262231/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Susan Rice ‘very open’ to joining Biden administration"
+    excerpt: "Susan Rice, former President Obama’s White House national security adviser, said Wednesday she is “very open” to joining the Biden administration as she praised President-elect Joe Biden and Vice President-elect Kamala Harris."
+    publishedDateTime: 2020-11-20T06:17:00Z
+    webUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-rice-very-open-to-joining-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75188fc4-a0ce-4dae-b7d4-a0d3cbebbc4f/443b5139-fead-4592-b1a9-0784af256204/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Federal Judge Dismisses Trump Campaign Lawsuit in Pennsylvania"
+    excerpt: "The lawsuit, which had sought to halt vote certification, was one of the last remaining legal avenues for the president’s campaign in the state."
+    publishedDateTime: 2020-11-22T04:28:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263331/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump campaign files petition for Georgia recount"
+    excerpt: "President Trump’s campaign announced Saturday that it has filed a petition demanding a recount in Georgia — a day after officials certified Joe Biden’s victory in the state."
+    publishedDateTime: 2020-11-22T10:34:00Z
+    webUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/"
+    ampWebUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/E5F4B63F-C065-4346-8049-42B88D89FB7F.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Will the Biden campaign take legal action to force transition process?"
     excerpt: "But at this point I will have confidence in the vaccine, and if -- if it WALLACE: Finally, and I need a quick answer here, the delayed transition - INGLESBY: Yeah. WALLACE: -- President-elect Biden said today that people may die because the Trump administration is not reading them in on vaccine distribution issues for a seamless turnover on January 20th."
     publishedDateTime: 2020-11-22T18:46:00Z
@@ -856,6 +888,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
+    excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
+    publishedDateTime: 2020-11-23T22:07:00Z
+    webUrl: "https://www.wsj.com/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-263840?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "GSA chief informs President-elect Biden that formal transition process can begin"
     excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
     publishedDateTime: 2020-11-24T08:20:00Z
@@ -871,6 +919,48 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9296518-0638-4026-ab46-7281db8578f7/70ab4285-1557-4909-8c07-e99220b6d3cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
+    excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
+    publishedDateTime: 2020-11-10T14:28:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/h0Q6kNeLacvLiLqou8ra"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 121
+    images:
+      - url: "https://images.wsj.net/im-257641?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Pennsylvania High Court Rules Against Trump Campaign in Philadelphia Election Observer Case"
+    excerpt: "The Pennsylvania Supreme Court on Tuesday overturned an appeals court ruling that required close-up access for election observers, a win for Philadelphia officials who had argued for pandemic accommodations and voter privacy."
+    publishedDateTime: 2020-11-17T22:32:00Z
+    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/WEGeWApHA9GHa4l9YjyD"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-256627?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Biden's Expanded-Map Strategy Carries Risk in Pennsylvania"
+    excerpt: "Vice President Joe Biden this week told reporters he hopes to carry Pennsylvania by the “grace of God” and called it a “big deal to me personally as well as politically.” Each question Wallace asked of President Trump was framed upon faulty assertions of untruth and sometimes Wallace actually argued with Trump before Trump's allotted 2 minutes were used."
+    publishedDateTime: 2020-10-29T14:24:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/29/bidens_expanded-map_strategy_carries_risk_in_pennsylvania_527858.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525533_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "CtYioldCN2IGOs3d9pouIHfPFKaS0cISCZnojnbEjwQlTFbqgvaFLCX6PxBubCwvJB7gqrIdvYhRE1qN+MARSbnXuZnFUzKOBG3ozAIHINYkV0N0BMJFljYfF/RZ8wlTxSsnZzJ+sqMjAzHWHBccFOYKSduLBeRv3Qvx2tk2KJ+QDcvpE1jx8joDSygI3BIz7R98OITUdCCLab1KD3Zuo702/YmkWNmYmaB58RzkF/KdoCjeKWllsDgS0Ma2ul04KIgUXbOmwdidHPm8qF+m7YVQkkQtjBg3kZJhdgPwLW/Eud0PceU7KcFkaWNuEfLrqHJx1lZBgb4J26t6t0U0n2Tyox3R1qW3Tx3lAf8R7gk=;BSSgWU/XNxcL5HYJHCUG3w=="

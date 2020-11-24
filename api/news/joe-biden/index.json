@@ -223,7 +223,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1220,
+      "heat": 1240,
       "tags": null,
       "images": [
         {
@@ -701,7 +701,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/17/election-2020-updates-joe-biden-donald-trump/6321470002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 936,
+      "heat": 976,
       "tags": null,
       "images": [
         {
@@ -1266,63 +1266,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-12-flashback-bidens-chief-of-staff-pick-admits-obama-admin-did-everything-wrong-with-h1n1.md",
-      "title": "FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1",
-      "excerpt": "The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
-      "originalUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/155cc3c3-e6cd-4d92-8fd5-59afb1417b81/cb3148a7-2aea-4e6f-ac4f-518d7f99bcfb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1.amp",
-      "publishedDateTime": "2020-11-11T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-the-health-202-obamacare-may-be-safer-than-ever-but-biden-will-struggle-to-expand-it.md",
       "title": "The Health 202: Obamacare may be safer than ever. But Biden will struggle to expand it.",
       "excerpt": "Obamacare appears to be on stable ground, after several pivotal Supreme Court justices hinted yesterday they won’t strike it down. Follow the latest on Election 2020 Yet that ground is also politically dry for further attempts by President-elect Joe Biden to expand the law,",
@@ -1539,7 +1482,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-idUSKBN27M0U3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 16061,
+      "heat": 16101,
       "tags": null,
       "images": [
         {
@@ -1581,6 +1524,58 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-09-former-president-george-w-bush-extends-warm-congratulations-to-president-elect-joe-biden.md",
+      "title": "Former President George W. Bush extends 'warm congratulations' to President-elect Joe Biden",
+      "excerpt": "\"I just talked to the President-elect of the United States, Joe Biden,\" former President Bush said, adding that he extended \"warm congratulations.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/08/george-w-bush-offers-congratulations-president-elect-joe-biden/6204399002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/07/USAT/bc96049b-8aec-468f-b955-e7b1af5bd757-AFP_1W10ON.jpg?auto=webp&crop=2956,1663,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6204399002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6204399002",
+      "publishedDateTime": "2020-11-08T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-election-manual-recount-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
 type: article
 quality: 175
-heat: 255
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Live Updates: Biden's lead grows in Pennsylvania"
+    excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
+    publishedDateTime: 2020-11-12T05:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bgRCnM7RYaQ/live-updates-bidens-lead-grows-in-pennslvania"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-bidens-lead-grows-in-pennslvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden starts staffing up with senior White House announcements"
     excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
     publishedDateTime: 2020-11-17T16:15:20Z
@@ -46,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Liberal group calls key Biden hire a betrayal"
+    excerpt: "President-elect Joe Biden is getting some flak for one of his cabinet picks who will deal with climate issues, with one liberal group calling the choice a “betrayal” because of the appointee’s record receiving money from the oil and gas industry."
+    publishedDateTime: 2020-11-18T01:03:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wxC3rEd4xo/liberal-group-calls-key-biden-hire-a-betrayal"
+    ampWebUrl: "https://www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322672454276.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
     excerpt: "Nearly three-quarters of regional voters turned out for Biden."
@@ -90,6 +122,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 46
+  - title: "It Would Be Madness for Biden to Return to Iran Nuclear Deal"
+    excerpt: "This week's news that Iran has amassed a huge stockpile of enriched uranium beyond the limits it agreed to makes it all the more absurd that President-elect Joe Biden wishes to return the United States to the disastrous Iran nuclear deal."
+    publishedDateTime: 2020-11-13T12:25:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/13/it_would_be_madness_for_biden_to_return_to_iran_nuclear_deal_529178.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ZPqdY3FXcqvQfc7lNGNSDBLeU6FcaB8KqpULvZ6zVQPUgjbkFYKbjA6QhFLZtEeV9ValHQ+sA96xuUt11iI6nOtKvLdgQCtbUzsdPLCicxYi8/35sCnOHVSyOXgwypFbc2Y/Wjw9Dd4ef+K5Hnw9vTXIhTGVIZV6381VHMYiXRvAj2m3zMji1sPN/KYP2cdbx9ctJcbESk1u/7/mEwbdRGUvSdWflcqIXbrmD4Gr+KzdAH/vR9RLlDbT2nk6T2nrdGus+v5zqnKHvVTu2J4tVuy6tOIS6OhSRzjM3Pyn2U1hXvdUDiFttPqPzn9Ip9sKIWxJCWB+4NOoBpgTNqspxNojty/GUpgPnz/0ssqEK6s=;JFC2V558uexdBntC1j+KgA=="
 ---

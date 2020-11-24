@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifie
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
 type: article
 quality: 140
-heat: 1220
+heat: 1240
 published: true
 
 provider:
@@ -403,6 +403,22 @@ related:
     excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
     publishedDateTime: 2020-11-24T14:28:00Z
     webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd15df8f0868ed26c11714"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/b6a0aee0c0f376cadca09ab0427c121490235af5/0_0_4969_3392/master/4969.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bbdfab7ba0823cd4e6cbb8d2518a5276"
+        width: 600
+        height: 410
+        isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
+    publishedDateTime: 2020-11-24T16:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd369a8f0872410b29d360"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article

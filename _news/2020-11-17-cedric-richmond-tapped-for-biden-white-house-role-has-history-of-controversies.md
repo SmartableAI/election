@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/cedric-richmond-biden-white-house-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cedric-richmond-biden-white-house-controversies.amp"
 type: article
 quality: 170
-heat: 210
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden transition official asks progressives to wait 'before they pass judgment’"
+    excerpt: "Amid criticism from progressive groups over President-elect Joe Biden’s choices so far for top White House officials, a leading Biden transition official on Friday encouraged people to wait to see the full picture of the team the president-elect names and highlighted that the Biden administration would"
+    publishedDateTime: 2020-11-20T20:16:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says there should be 'immediate' congressional action on student loan forgiveness"
+    excerpt: "President-elect Joe Biden said there should be “immediate” congressional action on student loans, after Democrats suggested he should sign an executive order to forgive student debt."
+    publishedDateTime: 2020-11-17T19:51:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnF61Mn_YU/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-should-be-immediate-congressional-action-on-student-loan-forgiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Progressive group slams two of Biden's White House appointees as 'corporate-friendly insiders'"
     excerpt: "Progressive Democrats slammed President-elect Joe Biden’s appointments of Rep. Cedric Richmond and Steve Ricchetti to White House posts, calling them “unacceptable.”"
     publishedDateTime: 2020-11-17T17:50:30Z
@@ -47,21 +79,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "A sign of America’s future under Biden? This transition team member has questioned the First Amendment"
-    excerpt: "The leader of President-elect Joe Biden’s transition team for federal media outlets has, in the past, publicly endorsed both weakening the First Amendment and governments' use of propaganda on their own citizens."
-    publishedDateTime: 2020-11-19T23:53:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QN3cB4B5N9M/stengel-biden-transition-first-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stengel-biden-transition-first-amendment.amp"
+  - title: "McEnany rips 'inexcusable' 2016 transition, says GSA certification for Biden will come 'at the right moment'"
+    excerpt: "White House Press Secretary Kayleigh McEnany on Friday said the General Services Administration will certify Joe Biden’s election at the “right moment,” while slamming the 2016 transition process from Barack Obama to Donald Trump as “inexcusable.”"
+    publishedDateTime: 2020-11-20T18:19:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Richard-Stengel-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "/SVk2T6aCDGWkycAMFMcZDUdUEzyp7G59YbLiQKk8sI0JIF6xfNWMAMiDdpfh6BEaDaBKpR3oreYb2js113dUm9i9a9aA9EeZZhRIK2OSgxBCqcyf0AD9kuR678KxxhJ0o4zS2EWDpOet7a6lWwk4lpvxqRHhIzDQJejrdrrxz8jpAuhj0DchfYIFy3JhkG0Gc1yRY4ZqSbW6dsG0Wwmi/Q4YtR9/6mbGnDdQ6Ntr6cG4Kyv8j7FfoejNIBSuqGTPYPBIhtq0qMQH5Tc+nfITKL3mQrgcG2KI5tlrdMdsdh/HBpRM0gSIVNrDJ0FfqbFMvVEGgB/IwUrpc6/DiiN+gEYkLics4tUSQpqwKhOLdY=;d3bZO0jsrZ4Yf+f1SoEjGw=="

@@ -14,7 +14,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -537,6 +537,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.md",
+      "title": "Biden transition reveals 'agency review teams' amid spat over transfer of power",
+      "excerpt": "The teams are meant to ensure a smooth transfer to the incoming presidential administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp",
+      "publishedDateTime": "2020-11-10T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-pompeo-rejects-criticism-of-second-trump-administration-remark-says-us-has-one-president-at-a-time.md",
       "title": "Pompeo rejects criticism of 'second Trump administration' remark, says US has 'one president ... at a time'",
       "excerpt": "Secretary of State Mike Pompeo has rejected criticism of remarks he made Tuesday in which he said that the State Department would ensure \"a smooth transition to a second Trump administration.\"",
@@ -1031,62 +1087,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-10-cindy-mccain-joins-joe-biden-transition-team-advisory-board.md",
-      "title": "Cindy McCain joins Joe Biden transition team advisory board",
-      "excerpt": "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp",
-      "publishedDateTime": "2020-11-10T08:02:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-trump-jr-and-kimberly-guilfoyle-make-moves-to-expand-rnc-influence-and-possibly-takeover-sources-say.md",
       "title": "Trump Jr. and Kimberly Guilfoyle make moves to expand RNC influence and possibly takeover, sources say",
       "excerpt": "Donald Trump Jr. and Kimberly Guilfoyle are making moves to expand their influence at the Republican National Committee, three GOP sources, including advisers to the President tell CNN. Some sources say they may seek to take over the party structure themselves.\n    \n",
@@ -1155,7 +1155,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {

@@ -42,22 +42,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign loses Pennsylvania Supreme Court challenge to Philadelphia election observers"
-    excerpt: "The Pennyslvania Supreme Court ruled Tuesday that the Philadelphia Board of Elections acted within its authority in regulating the positioning of election observers, striking another blow to the Trump campaign's post-election legal challenges."
-    publishedDateTime: 2020-11-17T22:41:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S03QHVqS180/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-supreme-court-rules-philadelphia-followed-law-on-election-observers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/831ef265-7f02-402c-a3f9-0832dfdcb6b8/2b2ff70c-6ff5-4b80-a344-22ea34978db2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden honors veterans with stop at Philadelphia memorial"
     excerpt: "President-elect Joe Biden marked Veterans Day by honoring America’s veterans during a stop at the Korean War Memorial in Philadelphia."
     publishedDateTime: 2020-11-11T17:18:22Z
@@ -89,22 +73,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden turns 78, will be oldest US president"
-    excerpt: "President-elect Joe Biden turned 78 on Friday. In exactly two months, he'll take the reins of a politically fractured nation facing the worst public health crisis in a century, high unemployment and a reckoning on racial injustice."
-    publishedDateTime: 2020-11-20T09:48:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MFaSevIpZo8/biden-turns-78-will-be-oldest-us-president"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-turns-78-will-be-oldest-us-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321746591594.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "House leaders urge Democrats not to join team Biden to maintain majority"
     excerpt: "Confronted with a shrunken majority, House leaders are discouraging fellow Democrats from taking jobs with the incoming Biden administration — out of concern that Republicans could nab any vacated seats, sources told The Post on Sunday."
@@ -170,20 +138,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Criticizes Philadelphia GOP Election Official Over Ballots"
-    excerpt: "A Republican election official in Philadelphia was a target of President Trump’s complaints about the voting process on Twitter on Wednesday. In a tweet, Mr. Trump singled out “a guy named Al Schmidt,"
-    publishedDateTime: 2020-11-12T16:22:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/VCGCCgJJuffXidFoYcc3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 130
-    images:
-      - url: "https://images.wsj.net/im-258844?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Biden says 'no excuse' for looting in Philadelphia after Black man killed by police"
     excerpt: "Democratic presidential nominee Joe Biden says there’s “no excuse whatsoever” for the ongoing looting and violence in Philadelphia."
     publishedDateTime: 2020-10-28T18:57:00Z
@@ -199,20 +153,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20302623949679.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Pennsylvania High Court Rules Against Trump Campaign in Philadelphia Election Observer Case"
-    excerpt: "The Pennsylvania Supreme Court on Tuesday overturned an appeals court ruling that required close-up access for election observers, a win for Philadelphia officials who had argued for pandemic accommodations and voter privacy."
-    publishedDateTime: 2020-11-17T22:32:00Z
-    webUrl: "https://www.wsj.com/livecoverage/latest-updates-biden-trump-election-2020/card/WEGeWApHA9GHa4l9YjyD"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-256627?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
     excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"

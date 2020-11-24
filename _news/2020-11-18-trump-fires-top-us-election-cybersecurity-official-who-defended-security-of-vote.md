@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "For President Trump, defections and gaffes hamper 2020 election court challenges"
+    excerpt: "Over the three weeks since the election, President Trump's legal bid to challenge the results has unfolded in unpredictable ways with a revolving cast of characters."
+    publishedDateTime: 2020-11-24T15:11:00Z
+    webUrl: "https://abcnews.go.com/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-defections-gaffes-hamper-2020-election-court/story?id=74367708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/sidney-pow_hpMain_20201122-211137_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Latino voters who fled dictatorships fear election was stolen from President Trump"
     excerpt: "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence."
     publishedDateTime: 2020-11-19T00:34:00Z

@@ -31,101 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden picks Blinken, Mayorkas, Sullivan for key Cabinet positions"
-    excerpt: "President-elect Joe Biden on Monday announced a number of key Cabinet appointments, including Antony Blinken as secretary of state, Alejandro Mayorkas as secretary of homeland security, and Avril Haines to serve as the first woman to lead the intelligence community, among other positions."
-    publishedDateTime: 2020-11-23T17:28:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
+  - title: "Jones, Yates, Becerra among names floated for Biden attorney general"
+    excerpt: "President-elect Joe Biden is considering several individuals to serve as the attorney general in his administration, including former Alabama Sen. Doug Jones, former Deputy Attorney General Sally Yates and California Attorney General Xavier Becerra, Fox News is told."
+    publishedDateTime: 2020-11-18T13:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QLNEDa-nrMM/jones-yates-becerra-biden-attorney-general-names"
+    ampWebUrl: "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Mattis says he hopes Joe Biden takes 'America First' out of national security strategy"
+    excerpt: "Former Defense Secretary Jim Mattis said in an op-ed on Monday that he hopes President-elect Joe Biden will take “America First” out of the national security strategy for his incoming administration."
+    publishedDateTime: 2020-11-23T21:38:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EOi-_U2Odcw/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy"
+    ampWebUrl: "https://www.foxnews.com/politics/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mattis-says-he-hopes-joe-biden-takes-america-first-out-of-national-security-strategy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's secretary of state pick praised by Bernie Sanders' advisers"
-    excerpt: "Two advisers close to Sen. Bernie Sanders have taken to Twitter to praise President-elect Joe Biden's secretary of state pick, Antony Blinken, following the administration's official announcement on Monday."
-    publishedDateTime: 2020-11-24T02:48:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ea_3l9EetB4/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20328073654227.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's national security adviser pick played key role in Clinton email scandal"
-    excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."
-    publishedDateTime: 2020-11-23T21:16:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XH4uG_Yy7ZE/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-jake-sullivan-clinton-email-scandal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "US should encourage China's rise, Biden national security pick Jake Sullivan says"
-    excerpt: "Sullivan served as an adviser to Biden during his vice presidency."
-    publishedDateTime: 2020-11-24T03:06:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
-    excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"
-    publishedDateTime: 2020-11-24T03:29:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ilKFizTMeyU/rashida-tlaib-biden-antony-blinken"
-    ampWebUrl: "https://www.foxnews.com/politics/rashida-tlaib-biden-antony-blinken.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rashida-tlaib-biden-antony-blinken.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "After joining Burisma, Hunter Biden requested meetings with Antony Blinken: State Dept. emails"
-    excerpt: "New Secretary of State pick Antony Blinken has a long-standing relationship with President-elect Joe Biden going back to their days in the Obama administration, but State Department emails revealed that during that time Blinken appeared to have made a connection with Hunter Biden as well."
-    publishedDateTime: 2020-11-24T14:40:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSoIZBwsl-c/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken"
-    ampWebUrl: "https://www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
+  - title: "Xavier Becerra, possible Biden AG pick, once said illegal immigration should be decriminalized"
+    excerpt: "California Attorney General Xavier Becerra, who Fox News is told is being considered to serve as attorney general in the upcoming Biden administration, once said that illegal immigration should be decriminalized -- one of a number of radical stances he has taken on the subject."
+    publishedDateTime: 2020-11-18T16:21:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-NQdNI0lWI8/xavier-becerra-biden-ag-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-biden-ag-illegal-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Antony-Blinken-Hunter-Biden-Reuters-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
+    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
+    publishedDateTime: 2020-11-15T21:00:00Z
+    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-260065/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Picks Antony Blinken for Secretary of State"
+    excerpt: "Blinken served as Biden’s top foreign-policy adviser during his presidential campaign after roles in the Obama administration."
+    publishedDateTime: 2020-11-23T09:22:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-picks-antony-blinken-for-secretary-of-state-11606100542"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-263491/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "3M30/JxSAkUT2fuAgETZDN9hwkbumSgklOwlvz3Es6n6WnbJO9IXEMLVRnwNyvS79nDU+MX1Fkchk4vUCJ+QdMphjuN3yvTDmjAj2GZp33krjblOJDoQj0aZHGq15HzdERTA92Peio5kNAa89FSPoQCh6xsNwM3sVQAmm7FZcAekihJUbFs9/3NXuf+RzMEqTJWrri9DMkA2wenTlz/ORitiPPfP02Nlte9BZJ4a7H/gHy6iaYjph8OC/GKWxRaCdTGAgsJaMdHpl3H1ZLbCzZMixBKDJd6vj1nuEFTlnugAejW+Sg+t48fZD4+Y8hpefjZhC1WQN4CYV52mrWD12+GXHq89Np2Y5WzE5eAK9RM=;EZLRc95FdrBQE7yyz90+vA=="

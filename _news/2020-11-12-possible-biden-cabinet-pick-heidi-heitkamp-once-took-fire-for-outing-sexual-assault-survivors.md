@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/possible-biden-cabinet-pick-heidi-heitkamp-once-took-fire-for-outing-sexual-assault-survivors.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden Won't Be Able to Put Out the Partisan Fires He Stoked"
+    excerpt: "Throughout his campaign, presumptive President-elect Joe Biden said that there were no red states, no blue states, just the United States. Read Full Article »"
+    publishedDateTime: 2020-11-12T20:28:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/12/biden_wont_be_able_to_put_out_the_partisan_fires_he_stoked_529142.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "pwwzp+c02L9JA7SVEZ07geManz5dBP3dvZpe99amKKonlzdV7Hc4DrLHevUFr7eF0/33JQyhNTAoIqZls5c4AWSIKpGofC8LoOR3966B/GWlqcGPo59MqaITvvszS2ZK4rUxi3U9wswJLil41SceYMBufhokXQiBzadysOLLaIk8fbUKYcOoRHa3PuszFP76UDTOzfPHoSQTFj0/BjBW+oNk/vhM8W+fk1O9WZQGNmC//1sxpU5ayMNEnklRrPZWSrlLyrT9BLDwepWF5Kmy+yCUvz9VxMy1k40s5RrvUYaqwLEMKpTHB4WR89pYyb4m+CD48U4uwKQRmzTRUUIB+hJ3RRSigEAewDP5+nQCGc8=;nqSmsu0EF2DGshi+xcw86Q=="
 ---

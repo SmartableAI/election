@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-pennsylvania-certifies-election-results-for-biden-despite-trump-legal-challenges.md",
+      "title": "Pennsylvania certifies election results for Biden despite Trump legal challenges",
+      "excerpt": "The Pennsylvania State Department certified the results of the presidential election in favor of President-elect Joe Biden and Vice President-elect Kamala Harris, Gov. Tom Wolf said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vgaEb92DpEg/pennsylvania-certifies-election-results-biden-trump-legal-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1380,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp",
+      "publishedDateTime": "2020-11-24T08:21:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-joe-concha-media-coverage-of-biden-transition-has-been-just-like-the-campaign-no-scrutiny.md",
+      "title": "Joe Concha: Media coverage of Biden transition has been just like the campaign, 'no scrutiny'",
+      "excerpt": "President-elect Joe Biden’s transition period will be fawned over by the media compared with President Trump, Fox News contributor Joe Concha said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mYW08oLSRtA/joe-concha-coverage-biden-transition-just-like-campaign-no-questions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mYW08oLSRtA/joe-concha-coverage-biden-transition-just-like-campaign-no-questions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-concha-coverage-biden-transition-just-like-campaign-no-questions.amp",
+      "publishedDateTime": "2020-11-24T07:43:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-an-anonymous-senior-trump-campaign-advisor-said-trump-basically-just-conceded-by-recommending-that-the-gsa-start-the-biden-harris-transition.md",
       "title": "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition",
       "excerpt": "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition.",
@@ -52,6 +164,63 @@
         "Election",
         "Donald Trump",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-can-manny-diaz-resurrect-democrats-poll-majority-of-gop-would-support-trump-in-2024-florida-tops-18000-covid-19-deaths.md",
+      "title": "Can Manny Diaz resurrect Democrats? — Poll: Majority of GOP would support Trump in 2024 — Florida tops 18,000 Covid-19 deaths",
+      "excerpt": "Is this the answer that Florida Democrats have been hoping for? Jumping into the fray — Former Miami Mayor Manny Diaz, who earned a reputation as a turnaround artist in his home city, is campaigning for an even tougher job: leading the floundering Florida Democratic Party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2020/11/24/can-manny-diaz-resurrect-democrats-490978",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -388,7 +557,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -444,7 +613,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -718,7 +887,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -814,6 +983,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-23-meet-the-rapid-response-director-top-biden-aide-on-how-the-2020-campaign-was-unlike-any-other.md",
+      "title": "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other",
+      "excerpt": "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
+      "publishedDateTime": "2020-11-23T04:57:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state.md",
       "title": "Joe Biden to nominate Antony Blinken as US secretary of state",
       "excerpt": "Veteran diplomat may be named as early as Tuesday, with Linda Thomas-Greenfield to be ambassador to UN",
@@ -866,25 +1091,25 @@
       ]
     },
     {
-      "path": "_news/2020-11-23-rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.md",
-      "title": "Rudy Giuliani: Sidney Powell not part of Trump’s legal team",
-      "excerpt": "President Donald Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
+      "path": "_news/2020-11-23-live-updates-giuliani-says-powell-not-part-of-trumps-legal-team-after-election-fraud-claims.md",
+      "title": "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims",
+      "excerpt": "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GGqgSrgNypg/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 299,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20324809203443.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -892,9 +1117,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-sidney-powell-not-part-of-trumps-legal-team.amp",
-      "publishedDateTime": "2020-11-22T17:25:58-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp",
+      "publishedDateTime": "2020-11-22T20:13:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -974,6 +1199,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-22-saudi-un-ambassador-nobody-naive-enough-to-rejoin-iran-nuclear-deal-including-biden-administration.md",
+      "title": "Saudi UN ambassador: Nobody ‘naive enough’ to rejoin Iran nuclear deal – including Biden administration",
+      "excerpt": "Saudi Arabia’s U.N. envoy on Sunday dismissed the idea that the United States would re-enter the Iran nuclear deal under a Joe Biden administration, saying nobody would be “naive enough” to go back to a deal that has “proven its failure to the entire world.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pZA84hVOLQ8/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pZA84hVOLQ8/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20326568855426-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
+      "publishedDateTime": "2020-11-22T14:12:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-biden-expected-to-make-trip-to-georgia-to-stump-for-ossoff-warnock.md",
       "title": "Biden expected to make trip to Georgia to stump for Ossoff, Warnock",
       "excerpt": "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation.",
@@ -986,7 +1267,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1030,23 +1311,23 @@
       ]
     },
     {
-      "path": "_news/2020-11-22-larry-hogan-to-trump-stop-golfing-and-concede-the-election.md",
-      "title": "Larry Hogan to Trump: 'Stop golfing and concede' the election",
-      "excerpt": "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election.",
+      "path": "_news/2020-11-22-biden-had-been-getting-intelligence-briefings-contrary-to-what-transition-team-says-nunes.md",
+      "title": "Biden 'had been getting' intelligence briefings, contrary to what transition team says: Nunes",
+      "excerpt": "President-elect Joe Biden “had been getting” intelligence briefings contrary to what his transition team claims, House Intelligence Committee ranking member Devin Nunes, R-Calif., told “Sunday Morning Futures” in an exclusive interview.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TuT50yYk2bo/biden-transition-intelligence-briefings-devin-nunes",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 390,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -1056,285 +1337,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
-      "publishedDateTime": "2020-11-22T12:14:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
-      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
-      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
-      "publishedDateTime": "2020-11-22T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-chris-christie-calls-trumps-legal-team-a-national-embarrassment.md",
-      "title": "Chris Christie calls Trump's legal team a 'national embarrassment' ",
-      "excerpt": "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
-      "publishedDateTime": "2020-11-22T10:26:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-dershowitz-trump-has-constitutional-paths-to-pursue-in-court-cases-will-likely-come-up-short.md",
-      "title": "Dershowitz: Trump has 'constitutional paths' to pursue in court cases, will likely come up short",
-      "excerpt": "Harvard Law Professor Emeritus Alan Dershowitz said Sunday that while President Trump has a number of legal theories he can pursue in his efforts to swing the 2020 election result in his favor, it does not appear likely that these efforts will be successful.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pyro-gNbmM/dershowitz-trump-election-legal-fight-sunday-morning-futures",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pyro-gNbmM/dershowitz-trump-election-legal-fight-sunday-morning-futures",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8599fc59-b858-4ffc-b32a-9779164526d9/33dd0f37-58be-4936-9065-45645d8b4c42/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dershowitz-trump-election-legal-fight-sunday-morning-futures.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-election-legal-fight-sunday-morning-futures.amp",
-      "publishedDateTime": "2020-11-22T09:34:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-trump-rails-against-paris-climate-accord-in-virtual-g20-event.md",
-      "title": "Trump rails against Paris climate accord in virtual G20 event",
-      "excerpt": "President Donald Trump railed against the Paris climate accord and touted American oil and natural gas production during a virtual session focused on safeguarding the environment on the final day of the Group of 20 summit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121020808-01-donald-trump-1120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
-      "publishedDateTime": "2020-11-22T09:30:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.md",
-      "title": "LIVE UPDATES: Trump criticizes Biden forming Cabinet amid election legal challenges",
-      "excerpt": "Follow for the latest updates on the 2020 election and transition.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs3o2ZWLLek/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fs3o2ZWLLek/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb1aa8f3-0458-4a03-be2d-54c95d1ecb93/2e7295ff-211b-4097-a629-4eb9be3afbb3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-biden-forming-cabinet-amid-election-legal-challenges.amp",
-      "publishedDateTime": "2020-11-21T23:00:59-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-intelligence-briefings-devin-nunes.amp",
+      "publishedDateTime": "2020-11-22T12:19:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,282 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-22-larry-hogan-to-trump-stop-golfing-and-concede-the-election.md",
+      "title": "Larry Hogan to Trump: 'Stop golfing and concede' the election",
+      "excerpt": "Maryland Gov. Larry Hogan tore into President Trump on Sunday, telling the current White House resident to get off the golf course and concede to losing the election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gIIqcM86FI8/larry-hogan-trump-stop-golfing-concede-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 390,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp",
+      "publishedDateTime": "2020-11-22T12:14:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-stephen-moore-says-that-trump-will-leave-office-triumphant-comparing-him-to-winston-churchill.md",
+      "title": "Stephen Moore says that Trump will leave office 'triumphant,' comparing him to Winston Churchill",
+      "excerpt": "\"Sometimes I think he's like Winston Churchill,\" Moore said of President Trump who took offense to similar comparisons made in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "originalUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbab1dc50e71a0011556b3f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stephen-moore-economist-donald-trump-presidency-coronavirus-vaccine-election-2020-11?amp",
+      "publishedDateTime": "2020-11-22T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-chris-christie-calls-trumps-legal-team-a-national-embarrassment.md",
+      "title": "Chris Christie calls Trump's legal team a 'national embarrassment' ",
+      "excerpt": "A staunch ally of Donald Trump said Sunday it was time for the President to end his futile gambit to overturn the results of the election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwx-NTHUpCA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003121933-chris-christie-0927-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/chris-christie-donald-trump-election/index.html",
+      "publishedDateTime": "2020-11-22T10:26:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-dershowitz-trump-has-constitutional-paths-to-pursue-in-court-cases-will-likely-come-up-short.md",
+      "title": "Dershowitz: Trump has 'constitutional paths' to pursue in court cases, will likely come up short",
+      "excerpt": "Harvard Law Professor Emeritus Alan Dershowitz said Sunday that while President Trump has a number of legal theories he can pursue in his efforts to swing the 2020 election result in his favor, it does not appear likely that these efforts will be successful.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pyro-gNbmM/dershowitz-trump-election-legal-fight-sunday-morning-futures",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9pyro-gNbmM/dershowitz-trump-election-legal-fight-sunday-morning-futures",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8599fc59-b858-4ffc-b32a-9779164526d9/33dd0f37-58be-4936-9065-45645d8b4c42/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dershowitz-trump-election-legal-fight-sunday-morning-futures.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-election-legal-fight-sunday-morning-futures.amp",
+      "publishedDateTime": "2020-11-22T09:34:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-trump-rails-against-paris-climate-accord-in-virtual-g20-event.md",
+      "title": "Trump rails against Paris climate accord in virtual G20 event",
+      "excerpt": "President Donald Trump railed against the Paris climate accord and touted American oil and natural gas production during a virtual session focused on safeguarding the environment on the final day of the Group of 20 summit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1UHhTt-FW3M/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121020808-01-donald-trump-1120-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/trump-paris-climate-accord-g20/index.html",
+      "publishedDateTime": "2020-11-22T09:30:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-trump-campaign-requests-georgia-recount-thats-unlikely-to-change-his-loss-in-the-state.md",
       "title": "Trump campaign requests Georgia recount that's unlikely to change his loss in the state",
       "excerpt": "Georgia will conduct another recount of its presidential ballots following a Trump campaign request Saturday, but the recount is extremely unlikely to change his loss in the state.\n    \n",
@@ -498,7 +774,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1220,
+      "heat": 1240,
       "tags": null,
       "images": [
         {
@@ -594,23 +870,23 @@
       ]
     },
     {
-      "path": "_news/2020-11-21-some-catholics-sounding-alarm-about-biden-administration-conflicts-with-moral-teachings.md",
-      "title": "Some Catholics sounding alarm about Biden administration, conflicts with moral teachings",
-      "excerpt": "Some Catholic groups and leaders are warning that President-elect Biden would, despite being a member of the faith, enact harmful policies and create confusion about church teachings.",
+      "path": "_news/2020-11-21-biden-taps-facebook-executive-for-white-house-role-as-big-tech-infiltrates-transition.md",
+      "title": "Biden taps Facebook executive for White House role as big tech infiltrates transition",
+      "excerpt": "Some of Biden's full-time staffers, as well as transition team members, have ties to Silicon Valley.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDmPE_w-QKg/catholics-warn-biden-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BDmPE_w-QKg/catholics-warn-biden-administration",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 206,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -620,9 +896,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/catholics-warn-biden-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholics-warn-biden-administration.amp",
-      "publishedDateTime": "2020-11-20T17:55:14-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-big-tech-transition-team.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-big-tech-transition-team.amp",
+      "publishedDateTime": "2020-11-20T17:57:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -867,23 +1143,23 @@
       ]
     },
     {
-      "path": "_news/2020-11-21-biden-tells-pelosi-and-schumer-mi-casa-you-casa.md",
-      "title": "Biden tells Pelosi and Schumer ‘mi casa, you casa’",
-      "excerpt": "President-elect Joe Biden is urging Congress to quickly pass a COVID relief amid a new surge in the coronavirus pandemic, according to a top Biden transition official.",
+      "path": "_news/2020-11-20-biden-transition-official-asks-progressives-to-wait-before-they-pass-judgment.md",
+      "title": "Biden transition official asks progressives to wait 'before they pass judgment’",
+      "excerpt": "Amid criticism from progressive groups over President-elect Joe Biden’s choices so far for top White House officials, a leading Biden transition official on Friday encouraged people to wait to see the full picture of the team the president-elect names and highlighted that the Biden administration would",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yYitcmc6D5Q/biden-tells-pelosi-and-schumer-mi-casa-you-casa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yYitcmc6D5Q/biden-tells-pelosi-and-schumer-mi-casa-you-casa",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 251,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1",
           "width": 340,
           "height": 340,
           "title": null,
@@ -893,65 +1169,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-pelosi-and-schumer-mi-casa-you-casa.amp",
-      "publishedDateTime": "2020-11-20T16:13:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-former-gop-sen-corker-slams-trump-legal-challenges-calls-on-republicans-to-challenge-demagoguery.md",
-      "title": "Former GOP Sen. Corker slams Trump legal challenges, calls on Republicans to 'challenge demagoguery'",
-      "excerpt": "Former Tennessee Sen. Bob Corker broke with the leader of his party and called on fellow Republicans to “challenge demagoguery and patently false statements” in President Trump's legal pursuit to overturn election results.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pRomY7sQj7I/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/12/24/694940094001_5983240385001_5983248687001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corker-slams-trump-legal-challenges-republicans-challenge-demagoguery.amp",
-      "publishedDateTime": "2020-11-20T11:44:07-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp",
+      "publishedDateTime": "2020-11-20T12:16:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1074,62 +1294,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-20-mcenany-rips-inexcusable-2016-transition-says-gsa-certification-for-biden-will-come-at-the-right-moment.md",
-      "title": "McEnany rips 'inexcusable' 2016 transition, says GSA certification for Biden will come 'at the right moment'",
-      "excerpt": "White House Press Secretary Kayleigh McEnany on Friday said the General Services Administration will certify Joe Biden’s election at the “right moment,” while slamming the 2016 transition process from Barack Obama to Donald Trump as “inexcusable.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hQKQosoj0Zo/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-2016-trump-transition-inexcusable-gsa-certification-biden.amp",
-      "publishedDateTime": "2020-11-20T10:19:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-21-trump-influence-seen-in-deadlock-of-michigan-election-board.md",
       "title": "Trump influence seen in deadlock of Michigan election board",
       "excerpt": "President Donald Trump's efforts to sow doubt about the election seem to have played a role in a move by two Michigan Republicans to block certification of election results from Detroit",
@@ -1179,170 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-the-latest-romney-slams-trump-efforts-as-undemocratic.md",
-      "title": "The Latest: Romney slams Trump efforts as 'undemocratic'",
-      "excerpt": "Two Republican senators are criticizing President Donald Trump and his team for their efforts to pressure state and local election officials to overturn President-elect Joe Biden’s victories in severa",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_07a8807fdbb448b98d57c9140be12ac8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pelosi-schumer-delaware-biden-74303461",
-      "publishedDateTime": "2020-11-20T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-trump-calls-romney-a-rino-after-gop-senator-targets-presidents-undemocratic-action.md",
-      "title": "Trump calls Romney a 'RINO' after GOP senator targets president's 'undemocratic action'",
-      "excerpt": "President Trump took aim Friday at one of his most vocal Republican critics – Sen. Mitt Romney – calling the him a “RINO.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/panqQpDChiA/trump-romney-rino-president-undemocratic-action",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-romney-rino-president-undemocratic-action.amp",
-      "publishedDateTime": "2020-11-20T08:30:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-taps-several-long-time-aides-for-white-house-roles.md",
-      "title": "Biden taps several long-time aides for White House roles ",
-      "excerpt": "President-elect Joe Biden has tapped Louisa Terrell, a long-time aide and Capitol Hill veteran, as his director of legislative affairs -- a role that means she'll be in charge of shepherding Biden's agenda through what could be a divided Congress.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 635,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html",
-      "publishedDateTime": "2020-11-20T08:06:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

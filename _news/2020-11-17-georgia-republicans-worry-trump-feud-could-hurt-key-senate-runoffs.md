@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden wins presidential race in Georgia, defeating Trump"
-    excerpt: "Biden now has 306 electoral votes."
-    publishedDateTime: 2020-11-20T01:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NaluF-gv16o/biden-defeats-trump-georgia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-defeats-trump-georgia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/45e075f4-f01b-4ad1-b4bc-87b821f5a1f3/78963fa3-7f76-4110-93c7-59c2bf0875ad/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pence, in Georgia, vows to ‘keep fighting’ but acknowledges ‘uncertain days ahead’"
     excerpt: "Vice President Mike Pence hit the campaign trial Friday in Georgia, stumping with Sens. David Perdue and Kelly Loeffler, the Republican incumbents in the state’s twin Senate runoff elections, which will determine whether the GOP keeps its majority in the chamber."
     publishedDateTime: 2020-11-20T22:13:13Z
@@ -95,38 +79,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Georgia recount formally requested by Trump campaign"
-    excerpt: "President Trump’s legal team Saturday formally requested a recount in Georgia -- a day after the state certified the election for President-elect Joe Biden."
-    publishedDateTime: 2020-11-22T06:19:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kMUUHlKUSM/georgia-recount-formally-requested-by-trump-campaign"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-recount-formally-requested-by-trump-campaign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/6e26c1f6-AP20319621877550.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump campaign files appeal after Pennsylvania judge shoots down lawsuit"
-    excerpt: "President Trump’s legal team on Sunday filed an appeal to a federal judge’s ruling that struck down his campaign’s effort to block the certification of votes in Pennsylvania."
-    publishedDateTime: 2020-11-22T20:14:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Go4nq8a7seE/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-filed-appeal-after-pennsylvania-judge-shoots-down-lawsuit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump's Pennsylvania law firm pulls out of campaign case after online threats"
     excerpt: "Two attorneys representing the Trump campaign in Pennsylvania have withdrawn from a lawsuit filed on behalf of the campaign."
@@ -176,54 +128,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
-    excerpt: "Follow for the latest developments on the 2020 election legal fight."
-    publishedDateTime: 2020-11-18T15:15:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AvV_Zvo9RxQ/live-updates-election-legal-fight-nov-18-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-fight-nov-18-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b65dfe9-319e-4e08-a256-c6cde70ed79a/ee0017c1-25bb-4755-9b4f-abc4b832ac7f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden’s Georgia Victory Over Trump Certified by Secretary of State"
-    excerpt: "Georgia Secretary of State Brad Raffensperger certified the Nov. 3 election results, declaring President-elect Joe Biden the winner of the state. Mr. Biden’s victory in Georgia is the first for a Democratic presidential candidate since Bill Clinton narrowly defeated George H."
-    publishedDateTime: 2020-11-20T22:50:00Z
-    webUrl: "https://www.wsj.com/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    ampWebUrl: "https://www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/bidens-georgia-victory-over-trump-certified-by-secretary-of-state-11605894057"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 160
-    images:
-      - url: "https://images.wsj.net/im-262788/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
-    excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."
-    publishedDateTime: 2020-11-13T02:04:00Z
-    webUrl: "https://www.wsj.com/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-campaign-presses-election-claims-in-pennsylvania-arizona-11605215095"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-258970/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "‘He Won,’ Trump Tweets in a Post About the Election"
     excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"
     publishedDateTime: 2020-11-15T14:55:00Z
@@ -272,38 +176,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Federal Judge Dismisses Trump Campaign Lawsuit in Pennsylvania"
-    excerpt: "The lawsuit, which had sought to halt vote certification, was one of the last remaining legal avenues for the president’s campaign in the state."
-    publishedDateTime: 2020-11-22T04:28:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-dismisses-trump-campaign-lawsuit-in-pennsylvania-11606001333"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-263331/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump campaign files petition for Georgia recount"
-    excerpt: "President Trump’s campaign announced Saturday that it has filed a petition demanding a recount in Georgia — a day after officials certified Joe Biden’s victory in the state."
-    publishedDateTime: 2020-11-22T10:34:00Z
-    webUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/"
-    ampWebUrl: "https://nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/trump-campaign-files-petition-for-georgia-recount/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/E5F4B63F-C065-4346-8049-42B88D89FB7F.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Georgia recount signature-matching impossible despite demands from Trump, Republicans, says secretary of state"
     excerpt: "The Trump campaign and high-profile Republicans are demanding that signature-matching be a major part of the recount the president filed for in Georgia where President-elect Joe Biden beat him by less than one half of a percentage point – but the secretary of state's office is saying that ship has sailed."
     publishedDateTime: 2020-11-23T20:03:44Z
@@ -317,22 +189,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
-    excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
-    publishedDateTime: 2020-11-23T22:07:00Z
-    webUrl: "https://www.wsj.com/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pennsylvanias-high-court-rejects-trump-campaign-bid-to-throw-out-ballots-11606167798"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 134
-    images:
-      - url: "https://images.wsj.net/im-263840?width=620&size=1.5"
-        width: 620
-        height: 413
         isCached: true
   - title: "LIVE UPDATES: Mike Pence to campaign in Georgia for Senate runoff candidates"
     excerpt: "Vice President Mike Pence plans to campaign in Georgia Friday for the Republican runoff candidates, Sens. David Perdue and Kelly Loeffler, whose races will decide which party controls the Senate. Both races headed to a Jan."

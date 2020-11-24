@@ -2,63 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-17-justice-dems-group-behind-aoc-boosts-rep-ro-khanna-for-harris-senate-seat.md",
-      "title": "Justice Dems, group behind AOC, boosts Rep. Ro Khanna for Harris' Senate seat",
-      "excerpt": "Justice Democrats, a far-left PAC aligned with Rep. Alexandria Ocasio-Cortez, D-N.Y., is pushing for Rep. Ro Khanna, D-Calif., to get the Senate seat that will be vacated by Vice President-elect Kamala Harris.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5YlIEI_kWw/justice-democrats-ro-khanna-california-senate-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 322,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20315750551129.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justice-democrats-ro-khanna-california-senate-harris.amp",
-      "publishedDateTime": "2020-11-17T05:25:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-latino-voters-who-fled-dictatorships-demand-four-more-years-for-trump.md",
       "title": "Latino voters who fled dictatorships demand four more years for Trump",
       "excerpt": "Many Latino Trump supporters who escaped authoritarian regimes fear they are once again witnessing widespread election fraud despite lack of evidence.",
@@ -613,7 +556,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -970,6 +913,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-trump-swipes-at-dewine-after-gop-governors-comments-on-biden-transition.md",
+      "title": "Trump swipes at DeWine after GOP governor's comments on Biden transition",
+      "excerpt": "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
+      "publishedDateTime": "2020-11-16T09:26:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {

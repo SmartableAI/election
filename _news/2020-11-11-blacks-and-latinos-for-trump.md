@@ -80,6 +80,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden camp seeks $30M in 'fight funds' to take on Trump's lawsuits"
+    excerpt: "President-elect Joe Biden's campaign is fundraising to fight the Trump campaign's legal efforts, vowing to \"re-launch\" its \"fight fund\" even as Biden has tried to downplay his opponent's lawsuits."
+    publishedDateTime: 2020-11-11T03:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FkIiNtD8eG8/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-camp-asks-for-30m-in-fundraising-appeal-to-beat-trumps-lawsuits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dbbbd1cf-909c-4138-a7dd-b8ce894658e6/2b1d1d95-3f10-4dc8-88fc-bb7d950180cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Turley: Trump election challenges 'long on allegations and rather short on evidence'"
+    excerpt: "President Trump’s legal challenges in several battleground states are “long on allegations and rather short on evidence,” constitutional law expert Jonathan Turley told “Fox & Friends” on Monday."
+    publishedDateTime: 2020-11-16T20:14:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/syhQIuAl_-s/trump-election-challenges-allegations-short-evidence-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-challenges-allegations-short-evidence-turley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nevada election worker alleges voting irregularities, Trump campaign submits affidavit to DOJ"
     excerpt: "The election worker, whose name was redacted, said they “had concerns over election polling place and intimation and voter fraud.\""
     publishedDateTime: 2020-11-09T15:35:41Z
@@ -95,6 +127,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Trump criticizes John Bolton for pushing election loss as legal fight continues"
+    excerpt: "President Trump lashed out at John Bolton on Sunday, calling him \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat."
+    publishedDateTime: 2020-11-16T03:38:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TduFhXP3qp8/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-criticizes-john-bolton-for-pushing-election-loss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Election 2020 legal battles take shape as Trump campaign files lawsuits in key battleground states"
     excerpt: "As expected, the 2020 presidential campaign season has evolved into a post-election battle consisting of legal challenges in crucial battleground states as President Trump's campaign attempts to prevent the counting of ballots they allege are or could be invalid."
@@ -176,6 +224,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Starr on Trump legal challenges: 'Allow this litigation to run its course'"
+    excerpt: "Kenneth Starr, former Whitewater independent counsel, and Laurence Tribe, constitutional law professor at Harvard, sparred on Sunday over President Trump's legal challenges in several battleground states, with Starr wanting to allow the \"litigation to run its course\" and Tribe arguing that \"it's time"
+    publishedDateTime: 2020-11-15T18:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeBQ4A35NWk/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-starr-laurence-tribe-trump-legal-challenges-fox-news-sunday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham announces $500G donation to Trump campaign legal efforts, calls Philly elections 'crooked as a snake'"
     excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., told \"Hannity\" Thursday he will donate $500,000 to the Trump campaign's legal efforts to challenge election procedures in multiple states, including Pennsylvania, Michigan and Nevada."
     publishedDateTime: 2020-11-06T03:49:16Z
@@ -207,6 +271,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump Family Business Faces Post-Election Reckoning"
+    excerpt: "When President Trump leaves the White House in January, he will face some of the deepest financial and legal challenges in his family business empire in decades."
+    publishedDateTime: 2020-11-15T12:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-family-business-faces-post-election-reckoning-11605436201"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-255810/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Few Courts Have Intervened in Elections in Ways Sought by Trump Campaign"
     excerpt: "The types of requests being made by the Trump campaign, such as keeping a state from certifying its election based on allegations that GOP poll observers lacked sufficient access, have rarely succeeded."
@@ -345,20 +425,6 @@ related:
       - url: "https://images.wsj.net/im-260604/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
-    excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
-    publishedDateTime: 2020-11-10T14:28:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/h0Q6kNeLacvLiLqou8ra"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 121
-    images:
-      - url: "https://images.wsj.net/im-257641?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Trump Campaign to Request a Recount in Wisconsin"
     excerpt: "Trump campaign manager Bill Stepien said Wednesday afternoon the campaign would request a recount in Wisconsin, calling it a “razor thin race.” The margin to request a recount in the state is 1% or less and President Trump is currently within that margin,"

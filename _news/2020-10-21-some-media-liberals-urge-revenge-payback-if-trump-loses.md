@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump mocks Biden to Pennsylvania crowd over oil comment: 'He blew it'"
-    excerpt: "President Trump warned Pennsylvania residents that a Joe Biden administration would sink their state's economy, while mocking his Democratic rival for what he called a \"shocking admission\" about his energy policy."
-    publishedDateTime: 2020-10-26T18:49:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LpV_ZWq8VYQ/trump-pennsylvania-rally-biden-oil-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-rally-biden-oil-transition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5237d17-29f2-4497-97f7-90df3b44d487/d8f57439-b93c-40ab-a426-5b9656ebedfa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump claims he could out-raise Biden by calling Wall Street, energy execs"
     excerpt: "The president he has avoided doing so because he would be “totally compromised” by the donors."
     publishedDateTime: 2020-10-20T00:59:14Z
@@ -141,22 +125,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
-    excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
-    publishedDateTime: 2020-10-21T02:09:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXoaSe8Ouo4/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings"
     excerpt: "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter."

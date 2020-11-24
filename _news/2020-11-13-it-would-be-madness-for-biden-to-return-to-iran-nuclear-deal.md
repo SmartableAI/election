@@ -20,21 +20,21 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Cindy McCain joins Joe Biden transition team advisory board"
-    excerpt: "Cindy McCain, the widow of Republican Sen. John McCain, is reportedly joining the board of Joe Biden’s presidential transition team"
-    publishedDateTime: 2020-11-10T16:02:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/__EpwaCxnOI/cindy-mccain-joe-biden-transition-team-advisory-board"
-    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-joe-biden-transition-team-advisory-board.amp"
+  - title: "Georgia to manually recount every ballot as Biden leads by 14K votes"
+    excerpt: "Georgia Secretary of State Brad Raffensperger on Wednesday announced that election officials will conduct a manual recount of all presidential ballots as President-elect Joe Biden leads in the state by just over 14,000 votes out of nearly 5 million counted."
+    publishedDateTime: 2020-11-11T16:58:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dD2M_UP0Ojs/georgia-election-manual-recount-presidential-ballots"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-manual-recount-presidential-ballots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20231779031596.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1200754471.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Live Updates: Biden's lead grows in Pennsylvania"
     excerpt: "Presidential-elect Joe Biden is now leading President Trump by more than 50,000 votes in Pennsylvania."
@@ -52,150 +52,81 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hillary Clinton under consideration for Biden's U.N. ambassador: report"
-    excerpt: "Former Vice President Joe Biden's transition team is reportedly considering installing former Secretary of State Hillary Clinton as his administration's ambassador to the United Nations."
-    publishedDateTime: 2020-11-13T03:28:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8Wmx997mcs/biden-administration-hillary-clinton-for-u-n-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-hillary-clinton-for-u-n-ambassador.amp"
+  - title: "Biden starts staffing up with senior White House announcements"
+    excerpt: "President-elect Joe Biden on Tuesday announced nine senior staffers he will work with in the White House after he is inaugurated on Jan. 20."
+    publishedDateTime: 2020-11-17T16:15:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rkSrOw5mxlA/biden-senior-white-house-staff-announcements"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senior-white-house-staff-announcements.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c60aaf-1f68-48b9-8946-c3f624ae8763/891e0b9e-a8f3-4b7e-b280-504c1e456a76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Will Biden consider adding Republicans to his administration?"
-    excerpt: "Among GOP names floating around for a Biden cabinet are John Kasich, Quibi CEO Meg Whitman, Massachusetts Gov. Charlie Baker and former Sen. Jeff Flake and former Rep. Charlie Dent."
-    publishedDateTime: 2020-11-13T23:37:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jAb4k9xJI3E/will-biden-consider-republicans-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-biden-consider-republicans-administration.amp"
+  - title: "Liberal group calls key Biden hire a betrayal"
+    excerpt: "President-elect Joe Biden is getting some flak for one of his cabinet picks who will deal with climate issues, with one liberal group calling the choice a “betrayal” because of the appointee’s record receiving money from the oil and gas industry."
+    publishedDateTime: 2020-11-18T01:03:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wxC3rEd4xo/liberal-group-calls-key-biden-hire-a-betrayal"
+    ampWebUrl: "https://www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberal-group-calls-key-biden-hire-a-betrayal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20322672454276.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Ex-Clinton adviser questions Biden vote over his stance on more shutdowns"
-    excerpt: "President-Elect Biden has said he will follow the advice of scientists to get the pandemic under control."
-    publishedDateTime: 2020-11-10T01:24:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epwnhudD93A/joe-biden-economic-lockdowns-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-economic-lockdowns-coronavirus.amp"
+  - title: "Biden snagged vast majority of Silicon Valley votes, regional data shows"
+    excerpt: "Nearly three-quarters of regional voters turned out for Biden."
+    publishedDateTime: 2020-11-11T22:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1QVVz3KmJrI/biden-won-silicon-valley-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-silicon-valley-voters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38efdbc8-5532-4aa4-8110-6895c604cb59/7f9a67ed-ea23-4f99-a30e-fed73ec9286f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c45b08f-c341-42d0-9197-8605f61f1988/5c039d53-2a9a-4699-8848-5afb02b4bff3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Cedric Richmond to serve in Biden administration, resign from Congress"
-    excerpt: "Rep. Cedric Richmond is joining the Biden administration as a senior adviser to President-elect Joe Biden in the White House Office of Public Engagement, leaving his seat in the House of Representatives."
-    publishedDateTime: 2020-11-17T16:47:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VAjosGxiAI/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-cedric-richmond-to-serve-in-biden-administration-resign-from-congress.amp"
+  - title: "Biden takes calls with leaders of UK, France, Germany as transition gets underway"
+    excerpt: "President-elect Joe Biden on Tuesday spoke to foreign leaders and key allies as he moved ahead with his presidential transition — with the leaders of the U.K. and France among those first to speak to the incoming president."
+    publishedDateTime: 2020-11-10T20:19:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQYSojMRAUc/biden-uk-france-germany-as-transition-gets-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-france-germany-as-transition-gets-underway.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden transition reveals 'agency review teams' amid spat over transfer of power"
-    excerpt: "The teams are meant to ensure a smooth transfer to the incoming presidential administration."
-    publishedDateTime: 2020-11-11T02:24:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1sdntkJFJY/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-reveals-agency-review-teams-amid-spat-over-transfer-of-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42ba2bdd-cc7c-44ce-bc73-a64ff6d608d7/37ae05d5-a334-4987-aa8c-c64e46fc0b31/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae6a8da7-031f-4f6a-8706-76b1845676c5/d5243f3e-9afd-4d22-b217-b5218052c03e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden’s COVID advisers stress there’s ‘no time to waste’ on coronavirus transition"
-    excerpt: "The co-chairs of President-elect Joe Biden’s COVID advisory board are emphasizing that “there’s no to time to waste” in the transition from President Trump’s administration to the incoming Biden administration when it comes to combating the coronavirus pandemic."
-    publishedDateTime: 2020-11-17T22:54:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AeQ_vTvTc5A/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-advisers-stress-theres-no-time-to-waste-on-coronavirus-transition.amp"
+  - title: "Voting irregularities in deep red Michigan county under investigation after Biden lead there raises eyebrows"
+    excerpt: "But on Wednesday morning, results out of Antrim County showed Democratic presidential contender Joe Biden leading the county by more than 3,000 votes with 98% of the results in. Officials did not check the results before posting them, leading former state ..."
+    publishedDateTime: 2020-11-05T14:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/voting-irregularities-in-deep-red-michigan-county-under-investigation-after-biden-lead-there-raises-eyebrows?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Personnel is policy': Progressive group gives Biden transition team 400 names to consider for administration"
-    excerpt: "A group aligned with Sen. Elizabeth Warren, D-Calif., handed over a list of 400 names that they recommend could fill positions in the incoming Biden-Harris administration beyond his cabinet on Friday."
-    publishedDateTime: 2020-11-17T21:22:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MLi8caz0WhU/progressive-biden-transition-400-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-biden-transition-400-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c817048-0b62-4c63-a202-c52b8ac2c822/450109cf-c164-4192-bd66-a5d0541fc370/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "What Are Joe Biden’s Plans for Covid-19?"
-    excerpt: "The president-elect has proposed steps designed to up production of tests, protective equipment and vaccines, and is also expected to target problem areas and pursue economic stimulus."
-    publishedDateTime: 2020-11-13T18:27:00Z
-    webUrl: "https://www.wsj.com/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    ampWebUrl: "https://www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-are-joe-bidens-plans-for-covid-19-11605291824"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-259713/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "With Joe Biden in Charge, No More Flashy Kim Jong Un Summits"
-    excerpt: "President-elect Joe Biden is expected to revert to a more conventional approach to negotiating with North Korea—one that mixes pressure with what he calls “principled diplomacy.”"
-    publishedDateTime: 2020-11-15T21:00:00Z
-    webUrl: "https://www.wsj.com/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/with-kim-jong-uns-larger-nuclear-arsenal-biden-to-take-a-traditional-approach-11605456000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-260065/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 46
 
 secured: "Ae5aXws1XtKFDwH3LqnpUbrbmP4ScPsYmo6mq3OG5xq3/1Lt719uHCVVY4ETE4Tqvezk++PcS0JZNnhcCp6DOv+5bCXdtUnBp2J5O9LxERl/ejlj4aoNx/ZjerJMSHKLvu68FRWPvNBUAUZRINmNm4l8W1NZDJ4OU+zgyXClrvNPc6hM6VoDWkzy+MGS7Rfd6mBArNHfKv7ddXKQ46sG5b0aRkn5Jdhs9zUm/HYKwF2JXIIOnTA2uToOY7ClF9IWvOKIAduF+O5qIqezEJZDr+/PL9YSrBRVluSAD9DEli32+TPnFAd/NOEBjiEqLjjurPB3lNBP293qCRNhe6YHE5kNVVIFdcjU1FufT73LFgM=;Fh7K33No+I7LCLXuHjB3Pw=="
 ---

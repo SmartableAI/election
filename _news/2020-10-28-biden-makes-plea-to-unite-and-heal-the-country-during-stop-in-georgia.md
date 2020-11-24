@@ -80,22 +80,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden Holds Lead in Georgia After Hand Recount"
-    excerpt: "President-elect Joe Biden remained ahead in Georgia after a hand recount of the state’s 5 million presidential votes, Georgia Secretary of State Brad Raffensperger said. Mr. Raffensperger still must certify the results,"
-    publishedDateTime: 2020-11-20T06:21:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133?mod=trending_now_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-holds-lead-in-georgia-after-hand-recount-11605832133"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-262231/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "82riBq40KZW0bCPzRhxbR85jaNHn/lU7WY9jxi1DjtIsVxlayDAsn4e6kkrWGFm/fj2+EmqAJK3yoGbabbE/TmEEj4ojZ4cb2nVKA48Sgd7vdT24vEVQLomRIzrH79Twvstzgp2VkkVHzIkfAPQyqZaESmXDh7CzYyCa43vFUfZWY8k7HmDWPUIZw4B+yB0Rd1M/JwJ8gOd/wraK0uZAc5zaKH3ExoFjw3W7/LSkLr+jVSGd/bQte0d8Eyg7y7VlxNtexqHPSG0gixyGBQPKQ6ipNLI2feG0aRfQomAFs9mbXjLc3faNminhx4qxRmqLQoR1ecq7WzOawT/GBPKzZxlPrHhfMvypAXUr4FzaZ1/4e+4dG5zh3hQmC7Z0+vajeK3W189gMNHPkYoVkZ5OWRmcm4ckUMa8PoGgPLtms6UwTutCRYD7XZa+yTiWrGV1PQsy1HU5cFdVEFuNyag6zvHV/G0GUkSNMORXzuH/pZJIQRJTcgdtzUnylzvbIIwzl637zJpGj1IgOnW11tpvvw==;nfyjGfabufP/3Ddhq3BghQ=="
 ---

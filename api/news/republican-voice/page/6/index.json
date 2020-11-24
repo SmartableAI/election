@@ -2,62 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-01-gov-huckabee-believes-president-trump-will-get-reelected-by-a-substantial-margin.md",
-      "title": "Gov. Huckabee believes President Trump will get reelected by a 'substantial' margin",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee believes President Trump will win the 2020 election by a “substantial” margin, telling “Fox & Friends” on Sunday that “it will cause people's heads to explode because they just can’t see it coming.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bNi9PkWNQb4/mike-huckabee-trump-reelected-substantial-margin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trump-reelected-substantial-margin.amp",
-      "publishedDateTime": "2020-11-01T08:10:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-01-trump-ernst-take-leads-over-dem-challengers-in-iowa-poll.md",
       "title": "Trump, Ernst take leads over Dem challengers in Iowa poll",
       "excerpt": "Just days before Election Day, both President Trump and U.S. Sen. Joni Ernst have pulled ahead of their Democratic challengers in the assessment of Iowa voters, a new poll shows.",
@@ -1675,6 +1619,62 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-ari-fleischer-biden-is-taking-advantage-of-a-broken-down-media-that-is-biased-against-trump.md",
+      "title": "Ari Fleischer: Biden is 'taking advantage of' a 'broken-down media' that is 'biased against Trump'",
+      "excerpt": "The Biden campaign is \"taking advantage\" of the media bias against President Trump to keep the controversy surrounding former Vice President Joe Biden's son Hunter out of the spotlight, former White House Press Secretary Ari Fleischer claimed Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj5ZGug0TOo/ari-fleischer-biden-taking-advantage-broken-down-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ari-fleischer-biden-taking-advantage-broken-down-media.amp",
+      "publishedDateTime": "2020-10-28T12:36:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }
