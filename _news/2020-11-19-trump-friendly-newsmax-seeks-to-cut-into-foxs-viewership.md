@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-ne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-friendly-newsmax-sudden-competitor-fox-news-74279611"
 type: article
 quality: 125
-heat: 185
+heat: 225
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Supreme leader dismisses talks as Iran looks to post-Trump future"
+    excerpt: "Iran's supreme leader dismissed the prospect of new negotiations with the West on Tuesday, even as the Tehran government spoke optimistically about the return of foreign companies in \"the absence of Trump\" and his sanctions."
+    publishedDateTime: 2020-11-24T18:30:00Z
+    webUrl: "https://www.reuters.com/article/iran-usa-sanctions-int-idUSKBN28413O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28413O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28413O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542289116&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN10O"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump allies are reportedly considering buying out Newsmax to build a strong competitor to Fox News"
     excerpt: "Fox News viewers have been navigating over to Newsmax after the network declared Biden as the winner."
     publishedDateTime: 2020-11-15T20:18:00Z
@@ -60,6 +76,22 @@ related:
     quality: 111
     images:
       - url: "https://i.insider.com/5fad9b5c1e8d50001981338a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Newsmax CEO says Trump's baseless voter fraud claims are 'great for news' in off the rails interview"
+    excerpt: "\"He could have accepted the results, but I'm saying, 'Look at the amazing stuff that's done for the news business,'\" the CEO said."
+    publishedDateTime: 2020-11-24T16:22:00Z
+    webUrl: "https://www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/newsmax-ceo-chris-ruddy-interview-great-for-news-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fbd253950e71a00115570d0?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

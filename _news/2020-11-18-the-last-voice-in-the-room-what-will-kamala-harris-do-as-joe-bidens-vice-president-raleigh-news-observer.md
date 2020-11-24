@@ -366,15 +366,15 @@ related:
         height: 800
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Biden and vice president Kamala D. Harris received 3,458,229 votes. Republican candidates Donald J. Trump and Michael R. Pence trailed with 3,377,674 votes."
-    publishedDateTime: 2020-11-24T16:24:00Z
-    webUrl: "https://www.ydr.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-    ampWebUrl: "https://amp.ydr.com/amp/6407257002"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/6407257002"
+    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    publishedDateTime: 2020-11-24T17:31:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
     type: article
     provider:
-      name: YDR
-      domain: ydr.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?auto=webp&crop=5714,3214,x0,y437&format=pjpg&width=1200"
@@ -490,6 +490,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YLXVPKMTJFAC3PMFISVFOLC7JE.jpg"
         width: 4479
         height: 2986
+        isCached: true
+  - title: "Avril Haines, Janet Yellen and Others Set to Make History in the Biden-Harris Administration"
+    excerpt: "From Avril Haines as director of national intelligence, to Janet Yellen as Treasury secretary, below are a few leaders who are expected to make history in the Biden-Harris administration. President-elect Joe Biden has selected Avril Haines as director of national intelligence."
+    publishedDateTime: 2020-11-24T18:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 79
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/106801582-1606229150635-gettyimages-1199472271-wmc10437_20200114112104323.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "For some Bastrop residents, Kamala Harris inspires hope"
     excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."

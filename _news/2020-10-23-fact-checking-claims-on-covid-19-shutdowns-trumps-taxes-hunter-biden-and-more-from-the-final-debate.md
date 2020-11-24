@@ -1871,6 +1871,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden certified as winner of Pennsylvania presidential vote"
+    excerpt: "Pennsylvania officials say Democrat Joe Biden has been certified as the winner of the presidential vote in the state"
+    publishedDateTime: 2020-11-24T16:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
     excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
     publishedDateTime: 2020-10-20T19:23:00Z

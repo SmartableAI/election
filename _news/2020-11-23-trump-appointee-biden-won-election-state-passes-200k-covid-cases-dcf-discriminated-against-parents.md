@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump loyalist connected to Biden conspiracy theories is leading Pentagon transition "
+    excerpt: "Kash Patel, a Trump loyalist who was connected to efforts to spread conspiracy theories about Joe Biden, has been put in charge of the Pentagon transition effort and will oversee coordination with the incoming Biden-Harris administration, according to two US defense officials.\n    \n"
+    publishedDateTime: 2020-11-24T17:47:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTBfWveYP4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/kash-patel-pentagon-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/kash-patel-pentagon-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123161353-kash-patel-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump team looks to box in Biden on foreign policy by lighting too many fires to put out"
     excerpt: "President Donald Trump's order of a further withdrawal of US troops from Afghanistan and Iraq is the latest foreign policy move on a growing list in his final weeks in office that are meant to limit President-elect Joe Biden's options before he takes office in January.\n    \n"
     publishedDateTime: 2020-11-18T00:20:30Z
@@ -910,6 +926,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Moving Ahead With the Biden Transition"
+    excerpt: "Readers praise the “exceptionally qualified people” the president-elect is choosing as advisers and condemn President Trump’s continued efforts to contest the election."
+    publishedDateTime: 2020-11-24T18:31:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/opinion/letters/joe-biden-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/opinion/letters/joe-biden-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/opinion/letters/joe-biden-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/multimedia/24biden-transition-SUB/24biden-transition-SUB-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Presidential Transition Live Updates: Biden to Address the Economic Recovery"
     excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris will speak from Delaware this afternoon. Mr. Biden will most likely campaign for the Democratic candidates in Georgia in runoffs that will determine control of the Senate."
     publishedDateTime: 2020-11-16T13:00:00Z
@@ -953,6 +985,20 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18transition-briefing-biden-virus/18transition-briefing-biden-virus-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch Live: Biden and Harris Introduce Cabinet"
+    excerpt: "President-elect Joseph R. Biden Jr. and Vice President-elect Kamala Harris introduce nominees and appointees to crucial national security and foreign policy posts for their cabinet."
+    publishedDateTime: 2020-11-24T18:01:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007471259/biden-cabinet-live-video.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/us/politics/24vid-biden-cabinet/24vid-biden-cabinet-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

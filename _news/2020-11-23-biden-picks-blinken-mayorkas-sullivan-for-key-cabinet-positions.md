@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/alejandro-Mayorkas-2-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden secretary of state pick Blinken admitted Obama administration 'failed' in Syria"
+    excerpt: "Anthony Blinken, President-elect Joe Biden’s pick for secretary of state, admitted earlier this year that the Obama administration “failed” in Syria — although he also panned the Trump administration for “pulling out” of the country entirely."
+    publishedDateTime: 2020-11-24T18:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPnhD6uzLE8/biden-blinken-admitted-obama-failed-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
     excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"

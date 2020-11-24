@@ -431,22 +431,6 @@ related:
         width: 600
         height: 410
         isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
-    publishedDateTime: 2020-11-24T16:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd369a8f0872410b29d360"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/b6a0aee0c0f376cadca09ab0427c121490235af5/0_0_4969_3392/master/4969.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bbdfab7ba0823cd4e6cbb8d2518a5276"
-        width: 600
-        height: 410
-        isCached: true
   - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
     excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
     publishedDateTime: 2020-11-20T07:33:00Z
@@ -726,6 +710,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dow hits all-time high on Biden transition, rebound hopes"
+    excerpt: "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty."
+    publishedDateTime: 2020-11-24T16:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-dow-hits-all-time-high-on-biden-transition-rebound-hopes-idUSL4N2IA3CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IA3CB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IA3CB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z

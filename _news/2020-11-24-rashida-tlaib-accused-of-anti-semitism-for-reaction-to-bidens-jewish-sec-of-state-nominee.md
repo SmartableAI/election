@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden secretary of state pick Blinken admitted Obama administration 'failed' in Syria"
+    excerpt: "Anthony Blinken, President-elect Joe Biden’s pick for secretary of state, admitted earlier this year that the Obama administration “failed” in Syria — although he also panned the Trump administration for “pulling out” of the country entirely."
+    publishedDateTime: 2020-11-24T18:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPnhD6uzLE8/biden-blinken-admitted-obama-failed-syria"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blinken-admitted-obama-failed-syria.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden secretary of state pick Blinken opposed terrorist label for Iran's Revolutionary Guard"
     excerpt: "Antony Blinken, President-elect Joe Biden’s pick for secretary of state, opposed designating the Islamic Revolutionary Guard Corp (IRGC) a foreign terrorist organization out of fears it would lead to blowback -- a potential sign of the softer stance a Biden administration is expected to take toward Iran."
     publishedDateTime: 2020-11-24T15:18:16Z

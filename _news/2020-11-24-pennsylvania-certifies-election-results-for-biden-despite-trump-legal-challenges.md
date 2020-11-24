@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1380
+heat: 1400
 published: true
 
 provider:
@@ -620,6 +620,22 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/19f7009b-cdfe-4c8a-9bdb-a36ee8de55f4/4381a915-2587-412b-8656-f82dc900a64b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden national security adviser pick defended Steele dossier as 'perfectly appropriate'"
+    excerpt: "President-elect Joe Biden’s national security adviser choice Jake Sullivan previously served as an adviser for Hillary Clinton in 2016 and years after that election defended the dossier the campaign paid for on President Trump."
+    publishedDateTime: 2020-11-24T17:58:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kwVztMx2Wjk/biden-national-security-adviser-pick-sullivan-defended-steele-dossier"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-pick-sullivan-defended-steele-dossier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-pick-sullivan-defended-steele-dossier.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

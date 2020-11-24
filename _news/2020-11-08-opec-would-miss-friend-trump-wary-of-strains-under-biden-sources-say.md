@@ -8273,6 +8273,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Trump touts stock market as Biden formally begins transition"
+    excerpt: "President Trump on Nov. 24 made a brief, unscheduled appearance to praise the Dow Jones industrial average surpassing 30,000 points for the first time."
+    publishedDateTime: 2020-11-24T18:38:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-touts-stock-market-as-biden-formally-begins-transition/2020/11/24/04be01a5-c9bf-4855-aaa8-40a75e873262_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-24-2020/t_d19024315770447497f8c4327878970c_name_439f76aa_2e7c_11eb_9dd6_2d0179981719_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z

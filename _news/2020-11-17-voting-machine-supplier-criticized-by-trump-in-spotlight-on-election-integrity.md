@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Meadows pushed Trump to allow transition to begin: sources"
+    excerpt: "White House chief of staff Mark Meadows was one of the driving forces behind President Trump's decision to allow the presidential transition to begin, two sources familiar with their discussions told Fox News."
+    publishedDateTime: 2020-11-24T17:03:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ivXQpb8ApM/meadows-pushed-trump-allow-biden-transition-sources"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-pushed-trump-allow-biden-transition-sources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-pushed-trump-allow-biden-transition-sources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama defends campaign-trail attacks on Trump: 'I was just stating facts'"
     excerpt: "Former President Barack Obama defended his attacks on President Trump amid his return to politics in a CBS interview released on Sunday."
     publishedDateTime: 2020-11-15T19:13:34Z
@@ -175,6 +191,20 @@ related:
       - url: "https://images.wsj.net/im-263547/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump touts Dow hitting 30K, congratulates administration staffers in brief appearance"
+    excerpt: "President Trump gave a roughly one-minute news briefing Tuesday afternoon, touting the Dow Jones Industrial Average topping 30,000 and offering congratulations to his administration staffers. "
+    publishedDateTime: 2020-11-24T18:24:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sfy4U-50aro/trump-dow-hits-30k-congratulates-administration-staffers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20329638445824-e1606241887957.jpg"
+        width: 1280
+        height: 710
         isCached: true
   - title: "Trump Administration to Release New Rules Reducing Drug Costs"
     excerpt: "The plans, slated to be announced Friday, have been a signature pledge of President Trump’s since his 2016 election campaign."

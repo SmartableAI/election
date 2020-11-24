@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-excerpt: "Biden and vice president Kamala D. Harris received 3,458,229 votes. Republican candidates Donald J. Trump and Michael R. Pence trailed with 3,377,674 votes."
-publishedDateTime: 2020-11-24T16:24:00Z
-originalUrl: "https://www.ydr.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-webUrl: "https://www.ydr.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-ampWebUrl: "https://amp.ydr.com/amp/6407257002"
-cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/6407257002"
+excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+publishedDateTime: 2020-11-24T17:31:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: YDR
-  domain: ydr.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -475,6 +475,22 @@ related:
         width: 4479
         height: 2986
         isCached: true
+  - title: "Avril Haines, Janet Yellen and Others Set to Make History in the Biden-Harris Administration"
+    excerpt: "From Avril Haines as director of national intelligence, to Janet Yellen as Treasury secretary, below are a few leaders who are expected to make history in the Biden-Harris administration. President-elect Joe Biden has selected Avril Haines as director of national intelligence."
+    publishedDateTime: 2020-11-24T18:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/avril-haines-janet-yellen-and-others-set-to-make-history-in-the-biden-harris-administration/2744001/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 79
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/106801582-1606229150635-gettyimages-1199472271-wmc10437_20200114112104323.jpeg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "For some Bastrop residents, Kamala Harris inspires hope"
     excerpt: "Clad in an American flag-print shirt, Dock Jackson headed to Downtown Bastrop on Nov. 7, shortly after Joe Biden was projected to become the 46th U.S."
     publishedDateTime: 2020-11-12T23:17:00Z
@@ -641,6 +657,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "DlkEPd7VUUwtLPfqDVz+/PoAboF1ExP2ArveKXGijeY5fPhjHVSBeEDmZ1WByXr78Slvyz0q+EaY1xSKf0PxOlVDe+epsgKwacBuFtMmwRUktQDYV/le6ZKXR3CE15Mwl2kSkUGKb1CFUS3rYAhXPyHgFHDEtCtyjiT9IG+aOwWVz5KEH5pwE2MN0lyIFwnTvdh1P+4KFUFRm2kn95oZ3UXrWTBa0HDDudLfl53bJ0XdJoa4NT25U2KlLNhEG993EPH3ETvwhNV2aZ4XkXJqJDUnO96Wujt/p5Xa9StanKNFRHuDWnivqb+B+mw4L1c0gBxICbd3wDjpsolSLRTpqYACFCBndgJLcTQd1fZx4bk=;DBtx/xkqMW3uCVYrd4fb7w=="
+secured: "AlJ37JpeMC+EmYOcSUJO1XIVwxeHGhhtfGj3grgMBJ4dFsDKKYFTFC2gsvzP08SWnkbHNM0GoONa5Cdjv3ojeNELkY6DulbSJW0VSpAIPWngMYgqEL8iJ8LQwn8EX08Ejckn2NCrNl8PJBWoyVHDVx9mtYzqstkBAifuTaeTVmxzew5REqduXbA7oa4aNK7nsfMx9yeKjaZyShMm8uZLstKeSsP5j4VWmQUanpaxX4uXUhf+fVeBnSwiDhcINbBfHvocUvMrpLKkXzjA4ln9TXbQXcbCsvE0Js5ycXDYVM5HpiYKu8zpRJmwReGYBe1b2dxZyOqwv/XuIhnnFcau+aiPV1G+YBt3lAdbdaeiR6I=;GySCRLmyZxoQ0HivkpV+HA=="
 ---
 

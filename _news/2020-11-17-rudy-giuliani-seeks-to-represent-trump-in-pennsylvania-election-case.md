@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/trump-giuliani-election-lawsuit/index.html"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190822155129-02-general-services-administration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pennsylvania certifies election results for Biden"
+    excerpt: "Pennsylvania on Tuesday morning certified its 2020 general election results, formally awarding another 20 electoral votes from a key battleground state for Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-24T18:05:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mx4pj7IfXGc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

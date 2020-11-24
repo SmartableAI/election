@@ -79,6 +79,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "State department certifies results culminating three weeks of vote counting and a string of failed legal challenges by Donald Trump"
+    publishedDateTime: 2020-11-24T18:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd42d28f08850ef86c565a"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/4c4d4e744776c149e50b87c77f9e1c05b5042f46/0_549_5200_3120/master/5200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e38985266d095595f2da288e29edbd4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden COVID-19 task force says transition delay could be compromising U.S. virus response"
     excerpt: "Medical experts advising President-elect Joe Biden on the COVID-19 pandemic fear that the federal government’s delay in recognizing Biden’s election victory could be compromising the U.S. response to the virus,"
     publishedDateTime: 2020-11-17T21:31:00Z

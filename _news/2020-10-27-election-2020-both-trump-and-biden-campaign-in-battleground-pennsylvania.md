@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campa
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73823987"
 type: article
 quality: 154
-heat: 5294
+heat: 5314
 published: true
 
 provider:
@@ -1854,6 +1854,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/e64ec44/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F9d%2Fc375d0cb481499e86ebe3abf6a2d%2Ftrump-54999.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden certified as winner of Pennsylvania presidential vote"
+    excerpt: "Pennsylvania officials say Democrat Joe Biden has been certified as the winner of the presidential vote in the state"
+    publishedDateTime: 2020-11-24T16:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
     excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."

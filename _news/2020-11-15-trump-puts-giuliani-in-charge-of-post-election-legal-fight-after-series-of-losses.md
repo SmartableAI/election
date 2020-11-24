@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pennsylvania certifies election results for Biden"
+    excerpt: "Pennsylvania on Tuesday morning certified its 2020 general election results, formally awarding another 20 electoral votes from a key battleground state for Joe Biden.\n    \n"
+    publishedDateTime: 2020-11-24T18:05:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mx4pj7IfXGc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/state-certification-2020-election-results-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121185207-01-pennsylvania-mail-in-ballot-counting-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior GOP lawmakers grow anxious over Trump's effort to overturn election results "
     excerpt: "A growing number of veteran GOP lawmakers are pushing back on President Donald Trump's tactics to overturn election results showing he lost the race, raising concerns that his tactics could hurt the US response to the coronavirus crisis and undercut a key pillar of democracy.\n    \n"
     publishedDateTime: 2020-11-20T17:46:22Z

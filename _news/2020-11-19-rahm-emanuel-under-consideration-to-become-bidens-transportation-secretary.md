@@ -159,6 +159,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CDC ready for Biden transition: \"This is what we've been waiting for\""
+    excerpt: "Leadership at the Centers for Disease Control and Prevention, beset by a Trump White House that was harshly critical of the agency's coronavirus response, are anticipating the Biden transition team and the change a new administration will bring, senior health officials tell CNN.\n    \n"
+    publishedDateTime: 2020-11-24T17:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40tKJCm1ngI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023122452-cdc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'The team meets this moment:' Biden introduces top admin nominees "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday introduced their first slate of Cabinet-level picks, and the six foreign policy and national security nominees and appointees joined them onstage at an event in Wilmington, Delaware.\n    \n"
+    publishedDateTime: 2020-11-24T18:24:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ECfaZ157CKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
     excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
     publishedDateTime: 2020-11-20T00:38:42Z
