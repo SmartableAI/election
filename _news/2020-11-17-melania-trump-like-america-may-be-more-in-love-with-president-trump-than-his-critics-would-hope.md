@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
-    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
-    publishedDateTime: 2020-11-21T20:52:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+  - title: "Melania Trump receives 2020 White House Christmas tree"
+    excerpt: "The first lady stepped out on the North Portico of the White House to accept the tree, a 18.5-foot-high Fraser Fir from West Virginia."
+    publishedDateTime: 2020-11-24T04:33:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/11/23/melania-trump-receives-white-house-christmas-tree-west-virginia/6393835002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6393835002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6393835002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/3f09f327-8daa-41a9-9b72-5144a8b10254-AP_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Chris Christie dismissed Trump's legal team as 'a national embarrassment'"
+    excerpt: "The former New Jersey governor and staunch ally of the president said that in cases of voter fraud, there is \"an obligation to present the evidence.\""
+    publishedDateTime: 2020-11-22T17:31:00Z
+    webUrl: "https://www.businessinsider.com/chris-christie-trump-legal-team-courts-contesting-presidential-election-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f7904f6282c500018c7875e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "aiXiNr4+qukQ6x6Py2WQXQZ6DOO8LzqP42XFi5mEK8tEEJP10DfgkAomqrzBRnwzn3sE+oaDRzedo7tIkf8lHTt98ONU6YbyhyeML+hqqcDaCvXkCOO6h0kbbVxev9vBgkp0RdI6XptIxj6cJ39LxiwonPCCyGAUDC92DbN5ojDYOpopQj6LKcufWN46/UAF4YXH4ainkPpSPMCDPP/XkXzJdctwAUZxsYqVTCBlCQ4UUwMOThrViVekQgmVkYX7ZM7Ulj9w9vs58kYKUbFnikchI0UiWj0UwFGqyNI5qKqLMMDyRvCAcBrKRbBc5nBubMjxl3gSyl7JhxEIM9RftX6MmJO626nRTove6FkuU0UJb+ZMXHXd4nqem2OPMrxgclNd2rfKtLsQCqz9T2rPHrgkWBLtb6A6Ok/AVdHL4kpwNAGqBNOV/2OPLwpaJrMfbtXbBLNqxK+gjsYOwTyeIPfRx7aU8kLQ+8F9YRljId+0mLfgx1Aixb3/ou5Qr5V6LUDaMP2C/qA8srB5zGflaw==;YxXkXtAl/u75ay6JBM306w=="

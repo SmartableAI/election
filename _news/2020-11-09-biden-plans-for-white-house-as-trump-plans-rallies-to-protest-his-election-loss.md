@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 15961
+heat: 16041
 published: true
 
 provider:
@@ -4157,6 +4157,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump finally gives his administration green light to proceed with Biden transition"
+    excerpt: "After weeks of defiance, President Donald Trump on Monday allowed officials to proceed with a transition to President-elect Joe Biden, giving his Democratic rival access to briefings and funding even as he vowed to persist with efforts to fight the election results."
+    publishedDateTime: 2020-11-24T06:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN284058"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN284058"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN284058"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542227095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN02V"
+        width: 824
+        height: 545
+        isCached: true
   - title: "Biden Receives More Than Twice As Much Money From Billionaires As Trump In Final Push"
     excerpt: "Joe Biden picked up contributions from new donors like Yahoo cofounder Jerry Yang and Palantir chief Alex Karp. Meanwhile, old pals of Donald Trump, like Phil Ruffin and Andy Beal, sent his reelection committees big checks."
     publishedDateTime: 2020-10-25T00:28:00Z
@@ -4328,6 +4344,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Election 2020 live updates: Trump to take part in White House turkey pardon after GSA clears way for Biden transition"
+    excerpt: "Be sure to refresh this page often to get the latest information on the election and the transition. The White House turkey pardon on Tuesday is likely to garner attention as all eyes will be on President Donald Trump after the administrator of the General Services Administration said she would allow President-elect Joe Biden to begin his official transition."
+    publishedDateTime: 2020-11-24T11:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/24/election-updates-all-eyes-white-house-turkey-pardon-trump-day-after-gsa-ascertains-biden-election-wi/6403253002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6403253002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6403253002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/db17ceff-b50c-47ce-bc33-dd34f73d0e0f-GTY_1190233605.JPG?auto=webp&crop=2610,1469,x0,y587&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden goes ahead of Trump in Michigan as vote count continues in state's largest counties"
     excerpt: "President Trump has tried to claim victory with millions of votes still to be tallied in key states such as Michigan and Pennsylvania."
     publishedDateTime: 2020-11-06T20:53:00Z
@@ -4487,6 +4519,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DMF25DRLFII6XGYUVWDSCV7LZE.jpg&w=1440"
         width: 1200
         height: 856
+        isCached: true
+  - title: "Over 100 Republican national-security experts implore Trump to concede the presidential election to Biden and start the transition process"
+    excerpt: "A letter asks GOP leaders to \"publicly demand that President Trump cease his anti-democratic assault on the integrity of the presidential election.\""
+    publishedDateTime: 2020-11-24T03:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-republican-national-security-experts-concede-election-biden-transition-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/trump-republican-national-security-experts-concede-election-biden-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-republican-national-security-experts-concede-election-biden-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5fbbed1350e71a0011556d58?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Why this conservative voted for Biden and you should too: Trump is a morally defective man"
     excerpt: "I'm a conservative and former Republican who did not vote based on policy. Neither should you. The 2020 election is about the moral future of America."
@@ -10441,6 +10489,20 @@ related:
     quality: 97
     images:
       - url: "https://i.insider.com/5fad554e4044a00018f762b1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump only agreed to unlock Biden's transition when aides told him he didn't have to admit that he lost, report says"
+    excerpt: "President Donald Trump had drawn heavy criticism for delaying President-elect Joe Biden's ascent to power, despite a clear election result."
+    publishedDateTime: 2020-11-24T11:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-allowed-biden-transition-after-told-didnt-need-concede-nyt-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5fbce55032f2170011f70d32?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

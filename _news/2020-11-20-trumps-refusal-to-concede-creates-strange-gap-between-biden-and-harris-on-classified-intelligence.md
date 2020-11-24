@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1321
+heat: 1361
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116175720-joe-biden-1105-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden unveils his administration as Trump's firewall crumbles"
+    excerpt: "Not even Donald Trump, the great twister of truth, could keep reality at bay forever.\n    \n"
+    publishedDateTime: 2020-11-24T11:32:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZJQPulFsWQ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/joe-biden-transition-donald-trump-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/joe-biden-transition-donald-trump-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123054705-donald-trump-news-conference-1120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -525,6 +541,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119145352-rudy-giuliani-trump-legal-team-briefing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what resources Biden's team gets now that the formal transition is underway"
+    excerpt: "When the General Services Administration informed President-elect Joe Biden on Monday that the Trump administration is ready to begin the formal transition process, it released a slew of resources for his team to access in the coming weeks, including nearly $6.3 million.\n    \n"
+    publishedDateTime: 2020-11-24T02:48:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OhYJn87xkvQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/joe-biden-transition-resources/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/joe-biden-transition-resources/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116155233-07-biden-harris-economy-remarks-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
-excerpt: "U.S. President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
-publishedDateTime: 2020-11-24T01:18:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idUKKBN2832I5"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idUKKBN2832I5"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2832I5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2832I5"
+excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+publishedDateTime: 2020-11-24T06:55:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
 type: article
 quality: 123
 heat: 203
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542229639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
     width: 817
     height: 545
     isCached: true
@@ -96,6 +96,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2yqzNy2cj5267mp1Shc+X6YQmBfXcFAPEeh1RArEBtPcRQ7EF0lqZEF8BUvckNH67HvXKK82n9nu+ZqoLpP6oZFp0dgEuCS04em1LrXe3DRZmD2H0MG5uWug6HW6gN65sGDdSPDPupnGIk7yLh1pOvEElmwfKm9G1YnaGWJWrvQZD3CZrIwNUsRfhmKvwRF0++BZZ8T4fU/maxHq67qXOgbAG4paK1i3lPNR0H7dId+aHW4emKwLJnysMxShfA27FiaF1MlVqZ3DFxkfJGPT8h6TOAs7/MxsFiSzdCEWo535PzG8Q/7QX+Vl4BnvENb9hv9QYQfTsgPjkTBWV0opCfBBUcE9wg7AaaLtunW11jA=;u+a/PLNL5nqoLP88UUV9ag=="
+secured: "O8OqlfsbBkJoIuw6lro5aYTelYNOhq80yf8GVZgdshLT4LSIL36qS2XdqMSrhahE+stE9sC3PQbQfDCqznhxQkvQrayWkaAX1RkqyMjS/jj9FcMdB6BxHl51+LGpHKNpdXyHtJxzNC3XQBdz88iwvw4hwAUWB3eb67x3MzAAkELhlR7/phEFv1ZgpUtp1VOEbvTxXi7F9vlsCsKuqoqYZcVdwdpb9BWVdGVM9/qHLxexg/ZvR0Cy3hsqxRLn5zXTorrzZXvzm1QLzLq66G0s9fNOJoWlE5mjEDERRj7zlh22E7hx+Fg0u7j7Z84mOVh9GB061TbexFrz5G2ODu6E7MCvYud+qVOiJillIB6k2a8=;aZpdqqfHdVC5fjdB0Ri62w=="
 ---
 

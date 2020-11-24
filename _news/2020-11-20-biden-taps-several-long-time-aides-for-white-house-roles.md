@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy"
+    excerpt: "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year."
+    publishedDateTime: 2020-11-24T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

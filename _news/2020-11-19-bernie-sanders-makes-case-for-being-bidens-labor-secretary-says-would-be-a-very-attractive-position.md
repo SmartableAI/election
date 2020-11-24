@@ -79,6 +79,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US should encourage China's rise, Biden national security pick Jake Sullivan says"
+    excerpt: "Sullivan served as an adviser to Biden during his vice presidency."
+    publishedDateTime: 2020-11-24T03:06:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VSIeeNJYMJg/biden-national-security-pick-jake-sullivan-us-chinas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-pick-jake-sullivan-us-chinas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c99b2eab-fccd-4bca-bd8a-6c50dcb0b717/753df433-c345-48e6-b3a0-496c55d655a5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
+    excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"
+    publishedDateTime: 2020-11-24T03:29:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ilKFizTMeyU/rashida-tlaib-biden-antony-blinken"
+    ampWebUrl: "https://www.foxnews.com/politics/rashida-tlaib-biden-antony-blinken.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rashida-tlaib-biden-antony-blinken.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3M30/JxSAkUT2fuAgETZDN9hwkbumSgklOwlvz3Es6n6WnbJO9IXEMLVRnwNyvS79nDU+MX1Fkchk4vUCJ+QdMphjuN3yvTDmjAj2GZp33krjblOJDoQj0aZHGq15HzdERTA92Peio5kNAa89FSPoQCh6xsNwM3sVQAmm7FZcAekihJUbFs9/3NXuf+RzMEqTJWrri9DMkA2wenTlz/ORitiPPfP02Nlte9BZJ4a7H/gHy6iaYjph8OC/GKWxRaCdTGAgsJaMdHpl3H1ZLbCzZMixBKDJd6vj1nuEFTlnugAejW+Sg+t48fZD4+Y8hpefjZhC1WQN4CYV52mrWD12+GXHq89Np2Y5WzE5eAK9RM=;EZLRc95FdrBQE7yyz90+vA=="
 ---

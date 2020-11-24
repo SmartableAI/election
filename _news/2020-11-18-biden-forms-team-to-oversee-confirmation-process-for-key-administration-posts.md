@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's new WH national security adviser downplayed Antifa threat"
+    excerpt: "Jake Sullivan, the Democratic aide tapped by President-elect Joe Biden to be the next White House national security advisor, previously downplayed Antifa, calling them “a loose collection of people on the internet.”"
+    publishedDateTime: 2020-11-24T02:58:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/atMePuuAx9A/biden-jake-sullivan-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-jake-sullivan-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jake-sullivan-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal"
     excerpt: "The progressive lawmakers belonging to the “Squad” took to the steps of the DNC Thursday to demand President-elect Joe Biden in his administration implement the Green New Deal, transforming the U.S. economy to combat climate change and creating thousands of jobs in renewable energy."
     publishedDateTime: 2020-11-19T22:39:23Z

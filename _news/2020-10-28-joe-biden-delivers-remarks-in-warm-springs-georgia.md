@@ -371,6 +371,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP senator, business leaders urge prompt Biden transition"
+    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect Joe Biden"
+    publishedDateTime: 2020-11-24T01:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0ba1e4d15d6349939f9de0a232fc44a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z
@@ -668,17 +684,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "GOP senator, business leaders urge prompt Biden transition"
-    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect ."
-    publishedDateTime: 2020-11-23T22:15:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
@@ -723,6 +728,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's transition team to begin meeting with federal officials - executive director"
+    excerpt: "President-elect Joe Biden's team will begin meeting with federal government officials to discuss the pandemic response, national security and other issues after a U.S. agency gave the go-ahead for the formal transition on Monday,"
+    publishedDateTime: 2020-11-24T06:45:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-transition-idUKKBN283368"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN283368"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN283368"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
     excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
     publishedDateTime: 2020-11-20T14:24:00Z

@@ -384,6 +384,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy"
+    excerpt: "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year."
+    publishedDateTime: 2020-11-24T10:04:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "Dp3eyL+1XuvOzn/8IjWQivVJJ9yQ2aUL1hsS0/MCwELaSp8ydONuGyzdFH5/fgF4uqiw0h9Sx7uVVeTVF6AkR5ctO2ZEY/gWJEmd656f9ZI7UtatZBPyQlhZJXT3m7FdACEWUePCsRxSg+yyMHiL+2JrlSQLVVWFBFDPokzpyEisCIJek5tiBNWvubz4LxIF+Zahlp08LaMU5HgdMqg5fiotbT4HDE2XCAawBWq8J6Raaht+jFibIaO0lH5zTO/Y1/z/6zjG52SFg/sALsTs23oU0lpPL7KJZhpiEMYvJGvVP+xULFodVQ6R7nzhfjmh3LmYYYkePXEhcQB8RiSjF6tZ98elocHY9RhmnmXWYpE=;j5UaSHhZPEEXnksC5e30zg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 2161
+heat: 2241
 published: true
 
 provider:
@@ -560,6 +560,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump carries on fight to overturn Pennsylvania's election even as his administration green-lights Biden transition"
+    excerpt: "The Trump campaign has appealed a federal ruling rejecting its attempt to block Pennsylvania from certifying its results. Joe Biden won the state."
+    publishedDateTime: 2020-11-24T03:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/11/23/trump-appeals-federal-ruling-tossing-pennsylvania-election-challenge/6397943002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6397943002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6397943002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/31/USAT/0ce85bbb-a038-4cb3-81db-03efe11419d1-Biden_Trump_Campaign.jpg?auto=webp&crop=3999,2249,x1,y151&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
     excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."
     publishedDateTime: 2020-10-23T05:01:00Z
@@ -607,6 +623,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XQ7UBYBNVII6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The letter enabling Biden's transition goes to extreme lengths to avoid saying that he beat Trump and won the election"
+    excerpt: "Emily Murphy, the GSA administrator who authorized Biden's transition, didn't address Biden as \"President-elect,\" and prevaricated about his victory."
+    publishedDateTime: 2020-11-24T12:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-transition-letter-wont-admit-beat-trump-in-the-election-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-transition-letter-wont-admit-beat-trump-in-the-election-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-transition-letter-wont-admit-beat-trump-in-the-election-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5fbd020050e71a0011557034?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "Trump relents after steady drumbeat of fellow Republicans urge start of Biden transition"
+    excerpt: "President Donald Trump gave some ground on Monday to allow Joe Biden's transition to the presidency after the ranks grew of prominent Republicans calling for Trump to end efforts to overturn his election defeat."
+    publishedDateTime: 2020-11-24T06:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-congress-idUSKBN2832O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542193989&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CZ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
     excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
@@ -1101,6 +1149,22 @@ related:
       - url: "https://i.insider.com/5fb57c6750e71a001155602f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Under pressure, Trump appointee Emily Murphy approves transition in unusually personal letter to Biden"
+    excerpt: "The low-profile head of the General Services Administration had become a stand-in for the country’s divisions."
+    publishedDateTime: 2020-11-24T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gsa-emily-murphy-transition-biden/2020/11/23/c0f43e84-2de0-11eb-96c2-aac3f162215d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gsa-emily-murphy-transition-biden/2020/11/23/c0f43e84-2de0-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gsa-emily-murphy-transition-biden/2020/11/23/c0f43e84-2de0-11eb-96c2-aac3f162215d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4ZC5BF3MI6XBTSYKA4PIWJNY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump's defeat by Joe Biden has triggered a huge wave of relief among the United States' European allies"
     excerpt: "\"There was not really a plan B in case Trump won,\" said Jana Puglierin from the European Council on Foreign Relations."

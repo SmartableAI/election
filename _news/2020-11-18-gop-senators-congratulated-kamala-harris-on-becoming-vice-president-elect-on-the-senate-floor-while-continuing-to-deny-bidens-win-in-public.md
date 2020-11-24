@@ -266,6 +266,22 @@ related:
         width: 1440
         height: 963
         isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live updates"
+    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
+    publishedDateTime: 2020-11-24T12:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbcf22c8f087f6ff109ce67"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/9dea9f0d2ba39bd7f5162398dabac964b1b8d207/476_139_1943_1166/master/1943.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf69ef096a63dfad0613ba793cb9a231"
+        width: 600
+        height: 360
+        isCached: true
   - title: "US election: Kamala Harris' ancestral Indian village celebrate vice-president-elect"
     excerpt: "US Vice-President-elect Kamala Harris' ancestral Indian village has been celebrating her election victory. Thulasendrapuram, in the southern Indian state of Tamil Nadu, was the home of Ms Harris' maternal grandfather."
     publishedDateTime: 2020-11-10T18:44:00Z
@@ -295,6 +311,20 @@ related:
       - url: "https://i.insider.com/5fb3d7b5d0c5f832483137f5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "America’s Mayors Discuss Shared Priorities with President-Elect Biden, Vice President-Elect Harris"
+    excerpt: "Today the leadership of the U.S. Conference of Mayors (USCM) participated in a virtual meeting with President-elect Joe Biden and Vice President-elect Kamala Harris. Mayors have developed a strong working relationship with the President-elect over many years and were pleased to be able to discuss important priorities for the year ahead."
+    publishedDateTime: 2020-11-24T10:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/joe-biden-north-america-health-coronavirus-pandemic-kentucky-cf40021595c87fba9b9fb3c5e7a08257"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 106
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "New Zealand leader Ardern offers virus know-how to Joe Biden"
     excerpt: "New Zealand Prime Minister Jacinda Ardern on Monday became the latest world leader to congratulate President-elect Joe Biden on his election victory, saying"

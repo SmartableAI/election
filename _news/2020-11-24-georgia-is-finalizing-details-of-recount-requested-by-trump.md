@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP senator, business leaders urge prompt Biden transition"
+    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect Joe Biden"
+    publishedDateTime: 2020-11-24T01:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-senator-business-leaders-urge-prompt-biden-transition-74364751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0ba1e4d15d6349939f9de0a232fc44a1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z
@@ -664,17 +680,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "GOP senator, business leaders urge prompt Biden transition"
-    excerpt: "Pressure is increasing on a Trump administration official to authorize a formal transition process for President-elect ."
-    publishedDateTime: 2020-11-23T22:15:00Z
-    webUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-senator-business-leaders-urge-prompt-biden-transition-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
@@ -719,6 +724,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's transition team to begin meeting with federal officials - executive director"
+    excerpt: "President-elect Joe Biden's team will begin meeting with federal government officials to discuss the pandemic response, national security and other issues after a U.S. agency gave the go-ahead for the formal transition on Monday,"
+    publishedDateTime: 2020-11-24T06:45:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-transition-idUKKBN283368"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN283368"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN283368"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
   - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
     excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
     publishedDateTime: 2020-11-20T14:24:00Z
@@ -771,6 +787,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "WSVHmB9VnVL5r3NS7GWaPwqwOyyxJfbXCbqeiUxp21VYeDlx9yH0DSFumk8jdDksGSzrFrn+1NCPnRPfgT1KimC3DCShp4Apva52/x5NXoJwG7wXH2AbM2sjkqqWbPwbIMUDZ1u97v5aFt06HwhB/ms16Re5Je6kKDHo7wy1fqcGAd2ByoSvN/+3NQt+CEJyd7fLdRx7zKvjwVK547FqdBAjWov8e3dTd/PopozehfCOwzJ5Y75OV8yd+BYmgznt3dfzNGgnNzfmmdfJ9i9/vJLk2QS3/aaDZPwG+BnUm0o+ptDF+XIPD4EYghOGGOrk2QpIzsFyQ0YJ12O79yI55G5q5JstHV4iIZ1HXahjtKY=;wuhgrIN/mpEcVsqjP5qWEA=="
+secured: "ZH+2KUwVgwsqDlXySrXNpqJW1Gn0DdlXEtLUZpua1bfK9YCY/6RC3vxIBuVVOCjnhH+LZG42im4HFr17HA5cwiJ4YJRyRCEkF0YKWsVjJg3IYsju4vZbWxH15j21PVX5MB4gaBa3v8O6rLRXLfgyNPcHHSvQmnczDuH1Efq3MstrNmsuBIgUX3jPqLXDdPlFnC9TvlLwZyHIOAWGXEDwg3iiDVo69LUpT48vMXKoAFjC07dMlDQUKHPXaE2y2ZdovStLBmh7V730XCe0d6cSaSVS0X2hOTue0vnEVggn0ME6+k7xQ2ltSwWTGnBWmo/V7ne9fWEbo1diwdoQzUGJDkS1nSrdweutXMwakm4960TR3Cv0izx8VJqaQ1DPQuqe3w5jxNFpHuOmmjJAY5q3z9yXbzUkMPsmjoUogA1OvSjYOdTSPXH2oLTUO8XkEu2qdOBKhJaRrHb1Zdm64Q4PJOuIdy1H0DQEAE4/0+33XlUNLBYMfTfx0DQjSANs3P6jEAizfs00ZAhc3HeV7SFBIw==;DLXEuCFCnZbW294gKRXRUQ=="
 ---
 

@@ -384,6 +384,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump is leaving minority votes on the table"
+    excerpt: "President Donald Trump appears determined to end this stage of his political career the same way he began it: by promoting a racist conspiracy theory.\n    \n"
+    publishedDateTime: 2020-11-24T05:01:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cDhbD7dxVbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/trump-gop-minority-voters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/trump-gop-minority-voters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123135244-trump-speaks-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z
@@ -1033,6 +1049,20 @@ related:
     quality: 131
     images:
       - url: "https://static01.nyt.com/images/2020/11/13/us/politics/13disinfo-electors1/13disinfo-electors1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Since Election Day, a Lot of Tweeting and Not Much Else for Trump"
+    excerpt: "President Trump has tweeted an average of 29 times a day in the last three weeks, mostly lamenting the results of the election, even as the coronavirus pandemic reached new heights across the country."
+    publishedDateTime: 2020-11-24T10:05:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/11/24/us/politics/trump-twitter-tweets-election-results.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/trump-calendar-promo-1606172604599/trump-calendar-promo-1606172604599-facebookJumbo.png"
         width: 1050
         height: 549
         isCached: true

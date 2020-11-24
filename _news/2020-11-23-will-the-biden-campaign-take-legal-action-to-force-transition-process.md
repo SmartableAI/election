@@ -128,6 +128,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump downplays GSA move to ascertain Biden as ‘apparent winner’"
+    excerpt: "President Trump took to Twitter late Monday to respond to those who see the General Services Administration’s (GSA) decision to make federal resources available to Joe Biden’s transition team as a sign that his legal challenge is losing steam."
+    publishedDateTime: 2020-11-24T05:34:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KIvy6769v4M/trump-downplays-gsa-move-to-ascertain-biden-as-apparent-winner"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-downplays-gsa-move-to-ascertain-biden-as-apparent-winner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-downplays-gsa-move-to-ascertain-biden-as-apparent-winner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says for first time that Biden 'won,' adds that he is not conceding"
     excerpt: "President Trump for the first time on Sunday signaled that Joe Biden \"won\" the 2020 presidential election that he continues to say was \"rigged\" against him, adding that he is not conceding the race."
     publishedDateTime: 2020-11-15T13:52:59Z
@@ -400,6 +416,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats in Congress say ‘about time’ GSA certifies Biden win, GOP split on Trump legal challenges"
+    excerpt: "Democrats in Congress on Monday night said they are happy General Services Administration (GSA) Administrator Emily Murphy declared Joe Biden the apparent president-elect, opening the door to an orderly transition of power, but stopped short of giving her or the Trump administration credit for the move"
+    publishedDateTime: 2020-11-24T12:46:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kg610-ZjO5o/democrats-in-congress-say-about-time-gsa-certifies-biden-win-as-gop-split-on-trump-legal-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-in-congress-say-about-time-gsa-certifies-biden-win-as-gop-split-on-trump-legal-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-in-congress-say-about-time-gsa-certifies-biden-win-as-gop-split-on-trump-legal-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2069c0c-74dd-472f-8781-6653e4b602e0/b7bd73a7-fd86-42e4-8c9e-e7f2862265a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden taps reparations advocate for Treasury transition"
     excerpt: "A major reparations advocate has a seat on Joe Biden's transition team."
     publishedDateTime: 2020-11-16T15:32:52Z
@@ -493,6 +525,38 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2d1cb93-b2ec-4a6e-a30f-1c1c1b3c3993/a08bb5b2-fb09-4b94-91af-d86ad3a69ce4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden gets green light to begin formal transition process"
+    excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
+    publishedDateTime: 2020-11-24T03:53:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bio0LVeZEf0/live-updates-election-11-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c722208-ddb0-49c5-983f-3f35a971175f/b6f04e1d-a27b-4db2-8626-b3520d3bc578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump's legal team criticized by Rush Limbaugh"
+    excerpt: "Rush Limbaugh knocked President Trump's legal team for underdelivering at last week's widely-hyped press conference alleging widespread voter fraud that stole a \"landslide\" victory from their client. "
+    publishedDateTime: 2020-11-24T03:53:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gvL2kh9z3nY/live-updates-election-legal-11-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-legal-11-24-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -736,6 +800,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Clears Way for Biden Transition Process to Begin After Weeks of Delay"
+    excerpt: "The chief of the General Services Administration had come under increasing pressure from members of both parties to make the determination to provide the resources to President-elect Joe Biden’s team."
+    publishedDateTime: 2020-11-24T08:18:00Z
+    webUrl: "https://www.wsj.com/articles/democrats-pressure-gsa-to-name-biden-winner-start-transition-11606172086"
+    ampWebUrl: "https://www.wsj.com/amp/articles/democrats-pressure-gsa-to-name-biden-winner-start-transition-11606172086"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/democrats-pressure-gsa-to-name-biden-winner-start-transition-11606172086"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 148
+    images:
+      - url: "https://images.wsj.net/im-263874?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Voting Machine Supplier Criticized by Trump in Spotlight on Election Integrity"
     excerpt: "Dominion Voting Systems Corp., a little-known voting-machine supplier that has come under criticism from President Trump, was a linchpin in the 2020 election that federal and state officials praise as being free from tampering."
     publishedDateTime: 2020-11-17T14:51:00Z
@@ -776,6 +856,22 @@ related:
       - url: "https://images.wsj.net/im-262890?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "GSA chief informs President-elect Biden that formal transition process can begin"
+    excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
+    publishedDateTime: 2020-11-24T08:20:00Z
+    webUrl: "https://www.foxnews.com/politics/gsa-chief-letter-president-elect-biden-formal-transition-process-resources"
+    ampWebUrl: "https://www.foxnews.com/politics/gsa-chief-letter-president-elect-biden-formal-transition-process-resources.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gsa-chief-letter-president-elect-biden-formal-transition-process-resources.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9296518-0638-4026-ab46-7281db8578f7/70ab4285-1557-4909-8c07-e99220b6d3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ml63WL85lb7jngbJDF+3O84xihJy2k70Z/gz0i5v6T8u15dmnFczh0e9uuA+w7geTwGk/wR4WOAdcXJJMwSDDQSWRA5oJDqOWu90HoVheE/HiGkCfyuejyjZjzwW0U0vVgYAwrNNz4diLThaGmcDgaAz2bES1CWbM1jaqpFCXPmTOn+dzB1lQwwuUlWZJpcVrwTqppExYljNuqwp7QaP07DpCptT4T6iYR5SrFOcHqUyM2qyiVyb7/OVU193CztuLGMtnKanmNhqaVNg9VMeSLXOtRBErUyi9AWHjBDAQ7Vd/OV3CIOzsKECJKgYEk0zu7T661wZbgEB+8aOdt1q+BoVP5GaeQTRSZzTqWvju5XOFe3iwq/uBv69oFhl5ijM0xPCYk/muxTjoBppMK4Knt9HI04gYcoQZPkc3U/qdn8lQzBLQXY+qWDvVM7s2pGXOgCs006KMaODw9jZDjCtHRDDClHwPAkGqWLj2ViY+ZD96gTQDOeg8niL3yMxHGnM4JUeX+IRBVtYIvEvKccDrA==;4B03xGGGWf3sviGZSwzzIg=="

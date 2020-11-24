@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's effort to steal the election is done"
+    excerpt: "President Donald Trump's not-secret attempt to steal the presidential election likely met its end Monday. And it was a group of local officials doing their job in Michigan that ended it.\n    \n"
+    publishedDateTime: 2020-11-24T03:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WHU5zt4290/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190822155129-02-general-services-administration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump puts Giuliani in charge of post-election legal fight after series of losses"
     excerpt: "President Donald Trump has placed his personal lawyer Rudy Giuliani in charge of his campaign's legal challenges contesting the outcome of the 2020 election, according to The New York Times.\n    \n"
     publishedDateTime: 2020-11-15T03:43:32Z

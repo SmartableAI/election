@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's effort to steal the election is done"
+    excerpt: "President Donald Trump's not-secret attempt to steal the presidential election likely met its end Monday. And it was a group of local officials doing their job in Michigan that ended it.\n    \n"
+    publishedDateTime: 2020-11-24T03:00:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3WHU5zt4290/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/what-matters-november-23/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190822155129-02-general-services-administration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior GOP lawmakers grow anxious over Trump's effort to overturn election results "
     excerpt: "A growing number of veteran GOP lawmakers are pushing back on President Donald Trump's tactics to overturn election results showing he lost the race, raising concerns that his tactics could hurt the US response to the coronavirus crisis and undercut a key pillar of democracy.\n    \n"
     publishedDateTime: 2020-11-20T17:46:22Z
