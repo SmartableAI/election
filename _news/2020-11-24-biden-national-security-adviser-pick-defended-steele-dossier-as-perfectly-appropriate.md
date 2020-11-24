@@ -639,6 +639,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to begin receiving President's Daily Brief as transition is formally underway"
+    excerpt: "President-elect Joe Biden will begin to receive the President's Daily Brief, and has been in contact with every federal agency, just a day after the General Services Administration formally ascertained him as the winner of the 2020 presidential election, Fox News has learned."
+    publishedDateTime: 2020-11-24T22:53:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHcTr67DRAg/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Trump slams Michigan, Georgia counts as legal battle rages in Pennsylvania"
     excerpt: "Follow for the latest developments on the 2020 election legal fight."
     publishedDateTime: 2020-11-18T15:15:04Z

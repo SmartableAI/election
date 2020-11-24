@@ -288,6 +288,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump vents about election as agencies aid Biden transition"
+    excerpt: "President Donald Trump says he is not giving up his fight to overturn the election results, even as agencies across the federal government begin to support President-elect Joe Biden’s incoming adminis"
+    publishedDateTime: 2020-11-24T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 155
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -2879,6 +2895,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEIGIPRNZII6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump administration gives green light to proceed with Biden transition"
+    excerpt: "President-elect Joe Biden on Monday named the key members of his foreign policy team, tapping Antony Blinken as the next U.S. secretary of state, Jake Sullivan as national security adviser and Linda Thomas-Greenfield as the U."
+    publishedDateTime: 2020-11-24T16:42:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2830ET"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2830ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2830ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542222725&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM06S"
+        width: 841
+        height: 545
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

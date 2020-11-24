@@ -558,6 +558,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House has signed off on Joe Biden getting the President's Daily Brief"
+    excerpt: "Three weeks after the election, the White House has given formal approval for President-elect Joe Biden to receive the President's Daily Brief, a White House official told CNN Tuesday.\n    \n"
+    publishedDateTime: 2020-11-24T21:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tgAF-Y9qkS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/trump-biden-pdb-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/trump-biden-pdb-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ethics experts and Trump critics call for Senate investigation into Graham's probe into presidential election"
     excerpt: "Three top ethics experts and prominent critics of President Donald Trump on Wednesday formally requested the Senate Ethics Committee investigate whether Republican Sen. Lindsey Graham of South Carolina violated the chamber's rules in his probe over how mail-in voting was conducted in the 2020 presidential"
     publishedDateTime: 2020-11-18T18:36:07Z

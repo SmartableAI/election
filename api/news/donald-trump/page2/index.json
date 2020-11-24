@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
-      "title": "Trump Fires Again, This Time a Cybersecurity Official",
-      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
-      "publishedDateTime": "2020-11-18T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-a-federal-judge-ordered-the-trump-administration-to-end-a-program-that-deports-immigrant-children-who-cross-the-southern-border-alone.md",
       "title": "A federal judge ordered the Trump administration to end a program that deports immigrant children who cross the southern border alone",
       "excerpt": "The Trump administration policy has resulted in thousands of rapid deportations of minors during the coronavirus pandemic.",
@@ -1553,6 +1496,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-far-right-protesters-counterdemonstrators-plan-to-gather-saturday-in-dc-amid-pro-trump-rallies.md",
+      "title": "Far-right protesters, counterdemonstrators plan to gather Saturday in D.C. amid pro-Trump rallies",
+      "excerpt": "The events have been promoted by far-right media personalities, white nationalists and conspiracists — several of whom announced plans to attend. Counterdemonstrations organized by anti-fascist and anti-racism groups are being planned nearby.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6HLV6YAYPMI6XC62QFGKK3QTRM.jpg&w=1440",
+          "width": 1440,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/maga-dc-protests/2020/11/12/ca7a16fc-2455-11eb-8672-c281c7a2c96e_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-12T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

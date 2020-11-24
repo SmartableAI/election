@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20328073654227.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Rubio takes aim at Biden’s ‘Ivy League’ foreign policy Cabinet nominees"
+    excerpt: "It appears Republican Sen. Marco Rubio of Florida is no fan of some of President-elect Joe Biden’s foreign policy and national security Cabinet nominees. Rubio, who sits on the Senate Foreign Relations Committee, took to Twitter on Tuesday to blast some of Biden’s nominees as “caretakers of America’s"
+    publishedDateTime: 2020-11-24T21:35:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYZPcr51iSc/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-takes-aim-at-bidens-ivy-league-foreign-policy-cabinet-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's national security adviser pick played key role in Clinton email scandal"
     excerpt: "Jake Sullivan served as deputy chief of staff to Hillary Clinton during her time as secretary of state and later served as a top policy adviser during her campaign."

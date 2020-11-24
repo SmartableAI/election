@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Trump administration is considering shortening the recommended quarantine time for Covid-19"
+    excerpt: "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n"
+    publishedDateTime: 2020-11-24T22:39:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Working for Trump Ends in Getting Fired or Getting Covid, Kimmel Says"
     excerpt: "President Trump fired Christopher Krebs, a senior cybersecurity official, via Twitter on Tuesday. “Usually to get rid of Krebs, Trump uses a little comb and some medicated shampoo,” Jimmy Kimmel joked."
     publishedDateTime: 2020-11-19T13:55:00Z

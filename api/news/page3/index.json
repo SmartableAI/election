@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-biden-transition-official-asks-progressives-to-wait-before-they-pass-judgment.md",
+      "title": "Biden transition official asks progressives to wait 'before they pass judgment’",
+      "excerpt": "Amid criticism from progressive groups over President-elect Joe Biden’s choices so far for top White House officials, a leading Biden transition official on Friday encouraged people to wait to see the full picture of the team the president-elect names and highlighted that the Biden administration would",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YL7NIV00y2w/biden-transition-progressives-wait-to-pass-judgment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-progressives-wait-to-pass-judgment.amp",
+      "publishedDateTime": "2020-11-20T12:16:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-mike-pence-rallies-with-loeffler-perdue-in-cherokee-county.md",
       "title": "Mike Pence rallies with Loeffler, Perdue in Cherokee County",
       "excerpt": "Vice President Mike Pence traveled to Georgia today to attend rallies in support of incumbent Republican Sens. Kelly Loeffler and David Perdue, as those Senate runoff races begin to take the state's political center stage.",
@@ -1113,7 +1169,7 @@
       "originalUrl": "https://www.reuters.com/article/ousivMolt/idUSKBN27Z34L",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1266,59 +1322,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-biden-paints-trump-as-reckless-as-pence-and-science-advisers-cheer-vaccine-news.md",
-      "title": "Biden paints Trump as reckless as Pence and science advisers cheer vaccine news",
-      "excerpt": "At dueling public events, the president-elect and the White House offered starkly different views of Trump’s pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2321,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FUMXMZBKXAI6XHBBHTCQDUEYD4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-19T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
       ]
     }
   ],

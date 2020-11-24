@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 2321
+heat: 2341
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542208886&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1I6"
         width: 748
         height: 545
+        isCached: true
+  - title: "'America is back': Biden pushes past Trump era with nominees"
+    excerpt: "Declaring \"America is back,\" President-elect Joe Biden introduced his national security team on Tuesday, his first substantive offering of how he’ll shift from Trump-era “America First” policies by relying on experts from the Democratic establishment to be some of his most important advisers."
+    publishedDateTime: 2020-11-24T21:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c655a9844e2f4a9e91e7da4b0f50df26_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."

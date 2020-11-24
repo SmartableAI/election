@@ -559,6 +559,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House has signed off on Joe Biden getting the President's Daily Brief"
+    excerpt: "Three weeks after the election, the White House has given formal approval for President-elect Joe Biden to receive the President's Daily Brief, a White House official told CNN Tuesday.\n    \n"
+    publishedDateTime: 2020-11-24T21:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tgAF-Y9qkS4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/trump-biden-pdb-transition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/trump-biden-pdb-transition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact checking Giuliani and the Trump legal team's wild, fact-free press conference"
     excerpt: "In a wild, tangent-filled and often contentious press briefing led by President Donald Trump's personal attorney Rudy Giuliani, the Trump campaign's legal team laid out its case for widespread voter fraud in the election. The roughly 90-minute briefing was overflowing with falsehoods and conspiracy theories.\n"
     publishedDateTime: 2020-11-19T20:54:40Z

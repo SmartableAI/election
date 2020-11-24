@@ -63,6 +63,22 @@ related:
         width: 625
         height: 415
         isCached: true
+  - title: "From the coronavirus to the environment, Biden plans to take government in new direction"
+    excerpt: "A review of Biden's plans so far suggests that among his priorities will be tackling COVID-19, rolling back Trump actions, expanding on Obama initiatives."
+    publishedDateTime: 2020-11-24T21:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-24/biden-policies-plans-covid-19-guns-climate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 116
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/bdbe1ab/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fce%2Fbb2ca196c0e9e959721af595922e%2Fla-me-ln-road-closures-for-vice-president-bide-001"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump urges Congress to pass a 'big and focused' coronavirus relief bill in 1st stimulus comments since losing the election"
     excerpt: "Despite divisions between Republicans and Democrats, Trump called on lawmakers to approve a stimulus package, saying they need to \"get it done!\""
     publishedDateTime: 2020-11-14T17:00:00Z

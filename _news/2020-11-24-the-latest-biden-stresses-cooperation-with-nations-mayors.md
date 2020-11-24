@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-aides-legi
 ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
 type: article
-quality: 125
+quality: 135
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://s.abcnews.com/images/Politics/WireAP_3d5bf85a0daf40e48c4a17f4002b7386_16x9_992.jpg"
@@ -46,6 +47,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 142
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
+        width: 600
+        height: 360
         isCached: true
   - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
     excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
@@ -92,22 +109,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
         width: 3138
         height: 2106
-        isCached: true
-  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T19:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd5c848f080d5c1f5d53b9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/3b754be25a6b6a392e56f78396c99da3ee134d06/0_14_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b17ca436954fbe56b4688f1e212db59"
-        width: 600
-        height: 360
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -370,11 +371,11 @@ related:
         height: 800
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar has certified the results."
     publishedDateTime: 2020-11-24T17:31:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6407257002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6407257002"
     type: article
     provider:
       name: The Arizona Republic
@@ -677,6 +678,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "a6lFpyOpB8Y8+s4KSqEEmZB8JiIjF0Iy9Yk/073X4YSz7geikjt/cfvgLjuHtFhpgdLvDaIdL90r3wc+TjKjCMbDfUGjA3zTbBnFmTYGnPUnAbHDSVCQM5q3RiaHDElI4mXStaQtWxK5EyM5cIhr839fqRv6vJFzwHOic4eZxyYQlyAgrrwlQOO1ZJIUCeIsGVhwOwd9s3MjLA56SzlfUcn/GXDmYlCyyPBXDRlWtl3cSufRr2CRhMXTREHZIEAwoYXVuPedELj9iVxSXdWrXMQ/ZEpFSZctt0PHPzAXx5/G1tYl8UBYsKV9j/qmJqNk9NiB17VVCMjnbiOiYgFDoF93qiXGFSQ1iRXWGioP6V8=;86KhIPvlAuJU+a38bS0U0g=="
+secured: "hpO/yk5OFl9+Nz40d7t+4ByjCVEmP0pHy7splKZzb68X6COQWgHfqcMCgVkn4JqVqk/3eYF+AeiRiS9ZmGEuhJANBoo7RT6Qwpvo409QunSIc+f7hYJ2oEj7Hwlyej5V9R4HLHfhfddqzZXTMy1T0jwivTdY6PUwZXkDF81++VzBZ9PvDuAZlnPKWBvo1HdklyS7Pdcae24S2Rc3SY/yt9k3hFiYp61n/g8G0Pert3BWUp5GxzFYwOGGvHDFSTNuB2cYRITAJPkCtaWFyCf1y7tpno5n2nTz3Ao7Dj2fsndSpAu0PBhb32YIaPfIXBilbzWHnTwSsGyQynq+/lwE7pVHs4bBnjnjHgEsgxVW/2gFu+3hX3+YfXCImJ+QpGcVMYKkjrCz+ZfwmSVo6F3Y/vfvonl91GhyxoaoIOsRlH4bPO2t2eS5kFioaP1/x+7YZA87K1hFEj6Cgk7F15U147bQWGcpnVjkf2zsTIY9Qb5IpWEXIHEJ+8BxPeI9D5QSy6mwc9WXl1EUir3UPBD2Uw==;/0QVFISkQfnjh3/5wD9tqA=="
 ---
 

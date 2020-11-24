@@ -1327,7 +1327,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2321,
+      "heat": 2341,
       "tags": null,
       "images": [
         {
@@ -1369,63 +1369,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-working-for-trump-ends-in-getting-fired-or-getting-covid-kimmel-says.md",
-      "title": "Working for Trump Ends in Getting Fired or Getting Covid, Kimmel Says",
-      "excerpt": "President Trump fired Christopher Krebs, a senior cybersecurity official, via Twitter on Tuesday. “Usually to get rid of Krebs, Trump uses a little comb and some medicated shampoo,” Jimmy Kimmel joked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/19/arts/19latenight/19latenight-facebookJumbo.png",
-          "width": 970,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/19/arts/television/late-night-kimmel-trump-covid.amp.html",
-      "publishedDateTime": "2020-11-19T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1562,6 +1505,63 @@
       "ampWebUrl": "https://www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/us/politics/kevin-mccarthy-trump.amp.html",
       "publishedDateTime": "2020-11-18T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-trump-fires-again-this-time-a-cybersecurity-official.md",
+      "title": "Trump Fires Again, This Time a Cybersecurity Official",
+      "excerpt": "Two readers say the president fired an election official, Christopher Krebs, for his honesty and integrity. Also: A post-mortem on polling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/18/us/18dc-krebs-print/merlin_154823772_a5a1cf78-6b17-457c-b44a-78e80f318254-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/trump-cybersecurity-dismissal.amp.html",
+      "publishedDateTime": "2020-11-18T11:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

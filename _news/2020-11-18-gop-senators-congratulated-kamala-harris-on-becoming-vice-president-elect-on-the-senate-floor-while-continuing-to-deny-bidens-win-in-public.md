@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T18:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 142
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
     excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
     publishedDateTime: 2020-11-07T18:19:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/UXY6eBYAAt-E3aD3tY0DMKWQEB0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QGE35JUF4CRWD4FOHLCPJN56QA.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Latest: Biden stresses cooperation with nation's mayors"
+    excerpt: "President-elect Joe Biden says he wants to work closely with the nation’s mayors to help Americans cope during the coronavirus pandemic"
+    publishedDateTime: 2020-11-23T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5bf85a0daf40e48c4a17f4002b7386_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Prison Fellowship’s Statement on Joe Biden-Kamala Harris Election Victory"
     excerpt: "Prison Fellowship’s Leadership Urges New Administration to Advance Policies Helping Men and Women Imp"
@@ -93,22 +125,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
         width: 3138
         height: 2106
-        isCached: true
-  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T19:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd5c848f080d5c1f5d53b9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/3b754be25a6b6a392e56f78396c99da3ee134d06/0_14_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b17ca436954fbe56b4688f1e212db59"
-        width: 600
-        height: 360
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -185,22 +201,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_99e3068fa2664376aa979d6600c94874_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Latest: Biden stresses cooperation with nation's mayors"
-    excerpt: "President-elect Joe Biden says he wants to work closely with the nation’s mayors to help Americans cope during the coronavirus pandemic"
-    publishedDateTime: 2020-11-23T23:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-names-aides-legislative-affairs-team-74360634"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3d5bf85a0daf40e48c4a17f4002b7386_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -371,11 +371,11 @@ related:
         height: 800
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar has certified the results."
     publishedDateTime: 2020-11-24T17:31:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6407257002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6407257002"
     type: article
     provider:
       name: The Arizona Republic

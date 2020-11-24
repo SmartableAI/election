@@ -631,6 +631,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to begin receiving President's Daily Brief as transition is formally underway"
+    excerpt: "President-elect Joe Biden will begin to receive the President's Daily Brief, and has been in contact with every federal agency, just a day after the General Services Administration formally ascertained him as the winner of the 2020 presidential election, Fox News has learned."
+    publishedDateTime: 2020-11-24T22:53:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHcTr67DRAg/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-has-been-in-contact-with-every-federal-agency-as-formal-transition-is-underway.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden national security adviser pick defended Steele dossier as 'perfectly appropriate'"
     excerpt: "President-elect Joe Biden’s national security adviser choice Jake Sullivan previously served as an adviser for Hillary Clinton in 2016 and years after that election defended the dossier the campaign paid for on President Trump."
     publishedDateTime: 2020-11-24T17:58:12Z

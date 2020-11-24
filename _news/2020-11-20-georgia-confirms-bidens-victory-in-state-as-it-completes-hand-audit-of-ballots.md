@@ -447,6 +447,22 @@ related:
         width: 600
         height: 410
         isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
+    publishedDateTime: 2020-11-24T16:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd18b38f0868ed26c11735"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Most Mexicans back president's holdout stance on congratulating Biden, poll shows"
     excerpt: "A majority of Mexicans support President Andres Manuel Lopez Obrador's decision to hold off congratulating Joe Biden so far on his victory in the U.S. presidential election, an opinion poll showed on Tuesday."
     publishedDateTime: 2020-11-17T15:28:00Z

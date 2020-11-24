@@ -297,6 +297,22 @@ related:
         width: 748
         height: 545
         isCached: true
+  - title: "'America is back': Biden pushes past Trump era with nominees"
+    excerpt: "Declaring \"America is back,\" President-elect Joe Biden introduced his national security team on Tuesday, his first substantive offering of how he’ll shift from Trump-era “America First” policies by relying on experts from the Democratic establishment to be some of his most important advisers."
+    publishedDateTime: 2020-11-24T21:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-set-formally-introduce-national-security-team-74371760"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c655a9844e2f4a9e91e7da4b0f50df26_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
