@@ -397,6 +397,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Dow hits all-time high on Biden transition, rebound hopes"
+    excerpt: "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty."
+    publishedDateTime: 2020-11-24T20:50:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idINKBN28424W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28424W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28424W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542313881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN14E"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z
@@ -724,10 +740,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dow hits all-time high on Biden transition, rebound hopes"
-    excerpt: "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty."
-    publishedDateTime: 2020-11-24T16:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-dow-hits-all-time-high-on-biden-transition-rebound-hopes-idUSL4N2IA3CB"
+  - title: "US STOCKS-Dow hits all-time high on Biden transition, rebound hopes"
+    excerpt: "Wall Street’s main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden’s transition to th"
+    publishedDateTime: 2020-11-24T20:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2IA3CB"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IA3CB"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IA3CB"
     type: article

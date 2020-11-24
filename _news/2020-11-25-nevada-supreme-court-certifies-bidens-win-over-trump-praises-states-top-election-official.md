@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump-Biden transition live updates: No Trump concession amid official transition"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-24T19:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Battered by setbacks in push to reverse Biden win, Trump persists with fraud claims"
     excerpt: "Battered by setbacks in a desperate bid to overturn the U.S. presidential election, President Donald Trump persisted with claims of voter fraud on Saturday and his allies called for an audit of results from a Michigan county that voted overwhelmingly for Democrat Joe Biden."
     publishedDateTime: 2020-11-21T23:45:00Z
@@ -1694,6 +1710,6 @@ related:
         height: 563
         isCached: true
 
-secured: "qyKysvY4PpLvrmdtyn+S/KIsvHJAYPrkF3AxAOd2wNfT6J3++l8G+ieF1djL0xRa0XnstAEpq32xzy2cZ0GlLfPp7ymbS+ymwuLHrYMk0XHkiJKDUcO11n8SVy+7PCUn8WN666fmMiqSpU//XXLgMRPhChyx7ywxV70eqnWbRInzk40muHKSQROTR2zPoXYFSYksrXSYLZvloe2b5IOrVJOYjdhQv+YHluCj1xkabIQsbzIXBUO+G0zgYsBQGQ3/Kob/o+/emPgw0V3lYqjYSgN7Ae36ApyujSK5LJ1WWHubFwoP0pgEfvryKbnIsgWP3DCqZ6ewsnEGwnQDC95eYXe2ubMaeqn96TdEMW7jW4I=;gAt8w2wlCTUZA9aS9H2C6Q=="
+secured: "q/EFWYB/gU54vxcbdKQxjnMuivwHSbBQ9xEIxKlpk26SJfZ6TuL45zrPtqkbq6/D31jf1MTJ/u+FyqxfGSL7wSu2NCDHtmGq4bLWqpg0wRWOZWXRnm1OiAAfzaUT/r4PXewTfgKS5YuTqWiddaW3zc6an97TJ/pPO1lc3g41UcDvF0HhssAKliI4xFgryZYiga+99tcp31ASFOfPUZjzBhkfHSh9ghGaDiRxK+Th5f4oRPa0/dTdl/FanxtOPUnMTuDICDMnAD9Cr9UFCENooClrMyyfmmTY1/3wSECbYEXCIrwoT251KWqbObdAT9iE3a9OcmhtcI/hjnGbzjIYBvVSxgbXOv3vDSXlYpJf7musPlIA0n/QSmnsXfJMGVNrGmxbdfJn7D532j/nh9SY7ZeLkryDJEL+k+wr2KH7OyXrdJMJTOc/N+Kh/LzuzBMh7NFp3K21kiNORRQe+8U9FGtNfA2+ZoDOveSX2NYCKzTotdu0ag5+3J43mJho+R6lPD2fexXmHNpmmf+uVRYc+g==;1Zb8p/vVxpHklAeubrhMqA=="
 ---
 

@@ -83,6 +83,22 @@ related:
         width: 3138
         height: 2106
         isCached: true
+  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T19:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd5c848f080d5c1f5d53b9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/3b754be25a6b6a392e56f78396c99da3ee134d06/0_14_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9b17ca436954fbe56b4688f1e212db59"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-16T20:57:00Z

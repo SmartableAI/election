@@ -784,6 +784,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Transition Moves Quickly After Trump Agrees to Share Resources"
+    excerpt: "President-elect Joe Biden is moving quickly to take advantage of government resources for his transition to the White House after the Trump administration ended a 16-day stalemate and announced its intention to begin cooperating with his team."
+    publishedDateTime: 2020-11-24T20:41:00Z
+    webUrl: "https://www.wsj.com/articles/biden-transition-moves-quickly-after-trump-agrees-to-share-resources-11606232517"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-transition-moves-quickly-after-trump-agrees-to-share-resources-11606232517"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-transition-moves-quickly-after-trump-agrees-to-share-resources-11606232517"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-264105/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "GSA notifies Biden that Trump administration is ready to start transition process"
     excerpt: ""
     publishedDateTime: 2020-11-23T23:33:01Z

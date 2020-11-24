@@ -495,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's who Joe Biden has selected for his Cabinet"
+    excerpt: "President-elect Joe Biden is building out his Cabinet as he prepares for his time in the White House.\n    \n"
+    publishedDateTime: 2020-11-24T19:46:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZ_XTMNsyUk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124092702-hponly20201124-biden-cabinet-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z

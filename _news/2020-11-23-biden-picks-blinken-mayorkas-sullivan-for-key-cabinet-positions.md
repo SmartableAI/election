@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1fb50e8-f4fd-425d-9b2d-08dd32d77629/a69bb578-d024-4d13-902f-ea215b4f647c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's national security adviser pick Jake Sullivan touted Hillary Clinton's Libya debacle"
+    excerpt: "President-elect Joe Biden on Monday tapped Jacob Sullivan to be America's next national security adviser, but it remains to be seen if the former top Hillary Clinton adviser, who championed the ill-fated unraveling of Libya almost a decade ago, will take heed of those lessons learned."
+    publishedDateTime: 2020-11-24T20:41:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltREGagqqls/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Rashida Tlaib accused of anti-Semitism for reaction to Biden's Jewish Sec of State nominee"
     excerpt: "President-elect Biden announced Antony Blinken as his nominee to head the State Department"

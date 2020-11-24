@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
+    excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
+    publishedDateTime: 2020-11-24T19:04:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Options dwindling, Trump faces likely setback in Georgia recount"
     excerpt: "The U.S. presidential election battleground state of Georgia is expected on Thursday to affirm Joe Biden's victory over President Donald Trump after a painstaking recount, which would deal another setback to Trump's efforts to cling on to power."
     publishedDateTime: 2020-11-19T15:30:00Z

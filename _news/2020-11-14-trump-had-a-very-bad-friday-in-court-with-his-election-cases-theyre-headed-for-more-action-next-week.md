@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump probably can't pardon himself. He may still try"
+    excerpt: "President Donald Trump, has acknowledged -- sort of and without admitting defeat -- that Joe Biden will be taking over on January 20 at noon.\n    \n"
+    publishedDateTime: 2020-11-24T20:21:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SQilD1sgR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/presidential-pardons-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/presidential-pardons-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190308154336-trump-nixon-comparison-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Trump's fundraising could benefit his post-White House political life"
     excerpt: "One email asks for donations to \"Stop the Left from trying to steal the Election.\" Another offers a \"COUNT ALL LEGAL VOTES\" T-shirt in exchange for a $30 contribution. A third, signed by Eric Trump, asks for $5 \"IMMEDIATELY to support the official Election Defense Fund.\"\n    \n"
     publishedDateTime: 2020-11-23T20:31:52Z

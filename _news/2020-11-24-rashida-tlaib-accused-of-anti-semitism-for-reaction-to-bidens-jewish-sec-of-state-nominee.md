@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's national security adviser pick Jake Sullivan touted Hillary Clinton's Libya debacle"
+    excerpt: "President-elect Joe Biden on Monday tapped Jacob Sullivan to be America's next national security adviser, but it remains to be seen if the former top Hillary Clinton adviser, who championed the ill-fated unraveling of Libya almost a decade ago, will take heed of those lessons learned."
+    publishedDateTime: 2020-11-24T20:41:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ltREGagqqls/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-national-security-advisor-jake-sullivan-touted-hillary-clintons-libya-debacle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden secretary of state pick Blinken opposed terrorist label for Iran's Revolutionary Guard"
     excerpt: "Antony Blinken, President-elect Joe Biden’s pick for secretary of state, opposed designating the Islamic Revolutionary Guard Corp (IRGC) a foreign terrorist organization out of fears it would lead to blowback -- a potential sign of the softer stance a Biden administration is expected to take toward Iran."
     publishedDateTime: 2020-11-24T15:18:16Z

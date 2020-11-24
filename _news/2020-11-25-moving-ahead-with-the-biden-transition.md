@@ -496,6 +496,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's who Joe Biden has selected for his Cabinet"
+    excerpt: "President-elect Joe Biden is building out his Cabinet as he prepares for his time in the White House.\n    \n"
+    publishedDateTime: 2020-11-24T19:46:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZ_XTMNsyUk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-picks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-picks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124092702-hponly20201124-biden-cabinet-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "More GOP senators back transition as GSA recognizes Biden's win"
     excerpt: "Republican Sen. Shelley Moore Capito said Monday it's time for President-elect Joe Biden to begin \"receiving all appropriate briefings\" for a smooth transfer of power, the latest crack in President Donald Trump's GOP support as he continues to deny his election loss.\n    \n"
     publishedDateTime: 2020-11-24T01:23:12Z
@@ -1019,6 +1035,6 @@ related:
         height: 619
         isCached: true
 
-secured: "VnCQvyTvOg9794IZaTQJXZ0GINyMcdGrK4QjvFaYXXVvClslVYb83x7ioxw9jSEW9f7HHFVJDCPoCgKDVAvUZP/eaHVegH1tZZDQ6zNEC6RqF2G9qXEc/3Ewa/sJkMW4QCKeMWuG8HcuUWLkWPxQ4Zkbp2N/6BqmFtVtBKC6nFLIwaFGklhu4XbvbfXPcTYngOPYdgKegEiZUibX70EKSW1BInv/HMACOFVAAw1vDeWOGm/pxWzgtPkae8XGLmBnFbdRW8+T1bPaifvN5q+/5uNEwpgc7hJqtLrAc9g60D9ssXQ7vvhtZiA+42QgckWkBxcuyMzRYxziHdIs7Rc1unKx+TvfCKW7hlHbL3nOnG8=;D17mLkEloMIaOSeCOfys6A=="
+secured: "EL1NVTSEGXdNpnDF4/PMr5b6xDuAXyh0uqlaNwDcQd34/Ajr+DPMOeJZvOtZtZrjqLb8l2PkWVqDiYra4EetLtXyAVOgjBahbk71BAWEBt3LZKzi1zv6VILsdKuj49AHrviNxDrbaIxm1Pfv+qlWUXrkJ7fEbR+SwRDzc+uHVuB+7WwAosq9sDiRW9P2Ri4Tr9iDKlZONjDIgxZT16lDr8eo8jjDwgo/X0yFAwjzMCk/N1umy5E1eFeFTxVvFE8njj+zxWBNPR6q9L+fsq8uAWmnyHbcL4oPYCFi6v/KwcEdVuicQ61f6zPpe6jCckyvJ45JQU2jeVXrouQ22lTyFJL82cZjcrP3YwaX+GRGFTmgSPRpWgJo7aLOCRv9vzuchBzj+ZZ8y8N6ZAn7TOkaycDtEhLRPhZldimjVOZbciHxVhbiWlSyCwJX8wbkSt9EGrvEAl5UMoiRxcvUaSYqz3YpzZqWAwZ8WD+YaOjtQmYZgQLIYM+IP4StjmnizT5ynUSA2eVJdjfyGmZYS3gQMg==;69ZqA+yTtJBdTpKfZcHZqA=="
 ---
 

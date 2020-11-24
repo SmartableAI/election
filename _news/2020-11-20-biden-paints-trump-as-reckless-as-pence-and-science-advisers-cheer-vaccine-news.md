@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 2301
+heat: 2321
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/cfa09885-540d-4cde-82e7-6d3e5ae4f6e3-AP20325735068080.jpg?auto=webp&crop=4727,2659,x1,y493&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump-Biden transition live updates: No Trump concession amid official transition"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-24T19:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Battered by setbacks in push to reverse Biden win, Trump persists with fraud claims"
     excerpt: "Battered by setbacks in a desperate bid to overturn the U.S. presidential election, President Donald Trump persisted with claims of voter fraud on Saturday and his allies called for an audit of results from a Michigan county that voted overwhelmingly for Democrat Joe Biden."

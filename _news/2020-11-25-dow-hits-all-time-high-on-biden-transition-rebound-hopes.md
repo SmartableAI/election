@@ -2,13 +2,13 @@
 category: news
 title: "Dow hits all-time high on Biden transition, rebound hopes"
 excerpt: "Wall Street's main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden's transition to the White House ended weeks of political uncertainty."
-publishedDateTime: 2020-11-24T16:55:00Z
-originalUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-dow-hits-all-time-high-on-biden-transition-rebound-hopes-idUSL4N2IA3CB"
-webUrl: "https://www.reuters.com/article/usa-stocks/us-stocks-dow-hits-all-time-high-on-biden-transition-rebound-hopes-idUSL4N2IA3CB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IA3CB"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IA3CB"
+publishedDateTime: 2020-11-24T20:50:00Z
+originalUrl: "https://www.reuters.com/article/usa-stocks-idINKBN28424W"
+webUrl: "https://www.reuters.com/article/usa-stocks-idINKBN28424W"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28424W"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28424W"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542313881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN14E"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Georgia certifies election results, making Biden victory official"
@@ -720,6 +726,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US STOCKS-Dow hits all-time high on Biden transition, rebound hopes"
+    excerpt: "Wall Street’s main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden’s transition to th"
+    publishedDateTime: 2020-11-24T20:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSL4N2IA3CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2IA3CB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IA3CB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
@@ -855,6 +872,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6gA0p7Cd0k6hwkY9r3sByRkiI6AB2mvK5MpH6q0brVCauSG4ew64Hw0Q2r+f5DbmAFKqhn/3lALhSiQd13+JrrbI7iHlqkFILt0Fta5Jw7MJUx3qQJzv+a9lM9O/FwNClYzdoFuSwFs5sxHygG0L1EZHK3Zx62c21LVFKw3OW4M+CcGyLGMq0U6YNhCLKnkIS3Z192fgXWwAOLCr8WIhUAdSJWY4H6di5HmIAyn9rbZxX9iHLdnV+aXM5ybwmmRObaB735coDOeflWe68gHiEF5GWzOreWmgYXivElkB/0UPI8EyeaZofKS4A198CrB1UVz5N9LM4XyBMELVzuBSAQ8S2RQmAWP9Ao/10F+5XAc=;7fq3weoue9zK8qDJjb+RBw=="
+secured: "BOBA0Be8OR6rqAAjbYLgJxH0+/g/Ju5wRWecbOBj7Mt12gyf//EjnBl/te39S1zjuav6FrfPu5r8cCQCMP1fTfczlB/npMIUaaM1auERKMgZXFGmpCJVihR8d+duW1Z5yzotYEzixZQQHt42xySQHxs1RotLdf6+Rm4SGae8Aj/OJYc29uQEEJLzdvpUzYimazRc3CzxsdcjPvAg54ElPkf60S0K6yV1Cj396seQ7NLvfciqFtr98agEj2z52X36j0tGz+c8F4VAEiK7KjePU5kDkjnk16jjWrUteCvTvahL4nY8yXgsm5gVs4PvhLJlV7Ae3I65h1/qmSWxHgg/jCSiXxbFz9R0O0t35r4VGAs=;kBg99VhLTtqQ3QCcWjgfeQ=="
 ---
 
