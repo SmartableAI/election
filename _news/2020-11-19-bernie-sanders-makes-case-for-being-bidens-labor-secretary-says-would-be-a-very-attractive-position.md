@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "After joining Burisma, Hunter Biden requested meetings with Antony Blinken: State Dept. emails"
+    excerpt: "New Secretary of State pick Antony Blinken has a long-standing relationship with President-elect Joe Biden going back to their days in the Obama administration, but State Department emails revealed that during that time Blinken appeared to have made a connection with Hunter Biden as well."
+    publishedDateTime: 2020-11-24T14:40:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSoIZBwsl-c/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Antony-Blinken-Hunter-Biden-Reuters-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "3M30/JxSAkUT2fuAgETZDN9hwkbumSgklOwlvz3Es6n6WnbJO9IXEMLVRnwNyvS79nDU+MX1Fkchk4vUCJ+QdMphjuN3yvTDmjAj2GZp33krjblOJDoQj0aZHGq15HzdERTA92Peio5kNAa89FSPoQCh6xsNwM3sVQAmm7FZcAekihJUbFs9/3NXuf+RzMEqTJWrri9DMkA2wenTlz/ORitiPPfP02Nlte9BZJ4a7H/gHy6iaYjph8OC/GKWxRaCdTGAgsJaMdHpl3H1ZLbCzZMixBKDJd6vj1nuEFTlnugAejW+Sg+t48fZD4+Y8hpefjZhC1WQN4CYV52mrWD12+GXHq89Np2Y5WzE5eAK9RM=;EZLRc95FdrBQE7yyz90+vA=="
 ---

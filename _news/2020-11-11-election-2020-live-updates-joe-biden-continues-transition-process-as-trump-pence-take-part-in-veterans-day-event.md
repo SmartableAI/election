@@ -272,6 +272,22 @@ related:
         width: 908
         height: 545
         isCached: true
+  - title: "US election 2020: Biden to present team as Trump allows transition"
+    excerpt: "President Donald Trump has finally agreed that the transition process should start, after weeks of wrangling. The General Services Administration (GSA), the federal agency overseeing the handover, said it was now acknowledging Mr Biden as the \"apparent winner\" of the 3 November election."
+    publishedDateTime: 2020-11-24T14:36:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-55057751"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-55057751"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-55057751"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 155
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1471E/production/_115624738_mayorkas_yellen_haines_976.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z

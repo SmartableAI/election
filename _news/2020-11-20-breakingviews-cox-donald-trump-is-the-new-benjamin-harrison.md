@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z343"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z343"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,24 @@ images:
     width: 816
     height: 545
     isCached: true
+
+related:
+  - title: "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition"
+    excerpt: "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition."
+    publishedDateTime: 2020-11-24T14:03:00Z
+    webUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "atcekd6owyK4VbeGCKcjWwEzNvoN7HR/XhrwnVwEv786z8POrvP2ZXhCPtaBuPun60AXnSzVcNRpxFimLSrdRskJfUv6HytbiudAc2vziDh+yEWt90xoSJS9fuHsPTXaljM3B5rPmY9yOnVWen1sekXaO+TVNLu59cDPxxA55RF1nYZbveH2FDJhsQ6uBO9Zm+vSyRMQzXEwA01Emz6hbc0yoD2Jsjwf9SpgIvufOZplOJ3x0hE1Z9fo9U4tsYBuAyL7/zFqbs2NXQfJPtsYgTUe/AgsP+q7xmHDGxIpFZakA7rraD3yG1GvE5TTxDnH7vG0iKJbvm3Bq+yOAdVg+k93V8iVmTBmU4MF95/SRxlKaw0MWobxqWWpMD/rLGT3GB4LdHnd9sCbkxXdu5RZnjDjx/bqiavpYaAZFM47bCx+whI06Y/5eYzcNYeATzScBVAwzIrFtcr0TzqlTBji89puQvjyO2Z6ffX3zSuHATMBsqhSnji3m03PwcTOGlK5fd9GiPhnfNGNWwGvAtGhiA==;xBpFKVfJqaX27UELZMaZ9g=="
 ---

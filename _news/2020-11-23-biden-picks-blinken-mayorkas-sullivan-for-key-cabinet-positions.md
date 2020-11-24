@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/551b764d-28cb-48cb-a00f-88ff0df252a7/ae07e1b9-4457-48af-9dc6-d5a6b141d76f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "After joining Burisma, Hunter Biden requested meetings with Antony Blinken: State Dept. emails"
+    excerpt: "New Secretary of State pick Antony Blinken has a long-standing relationship with President-elect Joe Biden going back to their days in the Obama administration, but State Department emails revealed that during that time Blinken appeared to have made a connection with Hunter Biden as well."
+    publishedDateTime: 2020-11-24T14:40:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pSoIZBwsl-c/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-emails-reveal-that-after-joining-burisma-hunter-biden-requested-meetings-with-antony-blinken.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Antony-Blinken-Hunter-Biden-Reuters-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
     excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"

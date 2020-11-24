@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1361
+heat: 1381
 published: true
 
 provider:
@@ -863,6 +863,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's transition formally begins"
+    excerpt: "President-elect Joe Biden continues to move ahead with his transition plans as President Trump refuses to concede and pursues legal challenges to the election results. Follow here for the latest."
+    publishedDateTime: 2020-11-24T13:17:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-24-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-11-24-20/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-trump-us-election-news-11-24-20/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/13675b57-589b-40dc-ae31-008c63a52faf.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "What Donald Trump Liked About Being President"
     excerpt: "He preferred the parts of the job that combined pomp, splendor and a world amenable to his decisions. In other words, he always seemed to genuinely enjoy pardoning turkeys."

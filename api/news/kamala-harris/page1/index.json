@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-an-anonymous-senior-trump-campaign-advisor-said-trump-basically-just-conceded-by-recommending-that-the-gsa-start-the-biden-harris-transition.md",
+      "title": "An anonymous senior Trump campaign advisor said Trump 'basically just conceded' by 'recommending' that the GSA start the Biden-Harris transition",
+      "excerpt": "Emily Murphy, the head of the General Services Administration, has allowed President-elect Joe Biden to access resources to begin the transition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbc971050e71a0011556fe8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp",
+      "publishedDateTime": "2020-11-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-obama-to-kamala-harris-follow-your-instincts-and-follow-your-values.md",
       "title": "Obama to Kamala Harris: \"Follow Your Instincts And Follow Your Values\"",
       "excerpt": "Former President Obama tells 'Washington Post' writer and MSNBC contributor Jonathan Capehart his advice for Vice President-elect Kamala Harris is the same he offered to President-elect Joe Biden: \"When you go to bed at night be confident that you're doing everything you can to try to unify the country.",
@@ -62,7 +115,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1361,
+      "heat": 1381,
       "tags": null,
       "images": [
         {
@@ -1513,58 +1566,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-criscrossing-texas-in-us-senate-race-hegar-joins-kamala-harris-cornyn-rolls-with-ted-cruz.md",
-      "title": "Criscrossing Texas: In U.S. Senate race, Hegar joins Kamala Harris, Cornyn rolls with Ted Cruz",
-      "excerpt": "U.S. Sen. John Cornyn and his challenger, former Air Force pilot MJ Hegar, are getting some big-name boosts in the final stretch of their Senate race",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/article/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/00/31/20186702/3/rawImage.jpg",
-          "width": 1935,
-          "height": 1290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/politics/election2020_clone_21329_20201005184437/amp/Criscrossing-Texas-In-U-S-Senate-race-Hegar-15688509.php",
-      "publishedDateTime": "2020-10-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

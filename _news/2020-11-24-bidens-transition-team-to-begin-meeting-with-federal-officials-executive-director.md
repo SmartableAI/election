@@ -409,6 +409,22 @@ related:
         width: 1440
         height: 933
         isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
+    publishedDateTime: 2020-11-24T14:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd15df8f0868ed26c11714"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/b6a0aee0c0f376cadca09ab0427c121490235af5/0_0_4969_3392/master/4969.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bbdfab7ba0823cd4e6cbb8d2518a5276"
+        width: 600
+        height: 410
+        isCached: true
   - title: "Georgia confirms Biden's victory in state as it completes hand audit of ballots"
     excerpt: "Georgia confirmed Democratic President-elect Joe Biden as the winner of the Nov. 3 election in the state as it completed a hand audit of ballots on Thursday, Secretary of State Brad Raffensperger said."
     publishedDateTime: 2020-11-20T07:33:00Z
@@ -690,6 +706,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Eye Opener: Biden transition moves forward with approval from GSA"
+    excerpt: "The Trump administration official in charge of the presidential transition says she's giving President-elect Biden access to government resources and funding. Also, millions of Americans are still planning to travel for the Thanksgiving holiday despite warnings from the CDC."
+    publishedDateTime: 2020-11-24T14:49:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-transition-moves-forward-with-approval-from-gsa/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/be3c8a72-e029-48ba-a0dc-3274fde1ceef/thumbnail/1200x630/1e0628aa52eb75fc7771d2e45a647dc8/cbsn-fusion-eye-opener-biden-transition-moves-forward-with-approval-from-gsa-thumbnail-594974-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
@@ -734,6 +764,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Head of GSA is allowing President-elect Joe Biden to begin transitioning to White House"
+    excerpt: "Emily Murphy, the head of the General Services Administration, says she'll allow President-elect Joe Biden to begin his transition to the White House."
+    publishedDateTime: 2020-11-24T13:58:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/11/24/gsa-allows-president-elect-biden-transition-white-house/6404973002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/83f1456a-2f5f-4e56-bff6-bcc2c105d8a7-VPC_GSA_CLEARS_WAY_FOR_BIDEN_TRANSITION_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Doctor on President-elect Biden's COVID-19 advisory board discusses CDC travel guidelines"
     excerpt: "Dr. Atul Gawande of President-elect Biden's COVID-19 advisory board joins \"CBS This Morning\" to discuss the CDC's guidelines on Thanksgiving travel and his concerns about the delay in the transfer of power from the Trump administration to the future Biden administration."
     publishedDateTime: 2020-11-20T14:24:00Z
@@ -745,6 +789,20 @@ related:
     quality: 96
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/20/26bcea9d-61c6-46a2-bec3-90374efb7a01/thumbnail/1200x630/fa6baa8432663e20547af60cc030b900/cbsn-fusion-doctor-on-president-elect-bidens-covid-19-advisory-board-discusses-cdc-travel-guidelines-thumbnail-591798-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "If confirmed, President-elect Biden's picks for his national security team could make history"
+    excerpt: "President-elect Joe Biden's historic national security picks have been announced. Nikole Killion has more on the Biden administration rollout."
+    publishedDateTime: 2020-11-24T13:32:00Z
+    webUrl: "https://www.cbsnews.com/video/if-confirmed-president-elect-bidens-picks-for-his-national-security-team-could-make-history/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 94
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/884090df-4181-4096-9eb3-ba4fc7bd2e11/thumbnail/1200x630/1a9d983a707ca1add7c8eb2f0aa3d13c/bidencabinet-594889-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

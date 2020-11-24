@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3SNO7NBNGMI6XHOWFUAXTGAXDE.jpg&w=1440"
         width: 1440
         height: 922
+        isCached: true
+  - title: "Europe hopes for reset, end to ‘damage control’ under Biden"
+    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
+    publishedDateTime: 2020-11-24T11:41:00Z
+    webUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/europe-hopes-for-reset-end-to-damage-control-under-biden/2020/11/24/f7137836-2e49-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Keep the tough approach or seek cooperation? China looms large for Biden."
     excerpt: "How the United States fashions its most consequential foreign relationship will depend a lot on which view of Xi Jinping the president-elect embraces."

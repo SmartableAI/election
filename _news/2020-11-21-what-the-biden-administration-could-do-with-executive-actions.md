@@ -656,7 +656,7 @@ related:
   - title: "Trump relents after steady drumbeat of fellow Republicans urge start of Biden transition"
     excerpt: "President Donald Trump gave some ground on Monday to allow Joe Biden's transition to the presidency after the ranks grew of prominent Republicans calling for Trump to end efforts to overturn his election defeat."
     publishedDateTime: 2020-11-24T06:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-congress-idUSKBN2832O7"
+    webUrl: "https://www.reuters.com/article/us-usa-election-congress/drip-by-drip-u-s-republicans-slowly-break-from-trump-election-claims-idUSKBN2832O7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2832O7"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2832O7"
     type: article
@@ -1589,6 +1589,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/23/20.11.20-trump-768x512_wide-39c338ce5cf6711db69fa5487d1ba3a38fdee280.jpg?s=1400"
         width: 768
         height: 432
+        isCached: true
+  - title: "Facing Pressure, Trump Relents On Starting Transition"
+    excerpt: "Some Republican lawmakers have publicly urged the president to allow the formal transition process to begin for the good of the country."
+    publishedDateTime: 2020-11-24T12:30:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/24/938344591/facing-pressure-trump-relents-on-starting-transition"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/24/ap_20326661857750_wide-731dcea2d5acae9fbb44c1e026cf199afafab8eb.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
