@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from Biden's first wave of nominations and appointments "
+    excerpt: "President-elect Joe Biden's administration is rounding into shape after his transition team on Monday unveiled a series of Cabinet nominations and top White House staffing moves.\n    \n"
+    publishedDateTime: 2020-11-24T02:34:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v7GH3zqK2_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/biden-administration-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/biden-administration-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123131505-joe-biden-for-ghitis-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z
@@ -156,6 +172,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden picks loyal lieutenant to lead mission to restore US reputation on world stage"
+    excerpt: "Antony Blinken, President-elect Joe Biden's pick for secretary of state, has worked with the former vice president for so long that one former State Department official said that \"it's difficult to know where one person's policy vision ends and the other's begins.\"\n    \n"
+    publishedDateTime: 2020-11-24T00:33:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PDwYJNOiGQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/blinken-biden-secstate-candidate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/blinken-biden-secstate-candidate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

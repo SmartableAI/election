@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
 type: article
 quality: 178
-heat: 438
+heat: 458
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'Squad' members says Rahm Emanuel 'should not be considered' for any role in Biden administration"
+    excerpt: "Members of the progressive \"squad\" are insisting that former Chicago Mayor Rahm Emanuel not join the next administration in any capacity, including for a less visible role than what President-Elect Biden's team was originally considering."
+    publishedDateTime: 2020-11-24T01:45:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2D2jlsRAMBQ/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-oppose-rahm-emanuel-taking-less-visible-role-in-biden-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/552c9879-fee7-430d-9d8e-506921cc1983/beed0d10-e19d-4a4a-b671-290590b7c655/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden education secretary frontrunners have been critical of  charter schools, back teacher unions"
     excerpt: "President-elect Joe Biden has his eyes on two frontrunners for Education Secretary as he lines up his cabinet choices, but his pick is likely to frustrate Republicans in favor of charter schools."

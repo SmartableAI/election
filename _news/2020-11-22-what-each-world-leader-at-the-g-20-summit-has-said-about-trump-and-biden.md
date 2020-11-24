@@ -1083,21 +1083,21 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Ex-Homeland Security official Mayorkas returns under Biden"
-    excerpt: "President-elect Joe Biden is turning to a veteran of the Department of Homeland Security to lead the agency amid widespread concern that it became overtly politicized under President Donald Trump in c"
-    publishedDateTime: 2020-11-23T20:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ex-homeland-security-official-mayorkas-returns-under-biden/2020/11/23/be8a07ae-2dc8-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "Biden to name first female head of National Intelligence"
+    excerpt: "Biden plans to nominate the first woman to lead the intelligence community and John Kerry as policy advisor on climate change."
+    publishedDateTime: 2020-11-24T02:19:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-11-23/joe-biden-transition-john-kerry-climate-change-director-national-intelligence"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-11-23/joe-biden-transition-john-kerry-climate-change-director-national-intelligence?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-11-23/joe-biden-transition-john-kerry-climate-change-director-national-intelligence?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b3e966f/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F4f%2F482d0434c9270b4310aa7e7c2368%2Fla-pol-gavin-newsom-inauguration-pictures-009"
+        width: 320
+        height: 209
         isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."

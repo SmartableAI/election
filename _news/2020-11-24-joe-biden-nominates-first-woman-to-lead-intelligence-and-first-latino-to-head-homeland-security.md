@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden prioritizes climate crisis by naming John Kerry special envoy "
+    excerpt: "President-elect Joe Biden on Monday appointed John Kerry as his special presidential envoy for climate, underscoring his commitment to tackling the global crisis and offering a symbolic rebuke to President Donald Trump's lack of leadership on the issue.\n    \n"
+    publishedDateTime: 2020-11-24T01:00:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/emcKY_9d-PE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/john-kerry-biden-climate-envoy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/john-kerry-biden-climate-envoy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200910115809-john-kerry-cuba-reapertura-estados-unidos-decepcion-oppenheimer-oped-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First on CNN: GSA tells Biden transition can formally begin"
     excerpt: "The GSA has informed President-elect Joe Biden that the Trump administration is ready to begin the formal transition process, according to a letter from Administrator Emily Murphy sent Monday afternoon and obtained by CNN.\n    \n"
     publishedDateTime: 2020-11-24T00:44:54Z
@@ -445,6 +461,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "More GOP senators back transition as GSA recognizes Biden's win"
+    excerpt: "Republican Sen. Shelley Moore Capito said Monday it's time for President-elect Joe Biden to begin \"receiving all appropriate briefings\" for a smooth transfer of power, the latest crack in President Donald Trump's GOP support as he continues to deny his election loss.\n    \n"
+    publishedDateTime: 2020-11-24T01:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QXlMmX_szgU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/shelley-moore-capito-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/shelley-moore-capito-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021211-03-donald-trump-1120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -893,6 +925,6 @@ related:
         height: 629
         isCached: true
 
-secured: "CLfS7TvLMJSX9Zq2D/9Y7Wj/YHlz5eBlUWxFHIJfDAfMuM451Gw7J9xFWAJ03/uNPfq20yhaSA+4rRWDQL8IfAN+hmwbXbP23Cd5+c+WGM0YMMNXhQIZitQ61mt1gsni7Ty6LqlmRFrCcohWRzRrxYdHVAX63/ejj7QbFspckyfAb8+wyYnSV9qMRaWqXWQ9q0WzslHekFhv90v5updPZx/nEr9HrqEq3Fv1EcCmDHkDWyvgs9t3uKy0p4pUp/pq1Pna+WWQeLfhNUJeL0+z+jbfsBS8tXHzwE1EcPKVpCbYxzM68YLIds5CLNpxonm5RLDslSazkRbr8tK+kMxkg91oGUDrlkmSUCKMJVQrfXY=;cksUIgV62nfjz5wu0ftbZg=="
+secured: "lPCXZT3ZtDxcHQiuAPDLmQ/Ggyuh3HZsR4Nf/PzgYfUFdRBzr8EPFcXi/5P2Vr7FgvbKuVyAghc19Xmnjh62/3O2aVo30FUNwQE4wySr9oHbc6IJK0G33mSfXg/fnD59nngYi9mjOPYSEl8NSyZ04+/5QFrpWCY4vUqGEWxICEm5V66iGh4GGc/FXyl8pYg+0/sZobdy+3p2Pw90Po2R4R01lmO7CMIy96PcRQwuGm1zpq/GHgBi75wvgNQ3JSsgQTwVagWY67nyl9FJF2IP2YMcHHPgg+Mvxrk2gHWE1hGI0YG3EhRQ8u9me3ct5gMAqEw5disPOb0qKRieeZWRud5XlH//a5MpfUe5AFD50B95GYzKruz+c0XgmUQIof/WVqTMWEUVrVLbUTDR/yCvpvfWBx46IVUzF4HB7yL7NeryH0+UIsTtybjk5KP+wRp2kuqPipAGKQjK8it1YKR1k+CC4/izmXrH28hSVUncmghyoXT6trMJK/ms4e/U12LGmUUUrXQdjgyYSL2hANTakQ==;3l8TTKQCeo1IGY0IcqDmbw=="
 ---
 

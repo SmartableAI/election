@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Post-Trump, his party and his favorite network have to figure out their relationship with reality"
+    excerpt: "It remains my theory to this day that Donald Trump’s advantage in the 2016 Republican nomination contest was that he was willing to parrot often-false conservative media rhetoric that the party establishment tried to keep at arm’s length."
+    publishedDateTime: 2020-11-24T01:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/23/post-trump-his-party-his-favorite-network-have-figure-out-their-relationship-with-reality/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H23S6CBJM4I6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Latinas for Trump founder unseated Florida Democrat after ‘shadow candidate’ with his surname entered the race"
     excerpt: "Alex Rodriguez did not live in Miami and had never been involved in politics. But he did share a last name with the Democratic incumbent in a heated race for state Senate."
     publishedDateTime: 2020-11-20T16:31:00Z

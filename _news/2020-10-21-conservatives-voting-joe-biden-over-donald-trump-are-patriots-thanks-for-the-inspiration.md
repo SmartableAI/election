@@ -2846,8 +2846,8 @@ related:
         isCached: true
   - title: "Trump agrees to begin transition to Biden administration – live"
     excerpt: "President tweets after General Services Administration tells president-elect process can start – follow all the latest news"
-    publishedDateTime: 2020-11-24T00:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbc1e628f0868ed26c10c5a"
+    publishedDateTime: 2020-11-24T02:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbf6628f086720dd68fe43"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article

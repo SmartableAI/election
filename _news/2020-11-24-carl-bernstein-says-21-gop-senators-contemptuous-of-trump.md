@@ -2,11 +2,11 @@
 category: news
 title: "Carl Bernstein says 21 GOP senators contemptuous of Trump"
 excerpt: "Veteran Watergate sleuth Carl Bernstein took to Twitter to specifically “out” 21 Republican senators who he says have privately expressed contempt for President Donald Trump"
-publishedDateTime: 2020-11-23T22:23:00Z
-originalUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/7e3fbd6c-2dda-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/7e3fbd6c-2dda-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/7e3fbd6c-2dda-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/7e3fbd6c-2dda-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+publishedDateTime: 2020-11-24T02:44:00Z
+originalUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html"
+webUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/carl-bernstein-says-21-gop-senators-contemptuous-of-trump/2020/11/23/f4f91ba0-2dfe-11eb-9dd6-2d0179981719_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -174,6 +174,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0JuxvHt+XMV3i27/0eepbO1ZraABK2mnIN2HOSKL7wMFqw/Mnof9qgX/XVXtMAwBQNO5DTZllXt4uWA+odGIm76za+tUUlkSfjJ2ixIzz4BeNif6a6gQVgCfkjKBSos6sXbRbQ3Tvi0cM0nmmrLd+wGT3oZqlkGIh9bUS7Cj3uFSU2IsQcfD+Z3Wi9S2FprLdxRuK3brnjoeoHtTyvnmgcx+eQQvqc6UAxsyodRr9lycK5W2p+N2uumh83xh2FFCG5f6vCEpfBaZoFBJfwtsAFPNYZZYdH/SlsLtvgfzGyQaNe/RTYTNrjXCKxAKybrDYf11V+ccn86JRkdo7dyTocNvu9PDUFvnPoG5PhzQ+70=;QdxIJcla7luWXmRGV27HmA=="
+secured: "wmkaPK1M8IZiqJlMkT5bgpsj6Xq4xydxw9jJ1FsMDOeM+4oPgEvM2k0A4+msUe3VkCNy4Tu+gmdoZvBYQ09RGItUSkcT8KShMPDVv8HfUqpq6PUPlzj+4X18IMif814x/Wq1ioIoFOx23QTS7bXN9icWvNMelDFOvOPsdqwttPOS3GG93byjjU3AQuFvbsXzSfJeJY0dbLscvGPBl+apX5EwldsdgQFZVmlhRbNjoz+jY1C4WBakSyXhcFFzh2IAiusIJjnB/M3SmIvscYtHJH30m2Y3z5uFytiB6SOkQGdJYwt/rT0AOLe0s3dwk5o6D/DzS3SGw3kjjKDkPDpAu/r9v4vCnnjNgDDlfzTq/HE=;j7L5mREksGQ5pkPFRQl4zQ=="
 ---
 

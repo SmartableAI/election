@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/gm-flips-californias-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/gm-flips-californias-side-pollution-fight-trump-74362828"
 type: article
 quality: 125
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
-    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+  - title: "GM flips to California’s side in pollution fight against Trump"
+    excerpt: "General Motors says it will no longer support the Trump administration's legal efforts to end California’s right to set its own clean-air standards"
+    publishedDateTime: 2020-11-24T02:45:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d6bb550/2147483647/strip/true/crop/2048x1338+0+72/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd3%2F26%2Ffb67a39648f51fee0079cc5d19e5%2Fla-1556126558-9epkc1qaav-snap-image"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "GM flips to California's side in pollution fight with Trump administration"
+    excerpt: "General Motors says it will no longer support the Trump administration in legal efforts to end California's right to set its own clean-air standards. CEO Mary Barra said in a letter Monday to environmental groups that GM will pull out of the lawsuit,"
+    publishedDateTime: 2020-11-24T01:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/environment/2020/11/23/gm-flips-californias-side-pollution-fight-trump/6396547002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6396547002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6396547002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/PPAS/7be99e8d-9f7d-4727-a4d5-d8781eff99c3-barra.jpg?auto=webp&crop=5267,2963,x0,y267&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "3D9ypY7V4Cx33Ed6D1WbrqJ1bsia4Rn2uyoq+lOrFyv06a0sWoxY8zlbH6JVsIo1uvncv5xo9a9bANLM8ENzxOx0p62qSsp3SsmtElxc/TL8Wg45feQis0Vp3Cn2qitYMjLsfjITINIALAoyU7O9J/Pb62jS4wRrLWmt6rT6fDwzYgEBGu1cBdTnJski+iTPuEx161FrH01CeGMrSbzx0SwL+Th6IUEORFl9HPaDHBqzLCbmEOhPOIVOYDguwjF5L8lMYmc5YCrAspiARjcRr6u9N99RrSetyb1Pg+UMe7yXKQrPhz8PLpyfOJhr1KbcI+jDNvfT0qp1XbekxRmzDfddHxZfcKP4uSxdDaAo2TY=;7j4bkNj2RL9hKWdj45UI0w=="

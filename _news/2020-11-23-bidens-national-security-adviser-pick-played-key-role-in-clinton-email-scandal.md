@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's secretary of state pick praised by Bernie Sanders' advisers"
+    excerpt: "Two advisers close to Sen. Bernie Sanders have taken to Twitter to praise President-elect Joe Biden's secretary of state pick, Antony Blinken, following the administration's official announcement on Monday."
+    publishedDateTime: 2020-11-24T02:48:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ea_3l9EetB4/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-secretary-of-state-pick-praised-by-bernie-sanders-advisers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20328073654227.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Bernie Sanders makes case for being Biden's Labor secretary, says 'would be a very attractive position’"
     excerpt: "Sen. Bernie Sanders made the case to join the Biden administration Thursday, saying that serving as secretary of Labor for President-elect Joe Biden “would be a very attractive position.”"
     publishedDateTime: 2020-11-19T15:25:17Z

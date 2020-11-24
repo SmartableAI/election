@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
+    excerpt: "U.S. President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+    publishedDateTime: 2020-11-24T01:18:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idUKKBN2832I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2832I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2832I5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542229639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
     excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
     publishedDateTime: 2020-11-20T12:34:00Z
@@ -47,21 +63,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see"
-    excerpt: "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive."
-    publishedDateTime: 2020-11-15T13:49:00Z
-    webUrl: "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp"
+  - title: "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security"
+    excerpt: "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department."
+    publishedDateTime: 2020-11-23T22:01:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
     images:
-      - url: "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VV7ENMBNZQI6XFWCVLB7CYRBLU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden picks first Latino to head DHS, first woman to lead intelligence as part of diverse foreign policy team"
+    excerpt: "President-elect Joe Biden chose Alejandro Mayorkas, who arrived as a refugee from Cuba, to lead the Department of Homeland Security."
+    publishedDateTime: 2020-11-23T20:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/23/biden-picks-alejandro-mayorkas-first-latino-head-homeland-security/6392845002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6392845002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6392845002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/78a6bcc7-71fe-40bf-8353-207740a5fa8e-Mayorkas.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
 
 secured: "ruvnYnU65PvD4HSyirXJLXGPRGwh6GN4tijQe3eoH7n8PIAQH78jxng7jKRynlKLRVKIZh+WMcAVEMkOheD0OulurCQY6qeyKUWqYwxH2eahDjXZmClQk/C8TOvoz2g9VSngjfiyOnuJgONK8nYIakLpE0BQZi8jAv8MBgTwufNmb4choSCg+N7ty4ww93/tQgV/BX2wUufV4fabGqw8qeE6telUuntEuC64kie2LV6nLKh4mxRVUaVEUQ3TY2Om9Z27w6X25EiKuJpJ6Lp33TXForBjrJAVhGWreZtdA5cqe+w4Zs7m2GIAq1+CgEyPdsUgzBslXlxAhYb+6aNf4+oVRoTIhoaXdZT08llallQoB2HArFzgsjKmGvI8PX4M8n/ooRkvj7bZ8L2QPD0zrcThAvAVNIBcLyseZAuNLlhXcvKLWJ6PdZW1Yy32+XnXREmMMNRYfSpdWozzzU2ZYTNQA3UQmXTfyKVWquolPWmZTzqI6Pmgd5LxZbeV9VL9mxMPAj3UIJhUd7rnaeHcAA==;S4yRpCoyvWI7cOtWDz28Rw=="

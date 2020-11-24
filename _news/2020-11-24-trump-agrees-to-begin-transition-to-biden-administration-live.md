@@ -2,9 +2,9 @@
 category: news
 title: "Trump agrees to begin transition to Biden administration – live"
 excerpt: "President tweets after General Services Administration tells president-elect process can start – follow all the latest news"
-publishedDateTime: 2020-11-24T00:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbc1e628f0868ed26c10c5a"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbc1e628f0868ed26c10c5a"
+publishedDateTime: 2020-11-24T02:38:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbf6628f086720dd68fe43"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbbf6628f086720dd68fe43"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/23/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -11988,6 +11988,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ij84aNECxg5/ugTLfRZc9HgA8AYemy91VjpB2LTisqdEvfj6JQ9g1ymsWQkR1OlE9wH8A1Kp0jJpswB1iHvNhwPwzKWZrVP8O6aWTH29Nf2nK34hj5gT2udRN4OY2M1SenpXiCOzO24bkWNZVIRMgfAMy0XVPJnHexUwMQRJqzeHbhVNrXkM3zJvRVrN8oM07GPNUE1AKXWr8nSsfubMYJsISK3RqEyK/lK7Sx7j5YB0S7akK5WnF10Ohh8oFIRZCMA63esSojeVia0Z+YTZgWHpuX4EVij9V2Qdhl8gvv/kV5HCs/Ccgf9zji3kbQD8HHv20tTs0Y50zMlUSKkUEjBQqbKpmEgMXsNt2Rxh928=;Kb6KfQxNUQ0UWyGKOblOBA=="
+secured: "0MC8Ylrs6lh7brI3NWVUACCqCUkmbvoYH4wfnvClINd7E8/6CjJs4K7OU3VnMTGV02NQKs0hdcidc1RViuvfn5le3JyGv7XsyH0UJLKNg0GiuqQWY7pB7dmp+bOe1dMm2weLond0TQKK59boC65On5mdB1bxpeD/jANWXt+IwdDMKyWAf5V9b2tFHI7HDGCcTc+od5c1okLHgj6iIl3Gd0JYFgMgzXZwKnJlbyXUMZvjA2NcqS00UMgcccakzf4JSsjDAj8JsnfqHlitQn448nG4AuAP+E6V/d2rBw90dgi4WL+DKULNVYr354N1PMg+DxgJX+fO0ce6BZVqm4hKK3pv55CvJWuhulaKH9FzRFA=;PgN1m/MC572MkXwdN0EtJg=="
 ---
 
