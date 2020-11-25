@@ -495,6 +495,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Cuomo stands up for President Trump on media bias"
+    excerpt: "New York Gov. Andrew Cuomo defended President Trump this week as the three-term Democratic governor indicated the media did not treat the president with the respect that the office commands."
+    publishedDateTime: 2020-11-25T00:50:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M9EkwGhTvWM/cuomo-president-trump-media"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-president-trump-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-president-trump-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6d9e51d-2daa-4ee4-993c-9d1fa6e0611c/5c17bc87-6137-4f4a-b565-09d40ca86268/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump won't break with tradition, will proceed with annual Turkey pardon"
     excerpt: "Despite the angst surrounding the growing number of coronavirus cases nationwide and the ongoing upheaval over President Trump's refusal to concede the election to President-elect Joe Biden, there will still be a turkey pardon at the White House next week. "
     publishedDateTime: 2020-11-19T00:02:31Z
@@ -702,6 +718,20 @@ related:
       - url: "https://images.wsj.net/im-262788/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump campaign says Pennsylvania, Arizona, Michigan to hold public hearings on 2020 election"
+    excerpt: "The Trump campaign on Tuesday said that state legislatures in Pennsylvania, Arizona and Michigan will hold public hearings on the 2020 presidential election to “provide confidence” that all legal votes have been counted and that “illegal votes have not been counted.”"
+    publishedDateTime: 2020-11-24T23:19:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAKK6O6xE5o/trump-campaign-says-pa-az-mi-to-hold-public-hearings-on-2020-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56a7ab12-eece-4980-9849-bd588d55e3c1/ec72d003-f4f5-476c-9138-d4dfee438703/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Campaign Presses Election Claims in Pennsylvania, Arizona"
     excerpt: "The Trump campaign is seeking to invalidate more than 10,000 votes in the Philadelphia area and asking an Arizona judge to block certification of the ballot count there."

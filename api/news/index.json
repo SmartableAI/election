@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
+      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
+      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "publishedDateTime": "2020-11-24T16:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-senior-biden-staffer-called-palestinian-suicide-bombings-the-last-resort-of-a-desperate-people.md",
+      "title": "Senior Biden staffer called Palestinian suicide bombings ‘the last resort of a desperate people’",
+      "excerpt": "Biden's pick for Deputy Director of the White House Office of Legislative Affairs referred to Palestinian suicide bombings as \"the last resort of a desperate people\" in 2002.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h0J2FB8CEdw/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20321761004454.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-staffer-palestine-suicide-bombings-reema-dodin-university-california.amp",
+      "publishedDateTime": "2020-11-24T16:05:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-the-trump-administration-is-considering-shortening-the-recommended-quarantine-time-for-covid-19.md",
       "title": "The Trump administration is considering shortening the recommended quarantine time for Covid-19",
       "excerpt": "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n",
@@ -58,6 +170,62 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-chalian-on-bidens-agenda-america-first-is-gone.md",
+      "title": "Chalian on Biden's agenda: 'America First' is gone",
+      "excerpt": "CNN's David Chalian explains how President-elect Joe Biden's approach to selecting his cabinet differs from President Trump's.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124140636-david-chalian-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
+      "publishedDateTime": "2020-11-24T12:33:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-biden-emphasizes-foreign-policy-team-will-lead-the-world-not-retreat.md",
       "title": "Biden emphasizes foreign policy team will 'lead the world, not retreat'",
       "excerpt": "President-elect Joe Biden says that his newly named foreign policy and national security team will keep the nation \"safe and secure\" and will show that \"America is back.\"",
@@ -70,7 +238,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -234,7 +402,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1440,
+      "heat": 1480,
       "tags": null,
       "images": [
         {
@@ -342,7 +510,7 @@
       "originalUrl": "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1200,170 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-meet-the-rapid-response-director-top-biden-aide-on-how-the-2020-campaign-was-unlike-any-other.md",
-      "title": "Meet the Rapid Response director: Top Biden aide on how the 2020 campaign was unlike any other",
-      "excerpt": "\"The Operators\" is a series profiling influential political aides on Capitol Hill, in the White House and on closely watched political campaigns about the behind-the-scenes work they do.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EU1Ys1iD3Qs/meet-the-rapid-response-director-top-biden-aide-andrew-bates",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meet-the-rapid-response-director-top-biden-aide-andrew-bates.amp",
-      "publishedDateTime": "2020-11-23T04:57:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state.md",
-      "title": "Joe Biden to nominate Antony Blinken as US secretary of state",
-      "excerpt": "Veteran diplomat may be named as early as Tuesday, with Linda Thomas-Greenfield to be ambassador to UN",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f17e33141fb0b3e732ceab4f761965273fe4c5ea/10_333_3870_2323/master/3870.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ee21c729a60f195ad4bb1abc03ef977",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/23/joe-biden-to-nominate-antony-blinken-as-us-secretary-of-state",
-      "publishedDateTime": "2020-11-23T00:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-live-updates-giuliani-says-powell-not-part-of-trumps-legal-team-after-election-fraud-claims.md",
-      "title": "Live Updates: Giuliani says Powell not part of Trump’s legal team after election fraud claims",
-      "excerpt": "President Trump’s campaign on Sunday distanced itself from Sidney Powell, saying that the lawyer who has been alleging voter fraud in the November election is “not a member of the Trump Legal Team.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dBS2FivkC9M/live-updates-legal-11-23-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2f64660-af14-4fc7-853e-2a62959e7f2f/2471b49c-cd18-4715-8494-84efba624eff/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp",
-      "publishedDateTime": "2020-11-22T20:13:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

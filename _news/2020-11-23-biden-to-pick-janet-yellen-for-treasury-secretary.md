@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the GSA's 16-day blockade on Biden's transition finally ended"
+    excerpt: "Two weeks after Joe Biden was projected to win the presidential election, General Services Administrator Emily Murphy was finally prepared to stop stalling the transition.\n    \n"
+    publishedDateTime: 2020-11-24T22:41:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IynlNe-SSlw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124162912-emily-murphy-gsa-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'The team meets this moment:' Biden introduces top admin nominees "
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday introduced their first slate of Cabinet-level picks, and the six foreign policy and national security nominees and appointees joined them onstage at an event in Wilmington, Delaware.\n    \n"
     publishedDateTime: 2020-11-24T18:24:15Z

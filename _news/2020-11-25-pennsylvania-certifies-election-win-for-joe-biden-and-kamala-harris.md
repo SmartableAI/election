@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar has certified the results."
+excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
 publishedDateTime: 2020-11-24T17:31:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-ampWebUrl: "https://amp.azcentral.com/amp/6407257002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6407257002"
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
 type: article
 quality: 105
 heat: -1
@@ -42,22 +42,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/17/USAT/6faee755-39e7-4911-98f5-3cb6b492439b-AP20322710440298.jpg?auto=webp&crop=5999,3374,x1,y364&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T18:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 142
-    images:
-      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
-        width: 600
-        height: 360
         isCached: true
   - title: "Live updates: Chicago area reacts to news that 2020 election is called for Joe Biden and Kamala Harris"
     excerpt: "Joe Biden will be the next U.S. president, the AP has projected. Get updates on the reaction around the Chicago area here."
@@ -120,6 +104,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106673168-1598009902907-106673168-15980084512020-08-21t044417z_1720381439_rc23ii98u8ea_rtrmadp_0_usa-election-convention.jpg?v=1605819943"
         width: 3138
         height: 2106
+        isCached: true
+  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
+    excerpt: "Apart from Ohio, those other bricks in the Blue Wall were replaced by the Biden and Kamala Harris team in 2020. Looks like the dwindling Trump campaign legal shrapnel is still raining down on Wisconsin for a bit longer. Hang in there. The US Centers for ..."
+    publishedDateTime: 2020-11-24T22:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd79f78f0872410b29d74d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 132
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
+        width: 600
+        height: 360
         isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -198,6 +198,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_99e3068fa2664376aa979d6600c94874_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
+    excerpt: "As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell"
+    publishedDateTime: 2020-11-24T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden socks and Kamala Harris scrunchies: Washington’s gift shops prepare for a new administration"
     excerpt: "Souvenir sellers are putting MAGA gear on clearance and looking to the President-elect Biden's inauguration — it’s like the \"Super Bowl for us” — for a sizable chunk of their annual sales."
@@ -673,6 +689,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "Yyykw6rds0DcouiWmM35yRTTx7q0G8BtQ+KXwBdZKHgSWK9kKGIZRD/QBA3Cpi4fcJiHWwjf+3uVq5/Sai2BOe/QCsgQdwolrLGdN3nQ5A3mLfA1TRnkbJTIG4uCppsclznAgY1pJT+MAk1bOAvVL4ikGXHv99oFwp1l8p5SQnWQYEBQBKfQ+cQDJIhGr4D5pTMp5kn05gooL25keG21Mp2I0eTCbQQltsbk/oJ6iG5hQvGI+doS6RHWbNFvwhwKrAVHGCyImEY3e+dnktrosd2sHEGT3XOVoLl1E2kPKgNcWmxfU0W5yZ1NQ1qrqh2SxzidOpWs/0lfTd9POtvQRu23t/7L/IZK6nqQqgvaL9k=;iLarb8gpQgoU+lJ4Ksqr8g=="
+secured: "xIMpSmv82BbE1YHL8fTVxkVVxPoVkShxLiX1fB/nkebbLFTBhWn5FxAkxLIVUfAZ/yMRH26+Sl+m3GNKljEqlqyOu8QU9BO34x3uQpNSABmoixTkaUepblyxVD3XJZULUMLykC/wIvV7M9bXmSST7Zo324voWJvuFmVq11UIns+7FYjWJsh1oA0xxcn4MCah+13MZWwOiFZ8pHMZ0mNgJBKDmIAFKT1Q0W+UKUm8B4oQuju1GFVG9ig9jD7jnBglYcuVhnKqCvLoE910L7GZRUI9YIEgwXGcKvSpMGKLpx785ocKtQjE0khz+d2yEXQLpNDrbgwQpvVExAsnvfHGNXiyceTcFGBu/AY4DoMcW9k=;/aVQ+b175XAaxjA/jX0uKw=="
 ---
 

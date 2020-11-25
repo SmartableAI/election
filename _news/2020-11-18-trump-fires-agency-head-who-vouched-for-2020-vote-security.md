@@ -185,19 +185,35 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
+    excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
+    publishedDateTime: 2020-11-24T21:48:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-turkey/lame-duck-president-pardons-turkey-trump-breaks-post-election-isolation-for-tradition-idUSKBN28436H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28436H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28436H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542335983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1MS"
+        width: 806
+        height: 545
+        isCached: true
   - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
     excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-    publishedDateTime: 2020-11-24T19:04:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
+    publishedDateTime: 2020-11-24T23:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2842XG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2842XG"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 131
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322370&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HF"
         width: 817
         height: 545
         isCached: true

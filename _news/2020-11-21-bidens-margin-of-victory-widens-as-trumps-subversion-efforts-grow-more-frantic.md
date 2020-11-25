@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden taps longtime diplomat jettisoned under Trump as US ambassador to the UN"
+    excerpt: "Linda Thomas-Greenfield grew up in Louisiana, \"in a segregated town in which the KKK regularly would come on weekends and burn a cross in somebody's yard,\" she recounted in a TED Talk in 2018. Neither of her parents graduated high school.\n    \n"
+    publishedDateTime: 2020-11-25T00:53:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/faKQOPC7YoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/linda-thomas-greenfield-profile/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/linda-thomas-greenfield-profile/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124134553-linda-thomas-greenfield-biden-admin-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican congressman urges Trump to accept Biden's win and begin transition process"
     excerpt: "A Republican congressman implored President Donald Trump to accept President-elect Joe Biden's win on Tuesday, urging him to begin the presidential transition process as the nation grapples with a number of urgent challenges.\n    \n"
     publishedDateTime: 2020-11-17T19:35:09Z
@@ -1048,6 +1064,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123133601-6-split-biden-admin-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Biden can fight climate change without Congress"
+    excerpt: "This week, we analyze the ways President-elect Joe Biden and his appointees can address climate change risks via federal financial regulators without having to involve Congress. A DIVIDED CONGRESS WON'T GET IN THE WAY — Much of Joe Biden’s policy agenda hinges on which party controls the Senate after Georgia holds two runoff elections on Jan."
+    publishedDateTime: 2020-11-24T17:28:00Z
+    webUrl: "https://www.politico.com/newsletters/the-long-game/2020/11/24/how-biden-fight-climate-change-congress-490983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "DrubbNuNEmqxEfdGtEvFSyux3aKgyVMxWc2KBnmDlQ3BLAJoXXWjfrTGOZv+xwHXLebZn1q74FtG9tv1Q3qvdtQlCJ+sPZTfgWaHDrMlD5V5zPwQg/fNXi6kTPi+XDUEYx1efN5rMwRmzgiwES5lAk191Sr/vv1PbaT3cTUYMhatK9bP3kPs28jfJDV74qpWnhN3eOqLj43tNtodnrZJJHS82PtdL8DNqbELMMcWRo4Sc1S5Bw9NoUFV8mlWgP3EBHfKL6DVPST/+qj9pvhakYwblFZoUCQGB4/c0xoTB/fF1o4VVYdGV+m6FCFlEO+ts9Jap5vr6KRi8og00bA/v6bXUAAeEWFSAZYfLA+JWYI=;cI7EnbBe4gBEpndhkgmy0A=="

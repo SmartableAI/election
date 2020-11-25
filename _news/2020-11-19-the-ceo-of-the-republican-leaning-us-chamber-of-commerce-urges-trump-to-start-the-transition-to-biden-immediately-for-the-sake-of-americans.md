@@ -1684,6 +1684,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Dow crests 30,000 on vaccine hopes, Biden transition"
+    excerpt: "The Dow Jones Industrial Average broke 30,000 points Tuesday as investors were encouraged by the latest progress on developing coronavirus vaccines and news the transition of power in the U.S. to President-elect Joe Biden will finally begin."
+    publishedDateTime: 2020-11-24T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/24/dow-crests-30-000-vaccine-hopes-biden-transition/6414968002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/29f4d021-6bd0-4ce1-93aa-d6d26165be1e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Duluth airport barred Pence after Trump broke virus rules"
     excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"
     publishedDateTime: 2020-11-19T17:39:00Z

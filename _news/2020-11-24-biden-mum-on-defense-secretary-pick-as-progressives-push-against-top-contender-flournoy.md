@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cotton slams Obama-Biden 'A-Team' for past foreign policy failures"
+    excerpt: "Sen. Tom Cotton, R-Ark., on Tuesday took aim at former Obama administration officials who are going to be part of the incoming Biden administration, saying that reporters were “swooning” over an “A-Team” who he said presided over “absolute chaos” abroad."
+    publishedDateTime: 2020-11-24T23:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHq3_DSxc90/cotton-obama-biden-foreign-policy-failures-on-china-middle-east"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-obama-biden-foreign-policy-failures-on-china-middle-east.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-obama-biden-foreign-policy-failures-on-china-middle-east.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dcc4a60-2e7a-4b21-82e5-908af45fef71/4b4cac47-c6f6-44a1-b6cc-278017292d33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "znLPAu5WWxZ2Wl4ud5F0OtfV/RVC8g12Bt1WiVN3HtJg70vpwN2BTnG5KvtHseP5mGeTjDcO9k5rcJQZ9aBTLCiooGZeqfneeXh8CF3wkxRsW0VodANl067pxrRD6o7tj3bDWKjv4k2U8EWGn1eYQwaIEOJlrjMq8b04XO+8aNdW017R6wgdrj8DqRGnggYA/xRaDYAxRZsQs+dkWiAVd/I5u3RQ0+Z5247nk9NTbMF5ON0/qWyDUDvLdXqFZkKRBofNZifpmyrsgTw0scN8j/JJNCiFGprPm5wQDXyCqrCQRiBp3S6VG0ZhQeABfpOCrO2kxuuEMg4lNiNVmHbqAVYitaifEuPhWzkOrKkj2F0=;NMEyBYh0/iF9O/gBC1EZ6A=="
 ---

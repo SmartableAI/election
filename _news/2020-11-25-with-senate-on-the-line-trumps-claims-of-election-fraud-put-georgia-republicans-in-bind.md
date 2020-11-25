@@ -2,11 +2,11 @@
 category: news
 title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
 excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-publishedDateTime: 2020-11-24T19:04:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
-webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
+publishedDateTime: 2020-11-24T23:50:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
+webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2842XG"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2842XG"
 type: article
 quality: 131
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322370&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HF"
     width: 817
     height: 545
     isCached: true
@@ -190,6 +190,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/black-voters-detroit-02-gty-llr-201121_1605996646291_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lame-duck president pardons turkey; Trump breaks post-election isolation for tradition"
+    excerpt: "President Donald Trump emerged from self-imposed isolation on Tuesday to show that at least one thing in Washington would run according to tradition: the pardoning of a Thanksgiving turkey."
+    publishedDateTime: 2020-11-24T21:48:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-turkey/lame-duck-president-pardons-turkey-trump-breaks-post-election-isolation-for-tradition-idUSKBN28436H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28436H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28436H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542335983&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1MS"
+        width: 806
+        height: 545
         isCached: true
   - title: "Factbox: Trump suffers major defeat in legal battle to overturn the election, but presses on"
     excerpt: "U.S. President Donald Trump's campaign and his allies have suffered a string of judicial defeats in their bid to prevent states from certifying President-Elect Joe Biden as the winner of the Nov. 3 presidential election."
@@ -526,6 +542,6 @@ related:
         height: 563
         isCached: true
 
-secured: "O2X1wgDMOh2fPjwzp/5MwBM5gLZiRf+P1ZhxRCjRF6vx4cUDjUx4daUBtQCL7m1fyl48RjcVP6nfN5ezsqS0LbcqNdPn5VkHqrxMXQTXzKd5kGj46WU0M4c715LoXBVgiqXD0Y2XjhcJ/omeJzdxfBMWALEhSreBnA17xS9bN8nRJUR2R5r1W9VLGdY8U/V3zh0icxADTpXrECZHHH2YE0N8hVBCnX8ED6NJXpam6Oy3ylR4WkDVBgVtKIQjbdIGwW/Ul+IApxszVTDm2tTfGbhpVJaSoWlzf1m8LHZcE+61h32TyffsUswJUtG7sDTvKaMaaXzxGBHoVshTpDZRNUfF77goHV66JAl0QhnsWWc=;4hckviybjONPh3rpScHxzA=="
+secured: "c+2fdnm2c26YaSf/eKwrz6P0PrlAjvf0Y+sUOgaCrH8if0DUAA8upuYmwTh+kWGvlL35FIhdJCEzkSkLqnLUjRDmuwjUBys2BxrXAzBW2EjvBWRSOTv6HfxLecUM5gy+43X7YNyvM9l1ZjTsaMchMkTnH2Za8+31bdv86dZPZYY3ydl42nA4Z/1aiBDq1uQv1BIihjlfNd6fZ2CCz6gBgTx98XjiOZxCbSLtbuT+hesfMGJspBYdYSoE5mXFpgn7Ow1NNTSYm5WfmP1Rt1XY9QJdQop8K/+Lcvs3l/LgLW7+l7ZPTinvYpiqp4lZDaaFfZ9NsGYj4SdY6/wLkbjjEPbH1YgoIA36QgOzua5/3AM=;g/NLGHJZsTTwnR2MVf1cLQ=="
 ---
 

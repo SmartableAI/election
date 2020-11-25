@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
 type: article
 quality: 128
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541819456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1UH"
         width: 816
+        height: 545
+        isCached: true
+  - title: "Biden says U.S. 'ready to lead' again on global stage"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
+    publishedDateTime: 2020-11-25T00:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election/biden-forges-ahead-with-building-team-after-trump-clears-way-for-transition-idUSKBN2841BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
+        width: 801
         height: 545
         isCached: true
 

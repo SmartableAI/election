@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1481
+heat: 1521
 published: true
 
 provider:
@@ -253,6 +253,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden taps longtime diplomat jettisoned under Trump as US ambassador to the UN"
+    excerpt: "Linda Thomas-Greenfield grew up in Louisiana, \"in a segregated town in which the KKK regularly would come on weekends and burn a cross in somebody's yard,\" she recounted in a TED Talk in 2018. Neither of her parents graduated high school.\n    \n"
+    publishedDateTime: 2020-11-25T00:53:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/faKQOPC7YoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/linda-thomas-greenfield-profile/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/linda-thomas-greenfield-profile/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124134553-linda-thomas-greenfield-biden-admin-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1049,6 +1065,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123133601-6-split-biden-admin-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "How Biden can fight climate change without Congress"
+    excerpt: "This week, we analyze the ways President-elect Joe Biden and his appointees can address climate change risks via federal financial regulators without having to involve Congress. A DIVIDED CONGRESS WON'T GET IN THE WAY — Much of Joe Biden’s policy agenda hinges on which party controls the Senate after Georgia holds two runoff elections on Jan."
+    publishedDateTime: 2020-11-24T17:28:00Z
+    webUrl: "https://www.politico.com/newsletters/the-long-game/2020/11/24/how-biden-fight-climate-change-congress-490983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "LVvfWIRKW0pbnm0+d/q/p8+hm7lwLCnLLhfqGz8z9OMCbkMY8EARc0fckBp0SzBr8vO5TfhTScJZJlfIiCicKWszjCfLiO8xBwU7k7c8AYfHqYsIN4UhhEFEp9Vn6uhJ/PUSbUJgXOTuwWS83grBnml7AZHWXlzdVKrvV+5ecylaV7/SWzGj+Vewy26Piq/biMyQdRy65rPNDQ3bV8uyA4XBh9mlMk5eN62QXCcWfan3/B0hD73frplMsjUl57/wJ9LmteCUhNVYrvPMeTfzPZdw4q+sigiUw10t/ys5inKLgoviNumHSbajYedgaork7Rl4Cz53i9mWxucvPWT39Mb6HlhtZOdQJ2dxSzMF2hU=;7yPqaF863Y7O6e2cuVpuYA=="

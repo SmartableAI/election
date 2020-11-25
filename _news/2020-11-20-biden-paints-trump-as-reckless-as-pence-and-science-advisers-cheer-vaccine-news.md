@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 2341
+heat: 2361
 published: true
 
 provider:
@@ -1668,6 +1668,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/11/24/ap_20326661857750_wide-731dcea2d5acae9fbb44c1e026cf199afafab8eb.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Dow crests 30,000 on vaccine hopes, Biden transition"
+    excerpt: "The Dow Jones Industrial Average broke 30,000 points Tuesday as investors were encouraged by the latest progress on developing coronavirus vaccines and news the transition of power in the U.S. to President-elect Joe Biden will finally begin."
+    publishedDateTime: 2020-11-24T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/24/dow-crests-30-000-vaccine-hopes-biden-transition/6414968002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/29f4d021-6bd0-4ce1-93aa-d6d26165be1e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27X1OD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27X1OD"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/07/NTHR/ee89b08f-f36f-4e66-b69a-49b8e6c5ef7b-biden_ap_photo.jpg?auto=webp&crop=3983,2241,x0,y203&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Europe hopes for reset, end to 'damage control' under Biden"
+    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
+    publishedDateTime: 2020-11-24T20:30:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/europe-hopes-reset-end-damage-control-biden-74374411"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_df57ed474f6947c8a31ad471313afa06_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
     excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."

@@ -249,6 +249,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Europe hopes for reset, end to 'damage control' under Biden"
+    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
+    publishedDateTime: 2020-11-24T20:30:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/europe-hopes-reset-end-damage-control-biden-74374411"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_df57ed474f6947c8a31ad471313afa06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to nominate Avril Haines as next director of national intelligence; she would be the first woman to hold the position"
     excerpt: "Haines, a lawyer by training, held senior national security roles in the Obama administration, including as the No. 2 at CIA."
     publishedDateTime: 2020-11-23T23:15:00Z

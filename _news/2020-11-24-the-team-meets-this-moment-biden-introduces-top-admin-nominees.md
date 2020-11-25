@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the GSA's 16-day blockade on Biden's transition finally ended"
+    excerpt: "Two weeks after Joe Biden was projected to win the presidential election, General Services Administrator Emily Murphy was finally prepared to stop stalling the transition.\n    \n"
+    publishedDateTime: 2020-11-24T22:41:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IynlNe-SSlw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124162912-emily-murphy-gsa-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
     excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
     publishedDateTime: 2020-11-19T21:36:19Z

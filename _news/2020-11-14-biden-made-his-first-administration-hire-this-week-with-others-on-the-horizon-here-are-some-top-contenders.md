@@ -239,6 +239,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Europe hopes for reset, end to 'damage control' under Biden"
+    excerpt: "European relations under the Biden administration can end years in which Europe was mainly concerned with “damage control.”"
+    publishedDateTime: 2020-11-24T20:30:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/europe-hopes-reset-end-damage-control-biden-74374411"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_df57ed474f6947c8a31ad471313afa06_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Canada will press Biden administration for integrated 'Buy North America' approach"
     excerpt: "Canada will press the new U.S. administration for an integrated \"Buy North America\" approach, a top official said on Monday after President-elect Joe Biden announced his government would not give contracts to firms without U."
     publishedDateTime: 2020-11-17T02:27:00Z
