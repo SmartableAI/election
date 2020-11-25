@@ -199,6 +199,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
+    excerpt: "As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell"
+    publishedDateTime: 2020-11-25T00:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1fd0a1db71f24ddcb34a3011b66e26a7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Latest: Biden says split Congress affects Cabinet picks"
     excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 7:15 p.m. Support our journalism. Subscribe today. Some of Joe Biden’s former colleagues in the Senate who are hoping for a spot in his administration may be out of luck."
     publishedDateTime: 2020-11-25T00:26:00Z
@@ -324,9 +340,9 @@ related:
         height: 224
         isCached: true
   - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "“They are, to a person, the right women and men for these crucial positions,” Harris said, adding they are expected “to be focused on one thing, and one thing alone, doing what is best for the people of the United States of America.” Kamala Harris ..."
-    publishedDateTime: 2020-11-24T21:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T20:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6afc8f08850ef86c58a2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
@@ -392,17 +408,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell. Senate ..."
-    publishedDateTime: 2020-11-25T00:00:00Z
-    webUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
     excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
     publishedDateTime: 2020-11-24T23:17:00Z

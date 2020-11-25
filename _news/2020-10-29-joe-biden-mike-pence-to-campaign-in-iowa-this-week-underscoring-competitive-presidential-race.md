@@ -1869,19 +1869,19 @@ related:
         isCached: true
   - title: "Biden certified as winner of Pennsylvania presidential vote"
     excerpt: "Pennsylvania officials say Democrat Joe Biden has been certified as the winner of the presidential vote in the state"
-    publishedDateTime: 2020-11-24T16:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    publishedDateTime: 2020-11-24T21:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5bd9fe9459bb4ac9b7e179379abfa44e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Fact-checking claims on COVID-19 shutdowns, Trump’s taxes, Hunter Biden and more from the final debate"
     excerpt: "President Donald Trump’s first line of the night, about COVID-19 deaths, was false and set the tone as he and Democratic rival Joe Biden unleashed a torrent of claims in their last presidential debate."

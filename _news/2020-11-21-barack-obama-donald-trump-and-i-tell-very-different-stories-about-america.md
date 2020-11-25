@@ -31,145 +31,161 @@ images:
     isCached: true
 
 related:
-  - title: "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters"
-    excerpt: "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from."
-    publishedDateTime: 2020-11-16T20:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp"
+  - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
+    excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
+    publishedDateTime: 2020-11-25T01:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 959
+      - url: "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "In new memoir, Barack Obama relishes taunting Trump: ‘He was a spectacle’"
-    excerpt: "Former President Obama holds off on mentioning Donald Trump until the end of his new memoir, \"A Promised Land.\" But his thoughts are worth the wait."
-    publishedDateTime: 2020-11-20T20:51:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-20/obama-trump-book-white-house-correspondents-dinner?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/056cee9/2147483647/strip/true/crop/2000x1306+0+421/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F2c%2Fdedf568e4af087cab5f0a5c76f32%2Fla-ca-bk-a-promised-land-barack-obama-183.JPG"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Trump wasn’t just a rural phenomenon. Most of his supporters come from cities and suburbs."
-    excerpt: "Are rural Americans Trump voters? Yes, many of them. Trump voters outnumber voters who supported Joe Biden 2 to 1 in rural counties. But are all Trump voters rural? Absolutely not. Voters in rural America accounted for less than a fifth of all votes cast for him."
-    publishedDateTime: 2020-11-19T00:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/11/18/rural-city-trump-voters/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTWKQIEDW4I6TNMF4NVRNJJRVI.jpg&w=1440"
-        width: 1439
-        height: 960
-        isCached: true
-  - title: "Trump supporter hired for Commerce Department post, to push hardline China policies until January: sources"
-    excerpt: "Corey Stewart, an ardent supporter of President Donald Trump, has been named to a newly created senior post at the U.S. Department of Commerce, where he can help push through hardline policies on China before the end of the administration,"
-    publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-commerce-post-idUSKBN27W2P7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27W2P7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27W2P7"
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 107
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201116&t=2&i=1541407697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAF1HK"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
         width: 817
         height: 545
         isCached: true
-  - title: "Barack Obama on Trump: \"This is not normal\""
-    excerpt: "In his interview with CBS News' Gayle King, former President Barack Obama comments on Election 2020, and President Donald Trump's allegations, without evidence, that his election loss was due to fraud."
-    publishedDateTime: 2020-11-16T00:14:00Z
-    webUrl: "https://www.cbsnews.com/video/barack-obama-on-trump-this-is-not-normal/"
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/15/a95c601d-ee80-4f64-a4fb-a5f7e5d7ba46/thumbnail/1200x630/339301e5a15b8b557ecccc191db80c77/1115-sunmo-obama-normal-588504-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Obama says 'the bling, the women, the money' in rap music could explain Trump's increased appeal to some rappers and Black male voters"
-    excerpt: "The former president said Trump's rise surprised him was because \"I don't watch a lot of TV. I certainly don't watch reality shows.\""
-    publishedDateTime: 2020-11-16T16:39:00Z
-    webUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-bling-women-money-rap-quote-trump-black-voters-atlantic-2020-11?amp"
+  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
+    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+    publishedDateTime: 2020-11-24T06:55:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/5fb2a0961c741f0019ac9f75?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Obama says Trump used his 'birther' lie to give millions of white Americans 'spooked' by a Black president an 'elixir for their racial anxiety'"
-    excerpt: "\"For millions of Americans spooked by a Black man in the White House, he promised an elixir for their racial anxiety,\" Obama writes of Trump."
-    publishedDateTime: 2020-11-12T15:57:00Z
-    webUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-says-trumps-birther-lie-weaponized-white-americans-racism-2020-11?amp"
+  - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
+    excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
+    publishedDateTime: 2020-11-20T12:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/20/under-biden-lgbtq-rights-more-americans-could-norm/6334516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6334516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6334516002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f986f100c60aa00190d49db?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Beware Trump supporters: Kamala Harris and the Democrats have a list, and that's a fact"
-    excerpt: "The “quote” I posted concerning Kamala Harris may not have been accurate. But all these other comments are. And here’s something else that is entirely true, Sen. Harris’ silence."
-    publishedDateTime: 2020-11-14T18:02:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/nov/14/beware-trump-supporters-kamala-harris-and-the-demo/"
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 82
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2018/09/04/senate_supreme_court_99507_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
+    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
+    publishedDateTime: 2020-11-21T20:52:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What do Iranian Americans expect from a Biden administration? There’s no one-size-fits-all answer"
+    excerpt: "As they look to the incoming Biden administration to grapple with issues that are top of mind for many in the diaspora — the economy, jobs, foreign policy and the coronavirus pandemic — community members say it would be a mistake to assume that there is a one-size-fits-all approach to pleasing"
+    publishedDateTime: 2020-11-22T14:18:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 112
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/da646f2/2147483647/strip/true/crop/4000x2613+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2Fc1%2F3750d95040808465e17a6d46d153%2Fla-photos-1staff-655631-la-me-covid-features-macarthur-park-10-als.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\""
+    excerpt: "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website."
+    publishedDateTime: 2020-11-17T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325744002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
-  - title: "Media executives and financial firms are making a land grab for Fox News viewers and Trump supporters, and a new player just entered the race"
-    excerpt: "The latest initiative comes from right-wing entrepreneurs including John Cardillo."
-    publishedDateTime: 2020-11-23T21:59:00Z
-    webUrl: "https://www.businessinsider.com/several-media-players-are-chasing-trump-supporters-2020-11"
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: Time
+      domain: time.com
+    quality: 81
     images:
-      - url: "https://i.insider.com/5f9af1486f5b310011724345?width=1200&format=jpeg"
-        width: 1190
-        height: 595
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "GqS5nTT5T93Kzb48EKndepH7phPh8bA+fTkNoul34EEJoHYv4/ZI3V34JWM/dnEy8SOnxMBxRejNQ2cD/F7SE5KIFv4PPGizpi3/crXvX8hu+kZ4i9mFlAQtGckSoCkP9T0d71LX0vBTt2Kil3Tkx7icWqkNs4n6suETNQ21SqYlZZSMcg6J0x/KIMw9ZaEd1i2ewow39iVHi67hIYPwIapNEYtiIw/881BmBd45tnCdN7LOEqHgRQXqys7wzjw9XcsQmtuF4k1f6JopTYt/KlDL6eqQ++/jgk+Ps4xOIS+w1F09QYByNtJaRyQLtwq0nOpWznYHZGa68RcqVKNsUdTwWnBWa50YLXAezoJMdM+G7izqiZmmw/gvWP7O/alE9PtHc5FBOlxFBKIB08hJJ0t59leHNi/Bn6mIXwe5cCvxDpoEFGXv8pxedn5fbEypKjcpWmRkDtglUyDg6Iq8+tpz4hpFyrkNkaEBb+cuJCM5Fwgjla+o7BuGPYWhrcRGbh4JlQu9C6dJqjdTNI+2Jw==;EBCSpuSP0ZYWGpmdnTTkPA=="

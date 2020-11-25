@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
-excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell. Senate ..."
-publishedDateTime: 2020-11-25T00:00:00Z
-originalUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11"
-webUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11"
-ampWebUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
+excerpt: "As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell"
+publishedDateTime: 2020-11-25T00:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-seeks-swift-cabinet-votes-gop-senate-stays-74387512"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1fd0a1db71f24ddcb34a3011b66e26a7_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Election 2020 live updates: GOP colleagues congratulate Harris; Biden speaks to Netanyahu"
@@ -333,9 +339,9 @@ related:
         height: 224
         isCached: true
   - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "“They are, to a person, the right women and men for these crucial positions,” Harris said, adding they are expected “to be focused on one thing, and one thing alone, doing what is best for the people of the United States of America.” Kamala Harris ..."
-    publishedDateTime: 2020-11-24T21:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6d5d8f08850ef86c58bf"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T20:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6afc8f08850ef86c58a2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
@@ -709,6 +715,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "YgkvFSXBWaGZB+aQw0oz4/lQxt0kwk5ScOXYno1fJ/eR+6AHF0nXHAeVlfPZY1qhXKAB0YaQPo61xXdpAaturFA1qgiJnAxqHR6XfwvOZ4KaGaZhsPRMBYFUb05HK+H1wjKWVVv3cKZpcdRiOjyxvSShyDRU9twrIPlavpiDZr5FC7bQ2Jq8RVwWwW5zUBtnYu6rfRdLs2A37f4HUdTQ9SjtivkTB6rDZ6X3WIgdtsqxXKZwHDnDrKn4TodHcShfkTpSCb/eVP0WSAFhrb7e7fXltbvk90K2VObskeOkeds4FxZ1Nqon9tMllwnD5EuepzYfRw4SIsMe36/0z98SOwqtE9W0g+tGfuuI4Z9qSoo=;pZ9wJZB7tnYaJ3S8qWxviQ=="
+secured: "aD0sJsqQKt/cveF1UXsl5d49oMT6YYo7jvZ/VEhzdchdREGc4rXvuKOYNIYfAtCkauM9sSfrFGR3/wjfIWQAyiOoOjOObkXdsA4PpRwzuZco3SB7/cm2Hf4P3sN1DRaxdq4xvB+EOkrSTE3m3sJJpcYdwA4JZIoqJlRoypNmnpQ5sLQAy4mmxVVulbMXZO1JgnWJ7B3RA+R3BOlZ5P+D/n/hSlraRg1UKMCLxDYlo60MRpsau82ydVT5gvfGjZL7KL+RY1MWuPRxO0COB459ss8n2fWOze7rBGItttZXFPsa+vzM9l9KGKH/E7RUhyU8QgbIb1hTuu6rK7H6+5VfYiyWirbqaEZ3FO4TxzlpmJk=;kNSUcJoAnGM33qlzfqza4g=="
 ---
 

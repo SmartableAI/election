@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1601
+heat: 1621
 published: true
 
 provider:
@@ -799,6 +799,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/21/us/politics/21dc-transition-1/merlin_180249642_f7a5f520-d929-4df9-a0cc-6f1718568316-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden says Trump administration outreach has been 'sincere' as transition begins"
+    excerpt: "\"It has not been begrudging so far, and I don't expect it to be,\" President-elect Joe Biden said in an exclusive interview with Lester Holt on NBC's \"Nightly News.\""
+    publishedDateTime: 2020-11-25T07:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-says-outreach-trump-admin-has-been-sincere-transition-begins-n1248873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248873"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_lho_exclusive_joe_biden_intv_pt1_2_201124_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Confrontations in swing states escalate as Trump continues to attack the election process."
     excerpt: "President Trump’s false accusations that voter fraud denied him re-election are causing escalating confrontations in swing states across the country, leading to threats of violence against officials in both parties and subverting even the most routine steps in the electoral process."

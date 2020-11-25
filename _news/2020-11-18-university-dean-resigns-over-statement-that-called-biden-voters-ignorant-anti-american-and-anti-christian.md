@@ -31,6 +31,52 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
+    excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
+    publishedDateTime: 2020-11-25T01:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Corporate America says it is ready to work with Biden"
+    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
+    publishedDateTime: 2020-11-09T21:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
     excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
     publishedDateTime: 2020-11-24T06:55:00Z
@@ -46,6 +92,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
         width: 817
         height: 545
+        isCached: true
+  - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
+    excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
+    publishedDateTime: 2020-11-21T09:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
+        width: 600
+        height: 378
         isCached: true
   - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
     excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
@@ -63,37 +125,67 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden picks Alejandro Mayorkas, a son of Jewish Cuban refugees, to lead the Department of Homeland Security"
-    excerpt: "Mayorkas was second-in-command at DHS under President Barack Obama. He would be the first immigrant and first Hispanic American to lead the department."
-    publishedDateTime: 2020-11-23T22:01:00Z
-    webUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-dhs-alejandro-mayorkas/2020/11/23/9579a510-2dad-11eb-9c71-ccf2c0b8d571_story.html?outputType=amp"
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 107
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VV7ENMBNZQI6XFWCVLB7CYRBLU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden picks first Latino to head DHS, first woman to lead intelligence as part of diverse foreign policy team"
-    excerpt: "President-elect Joe Biden chose Alejandro Mayorkas, who arrived as a refugee from Cuba, to lead the Department of Homeland Security."
-    publishedDateTime: 2020-11-23T20:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/23/biden-picks-alejandro-mayorkas-first-latino-head-homeland-security/6392845002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6392845002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6392845002"
+  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
+    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
+    publishedDateTime: 2020-11-21T20:52:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/23/USAT/78a6bcc7-71fe-40bf-8353-207740a5fa8e-Mayorkas.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What do Iranian Americans expect from a Biden administration? There’s no one-size-fits-all answer"
+    excerpt: "As they look to the incoming Biden administration to grapple with issues that are top of mind for many in the diaspora — the economy, jobs, foreign policy and the coronavirus pandemic — community members say it would be a mistake to assume that there is a one-size-fits-all approach to pleasing"
+    publishedDateTime: 2020-11-22T14:18:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 112
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/da646f2/2147483647/strip/true/crop/4000x2613+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2Fc1%2F3750d95040808465e17a6d46d153%2Fla-photos-1staff-655631-la-me-covid-features-macarthur-park-10-als.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 81
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
 
 secured: "ruvnYnU65PvD4HSyirXJLXGPRGwh6GN4tijQe3eoH7n8PIAQH78jxng7jKRynlKLRVKIZh+WMcAVEMkOheD0OulurCQY6qeyKUWqYwxH2eahDjXZmClQk/C8TOvoz2g9VSngjfiyOnuJgONK8nYIakLpE0BQZi8jAv8MBgTwufNmb4choSCg+N7ty4ww93/tQgV/BX2wUufV4fabGqw8qeE6telUuntEuC64kie2LV6nLKh4mxRVUaVEUQ3TY2Om9Z27w6X25EiKuJpJ6Lp33TXForBjrJAVhGWreZtdA5cqe+w4Zs7m2GIAq1+CgEyPdsUgzBslXlxAhYb+6aNf4+oVRoTIhoaXdZT08llallQoB2HArFzgsjKmGvI8PX4M8n/ooRkvj7bZ8L2QPD0zrcThAvAVNIBcLyseZAuNLlhXcvKLWJ6PdZW1Yy32+XnXREmMMNRYfSpdWozzzU2ZYTNQA3UQmXTfyKVWquolPWmZTzqI6Pmgd5LxZbeV9VL9mxMPAj3UIJhUd7rnaeHcAA==;S4yRpCoyvWI7cOtWDz28Rw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 780
+heat: 800
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/GMA/201122_gma_ault4_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump plans to pardon former aide Michael Flynn: source"
+    excerpt: "U.S. President Donald Trump has told allies he plans to pardon his former national security adviser Michael Flynn, who had pleaded guilty to lying to the FBI during an investigation into Russian meddling in the 2016 presidential election,"
+    publishedDateTime: 2020-11-25T04:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN2850BV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2850BV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2850BV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542367249&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO05R"
+        width: 775
+        height: 545
         isCached: true
   - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
     excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."

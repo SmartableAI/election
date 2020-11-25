@@ -1178,6 +1178,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Man in Trump-shaped flotation device charged with assault after breathing on protesters"
+    excerpt: "Raymond Deskins was charged with misdemeanor assault for allegedly breathing heavily on protesters who were outside Trump National Golf Club."
+    publishedDateTime: 2020-11-25T03:33:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/man-trump-shaped-flotation-device-charged-assault-after-breathing-protesters-n1248603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248603"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_48/3430349/201123-raymond_deskins-mc-1240_c1b813a19d1223327645351a7059e355.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "More Republicans call for a smooth transition as Trump continues spreading baseless fraud claims."
     excerpt: "Even as more top Republicans urged President Trump on Sunday to allow for an orderly presidential transition, the president himself, after briefly appearing to acknowledge his election loss, resumed spreading the kinds of baseless accusations of election fraud that his supporters have embraced."
     publishedDateTime: 2020-11-16T18:36:00Z

@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Trump vents about election as agencies aid Biden transition"
-excerpt: "President Donald Trump insisted Tuesday that he is not giving up his fight to overturn the election results, but across the federal government, preparations were beginning in earnest to support President-elect Joe Biden’s incoming administration."
-publishedDateTime: 2020-11-25T00:01:00Z
-originalUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
-webUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
-ampWebUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
+excerpt: "President Donald Trump says he is not giving up his fight to overturn the election results, even as agencies across the federal government begin to support President-elect Joe Biden’s incoming adminis"
+publishedDateTime: 2020-11-25T01:42:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
 type: article
-quality: 135
+quality: 155
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_0ca7e03563a3445ba3334fb5a8f9f508_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -5176,6 +5182,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump claims he directed his administration to start Biden's transition process even as he continues to say he won the election"
+    excerpt: "Trump continued to insist he would contest the election results and that he beat President-elect Joe Biden."
+    publishedDateTime: 2020-11-25T05:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5fbc461350e71a0011556fa8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."
@@ -12154,6 +12176,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nvat+pfsF1liaKKsMgaN2JwieUSEkaXnUH7uDavlJFSS6w26ygFfrkw5OdCDW2RjpUbA57tuIQ0qJ5+rQdBMW+dCn8QP2y0qkktBCJ2VimM8J51oFmAE7/oLp3gih3oft6G7WXVFK5FX4W6/CWBy2sEMkiE2otXz1yPsc1N25XndRd6BXuifPGvBU3VMKuH1gYOE97JpKNyxqqh1k1ktt/yMVZHy1JoPfkkzOrPR2LGDw4EUkT5uQB4tEpsRDyyppkgzuS/rqAqEgoLV3Odm27pXCeG63mfHEiSMblM0Eo/3HPcSqtca818qmZ09X6OxjNHsXQ2YP8pynXjMQwDd7A8DPiXf1oTvg84w5qHc+BQ=;N3VKsGK8bw1xFgLJU+XXOg=="
+secured: "z4Ev0P+CMh0rMn1CcwCjxFYAvFhs+y1hiR/IJrTAr97lf8lLjyeWVqRHczKpXDE4EY3gnErWh5MdTGEi02xDHCAh3n27TKxm5KOAb3qHeUUJMPm6Ns2bTKxnesMNax3NZYrS4VUmXNS4oOzF7lq1MT1WBLt0ME860hPyIlIswLZzOW0/duPpCA6qHSBt9R4Qz9ATE7Yz0TvMiXUZC6/URjJzcGGgqi7PQDuugTMrE802b95IUbkFA3IFmBLgF/D27YP2wop0/9p0j5+tiHE8sVj+6afNZBEzYoggFLcHE9stBj9/oUXey7A99nAIrnlxS9wI26fZ9iHT4Kk6yUeWv+UmxhhFNZIi0w1gLGUKiz4=;5AlSirmX55aglF0OXIgKMg=="
 ---
 

@@ -31,127 +31,162 @@ images:
     isCached: true
 
 related:
-  - title: "Is America ready to return to the Obama-Biden foreign policy?"
-    excerpt: "The Obama/Biden reset policy with Russia backfired as Russia annexed Crimea from Ukraine in 2014 and entered the Syria civil war in 2015,"
-    publishedDateTime: 2020-10-23T19:30:00Z
-    webUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy"
-    ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+  - title: "Trump's America-first approach 'meant America alone', says Joe Biden – video"
+    excerpt: "President-elect Joe Biden says his presidency would not be 'a third Obama term' and that he would consider appointing a Republican"
+    publishedDateTime: 2020-11-25T01:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/nov/25/trumps-america-first-approach-meant-america-alone-says-joe-biden-video"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
     images:
-      - url: "https://thehill.com/sites/default/files/obamabarack_110916getty.jpg"
-        width: 646
-        height: 363
+      - url: "https://i.guim.co.uk/img/media/3b5387289c02728ddcd625e8fbb7739ce859f9cf/0_202_3047_1829/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28a1692bd9f6f64c8271b0beb3ee0451"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Joe Biden's dangerous, top secret 'foreign policy'"
-    excerpt: "Biden likely would have an unstable, factional coalition government and be unprepared to deal with any foreign hostilities."
-    publishedDateTime: 2020-10-26T14:00:00Z
-    webUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy"
-    ampWebUrl: "https://thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/522009-joe-bidens-dangerous-top-secret-foreign-policy?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Police: Florida man stole bulldozer, ran down Biden signs"
-    excerpt: "Authorities and homeowners in central Florida have accused a 26-year-old man of stealing a bulldozer from a construction site and driving it into a neighborhood to knock down campaign signs promoting"
-    publishedDateTime: 2020-10-26T13:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/police-florida-man-stole-bulldozer-ran-biden-signs-73833210"
+  - title: "America's bellwethers crumbled in aligning with Trump in '20"
+    excerpt: "Indiana's Vigo County had been America’s most reliable presidential bellwether, voting in line with the rest of the nation since 1956"
+    publishedDateTime: 2020-11-19T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/americas-bellwethers-crumbled-aligning-trump-20-74280253"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fe367a2fc1344c12bbb8e0178298717e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "America is changing. Joe Biden can help us through the transformation."
-    excerpt: "Joe Biden is more than just the stop-the-madness alternative to an unhinged incumbent. He has the potential to be a transformational president who guides the nation through an inevitable period of wrenching change."
-    publishedDateTime: 2020-10-29T19:57:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/america-is-changing-joe-biden-can-help-us-through-the-transformation/2020/10/29/f8173804-1a11-11eb-82db-60b15c874105_story.html?outputType=amp"
+  - title: "Biden picks Cuban-American lawyer Mayorkas as U.S. homeland security chief"
+    excerpt: "President-elect Joe Biden will nominate Alejandro Mayorkas to become U.S. secretary of homeland security, Biden's transition team said on Monday, entrusting the Cuban immigrant to help reverse outgoing President Donald Trump's hard-line immigration policies."
+    publishedDateTime: 2020-11-24T06:55:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-homeland-idINKBN2832I5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2832I5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2832I5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542228607&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM19M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
+    excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
+    publishedDateTime: 2020-11-21T09:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/21/barack-obama-donald-trump-and-i-tell-very-different-stories-about-america"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/affec64d8841c54c434781ee58243286b79600d2/0_0_8212_5178/master/8212.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f652526eb0dd4a56201ef7c555a31c29"
+        width: 600
+        height: 378
+        isCached: true
+  - title: "Most Americans want protections for LGBTQ people. Biden could finally make that happen"
+    excerpt: "After four years of President Trump, victories for Biden and LGBTQ state lawmakers have created a \"reason for hope\" for many LGBTQ Americans."
+    publishedDateTime: 2020-11-20T12:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/11/20/under-biden-lgbtq-rights-more-americans-could-norm/6334516002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6334516002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6334516002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/19/USAT/935cb4ec-6f78-4f86-a438-ef082c670230-David.jpg?auto=webp&crop=2999,1687,x0,y153&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
+    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
+    publishedDateTime: 2020-11-17T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "The Top 5 Richest Backers Of Joe Biden"
-    excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."
-    publishedDateTime: 2020-10-30T23:59:00Z
-    webUrl: "https://www.forbes.com/sites/denizcam/2020/10/31/the-top-5-richest-backers-of-joe-biden/"
+  - title: "Judge slaps down Trump appointee who has sought to reshape Voice of America and related agencies"
+    excerpt: "Michael Pack, who took over VOA’s parent agency, has stirred opposition to sweeping changes at government-funded broadcasters."
+    publishedDateTime: 2020-11-21T20:52:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/judge-slaps-down-trump-appointee-who-has-sought-to-reshape-voice-of-america-and-related-agencies/2020/11/21/125d285a-2baa-11eb-92b7-6ef17b3fe3b4_story.html?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c6c2fd8fc934e427cc4d3%2F0x0.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWYCY3VPFYI6VGFVE6NGI6NB4Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "What do Iranian Americans expect from a Biden administration? There’s no one-size-fits-all answer"
+    excerpt: "As they look to the incoming Biden administration to grapple with issues that are top of mind for many in the diaspora — the economy, jobs, foreign policy and the coronavirus pandemic — community members say it would be a mistake to assume that there is a one-size-fits-all approach to pleasing"
+    publishedDateTime: 2020-11-22T14:18:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-22/iranian-americans-expect-biden-administration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 112
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/da646f2/2147483647/strip/true/crop/4000x2613+0+27/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2Fc1%2F3750d95040808465e17a6d46d153%2Fla-photos-1staff-655631-la-me-covid-features-macarthur-park-10-als.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "University dean resigns over statement that called Biden voters \"ignorant, anti-American and anti-Christian\""
+    excerpt: "A dean at a university in Virginia has resigned after posting a statement on Facebook that called supporters of President-elect Joe Biden “ignorant, anti-American and anti-Christian.” Virginia Wesleyan University announced the resignation Monday in a statement on its website."
+    publishedDateTime: 2020-11-17T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/education/2020/11/17/virginia-wesleyan-university-dean-resigns-statement-biden-voters/6325744002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6325744002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6325744002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/07/USAT/865081a8-2c31-4568-a288-c275f590d8b5-AP_Election_2020_Washington.jpg?auto=webp&crop=4987,2806,x0,y253&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end"
-    excerpt: "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads."
-    publishedDateTime: 2020-10-19T13:24:00Z
-    webUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
+    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
+    publishedDateTime: 2020-11-19T21:40:00Z
+    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: Time
+      domain: time.com
+    quality: 81
     images:
-      - url: "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg"
-        width: 1419
-        height: 709
+      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
+        width: 720
+        height: 432
         isCached: true
-  - title: "Obama tells south Florida not to fall for 'okey-doke:' 'Joe Biden is not a socialist'"
-    excerpt: "Former President Barack Obama told Floridians on Saturday not to fall for the “okey-doke” from Republicans who say that Joseph R. Biden is a secret communist or socialist."
-    publishedDateTime: 2020-10-24T21:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/24/obama-south-florida-biden-not-socialist-okey-doke/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 68
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/24/Election_2020_Obama_89524.jpg-72e00_c0-220-5280-3300_s1200x700.jpg?932acde88473437c7d8669264c8035b9d1f45860"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
-    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
-    publishedDateTime: 2020-10-22T08:50:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 47
 
 secured: "+oSiW5H4zbVorTX5MpuvP0lV/7tBnV/AJ3tOHjjDQOZCkPtoME8eLdsmmnYy10698TGE4M+F/nFeFUW8GsPTa+WeQfarRxy0CS66liU8gUvSqmBva8onTyLka6QN//5kdu3uZJ/lfQsaWEaW++VuCzCUQ/hqfwbFBcKZ8B1j09acmIvKlUCczhFZiex0S2QRI9NC/3lr157TkZEVovjR50qWnnS65W5grfqo5QGg3mivRIeqyXFHGGpxOfS/A64gt9kgBbxeYisEzSWjfgZAATKjtLyzRF85Ff8ZM1XWm0f/Uu2I7q7zCni8+jdP6516zUQ8fJgtfs48clb5v2rIEKJWgsS1TN7lEVZAVQ0b1Pw=;pN04YGpPK4KGVaB30xI2Wg=="
 ---

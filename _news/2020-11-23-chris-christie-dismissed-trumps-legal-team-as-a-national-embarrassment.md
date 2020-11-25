@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Melania Trump, like America, may be more in love with President Trump than his critics would hope"
-    excerpt: "The camera pans from her stiletto heel, up her sparkly gown, to her familiar face — it’s Melania Trump! (Her head superimposed on the body of the actual bachelorette.) Is Melania Trump really looking forward to being rid of President Trump as much as tens of millions of Americans are?"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/melania-trump-donald-trump-marriage/2020/11/17/fba269fa-250e-11eb-a688-5298ad5d580a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOXTPAXDQI6XC62QFGKK3QTRM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "S9H2ssvBvGdR6aOxjFIaC5q15GwxORLSEvA70z6PGRlWwwPpmXwjZRGlPJoEnWiiXa2xme64OHFXKyAIkArY8hOJq6t6h0UtwkfD9/O72XM4LvvPhhSzx0aLpgbV/wFZ2aUENKf6epFISd6BfK0uHZA9xEO67/MVzcpZt2Y9IDgaAPcCiM5GUU2dHw7Ar0xWEuShtxKFHy7Fvb0idJUEnQSHzniNzatbzjLt1QUhoiBrvB7rqmvks9Sj5EQiqqd+VbhAQ1TPepDHBijUi62qURBbSKBuuf0wiqRiLAVxotbhQ5KRS1OrhWKGzLM+ER14fgfj0uwgkdkv8VfnL+R+Y7RlIQQ2AvFakzE+lBGa84zHSliTahcynMaRmFI8JQlLzhrGUPnGzgu2X8ilJAKfHdRY3P7tTp1voVI9kZwFzdaSWMMsk7bvNqk030Q0pBzmEgQfmV8bdCpynkvT7dVgLCLTVBfj4MDrJgQVI4fozCmI/WMvI6xMe73JRel6NZ0Dm1u063LN9q2dfZJ7IVCbUQ==;JmIbrqRwTgHBmUn5sbgKvw=="
 ---

@@ -1162,6 +1162,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Man in Trump-shaped flotation device charged with assault after breathing on protesters"
+    excerpt: "Raymond Deskins was charged with misdemeanor assault for allegedly breathing heavily on protesters who were outside Trump National Golf Club."
+    publishedDateTime: 2020-11-25T03:33:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/man-trump-shaped-flotation-device-charged-assault-after-breathing-protesters-n1248603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248603"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_48/3430349/201123-raymond_deskins-mc-1240_c1b813a19d1223327645351a7059e355.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The F.D.A. grants emergency authorization of the coronavirus antibody treatment given to Trump."
     excerpt: "The Food and Drug Administration has granted emergency authorization for the experimental antibody treatment given to President Trump shortly after he tested positive for the coronavirus, giving doctors another option to treat patients as cases across the country continue to rise."
     publishedDateTime: 2020-11-22T20:01:00Z

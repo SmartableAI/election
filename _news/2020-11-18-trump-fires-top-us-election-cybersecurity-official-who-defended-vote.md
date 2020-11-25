@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -378,6 +378,22 @@ related:
       - url: "https://s.abcnews.com/images/US/DHS-gty-er-201020_1603231692954_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump plans to pardon former national security adviser Michael Flynn – reports"
+    excerpt: "Flynn will be among a series of pardons before Trump leaves office, according to multiple reports"
+    publishedDateTime: 2020-11-25T04:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/a06146ba417cea8b2dfdf1e2e56c13ad319a293e/577_124_1750_1050/master/1750.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2315f0b12bdd08554463aea66bdd275a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
     excerpt: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"

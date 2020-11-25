@@ -319,6 +319,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Rejecting Trump's foreign policy approach, Biden says 'America is back'"
+    excerpt: "President-elect Joe Biden said on Tuesday the United States will be \"ready to lead\" again on the global stage, turning the page on Republican President Donald Trump's \"America First\" policies as he pledged to work together with the nation's allies."
+    publishedDateTime: 2020-11-25T06:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2841C8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2841C8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2841C8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
+        width: 801
+        height: 545
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z
@@ -734,6 +750,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201123&t=2&i=1542193989&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAM1CZ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Most Americans Back Trump for 2024 GOP Primary, Pence and Don Jr. in Second and Third: Poll"
+    excerpt: "President Donald Trump is the overwhelming favorite to be the 2024 GOP nominee for president, should he choose to run again after losing to President-elect Joe Biden, according to a new poll."
+    publishedDateTime: 2020-11-25T01:51:00Z
+    webUrl: "https://www.newsweek.com/most-americans-back-trump-2024-gop-primary-pence-don-jr-second-third-poll-1550038"
+    ampWebUrl: "https://www.newsweek.com/most-americans-back-trump-2024-gop-primary-pence-don-jr-second-third-poll-1550038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/most-americans-back-trump-2024-gop-primary-pence-don-jr-second-third-poll-1550038?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1675929/president-donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Eye Opener: Biden shares dire pandemic warning with Trump administration"
     excerpt: "As coronavirus cases rise, President-elect Joe Biden shared a dire warning with the Trump administration while the outgoing White House team continues to stall the presidential transition. Also, Georgia's secretary of state is accusing South Carolina Senator Lindsey Graham of attempting to manipulate the vote count in Georgia."
@@ -1213,20 +1245,36 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Dow tops 30,000 points, buoyed by vaccine hopes and Biden transition"
+    excerpt: "The Standard & Poor's 500 index, which has a far greater effect on 401(k) accounts than the Dow, also climbed to an all-time high Tuesday."
+    publishedDateTime: 2020-11-25T06:17:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-24/dow-jones-industrial-average-trades-above-30-000-points-as-stocks-continue-to-climb-on-vaccine-hopes-biden-transition"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-24/dow-jones-industrial-average-trades-above-30-000-points-as-stocks-continue-to-climb-on-vaccine-hopes-biden-transition?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-24/dow-jones-industrial-average-trades-above-30-000-points-as-stocks-continue-to-climb-on-vaccine-hopes-biden-transition?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e6aa91e/2147483647/strip/true/crop/4500x2939+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F88%2F0c53af944917aa667fe68ff14cdf%2Fla-photos-1staff-648449-la-fi-small-business-california-covid-19-loans-grants-1-ajs.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "White House approves intelligence brief for Biden"
-    excerpt: "The White House has given approval for President-elect Joe Biden to receive the President's Daily Brief, the collection of classified intelligence reports prepared for the president, an administration official said on Tuesday."
-    publishedDateTime: 2020-11-25T02:13:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-biden-idUSKBN284371"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN284371"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN284371"
+    excerpt: "WASHINGTON (Reuters) - The White House has given approval for President-elect Joe Biden to receive the president’s daily classified intelligence brief, an administration official said on Tuesday. The decision means Biden will have access to the latest ..."
+    publishedDateTime: 2020-11-25T03:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-biden-idAFKBN2843C6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2843C6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2843C6"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542336375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1N7"
-        width: 819
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542342150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1PC"
+        width: 817
         height: 545
         isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"

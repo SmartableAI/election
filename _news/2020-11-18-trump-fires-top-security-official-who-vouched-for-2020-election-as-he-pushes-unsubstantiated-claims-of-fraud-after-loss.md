@@ -395,6 +395,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump plans to pardon former national security adviser Michael Flynn – reports"
+    excerpt: "Flynn will be among a series of pardons before Trump leaves office, according to multiple reports"
+    publishedDateTime: 2020-11-25T04:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/25/donald-trump-plans-to-pardon-former-national-security-adviser-michael-flynn-reports"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/a06146ba417cea8b2dfdf1e2e56c13ad319a293e/577_124_1750_1050/master/1750.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2315f0b12bdd08554463aea66bdd275a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump campaign seeks recount of ballots in Wisconsin in liberal Milwaukee and Dane counties"
     excerpt: "President Donald Trump is seeking a recount of ballots in Dane and Milwaukee counties, hoping to overturn the state election results in his favor despite those voters choosing President-elect Joe Biden by wide margins."
     publishedDateTime: 2020-11-18T20:22:00Z

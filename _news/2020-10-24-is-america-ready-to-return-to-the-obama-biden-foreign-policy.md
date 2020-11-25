@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-read
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7WR5GVAZ5YI6XC62QFGKK3QTRM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Corporate America says it is ready to work with Biden"
-    excerpt: "Corporate America says it is ready to work with President-elect Joe Biden, hoping for quick action on a new round of COVID-19 relief and infrastructure spending."
-    publishedDateTime: 2020-11-09T21:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-companies-idUSKBN27P28S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27P28S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27P28S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201109&t=2&i=1540560927&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA81CA"
-        width: 817
-        height: 545
         isCached: true
   - title: "The Top 5 Richest Backers Of Joe Biden"
     excerpt: "Since July, more than 70 billionaires and their spouses have given to committees supporting former Vice President Joe Biden. (Photographer: Anthony Lanzilote/Bloomberg) The top 5 richest Americans ..."

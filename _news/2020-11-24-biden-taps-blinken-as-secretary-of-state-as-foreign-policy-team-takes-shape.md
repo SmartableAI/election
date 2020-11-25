@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden says UK border with Ireland must be open"
+    excerpt: "U.S. President-elect Joe Biden said on Tuesday he did not want to see a guarded border between Ireland and the United Kingdom, adding that he had previously discussed the matter with the British and Irish prime ministers and other European leaders."
+    publishedDateTime: 2020-11-25T05:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-ireland-idAFKBN2843BF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2843BF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2843BF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542354032&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1P7"
+        width: 740
+        height: 545
+        isCached: true
   - title: "Laura Ingraham says that Biden will be president: ‘This constitutes living in reality’"
     excerpt: "On Thursday night, though, after President Trump finally submitted to an official government transition to Biden, Laura Ingraham sounded a different note. While arguing that there are still “serious questions” about the election and noting that she backs Trump’s continued legal challenges,"
     publishedDateTime: 2020-11-24T07:26:00Z

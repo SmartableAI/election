@@ -2,21 +2,21 @@
 category: news
 title: "Biden certified as winner of Pennsylvania presidential vote"
 excerpt: "Pennsylvania officials say Democrat Joe Biden has been certified as the winner of the presidential vote in the state"
-publishedDateTime: 2020-11-24T16:06:00Z
-originalUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pennsylvania-certifies-biden-as-winner-of-presidential-vote/2020/11/24/f94807be-2e6e-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+publishedDateTime: 2020-11-24T21:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+webUrl: "https://abcnews.go.com/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pennsylvania-certifies-biden-winner-presidential-vote-74379228"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_5bd9fe9459bb4ac9b7e179379abfa44e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -3897,6 +3897,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "RoeJncitNvh/c71mF7uVpoqaYv3O0Nw+idWXeHGt7EWn6xXuBH/wM1sRwqUhheX2u0ydoVW9cXqsWPm6murGmp+KA81jLFmIQqlHipiYaVLgIRinF9qpss+RESbAdrv8mGmRKkse3exUejnLtbSVaPHBg/k7RYVdooU73N55a19Xju0wSkZ1jtdbaulYGXEuhZsLGCvqWeA6hh6gthgjw7DUBuk8ugQnQL7DTC5x3j2Do7+r6k4H0uI0JOxrUmn2Yzrc9+ad0yzbcv6pNrvTzr98xxfLDduTlhd3rfIojQne8ebGwMeQ1KubATkpCHOzlrLmLz9kOo4CiE/yk4wIJntJgn1U4coNWMc/XzeSvRs=;w2lYx6+BayNSyAQ+9M2rPQ=="
+secured: "xjOPkcUfjRlCBT6mIfak4EVuOyNXsGndlh5e2aOWJQuPAc+8QetrHDc5K8r7fZpRzhAGr0CDsrHMmoW9sVRQNDc3FIa8J1s9AQovrftS9C3H7utrFgsG67k8Xnmuu97vqoI1+vr1tz/WQOxFhAFOzGB6uuHBCHKdSL1vob822ipvNKhXSnDUitbkgLOphzj1YCUqbuKrQTvfNWsA8QkPKJYf4rQOiBAUqvjTJ9fnB6EbtajUFkLJNKeAogJl5wVOUJAm3WNllwBN4L6hg1kO07uzxFqK1YJFrbs395wiSapYWpsczkvGuMlflKhoI8wrv2YMZO0smudx/mp5NfhzROGkCbtVkW2LTCRqptSf/VU=;w4jIq6eEujPperi6h8jCnA=="
 ---
 

@@ -303,6 +303,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump vents about election as agencies aid Biden transition"
+    excerpt: "President Donald Trump says he is not giving up his fight to overturn the election results, even as agencies across the federal government begin to support President-elect Joe Biden’s incoming adminis"
+    publishedDateTime: 2020-11-25T01:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-vents-election-agencies-aid-biden-transition-74385828"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 155
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0ca7e03563a3445ba3334fb5a8f9f508_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Factbox: Trump continues court battles as Biden prevails in U.S. election"
     excerpt: "U.S. President Donald Trump's campaign on Saturday said it would challenge the results of the presidential election in the courts after Democratic challenger Joe Biden was declared the winner by several television networks."
     publishedDateTime: 2020-11-08T00:31:00Z
@@ -4078,17 +4094,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Trump vents about election as agencies aid Biden transition"
-    excerpt: "President Donald Trump insisted Tuesday that he is not giving up his fight to overturn the election results, but across the federal government, preparations were beginning in earnest to support President-elect Joe Biden’s incoming administration."
-    publishedDateTime: 2020-11-25T00:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
     publishedDateTime: 2020-10-20T02:00:00Z
@@ -5177,6 +5182,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/16/NCOD/60768dec-573d-4778-808e-30a9c88ef28c-IMG_Donald_Trump_1_1_M5RJT0C1_L1548958420.JPG?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump claims he directed his administration to start Biden's transition process even as he continues to say he won the election"
+    excerpt: "Trump continued to insist he would contest the election results and that he beat President-elect Joe Biden."
+    publishedDateTime: 2020-11-25T05:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-he-directed-his-admin-start-bidens-transition-process-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5fbc461350e71a0011556fa8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In First Public Appearance After Election Loss, Trump Poses For Photos With Bride At His Golf Club"
     excerpt: "The President has been playing golf at the Trump National Golf Course in Sterling, Virginia since Saturday morning."

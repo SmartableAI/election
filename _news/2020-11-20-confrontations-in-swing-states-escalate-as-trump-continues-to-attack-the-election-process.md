@@ -816,6 +816,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden says Trump administration outreach has been 'sincere' as transition begins"
+    excerpt: "\"It has not been begrudging so far, and I don't expect it to be,\" President-elect Joe Biden said in an exclusive interview with Lester Holt on NBC's \"Nightly News.\""
+    publishedDateTime: 2020-11-25T07:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-says-outreach-trump-admin-has-been-sincere-transition-begins-n1248873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248873"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_lho_exclusive_joe_biden_intv_pt1_2_201124_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Highlights From the Transition: Biden Wins Arizona, Padding His Electoral College Margin Over Trump"
     excerpt: "This election was more — maybe more a referendum on who can handle Covid well than anything else. The Donald Trump approach was repudiated, the Joe Biden approach was embraced and that’s why we think there is a better chance to get a bill in the lame ..."
     publishedDateTime: 2020-11-19T07:28:00Z

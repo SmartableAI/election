@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/22/donald-trump-appears-to-admits-covid-is-running-wild-in-the-us"
 type: article
 quality: 125
-heat: 285
+heat: 265
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://i.insider.com/5fb1000f1c741f0019ac9dd3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "‘My Frustration Turned Into Anger.’ Some Americans Who Lost Family Members to COVID-19 Have Turned Against Donald Trump"
-    excerpt: "While it’s impossible to know how many former Trump supporters who lost family to COVID-19 changed their minds the way Zeman did, it’s clear that the pandemic has catalyzed a nationwide politics of grief."
-    publishedDateTime: 2020-11-19T21:40:00Z
-    webUrl: "https://time.com/5913055/coronavirus-family-members-political-grief/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 81
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/11/Barbara-Zeman.jpg?w=720"
-        width: 720
-        height: 432
         isCached: true
 
 secured: "/w4fwjCb/hAPlGhk172VQDbfRrq41j7xcfT1/GNIhOJoOYHCTZY0fNkTwF5BgaX43+KtOq7OnZ5Py67aYQVzj6VCZ/68K7Fuwk/pFA/TH9BTayxFTcujKaHGO9PqN0ewuMmbBIlqCF7hd5qSu/2Qo+ZLm0vC3xIAbUxpQVs9BCLxeMNEHUFmV137aMTA27QFgQC5rLy6UJh0C0aQRpJoaouWxxo75kbBKTrRxZAWb2bmSo8rFIXRHcJa7JoeXxJ4WRdBz6d55jMWNSmEzHmvy+RrMR6PYTTjQ0YPZ2hVYRI7cXlxuoD26uxFBskYiITooIsRB4IylxgbtPrUKRXyakB0UkJmGP3hT7/Mu4Km/9xNMA6Q51hweGEDdLysyY8KJAJoneG44mnKDJbt7gOJ+oQOoMvcbEa0T63wMngk5AnvJsrAcNfBqwEPJzOGbi7UnH7Sjynp5DWRi5Keqi8G4o1uqv7l56siQeV/DO0os+U3rp8VGWxGLjc79LRBiDNcnWPytOkiYzvq6CT22yW4rQ==;Q9EdB++WS35b+aruBBvZYA=="

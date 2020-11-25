@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden's team has made contact with Dr. Fauci, and the president-elect said he has been 'very, very helpful' in briefings with staff"
+    excerpt: "The contact between Fauci and Biden's team comes as the US may be entering the darkest stage yet of the coronavirus pandemic."
+    publishedDateTime: 2020-11-25T06:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-says-fauci-has-been-very-helpful-briefings-with-staff-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5fbde6e132f2170011f71164?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why Joe Biden Needs Mitch McConnell to Govern"
     excerpt: "Republicans on the Hill despised Obama but saw Biden as one of them. “There is a reason ‘Get Joe on the phone’ is shorthand for ‘Time to get serious’ in my office,” McConnell said in 2016."
     publishedDateTime: 2020-11-19T03:15:00Z
