@@ -781,6 +781,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
+    publishedDateTime: 2020-11-24T16:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd2cd08f087decff21a076"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
   - title: "Biden's transition team to begin meeting with federal officials - executive director"
     excerpt: "President-elect Joe Biden's team will begin meeting with federal government officials to discuss the pandemic response, national security and other issues after a U.S. agency gave the go-ahead for the formal transition on Monday,"
     publishedDateTime: 2020-11-24T06:45:00Z

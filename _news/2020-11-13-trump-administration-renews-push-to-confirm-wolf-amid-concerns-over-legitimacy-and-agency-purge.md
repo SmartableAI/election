@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's how Trump's transition blockade finally ended"
+    excerpt: "Two weeks after Joe Biden was projected to win the presidential election, General Services Administrator Emily Murphy was finally prepared to stop stalling the transition.\n    \n"
+    publishedDateTime: 2020-11-25T01:43:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IynlNe-SSlw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124162912-emily-murphy-gsa-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z
@@ -1128,6 +1144,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2019_09/2473281/180621-tornillo-immigrant-children-se-559p_7ed2f13be9bd4799338a125997edd288.jpg"
         width: 1856
         height: 1237
+        isCached: true
+  - title: "No, Trump cannot win Georgia’s electoral votes through a write-in Senate campaign."
+    excerpt: "WriteInTrumpForGA was one of Twitter’s top trending topics, though such a campaign might only hurt Republicans."
+    publishedDateTime: 2020-11-24T23:42:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/technology/no-trump-cannot-win-georgias-electoral-votes-through-a-write-in-senate-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/technology/no-trump-cannot-win-georgias-electoral-votes-through-a-write-in-senate-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/technology/no-trump-cannot-win-georgias-electoral-votes-through-a-write-in-senate-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/us/politics/24distortions-brief-georgia-trump/24distortions-brief-georgia-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The F.D.A. grants emergency authorization of the coronavirus antibody treatment given to Trump."
     excerpt: "The Food and Drug Administration has granted emergency authorization for the experimental antibody treatment given to President Trump shortly after he tested positive for the coronavirus, giving doctors another option to treat patients as cases across the country continue to rise."

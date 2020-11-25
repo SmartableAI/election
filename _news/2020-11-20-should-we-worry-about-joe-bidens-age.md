@@ -384,6 +384,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden says transition communication from White House 'has been sincere'"
+    excerpt: "In an exclusive interview with NBC News’ Lester Holt, President-elect Joe Biden described the transition of power process, categorizing the outreach from the White House as “sincere.”"
+    publishedDateTime: 2020-11-24T22:07:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-says-transition-communication-from-white-house-has-been-sincere-96550981990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96550981990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96550981990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_brk_biden_holt_tease4_201124.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden team taps Justice Department veterans to circumvent transition standoff"
     excerpt: "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration."
     publishedDateTime: 2020-11-16T19:12:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/republicans-privately-call-trump-a-l
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/republicans-privately-call-trump-a-liability-who-lost-election-2020-11?amp"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Obama said he was surprised at top Republicans who did a 'complete 180 on everything they claimed to believe' to align with Trump"
-    excerpt: "Obama told The Atlantic he was not shocked by Trump's \"character and behavior\" while in office, but at top Republicans who emerged as his allies."
-    publishedDateTime: 2020-11-16T16:12:00Z
-    webUrl: "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp"
+  - title: "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes"
+    excerpt: "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn."
+    publishedDateTime: 2020-11-24T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6406179002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/5fb29149402d49001924f150?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "j7hTG3I+kXXkig8N+j6+SFiEakYCbI0Im+KpLWxBbT0JBNogumLb5dKsOCz9vh8vEwBichgxVX6c0H/oaISGvzFaTejrUl4Gb6VhOTDO/bPHEDiol04JMefFfVPEX3KEVEk6XlM2bCyJ8+3KAoRm47iKvlYYiB20/4LiVGfQimmJ4qEIdXOgvvYnuGWowi0DoCTe1dcsh+mpOlNSpBzqDHJZtOyNmlVlKPNAD/VjProDXSrupmXVcn3RfdJyrMR9xpLkOudNq7SXf8QRuJ80Xm5r9k/WWhgBLiroQI8fgpzlEWj/W51oNFYoTygwfqr7OKVdMI9paNyqjI5RtwGH0CviwyrZfE4e58/R1JAm3T4=;tR8DLymheoyL2uEmehgpdA=="

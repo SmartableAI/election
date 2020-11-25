@@ -349,6 +349,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'America is back,' Biden says, as he dumps Trump's foreign policy approach"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
+    publishedDateTime: 2020-11-24T11:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2841BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322589&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HG"
+        width: 801
+        height: 545
+        isCached: true
   - title: "Biden prepares key cabinet picks as Trump team cuts ties with attorney – live"
     excerpt: "Biden tipped to pick Blinken for secretary of state as Trump persists with false election claims"
     publishedDateTime: 2020-11-23T14:06:00Z
@@ -1740,6 +1756,6 @@ related:
         height: 563
         isCached: true
 
-secured: "8BeP93ClUe9sp7EtelY0SZyhUUqbUZeO5dK2OL3G0YuQ9XRf9VYQX9doYDxSJmxt9CEvoFIyxUqbTQsFpIHafXh8T5U8q+46XZu9PJErw8qyBbjJzV6n4TdUJNqkYCcv2bsMMOthviLht3UVRNm5FYbrGpI0MYKA4EDiZf1IjaDDV1X6nbdWz/84vgfPEETBC5Htimk9cJVOVMf8Nn4Xat7SA5qw6+ANCKO86SYz3hUsnt84l3nWji2A0TZ5VmGDAj+4MXZYBpf7uHL3cST06z14wTKS2jfDTLq8AiviR/HG4nSlrwvEGAdN/0TF3YAkfcdfbq7f0MtNYpnV3pV+psfq/cJJmiqTOFHn+Qitkzg=;4NQThrE5Co0odbveYoGazg=="
+secured: "OflYAIM2wCHf7XMCm4VbCwxqB/8mXBLxa5nVFur5O3iDDKTFeFyR5b9V4c4ZYeNoY1/n0fjBhouHDg/xAvflF8BOasgDCaFEwr/HCyoK5S+fPS1th39kMBIkeHO8FPciTNJkPiQ3JdTpshNp5SxXdUKpmtUo14SiF+jwNkkBBUZYDGWN1sBsmprooz7/ONIf+eudOMr782zA+vszgIrqTin9JMQNKu4jEmo5gB4qcBRGM9/1+2j6JlqefnJtmqoa5Yi1LE4CHR50qdQRwBJ/nS9FkNSOgNDTerFfF1dsDQmOxptC4+neaJtZuJLMhsNow7OcnjnzlVjs79iKK30qas+0an3QlDMgKVWtq5S9nh2zdfrApRDg18g94tl+gS7AKSTlEnX/oxDqqrclAI83xVd6MfXzxOdJOodW07SEODZG6nH+6RomAusX4v2B/5ptu/KEHq1ElsMfzWUzPZ6dGJBqsoEQLnRE+yD5PB+sgz14JaT5pKvsgZ8ZI6iokYFWd6lCGAScikAkmid6SGVMbA==;pnqNp7Hcq87XtcfILDohWg=="
 ---
 

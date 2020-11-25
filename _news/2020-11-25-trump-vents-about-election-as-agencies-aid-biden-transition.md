@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump vents about election as agencies aid Biden transition"
-excerpt: "President Donald Trump says he is not giving up his fight to overturn the election results, even as agencies across the federal government begin to support President-elect Joe Biden’s incoming adminis"
-publishedDateTime: 2020-11-24T21:19:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+excerpt: "President Donald Trump insisted Tuesday that he is not giving up his fight to overturn the election results, but across the federal government, preparations were beginning in earnest to support President-elect Joe Biden’s incoming administration."
+publishedDateTime: 2020-11-25T00:01:00Z
+originalUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
+webUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
+ampWebUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
 type: article
-quality: 155
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -4077,6 +4071,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1540931036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB0C5"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump-Biden transition live updates: Biden introduces nominees for key positions"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-24T19:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 899
         isCached: true
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
@@ -12144,6 +12154,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6u2madZc4mJazs0XUsOBulaAcNBSgDMuQEzMZdjifdfNETL5fZqIqdNkdqhDfxx6x2jXapmpTwfld8APp7WIXQTDCmBCaCCMu7nu0Tp6BgNHce+Dbty5N0Q/b/ZjxtBWih3qgffag9+rbnDbWNPMVa5G5keZFz5XqvJ/NNzXXoygb3DbreR9NIkofZL7pelyyEo0RiNyAcku1Puy54sKKUDH6mQjiZgeIDusk0uK3VH6LuJQyudGPm5+Q/CBIcPzzOB6n3TcdQPSjH8GaaAhreL2xqNlNZn4D6WBEXPo+B1OMgTpFt68Cf36AU9VPnsGg9cv6qwHofWac186piwdhtrHePLPw8jif3n6dg2QkCE=;VLOdyi3CrwdAMV96QNsgCA=="
+secured: "nvat+pfsF1liaKKsMgaN2JwieUSEkaXnUH7uDavlJFSS6w26ygFfrkw5OdCDW2RjpUbA57tuIQ0qJ5+rQdBMW+dCn8QP2y0qkktBCJ2VimM8J51oFmAE7/oLp3gih3oft6G7WXVFK5FX4W6/CWBy2sEMkiE2otXz1yPsc1N25XndRd6BXuifPGvBU3VMKuH1gYOE97JpKNyxqqh1k1ktt/yMVZHy1JoPfkkzOrPR2LGDw4EUkT5uQB4tEpsRDyyppkgzuS/rqAqEgoLV3Odm27pXCeG63mfHEiSMblM0Eo/3HPcSqtca818qmZ09X6OxjNHsXQ2YP8pynXjMQwDd7A8DPiXf1oTvg84w5qHc+BQ=;N3VKsGK8bw1xFgLJU+XXOg=="
 ---
 

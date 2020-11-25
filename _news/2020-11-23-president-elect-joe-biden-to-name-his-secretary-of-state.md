@@ -107,22 +107,6 @@ related:
         width: 3138
         height: 2106
         isCached: true
-  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
-    excerpt: "Apart from Ohio, those other bricks in the Blue Wall were replaced by the Biden and Kamala Harris team in 2020. Looks like the dwindling Trump campaign legal shrapnel is still raining down on Wisconsin for a bit longer. Hang in there. The US Centers for ..."
-    publishedDateTime: 2020-11-24T22:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd79f78f0872410b29d74d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 132
-    images:
-      - url: "https://i.guim.co.uk/img/media/7b35bd1c090f02d5fc797864bc12d564fb2745f8/0_206_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b712cbceb50f016cc0fba0527161017"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Joe Biden & Kamala Harris address the economy..."
     excerpt: "Watch \"President-elect Joe Biden & Vice President-elect Kamala Harris address the economy\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-16T20:57:00Z
@@ -137,6 +121,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'America is back': Biden and Harris announce first cabinet picks – live"
+    excerpt: "Biden emphasizes fight against the climate crisis while Kamala Harris hails ‘cabinet that looks like America’ – follow all the latest news"
+    publishedDateTime: 2020-11-24T23:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
   - title: "Kamala Harris wore a white suit; Dr. Jill Biden a navy dress. Both were designed by immigrants."
     excerpt: "Kamala Harris and Dr. Jill Biden made history on Saturday night in their first public appearances as vice president-elect and future first lady. Immigrant designers Carolina Herrera and Oscar de la Renta helped them look the part."
     publishedDateTime: 2020-11-10T12:25:00Z
@@ -201,12 +196,12 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
-    excerpt: "As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell"
-    publishedDateTime: 2020-11-24T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent/2020/11/24/2aa587de-2ea4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+  - title: "The Latest: Biden says split Congress affects Cabinet picks"
+    excerpt: "WASHINGTON — The Latest on President-elect Joe Biden (all times local): 7:15 p.m. Support our journalism. Subscribe today. Some of Joe Biden’s former colleagues in the Senate who are hoping for a spot in his administration may be out of luck."
+    publishedDateTime: 2020-11-25T00:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-split-congress-affects-cabinet-picks/2020/11/24/e27ec7d4-2eb4-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-split-congress-affects-cabinet-picks/2020/11/24/e27ec7d4-2eb4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-split-congress-affects-cabinet-picks/2020/11/24/e27ec7d4-2eb4-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -341,6 +336,17 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
+    excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
+    publishedDateTime: 2020-11-24T19:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd52be8f0872410b29d564"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
   - title: "Walmart CEO congratulates President-elect Biden, urging elected officials to pass another stimulus package"
     excerpt: "\"I want to wrap up by saying congratulations to President-elect Biden,\" Walmart CEO Doug McMillon said on Tuesday."
     publishedDateTime: 2020-11-18T15:25:00Z
@@ -385,16 +391,27 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
-    publishedDateTime: 2020-11-24T17:31:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6408670002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6408670002"
+  - title: "Biden seeks swift Cabinet votes, but GOP Senate stays silent"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — As President-elect Joe Biden started rolling out his administrative team, one voice has been notably silent: Senate Majority Leader Mitch McConnell. Senate ..."
+    publishedDateTime: 2020-11-25T00:00:00Z
+    webUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-swift-cabinet-votes-but-gop-senate-stays-silent-2020-11?amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
+    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    publishedDateTime: 2020-11-24T23:17:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+    ampWebUrl: "https://amp.freep.com/amp/6408670002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?auto=webp&crop=5714,3214,x0,y437&format=pjpg&width=1200"

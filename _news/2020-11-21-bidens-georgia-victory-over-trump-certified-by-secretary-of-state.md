@@ -193,6 +193,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden says Trump administration outreach on transition has been 'sincere'"
+    excerpt: "President-elect Joe Biden said outreach from the Trump administration has been “sincere,” since the General Services Administration ascertained his win on Tuesday. "
+    publishedDateTime: 2020-11-25T01:44:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Biv-pSlRbu8/biden-trump-admin-outreach-transition-sincere"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-admin-outreach-transition-sincere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-admin-outreach-transition-sincere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20329690443676-e1606246887950.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mueller 'pit bull' calls for Biden attorney general to investigate Trump"
+    excerpt: "A senior prosecutor in the Special Counsel’s investigation led by Robert Mueller, has called for the next attorney general under the Biden-Harris administration to investigate President Trump."
+    publishedDateTime: 2020-11-25T02:39:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YIeuiFbPcME/mueller-pit-bull-calls-for-biden-attorney-general-to-investigate-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/mueller-pit-bull-calls-for-biden-attorney-general-to-investigate-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mueller-pit-bull-calls-for-biden-attorney-general-to-investigate-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62e92172-67dd-4365-a047-6be137fd72d2/9943ce69-5c00-44cd-b562-7f17e66ab3ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump officials warn of new border surge if Biden reverses immigration policies"
     excerpt: "President-elect Joe Biden promised to reverse a number of key immigration policies enacted under President Trump, raising fears of a surge at the southern border, which administration officials believe they already are seeing."
     publishedDateTime: 2020-11-20T22:17:49Z
@@ -334,6 +366,22 @@ related:
     quality: 182
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden national security adviser attacked Trump in interview with Chinese state-run media"
+    excerpt: "The man tapped to become President-elect Joe Biden’s national security adviser knocked aspects of President Trump’s foreign policy in 2017 when he sat for an interview with a state-run media outlet in China."
+    publishedDateTime: 2020-11-25T02:34:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VexNqoiv_po/biden-national-security-adviser-sullivan-china-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-sullivan-china-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-sullivan-china-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20329686648283.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

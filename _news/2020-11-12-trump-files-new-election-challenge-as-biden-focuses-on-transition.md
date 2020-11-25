@@ -301,22 +301,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Trump vents about election as agencies aid Biden transition"
-    excerpt: "President Donald Trump says he is not giving up his fight to overturn the election results, even as agencies across the federal government begin to support President-elect Joe Biden’s incoming adminis"
-    publishedDateTime: 2020-11-24T21:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-vents-about-election-as-agencies-aid-biden-transition/2020/11/24/ab2ad698-2e9a-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 155
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump, Biden vie for votes in battleground Pennsylvania as election nears"
     excerpt: "With eight days to go until the U.S. election, President Donald Trump addressed boisterous rallies in Pennsylvania on Monday, while Democrat Joe Biden made a low-key appearance in the state considered crucial to the chances of victory for both men."
     publishedDateTime: 2020-10-27T01:22:00Z
@@ -4078,6 +4062,33 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump-Biden transition live updates: Biden introduces nominees for key positions"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-24T19:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Trump vents about election as agencies aid Biden transition"
+    excerpt: "President Donald Trump insisted Tuesday that he is not giving up his fight to overturn the election results, but across the federal government, preparations were beginning in earnest to support President-elect Joe Biden’s incoming administration."
+    publishedDateTime: 2020-11-25T00:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-vents-about-election-as-agencies-aid-biden-transition-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
     publishedDateTime: 2020-10-20T02:00:00Z

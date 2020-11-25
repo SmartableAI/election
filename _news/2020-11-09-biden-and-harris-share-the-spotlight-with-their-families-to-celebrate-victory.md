@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says transition outreach from Trump administration has been 'sincere' "
+    excerpt: "President-elect Joe Biden said Tuesday that communication from the Trump administration to help with his transition has been \"sincere\" since the General Services Administration ascertained his election win on Monday.\n    \n"
+    publishedDateTime: 2020-11-25T02:44:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Crdlvhhq5ZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-transition-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-transition-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123235141-joe-biden-1119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden could face a student loan mess if Trump allows pandemic relief to expire"
     excerpt: "Student loan borrowers haven't had to make payments since March -- but that piece of federal pandemic relief is set to expire on December 31, unless President Donald Trump or Congress act to extend it.\n    \n"
     publishedDateTime: 2020-11-17T23:59:12Z
@@ -333,6 +349,22 @@ related:
     quality: 181
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's intelligence chief pick promises to 'speak truth to power' in shift from Trump era"
+    excerpt: "President-elect Joe Biden's nominee to lead the US intelligence community, Avril Haines, made clear Tuesday that she intends to continue \"speaking truth to power\" if confirmed as the first woman to occupy the role, an apparent dig at her immediate predecessors who faced a constant barrage of criticism"
+    publishedDateTime: 2020-11-25T01:40:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6WOZuwUyEsQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-haines-intelligence-pick/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-haines-intelligence-pick/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124135447-avril-haines-biden-admin-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -573,6 +605,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111062733-split-joe-biden-donald-trump-1110-1105-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden becomes first presidential candidate to win more than 80 million votes "
+    excerpt: "Joe Biden has become the first presidential candidate to win more than 80 million votes, with his record-breaking number of popular votes still likely to increase in the coming days as ballots continue to be counted across the nation.\n    \n"
+    publishedDateTime: 2020-11-25T01:46:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V32gtq9yXjE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/joe-biden-80-million-votes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/joe-biden-80-million-votes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123235141-joe-biden-1119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1049,6 +1097,22 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Presidential Transition Live Updates: President-Elect Biden Announces Cabinet Picks"
+    excerpt: "President-elect Joe Biden introduced his nominees for key foreign policy and national security roles as the transition process officially began. Four more states certified their election results."
+    publishedDateTime: 2020-11-24T22:18:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/24/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/24/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/24/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/us/politics/24vid-biden-cabinet/24vid-biden-cabinet-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Joe Biden nominates first woman to lead intelligence and first Latino to head homeland security"
     excerpt: "President-elect Joe Biden on Monday unveiled a slate of top foreign policy and national security picks, including the first woman to lead the US intelligence community and first Latino to helm the Department of Homeland Security."
