@@ -61,6 +61,22 @@ related:
         width: 846
         height: 545
         isCached: true
+  - title: "Computer repairman who claimed he gave Hunter Biden data to Giuliani closes shop as laptop saga gets stranger"
+    excerpt: "Computer repairman John Paul Mac Isaac, who gave a copy of the laptop to Rudy Giuliani, shuttered his Delaware store and a neighbor said he left town."
+    publishedDateTime: 2020-11-25T00:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/24/hunter-biden-laptop-more-details-emerge-rudy-giuliani/6404635002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6404635002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6404635002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/PWIL/dad49b08-774b-4bbb-b6bf-6e14faa8ad9b-Mac_shop.jpeg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UVA's Larry Sabato: Trend is very favorable to Joe Biden in Pennsylvania"
     excerpt: "Larry Sabato, from the University of Virginia Center for Politics director, joins Shep Smith to provide insight on Pennsylvania's results."
     publishedDateTime: 2020-11-06T01:06:00Z

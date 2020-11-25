@@ -1213,6 +1213,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "White House approves intelligence brief for Biden"
+    excerpt: "The White House has given approval for President-elect Joe Biden to receive the President's Daily Brief, the collection of classified intelligence reports prepared for the president, an administration official said on Tuesday."
+    publishedDateTime: 2020-11-25T02:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-biden-idUSKBN284371"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN284371"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN284371"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542336375&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1N7"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z

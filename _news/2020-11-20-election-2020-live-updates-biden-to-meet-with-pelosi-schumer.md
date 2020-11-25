@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-elections-2020-nov-20-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-elections-2020-nov-20-2020.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2069c0c-74dd-472f-8781-6653e4b602e0/b7bd73a7-fd86-42e4-8c9e-e7f2862265a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden continues to receive softball questions from the press, which praises cabinet rollout"
+    excerpt: "Speaking briefly to reporters on Tuesday in Wilmington, Del., after he formally introduced members of his administration, Biden took a few questions. "
+    publishedDateTime: 2020-11-25T03:45:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bcKLY3YDc-I/live-updates-election-11-25-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cdab3d6-280e-470d-89fe-b97f1018972a/dad892cc-9f4f-489e-819c-6f963818fcd7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

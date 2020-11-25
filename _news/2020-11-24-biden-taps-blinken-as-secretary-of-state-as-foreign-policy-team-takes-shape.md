@@ -133,6 +133,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
+    excerpt: "Joanna Walters in New York (now) and Martin Belam (earlier) Joe Biden has just confirmed in person that Anthony Blinken will become his secretary of state. Blinken is there with other new picks. They are standing some distance from each other and are ..."
+    publishedDateTime: 2020-11-24T18:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd4b358f08850ef86c56cd"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
 
 secured: "YOgql9Pbt+GFmu8GgS3+A9UNIMV7482H8ga68ggPcTToERzUcJdxgll01VwIHRIz76Qq+2un6m8Ulfvo+3frLXVtKnxz/athOpUR6udh5XSy47cDMkVkhLTKIyEO8cGnh2aZAcwms2Yo96Ymb1hE/SvNTO+8bPMtTuz/VrROHJZwwb5cq6RGn6FqDSu36mxU0c/R/wvTtxku880CXdkBYT4VVj25xHXgJ00FjPo7Cv2D+k5XK7G9mZQX0ORHeKU+fzXjVi/iUFIaCuzZ3mfV0tYZJSA/KYOXBau1PvqxnnxaTm0HkUhCHEsmlh6reRyhCVsiYqFXl64tdiELMYxhVSLDI5ckAb+7WoGtYrm39rasaOE5tgHnAI/4mXW21CWjLR8qtiHZmUe5/7G5OMfbprpuHiv9hkinToFpM0CrRyk046c25im/VYqCS48ttGO8XQORC+GtCN2TCkLRl5EccvP6QIGix0ZXfnVosRTWJ3FRjXb0JO1IwHJbgpee4tcNJDURgduMDyRCNf2XGR6g7Q==;ThF1hBSNCIVgCXbtsVHJPw=="
 ---

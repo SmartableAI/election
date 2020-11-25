@@ -203,17 +203,17 @@ related:
         isCached: true
   - title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
     excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-    publishedDateTime: 2020-11-24T23:50:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2842XG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2842XG"
+    publishedDateTime: 2020-11-24T23:52:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 131
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322370&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HF"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
         width: 817
         height: 545
         isCached: true

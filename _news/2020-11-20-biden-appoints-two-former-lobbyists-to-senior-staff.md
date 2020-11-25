@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden continues to receive softball questions from the press, which praises cabinet rollout"
+    excerpt: "Speaking briefly to reporters on Tuesday in Wilmington, Del., after he formally introduced members of his administration, Biden took a few questions. "
+    publishedDateTime: 2020-11-25T03:45:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bcKLY3YDc-I/live-updates-election-11-25-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cdab3d6-280e-470d-89fe-b97f1018972a/dad892cc-9f4f-489e-819c-6f963818fcd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will move US closer to 2015 nuclear deal with Iran, experts say"
     excerpt: "Foreign policy experts and those close to President-elect Joe Biden believe he will move the U.S. closer to the 2015 nuclear deal with Iran, but that it will be no easy task. The Biden team tells Fox News that Biden’s stance on Iran is “spelled out ..."
     publishedDateTime: 2020-11-19T02:07:00Z

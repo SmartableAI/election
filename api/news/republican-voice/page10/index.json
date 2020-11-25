@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-19-trump-traveling-to-arizona-as-harris-stumps-in-florida.md",
+      "title": "Trump traveling to Arizona as Harris stumps in Florida",
+      "excerpt": "With the November election just a little over two weeks away, President Trump and the campaign of Democratic rival Joe Biden are heading to key swing states on Monday to make a final appeal to voters.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 680,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp",
+      "publishedDateTime": "2020-10-19T04:33:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-trump-gives-offering-while-attending-church-services-in-las-vegas.md",
       "title": "Trump gives offering while attending Church services in Las Vegas",
       "excerpt": "As the collection was being taken up, Trump reached into his back pocket a pulled out a number of $20 bills, which he later deposited into a bucket that was being passed around.",

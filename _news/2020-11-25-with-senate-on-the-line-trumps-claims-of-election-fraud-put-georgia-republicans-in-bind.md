@@ -2,11 +2,11 @@
 category: news
 title: "With Senate on the line, Trump's claims of election fraud put Georgia Republicans in bind"
 excerpt: "President Donald Trump's baseless attacks on the U.S. election may be endangering Republican chances of keeping control of the Senate, as Republican candidates in twin January runoffs in Georgia try to drive voters to the polls while amplifying Trump's claim that the"
-publishedDateTime: 2020-11-24T23:50:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
-webUrl: "https://www.reuters.com/article/uk-usa-election-georgia-idUKKBN2842XG"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2842XG"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2842XG"
+publishedDateTime: 2020-11-24T23:52:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
+webUrl: "https://www.reuters.com/article/usa-election-georgia-idUSKBN2842XI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2842XI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2842XI"
 type: article
 quality: 131
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322370&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HF"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542322421&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1HP"
     width: 817
     height: 545
     isCached: true
@@ -542,6 +542,6 @@ related:
         height: 563
         isCached: true
 
-secured: "c+2fdnm2c26YaSf/eKwrz6P0PrlAjvf0Y+sUOgaCrH8if0DUAA8upuYmwTh+kWGvlL35FIhdJCEzkSkLqnLUjRDmuwjUBys2BxrXAzBW2EjvBWRSOTv6HfxLecUM5gy+43X7YNyvM9l1ZjTsaMchMkTnH2Za8+31bdv86dZPZYY3ydl42nA4Z/1aiBDq1uQv1BIihjlfNd6fZ2CCz6gBgTx98XjiOZxCbSLtbuT+hesfMGJspBYdYSoE5mXFpgn7Ow1NNTSYm5WfmP1Rt1XY9QJdQop8K/+Lcvs3l/LgLW7+l7ZPTinvYpiqp4lZDaaFfZ9NsGYj4SdY6/wLkbjjEPbH1YgoIA36QgOzua5/3AM=;g/NLGHJZsTTwnR2MVf1cLQ=="
+secured: "URp96IcQdIagZKDu34j91EUHex6L5Cq/M8FPiM6bStv0XI28NTBYkfKBuWYSn8JEEfTtcEwdFPHnHe5A+5YrlwO2IBePAzWstAPQ20S29eyJp/Rg961XryyaRG/BSekKs1JPXK2Q3zekmAxNRK+Z6qROGeDHnJBef8uKsF4XmZVpI6+OxwFbxBob+HWjaIYP8lGf8mYyoZRD7kGDVVakqb6DqIiQyNNbxH/JP1K63OeyDqBTFSssLHX7+m6A9z7qDI1R0tr8mFgetc+1qGYyqTAUzpvxW51n7uww0L1MMuVVSqTzMjOqYtLncP+zpy5QqBnSprS6YH1nfoF0x9mSAPYeTbPbN6a9O2Ai6RmJlXY=;JXE223ULhe7P66cOLahgXA=="
 ---
 

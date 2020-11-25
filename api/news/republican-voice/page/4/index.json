@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-10-trump-to-launch-pac-to-retain-influence-after-departing-white-house.md",
+      "title": "Trump to launch PAC to retain influence after departing White House",
+      "excerpt": "President Trump will set up a so-called leadership PAC that will allow him to fundraise and maintain his hold on the Republican Party even after he departs the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EYe89x6t81o/trump-leadership-pac-after-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leadership-pac-after-white-house.amp",
+      "publishedDateTime": "2020-11-10T06:57:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-lindsey-graham-democrats-could-give-a-damn-about-election-law-and-precedent-so-long-as-trump-lost.md",
       "title": "Lindsey Graham: Democrats 'could give a damn' about election law and precedent, so long as Trump lost",
       "excerpt": "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., said Monday that many Democrats don't care about following election laws or precedents as long as their candidate wins or their enemy candidate loses.",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-carolla-media-crying-wolf-trump-racism.amp",
       "publishedDateTime": "2020-11-05T12:15:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-trump-agenda-won-up-and-down-the-ballot-as-pundits-and-polls-missed-the-mark-again-kellyanne-conway.md",
-      "title": "'Trump agenda won up and down the ballot' as pundits and polls missed the mark again: Kellyanne Conway",
-      "excerpt": "The pollsters and pundits got the 2020 presidential race wrong yet again, Kellyanne Conway, former Trump 2016 campaign manager, told \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S2QHUutMvW4/2020-election-polls-race-trump-results-kellyanne-conway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/2020-election-polls-race-trump-results-kellyanne-conway.amp",
-      "publishedDateTime": "2020-11-05T09:16:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -2,6 +2,224 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-gm-stops-backing-trump-administration-in-emissions-fight-with-california.md",
+      "title": "GM Stops Backing Trump Administration in Emissions Fight With California",
+      "excerpt": "General Motors will no longer back the administration in its legal battle to strip California’s authority to set its own fuel-efficiency regulations, saying GM’s goals for green cars are aligned with the state and the new Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905",
+      "originalUrl": "https://www.wsj.com/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-263785/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gm-stops-backing-trump-administration-in-emissions-fight-with-california-11606160905",
+      "publishedDateTime": "2020-11-23T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-befriended-by-trump-populists-in-europes-east-brace-for-change.md",
+      "title": "Befriended by Trump, Populists in Europe’s East Brace for Change",
+      "excerpt": "Populist and authoritarian politicians in Central Europe, who viewed President Trump as a valuable ally, are bracing for the incoming Biden administration’s new stress on promoting democracy and the rule of law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
+      "originalUrl": "https://www.wsj.com/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-263590/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/befriendedby-trump-populists-in-europes-east-brace-for-change-11606156894",
+      "publishedDateTime": "2020-11-23T10:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-melania-trump-celebrates-arrival-of-annual-white-house-christmas-tree.md",
+      "title": "Melania Trump celebrates arrival of annual White House Christmas tree",
+      "excerpt": "First lady Melania Trump on Monday celebrated the arrival of the annual White House Christmas tree — without President Trump or their son Barron Trump, who have attended the event in past",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
+      "originalUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/Trump.1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/23/melania-trump-celebrates-arrival-of-white-house-christmas-tree/amp/",
+      "publishedDateTime": "2020-11-23T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-biden-picks-blinken-mayorkas-sullivan-for-key-cabinet-positions.md",
+      "title": "Biden picks Blinken, Mayorkas, Sullivan for key Cabinet positions",
+      "excerpt": "President-elect Joe Biden on Monday announced a number of key Cabinet appointments, including Antony Blinken as secretary of state, Alejandro Mayorkas as secretary of homeland security, and Avril Haines to serve as the first woman to lead the intelligence community, among other positions.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Os3JWsL3FUM/biden-key-cabinet-nominees-blinken-sullivan-mayorkas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-key-cabinet-nominees-blinken-sullivan-mayorkas.amp",
+      "publishedDateTime": "2020-11-23T09:28:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-frank-bruni-column-who-will-we-be-without-donald-trump.md",
       "title": "Frank Bruni column: Who will we be without Donald Trump?",
       "excerpt": "It has been an animating, organizing principle for the Democratic Party, a bond among civic-minded people of otherwise divergent persuasions and a pillar of many Americans’ political identity.",
@@ -1147,218 +1365,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-less-pomp-and-circumstance-biden-inauguration-likely-to-be-scaled-down-affair-in-response-to-covid.md",
-      "title": "Less pomp and circumstance? Biden inauguration likely to be scaled-down affair in response to COVID",
-      "excerpt": "Joe Biden's inauguration in January is expected to look a lot different than previous presidential inaugurals. The reason: COVID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/21/joe-biden-inauguration-amid-pandemic-scaled-down-affair/6278654002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6278654002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6278654002",
-      "publishedDateTime": "2020-11-21T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-georgia-certifies-election-results-making-biden-victory-official.md",
-      "title": "Georgia certifies election results, making Biden victory official",
-      "excerpt": "Georgia certified the general election Friday, officially making President-elect Biden the victor. The Trump campaign has until Tuesday to request a recount.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
-      "originalUrl": "https://abcnews.go.com/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/raffensperger1-ap-ml-201120_1605881698070_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511",
-      "publishedDateTime": "2020-11-20T19:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-biden-team-slams-treasury-decision-to-curtail-fed-lending-powers-calls-move-deeply-irresponsible.md",
-      "title": "Biden team slams Treasury decision to curtail Fed lending powers, calls move ‘deeply irresponsible’",
-      "excerpt": "The Federal Reserve and Treasury Department had a rare public falling out over whether the central bank should retain emergency lending powers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDT5I2BE4MI6XHCKBXDCILCICQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/11/20/federal-reserve-treasury-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-11-20T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-biden-taps-facebook-executive-for-white-house-role-as-big-tech-infiltrates-transition.md",
-      "title": "Biden taps Facebook executive for White House role as big tech infiltrates transition",
-      "excerpt": "Some of Biden's full-time staffers, as well as transition team members, have ties to Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/A-rAlgxZG0o/biden-big-tech-transition-team",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e7c873e-9502-4913-b71b-41bef2401aa0/4e848f83-b3ed-4c5e-b2ae-89939a613424/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-big-tech-transition-team.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-big-tech-transition-team.amp",
-      "publishedDateTime": "2020-11-20T17:57:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

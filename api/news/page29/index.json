@@ -2,6 +2,200 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-20-report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother.md",
+      "title": "Report: Shots Fired at Congressional Candidate Jeannine Lee Lake, Who’s Running Against VP Mike Pence’s Brother",
+      "excerpt": "Jeannine Lee Lake, the Black woman running against VP Mike Pence's brother, says she was the target of racist threats and gunfire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/",
+      "originalUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/10/Jeannine-Lee-Lake.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/",
+      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/",
+      "publishedDateTime": "2020-10-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Black Enterprise",
+        "domain": "blackenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-government-agency-will-investigate-trump-administration-political-influence-over-fda-cdc.md",
+      "title": "Government agency will investigate Trump administration political influence over FDA, CDC",
+      "excerpt": "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5981174002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5981174002",
+      "publishedDateTime": "2020-10-19T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-announces-plans-to-remove-sudan-from-state-sponsors-of-terrorism-list.md",
+      "title": "Trump announces plans to remove Sudan from state sponsors of terrorism list",
+      "excerpt": "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvTvk8iskM4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvTvk8iskM4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html",
+      "publishedDateTime": "2020-10-19T13:42:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-jill-biden-mike-pence-to-make-stops-in-detroit-pontiac-this-week.md",
+      "title": "Jill Biden, Mike Pence to make stops in Detroit, Pontiac this week",
+      "excerpt": "More:President Trump in Michigan: Joe Biden is lost to 'sick' liberals Also in Michigan election tours, Vice President Mike Pence is scheduled to hit Pontiac on Thursday and Ivanka Trump and Pete Buttigeig are in the Grand Rapids area today. Trump is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/politics/elections/2020/10/19/jill-biden-mike-pence-detroit-pontiac-michigan/3710604001/",
+      "originalUrl": "https://www.freep.com/story/news/politics/elections/2020/10/19/jill-biden-mike-pence-detroit-pontiac-michigan/3710604001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/05208a420be8c489fe9ef8bb2fd732a59d2a9bf9/c=0-98-1920-1183/local/-/media/2015/09/09/DetroitFreePress/DetroitFreePress/635774172406625329-obama-09.JPG?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/3710604001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3710604001",
+      "publishedDateTime": "2020-10-19T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-presidential-election-mike-pence-to-hold-cincinnati-rally.md",
       "title": "Presidential election: Mike Pence to hold Cincinnati rally",
       "excerpt": "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken Airport.",
@@ -1069,154 +1263,7 @@
         "Election",
         "Mike Pence"
       ]
-    },
-    {
-      "path": "_news/2020-10-19-these-voters-rejected-hillary-clinton-but-theyre-voting-for-joe-biden-here-are-the-many-reasons-why.md",
-      "title": "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why.",
-      "excerpt": "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-struggling-ann-arbor-club-owner-in-biden-ad-this-is-donald-trumps-economy.md",
-      "title": "Struggling Ann Arbor club owner in Biden ad: 'This is Donald Trump's economy'",
-      "excerpt": "A national TV ad airing Sunday from Joe Biden's campaign focuses on the Blind Pig to criticize President Trump's response to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
-      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/PDTN/c821f0a9-72ed-4984-9b41-435b3b3761b0-Blind_Pig_2.png?auto=webp&crop=838,471,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/3702153001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3702153001",
-      "publishedDateTime": "2020-10-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-lost-the-ratings-battle-what-that-really-means.md",
-      "title": "Trump lost the ratings battle: What that really means",
-      "excerpt": "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means",
-      "originalUrl": "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp",
-      "publishedDateTime": "2020-10-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 30
 }

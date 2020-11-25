@@ -399,6 +399,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
+    excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
+    publishedDateTime: 2020-11-25T00:44:00Z
+    webUrl: "https://www.nytimes.com/2020/11/24/us/politics/biden-transition.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/24/us/politics/biden-transition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/biden-transition.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/24/us/politics/24dc-transition1/24dc-transition1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden team taps Justice Department veterans to circumvent transition standoff"
     excerpt: "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration."
     publishedDateTime: 2020-11-16T19:12:00Z

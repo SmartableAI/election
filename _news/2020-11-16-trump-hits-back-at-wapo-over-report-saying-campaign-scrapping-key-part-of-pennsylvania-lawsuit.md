@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump told confidants he intends to pardon Michael Flynn: report"
+    excerpt: "President Trump reportedly intends to pardon former National Security Advisor Michael Flynn, one in a series to be issued before he leaves office."
+    publishedDateTime: 2020-11-25T03:02:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/alYrbM1wLpw/trump-flynn-pardon-michael-flynn"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-flynn-pardon-michael-flynn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62e92172-67dd-4365-a047-6be137fd72d2/9943ce69-5c00-44cd-b562-7f17e66ab3ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
     excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
     publishedDateTime: 2020-11-23T21:41:56Z

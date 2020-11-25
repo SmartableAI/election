@@ -615,6 +615,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden searches for attorney general to restore Justice Dept.’s independence, refocus on civil rights"
+    excerpt: "After years seemingly at the center of every major political fight in Washington, the Justice Department is about to get new leadership, and President-elect Joe Biden’s choice for attorney general will have to balance competing demands within his party on thorny issues of civil rights,"
+    publishedDateTime: 2020-11-25T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-attorney-general/2020/11/24/bbd7da7a-2e97-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QNYKKSBOTEI6XOXAKC5ROETGCQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump campaign requests recount of hand-recounted results in Georgia, which is unlikely to change outcome"
     excerpt: "The Trump campaign on Saturday requested a formal recount of the 5 million presidential votes in Georgia in an apparent effort to exhaust its options for challenging the result in a state that narrowly backed President-elect Joe Biden."
     publishedDateTime: 2020-11-22T04:51:00Z
@@ -740,6 +756,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New voters gave Biden a boost, but not everywhere"
+    excerpt: "Millions more Americans cast ballots than in 2016. The counties that saw the largest turnout increases drove Biden's win, but Democratic gains were uneven."
+    publishedDateTime: 2020-11-25T04:52:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2020/elections/new-voters/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VPM7LBPMRJD5ZNHAJR767RM6KY.jpg&w=1200"
+        width: 1200
+        height: 730
+        isCached: true
   - title: "US STOCKS-Dow hits all-time high on Biden transition, rebound hopes"
     excerpt: "Wall Street’s main indexes jumped on Tuesday and the blue-chip Dow hit a record high as the formal go-ahead for President-elect Joe Biden’s transition to th"
     publishedDateTime: 2020-11-24T20:44:00Z
@@ -767,17 +797,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
-    excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
-    publishedDateTime: 2020-11-24T16:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd2cd08f087decff21a076"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
     publishedDateTime: 2020-11-18T16:49:00Z

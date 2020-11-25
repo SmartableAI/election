@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden continues to receive softball questions from the press, which praises cabinet rollout"
+    excerpt: "Speaking briefly to reporters on Tuesday in Wilmington, Del., after he formally introduced members of his administration, Biden took a few questions. "
+    publishedDateTime: 2020-11-25T03:45:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bcKLY3YDc-I/live-updates-election-11-25-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-25-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cdab3d6-280e-470d-89fe-b97f1018972a/dad892cc-9f4f-489e-819c-6f963818fcd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden appoints two former lobbyists to senior staff"
     excerpt: "Biden’s chief of staff pick, Ronald Klain, and Steve Ricchetti, his campaign chair who was named counselor to the president on Tuesday, both did time in the lobbying industry."
     publishedDateTime: 2020-11-20T05:36:00Z

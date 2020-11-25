@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-29-doesnt-that-make-me-a-smart-guy-trump-defends-chicago-business-deals-after-nyt-report.md",
+      "title": "‘Doesn’t that make me a smart guy?’: Trump defends Chicago business deals after NYT report",
+      "excerpt": "The president’s latest tweet closely resembles other arguments he has employed in response to news accounts of his financial records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
+      "originalUrl": "https://www.politico.com/news/2020/10/28/trump-chicago-business-deals-nyt-report-433198",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/96/b8/f71768494a18998a63f902da97c6/201028-trump-tower-chicago-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-jared-kushner-bragged-in-april-that-trump-was-taking-the-country-back-from-the-doctors.md",
       "title": "Jared Kushner bragged in April that Trump was taking the country 'back from the doctors'",
       "excerpt": "President Donald Trump's son-in-law and senior adviser Jared Kushner boasted in mid-April about how the President had cut out the doctors and scientists advising him on the unfolding coronavirus pandemic, comments that came as more than 40,000 Americans already had died from the virus, which was ravaging",
@@ -1614,62 +1671,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html",
       "publishedDateTime": "2020-10-21T14:08:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-mitt-romney-says-he-did-not-vote-for-trump-in-the-2020-election.md",
-      "title": "Mitt Romney says he did not vote for Trump in the 2020 election",
-      "excerpt": "Sen. Mitt Romney said Wednesday he did not vote for President Donald Trump's reelection, the latest break between the GOP's 2012 presidential nominee and the leader of his party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1530,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200417144014-mitt-romney-0124-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html",
-      "publishedDateTime": "2020-10-21T13:48:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
