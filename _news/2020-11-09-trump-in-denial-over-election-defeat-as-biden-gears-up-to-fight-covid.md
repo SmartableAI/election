@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/09/politics/election-2020-donald-trump-joe-biden-coronavirus/index.html"
 type: article
 quality: 205
-heat: 5545
+heat: 5565
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109160916-joe-biden-obamacare-1028-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Stark contrast between Biden and Trump's words"
+    excerpt: "CNN's John Avlon breaks down President Trump's unwillingness to accept the results of the 2020 election.\n    \n"
+    publishedDateTime: 2020-11-26T01:39:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n3QdaZ7A8og/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/26/john-avlon-ebof-biden-trump-contrast-delusional-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125203719-avlon-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
 publishedDateTime: 2020-11-24T00:00:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/6408670002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6408670002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/6407257002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6407257002"
 type: article
 quality: 105
 heat: -1
@@ -727,6 +727,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "l+fgsYJRrp9RP8a1VGiXeXWhOO+A+ECe1/gSlJDQxILj9m4PfRU94VrwZSDU7eI5+2AbAOR2NxGWbGeUgnnxizXQVfu29+2brIYt8au+PQS2mOftJCfFbvIinUzTMuZBl+DrFB/R2cRV8N7GYmHUi9ilDw8kDRD32jsd+aVj+Qjih3N17m7PTDBmQNNIKzCPiZidTFcRORjf5rHsQmr1DB0nFEHh9E1mNiK73Kg4yJpKQBG/A3LQ4MF4Ebc9HH3S1scXyIZVyxbp0/RHkPKFQSD9XH5L/2ge8Txt6gQj7ektFNcX9f1TwpsP7m64bmRNfGdCrWmmywMUuV9lT99O4xWzFRwnUaT27dWWtxBjQpScSolUAGe1BbKUnQ/UwF0oAAADAXWWNKXjHD0e6McOkE+lgJzUoU6rdz1wvkZ54Ez1IXVCJUcI5DYJTQAh44wg4SsrDMPJNUSBmpGKHR5vDvyOduHIWKW6xFlgzJddJwgzER+OzzZGyiUPOHIEdWnSHlpX6gE2qxKPB6WJTMupLg==;LzVSzQ68EyyjOg7K4I4xUg=="
+secured: "uF5NI3JvuBtepy5KPcZvdpcuL4s8YXmHKmnIkz/JLuNObCanAdK2Mo+CTuyfWfWY0yW8chLU16vCWcTGqGryDBCmmA1BMOj8aeHzW0DsTsLniVRhgXasGG7XESv4UXqJEFl9cD326FtZmZZdvi4tTQ4UJhNmOo/Qe+wGWzJ70INU4hzL4vFepuVC2g3c/b0beaf9zBRjgbFzSoo2D/sa4bNnkd2onRp3PQ01lT3RilfoANNpSdz1fDP6X792Pi1ea0HHAS6wGSlDY4Gp3JhafNIBEtdRh8PCgLEuY4bqkoARS2N+P3O1p6d7Y90t1Qa/JSzprg8E1cAKgbFKUn9vSrWDF1ZxX2tB0wNVmjEc4Wc=;4t+hBZDkQLkpoWtU3KJVNw=="
 ---
 

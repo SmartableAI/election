@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Julian Assange’s partner appeals to Trump to pardon him"
+title: "Julian Assange's partner appeals to Trump to pardon him"
 excerpt: "Julian Assange’s partner, Stella Moris, has tweeted President Donald Trump on Thanksgiving, appealing to him to pardon the WikiLeaks founder"
-publishedDateTime: 2020-11-26T16:49:00Z
-originalUrl: "https://www.washingtonpost.com/world/the_americas/julian-assanges-partner-appeals-to-trump-to-pardon-him/2020/11/26/4f314566-3007-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/world/the_americas/julian-assanges-partner-appeals-to-trump-to-pardon-him/2020/11/26/4f314566-3007-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/the_americas/julian-assanges-partner-appeals-to-trump-to-pardon-him/2020/11/26/4f314566-3007-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/julian-assanges-partner-appeals-to-trump-to-pardon-him/2020/11/26/4f314566-3007-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+publishedDateTime: 2020-11-26T16:50:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+webUrl: "https://abcnews.go.com/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/julian-assanges-partner-appeals-trump-pardon-74418520"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "sSayiI3ONuMTBH/G/HRAwzVroghsCu0grNVaH1lnn9eqQGbAIFEXbne59SbARRE1Q9o5LsaEXamMqk5NZ5nBgZS4RKAaTsKzPa0C7Cn9BQRc7s8lcMBmemob9ggXX6AC0bn88YUGSgDkLRI1OySmxv09skHmC9aSapXhrmJtpBq+UclaOqwVdXRRofdRD6+YtwLkLO4tFAWhnN1IPhAF3HTkmOJG/BRj5QRhadsx+N08qSnyxc0mJQ8jFw6S1ldFHa45kHSV3izs+USDkF0Umxoz2BmvAnNOuoo7QNAzVUoBfrR87YZQnp0bMIsZqGI2QSSR3dwQBkYkHzEf3qf/P4Sh/DQq4E1MSo70LG1+77w=;zzMP1ZGf34d2SNVedM9j6g=="
+secured: "wm5UY+11+Y8ba1OEwsZMtr1+vxFUSQ1cr2ddo5w4lfqNoe6ImpS9KKZrtPUg/QtL8WIqcuDlId8paNzEwuMFSii+bUfKS9bQiCgTYakbOEOnq+v6trSPdEjF6J9LUgC1J9f3CfVAWbjLcGt4UxDuVW1A6HlBi89vl5WGkNbrPUnPfV3uL9Ct/UDuS8SPKwbvq2vxqRlznvwi90zgZrQbQDdXNQu6sZFpiw3AsrpVE4KhYVUznENxrQohv8DYuFZswSjyXuIEjWC0a+prKEnLhOJi+WwdmHEiP8XS1r5PmILbw5LLpfRGtiGTzPJfWnlIHeW6OYu++x3oXoCmNcwzjllU6OlHO6P5rSWp5U+8t+k=;CCu/BzRqVHAPV7DwlgPD5A=="
 ---
 

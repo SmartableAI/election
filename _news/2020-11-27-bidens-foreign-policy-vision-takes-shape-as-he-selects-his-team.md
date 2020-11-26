@@ -3,8 +3,8 @@ category: news
 title: "Biden's Foreign Policy Vision Takes Shape as He Selects His Team"
 excerpt: "President-elect Joe Biden has started selecting core members of his foreign policy and national security team, revealing a slate of experienced — if not all that surprising — Cabinet picks with the goal of returning some stability and credibility to America’s relationship with the rest of the world."
 publishedDateTime: 2020-11-26T17:49:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
-webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
+originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
 type: article
 quality: 65
 heat: -1
@@ -180,6 +180,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "TX4XVpsqWVzU3HjbGcNBJn9W/a2SAp+lOqTOakNYMLpOl9Jz5u/Eiw957tu9XysQ9Shcoxhwh0+lD+Diz/ha6dcNGZq+0M5DpUZJoYzzF40xZKdk3EXkDv7xgERxPBlZ0d2sFsgsjcSZTb7ql+Rv0vkwRynLiMLFkXpTnY4owrjeH/2ZgkrskMgfPKOe42WuxMGmcfkZqB44LplAuxzv3wujSeVrRXleDCkwJ7gXn45Hbn5WmrUsEBBLAFU+NfSoqC4YpCS9AwdH1VSoSFrZIkqojm+pSmQYg4oicXutobYdTkbr5xo55LeiQxezXc/D+lfsoV+Kx1rrG2WG/3IvVUyYPrjMIRGUBYvszeBoKGE=;utHXp+ZAYukmHY1OCqqaBA=="
+secured: "02p7ZLbp3o0wnOjc6jHWx98+Wst4TvxsBJal51xKpDqExiUxuAW0m1Cl4dAepA/sN0aKG1CLWyswMIRnmSpAE9Z0I5wQqHIMpIJSNcP+IEtbDayGSEACcRgHBCgJouL2IYRiASCKqcVaGWU0Nnxl58l8ysnPBD/h+j25U1b2jWkUocw+vpvlbOyF64YxBde2VF015cySClLFHGDSdLvHHnq1KEqosPta3LxcUtNmpQq58bH82tnz/fBW845BrfwGOohJfC9NY4Gf8KJZFBm9BZUHDrcDcKcDQaiI8ft2fqb+bKxVL8/0ksS3iTEK8OZwFyJC6auziwrKNPIMoGFpcKY04kEqnvDi5WOTgeAWVf4=;MaqXCPnH4jgg5YI+S5nYDQ=="
 ---
 

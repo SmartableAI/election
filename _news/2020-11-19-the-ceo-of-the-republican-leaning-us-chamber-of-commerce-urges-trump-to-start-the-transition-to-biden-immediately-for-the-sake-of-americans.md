@@ -1856,6 +1856,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pres. Trump delivers thanksgiving message"
+    excerpt: "Watch \"Pres. Trump delivers thanksgiving message\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-26T22:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201126220023-pres-trump-delivers-thanksgiving-message/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07873100_1606429263.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "As President-Elect Joe Biden Doubles Down On Calls For Unity, Supporters Have Doubts"
     excerpt: "\"That's a wonderful sentiment,\" says Abbi Gold, 59, a Democrat from Arizona. \"It's probably a really sweet pipe dream.\" Hoping to help, many are ramping up trainings for cross-the-aisle conversations."
     publishedDateTime: 2020-11-26T11:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/20/brad-raffensperger-georgia-election-results-sot-newday-vpx.cnn"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Midnight Ruling Exposes Rifts at a Supreme Court Transformed by Trump"
+    excerpt: "The justices issued six opinions, several of them unusually bitter, in upholding challenges from churches and synagogues to state pandemic restrictions on religious services."
+    publishedDateTime: 2020-11-26T22:45:00Z
+    webUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/us/rifts-supreme-court-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/26/us/politics/26dc-scotus-church2/26dc-scotus-church2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "3rYkN/SjMgW+aB24OOuPQwP/vusJB5iIoYm6vckZK8/SOdGkBosWhIaeTSOuFvHsC9HmO8ZgxoKrOGfnKHakytEmF0n0YMxXvqiUgaHJXkWfBlan2j4zmyfOzVJkvNR1Ao326JTI8AB7dU+kNZr022Ptg20R4N17G13PlblZkvIBhkoMBvcr2kzQFd6lONrs/DECUVW3fcDOJbwnBBU+IS8Iy8h3RZagfhk7m8kmtPCQuuWBMMSTxCm3L8a1IWzWxG1hoW3PsVwK9Pi2gD3HjRJdtqbWvjPVWt3fK6nQnGx+u4Fd5oUwRLdjyGFLC2BaVVQGeqNqmAW/hoNtBBKMAtrjX96myoWqHrsH05OPE6w=;fCrNaro1wrweRCgf1qP0Gw=="

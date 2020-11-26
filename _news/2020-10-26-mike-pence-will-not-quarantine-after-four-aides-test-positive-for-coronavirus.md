@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump says coronavirus vaccine deliveries to begin next week"
+    excerpt: "U.S. President Donald Trump said on Thursday that delivery of the coronavirus vaccine would begin next week and the week after."
+    publishedDateTime: 2020-11-26T22:36:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2IC1S0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2IC1S0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IC1S0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596063&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1E5"
+        width: 899
+        height: 545
+        isCached: true
   - title: "Joe Biden lays out a detailed plan to fight coronavirus as new infections soar"
     excerpt: "Biden's plan would effectively nationalize mask wearing, Covid-19 testing, PPE procurement, reopening guidelines and vaccine distribution."
     publishedDateTime: 2020-10-23T21:54:00Z

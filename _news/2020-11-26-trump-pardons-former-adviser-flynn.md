@@ -1840,6 +1840,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pres. Trump delivers thanksgiving message"
+    excerpt: "Watch \"Pres. Trump delivers thanksgiving message\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-26T22:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201126220023-pres-trump-delivers-thanksgiving-message/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07873100_1606429263.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
     publishedDateTime: 2020-11-19T14:07:00Z

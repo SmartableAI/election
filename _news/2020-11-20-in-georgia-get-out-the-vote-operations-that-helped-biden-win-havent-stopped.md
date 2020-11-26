@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Progressives worry about lobbying, corporate ties in Biden administration"
+    excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
+    publishedDateTime: 2020-11-26T19:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/progressives-worry-lobbying-corporate-ties-biden-administration/story?id=74403234"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/blinken-biden-ap-jt-201124_1606258741685_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
     publishedDateTime: 2020-11-24T14:28:00Z
