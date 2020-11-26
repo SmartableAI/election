@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
 type: article
 quality: 119
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,37 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Rudy Giuliani is reportedly taking charge in Trump's election legal battles — and Twitter is having a field day with it"
-    excerpt: "\"Rudy will soon be appealing all of these adverse rulings to the Supreme Courtyard by Marriott,\" one person tweeted."
-    publishedDateTime: 2020-11-14T07:21:00Z
-    webUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+  - title: "AP FACT CHECK: Trump wrong on Georgia voter signature checks"
+    excerpt: "President Donald Trump wrongly claimed on Twitter that Georgia election officials are prevented from verifying signatures on absentee ballot envelopes because of a legal settlement"
+    publishedDateTime: 2020-11-15T20:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-trump-wrong-on-georgia-voter-signature-checks/2020/11/15/544548e4-2784-11eb-9c21-3cc501d0981f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Fact check: Fake Trump tweet echoing Halsey song lyrics originally began as a joke"
+    excerpt: "A doctored image shows Trump tweeted Halsey lyrics about losing the election. This fake tweet, which doesn't appear on his profile, was a joke."
+    publishedDateTime: 2020-11-17T16:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-fake-trump-tweet-echoing-halsey-lyrics-began-joke/6312899002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6312899002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6312899002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/07/10/USAT/b26dc9d8-45fe-49a9-9bb7-971307ca31eb-AP_Trump_Twitter_Warning_Labels.JPG?auto=webp&crop=4031,2288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 681
+        isCached: true
+  - title: "Republican election chief says Trump would've won Georgia by 10,000 votes if he hadn't 'suppressed his own voting base'"
+    excerpt: "Secretary of State Brad Raffensperger speculated that Trump \"would have won by 10,000 votes\" if he hadn't created distrust in mail voting."
+    publishedDateTime: 2020-11-18T12:04:00Z
+    webUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-top-election-official-says-trump-depressed-his-own-base-2020-11?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 116
     images:
-      - url: "https://i.insider.com/5faf7e29402d49001924efb8?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5fad157b4044a00018f761b7?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "Fact check: Images claiming to show pro-Trump rally are from 2016 in Cleveland, 2018 in London"
+    excerpt: "Trump'Stop the Steal' rally in DC. Tens of thousands of demonstrators gathered Saturday in Washington, D.C., in support of President Donald Tru"
+    publishedDateTime: 2020-11-17T22:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/11/17/fact-check-alleged-pro-trump-rally-images-cleveland-london/6297978002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6297978002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6297978002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/14/USAT/0b7e0c4d-3f19-4207-8804-2974186b7d0e-008_SPORTS.JPG?auto=webp&crop=5149,2897,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The recount in Georgia is going quite well for Trump. He’s still complaining. He’s still losing."
+    excerpt: "That’s why states such as Georgia have automatic recount triggers. In close races, that gray area could potentially make a difference. The point of recounts is to suss out such errors and get as precise a result as possible."
+    publishedDateTime: 2020-11-18T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/18/recount-georgia-is-going-quite-well-trump-hes-still-complaining-hes-still-losing/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEIQAWRILUI6XHBBHTCQDUEYD4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump Hasn't Conceded Georgia. Neither Did Stacey Abrams. What Changed?"
+    excerpt: "The president's refusal to acknowledge defeat isn't the first time Georgia voters have heard that, but state officials say claims about impropriety — past and present — are false."
+    publishedDateTime: 2020-11-18T12:00:00Z
+    webUrl: "https://www.npr.org/2020/11/18/935734198/trump-hasnt-conceded-georgia-neither-did-stacey-abrams-what-changed"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/17/ap_18311261907480_wide-a715561dfb6fb6116b6286b6d7a030c834c9da09.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "An anonymous group of top US CEOs said they would hold off acting against Trump until after the Georgia recount. It's done."
+    excerpt: "The CEOs said they only had limited patience for Trump's attempts to dispute the election results, according to the Associated Press."
+    publishedDateTime: 2020-11-20T11:53:00Z
+    webUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-recount-done-top-ceos-were-waiting-act-against-trump-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5fb7a12450e71a0011556684?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "tCJxDvOaqKXqVPA/Aao5yOSainn70FLBDaFVdP5owPygQQJ+20/uBaxJs8t6vx3EqlRy9uYBXVmyvf9sgc2XBiz4I0MaXKnoa9/0BTjH8U7Wp04+uGZaq74bgvezI0szqj+aueVCSbw/8tm+DMC0aOeJOiKFjH38wQY9nzz9IOGJfOIQXReBm/vWNydLDZRUw0kVjr4Xypurrbqo6ujYwxzATwcZHfY9aayGc7mqFikugAB5y6oY7dA0NJ0ojQ477zSO7JgUj13WlwSWgzn2PZt1nJKvWkxefInxtIXJgSvTpD66l6JFQQ0ub1XaWVA0TiUQZDyYsDX6jUIcVQZmCJMJYZDBagiBwArbvKHvkHgs+OS3C6sFVP4oDg7zbE9diDtvA99CPzdNWhJBZuwyze4ydI/jl2rj99zQnnzP40dAmY3thiq//qn3++Y4gOti4ETQUxAiexT1YWmoHjaM2X3e5V1mT8Fp3md+2fTeMAZe28pENtsg5aGlllxOy7Qb93yTj869Z7fc65QKTaTb0A==;Yw03hldB08gyhY2blzsTtw=="

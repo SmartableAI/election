@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taki
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 196
+published: true
 
 provider:
   name: Business Insider
@@ -31,37 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter fact-checks Donald Trump tweet about the firing of Chris Krebs (on Twitter)"
-    excerpt: "Twitter appended a label to fact-check President Donald Trump’s tweet about his firing of the nation’s top election security official Chris Krebs."
-    publishedDateTime: 2020-11-18T02:02:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/11/17/twitter-fact-checks-donald-trump-tweet-highly-inaccurate-chris-krebs-firing/6335471002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6335471002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6335471002"
+  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
+    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
+    publishedDateTime: 2020-11-20T04:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/18/USAT/01a35a8f-239a-485d-9cf8-fc2c341d56b5-AP_20297817077474.jpg?auto=webp&crop=4663,2623,x0,y236&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The Technology 202: Trump will face new rules on Facebook and Twitter after he leaves office"
-    excerpt: "The president will no longer have special protections afforded to elected officials. But a 2024 run could change that."
-    publishedDateTime: 2020-11-13T14:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/13/technology-202-trump-will-have-new-rules-facebook-twitter-after-he-leaves-office/?outputType=amp"
+  - title: "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts"
+    excerpt: "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight."
+    publishedDateTime: 2020-11-17T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHQZNSBFNUI6XHCKBXDCILCICQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
+    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
+    publishedDateTime: 2020-11-07T18:32:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
+    excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
+    publishedDateTime: 2020-11-10T22:15:00Z
+    webUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021"
+    ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "G36IMb52LjqsTK9GUwMHUYF161M3JJIxcCmFjQTOzuyIhm895yigjUmfNhVAzbInyvtCCMajSj+vrbsb2jzycbufMoFXxOEtImxAmzhBaaGTlhluk8c4XpkZY+qeVuy8oD5OV0cy/5QYJ++LJgnCmPPUSdAyyBLg+j0mFJG1x4L+GYVx3ChjS/h/qcbFjqKjc+7DeeS5nbi2LF+kxnOVqbVzSkke228aevIV2SFuOyGrdQzR2JMSqhkc6jxj61vTa8aTFvREStp5BvjwqIurr1Mkoi2pPibU3bQ0FmZNrjnBrDMGbOKqzKoLeUqUIFJ0j9e4VVyzd9w/RzIGJ6VJ2kQFRcyJTHR5sis+mDy6FeA=;GqcdPUtRLMpL4/JRAmsA/A=="

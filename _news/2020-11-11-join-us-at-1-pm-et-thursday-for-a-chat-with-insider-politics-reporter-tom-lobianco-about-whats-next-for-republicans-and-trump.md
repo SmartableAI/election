@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republican
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
 type: article
 quality: 96
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,72 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Rudy Giuliani is reportedly taking charge in Trump's election legal battles — and Twitter is having a field day with it"
+    excerpt: "\"Rudy will soon be appealing all of these adverse rulings to the Supreme Courtyard by Marriott,\" one person tweeted."
+    publishedDateTime: 2020-11-14T07:21:00Z
+    webUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf7e29402d49001924efb8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
+    excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
+    publishedDateTime: 2020-11-20T04:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/promising-lawsuits-trump-attorney-rudy-giuliani-recycles-litany/story?id=74304035"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/election-trump-challenges-rudy-giuliani-02-ap-llr-201118_1605822297710_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Infighting and an attempted 'coup': Trump team erupts into chaos as Giuliani takes over legal efforts"
+    excerpt: "President Trump's campaign and legal teams have descended into chaos behind the scenes as many brace for the end of the post-election fight."
+    publishedDateTime: 2020-11-17T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/infighting-attempted-coup-trump-team-erupts-chaos-giuliani/story?id=74257079"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/giuliani-pa--02-rt-iwb-201109_1604928722820_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rudy Giuliani releases politics video pausing for a sponsored cigar commercial and blaming Fox News for Trump's defeat"
+    excerpt: "In the YouTube series, entitled 'Rudy Giuliani's Common Sense,' Donald Trump's personal attorney discusses political issues and current affairs weekly."
+    publishedDateTime: 2020-11-07T18:32:00Z
+    webUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency"
+    ampWebUrl: "https://www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/giuliani-releases-bizarre-video-declaring-trump-won-the-presidency?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ItIV6WpSARHXXXrRFHAaMr9bZy3BG2z9IkSYGmNOsNlA4id0+pztLvz68FINQuQX8d7clro+sYUvHfVf9++52jcJDEc0OE0s9BV2H8zFawThIZjHWx3wo9CLZk/xKzpQvEEMOrX91hvaNhL9fcwdFs8Td8FFhLzTXRnk0HFj+GDcbEVw5gO3P+7cx45CYrGeRD5je3mClYiCV3RrGdFvUIU788g5GpDNAWS8J/9CeuVhw2prG1lW1DTeT8HA+1dtWD+4A6zYc1haty6eqK0F0uT8oJFSe7NFuSw6lZzsHjYQ2SFx4JJBGVo4/TFF9wz7hw/F4qXSKKlCLweirfNHyRl1UzEOuu7D+tT3Q4TqCe0=;X7Q3OwilbY+q1w1VthbufA=="
 ---

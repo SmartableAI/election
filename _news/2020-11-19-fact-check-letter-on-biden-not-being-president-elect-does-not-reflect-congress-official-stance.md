@@ -369,10 +369,10 @@ related:
         isCached: true
   - title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
     excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-26T04:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
+    publishedDateTime: 2020-11-26T09:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851EB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851EB"
     type: article
     provider:
       name: Reuters
@@ -1325,22 +1325,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump pardons former adviser Flynn"
-    excerpt: "U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn who had pleaded guilty"
-    publishedDateTime: 2020-11-25T21:45:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN28536B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28536B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28536B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542471750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1P1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -1825,6 +1809,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/29f4d021-6bd0-4ce1-93aa-d6d26165be1e_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump pardons former adviser Flynn"
+    excerpt: "Posted [NFA] U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn, who had pleaded"
+    publishedDateTime: 2020-11-26T11:51:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPCGj?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fbf06c1e4b04f7ff7c2ceed-1606354625617?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."

@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden seeks unity as Trump stokes fading embers of campaign"
-excerpt: "On a day of grace and grievance, President-elect Joe Biden summoned Americans to join in common purpose against the coronavirus pandemic and their political divisions while the man he will replace stoked the fading embers of his campaign to “turn the election over."
-publishedDateTime: 2020-11-26T08:12:00Z
-originalUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11"
-webUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11"
-ampWebUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
+excerpt: "President-elect Joe Biden is summoning Americans to overcome their divisions and join in common purpose against the coronavirus pandemic and the raw divisions left by the election"
+publishedDateTime: 2020-11-26T09:43:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-seeks-unity-trump-stokes-fading-embers-campaign-74412650"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-seeks-unity-trump-stokes-fading-embers-campaign-74412650"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-seeks-unity-trump-stokes-fading-embers-campaign-74412650"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-seeks-unity-trump-stokes-fading-embers-campaign-74412650"
 type: article
-quality: 120
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_93021f2a1a994149a2686a659debfa47_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden plans for White House as Trump plans rallies to protest his election loss"
@@ -12202,6 +12208,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "T57JmozM4N13kXtoQtwiUii99WWdImQoSmTI3LrQ0CW9Y257oGHJQX7G470ZpuDlCSoI/b5UsdlAk4TCTYHbDSQdEPvp5UAyVNw06SULI/aUH8WO+/t/jLHk0d3OizrfYBVTl/C4i04bWYdjjJt0ZHG+kd8v9PnDK217vL/koDqbciUh6uEO9PJlfGTU8GKnY1DJ+3Xc1mosfeXDSe+bxM789XTUyOgBtVUNsAYKgXFFdbH+EZIOmR+PwQtWM6SXEsFm1NektdMbwjPliljAuW3h8U5pubK3OEUM+PlGgcMvhtIMtj3QzQYDxQ41UOUgo3CJF2cHB2uPuaiXKAWE79xNiNzlefq9QGLaLp0Z2GY=;6fRp2ObDO19XYuGWLhYeeA=="
+secured: "urOxaKusjLUxASw2GIit1rEHGRbEqNq2IDIdspOUcJEZSmO7AifQVcRGIUqaWEeTM+XDG/PAC4j6Q6dfPHpJzgPNlpZ8Y/MT5/djDbSAqAPZbTe+w7becFuTEWR7F43lNdWoSobji3XdsNgOGpMZLz6V0JfkRZm3Q71MdM/V7bAHiyTJU0qTntB5CVScisHwj+bQj5+5vqgFjGrIZsUBNQ9kPQenxZKFCkE2Dtu0GFAxb0usVVPg+IOGejI0D1l5f1ePCMDlK3qHlAndgQMClz5yaqnq4Jf96jrqA/P4HBv7tySTK9WfrbCRhJgQ63/cu9dDBt7jBNDazBiAybU41lRm/CMWZ/hnsFywEdPJnig=;NymLLz55DLxZ5z9V347mRA=="
 ---
 

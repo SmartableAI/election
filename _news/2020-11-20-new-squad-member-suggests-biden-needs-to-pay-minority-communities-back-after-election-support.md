@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bowman-biden-payback-black-communit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bowman-biden-payback-black-communities.amp"
 type: article
 quality: 178
-heat: 338
+heat: 358
 published: true
 
 provider:
@@ -159,6 +159,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Biden Can Restore U.S. as Leader Against Global Warming"
+    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. One of the most convincing things about Ms Powell's presentation was the reaction of the fake news outlets."
+    publishedDateTime: 2020-11-26T14:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/26/how_biden_can_restore_us_as_leader_against_global_warming_530147.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "qbb/FBpchQgcb7yh0ZYUQtVTja9ErBP4RaK1kZsub2peelZ3XYRVw+2ch8vE5snai106De8SvM+xdNois09LQUK7qdeDjoTvn78naHy4nPomg2n0j2qc8tckQ9jNYUZnN/jpWg9pG/xArrLVFl4DNHJNkww73hTB4KdUxzbr/MdE/PRe9pmLUFFMrlroQszQ5zGOsNDeA8rP6phOW75WhGcGgbmxYbQZGwONYvvASd9dywMN9GBdJjg8C9z8c5NM7DDVMIlM7BNfrqSiyd68KiR1AArViq/ln+p4DEFpInVS3VncGcR6LJ43CMn4CnRDRa3yShXwVpH75EKCg5/vtECBlbatmQRWcT520E2HCUI=;5OqTSMsqpDpjAmORZWKZmg=="
 ---

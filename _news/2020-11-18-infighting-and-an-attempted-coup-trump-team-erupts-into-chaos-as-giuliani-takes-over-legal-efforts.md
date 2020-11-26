@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rudy Giuliani is reportedly taking charge in Trump's election legal battles — and Twitter is having a field day with it"
+    excerpt: "\"Rudy will soon be appealing all of these adverse rulings to the Supreme Courtyard by Marriott,\" one person tweeted."
+    publishedDateTime: 2020-11-14T07:21:00Z
+    webUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-reacts-to-rudy-giuliani-taking-over-trumps-election-lawsuits-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5faf7e29402d49001924efb8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Promising more lawsuits, Trump attorney Rudy Giuliani recycles litany of debunked claims"
     excerpt: "Rudy Giuliani on Thursday staged a bizarre 90-minute press conference where they outlined plans to resurrect a crumbling legal strategy."
     publishedDateTime: 2020-11-20T04:01:00Z
@@ -60,6 +76,22 @@ related:
     quality: 101
     images:
       - url: "https://i.insider.com/5fa6c6f21df1d50018219713?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Join us at 1 PM ET Thursday for a chat with Insider politics reporter Tom LoBianco about what's next for Republicans — and Trump"
+    excerpt: "The first clear gauge of Trump's power as an outgoing president will be a pair run-off special elections for the Senate in Georgia."
+    publishedDateTime: 2020-11-10T22:15:00Z
+    webUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021"
+    ampWebUrl: "https://www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/live-event-whats-next-for-republicans-trump-loss-biden-victory-2021?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5fab0b3df7d1cb0019e3b003?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

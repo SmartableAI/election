@@ -2,11 +2,11 @@
 category: news
 title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
 excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
-publishedDateTime: 2020-11-26T04:17:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
+publishedDateTime: 2020-11-26T09:36:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851EB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851EB"
 type: article
 quality: 139
 heat: -1
@@ -1309,22 +1309,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump pardons former adviser Flynn"
-    excerpt: "U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn who had pleaded guilty"
-    publishedDateTime: 2020-11-25T21:45:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN28536B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28536B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28536B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542471750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1P1"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -1826,6 +1810,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump pardons former adviser Flynn"
+    excerpt: "Posted [NFA] U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn, who had pleaded"
+    publishedDateTime: 2020-11-26T11:51:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPCGj?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5fbf06c1e4b04f7ff7c2ceed-1606354625617?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The CEO of the Republican-leaning US Chamber of Commerce urges Trump to start the transition to Biden immediately 'for the sake of Americans' safety'"
     excerpt: "Tom Donohue, CEO of the US Chamber of Commerce, has worked closely with Republican presidents in the past."
     publishedDateTime: 2020-11-19T14:07:00Z
@@ -1898,6 +1896,6 @@ related:
         height: 563
         isCached: true
 
-secured: "GU3QO1TbXTdafF386Y8+Ehy59kdeeizOWj9GMP/X8ZwUN+QGNWyW1ODbTGnpHZej0oYVmOj8FMxGYlu1F4SdxBZ77NWORBHmdlyiaOnq98aK4YalGGYSqn0scO5zxi1x2cO9uHkYcZwxvqauqMF8cKDNRxQWx/UNahKtUHWOozVOtXBrRao9pat7AfMErZpu1zGLw+dk3wBO9bfmJ7sBAecBNNgFEAfoMULL0B1LxU8hTRjAYItVZkw5H2Kovw/dYKwHEUVAeU8eRRn6gnHRy5f5xp5MWbn1+ldZDCw4DmrzBmbN8thkqlgADkHiNyk6SGvSPLYHocgtaU/1j3v4+k4Rt5UcdrZCUmvG2WzPXAg=;7y0Fh9I+Z5bVnuQY9rDn7Q=="
+secured: "/FIoesh9YD5CDg/h9jn18bHno2MsHrGj4AexyEBEEWPLCEYicO8HeU3ztn3cM4ysVgCoh90YkdFXCdLqxS4kb0Gs8u1W/03anbrVNvRwgIeUBIrVtoPBquHqvQrzulX3inAMPaZjiAwV5iyOR7GRjAL8yI+gh6lp5f0QZPLEJKZo3tSfD3U+eOxWPmrc14xlCOzZgVEfn+mDBwU4or1OH6FxKKH6gUa1xm0fyTyOZqOnngYL6Q4xXuMgxdnRiWd4sMRUZgAFHCY7ad5zpIfrw2J9RW+fOS0tLTElG7dkr/6ZHMJQAcWeJdMSf+zHDtyB6ZKOHjzErfaqvoJ3sUDhhn3bZleuQKSS6UplUj7Abs4=;SFDHjNrUPnigxGnzitey+Q=="
 ---
 

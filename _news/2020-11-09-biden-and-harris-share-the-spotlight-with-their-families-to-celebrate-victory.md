@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: In Trump and Biden, reality and fantasy collide on Thanksgiving "
+    excerpt: "Coronavirus infections are skyrocketing. Unemployment is rising. Food lines are getting longer. And President Donald Trump is tweeting.\n    \n"
+    publishedDateTime: 2020-11-26T13:03:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smJwBEqrqHc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/trump-biden-thanksgiving-two-americas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/trump-biden-thanksgiving-two-americas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191205055729-joe-biden-donald-trump-split-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP congressman says colleagues are 'waiting' on Trump to accept election results before recognizing Biden"
     excerpt: "Rep. Adam Kinzinger on Wednesday said he believes his Republican colleagues are \"waiting\" until President Donald Trump \"comes to terms\" with the fact that he lost the presidential election before they openly recognize Joe Biden as the next president.\n    \n"
     publishedDateTime: 2020-11-18T16:41:54Z

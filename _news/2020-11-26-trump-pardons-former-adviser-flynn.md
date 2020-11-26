@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Trump pardons former adviser Flynn"
-excerpt: "U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn who had pleaded guilty"
-publishedDateTime: 2020-11-25T21:45:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN28536B"
-webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN28536B"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28536B"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28536B"
+excerpt: "Posted [NFA] U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn, who had pleaded"
+publishedDateTime: 2020-11-26T11:51:00Z
+originalUrl: "https://www.reuters.com/video/watch/idPCGj?now=true"
+webUrl: "https://www.reuters.com/video/watch/idPCGj?now=true"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542471750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1P1"
-    width: 817
-    height: 545
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/5fbf06c1e4b04f7ff7c2ceed-1606354625617?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -369,10 +367,10 @@ related:
         isCached: true
   - title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
     excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-26T04:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
+    publishedDateTime: 2020-11-26T09:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851EB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851EB"
     type: article
     provider:
       name: Reuters
@@ -1898,6 +1896,6 @@ related:
         height: 563
         isCached: true
 
-secured: "2gjqVcbA/1iaMphECpMmCM6673ufg8g6w/j5ZN6VEKh7+K5f+f5wi9UngXWkdScxh++LCNkXgvmwcWP0o4T5X6DwvP4ytOJCZ9a05cjN/XYDmx+Vu46yLTUNh6YpRvTeZhkKMRTnpJraTRHlchECV9CBHCUrO/nQARewk7oj/ZqUiQ/4H9P99mcmMmUZMAgBxPFEo48nd5W8sEUxWpEKt5SQMunnckyYvz4LBqi866Dq64huAqF9xaUoRkc7nN+WQwjRsWAH6AcxIS5OB6iD5m5z6NOFbiSHho0e100oFdjJlzTMVNQMkPv7Arp/YT2K+r40EfbWKJnnft8inCCvygLI8hJQBcTZEeoZPudpfE4=;8snoIMvEP8V4QtJ578sysg=="
+secured: "2U+WaVrm0CybIG4/uMkLuKl/vXDDL/kmP8qR0/O6GF0UD/VjqLmo/4RjpUTTLxl42lZDdFPiBT/4KJe+wMM4HQBYRU1sAPY6aVknwKfeMY9wBC/qhcLfc8d4kfkDWMEMnOybdKd39DaCyqCwqAnKJ/b2t53LK78cqA48UTmKIFDfTzzjxO5eU7XRWX7vEX9n3O4glUWqw/Mp8zth6V5bxx5xpjeSHsjpoCCq6bdZyPgW4L5Fsrl8M/vepwPPothG6SBNiKKMT/TyrG9B3UgaTlE3EOn4Lnx42Y2iWvWmIFiXBT5uSg5D6BxuiSkxq5TaaWdsC+kpnJXxLHFU1jQjsNp43TSyd3BybiwaNu/kD9g=;RZHqk2oqDNw2BtbINH+xug=="
 ---
 

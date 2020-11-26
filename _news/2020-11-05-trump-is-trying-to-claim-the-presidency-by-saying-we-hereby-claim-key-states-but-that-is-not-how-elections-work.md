@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-claims-hewon-election-tweeting
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-hewon-election-tweeting-we-hereby-claim-states-2020-11?amp"
 type: article
 quality: 119
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 114
     images:
       - url: "https://i.insider.com/5fa57b22f7d1cb0019e3a399?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Shameful:' Trump-appointed chief election administrator says the president's voting fraud claim 'hurts the fabric of our nation.'"
-    excerpt: "Benjamin Hovland told Insider that the president and anyone else undermining the 2020 election results is doing exactly what the United States'"
-    publishedDateTime: 2020-11-12T20:08:00Z
-    webUrl: "https://www.businessinsider.com/nations-chief-election-administrator-calls-trumps-voting-fraud-claims-shameful-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5fad827a343ad40018a9380e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

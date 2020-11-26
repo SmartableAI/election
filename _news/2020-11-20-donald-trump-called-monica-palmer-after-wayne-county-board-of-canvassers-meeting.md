@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tucker Carlson calls out Trump's election lawyer for refusing to show evidence supporting the president's baseless voter fraud claims"
-    excerpt: "Some of President Donald Trump's false election fraud claims are apparently a bridge too far for one of Trump's biggest Fox News boosters."
-    publishedDateTime: 2020-11-20T16:43:00Z
-    webUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-slams-trumps-lawyer-for-refusing-to-show-evidence-of-election-fraud-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5fb7d98650e71a0011556726?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "aXyYwLrYUiCi2/HtL+8YJASQHP4+srE0Eq8Hsl6pgDjnIxO3bEWLiaD9Cj/Bg4RjijPN+J3HSv3J5id3ed/LlRR7qML9hPQe2rTvDRzvJqeiY/DWk1JIJG6vSBQOyD0rH7GBriCV8MN0IoKEcZpUmMDCFP1SP2zRQa50yA1OL9j+Wu1k+btPZA7OWxPBkJnjuXm7o5ZWjaXtOJ2gHripKFd298EJXimtTImQp9wUK0EcauYdl8ddZcOSR6U4zoVCzGoZCkEgLxQHHAqL3u8uxmB0/RbIGrl3gNknwnW3Zq6xqvV7Kc/bB+VAQTrqKOP5yFh1VC48MPcp/7N47EYwpA1tZ+ffPc0dbYptbYC+USzv351u2Daj9fdCYTUXXZ14zm+xcqbP7FIJOXuY0j5wisHB09NEhGn6v800omS2IP9w24+DKcSe7la95442CYENe3zu/y4O2WNmZbf2Foh71k6ygB1WLk/WADl1jM4eDmOvTdlaorUgLaV95o8A5w+pto2JAf1PzCi0rrESa1cpFA==;qVSRVdP0TW4od8TQgPdOmA=="
 ---

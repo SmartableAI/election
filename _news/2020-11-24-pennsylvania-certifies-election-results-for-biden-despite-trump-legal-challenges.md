@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1580
+heat: 1600
 published: true
 
 provider:
@@ -874,6 +874,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-264105/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Young Voters Helped Biden Beat Trump After Holding Back in Primaries"
+    excerpt: "For many young Democrats, Joe Biden wasn’t their top choice in the party’s 2020 primaries. They helped send him to the White House anyway."
+    publishedDateTime: 2020-11-26T14:20:00Z
+    webUrl: "https://www.wsj.com/articles/young-voters-helped-biden-beat-trump-after-holding-back-in-primaries-11606399200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/young-voters-helped-biden-beat-trump-after-holding-back-in-primaries-11606399200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/young-voters-helped-biden-beat-trump-after-holding-back-in-primaries-11606399200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-264813/social"
         width: 1280
         height: 640
         isCached: true

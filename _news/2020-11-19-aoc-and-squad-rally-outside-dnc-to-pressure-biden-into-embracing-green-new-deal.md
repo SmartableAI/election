@@ -159,6 +159,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Biden Can Restore U.S. as Leader Against Global Warming"
+    excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. One of the most convincing things about Ms Powell's presentation was the reaction of the fake news outlets."
+    publishedDateTime: 2020-11-26T14:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/26/how_biden_can_restore_us_as_leader_against_global_warming_530147.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "GKNQh3DvI0AkbvNUIkpTWIXRjLwA86DPbbuqc3YkKLGS0G/fdLXqTfZUm9ID1bOsZqiLIurFrMGAsa7lC3NcZR1lzboNhqx1bC6MYhR5uBI5x3MUy9jwjodOruAh9w6uUGVPpM+VC5tIg6v2SMiHCe1dk7QZBATnTKGz1Qq4lAPdyC09VGauXLzFoK+8EUSc+4mIchZKXd1JEeG4dxihScuW6JdWJfc2sNcWHwPEsOKQav48kWkW4Ji0GKmRx+E+8ju4/MdFjIaaH0qDwabJnOEZT3/36UkB6fffwHs/c0yxUTS648EKmIEEJBe6hcLLfDYIwjH1NRaIADMGRytF/ioi/xTPewFjcQ8DipZyzHI=;Zw61TY5qNARhghdVMZ0cxg=="
 ---
