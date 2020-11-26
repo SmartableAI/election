@@ -1211,6 +1211,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Interior could boost tribes, greens"
+    excerpt: "As President-elect Joe Biden fills out the top roles in his administration, Native American tribes and environmental groups hope his Interior Department could build on the alliances they've formed to fight pipelines and promote conservation."
+    publishedDateTime: 2020-11-25T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2020/11/25/biden-interior-could-boost-tribes-greens-791883"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "How Biden can fight climate change without Congress"
     excerpt: "This week, we analyze the ways President-elect Joe Biden and his appointees can address climate change risks via federal financial regulators without having to involve Congress. A DIVIDED CONGRESS WON'T GET IN THE WAY — Much of Joe Biden’s policy agenda hinges on which party controls the Senate after Georgia holds two runoff elections on Jan."
     publishedDateTime: 2020-11-24T17:28:00Z

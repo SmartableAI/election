@@ -1224,6 +1224,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Interior could boost tribes, greens"
+    excerpt: "As President-elect Joe Biden fills out the top roles in his administration, Native American tribes and environmental groups hope his Interior Department could build on the alliances they've formed to fight pipelines and promote conservation."
+    publishedDateTime: 2020-11-25T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2020/11/25/biden-interior-could-boost-tribes-greens-791883"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "aJiRX1IbXTQTkny//iAx6Fm0nnteYU2oadPqy7s774zU29qEwTgaehabL4RL/duvQWaBV6kNUet0EiS/MM29Kk3GfiC6hU8tUjaz8keUPHFGrR0/ZpnFnwGkO/rh37GMVn2LGhNYTXFJnlLImVr45kI9SX9DW8Negfkbyvff1Kbr9MmoyMyPjk+zZ6liX+kPtJXP9FhNbZsXcO9+bnzxSOYramzPBNV4R+xjiC/VEefoEKDh2haazu/0bX8/ajTU0vrSXJMUUjxTl5pK8bijFfVJoV+LtelqegeoepB65JtA4Envhxp+3KCV/FApRHCXvrPtQFfz4LrFsgmftqBTtjq5kbjzsrD3kbGfuqJp0+I=;8fbe+O+0R3sLlXO9at4zZg=="
 ---

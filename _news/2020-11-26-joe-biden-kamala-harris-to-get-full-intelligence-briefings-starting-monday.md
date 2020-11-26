@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/joe-biden-kamala-harris-to-get-full-intell
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
 type: article
-quality: 148
+quality: 158
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Kamala Harris
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://images.wsj.net/im-264928/social"

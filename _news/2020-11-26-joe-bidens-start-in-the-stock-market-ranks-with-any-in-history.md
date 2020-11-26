@@ -415,6 +415,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mexico's president again declines to recognize Biden win"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador on Wednesday again declined to congratulate Joe Biden for winning the U.S. presidential election, making him stand out increasingly among world leaders who have withheld their recognition."
+    publishedDateTime: 2020-11-25T22:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-mexico-idUSKBN285294"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN285294"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN285294"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542429462&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO173"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
     publishedDateTime: 2020-11-20T00:49:00Z
@@ -598,6 +614,22 @@ related:
     quality: 116
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/23/9d9ee8b8-1391-4875-9a2e-47257af90deb/thumbnail/1200x630/0f05cb62de9e3d9ba3ff14a64ee7f8ca/cbsn-fusion-trump-campaign-calls-for-georgia-recount-after-continued-election-lawsuit-losses-thumbnail-594109-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden becomes first presidential candidate in U.S. history to surpass 80 million votes"
+    excerpt: "President-elect Joe Biden has now surpassed 80 million votes, the most in history, with the final ballots still being counted. More votes were cast in the 2020 presidential election than in any other in U."
+    publishedDateTime: 2020-11-26T01:16:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-first-presidential-candidate-surpass-80-million-votes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/25/92fc61ae-0991-4f4e-9634-5ae33feed4f0/thumbnail/1200x630g2/a68d76ac07e9ad86eacfbef021f9966a/gettyimages-1229449195.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -841,6 +873,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President-Elect Joe Biden Hits 80 Million Votes In Year Of Record Turnout"
+    excerpt: "The 2020 presidential election saw the most votes in U.S. history at 156 million and counting, and the highest participation rate since 1900."
+    publishedDateTime: 2020-11-25T13:06:00Z
+    webUrl: "https://www.npr.org/2020/11/25/937248659/president-elect-biden-hits-80-million-votes-in-year-of-record-turnout"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 104
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/20/gettyimages-1229644791_wide-2b7d082ed19493e6de2f1ed2f923ee1f103776b7.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "House Democrat says Congress has few options to help Biden's transition to power"
     excerpt: "More than a week after President-elect Joe Biden was projected to win the 2020 election, Democratic lawmakers are still pushing the federal government to provide resources, office space and funding to his transition team."
     publishedDateTime: 2020-11-18T16:49:00Z
@@ -946,6 +992,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "mWdXjA3P5U4Ld1e4hYewnR3GIlj/7YXO7jewu6qy3SiP8KKZY/aC41eRb14eWztapxMiEqtfxWDWgEo2Zhh6K1KGlWaYOUhn4y/3ul7Jphc6SJn5DtK7HY0kjmq2Vg3BTByuHtgsZfc+2YO7EnIZhcmxWTkNR/X55XPddKbRBC0O9WZrns6GgUBZ7zYep6ckNKoc3mWZyM+StuiX4P1bh+doO/3n5M4zmhfiL22v5OHpL/Ddg27XIR89RCMVBYjal5/ljiG72BhxMoHvmOGFjg8m3sYI/OxdBEJc61OFAR85acwn2ak0J84cicgWnpsq438urSPW+qQLx6KYnwEcoJxIATc9YVS0Z+Drxjl3Ftc=;V7ZvwfHbryNmxS1JgVMYOQ=="
+secured: "BUSOltcW5eAbuMHsHSAsK6HsV0u0SmakYlkQYPWY51C/MaAwrG0MXtvu12cqmCvv72/HKrvOsSoyAwEyZa6pabRs5wvSOd0iQ4HLIqgd8hW/8owox2nc8vYzsnKxv8AtxUStJEjhPfkfcJJq4BahD2LeAv3YPId3PjjgGm4JVklv6GL2hzPIK5CzG5eVo35TSmnavD8bitY5vX/vXRNNsGqz2eK95ymAKDoqc6u3waAZSMKZ2+XAleEOWjWgidKWdYLQFdwWPNoxg1WhQY8YERhU+cA+rlLg3BccYSB4EgBTxQ6xiSsIw4P64tNiwX5lAgNvoHUxb4Lj8pBYMc6gmfPyvNJRj/+Js+rURf9gWuJmQDsiok0idwie7OZqUgahwGe+Ho27YsIoocd2pGfqd9bwc5rQhwQqqu5+nYvVb974D/lhMBXA7xJ40WF6LX1lOX6wWIHApMeY5oMIguJhdjprMGwA5XVWXkuejQmC1zPv7jAEkeO5B46Y1FPZZH1eoprw1lkW0C6g582y6RyICw==;q22sHGK9nXzA692K6QPSaQ=="
 ---
 

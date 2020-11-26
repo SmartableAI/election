@@ -3080,6 +3080,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden, Kamala Harris to Get Full Intelligence Briefings Starting Monday"
+    excerpt: "The briefings are set to begin after bipartisan lawmakers criticized the Trump administration for blocking the Democratic president-elect from receiving information, saying it was critical to national security."
+    publishedDateTime: 2020-11-25T20:19:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 158
+    images:
+      - url: "https://images.wsj.net/im-264928/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Durbin, Pressley, Leahy, Booker to Trump administration: Suspend federal executions during transition period"
     excerpt: "A group of congressional Democrats is urging the Trump administration to halt federal executions until the incoming administration of President-elect Joe Biden can \"evaluate and determine\" the future of the death penalty. "
     publishedDateTime: 2020-11-13T22:47:13Z
@@ -3415,22 +3431,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Joe Biden, Kamala Harris to Get Full Intelligence Briefings Starting Monday"
-    excerpt: "The briefings are set to begin after bipartisan lawmakers criticized the Trump administration for blocking the Democratic president-elect from receiving information, saying it was critical to national security."
-    publishedDateTime: 2020-11-25T20:19:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 148
-    images:
-      - url: "https://images.wsj.net/im-264928/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump defends Texas drivers who surrounded Biden bus, sees car rallies in NY, NJ"
     excerpt: "Trump has seen truck and car rallies across the country, with several events across New York and New Jersey, as well as in Minnesota and Iowa."

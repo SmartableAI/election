@@ -34,7 +34,7 @@ related:
   - title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
     excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
     publishedDateTime: 2020-11-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html#!"
     type: article
     provider:
       name: RealClearPolitics

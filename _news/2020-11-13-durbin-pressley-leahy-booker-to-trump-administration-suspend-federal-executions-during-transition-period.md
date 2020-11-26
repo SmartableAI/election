@@ -3083,6 +3083,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden, Kamala Harris to Get Full Intelligence Briefings Starting Monday"
+    excerpt: "The briefings are set to begin after bipartisan lawmakers criticized the Trump administration for blocking the Democratic president-elect from receiving information, saying it was critical to national security."
+    publishedDateTime: 2020-11-25T20:19:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 158
+    images:
+      - url: "https://images.wsj.net/im-264928/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump, Biden Hit Trail on Final Day of Campaigning"
     excerpt: "Latest news on the U.S. election nationwide."
     publishedDateTime: 2020-11-02T14:10:00Z
@@ -3402,22 +3418,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/pope-biden.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Joe Biden, Kamala Harris to Get Full Intelligence Briefings Starting Monday"
-    excerpt: "The briefings are set to begin after bipartisan lawmakers criticized the Trump administration for blocking the Democratic president-elect from receiving information, saying it was critical to national security."
-    publishedDateTime: 2020-11-25T20:19:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-kamala-harris-to-get-full-intelligence-briefings-starting-monday-11606334467"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 148
-    images:
-      - url: "https://images.wsj.net/im-264928/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "FBI investigating ‘Trump Train’ swarming of Biden bus on Texas interstate: report"
     excerpt: "The FBI is investigating a “Trump Train” incident from Friday, in which a Biden campaign bus was surrounded by a dozen pickup trucks driven by Trump supporters as it traveled down a"

@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
+    excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
+    publishedDateTime: 2020-11-26T04:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6423813002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6423813002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/20/USAT/bacfa0f3-f1c4-465f-8bb6-c532c5f612f3-GTY_1194927451.JPG?auto=webp&crop=5374,3023,x0,y362&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kVo67SSxlF71GEZ4Z9LNUhUO846s943fYZvifJuZxI8A50majoaMZFntaxJ2ORobCK4E7/SPL1L4+CsPCMyK46TJUSsdfTqixEK+VA/YjXLZDyMonxXN+y8KRp7/SB7MuPGI3JS2rNZ3pzvCEySu3BgO/X9OSFPiPwjdTuXHHciL99aGXHs3MtNmzvwZNtA6BGNchkj440L6Wmwr8JsgTajqzJ4zWKw+s09PByg8f5VJEe4CgbzqQKeup7YG4F160bukaSGqEs1pvB6+Fb80tjlCBI+4RFsp6TCTaorAwcMExwqeKYU/iQHx0IQyx3Rc5WJXPOyEXlIl8WOxytGPJvaxW4AIuJbCJifQw95vzKQ=;esLJEtiFCMeIjeumf4SIJw=="
 ---

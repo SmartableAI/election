@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Biden Cabinet Nominees Have \"Unwavering Belief In America's Ideals\""
 excerpt: "Elect Joe Biden's announcement of diplomatic and foreign policy cabinet picks on Tuesday. VICE PRESIDENT-ELECT KAMALA HARRIS: President-Elect Biden and I have long known that when we were elected we would inherit a series of unprecedented challenges upon walking into the White House."
 publishedDateTime: 2020-11-24T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/11/24/kamala_harris_biden_cabinet_nominees_have_unwavering_belief_in_americas_ideals.html#!"
 type: article
 quality: 74
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 340
         isCached: true
 
-secured: "2l1u20Upn38PHsP+p+cbAZwvbFklyE8bG4tv7ltJb/cvhOhQtumHXkKqP8n4asnSva5eY1Ji8PbvoSb8xJHQvXQo/HhKvjjB9PnaNJqlDqHcnkuaCUgbZqOS6LS1wZJEmpEw/rVF8FGQfK8DsPr4Z2C5tV979Fb8jWAQ9BPcvUxH2wcG4xZ3pYreLv7rfkYWSG255R6iD8kW26DmmX9v39YREB1uXdGZwdNHzk7bTvm4G6h3omdl4tgx3QyMYKoafe2os/NIXy4wHov3RWKLBpMdB6X7zCb4qKiDT0XJOJVUAXTbGgUBPHE7wKL8Ypny/vKqvcyCkWTtajH9vaXfsO6O83AHeR8hOneftjVXVp0P/bQjY2iwYf5BMTlwhdG4snSsAwOIXAdEskL4DcKo6XSfozoCIBxkX9cwXBc8IClb/hMw1Mc6zjL/xMQoS0qSku2ABVerfN+3kZ0N618ZR+0mld/kI+sA5O/z81gXo2prt8szn+/emOO9teSDBDjTBYJMuGbZZTPXQDAhjSIFlQ==;l4CNFaFYS/5oJbhC7ltbew=="
+secured: "cjINeIXKcD5qfT5zcXQoblUV0J7UExyohqV037FwiQHQkz+XMSfp0hQ35BFrvuJLvxPFoHtp7k58g1qT2CmnXPrKgp6tFff016FuNkWxauBCNKmZ6yMkXb4fLnOdFwSudSp4Hm05vC1sJGLZf3YsBX44aBzAO39vaTM+QOh/0bLii76y6rT0LQ7IVrp9eXqY98QZZ0CHFW7AjpxGZP/qUz3U91acG/yW9wQ4Kq58BqqXhYijXC4+kVbbkH8zSFQxdeW7N1i2fmjPF6eZ+1MZGWCVMrihoVAe9kasrxOR8ef+ygvh/voOtFXnrMmM1qsZfPg39R1WFJIf1J/T1lWX6i3m6cTOTnuL1em01r7djec=;b7+yiD1wmyt3zlVptfZieg=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
 excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
-publishedDateTime: 2020-11-26T04:17:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
+publishedDateTime: 2020-11-26T09:36:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851EB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851EB"
 type: article
 quality: 139
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542491639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO0PM"
-    width: 817
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482301&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1SJ"
+    width: 818
     height: 545
     isCached: true
 
@@ -1884,6 +1884,6 @@ related:
         height: 563
         isCached: true
 
-secured: "mW5N6+JqOvu/a2ztnASwbi3psr4e+iYZdDhNqQC14PBNNU3SnutDJzaFylfuLy/vQryqMmo+EKMi/Y74L2bDp4cKYCvxBb5zQ9JTKP5qBcfSfi21IbLBvbP42f7JLJC1ecWTBmBLRlwc47Ofkqud0AiRky0s9sPhCkYyY5pbD/VwoDfOluxoRQeMOBK5k/DYRGhg84nWMTMMQ9IrgzANC3on8BRbV1T1QppQ13A5aAYIpjqFLcTNu7utIE/FnzML9xe84Vak9HSs9I+yvZNqJGBaBUGvCeNiGdMdr9cWt6JbhMq9403kUj4HSG3kJTnYuWrLX34b0F2AzncJop3p9AZwyNpxUA5dYyLLwBSw9Y5LaJipcgOj2mf+4RbmqGA+AveXbCjPlU0GNSGgptaJoffk/mKNj9biO7a/a/Kag8Z5udb2yEPmA9LOM87EfSC/hadE7QL3If8ut2LUotgMIksGOwZcCEARTr9AyS7gSLmLimUxWAo3G/KqCNOopPfEYDi82jKVMl9FhYfvecI0Dw==;DBGnsiSvtlybrzKUmrDHiw=="
+secured: "XpPM67eWL3nvCeEc0YD3bAVhMAaUtzbbTqzL06f1rWyi8ojscFXkQG5CYljVGfr+hZSTHMtRAGpVM3R2TNHtsgB23y6y59lA70w/6lc+obD+30hH48Kr5R/MwEs/zUOpTqBakT3+6FC5o4LQngsra3Azj2NIgu9nZJb6xV4JjIQ3oFsVZACeBu3MlOGm9eHy/DA0hW3PJ7Ex9hiGGZ2yvcxEVMh3PswvVWcPABYQZsmTk/Qt2Lopc1E2WV3P2WI6B9QH8LpuYdjLGvRnk/Kjkz2SYupQJI/LReogAumzemgeY6Ll88oHAMl4Myc/X/2zDgUi9pJy4pa6+s8yObTJYyVnk+cfQvMUaXj3PQZdpEk=;/is7bzyU0NmWr33YkTnGSg=="
 ---
 

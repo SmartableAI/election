@@ -414,7 +414,7 @@ related:
   - title: "Donald Trump pardons former national security adviser Michael Flynn – as it happened"
     excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
     publishedDateTime: 2020-11-26T01:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbefa9d8f080d5c1f5d6930"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbec36e8f080d5c1f5d670d"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     type: article
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "yX/eqTVslXLblpBJpqS5qcNKVOTKK4oTHQCPPDBxCRP9/wkGOUDm6kbJQHyWQsnfPfteSB0qSvHNIn0nu4hwoyqVhjBrZ4aq7HmE5ZeOQpK8uCTRkX41Y4iZuZq0ipwyGbW6NaKZvieVg/VHKcD6i/XbOQxnE2iuQQw4sNbiGAgGFfKafJfBtbqsTXDTVGfoCpkRIvmAxrlHrS2WU0MExG8kdAojHX3K/pFtdHH1VkUiqd0VimzKO7+HIPVWl8S9zWl5jqMapU1cmx7kwfpHt6FD/0hlc/LMTPASGw1xbQ9Jy9IL0i7gijuEA0Re8o40FiWX7ovZXjFzoXU0ejHmxLklSQRX3iOD5ZnZ3WIJvcA=;UKYe/n4CQcSCndB5tWzCIw=="
+secured: "1qcNbBnPsPitE+qH0p6Rit5Uy4zKByquFZ2XCYzV/9/rd/7yRt4HBqiwSdc1L81DYdzMaPf21Wekr9J70VkF/TRhdghj8R7uIMihGR8ZhmLE+VGRHPPO6xixRf/pEsnclAZdlKTjcD804PjD3hXZOUqH3OXgmGFS5aJhGMYI35SywGhbyl+dwjDlucma4NS2PQdYZtjQ1lMGFULhEFDHSzUfQvW3wNrxCIicEmVdCSQDuanJJoGknuuLLzAgygTBqmA//dg5EG+/xpW/LKQRkXbOSU7ftZMVJOvUbf5fQ+2cVLg9MDCCwH1EKLF2BolwChY9Ms0/N7cWA5XoiyyPEkTOXu0LVIp88Y1/Xii7VEw9iuOv/gUq7vNclkwa650mJsal/Zwfe+Acvak93zmilVX6YyU27eaPAdFVJqjYJ6xALfxOPMTiVxjI7ahC5ITmYL9HbkeBmq3TMyYDPVzrYH4NEw4bGYgggzuSSw1dB0kjTfvOftrDujitCIRa4JdTr45bz+ylI8qelq3CD7hVVg==;ctcCTUVaepOl18y6LP8W8A=="
 ---
 
