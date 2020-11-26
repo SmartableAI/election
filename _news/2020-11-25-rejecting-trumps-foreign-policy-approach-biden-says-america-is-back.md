@@ -351,6 +351,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
+    excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-26T04:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542491639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO0PM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "'America is back,' Biden says, as he dumps Trump's foreign policy approach"
     excerpt: "U.S. President-elect Joe Biden on Tuesday began a new phase in his transition to the White House after the Trump administration gave the Democrat access to critical resources that will enable him to take the reins of power in January."
     publishedDateTime: 2020-11-24T11:27:00Z
@@ -764,6 +780,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/982f4b5c-20e9-4606-95fd-52a5f29dcb2d/thumbnail/1200x630/5e750a73ffc2783d762e5bc767066b4d/cbsn-fusion-eye-opener-biden-shares-dire-pandemic-warning-with-trump-administration-thumbnail-589558-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "2024 hopefuls in the Senate are taking a Trump-like approach to their early Biden opposition"
+    excerpt: "Pretty much the same day that President Trump’s administration acknowledged he won’t continue to be president, other Republicans who want to run for president started fighting President-elect Joe Biden — even as not all of them have acknowledged his win."
+    publishedDateTime: 2020-11-26T04:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/11/25/2024-hopefuls-senate-are-taking-trump-like-approach-their-early-biden-opposition/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/11/25/2024-hopefuls-senate-are-taking-trump-like-approach-their-early-biden-opposition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/25/2024-hopefuls-senate-are-taking-trump-like-approach-their-early-biden-opposition/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y7SQDKQ4YAI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 982
         isCached: true
   - title: "The Energy 202: Trump's last-minute environmental rules changes may make things hard for Biden"
     excerpt: "Even as the president refuses to concede, his outgoing environmental deputies are hurrying to complete more than a dozen agency actions."
@@ -1852,6 +1884,6 @@ related:
         height: 563
         isCached: true
 
-secured: "V8pwxkHF2ZMr8D2LWBOT3zWWEn1Kej7ON4447R0pAiaWO0QJ+2kdnEAapEBkDGymEuIuNJUJ6o3CroRWKWL1W4CBgwEEsJB+o7N9Mm9uNuj6Ia1pqkTXNVRn118+7VBUk7AshY02OHTC0uHI4Fcye6IScYs0hI4Va5HW6XKWj0Q23rUzYGhZSwWkjFGwxCd+sAAqPJcXg02vAGJOzhemk9sBW1noVtTA0icIXOocT2gCAXvLDLq1xZEuTpacYh8AYmZCnEO949O5gIAClUWyQUiofHcy16dd+xhdQP/dRbMLt2lrAHC4Bb+n5PhXk2VgqvHFYfgemJXxUJ1LNJcDHYPNEv0//arTJxJdIY+of7U=;/amqBXG6ZOFSDuWeql/M7Q=="
+secured: "qGVphcfcLMV9inxq6/bcWe/+OwR+Sw7MOTtQAFTs//h9u6fs/+VoGW/APaZcWyN6P1nhenhW3GmUsN8I0zNM8dMOYXEe2ds7CEAYuJMrxxTD1LJdMb07I07uyIhIWK70AYR7SJQrPJq35BOgxw1wFyeoES8F0PBVxCwF3sytXBNYevhdmW88q8q8K4cejaAVXGSYnjGCLYOVpinq0eBToaquoLYLQoHFMM4hiow2IvshAfu+236u6YeqhdrGBxMVxG0+PhVDvjUGxorhhTlBxrxqENfG5sdcwV+17DAsHfoab2J3XH9BvuKP4E2An5hbMJGRHwFEKv0yxA6nzBOS8BDtiyMkWaeZV/T5F11NKHbJpWDMS6yUMmtXs0hbBPpucF9wV/a1rDu7CzLDiQnjPWmzNuUq+ksyiYbH/wXdSbfNDnts/ZV5tBtteKPAXUCTWej331C7ZiAsyyoXBLwgJYJgLyA0+evlZl/RlbZTXQgzHOlA9K+exx+cn54hpCbl6H7L+vzkqKIl16ozkq3NDA==;AYXmWaTQq+dI8sGj6KrgRQ=="
 ---
 

@@ -459,6 +459,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn"
+    excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-25T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
     excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."
     publishedDateTime: 2020-11-19T00:36:00Z
@@ -604,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "Vcr1xqfoApZMaOGSmNwXKU95+BJ/pm/pbQ/5JuYQdQW5r9aLRZHGv00VnNh5i4X5mVW/UhOFk50l0Qr/7pnBMKvFnfhl9wL2iOqZscq01VG/G5OiPKoWkFLI+0nm5Z/cRmgColohtRTXfUljp1mn8OP53tXF2GEP1i8zCNTbUDj3PBLkV3uu2KqYc0xgNLiOnse6FrryOkh6DG4WZ+pHPQ6tGwKISC/skrZZkt4aO5x5s/yh79p7XbzUw+psvTIhFA5mbhZfhjC3ozqKljT2jOavGOH1aCIS34hg07yj85bu/U5mQYknElslJSGj+g5EPXtWJk7YZSVcE73vx4hJPGM6/kgeB4OyW8E1LpWsgAQ=;Ecr++s30r39Eh3JYxXpcRA=="
+secured: "7k8oN6yE0xFRyw5x/ZebRBD+2v2769892/BqrODZhHSC1alQFwUSosN0NIWsOK607vs4N1C/ufVv5H6XJYSh5MDcJ6+pX2oqtW0idiGt8rEvsx7RDj+lM+LEaALBOPxQDSRoIVWMNC0KkBUyL7ilukRvBD76l0i7duWJG6YSchrtGAliwaU5RWHd6LVYapzMV43iSNlXYqwNec5iKM/p53VabdSPfNDH79Ik4Bpn10ZVQh+xOLo8wqzKkeVb76+MMVxD6Vfp49TrOoSLj/xCx0sD4nAuH0XmGZdAWUOHG4RH41JGUC5rrkGaH3UBh5Nx+cHkN3bi4x2oTSkmjQIK/UVsM/NNn/Kjf9PWsg6HrZU2IZuFL+ZPGR9+9WADfcGhqU2unDv7L4S2OiAVVp3hpN1lQhAb8ZI7Pbo/FsF4F6sZFDvUWaX5KpSpHgbW0fa9MJwG/A0fR96/eXaMjk+N89ugyDtW6UqzcSjaxzmlCHcnUhFh+YTlARc4+Wk07RIX0aiXbGzWMx1YDDF5YxkJmA==;VFQuI7V8y9hQGI8yzIGe/w=="
 ---
 

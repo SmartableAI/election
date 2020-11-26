@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Y01A"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Y01A"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -458,6 +458,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/03/PMJS/ed262a37-92af-4224-a0d3-88b36a331cec-TRUMP_KENOSHA_1048.JPG?auto=webp&crop=3899,2194,x0,y289&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn"
+    excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-11-25T21:14:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
     excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."

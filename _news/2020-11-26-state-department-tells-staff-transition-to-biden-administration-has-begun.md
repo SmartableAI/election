@@ -2,11 +2,11 @@
 category: news
 title: "State Department tells staff: transition to Biden administration has begun"
 excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
-publishedDateTime: 2020-11-25T23:59:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-biden-statedepartment-idUKKBN2852X5"
-webUrl: "https://www.reuters.com/article/uk-usa-election-biden-statedepartment-idUKKBN2852X5"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2852X5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2852X5"
+publishedDateTime: 2020-11-26T00:10:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
+webUrl: "https://www.reuters.com/article/usa-election-biden-statedepartment/state-department-tells-staff-transition-to-biden-administration-has-begun-idUSKBN2852XS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852XS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852XS"
 type: article
 quality: 123
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542457377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1K5"
-    width: 803
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
+    width: 817
     height: 545
     isCached: true
 
@@ -80,6 +80,6 @@ related:
         height: 545
         isCached: true
 
-secured: "/EH7p5iA1oItZmV1kCJPG1mcunNOPX4kXlVOWlbQje8+po4kY4ZvS1UiWZ8867Q+7nTp//CsOnT6UASkGR3++LbAj/0ra2a9w8wYot4aNAcqcPrlRZzw40K/dsTytiQ2cbFW3WeO4gueBLbANGGZLdnEq2JoR+HnRWLGJ2WSYpe8sXTCKeg/GYxm/VaF4e+x+qqzNzP76L848Jus5wwBOD6Rlqr4r4hUVfuaClgTtVvLN6CbJYOZcm5vNcLcumPvg2vkCsHXj14P7wW8uByav5Zw9jwLbyo9HHChDkZa2EgRvu8MF7YeR+3ZDcyHctFiBhM6XjOweK6MPRy9KX+gLddByMeuhVXnXlx9dnv18iI=;JyospaaYMTOYwMD3EErdmw=="
+secured: "g3yDLwg6CXqzo73RR77TZfRFeXqm876LodnKU5Qt3AYnQphUxXgHi9+njokqEmyx8VTi/sLrpEuyTJ33yOnCljhaqujeuSx/xcaGVH6F/9uSE/Hn6C0XS0xrpEr/JzEBMgRSlulPlcedkeXDBNq95GxWWT6AKNHfdX2QMjj4yUmzL44c7Qqpae4l/xgHIUPPBXhaEnCDGcVXXas9FzAkgquz+wdw2HS9hL74753MlJqcdcse+zGVKjq8DJDLkTqEyKWDvdtSFTnY478O9QzwH/IM50Jk+sJ00j8+4x5wcy4OLN3xjrDER+/1bMeLwa6XxNEuD+9xLRCia8ZZstrANj6Q79XmsblCfWdEGX6Ll9g=;CFa0gu+mnSEI3QLuJusTOQ=="
 ---
 
