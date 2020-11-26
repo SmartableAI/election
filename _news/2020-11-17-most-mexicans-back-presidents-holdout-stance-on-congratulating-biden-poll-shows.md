@@ -495,6 +495,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
+    excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
+    publishedDateTime: 2020-11-25T22:27:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542433096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO18I"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Ahead of recount results, Georgia officials say Biden likely to remain the winner"
     excerpt: "A key battleground state in the 2020 presidential election is expected on Thursday to affirm Democrat Joe Biden's victory over President Donald Trump, which would deal yet another setback to Trump's scattershot efforts to hold on to power."
     publishedDateTime: 2020-11-19T10:07:00Z

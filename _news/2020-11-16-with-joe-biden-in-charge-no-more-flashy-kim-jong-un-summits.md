@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Black Lives Matter protesters demand LA mayor be excluded from Biden Cabinet: reports"
+    excerpt: "Black Lives Matter protesters this week reportedly demanded that Los Angeles Mayor Eric Garcetti be excluded from consideration for a Cabinet position in President-elect Joe Biden’s administration"
+    publishedDateTime: 2020-11-25T20:19:00Z
+    webUrl: "https://www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/513e2796-4334-4590-9c8e-810dc5663a4b/da8d33f6-eb27-4033-b367-1f1c98be6149/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "y/wIEq5b8KEvtqZClyiwccxaQ4mRJ41zHuSmem4c4Q2c0l3fi5iayQSCSlv5rXIx7UDptCnRHNULn5mQmir3WiW6Cgstqb63DSwPjXxjo9kn11wgnxkYoXm/EvLzuwijsPHGWX9V8/rqBl33dBs60w22qzkWwqMpASbOeEby4EfCMgauHtP9MeMN3NzyxXF3Wltj1BzJe/bZ5pemXb5taqH8zwjXYGgjuCj/DsdAfCB7gU7OsM85/j6PqCO+FHLvFPG145AYixYXNiureDRItU087mEoE188THZeyfe1ttgFBTTDltQS8NrZGQg1d/pg44OnUzo04jRdXx/xN1oAs8xSAKSkRJjkVTG5hD3pol3R1xBl1ln10WmuPi67/ndt+aUarbkAaeIPJsmrNPKcJ/SkyyF3BpV+wgXma2569FtEI6rfCH7NZ2JpHqUEzqDync3WqJiDEnE0TRBolXOXFxnwZ/0m7gh2o3gEANxpgVqGVaL6QkxG8J0Ob8hpo1SlryJ9aT35IZGLrAT/450eoA==;Wq3SpcWKGM8vOBamXf+rdw=="
 ---

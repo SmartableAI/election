@@ -363,10 +363,10 @@ related:
         isCached: true
   - title: "Biden urges safe Thanksgiving amid pandemic; Trump pardons ex-aide Flynn"
     excerpt: "President-elect Joe Biden pleaded with Americans on Wednesday to take steps to remain safe over the Thanksgiving holiday as COVID-19 cases soar, while President Donald Trump pardoned a former aide who twice pleaded guilty to lying to the FBI."
-    publishedDateTime: 2020-11-26T09:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2851EB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2851EB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2851EB"
+    publishedDateTime: 2020-11-26T04:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
     type: article
     provider:
       name: Reuters
@@ -1851,6 +1851,20 @@ related:
       - url: "https://i.insider.com/5fb66ea832f2170011f6ffa2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "As President-Elect Joe Biden Doubles Down On Calls For Unity, Supporters Have Doubts"
+    excerpt: "\"That's a wonderful sentiment,\" says Abbi Gold, 59, a Democrat from Arizona. \"It's probably a really sweet pipe dream.\" Hoping to help, many are ramping up trainings for cross-the-aisle conversations."
+    publishedDateTime: 2020-11-26T11:00:00Z
+    webUrl: "https://www.npr.org/2020/11/26/938833970/as-president-elect-joe-biden-doubles-down-on-calls-for-unity-supporters-have-dou"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/25/biden-for-tovia_wide-3016eace54cb574f57452e3fa95b6f6beb685b84.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Duluth airport barred Pence after Trump broke virus rules"
     excerpt: "Duluth airport officials prohibited Donald Trump's campaign from holding a rally there with Vice President Mike Pence last month after the president flouted state coronavirus guidelines at"

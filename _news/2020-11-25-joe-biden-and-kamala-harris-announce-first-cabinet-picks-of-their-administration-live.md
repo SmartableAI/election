@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
 excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-publishedDateTime: 2020-11-24T19:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
+publishedDateTime: 2020-11-24T19:13:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd52be8f0872410b29d564"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd52be8f0872410b29d564"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -730,6 +730,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "Lo3p49hNJw3jw6zQXbjUcALLwiOQ/u9Gh7DrRZR0e3UQ5zNE1BWtkFI6KQtfmEZJZ/98XkVVT3ZrJLjTJHeJvLNisaDvsIagxIKB2xffkCDoiXWSDUQXFegY7xRoycIy0Q4eS7+z7JyBCrTcz97J0UHlVFNg/cY8B8HXB7R4pvDtcO/XADhv9Bk1SZe/uk3f5+dlt4ozT6rFiBg2J6hQit5S/+B8JHBtz/UZqo96ryxpZmDYHi1hxSnjO4djdYAQQ0IrrnA7KDC3sJVa1V8+aNFjB6WZL6Nzp6RScJBxRJ2cCpqg1ZdTq03SZ+SGI2VFrG1K4Lz+n/fXa2BLiTxRYJEURRgZF4aEJH9afJdBuEUhsC8rxNkvRG9F8/YNJjNb5aIEv+gjLPb5cU4Th/yehr2pZv/kvXu6qC9vz9O1MyZ8XzkYAv9CRDlC2QYy9jq7X3Fjx1SmHgeId5WYmcXxP4gC0mNrYvaaTv9Yw+z4ybizhaCCJHjB77RKlByZfJg7WvTDqa5JfpCBRZm7qSqW/w==;8pjQ5n9Ct0QLiU561zTGcA=="
+secured: "UYN4S40vzniiA4MzXE+pr4uCmDCZK0CycX7VHTHfvdppXFYs2Ws/R1J3MI6n0zHTswPxoXtAo3emRMiaIQUI1k7yN4YJg5YCFxwclultsSKRmmSak/QKDYk9oejH634sJ+FIfdX8osedvTdgPZPorYC+lX8HidfVdGeY1SdtR7aMfqpDEtGIhH+ELcfjT02p45VcVbd5zn/x21fux9i/Tzp0QLji3A66ScWwD0SG7BdA3OCS+IFodfLRwq3kBL3UyKW72G9yAIxnVoMTh6plSaebqf+xARe6ilyhP5NUSoJPu1o4m48aBafCTMTr0q7WtbdgPYfsdwwJbfPI07UKaqk1/9RtbkmxMeiBLSZIEaxGnDL8adO0hPY3kSWvVIcUgdyTCnbDZ751dnO6xcBdEiKAvQd25POsE84ZuMw8niM5Ubh0V8F5iyL4vkT/H8sFSp97MV3MSkb95zNiaxwzSdDTl4OxsW8Ys2dAQ8cwsHvDTOllGH1zfTd1RiwE4Hv0BEscDYGo/p9qR+39eilU2A==;AHHDo/BoPAZFFPXsBEOcGA=="
 ---
 

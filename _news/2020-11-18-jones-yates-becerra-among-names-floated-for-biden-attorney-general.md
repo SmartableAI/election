@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jones-yates-becerra-biden-attorney-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jones-yates-becerra-biden-attorney-general-names.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://images.wsj.net/im-263491/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Black Lives Matter protesters demand LA mayor be excluded from Biden Cabinet: reports"
+    excerpt: "Black Lives Matter protesters this week reportedly demanded that Los Angeles Mayor Eric Garcetti be excluded from consideration for a Cabinet position in President-elect Joe Biden’s administration"
+    publishedDateTime: 2020-11-25T20:19:00Z
+    webUrl: "https://www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-lives-matter-la-mayor-biden-cabinet-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/513e2796-4334-4590-9c8e-810dc5663a4b/da8d33f6-eb27-4033-b367-1f1c98be6149/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "W41mb0oagr/E9A7J++PlG8iiR2b028I3oWgr/ikwlI9e51/l+dgB4GcSyGjPOzmXx8Nh3il77l5ZelUk6YmWHp9zFfeamUGSR8OuPEutpS2+Pn1Mj0r0IKII3Oa1CG9NHF9/2zxwdESwLGK4AoYC3RVhCXUO7SCW2zHqDmcwVfIIBWpYA9W77F5HynluUnkwLigoU1Q7h35vMT5q5xFb2mQTWGw8TF9nb4oDH8SUg9pE8y2KIQ+JY8nB9PlAW0jHho98IrWQVxSHqCra52Dgmt3bOdF1soF7gPfQ/gG1U7E44ZzuAdoEHCq/MG0OHY6Gn1ij6LWwf5aK8ms65RQLxTWNHkqCa5DzEjaJ8f2hXQk=;NEntXOjh+AwBjt2f19PCXg=="
