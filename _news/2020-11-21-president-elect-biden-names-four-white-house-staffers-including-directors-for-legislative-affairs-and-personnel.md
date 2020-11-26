@@ -498,9 +498,9 @@ related:
   - title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
     excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
     publishedDateTime: 2020-11-26T11:46:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852A7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852A7"
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
     type: article
     provider:
       name: Reuters
@@ -874,6 +874,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/50bc3dc3-0060-4208-a59c-9301e7c7d46c/thumbnail/1200x630/022db9dc6e771834def28b4632977c3e/cbsn-fusion-president-elect-joe-biden-thanksgiving-address-thumbnail-595957-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden continues to work on transition"
+    excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-26T17:48:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201126180341-president-elect-joe-biden-continues-to-work-on-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07869365_1606414204.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
     excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."

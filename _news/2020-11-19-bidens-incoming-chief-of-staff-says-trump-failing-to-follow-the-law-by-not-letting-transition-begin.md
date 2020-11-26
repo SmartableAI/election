@@ -671,6 +671,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden won: He built on Clinton's successes"
+    excerpt: "President-elect Joe Biden was nominated by Democratic primary voters in large part because of his perceived electability in the general election. Biden proved primary voters right by winning and by doing considerably better than Democratic House candidates.\n    \n"
+    publishedDateTime: 2020-11-26T16:51:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjrSxf33KQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to make first Cabinet announcements next week, eager to respond to Trump's sabotage attempts"
     excerpt: "President-elect Joe Biden has expedited the selection of his Cabinet and is planning to make the first of several key announcements next week, an official said, as part of a concerted effort to show that he is moving forward despite President Donald Trump's increasingly brazen attempts to sabotage the"
     publishedDateTime: 2020-11-20T00:37:52Z

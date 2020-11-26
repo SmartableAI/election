@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump administration kills plans for Alaskan gold mine"
+    excerpt: "The Trump administration denied a permit to build a massive gold and copper mine in Alaska that could have put the world’s largest sockeye salmon fishery at risk. In a surprise move, the"
+    publishedDateTime: 2020-11-26T15:40:00Z
+    webUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/"
+    ampWebUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "H6ztg1q22gVnJTp8ax/Tcr7o9A0qdQ4oa0JHSP2yhJSSSep3JrazVPUAMO6Mm+H8VbQ9dcQl9QM/rsyQ6+8X6H8uFDWR6ddIUPZJV7szITYsRXhVsfcnyOaZJTBrt4XxO/wY6qZNcbzIcOkbu16+SrMTsBtr1p7tubFwz3JQLTwsE9tB64y1IjzP57rSkztEtCpSecUZH90WcLp7gt0Wb/euxtD34+q2QqMwH4YcH6RsB9H77zGMfJkidC3bQNwrlEaBzRw3VxoX3VmLAuznYTPeYhwkSsRFQU19fafnhf1kYLiejbbeyvbpdT8XI8wozBq0qXEFE0lXHXf4yo3OGBNlJJfg+geogX2yAXh2wk9mrkUHIhZ8vF6huRQJ1TVeB3qWuB2V+ds2k0hi4GnfthEhPHIdJ7filhgMHmvPqBSJKnr4lhYX2FJj/SunvEyYFYsvmTWVcdcS1/6Z+aX22An20Ehbr3JxPSv6XvJ9lq1giJYrYC/ZIcPR639G1tZgJasJP0y1xnoEkAodOnlWuA==;5t+8PVmNQVczLR5uZXlixQ=="
 ---

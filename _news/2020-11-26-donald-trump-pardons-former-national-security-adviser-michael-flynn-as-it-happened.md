@@ -337,8 +337,8 @@ related:
         isCached: true
   - title: "Donald Trump pardons former national security adviser Michael Flynn – live"
     excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
-    publishedDateTime: 2020-11-26T00:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
+    publishedDateTime: 2020-11-26T00:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef2348f0872410b29eb02"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     type: article
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "khqBiLftNCsvDxHbz7w/Qx0hhjTIf6+warlGj9Qtq3hwAwRBdKHSYMGm872BAa1gS+xUv4VBxehOws36SDJEZRne7DK2P9T7jI5BFKAaSpaCMmPc1qMnIP2zeDVUsF7ZC0PrBRHiduIf/CTHzTtRMQjLWIFkQOYNybWwgthzPe+L+XWdYmxwKa2S24hENitVToE935DWlNHgsZLLd3FBuGRFUkgljpws99Zm9B9/wsoYdOQ2EUYw1TUAcn3365B2S7CdlIpkLzgGph+zoaTSj7qdSNlOHmpfrkh7lL3YlJ1orip+wbAsYpfN1tUTnLw6A3Hixd1amZrgp48jqmHP0n12UK8JLxZFcujTXh4JuCE=;0b02h6GaGfAlZ88c7IHofA=="
+secured: "jWRdglWFE/iFeIQcxIYy2MvrxSYRO/AWyaPi0GOz3bP32Tvk3fv7XAntlKHQMfRz8oCbdNE3PwtCUSzAxpsDYLAsx6//JCcsP49ofPPcvBhClGYDlJNq7I0V+hfv46F6p/uricqTDOywI8Mrky4R24JkoQGcTFOS1StR/ho6aJYwz3rbG4XxcP20KPO35YRhgnFnjHmj3+DA4bLskDldLAw14RVzRcsfDRihzUK4sFv8ugjIs7JdKnda7QIHtAArWakX5tQ+VR69chyVqK4PFXJUIxBamFhukpyfAR5KjYn4r3l2wBu1NWqxq9iR7uc7l1/kHWPQpwlo1dXFQlphVm6DbhQA87ZMdgad+HORXWdU83MNYN1PMpIVD59utN+sNkmaEly4PdpxyPqKaH6rSCM3bLZsjXnCqtMxGAj6lntLLMbc/joQUQhw+oj+AhCpc5s3HjvDBFftQKCg1630aMbrQ+yBa5lVB64ryRVw5SjDj0+oWT3mZg+6h2rKcT6Ru0hQoN0jyHRkNIx833Ix9A==;xhXqrUvTRm8C+JpC2vIN7w=="
 ---
 

@@ -670,6 +670,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden won: He built on Clinton's successes"
+    excerpt: "President-elect Joe Biden was nominated by Democratic primary voters in large part because of his perceived electability in the general election. Biden proved primary voters right by winning and by doing considerably better than Democratic House candidates.\n    \n"
+    publishedDateTime: 2020-11-26T16:51:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjrSxf33KQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z

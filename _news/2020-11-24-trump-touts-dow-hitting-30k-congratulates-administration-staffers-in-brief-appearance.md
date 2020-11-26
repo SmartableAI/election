@@ -221,6 +221,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Donald Trump Jr. says he’s ‘Rona’ free and celebrating Thanksgiving"
+    excerpt: "Donald Trump Jr. declared that he was “Rona” free and preparing to spend Thanksgiving with his family late Wednesday, less than a week after he tested positive for the virus."
+    publishedDateTime: 2020-11-26T18:53:00Z
+    webUrl: "https://nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/"
+    ampWebUrl: "https://nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/don-jr-thanksgiving.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "MCML+Y6QKJyx8UHx1SR79iB8Pi7Nn5Rl5F27kY5kLuHeA/y1HosMsHQ+cWasPbm8b8uzuPtosPYt+JIoCm50bazMUwvi+OAskHnGtDOO3vdEfLKDqaVjQrey7YWWYuBf1ppLDZpvogEEaetEajKEHS2xSShUxwy0gJLSFXWxMFW4hhJ0gWwBlOrLwqHJKSXIvXnuGpmpo95jOcjBUXUpSahBecx0XoVMC2tHW722bsPeoN3koaoOB109BL3RevOvK+NRH0o2psZaNAPuCgsgsg91lEdj00BDpVG26xK5y3sG2Qz896on/LkfCEdfyE+WIeG0Q41IMn18cjeSLAJiBCy8OxBNgGbP4MHFn+U+BU4=;KpggJMSg0R0ZtR+/c6trXg=="
 ---

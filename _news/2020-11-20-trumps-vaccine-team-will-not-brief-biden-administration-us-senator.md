@@ -319,6 +319,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "In Georgia, Republicans juggle Biden win and Trump loyalties"
+    excerpt: "Twin Georgia Senate runoffs have Republicans in a quandary. They could admit President Donald Trump lost his re-election bid and turn all attention to salvaging a Senate majority to counter President-elect Joe Biden."
+    publishedDateTime: 2020-11-26T17:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-republicans-juggle-biden-win-trump-loyalties-74418827"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-republicans-juggle-biden-win-trump-loyalties-74418827"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-republicans-juggle-biden-win-trump-loyalties-74418827"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_992920806dd94ba88902e36d4b5b452d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll: More Americans happy Donald Trump lost than are happy Joe Biden won"
     excerpt: "The Monmouth Poll also found a majority of the public disapproves of how President Donald Trump has handled the administration transition process."
     publishedDateTime: 2020-11-18T17:20:00Z

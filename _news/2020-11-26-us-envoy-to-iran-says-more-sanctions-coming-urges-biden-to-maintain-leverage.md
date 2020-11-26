@@ -3,10 +3,10 @@ category: news
 title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
 excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
 publishedDateTime: 2020-11-26T11:46:00Z
-originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
-webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852A7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852A7"
+originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
+webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-envoy-to-iran-says-more-sanctions-coming-urges-biden-to-maintain-leverage-idUSKBN2852A7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
 type: article
 quality: 121
 heat: -1
@@ -859,6 +859,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden continues to work on transition"
+    excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-11-26T17:48:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201126180341-president-elect-joe-biden-continues-to-work-on-transition/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07869365_1606414204.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President-elect Biden names four White House staffers, including directors for legislative affairs and personnel"
     excerpt: "President-elect Joe Biden named four more White House staffers Friday, including directors overseeing legislation and personnel."
     publishedDateTime: 2020-11-20T16:07:00Z
@@ -1008,6 +1022,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "RhsZNzac2cT/fOKinxPvsSsX/602gAjeGj3uk7YDL54Ye8wUhKlOch/ZTlSksamAjFa28eSek8xkYmodpbeDDe5nKbFvcUTmvugH4AJDeQEdCf4DicR4MWUVTiiOyin3TbAj1TNk1UM2zJc1AII3lF1hmliGOIa8MVavPOOaI0P2fGExO4oMQPW/aVS7QkaGbXUmhKqI2ir/T4FlZLQ1N5Iih0i9kjWIoacK2d/QpFYVeEM/UYzA76ksca/SLvf+gAIFi9d6kC1iwK86OvY2q5pkDZJNsSgvldBIzexG2HyQayi9wBL2w5p1WetA7/Mtz0UP3sAL+8nKbxxuX/WMhDDeMBJJR3rp0v++fnql9Zs=;kY5MeEjt+WlqJdVG5BXy4A=="
+secured: "zUBELg23mbMn7rlNX29XtOmSA4VRb20W1xhK5gDscq+BB9up1KQm2GB/1jOV7fGEjqjLTp3w7V7kC5pMKWoTBrT8PD0NVHVL+F8PZ8qt/RCcuAhR9Shv7w1CS9p2YyqiIZzo53zEG67UFmyf3L7eqfNaFdZb6BAGdTryURgc5LarAbZvGrCopFjv0Xlq/adCTZv1Eg0UuhlrQAnZJDM+lladhHrCWt1v8jV6fMG+1HWWy/xsKjPAe7sVDA6oj1IyaPVCLwnQk4SXZcnB8Culc0hxk25hsvody8P1Y0V5/qhz1GkFroEsme4x/HyDhW+7MJh8O5L0MaoI+PfpnwVuTN9lFJ6f53oaa/6FzI3KkN8=;deWLUN06QBsGb86Rz8dPgA=="
 ---
 

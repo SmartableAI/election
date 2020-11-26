@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/what-is-president-trump-doing-on-th
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/what-is-president-trump-doing-on-thanksgiving.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden says family will have 'small group' around Thanksgiving table, urges Americans to sacrifice gatherings"
+    excerpt: "President-elect Joe Biden called on Americans to make a sacrifice this Thanksgiving by foregoing large gatherings and noted that his own family is giving up their tradition to comply with coronavirus guidelines. "
+    publishedDateTime: 2020-11-26T18:18:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3E6Q2S_bMw/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-family-small-group-thanksgiving-urges-americans-sacrifice-gatherings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20330726010055.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "VH/XgtAvrFPd3q4ds81sdxYJOlW/tnQwL/xfBr+DbEjy0Gv8ZUuJVR8avq/Kw+pPatn1dQFRYs29rsYJ2sKhxKe85gyl7rcigJTrUSKfEv1j+V6bueRgM12VruTxQ3jzSB8FVmDny+fN9imWqN89xRGun5vLMgPhaAVh2wsgWMAuKA9KxFIoWmI9EBT4uZ8+HTiKOJ9OFbjBQ4hxGcBPB73g7jDv7IheTf4jhELpWJWS2KKhSV/4ND/gMv4/k+dFPD6odn2IwfFldcmusYJCaW/RGosVhnnI+7f9pW+nhOVPfaLOBDdAjhEnjYQzZXzR1CecQ0Q7/9ChOCK15N7T5nSj7i/SmtqYJj6lTDfakZs=;hRcVSFP/PKok9P96+Px4IQ=="
 ---

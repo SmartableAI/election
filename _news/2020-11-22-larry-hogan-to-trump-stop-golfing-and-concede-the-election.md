@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-trump-stop-golfing-conc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-trump-stop-golfing-concede-election.amp"
 type: article
 quality: 190
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://images.wsj.net/im-262647?width=620&size=1.5"
         width: 620
         height: 413
+        isCached: true
+  - title: "Donald Trump Jr. says he’s ‘Rona’ free and celebrating Thanksgiving"
+    excerpt: "Donald Trump Jr. declared that he was “Rona” free and preparing to spend Thanksgiving with his family late Wednesday, less than a week after he tested positive for the virus."
+    publishedDateTime: 2020-11-26T18:53:00Z
+    webUrl: "https://nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/"
+    ampWebUrl: "https://nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/26/donald-trump-jr-says-hes-rona-free-celebrating-thanksgiving/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/don-jr-thanksgiving.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "e3+naHSxYJt9zo0+AqqDvc3yyBHb4+65SDx3kPsscaMZaG+eH4WoYpWtzoAazDBzBWtevKoWgfIKOldjXrh/FJ3uo/uXguQ+Lts79y73Az6E8TzeGGpLNMoR42kk8RUv52YYTIrw8RKGP1mtnkhSFHIwiUquyLtuo5tXNZBJxTrmwPdwVk3cVisrH8bx9HHN/qJlQUKtzM/G7EBZhHvymj5X9MYTj0rXfOtjXI2m8A7J5k3Pl29OMvFAfiOHMvHOU6fl853hjMQpO5L7b6R/P1N2s2vikAiu4MAP2OuAeo2TBoAhMDVjt7l5wx37jl+4cb8QbFFDIo/HphE5SO9qO3e+S37qtmKTU/m1xyKm7kw=;/J7CLUOmxE6sNlk6Mo2Szg=="

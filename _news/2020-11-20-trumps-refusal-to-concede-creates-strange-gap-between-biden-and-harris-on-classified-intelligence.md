@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1761
+heat: 1781
 published: true
 
 provider:
@@ -653,6 +653,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Biden won: He built on Clinton's successes"
+    excerpt: "President-elect Joe Biden was nominated by Democratic primary voters in large part because of his perceived electability in the general election. Biden proved primary voters right by winning and by doing considerably better than Democratic House candidates.\n    \n"
+    publishedDateTime: 2020-11-26T16:51:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjrSxf33KQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

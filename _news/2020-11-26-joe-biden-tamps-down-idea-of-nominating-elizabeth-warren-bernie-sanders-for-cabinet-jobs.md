@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden tries to spread calm, as some Democrats worry about his willingness to fight"
+    excerpt: "The president-elect has made good on his campaign vow to lower the temperature as he deals with Republicans and Democrats."
+    publishedDateTime: 2020-11-26T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-transition-conciliatory-tone/2020/11/25/aacd4ed6-29bf-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEVH72BKXEI6XHBBHTCQDUEYD4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden picks Janet Yellen as first woman Treasury secretary, tapping former Fed chair to help rescue economy"
     excerpt: "Biden chose Janet Yellen to become Treasury secretary, tapping her to guide his efforts to steer the pandemic-hit economy out of crisis."
     publishedDateTime: 2020-11-23T22:16:00Z

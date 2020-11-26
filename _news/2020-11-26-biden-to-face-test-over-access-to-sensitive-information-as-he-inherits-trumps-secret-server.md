@@ -655,6 +655,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden won: He built on Clinton's successes"
+    excerpt: "President-elect Joe Biden was nominated by Democratic primary voters in large part because of his perceived electability in the general election. Biden proved primary voters right by winning and by doing considerably better than Democratic House candidates.\n    \n"
+    publishedDateTime: 2020-11-26T16:51:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NjrSxf33KQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/joe-biden-win-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's incoming chief of staff says Trump 'failing to follow the law' by not letting transition begin"
     excerpt: "Incoming White House chief of staff Ron Klain said Thursday that President Donald Trump and General Services Administrator Emily Murphy are failing to follow the law by refusing to allow the official transition process to move forward.\n    \n"
     publishedDateTime: 2020-11-19T23:57:57Z
@@ -1270,6 +1286,6 @@ related:
         height: 629
         isCached: true
 
-secured: "AmeU415FgNSzrUUfH/J+GI6uSNN30hnQBpJq9ExNGzbB/eFp6tH7Ybbu3LvPAbQxt5tKnzUoLTH5H3BXsZ7guWvaBUCamsJ5IRZZKPtegQvTJrCATqnsvoKUcuDPa+4hbrjZsuLWCIjFwOtY5TAIN6JE68Xbwt0mODieUsFNVSrJJtLVKpBilt0NMLt568gaF1ATSLXG71zTFWLRqfLRaUbwVkz1e5kr17L5FpRVCNEKg9XqK4MKRTgRa+O3noFCOrA1mSMjhF3/KODgrQjOoggUdagzxEdrMc1BB+KBrUFUVwYj6DtUP007Z7ZgNDQ0WLmU1zI0RA7iIotfhy2s0HisP29W2szMnsAHXSZ6dQc=;SNtHfOw/HSGOooMJMNZkMg=="
+secured: "FgauOIzdV0Z0GzvyaRIN9zX6btDlOTFlOTAymRL1R3wwAY21m8cwiyR55Diq86pNYtUWWnqjYnRNKgccIqRK3Y/HRnMHrD5pKhAVUx3CnfBK4BDRkXbLGgkwz04iUQdQSHgFoWLzNv63Y29ZmpVp8HEd6KOxkXAC6+pj1tKTF6E6KwJN++PR78Qm+lShWKmet3GscsptqV8cyCw1bO+Ip3yfVYvVATyW4rrOMi+Ik/hMiRZ60loRUfDu1G38Gw81JKVmewm+6CmEkg5vOuGyD8llVs55lH2FQ67CafW/HlT3gY+vps3MC+7RQpNfOLXS7Yc69wD9+VZpuyDA6aM4Al2zbI5h5jY8p2yg/UWjCog=;cO+jbuvjhHY9LZza4pl/aQ=="
 ---
 

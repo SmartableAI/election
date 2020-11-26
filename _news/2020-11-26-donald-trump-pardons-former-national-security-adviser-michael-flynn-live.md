@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump pardons former national security adviser Michael Flynn – live"
 excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
-publishedDateTime: 2020-11-26T00:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
+publishedDateTime: 2020-11-26T00:10:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef2348f0872410b29eb02"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef2348f0872410b29eb02"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 type: article
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "1qcNbBnPsPitE+qH0p6Rit5Uy4zKByquFZ2XCYzV/9/rd/7yRt4HBqiwSdc1L81DYdzMaPf21Wekr9J70VkF/TRhdghj8R7uIMihGR8ZhmLE+VGRHPPO6xixRf/pEsnclAZdlKTjcD804PjD3hXZOUqH3OXgmGFS5aJhGMYI35SywGhbyl+dwjDlucma4NS2PQdYZtjQ1lMGFULhEFDHSzUfQvW3wNrxCIicEmVdCSQDuanJJoGknuuLLzAgygTBqmA//dg5EG+/xpW/LKQRkXbOSU7ftZMVJOvUbf5fQ+2cVLg9MDCCwH1EKLF2BolwChY9Ms0/N7cWA5XoiyyPEkTOXu0LVIp88Y1/Xii7VEw9iuOv/gUq7vNclkwa650mJsal/Zwfe+Acvak93zmilVX6YyU27eaPAdFVJqjYJ6xALfxOPMTiVxjI7ahC5ITmYL9HbkeBmq3TMyYDPVzrYH4NEw4bGYgggzuSSw1dB0kjTfvOftrDujitCIRa4JdTr45bz+ylI8qelq3CD7hVVg==;ctcCTUVaepOl18y6LP8W8A=="
+secured: "I1jC2rBAcWI17LR4qq5SH4E3pscNMDdo43F4PVoGjc7jydYq5xLCeP5cWMnoOnTK2pnE2hqArVXZoHF+vygnjuDw7wic9yJccl+0QXCb3zvcKYHZw5HRNoIZ3LP5IJfXFE3e6lWtHqE2+aYwJ2pBo02Sc45WXAht8cf3MlPXYf+Esiv38OMzK5rJjVx0V1hVyoux0J8LHIbMBCIXb3+yzWHZf83KXAAX5xokcfM8HJrwMtOYKorkAkBmWIMP+wQeYEbPnRBbPffEcNe3Mzg4sEnSZA11HIiI//0XEjVJLLgwgaroi3vk1TWNhGqUCZLkYPvnSPCkCD2tKnagHGtj+8Mw/FSFKz+QeoT10Om9RI4=;iEK3mH0yU866Rmz7hGtJgQ=="
 ---
 

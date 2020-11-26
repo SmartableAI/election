@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump administration kills plans for Alaskan gold mine"
+    excerpt: "The Trump administration denied a permit to build a massive gold and copper mine in Alaska that could have put the world’s largest sockeye salmon fishery at risk. In a surprise move, the"
+    publishedDateTime: 2020-11-26T15:40:00Z
+    webUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/"
+    ampWebUrl: "https://nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/26/trump-administration-kills-plans-for-alaskan-gold-mine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/trump-23.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump Jr. Tested Positive for Covid-19 This Week"
     excerpt: "Donald Trump Jr., the president's eldest son, tested positive for Covid-19 earlier this week, a spokesman said, becoming the latest member of the Trump family to contract the virus. The younger Mr. Trump has been quarantining since he received his positive result and has been asymptomatic so far,"
     publishedDateTime: 2020-11-21T00:05:00Z
