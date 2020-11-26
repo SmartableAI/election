@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1621
+heat: 1681
 published: true
 
 provider:
@@ -157,6 +157,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123054705-donald-trump-news-conference-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden stakes out his anti-Trump presidency "
+    excerpt: "Joe Biden has already kept his first promise -- his approach to the presidency will be a top-to-bottom repudiation of the behavior, policies and obsessions of President Donald Trump.\n    \n"
+    publishedDateTime: 2020-11-25T05:45:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OQLkYBHWpfI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/joe-biden-donald-trump-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/joe-biden-donald-trump-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124131447-02-biden-harris-admin-announcement-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -333,6 +349,22 @@ related:
     quality: 183
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123161353-kash-patel-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's outcasts in the civil and foreign service may get a second chance under Biden"
+    excerpt: "It's been a hard four years for many career government servants. Their expertise was set aside for President Donald Trump's flashy political appointees, and their fellow professionals were marginalized, derided as \"Deep State' interlopers and even fired.\n    \n"
+    publishedDateTime: 2020-11-25T20:11:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yBnyPSfW-wU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-outcasts-biden-public-servants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-outcasts-biden-public-servants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 183
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201125112554-yates-krebs-vindman-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -557,6 +589,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201121021211-03-donald-trump-1120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden appears to pour cold water on Warren and Sanders joining Cabinet"
+    excerpt: "President-elect Joe Biden appeared to pour cold water on the idea of nominating Sens. Elizabeth Warren or Bernie Sanders to his Cabinet, suggesting he would instead like to keep them in the US Senate to help him carry out a progressive agenda.\n    \n"
+    publishedDateTime: 2020-11-25T19:53:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3fB9zSHWU4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/warren-sanders-biden-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/warren-sanders-biden-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200202165516-04-iowa-candidates-warren-biden-sanders-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

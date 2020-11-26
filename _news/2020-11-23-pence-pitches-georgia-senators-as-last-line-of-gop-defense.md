@@ -124,20 +124,18 @@ related:
         height: 641
         isCached: true
   - title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
-    publishedDateTime: 2020-11-20T18:54:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
-    ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
-    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+    excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+    publishedDateTime: 2020-11-20T20:33:00Z
+    webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 75
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 55
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/bb/8bb064a3-e028-5ba6-bd0f-74d65dd1bd56/5fb7fd5e79343.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "VP Mike Pence goes to Georgia ahead of Senate runoffs"
     excerpt: "Vice President Mike Pence is campaigning Friday in Georgia as the state's two Republican senators try to beat back Democratic challenges in runoff races on Jan. 5 that will determine who controls the Senate at"

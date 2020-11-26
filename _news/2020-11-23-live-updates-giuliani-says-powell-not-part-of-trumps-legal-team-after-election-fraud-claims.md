@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-23-2020.amp"
 type: article
 quality: 179
-heat: 299
+heat: 319
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NJ Dem called out for 'nasty' bar complaint against Giuliani, other Trump lawyers"
+    excerpt: "Rep. Bill Pascrell Jr., D-N.J., announced that he had filed complaints with various state bars calling for the disbarment of Rudy Giuliani and other attorneys representing President Trump's campaign, only to be accused of being a \"political hack\" whose actions will likely be meaningless."
+    publishedDateTime: 2020-11-25T13:38:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zGo4NIcO40I/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a39d9ca-7e33-421e-862b-e0365bb7572a/56154299-b3ae-4b7d-8280-f85802fb865c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1293,6 +1293,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump pardons former adviser Flynn"
+    excerpt: "U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn who had pleaded guilty"
+    publishedDateTime: 2020-11-25T21:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-flynn-idUSKBN28536B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28536B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28536B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542471750&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1P1"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Here are all the Trump officials who have been fired or resigned since the president's election defeat"
     excerpt: "\"Mark Esper has been terminated. I would like to thank him for his service,\" Trump announced on Twitter less than a week after the election."
     publishedDateTime: 2020-11-20T16:45:00Z
@@ -1324,6 +1340,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KK4ZC5BF3MI6XBTSYKA4PIWJNY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden offers a message of unity on Thanksgiving Eve as Trump airs grievances and spreads conspiracy theories"
+    excerpt: "\"I know the country has grown weary of the fight, but we need to remember we're at a war with a virus — not with each other,\" Biden said."
+    publishedDateTime: 2020-11-25T22:06:00Z
+    webUrl: "https://www.businessinsider.com/biden-urges-unity-on-thanksgiving-eve-trump-airs-grievances-video-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-urges-unity-on-thanksgiving-eve-trump-airs-grievances-video-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-urges-unity-on-thanksgiving-eve-trump-airs-grievances-video-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5fbed10050e71a0011557814?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump and Joe Biden will have mics muted during parts of final debate"
     excerpt: "President Trump and Joe Biden will have their mics muted during their opponent's two minutes of uninterrupted time at Thursday's debate. Sean Sullivan, a CBSN political contributor and national politics reporter for the Washington Post,"

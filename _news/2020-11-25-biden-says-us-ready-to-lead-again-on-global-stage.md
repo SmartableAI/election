@@ -63,6 +63,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "State Department tells staff: transition to Biden administration has begun"
+    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
+    publishedDateTime: 2020-11-25T23:59:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-statedepartment-idUKKBN2852X5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2852X5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2852X5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542457377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1K5"
+        width: 803
+        height: 545
+        isCached: true
 
 secured: "3TGwJZ4Oi4xZplgIjuSEz53O1pVg/CQfJgver9i2AkiTYtPBbJFR/rDJA61MOYzIH/0dLlugCm7R9q3MBPfHSCDRk7AJe16I5mEnDMPZcKXJyhO5yECKQqlKAjVz4xEkto7D8AASXCrLrtBHzvlYIj4I8hGD9QxvMjSClAGD18sK3ZrlH0wVVIfSw2TZgRwt2GV5zPJSYKMxynWmQo04s6PZMP+40a8UASajB649xYr32lucpqBoTwRD5ZBekmSSQLWm/MQvfYd40igk/3D8bdWYu21v8aFDb1gIIWBJKa5XAwUf8fKtklVrLTTMYB9T2DGN5CWksEhmbhHIOiNR+RgwVvAGuRJc9SEVAEd0k9U=;wzLh+pm4P6ROmDZkeDdbUg=="
 ---

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-26-biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.md",
+      "title": "Biden says he'll push 'pathway to citizenship for over 11 million undocumented people' in first 100 days",
+      "excerpt": "President-elect Joe Biden has committed to forging \"a pathway to citizenship for over 11 million undocumented people in America\" in the first 100 days of his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
+      "originalUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67c64a5-3121-4d70-b27b-f5327c5bda17/5ba09a5a-6506-4f42-a9e9-df98aee139b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hell-push-pathway-to-citizenship-for-over-11-million-undocumented-people-in-first-100-days.amp",
+      "publishedDateTime": "2020-11-25T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
       "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
       "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
@@ -294,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1540,
+      "heat": 1560,
       "tags": null,
       "images": [
         {
@@ -848,7 +905,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -1608,62 +1665,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-ivanka-trump-slams-new-york-tax-investigations-as-100-motivated-by-politics-publicity-and-rage.md",
-      "title": "Ivanka Trump slams New York tax investigations as '100% motivated by politics, publicity and rage'",
-      "excerpt": "Ivanka Trump late Thursday condemned two investigations into President Trump and his businesses as \"100% motivated by politics.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mN7BcJ-zo5Q/ivanka-trump-new-york-tax-investigations-motivated-politics",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mN7BcJ-zo5Q/ivanka-trump-new-york-tax-investigations-motivated-politics",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20307822386035.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-new-york-tax-investigations-motivated-politics.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-new-york-tax-investigations-motivated-politics.amp",
-      "publishedDateTime": "2020-11-20T05:38:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

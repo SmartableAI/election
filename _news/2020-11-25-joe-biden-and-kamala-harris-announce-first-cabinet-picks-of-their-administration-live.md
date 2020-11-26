@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
 excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-publishedDateTime: 2020-11-24T20:47:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6afc8f08850ef86c58a2"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6afc8f08850ef86c58a2"
+publishedDateTime: 2020-11-24T19:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -408,6 +408,22 @@ related:
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
     excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    publishedDateTime: 2020-11-24T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6408670002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6408670002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?auto=webp&crop=5714,3214,x0,y437&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
+    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
     publishedDateTime: 2020-11-24T23:17:00Z
     webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
     ampWebUrl: "https://amp.freep.com/amp/6408670002"
@@ -714,6 +730,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "/JI5PKrmgGRlPr8LyvSGNiYApIBsosz09zEKGHLMknGx7G7+Q/y5k5PmEJ0wylla41DCD5aBY/geq3lRAH0hw4LBS35p44T1oOeuDijryTvsD7QTXI4JUUKWMRir58RfDh03o6lLWOr4RPvUmqUE8X8k+aZ/zieRFjVAOdoR99aNoxI7zJie0yNY7PL279rmyDPPirIcKxgMXfm721dM41wOdVN/7Haxf+lSbfSYKnc/A7+6ZFuPLPOR3tJIF4WrJNXHQD1ZqMhAT/DsvrRJloEM7azXO/2VYK3+H8xfe0dPrhD7UKx2iZGThOAX2y3YI4p0WbwjaMfd2upPyPDMawrFdpKz8eFKFjNzPpwVW/V6GP7tN5bkWVxfAqe/VbjowW1hSegZcLpIJVDeJ6SvXBtlVhxg9yOoefCUkKPJboKHpTYD5woRN8sEesTtwLS3+Om7a8pscWFPrPtgwGZ7U7gks/q82chdlfra5eqhvQayNpdXy30hIR452qchlt2XkBHUEKvTbce6FGIPGkf1gA==;wEMix2SGGwNCDOXmKtmmlw=="
+secured: "luI7uTOAi3jqqyeqqy29QdEBwky2Yq1eAg8ICd1emFEqAOZ7yzxx36hZ2Gshw9k1Lr8TbPd9Zo2jL/wpv9/8H7PhR4D18KkDZDZi5QEsBDoLlSKgikLI7iKy5IXoxIYS1qmZ+BuCNAyZyU3ux7ThRZRVCmkyQ/FE6MeEOoaOODPuYWwar0dJ5cJcHRHObFcn3FrnYWPuj2IuXFgL9Begl+PuAQTAv9uXaE2kZ0545NP5mDOu2XLX2MftM8hHV/UJn/R8CGQW80Kwkd02Gud+GcIXEwuA32ke0mRKvAH4Zy9ExJfuxV4avIvXpbCaVPDx8MIWb4GLmmBuToc4H7Fo+eqcdsu+cRsVmvlWFDdd5dEsoJSJGab3RVDDdYhRdIHW8z+jHZhqF1lNCXfMFXT2TBc6upKcz/umbLqugBo2dfRKNJKSvhKbUNGRiXpe88Iv4gvSMMZnQ8PXD1m1EG7dSAUoPd+qq8DOM+q9XujAuJfp4Xk3xyrkm2RS20eQ3QDJbQxVVHweY1rp6r2bHAcAfg==;ludjrZJMUMrxHDHbdWXSCg=="
 ---
 

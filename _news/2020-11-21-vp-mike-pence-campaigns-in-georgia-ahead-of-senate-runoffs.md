@@ -1,29 +1,27 @@
 ---
 category: news
 title: "VP Mike Pence campaigns in Georgia ahead of Senate runoffs"
-excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine"
-publishedDateTime: 2020-11-20T18:54:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/us/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.html"
-ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
-cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/us/pence-pitches-georgia-senators-as-last-line-of-gop-defense/article_f15cbe3c-16e5-5239-a606-cd563d16d1ec.amp.html"
+excerpt: "Vice President Mike Pence campaigned with Georgia's two Republican senators on Friday, trying to hold off their Democratic challengers in January 5th runoffs that will determine who controls the Senate at the outset of President-elect Joe Biden's administration."
+publishedDateTime: 2020-11-20T20:33:00Z
+originalUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
+webUrl: "https://www.daytondailynews.com/nation-world/vp-mike-pence-campaigns-in-georgia-ahead-of-senate-runoffs/OGPY65XXBZAAPLRT732FW4J5DI/"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: Dayton Daily News
+  domain: daytondailynews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/bb/8bb064a3-e028-5ba6-bd0f-74d65dd1bd56/5fb7fd5e79343.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://www.daytondailynews.com/resizer/Q7xcE4p6hMoQHtsThkvtafgdskM=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/W4NGYYYTSBCG5L7OBQPLKWXAJU.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -187,6 +185,6 @@ related:
       domain: newsobserver.com
     quality: 50
 
-secured: "KkGacoXBnjAnN9Iy39O4OrfdIB5V6CNrSRt8y7U0n62OfJADtVCvimS2AHG+VCKCLFMtJRgihjaLrasITPsvlKTWESENyZ5+p9mh277B3Syu4TjznhKSJixGkRFWAbdFdMn7apbaPEacKxgYuIeeaItn9lWvSwQ1cD/dwQh+JmB1rRxADwed4x25MQiu0on4wcE03zye91NR3bkgeekHf0G1zTOOoOu26x8SPpT53ve+ZgR4GmY7QL1LZM5C4ozO8/UtY09SPDAwi1utEtg+JML6cgl2pG9i12PBxO/LZD49Jr+3h8yB2j/5Ihlmqi2DKI+Y3ZkdY0yvsXt2IBfJoz0ah+RpP6X4GXq0LBFlExhfT93vaNYnRTWxQEUZ/q75VLTe/vUW8G20o1EYGtaimXMoRBjvDA/Gc3nyI88HdeNQzDDf6gKMvrkWZGUqwKRodUL//wGqIzX0dzQQOhZG42+lkQCwEQI7kiPFJRYzk4CTmqLWfUl7QhakpRadeSd4EkhNQTcjsI1475gOKUMJSg==;YfHdyVsLBJWqRO//HVSAMw=="
+secured: "OXf1BSAM06kQf7j1G/stkG9Noy8c6ogmKaaTYZj2/LyzQIp8VUtImeQEebzvHFJofPPP17skK0A2eQc+GqolXiY1oZS7GSXI03tskF6HPo+nO7/BcbpbEVEd0jEasAV+krPajcdR40ZsENO7BuViL+OnvAPBDpdx29T3mKW2f89CethEz0KF/1nRIaWVBA/B8xzAQUdG177FhUHGQLLuF1OrNE1rBHcSImsewRQsmSHggMJwos7BdzMtNeGtqBPzl/KXnUy3ZZpS9FtNJcwjHkNGWEspDjUXatS6uTohY1QyRzd48Yv4qLiD5iWR032V0aR6GxbRxs8h3aNeVglWUX7e8VPfTOy+upcai7WTgSE=;EiMf5J57N7ieeudoVOk0vg=="
 ---
 

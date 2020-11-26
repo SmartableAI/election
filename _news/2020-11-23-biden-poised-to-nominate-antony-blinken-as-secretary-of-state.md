@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 355
+published: true
 
 provider:
   name: CNN
@@ -31,70 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden taps several long-time aides for White House roles "
-    excerpt: "President-elect Joe Biden has tapped Louisa Terrell, a long-time aide and Capitol Hill veteran, as his director of legislative affairs -- a role that means she'll be in charge of shepherding Biden's agenda through what could be a divided Congress.\n    \n"
-    publishedDateTime: 2020-11-20T16:06:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aLVMwHAdoHU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/biden-white-house-hires/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119170042-04-biden-harris-presser-1119-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia to certify Biden's win today, officials say"
-    excerpt: "Georgia Secretary of State Brad Raffensperger said Friday that he'll certify President-elect Joe Biden's victory later in the day and will formalize the razor-thin presidential results after a statewide audit confirmed that Biden got more votes than President Donald Trump.\n    \n"
-    publishedDateTime: 2020-11-20T14:10:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FDjrObsfZj4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/20/politics/georgia-certify-secretary-of-state-raffensperger/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President-elect Joe Biden to announce Cabinet picks Tuesday"
-    excerpt: "President-elect Joe Biden will announce his first Cabinet picks on Tuesday, two key members of his transition team said on Sunday, forging ahead with plans for his administration as President Donald Trump continues to deny the legitimacy of Biden's win.\n    \n"
-    publishedDateTime: 2020-11-22T16:09:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_KolvtJEl3g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-cabinet-announcements-jen-psaki-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-cabinet-announcements-jen-psaki-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201104144349-joe-biden-file-november-2-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden builds out White House legislative affairs team"
-    excerpt: "President-elect Joe Biden is building out his legislative affairs team in the White House, announcing two more key roles in the office that will guide his agenda through what could be a divided Congress.\n    \n"
-    publishedDateTime: 2020-11-23T16:01:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-wQ10bK9ErQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/biden-white-house-legislative-affairs-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/biden-white-house-legislative-affairs-team/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201122233533-joe-biden-1119-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to pick Janet Yellen for Treasury secretary"
     excerpt: "President-elect Joe Biden will choose Janet Yellen, former chair of the Federal Reserve, as his secretary of the Treasury, according to a source with knowledge of the pick.\n    \n"
     publishedDateTime: 2020-11-23T22:15:45Z
@@ -108,70 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Michigan's state board certifies Biden's win"
-    excerpt: "The Michigan State Board of Canvassers is expected to meet Monday to vote on certifying the state's election results, a step that would formally grant President-elect Joe Biden the state's 16 electoral votes.\n    \n"
-    publishedDateTime: 2020-11-23T22:23:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v89a2U1HsJM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/michigan-certify-election-results-monday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/michigan-certify-election-results-monday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201107151334-detroit-ballots-1104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "5 takeaways from Biden's first wave of nominations and appointments "
-    excerpt: "President-elect Joe Biden's administration is rounding into shape after his transition team on Monday unveiled a series of Cabinet nominations and top White House staffing moves.\n    \n"
-    publishedDateTime: 2020-11-24T02:34:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v7GH3zqK2_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/biden-administration-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/biden-administration-takeaways/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123131505-joe-biden-for-ghitis-oped-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "CDC ready for Biden transition: \"This is what we've been waiting for\""
-    excerpt: "Leadership at the Centers for Disease Control and Prevention, beset by a Trump White House that was harshly critical of the agency's coronavirus response, are anticipating the Biden transition team and the change a new administration will bring, senior health officials tell CNN.\n    \n"
-    publishedDateTime: 2020-11-24T17:28:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40tKJCm1ngI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/cdc-biden-transition/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201023122452-cdc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How the GSA's 16-day blockade on Biden's transition finally ended"
-    excerpt: "Two weeks after Joe Biden was projected to win the presidential election, General Services Administrator Emily Murphy was finally prepared to stop stalling the transition.\n    \n"
-    publishedDateTime: 2020-11-24T22:41:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IynlNe-SSlw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/gsa-2020-election-decision/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124162912-emily-murphy-gsa-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -191,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Rahm Emanuel under consideration to become Biden's transportation secretary"
-    excerpt: "Former Chicago Mayor Rahm Emanuel is under consideration to lead the department of transportation, people familiar with the matter say, a move that would enrage progressive activists if the former Illinois congressman and White House chief of staff in the Obama administration was ultimately nominated"
-    publishedDateTime: 2020-11-19T21:36:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vXmna-tzeq0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportation-secretary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/rahm-emanuel-transportation-secretary/index.html"
+  - title: "Key Democrat warns Biden not to nominate Mike Morell as CIA director "
+    excerpt: "A key Democrat on the Senate Intelligence Committee is warning President-elect Joe Biden that he should avoid nominating a top contender for the job of CIA director, Mike Morell, because his record as a \"torture apologist\" makes confirmation a \"nonstarter.\"\n    \n"
+    publishedDateTime: 2020-11-25T03:52:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lDTXoCYea8g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190521104847-rahm-emanuel-092018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161101155107-michael-morell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -223,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden picks loyal lieutenant to lead mission to restore US reputation on world stage"
-    excerpt: "Antony Blinken, President-elect Joe Biden's pick for secretary of state, has worked with the former vice president for so long that one former State Department official said that \"it's difficult to know where one person's policy vision ends and the other's begins.\"\n    \n"
-    publishedDateTime: 2020-11-24T00:33:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0PDwYJNOiGQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/blinken-biden-secstate-candidate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/blinken-biden-secstate-candidate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden discusses mask mandate and vaccine distribution with bipartisan group of governors"
     excerpt: "President-elect Joe Biden discussed a national mask mandate, plans to distribute a coronavirus vaccine and the need to help cash-strapped states Thursday in a meeting with Republican and Democratic governors.\n    \n"
     publishedDateTime: 2020-11-19T22:29:37Z
@@ -252,102 +108,6 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's plans for mask mandates nationwide will be an early test of his power of persuasion"
-    excerpt: "President-elect Joe Biden's team is discussing ways to persuade resistant Republican governors to get on board with mandating masks to stop the spread of Covid-19, according to sources familiar with those conversations.\n    \n"
-    publishedDateTime: 2020-11-19T15:56:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DW5FH7gl-ng/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109161922-biden-mask-1109-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden acknowledges 'real brick walls' he'll face in Senate during video call with supporters"
-    excerpt: "President-elect Joe Biden acknowledged in a private video call with supporters on Wednesday that he will face \"real brick walls\" in the Senate if Republicans maintain their majority but said he thinks he can overcome the political divides that may exist.\n    \n"
-    publishedDateTime: 2020-11-19T00:23:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA4-cNkk4Jw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-brick-walls-senate-divided-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118140725-02-joe-biden-1116-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "HHS secretary says department won't work with Biden's team until federal agency determines he won"
-    excerpt: "The Health and Human Services Department will not work with President-elect Joe Biden's team until the General Services Administration makes a determination that he won the election, Secretary Alex Azar said Wednesday, even as public health experts stress that a smooth transition is a critical part of"
-    publishedDateTime: 2020-11-18T20:56:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H6m8KQbrNVs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/health-and-human-services-staffers-transition-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/health-and-human-services-staffers-transition-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190605154236-hhs-alex-azar-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Advice for Biden? We Want to Hear Yours"
-    excerpt: "We ask readers how the incoming president should confront the serious challenges that will face him. What do you see as the greatest challenge facing Joe Biden’s presidency? What advice would you give him to overcome it and avoid the pitfalls?"
-    publishedDateTime: 2020-11-18T02:19:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/opinion/letters/joe-biden-advice.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/18/world/18DC-BIDEN-TRADEjump02-inyt/merlin_179818962_2b8e0bbf-dd09-4f19-ba73-7300f0fb068e-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden praises health care workers during virtual roundtable"
-    excerpt: "President-elect Joe Biden held a virtual roundtable with frontline health care workers and assured them he would advocate for them as president and promised \"there is hope on the way.\"Nov. 18, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-11-19T05:16:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-praises-health-care-workers-during-virtual-roundtable-96158789761"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96158789761"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96158789761"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/there_is_hope_on_the_way.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Joe Biden, nurse share emotional moment during virtual roundtable"
-    excerpt: "President-elect Joe Biden grew emotional during a virtual roundtable after hearing Mary Turner, an intensive care unit nurse, describe her experience on the frontline battling Covid-19. The Minnesota nurse spoke with CNN's Erin Burnett."
-    publishedDateTime: 2020-11-19T02:34:00Z
-    webUrl: "https://www.cnn.com/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/health/2020/11/19/joe-biden-emotional-nurse-frontline-worker-coronavirus-pandemic-ebof-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118201002-mary-carter-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -383,86 +143,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden says transition communication from White House 'has been sincere'"
-    excerpt: "In an exclusive interview with NBC News’ Lester Holt, President-elect Joe Biden described the transition of power process, categorizing the outreach from the White House as “sincere.”"
-    publishedDateTime: 2020-11-24T22:07:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-says-transition-communication-from-white-house-has-been-sincere-96550981990"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo96550981990"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo96550981990"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202011/nn_brk_biden_holt_tease4_201124.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Transition Gets Underway in Earnest as Biden Team Fans Out Across Capital"
-    excerpt: "Within hours of the Trump administration’s decision to stop blocking the process, representatives of the president-elect began coordinating the handover of power."
-    publishedDateTime: 2020-11-25T00:44:00Z
-    webUrl: "https://www.nytimes.com/2020/11/24/us/politics/biden-transition.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/24/us/politics/biden-transition.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/biden-transition.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/24/us/politics/24dc-transition1/24dc-transition1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden team taps Justice Department veterans to circumvent transition standoff"
-    excerpt: "Trump's continued refusal to concede defeat has hamstrung efforts to begin the transition to a new administration."
-    publishedDateTime: 2020-11-16T19:12:00Z
-    webUrl: "https://www.nbcnews.com/politics/justice-department/biden-team-taps-justice-veterans-circumvent-transition-standoff-n1247912"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1247912"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1247912"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3428717/201116-joe-biden-mn-1210_128cc64b80faa45854d5b0786f080e3d.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden was asked about canceling student loan debt. Progressives saw an opening."
-    excerpt: "The question the reporter asked  Joseph R. Biden Jr. on Monday was simple enough: Did canceling student-loan debt figure into his plans for the economy and would he take executive action to do it? “It does figure in my plan,"
-    publishedDateTime: 2020-11-19T17:53:00Z
-    webUrl: "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/us/biden-was-asked-about-canceling-student-loan-debt-progressives-saw-an-opening.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/16/us/politics/16virus-brief-biden-virus/16virus-brief-biden-virus-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Virginia Democrats, Thrilled With Biden Victory, Aren’t Looking for Carbon Copy"
-    excerpt: "Suburban women who played a huge role in Joe Biden’s victory are not convinced that they need a white man to win their governor’s race next year."
-    publishedDateTime: 2020-11-24T10:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/us/politics/virginia-democrats-governor.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23VIRGINIA-DEMS-photo/23VIRGINIA-DEMS-photo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Joe Biden has made his pick for treasury secretary, says he will announce choice soon"
     excerpt: "Biden's team signaled to allies in the business community that he had whittled his list of options for treasury secretary to at least three names."
     publishedDateTime: 2020-11-20T07:13:00Z
@@ -478,6 +158,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429713/201119-joe-biden-se-510p_fc983fc16986ee10227b7c1e7809a2f5.jpg"
         width: 2500
         height: 1707
+        isCached: true
+  - title: "Transition Highlights: Biden Plans to Name Blinken, Sullivan and Thomas-Greenfield to Cabinet"
+    excerpt: "More cabinet picks are set to be announced Tuesday. President Trump’s lawyers disavowed Sidney Powell, a member of his legal team, over spurious fraud accusations."
+    publishedDateTime: 2020-11-24T00:17:00Z
+    webUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-state-blinken-print/merlin_179822205_c7163a55-8518-42d3-a90f-11d21aa5e9fa-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "EnX9gnhKCxCdOEu4sB5nyY8enozTh+it75EJvieIIpfGXWKLgrCwZA5wWU7LW3Zp9SKdWwqD05Q8HcHue9ix0Wswvlsib17pGjtEnesz3BEUELi5M52I2vxPVEYh5g/vDdxKI+b9IxSZKA8EFOwJW05GNyWkjXYRTMnJcXf10235W9QCtrH0vkEkWExbHBJfC0zAamzapxVliFOMVfdp7uvNenK8GXOdK2FxqsC1FNkjZr2y8dLFASaXVwzS9K/B96TQhnB/6ZOqxnrfcXI/aKoeNTtyDb/YvIOoL+0duw43rf0VQoV6SR6ERL6SZV4AmGNtsNFGahp1nKHCM8JEHmJmN2vtgjk/sEL5KEioSvU=;AZHtfT22HSJZEpcSpG0sdg=="

@@ -1,0 +1,95 @@
+---
+category: news
+title: "Trump pardons Flynn, taking direct aim at Russia probe"
+excerpt: "President Donald Trump pardoned former national security adviser Michael Flynn on Wednesday, taking direct aim in the final days of his administration at a Russia investigation that he has long insisted was motivated by political bias."
+publishedDateTime: 2020-11-25T23:40:00Z
+originalUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
+webUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
+ampWebUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+type: article
+quality: 105
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+related:
+  - title: "Who needs Russia? Loudest attacks on US vote are from Trump"
+    excerpt: "In the weeks before the presidential election, federal authorities warned that foreign countries could spread false information about the results to discredit the legitimacy of the outcome"
+    publishedDateTime: 2020-11-21T18:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b02740a5fba14ae7b27cb28de2934cc4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "GM dumps Trump in his attempt to bar California from setting emissions"
+    excerpt: "GM urges other carmakers to withdraw support of the Trump administration's attempt to bar California from setting its own emission rules."
+    publishedDateTime: 2020-11-24T00:01:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/11/23/gm-trump-california-emissions-biden/6401627002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6401627002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6401627002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/34c91a8fdf1511f71134089b998fd833d033cdc4/c=0-36-512-325/local/-/media/2016/10/25/DetroitFreePress/DetroitFreePress/636129760971560378-GM-logo-with-flag-2-.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "Trump pardons Flynn despite guilty plea in Russia probe"
+    excerpt: "President Donald Trump has pardoned former national security adviser Michael Flynn despite Flynn’s guilty plea to lying to the FBI about his Russia contact"
+    publishedDateTime: 2020-11-25T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
+    excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
+    publishedDateTime: 2020-11-18T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/wisconsin-recount/2020/11/18/8a9b86d8-29b9-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZHR6JA6FQI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+
+secured: "D3Rqn0GbdRQmKuOqfCkSDzyBTYAEqGjLU8dmewWtmU+erB8EMkhMTJDlzyEy8DK/jY2pWQDf8eTXJP70eHTQtvVMSuaFlvnNFhzLFquNVlsNWt0xvxRgaSW4Uow4dHhaLtTwR0q4VspfTrYkLvgJ6rUYhdpEntgV3Wn9yisS+Up3RuoxtRK94ogyaihNj4u5MOWIjt+YFwmNF7WjZPI7R2q/S9EIoivUelxl2DosFN03xd/wT4C2BTB0MXza9OgRn9Nwqnr/8SborgRoIp/18zBG4u12OcwWwgUl6eGrmaNXTiTvXyG3ITrum9jLOFSkvcgKVhD+YeQOL5c7ggxOXnGjHw9812Z440TzrqfPj24=;9ys2o6hRLH1NHyGneqK6Yg=="
+---
+

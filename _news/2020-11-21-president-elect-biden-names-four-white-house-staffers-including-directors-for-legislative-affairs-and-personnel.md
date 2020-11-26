@@ -783,6 +783,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden nominations signal changes for U.S. foreign policy"
+    excerpt: "President-elect Joe Biden has nominated several advisers with deep experience in foreign policy to serve in key Cabinet positions, and world leaders are preparing for the transition of power. The founder and executive director of the National Security Institute at George Mason University,"
+    publishedDateTime: 2020-11-25T20:47:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-nominations-foreign-policy-possibility-iran-nuclear-deal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/ccfb7d1f-a8ad-4994-b4d6-b7c7e17e3de8/thumbnail/1200x630/1f27a442d08fb87aefb11d11845dbaad/cbsn-fusion-biden-nominations-foreign-policy-possibility-iran-nuclear-deal-thumbnail-595755-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President-elect Joe Biden urges unity in Thanksgiving address"
+    excerpt: "In an address to the nation the day before Thanksgiving, President-elect Joe Biden spoke about the difficulty of being apart from loved ones at the holidays but encouraged everyone to follow health officials' guidelines to help save lives in the coronavirus pandemic."
+    publishedDateTime: 2020-11-25T20:49:00Z
+    webUrl: "https://www.cbsnews.com/video/president-elect-joe-biden-thanksgiving-address/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/25/50bc3dc3-0060-4208-a59c-9301e7c7d46c/thumbnail/1200x630/022db9dc6e771834def28b4632977c3e/cbsn-fusion-president-elect-joe-biden-thanksgiving-address-thumbnail-595957-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
     excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."
     publishedDateTime: 2020-11-23T02:19:00Z

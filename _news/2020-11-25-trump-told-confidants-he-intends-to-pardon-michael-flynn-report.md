@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump announces pardon of former National Security Advisor Michael Flynn"
+    excerpt: "\"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" the president wrote. \"Congratulations to @GenFlynn and his wonderful family, I know you will now have a truly fantastic Thanksgiving!\""
+    publishedDateTime: 2020-11-25T21:16:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GjmD_MDpddg/trump-announces-pardon-of-former-national-security-advisor-michael-flynn"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-pardon-of-former-national-security-advisor-michael-flynn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29fb2b28-d307-4579-bc27-d342924a7919/00a3637e-bf17-4ffa-876c-875b70e07bbb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PA Supreme Court rejects Trump challenge to absentee ballots in Allegheny County"
     excerpt: "President Trump’s attorneys asked the courts to throw out ballots that were missing information."
     publishedDateTime: 2020-11-23T21:41:56Z

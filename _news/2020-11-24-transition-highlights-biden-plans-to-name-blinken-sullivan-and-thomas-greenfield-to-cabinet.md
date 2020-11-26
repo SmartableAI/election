@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/22/us/joe-biden-trump.amp.html"
 type: article
 quality: 124
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,152 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Biden poised to nominate Antony Blinken as secretary of state"
+    excerpt: "President-elect Joe Biden is poised to nominate Antony Blinken to serve as secretary of state, people familiar with the matter told CNN, elevating a longtime foreign policy adviser as Biden makes his first round of Cabinet announcements Tuesday.\n    \n"
+    publishedDateTime: 2020-11-23T03:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4VQdW4vb4g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/22/politics/biden-transition-antony-blinken/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119200202-antony-blinken-file-photo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to pick Janet Yellen for Treasury secretary"
+    excerpt: "President-elect Joe Biden will choose Janet Yellen, former chair of the Federal Reserve, as his secretary of the Treasury, according to a source with knowledge of the pick.\n    \n"
+    publishedDateTime: 2020-11-23T22:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnc9d2kP2ZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/23/politics/janet-yellen-treasury-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201123153507-janet-yellen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'The team meets this moment:' Biden introduces top admin nominees "
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris on Tuesday introduced their first slate of Cabinet-level picks, and the six foreign policy and national security nominees and appointees joined them onstage at an event in Wilmington, Delaware.\n    \n"
+    publishedDateTime: 2020-11-24T18:24:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ECfaZ157CKQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-cabinet-nominees-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Key Democrat warns Biden not to nominate Mike Morell as CIA director "
+    excerpt: "A key Democrat on the Senate Intelligence Committee is warning President-elect Joe Biden that he should avoid nominating a top contender for the job of CIA director, Mike Morell, because his record as a \"torture apologist\" makes confirmation a \"nonstarter.\"\n    \n"
+    publishedDateTime: 2020-11-25T03:52:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lDTXoCYea8g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/biden-morell-cia-director-wyden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161101155107-michael-morell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia confirms Biden victory and finds no widespread fraud after statewide audit"
+    excerpt: "Georgia elections officials said Thursday that plans to release results of a statewide ballot audit have been delayed while one county completes its review, but are expected shortly.\n    \n"
+    publishedDateTime: 2020-11-20T00:38:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vD5kvSJ24dE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/georgia-recount-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117101406-brad-raffensperger-1111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden discusses mask mandate and vaccine distribution with bipartisan group of governors"
+    excerpt: "President-elect Joe Biden discussed a national mask mandate, plans to distribute a coronavirus vaccine and the need to help cash-strapped states Thursday in a meeting with Republican and Democratic governors.\n    \n"
+    publishedDateTime: 2020-11-19T22:29:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-a1izFV5Cpk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-governors-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118101350-01-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden names former Alito clerk to top White House job"
+    excerpt: "Dana Remus, who most recently served as general counsel to the Biden campaign, will become counsel to the president in the new administration."
+    publishedDateTime: 2020-11-20T08:39:00Z
+    webUrl: "https://www.politico.com/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/11/17/biden-names-former-alito-clerk-to-top-white-house-job-437005"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d7/61/6bd152df47cabd530cbca1cab477/gettyimages-1284977655-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Should We Worry About Joe Biden’s Age?"
+    excerpt: "Some view his age as bringing wisdom and experience, while others worry about mental sharpness. Re “ Biden Soon Turns 78. Get Over It ,” by Jennifer Senior (column, Nov. 13): I am a 74-year-old retired newspaper reporter who at age 14 met that font of youthful political expectation,"
+    publishedDateTime: 2020-11-20T03:29:00Z
+    webUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.html"
+    ampWebUrl: "https://www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/18/opinion/letters/joe-biden-age.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/12/opinion/12seniorWeb/12seniorWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Joe Biden has made his pick for treasury secretary, says he will announce choice soon"
+    excerpt: "Biden's team signaled to allies in the business community that he had whittled his list of options for treasury secretary to at least three names."
+    publishedDateTime: 2020-11-20T07:13:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/joe-biden-made-his-pick-treasury-secretary-says-he-will-n1248302"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1248302"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1248302"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429713/201119-joe-biden-se-510p_fc983fc16986ee10227b7c1e7809a2f5.jpg"
+        width: 2500
+        height: 1707
+        isCached: true
 
 secured: "s01VnpbFR43EIMAPEyp/HaXkGRaRYU99vGozk8nE4PValYAG10gJZg9+T/ksHqgqVJOTBPKfuM1eVn4mXCYTsmTAqU0rVhT2388T8NvRdWTZ6VmrDwgPjJilFt6RksUQOXC/U9OxggsMRcWSVLmduurVxvY+NJsPEK0yzirl7ZiLTqZGby8nabuqIuDafI2ciOFm6lDwINRdK2aXDYJIJ44Kp/8y2hGTme3BgmMWfCdcCKwMl6JLMKZr55znpeSRsZjBXWwcCiYMy/DTfVLrmM030k8DTgK1GKvqdtvlzWx/xm6NZnSmFDAtDJYSHlBGqtcHmR4quvjQw73Z+vQJX3wbnNMnAxLBfUvrt5osWfeTrgYk9tqwg7MSBhwrucNzR4/CYCrvx3EuCb34CAFQA8+SYEjdR7MM/oMJrc4UEsofhjcsWdDR/F5drUG1vakBHAG+leiWK3uz6+q4OFLWZZHcpEol8KVYb59YATN4uJof8IqKnTWInm47m0kRmUKm9xWt1szrxh5fexhxD/b9qg==;BN/QFz68PbXZmjJhvq55Pg=="
 ---

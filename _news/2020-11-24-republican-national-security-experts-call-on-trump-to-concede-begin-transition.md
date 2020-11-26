@@ -335,6 +335,22 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "Donald Trump pardons former national security adviser Michael Flynn – live"
+    excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
+    publishedDateTime: 2020-11-25T23:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeec7e8f08850ef86c6d06"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Touting drug prices, Trump pushes his election win"
     excerpt: "The Trump administration issued regulations Friday that could lower the prices Americans pay for many prescription drugs. In announcing the new policy President Donald Trump again claimed he had won the presidential election."
     publishedDateTime: 2020-11-20T20:58:00Z

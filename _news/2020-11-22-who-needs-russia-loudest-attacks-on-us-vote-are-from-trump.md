@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/russia-loudest-attacks-us-vote-trump-74325908"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Trump pardons Flynn despite guilty plea in Russia probe"
+    excerpt: "President Donald Trump has pardoned former national security adviser Michael Flynn despite Flynn’s guilty plea to lying to the FBI about his Russia contact"
+    publishedDateTime: 2020-11-25T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump campaign to request recount in two counties in Wisconsin; he trails in the state by about 20,600 votes"
     excerpt: "The Wisconsin Elections Commission confirmed that it has received a wire transfer from the campaign for $3 million to cover the costs of the partial recount."
     publishedDateTime: 2020-11-18T18:04:00Z
@@ -63,6 +79,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump pardons Flynn, taking direct aim at Russia probe"
+    excerpt: "President Donald Trump pardoned former national security adviser Michael Flynn on Wednesday, taking direct aim in the final days of his administration at a Russia investigation that he has long insisted was motivated by political bias."
+    publishedDateTime: 2020-11-25T23:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "iRAU+B2DzQdH53i/wbDGgZzizrxkoOpXgJGdCYyhpMe0Jekr6u7CY2Tx+uVy9Y+OvPxBGDVko2+rOmOflWVMrbv1paUY4dbecE3BSfTTB/F38WLmE21zzasSlYMNZEBHkpe7NMXZFrLP7o6qxsnQ3E/4sOIoIBk2EbcUyQ+MLiO2GaZtF+kh5xBPr1dWlIw+rSOsItARJITjF5+kDDd8JuOJx3Le4MaT9TXmgH8XXXTbu+GdsOKoRKUhjTsOE0Wgyt5c6ITGAlo60dcX+0DFoNJffeRP1fwKtchKg2vuv9OUwwHI/GI1DeJACqdLc8qWI00WPC6B8aIWxMFDnvowwN2f0+k2OIv13gsotv/KGuA=;ty3bcHIq9zU63ApvcYit+w=="
 ---

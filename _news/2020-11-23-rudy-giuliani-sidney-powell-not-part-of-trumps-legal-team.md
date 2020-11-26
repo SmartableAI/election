@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NJ Dem called out for 'nasty' bar complaint against Giuliani, other Trump lawyers"
+    excerpt: "Rep. Bill Pascrell Jr., D-N.J., announced that he had filed complaints with various state bars calling for the disbarment of Rudy Giuliani and other attorneys representing President Trump's campaign, only to be accused of being a \"political hack\" whose actions will likely be meaningless."
+    publishedDateTime: 2020-11-25T13:38:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zGo4NIcO40I/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-dem-called-out-for-nasty-bar-complaint-against-giuliani-other-trump-lawyers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a39d9ca-7e33-421e-862b-e0365bb7572a/56154299-b3ae-4b7d-8280-f85802fb865c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mulvaney slams Giuliani leading Trump campaign legal efforts: 'This is not a television program'"
     excerpt: "Former acting White House Chief of Staff Mick Mulvaney blasted the Trump campaign’s legal efforts to reverse the outcome of the 2020 presidential race, saying this “is not a television program,” and that the push should be led by election lawyers, instead of Trump personal attorney Rudy Giuliani."
     publishedDateTime: 2020-11-18T14:37:29Z

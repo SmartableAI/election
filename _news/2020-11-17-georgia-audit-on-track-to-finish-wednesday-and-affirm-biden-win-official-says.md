@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.ht
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/17/politics/georgia-recount/index.html"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/11/17/world/18europebriefing-photos-04/18europebriefing-photos-04-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
-    excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
-    publishedDateTime: 2020-11-19T23:24:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18TRANSITION-BRIEFING-GEORGIA1/18TRANSITION-BRIEFING-GEORGIA1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Presidential Transition: Georgia Nears Its Recount Deadline, With Biden Ahead by Over 12,000 Votes"
-    excerpt: "Republicans in Michigan faced accusations of racism after refusing to certify results in Wayne County, which includes Detroit, a majority-Black city. A Jewish group denounced the White House’s pick for a federal preservation commission."
-    publishedDateTime: 2020-11-19T23:24:00Z
-    webUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates"
-    ampWebUrl: "https://www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/11/18/us/joe-biden-trump-updates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/18/us/politics/18TRANSITION-BRIEFING-GEORGIA1/18TRANSITION-BRIEFING-GEORGIA1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "0ZwyXp9dXDOnTx3CyGf+ccP2KIAGDlByGD5MXssY/OJe1iZvzxt9qogIg+dQBonBgkRzDxFkZsms06Ag4HR7A3dakf8bmmSzRXsemJMcV8KLKlNAT9gMfsCABPoFk79aB+nmOAkDVstUphWjr+1HvlQ/WcTDsbm3YGFcxdcPuFTMED1jO5y0G1x2gO1+UZyFqgqOketqQRmZ530cmAR3kRTpCB+AOYcKxbwRaA0ZLRNjIcKLZ0RJs7mvAlbbRCxQQyC/i2kDHl/+jXbKgqJcDQOe9E2bNqNgGCL8uh6dznv3UbPoUWEVeYIviA5PJLPSRwniy2lmxSb3SQ37HIRhWREuFHhXN4F1KM+43DYBIc6OL9exHr+8cp8G/IVfWxDgdBGtKn97mWfuaJ+qZ7KqG2Wr/rWySgA8PLMGoF6En1C3sgdq1Evry38Lf0n7UMMr5K9wfPfBv2xpcWBQhIgcl+amhO7sYrYtXrqOiX5WIFGbSkqZiGMS6x5fYpIgoz8h+I/E3+0GZ2ayvRdgx/MH1w==;QLsdXthHZ4WFs7KdxcyZBg=="
 ---

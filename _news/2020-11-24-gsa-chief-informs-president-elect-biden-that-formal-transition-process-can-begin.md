@@ -1031,6 +1031,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden appears with picks for national security team"
+    excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has recognized him as the apparent winner of the 2020 presidential election."
+    publishedDateTime: 2020-11-25T17:16:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-election-11-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c094434b-09ec-4590-8806-81b570e19b92/5e3ac4be-c0e4-400c-af68-efb8b5f34746/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
     excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
     publishedDateTime: 2020-11-23T22:07:00Z

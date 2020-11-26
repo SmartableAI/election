@@ -79,38 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden fills his West Wing. The Cabinet will wait"
-    excerpt: "The transition time between one presidential administration and the next is always frenetic, fast-paced and full of some uncertainty as campaigns try to morph into governments. Doing it during a surging pandemic and an economic downturn makes it even more important to hand things over the right way.\n"
-    publishedDateTime: 2020-11-18T11:02:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lmKNMz1G2eM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/what-matters-november-17/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201116222058-biden-trump-transition-white-house-1-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden considering former campaign aides for top White House communications roles"
-    excerpt: "Several women who worked on Joe Biden's campaign are being considered for top White House communications roles in the Biden-Harris administration, sources with knowledge of the deliberations tell CNN.\n    \n"
-    publishedDateTime: 2020-11-18T20:38:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kf2hQn8sx2E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/18/politics/biden-white-house-press-secretary-communications/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118150049-jean-pierre-sanders-bedingfield-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Cedric Richmond expected to leave Congress and join Biden's White House in senior role "
     excerpt: "Louisiana Rep. Cedric Richmond is expected to join President-elect Joe Biden's White House staff in a senior role, departing the New Orleans-area House of Representatives seat he has held since 2011, sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2020-11-17T00:16:45Z

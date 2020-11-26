@@ -335,6 +335,22 @@ related:
         width: 1440
         height: 991
         isCached: true
+  - title: "Donald Trump pardons former national security adviser Michael Flynn – live"
+    excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
+    publishedDateTime: 2020-11-25T23:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeec7e8f08850ef86c6d06"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Republican national security experts call on Trump to concede, begin transition"
     excerpt: "Imploring GOP lawmakers to speak up, more than 100 former officials issued a statement Monday saying Trump’s refusal to accept the election results is dangerous and harmful."
     publishedDateTime: 2020-11-23T18:47:00Z
@@ -558,6 +574,6 @@ related:
         height: 563
         isCached: true
 
-secured: "UYoJ+pRcwZoK8OZ3nvpZ6Sib5mioemyevOLOxaDzHlV/D+qwSOZxvuEOTTlaaDoLKN5mxIhs4VqZE0hxSjpwxI4vs8Pk65672Bulaiy+q7CBNRbMPelFCcjc8y+zvMswpaPp+TkbAzpsS0KNiqrsYAWR6lYrUX9iBssjxn7SP8n44VkyQzNXkqbHXvYfX+BDz05ZMRIqUyyNmn0sQStTqygyOq5eRhgM0uXvoW2IR1BOlb0vaRexumvf3kfeqKa8udJm+EuOON9KzSPpCjxqQO3JaD1HRehvsR+bVE9s5sB6/1Zn6PEm1TRDe9y0wcm7cjxJ6dT3E7lN5BLtM5l6/0VqUgMyR3zr4OGhS3eavv0=;DlDVF1sEMgqUQUUW9rDrzw=="
+secured: "TPlcjB71uX0X06jQ+z0/NUwrVjvg8NqSeSia0E/8hCyExYAU0AhieAoSBxr7CHypn1ICnf9x6fjMWnWPE+1I56nhvKsxu34qXW0R8TpLWNGwqk8R667rXPKlmir/1sEJ3iHyETzY8WjvR86+X73q+QyJ4t8wTMbKJU0PYAMfEOGbQD46zq2Ww+Oh0yrnMC72nhsTM0lztmkToZL+VOFsh/4MyUA5L5VI7JwBQtVo1SPmV19jVqOe4foRwJ9wwo/TuorqJIdNC6fLOBGVV21Tksoi+31otaKDYOWvZasFlfsfP5nQD1u8dkL9z4J83yzr/1t7x5211vVIOYIi0E6yWbS9Lilsog3xa77hxr1TExhwXluJ4m4ky1pBHKYN9E1gHpe+b72rJA7sm5ovYCzl44bKHc8GEGDYkL4P0fShfR+VmvRojzWNy0Da7rrYMLMial7V5EJyVWO1Gkd7Bowi6u9z/CToCtu7gbOlekZQyV2M7Ps0pJexL5a4izRP6SvfrZNaiZQnuz4eMIus5jB4Gg==;C57Gy7idPRPG0agZgLGlEw=="
 ---
 

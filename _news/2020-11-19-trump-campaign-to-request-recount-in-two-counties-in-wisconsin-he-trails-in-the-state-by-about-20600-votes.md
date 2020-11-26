@@ -63,6 +63,33 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Trump pardons Flynn despite guilty plea in Russia probe"
+    excerpt: "President Donald Trump has pardoned former national security adviser Michael Flynn despite Flynn’s guilty plea to lying to the FBI about his Russia contact"
+    publishedDateTime: 2020-11-25T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-pardons-flynn-taking-direct-aim-at-russia-probe/2020/11/25/98b9badc-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump pardons Flynn, taking direct aim at Russia probe"
+    excerpt: "President Donald Trump pardoned former national security adviser Michael Flynn on Wednesday, taking direct aim in the final days of his administration at a Russia investigation that he has long insisted was motivated by political bias."
+    publishedDateTime: 2020-11-25T23:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pardons-flynn-taking-direct-aim-at-russia-probe-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "Se+fv3t8/4K/KIayNkZs7Eu7O9d5OrY/v+NLdgz7zpkDuj7g/l25btsoiUYO9vqHZWUBdNAqKfWG1FtAque/RQ1aWQIoCMY1bqo8Cb3gcBODvLmssgWPxa6BYYddhjKbBl4uu2vizIBf56uRN3JBeMoQSQIVJq2rZL5jKEXhQ5d/RmKOIigKE/sdcCK1COg/PXTsCH3CXvR7Osj4qkuxBbGoB54ryMz7NV+79GJBOc1GSp0BnCzUDJ3pPKt8gK2JBlwHPfbL5+fB7UVe8Z923ETR27kF1emhqmjRfMnmLXo7uj+4oM0ZCQDhuk2rnmIe3ICMaixzh3EvUkJvyAxzvkicuHXzksgkZ3NKELnoRxgNfUakjDCub3ydX8HC2x5KJEvAGmcrKFm9/7l1soA9eBpuCqj5Fi6NmDy6HjADWfY0jxGmuUwE7bD50w1mizy2D2+BXVwZf+LvxJRL4DkmtaOBbGx3Ua0Yld8fnL0xJnRmjf7pyF/oWJZ5me09bNKV6hY9ju1z75nxf5MLWFGYOg==;Ew/6OLQI/9KvsLP/F7wxkg=="
 ---

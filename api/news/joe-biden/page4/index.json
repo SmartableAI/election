@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.md",
+      "title": "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden",
+      "excerpt": "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
+      "originalUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG",
+          "width": 3000,
+          "height": 2187,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
+      "publishedDateTime": "2020-10-20T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-joe-bidens-love-of-amtrak-tells-us-how-he-would-govern.md",
       "title": "Joe Biden’s love of Amtrak tells us how he would govern",
       "excerpt": "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown.",

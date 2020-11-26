@@ -446,6 +446,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump announces pardon for Michael Flynn in tweet"
+    excerpt: "President Donald Trump has tweeted that he has \"granted a Full Pardon\" to former national security adviser Michael Flynn.\n    \n"
+    publishedDateTime: 2020-11-25T23:23:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J_p3i45a6kw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/trump-pardon-michael-flynn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/trump-pardon-michael-flynn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124225544-01-michael-flynn-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump had a very bad Friday in court with his election cases. They're headed for more action next week"
     excerpt: "Legal experts have been saying for a week now that President Donald Trump's court cases to throw out ballots and turn around his election loss were bound to fail.\n    \n"
     publishedDateTime: 2020-11-14T14:19:42Z
@@ -652,6 +668,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DOJ appeals ruling that said it can't take the place of Trump in E. Jean Carroll defamation suit"
+    excerpt: "The Justice Department is appealing a court ruling that denied its move to substitute itself for President Donald Trump as the defendant in the defamation lawsuit brought by E Jean Carroll, the former magazine columnist who has accused the President of raping her.\n    \n"
+    publishedDateTime: 2020-11-25T23:41:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BaVgdQrtAEo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/e-jean-carroll-appeal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/e-jean-carroll-appeal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP senators shrug off Trump's conspiracies over election results: 'He can say whatever he wants'"
     excerpt: "Top Senate Republicans seemed unmoved Monday by President Donald Trump's baseless charges that the election was \"rigged\" and his false assertions that he actually won the election, even though the results show he lost the race despite his efforts to sow distrust over a cornerstone of US democracy.\n "
     publishedDateTime: 2020-11-16T22:50:49Z
@@ -679,6 +711,20 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201117175058-mark-frerichs-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lara Trump eyes Senate bid in North Carolina: 'It would be an incredible thing'"
+    excerpt: "Amid rumblings that President Donald Trump could mount another presidential run in 2024, voters may see a Trump on the ballot before that. Lara Trump, the president's daughter-in-law and campaign adviser, expressed her openness Wednesday to a 2022 Senate bid in her native North Carolina.\n    \n"
+    publishedDateTime: 2020-11-25T15:24:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/frM8ykpp_YY/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827171557-laura-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

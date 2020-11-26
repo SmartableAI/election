@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
 type: article
 quality: 128
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
         width: 801
+        height: 545
+        isCached: true
+  - title: "State Department tells staff: transition to Biden administration has begun"
+    excerpt: "The U.S. State Department has informed staff that the transition process has begun and a team had been assigned inside the agency to support a handover to the incoming Biden administration, according to an internal email seen by Reuters on Wednesday."
+    publishedDateTime: 2020-11-25T23:59:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-biden-statedepartment-idUKKBN2852X5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2852X5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2852X5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542457377&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1K5"
+        width: 803
         height: 545
         isCached: true
 

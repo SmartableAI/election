@@ -340,8 +340,8 @@ related:
         isCached: true
   - title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
     excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-    publishedDateTime: 2020-11-24T20:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd6afc8f08850ef86c58a2"
+    publishedDateTime: 2020-11-24T19:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
     type: article
@@ -406,6 +406,22 @@ related:
       - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
         width: 800
         height: 800
+        isCached: true
+  - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
+    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
+    publishedDateTime: 2020-11-24T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6408670002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6408670002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?auto=webp&crop=5714,3214,x0,y437&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
     excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."

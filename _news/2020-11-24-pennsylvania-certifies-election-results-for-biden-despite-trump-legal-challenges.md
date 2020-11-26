@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1540
+heat: 1560
 published: true
 
 provider:
@@ -1011,6 +1011,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d839f2e5-8d70-41f4-8154-eb3f68428ce7/40bab2b2-e7da-4186-bd50-ee573bd704e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden appears with picks for national security team"
+    excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has recognized him as the apparent winner of the 2020 presidential election."
+    publishedDateTime: 2020-11-25T17:16:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-election-11-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-24-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c094434b-09ec-4590-8806-81b570e19b92/5e3ac4be-c0e4-400c-af68-efb8b5f34746/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
