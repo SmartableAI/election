@@ -3455,6 +3455,22 @@ related:
         width: 875
         height: 545
         isCached: true
+  - title: "Biden, Trump plan quiet Thanksgiving celebrations at home as pandemic rages"
+    excerpt: "Democratic President-elect Joe Biden and sitting Republican President Donald Trump, like hundreds of millions of Americans, planned quiet Thanksgiving celebrations at home on Thursday, as the coronavirus pandemic rages across the United States."
+    publishedDateTime: 2020-11-26T16:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idUSKBN28612B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28612B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28612B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542537999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP0IS"
+        width: 817
+        height: 545
+        isCached: true
   - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
     excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
     publishedDateTime: 2020-10-22T10:06:00Z

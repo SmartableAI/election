@@ -2,11 +2,11 @@
 category: news
 title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
 excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
-publishedDateTime: 2020-11-25T22:27:00Z
-originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
-webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
+publishedDateTime: 2020-11-26T11:46:00Z
+originalUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
+webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852A7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852A7"
 type: article
 quality: 121
 heat: -1
@@ -1008,6 +1008,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kuaG2H6zJXd88KWBCUzT9XDDoN/ChsLHzifb8Er0eS+N0zLVfwI9UWc/Ug+Tf4Nz8WZxes6e5RP3oC+5+/BoMmQmOyk1vFOIZ2yvzcSWRMIMX7JItQoUfQNd6/2/DAXigqMhSFYBKVv29PsJyWDVr0JtJtHj532FOYYcmzn/T2I/o4rI11lhXwljFyHbDaJ6pzO31uWR/ADZ7vByjRhG3cl6t4gptvVuiH1R9OmB44Qufih0FWz0PxGxHN7dfG4eUSUlFX6VSgnk7ABwyh+WEQINEIzdjc8SzTLs5A+MuME1fXtWFJCLwJVyMKRZwpdgHQrpMkOx1DmHIPoodCJY6mwszFqLSo8JKODb/uT87IJshdJYWspgj+noiKsacSnZzkUuZHKmnIguoJC3ImVY0k5/9mBJvlY7UejyZKdhHVmK3dcJIzKNphOskY2ZMZZvwn7tW+yJhBxsIwLI8IfKxLQcGuoFLmeLl8fSqDjp9+g1xTAuNEb8ZJwCf0tWKeH3GFUJJYI7tB0TSliLtUzYcw==;X3NTed8VivurpICiD6cMEw=="
+secured: "RhsZNzac2cT/fOKinxPvsSsX/602gAjeGj3uk7YDL54Ye8wUhKlOch/ZTlSksamAjFa28eSek8xkYmodpbeDDe5nKbFvcUTmvugH4AJDeQEdCf4DicR4MWUVTiiOyin3TbAj1TNk1UM2zJc1AII3lF1hmliGOIa8MVavPOOaI0P2fGExO4oMQPW/aVS7QkaGbXUmhKqI2ir/T4FlZLQ1N5Iih0i9kjWIoacK2d/QpFYVeEM/UYzA76ksca/SLvf+gAIFi9d6kC1iwK86OvY2q5pkDZJNsSgvldBIzexG2HyQayi9wBL2w5p1WetA7/Mtz0UP3sAL+8nKbxxuX/WMhDDeMBJJR3rp0v++fnql9Zs=;kY5MeEjt+WlqJdVG5BXy4A=="
 ---
 

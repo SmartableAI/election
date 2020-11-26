@@ -495,10 +495,10 @@ related:
         isCached: true
   - title: "U.S. envoy to Iran says more sanctions coming, urges Biden to maintain leverage"
     excerpt: "The Trump administration plans to tighten sanctions on Tehran during its final months in power, the top U.S. envoy on Iran said on Wednesday, as he urged President-elect Joe Biden to use the leverage to press for a deal that reduces the regional and nuclear threats"
-    publishedDateTime: 2020-11-25T22:27:00Z
-    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions-int-idUSKBN2852DD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852DD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852DD"
+    publishedDateTime: 2020-11-26T11:46:00Z
+    webUrl: "https://www.reuters.com/article/iran-nuclear-usa-sanctions/u-s-to-impose-fresh-iran-related-sanctions-on-four-entities-envoy-warns-of-more-to-come-idUSKBN2852A7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2852A7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2852A7"
     type: article
     provider:
       name: Reuters

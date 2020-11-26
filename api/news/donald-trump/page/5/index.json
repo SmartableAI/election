@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-exclusive-tired-of-trump-deutsche-bank-wants-out-but-sees-no-good-options-sources.md",
+      "title": "Exclusive: Tired of Trump, Deutsche Bank wants out but sees no good options - sources",
+      "excerpt": "Deutsche Bank AG is looking for ways to end its relationship with President Donald Trump after the U.S. elections, as it tires of the negative publicity stemming from the ties, according to three senior bank officials with direct knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-deutsche-bank-exclusive-idUSKBN27J0G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201103&t=2&i=1539756536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA208L",
+          "width": 805,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27J0G0",
+      "publishedDateTime": "2020-11-02T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-trump-caravan-participants-who-blocked-new-jersey-highway-face-possible-citations.md",
       "title": "Trump Caravan Participants Who Blocked New Jersey Highway Face Possible Citations",
       "excerpt": "A caravan of President Trump supporters could be issued summonses for obstructing traffic on the Garden State Parkway on Sunday, New Jersey State Police officials said.",
@@ -1513,58 +1565,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/28/white-house-claim-that-trump-ended-the-pandemic-was-poorly-worded-spokesperson-says/amp/",
       "publishedDateTime": "2020-10-28T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022.md",
-      "title": "As Trump Claims Pandemic Will' End Quickly,' Fauci Warns U.S. May Not Return To 'Normal' Until 2022.",
-      "excerpt": "\"People were ridiculed for wearing masks. It depended on what side of the political spectrum you were at, which was so painful to me.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9989a1933623c150489525%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D193%26cropY2%3D1993",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/28/as-trump-claims-pandemic-will-end-quickly-fauci-warns-us-may-not-return-to-normal-until-2022/amp/",
-      "publishedDateTime": "2020-10-28T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

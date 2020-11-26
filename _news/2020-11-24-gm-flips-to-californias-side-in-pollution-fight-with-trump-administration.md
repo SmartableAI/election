@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
+    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
+    publishedDateTime: 2020-11-26T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "acMFo+PslK5cBa8863Pah+gPtaYapSLrd5FUK8uwWYWvU6dSEXLJCmWYNgKIFeTwByzY6JREWqTmukzr2mQyBawe+ppX339JqdgPvLpq3+wWq/8LHnpbTK1QsCmG91E7KXV3IwcSCAfEihgbgVP4n3GPm7/Lv9G3ftzx0+MBDRSiNu1HUQV6z2eQuln7307BMGBkBsaUjUWg1ZRbBcF1e3Tb8mSxkeLnIf/BpGpN2pMxZ3fAnPhGBnLfpoS9w2ZwoTjCMbHuCAxfle6tFFuahwTjeBoz3DAp6xUuQdP1hhTvtCUOzEQHrbOVflK5rWrhxxezOEwRO5AyU54TBm5Co8Hy1u6ftGx/eCUwGBzv8lluLqFEJP9Gv0XF7wF2QCwKh3Eebp/ZJfnP3pUVm1nNwR8hBSDkFaBAfmOgMpNMIiZB9BegiouReN/f2wM1hYLAhN1tltlij2CCcy0eKvl4ZLLmFduVcbC7wUkk4bhT3phrMYshztB+NCnJG91PYgG7KrvBfK81Fn9r8JT53YlrwQ==;dwkhu8DYgMPX0oDY9idXjA=="
 ---

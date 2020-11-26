@@ -432,6 +432,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to face test over access to sensitive information as he inherits Trump's secret server"
+    excerpt: "President-elect Joe Biden and his team will soon have to decide whether to share transcripts of presidential calls with foreign leaders to a broad, security clearance-holding audience, or maintain a lockdown on official transcripts of the calls and other highly sensitive information imposed by the Trump"
+    publishedDateTime: 2020-11-26T16:28:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IhL3ziXaQIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Today: Trump and Harris head to Arizona, Pence to Wisconsin and Michigan, Biden speaks on the virus."
     excerpt: "Holds a rally in Bullhead City, Ariz. 4:30 p.m.: Holds a rally in Goodyear, Ariz. Former Vice President Joseph R. Biden Jr. Morning: Receives a briefing from public health experts and delivers remarks on the coronavirus and health care policy."
     publishedDateTime: 2020-10-28T12:42:00Z

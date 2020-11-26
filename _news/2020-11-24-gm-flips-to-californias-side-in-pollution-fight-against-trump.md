@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-ca
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-23/gm-flips-to-californias-side-in-pollution-fight-with-trump?_amp=true"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9fe705e7064546678e0e662707d2f724_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Up to the people, not the medical profession, to oust Trump: APA chief"
+    excerpt: "The public has had its say: President-elect Joe Biden’s margin of victory was by more than 6 million votes, and on Jan. 20, he will take office."
+    publishedDateTime: 2020-11-26T16:17:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/readers/2020/11/24/up-people-not-medical-profession-oust-trump-reader-view/6406402002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6406402002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406402002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/24/USAT/8c17956c-0537-44e6-afa5-301f770ba35a-AP_Election_2020_Nevada.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GM flips to California's side in pollution fight with Trump administration"
     excerpt: "General Motors says it will no longer support the Trump administration in legal efforts to end California's right to set its own clean-air standards. CEO Mary Barra said in a letter Monday to environmental groups that GM will pull out of the lawsuit,"

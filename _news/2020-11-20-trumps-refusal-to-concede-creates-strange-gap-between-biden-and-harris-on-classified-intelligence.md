@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1741
+heat: 1761
 published: true
 
 provider:
@@ -429,6 +429,22 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727093143-02-robert-obrien-0710-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to face test over access to sensitive information as he inherits Trump's secret server"
+    excerpt: "President-elect Joe Biden and his team will soon have to decide whether to share transcripts of presidential calls with foreign leaders to a broad, security clearance-holding audience, or maintain a lockdown on official transcripts of the calls and other highly sensitive information imposed by the Trump"
+    publishedDateTime: 2020-11-26T16:28:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IhL3ziXaQIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
