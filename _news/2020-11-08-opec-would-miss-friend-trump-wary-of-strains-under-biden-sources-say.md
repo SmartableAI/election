@@ -8367,6 +8367,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Biden seeks unity as Trump stokes fading embers of campaign"
+    excerpt: "On a day of grace and grievance, President-elect Joe Biden summoned Americans to join in common purpose against the coronavirus pandemic and their political divisions while the man he will replace stoked the fading embers of his campaign to “turn the election over."
+    publishedDateTime: 2020-11-26T08:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump is apparently confused as to why news outlets projected the election winner as he rails against the results"
     excerpt: "Trump has refused to accept his loss, and on Sunday expressed confusion at the longstanding process of news outlets calling the election."
     publishedDateTime: 2020-11-08T21:45:00Z

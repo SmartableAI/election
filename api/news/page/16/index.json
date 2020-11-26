@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
+      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
+      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
+      "publishedDateTime": "2020-11-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-indias-hindu-fringe-group-holds-prayers-for-trump.md",
       "title": "India's Hindu fringe group holds prayers for Trump",
       "excerpt": "World India's Hindu fringe group holds prayers for Trump. Posted . A Hindu right-wing group in New Delhi held special prayers for U.S. President Donald Trump's victory in the pres",
@@ -1304,62 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-biden-banks-on-hollywood-support-in-final-days-before-2020-election.md",
-      "title": "Biden banks on Hollywood support in final days before 2020 election",
-      "excerpt": "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 490,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
-      "publishedDateTime": "2020-11-01T14:07:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

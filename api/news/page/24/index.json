@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-10-25-live-coverage-mike-pence-to-hold-rally-at-lakeland-linder-international-airport.md",
+      "title": "Live coverage: Mike Pence to hold rally at Lakeland Linder International Airport",
+      "excerpt": "Some of the attendees waiting to hear Mike Pence speak today include residents, veterans and Lake Wales commissioner Allen Goldstein and Polk County Republican chairman J.C. Martin. Trump campaign volunteers are checking temperatures and handing out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "originalUrl": "https://www.theledger.com/story/news/politics/elections/2020/10/24/mike-pence-lakeland-vice-president-hold-rally/6008696002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/24/NLED/0f5f4423-cbb5-4427-aec0-65063a141acf-2.jpg?auto=webp&crop=1535,864,x0,y204&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theledger.com/amp/6008696002",
+      "cdnAmpWebUrl": "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/6008696002",
+      "publishedDateTime": "2020-10-24T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Ledger",
+        "domain": "theledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-jennifer-aniston-discourages-voters-from-supporting-kanye-west-casts-her-ballot-for-joe-biden.md",
       "title": "Jennifer Aniston discourages voters from supporting Kanye West, casts her ballot for Joe Biden",
       "excerpt": "Jennifer Aniston officially voted in the 2020 presidential election. In addition to revealing who she voted for, she also discouraged voters from supporting Kanye West.",
@@ -1247,63 +1290,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-watch-vice-president-mike-pence-karen-pence-vote-early-in-indianapolis.md",
-      "title": "Watch: Vice President Mike Pence, Karen Pence vote early in Indianapolis",
-      "excerpt": "Vice President Mike Pence and Karen Pence voted early in the 2020 election in Indianapolis. Pence said it was a \"great honor\" after dropping his ballot in the box.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
-      "originalUrl": "https://www.nbcnews.com/video/watch-vice-president-pence-karen-pence-vote-early-in-indianapolis-94470213870",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/f_mo_pence_earlyvoting_201023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94470213870",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94470213870",
-      "publishedDateTime": "2020-10-23T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

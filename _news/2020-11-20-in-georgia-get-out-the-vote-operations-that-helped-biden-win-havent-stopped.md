@@ -415,6 +415,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden’s Start in the Stock Market Ranks With Any in History"
+    excerpt: "Good or just lucky, Joe Biden’s first three weeks in the stock market have been historically solid ones when measured against newly elected presidents of the past."
+    publishedDateTime: 2020-11-25T21:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSO7F48YyJww/v1/360x-1.jpg"
+        width: 360
+        height: 245
+        isCached: true
   - title: "Biden to formally introduce cabinet picks as transition finally begins – live"
     excerpt: "Trump continues to contest election as ‘corrupt’ and ‘fake’ as GSA officially declares president-elect Biden apparent winner"
     publishedDateTime: 2020-11-24T14:28:00Z

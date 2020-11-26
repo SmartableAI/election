@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-29-biden-vows-to-pass-lgbtq-rights-legislation-in-first-100-days.md",
+      "title": "Biden vows to pass LGBTQ rights legislation in first 100 days",
+      "excerpt": "Democratic presidential candidate Joe Biden has promised to make the Equality Act a \"top legislative priority\" should he win Tuesday’s election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/biden-vows-pass-lgbtq-rights-legislation-first-100-days-n1245244",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_44/3423960/201029-biden-mn-0855_646bb7d78a687f1b97f15b66b2c76c74.JPG",
+          "width": 2500,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1245244",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1245244",
+      "publishedDateTime": "2020-10-29T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-watch-trump-rushes-sen-martha-mcsally-on-stage-during-arizona-rally.md",
       "title": "Watch: Trump rushes Sen. Martha McSally on stage during Arizona rally",
       "excerpt": "During a campaign rally in Goodyear, Ariz., President Donald Trump rushed Republican Senator Martha McSally on stage to speak. McSally is in a close Senate race with her Democratic challenger astronaut Mark Kelly.",
@@ -1637,63 +1694,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-biden-calls-for-bipartisan-commission-to-propose-ways-to-reform-the-court-system.md",
-      "title": "Biden calls for 'bipartisan commission' to propose ways to 'reform the court system'",
-      "excerpt": "Biden faces pressure to take a position on adding seats to the Supreme Court as Trump’s nominee advances toward a Senate vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/biden-calls-bipartisan-commission-propose-ways-reform-court-system-n1244271",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_43/3422105/201022-joe-biden-cincinatti-jm-0931_816bd6ee28dec090bc4549dd0d88c9eb.jpg",
-          "width": 2500,
-          "height": 1496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1244271",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244271",
-      "publishedDateTime": "2020-10-22T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

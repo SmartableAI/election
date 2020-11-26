@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump pardons former national security adviser Michael Flynn – live"
 excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
-publishedDateTime: 2020-11-26T00:10:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbee4158f08850ef86c6ca3"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbee4158f08850ef86c6ca3"
+publishedDateTime: 2020-11-26T00:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 type: article
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "W9bUcJO6C3M1qJOzcFOMZF/NWk3Q76c1HwOYYf+LHL0C1fnqxgD+dAIVpuEYq9me1lXdwSfk8PoPCKaGb13rXM3Xhsi20CEqtVujNG5T3Ie1pPWz/9DmSl167Xp/jTkGfyyue1CW+NXIU1S+B4WzhvNWqXqHXDfrLLsnsRRmJZHnRjcWKJBUHPdOrjWQQMjLfYFZtVvTMxbLEZ2k7AsiZRxStkGVK2kCIJnOoELIeXBxyU1s023KJkLxWCZHHrr+MMDrzurfknSA3LKRMkfamxqgjIlHpWx9m31AI84qxVh/fYXchq45PH/Dj0iTvo8ObYUGzVQx26gkOCWCwaVziS+zZ5V7Q0CLfH4jyRIEDk4=;6r2CVnsetndMwwMerXsK3A=="
+secured: "yX/eqTVslXLblpBJpqS5qcNKVOTKK4oTHQCPPDBxCRP9/wkGOUDm6kbJQHyWQsnfPfteSB0qSvHNIn0nu4hwoyqVhjBrZ4aq7HmE5ZeOQpK8uCTRkX41Y4iZuZq0ipwyGbW6NaKZvieVg/VHKcD6i/XbOQxnE2iuQQw4sNbiGAgGFfKafJfBtbqsTXDTVGfoCpkRIvmAxrlHrS2WU0MExG8kdAojHX3K/pFtdHH1VkUiqd0VimzKO7+HIPVWl8S9zWl5jqMapU1cmx7kwfpHt6FD/0hlc/LMTPASGw1xbQ9Jy9IL0i7gijuEA0Re8o40FiWX7ovZXjFzoXU0ejHmxLklSQRX3iOD5ZnZ3WIJvcA=;UKYe/n4CQcSCndB5tWzCIw=="
 ---
 

@@ -321,8 +321,8 @@ related:
         isCached: true
   - title: "Donald Trump pardons former national security adviser Michael Flynn – live"
     excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
-    publishedDateTime: 2020-11-26T00:10:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbee4158f08850ef86c6ca3"
+    publishedDateTime: 2020-11-26T00:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
     type: article

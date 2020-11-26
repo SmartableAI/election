@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-04-pennsylvanias-democratic-governor-calls-trump-remarks-partisan-attack.md",
+      "title": "Pennsylvania's Democratic governor calls Trump remarks 'partisan attack'",
+      "excerpt": "Pennsylvania's Democratic Governor Tom Wolf on Wednesday called President Donald Trump's unsubstantiated claim about fraud in the U.S. presidential election a \"partisan attack\", and said his state was working hard to count more than 1 million mail-in ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-pennsylvania-governor-idUSKBN27K0YU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201104&t=2&i=1539943636&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGA30M5",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27K0YU",
+      "publishedDateTime": "2020-11-04T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-kid-rock-responds-to-lady-gagas-biden-endorsement-shows-what-camo-is-really-worn-for.md",
       "title": "Kid Rock responds to Lady Gaga's Biden endorsement, shows 'what camo is really worn for'",
       "excerpt": "Kid Rock seemed to have a go at Lady Gaga on Tuesday, days after the pop star went viral with her own pro-Joe Biden video.",
@@ -1269,58 +1321,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-trump-appeared-to-back-away-from-claims-that-he-will-declare-victory-in-the-election-as-soon-as-possible-no-reason-to-play-games.md",
-      "title": "Trump appeared to back away from claims that he will declare victory in the election as soon as possible: 'No reason to play games'",
-      "excerpt": "In an interview with Fox and Friends, Trump appeared to back away from the possibility of declaring himself winner before all ballots are counted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "originalUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa168c81df1d50018218811?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/election-day-trump-says-wont-play-games-over-result-2020-11?amp",
-      "publishedDateTime": "2020-11-03T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

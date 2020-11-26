@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-01-biden-banks-on-hollywood-support-in-final-days-before-2020-election.md",
+      "title": "Biden banks on Hollywood support in final days before 2020 election",
+      "excerpt": "Hillary Clinton employed a similar strategy in 2016, when she won the popular vote but lost the Electoral College.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iL0UP84BpNQ/biden-celebrity-endorsements-2020-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 490,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c13facdb-af1b-4373-8d46-17432f01bec0/6c6c594d-6400-49b2-9d62-794f24392062/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-celebrity-endorsements-2020-election.amp",
+      "publishedDateTime": "2020-11-01T14:07:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-01-bidens-campaign-bundlers-include-wall-street-billionaires-entertainment-moguls.md",
       "title": "Biden's campaign bundlers include Wall Street billionaires, entertainment moguls",
       "excerpt": "Democratic presidential candidate Joe Biden unveiled a list of his biggest fundraisers Saturday night, revealing a campaign powered in part by Wall Street executives, Silicon Valley billionaires and entertainment moguls. ",
@@ -1318,63 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-pence-returns-to-arizona-for-final-push-to-flip-liberal-leaning-cities.md",
-      "title": "Pence returns to Arizona for final push to flip liberal-leaning cities ",
-      "excerpt": "In an effort to pick up voters from more progressive counties that voted against the president in 2016, Vice President Mike Pence is returning to the key battleground state of Arizona on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q4ysIw62a4s/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20304053680963.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-returns-to-arizona-for-final-push-tries-to-flip-liberal-leaning-cities.amp",
-      "publishedDateTime": "2020-10-30T11:32:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-13-lindsey-graham-challenger-jaime-harrison-eyed-to-be-next-dnc-chair.md",
+      "title": "Lindsey Graham challenger Jaime Harrison eyed to be next DNC chair",
+      "excerpt": "Jaime Harrison, who lost a costly race to Sen. Lindsey Graham, R-S.C., is reportedly the favorite to be the next Democratic National Committee chair, after Tom Perez announced he won’t seek reelection. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uVu3BBhjUl0/lindsey-graham-challenger-jaime-harrison-dnc-chair",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/c30b26d4-jaime-harrison-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-challenger-jaime-harrison-dnc-chair.amp",
+      "publishedDateTime": "2020-11-12T16:35:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-rep-debbie-dingell-democrats-need-to-examine-why-millions-of-voters-supported-trump.md",
       "title": "Rep. Debbie Dingell: Democrats need to examine why millions of voters supported Trump",
       "excerpt": "Democrats must take a close look at why President Trump received more than 72 million votes in this month's election, Rep. Debbie Dingell, D-Mich., told \"Your World\" Thursday.",
@@ -1284,58 +1340,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/11/health-202-obamacare-may-be-safer-than-ever-biden-will-struggle-expand-it/?outputType=amp",
       "publishedDateTime": "2020-11-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-mississippi-republican-calls-for-his-state-to-succeed-from-the-union-after-biden-victory.md",
-      "title": "Mississippi Republican calls for his state to ‘succeed from the union’ after Biden victory",
-      "excerpt": "The Magnolia State voted to remove the Confederate battle flag symbol from its own state flag earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WVC5I7Z3RBSDDNDGK4S3YOKSU.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/11/11/mississippi-secede-election-republican/?outputType=amp",
-      "publishedDateTime": "2020-11-11T04:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

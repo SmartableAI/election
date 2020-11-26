@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-30-chuck-todd-slammed-for-saying-joe-biden-takes-covid-19-too-seriously.md",
+      "title": "Chuck Todd Slammed For Saying Joe Biden Takes COVID-19 'Too Seriously'",
+      "excerpt": "The MSNBC host said that Biden was accepting a smaller footprint by not engaging in high-risk campaign acitivities",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
+      "originalUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/09/09/chucktoddbig.jpg",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chuck-todd-slammed-saying-joe-biden-takes-covid-19-too-seriously-3072708?amp=1",
+      "publishedDateTime": "2020-10-29T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-trump-administration-removes-gray-wolf-from-endangered-species-list.md",
       "title": "Trump administration removes gray wolf from endangered species list",
       "excerpt": "The Trump administration is dropping the gray wolf from the endangered species list under the assertion that the animal's population has sufficiently recovered, a move conservation groups decry as shortsighted and promise to challenge in court.\n    \n",
@@ -1269,62 +1321,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-buttigieg-defends-biden-claims-dems-would-have-chosen-somebody-else-if-they-wanted-fracking-ban.md",
-      "title": "Buttigieg defends Biden, claims Dems 'would have chosen somebody else' if they wanted fracking ban",
-      "excerpt": "\"The Story\" host Martha MacCallum pressed Joe Biden campaign surrogate Pete Buttigieg Wednesday over the 2020 Democratic nominee's position on fracking and the oil industry following repeated attempts to clarify earlier comments on the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XrRnzjXbNyU/buttigieg-biden-fracking-2020-election-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c0cb2aca-19a3-4646-bc5d-0063433e4f4a/f7d5a14f-7792-4ac9-82b6-499d188861d6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-biden-fracking-2020-election-democrat.amp",
-      "publishedDateTime": "2020-10-28T17:57:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

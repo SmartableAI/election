@@ -8368,6 +8368,17 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Biden seeks unity as Trump stokes fading embers of campaign"
+    excerpt: "On a day of grace and grievance, President-elect Joe Biden summoned Americans to join in common purpose against the coronavirus pandemic and their political divisions while the man he will replace stoked the fading embers of his campaign to “turn the election over."
+    publishedDateTime: 2020-11-26T08:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-seeks-unity-as-trump-stokes-fading-embers-of-campaign-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "OPEC would miss 'friend Trump', wary of strains under Biden, sources say"
     excerpt: "Key members of OPEC are wary that strains in the OPEC+ alliance could reemerge with Joe Biden as U.S. President, sources close to the organisation said, and would miss President Donald Trump who went from criticising the group to helping bring about a record oil output cut."
     publishedDateTime: 2020-11-07T22:51:00Z

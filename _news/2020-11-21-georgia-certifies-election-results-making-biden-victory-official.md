@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-secretary-state-certifie
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-secretary-state-certifies-election-results-making-bidens/story?id=74315511"
 type: article
 quality: 140
-heat: 1340
+heat: 1360
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542313881&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN14E"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden’s Start in the Stock Market Ranks With Any in History"
+    excerpt: "Good or just lucky, Joe Biden’s first three weeks in the stock market have been historically solid ones when measured against newly elected presidents of the past."
+    publishedDateTime: 2020-11-25T21:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/joe-biden-s-start-in-the-stock-market-ranks-with-any-in-history"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSO7F48YyJww/v1/360x-1.jpg"
+        width: 360
+        height: 245
         isCached: true
   - title: "In Georgia, get-out-the-vote operations that helped Biden win haven’t stopped"
     excerpt: "The get-out-the-vote efforts of civic engagement groups like hers, which helped Joe Biden become the first Democratic presidential candidate to win the state in nearly three decades, have been ongoing since Nov."
