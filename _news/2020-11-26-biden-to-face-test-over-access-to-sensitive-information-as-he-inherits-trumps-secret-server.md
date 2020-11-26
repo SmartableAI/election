@@ -2,7 +2,7 @@
 category: news
 title: "Biden to face test over access to sensitive information as he inherits Trump's secret server"
 excerpt: "President-elect Joe Biden and his team will soon have to decide whether to share transcripts of presidential calls with foreign leaders to a broad, security clearance-holding audience, or maintain a lockdown on official transcripts of the calls and other highly sensitive information imposed by the Trump"
-publishedDateTime: 2020-11-26T16:28:09Z
+publishedDateTime: 2020-11-26T19:38:29Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IhL3ziXaQIQ/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IhL3ziXaQIQ/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
@@ -1286,6 +1286,6 @@ related:
         height: 629
         isCached: true
 
-secured: "FgauOIzdV0Z0GzvyaRIN9zX6btDlOTFlOTAymRL1R3wwAY21m8cwiyR55Diq86pNYtUWWnqjYnRNKgccIqRK3Y/HRnMHrD5pKhAVUx3CnfBK4BDRkXbLGgkwz04iUQdQSHgFoWLzNv63Y29ZmpVp8HEd6KOxkXAC6+pj1tKTF6E6KwJN++PR78Qm+lShWKmet3GscsptqV8cyCw1bO+Ip3yfVYvVATyW4rrOMi+Ik/hMiRZ60loRUfDu1G38Gw81JKVmewm+6CmEkg5vOuGyD8llVs55lH2FQ67CafW/HlT3gY+vps3MC+7RQpNfOLXS7Yc69wD9+VZpuyDA6aM4Al2zbI5h5jY8p2yg/UWjCog=;cO+jbuvjhHY9LZza4pl/aQ=="
+secured: "HV3NX+CSZpbRDUv3QivDOZlJMLJvrQjgqfPc6xJQ2YRK/Gqrar4q4648Keiy6Kbe+hMVjZB4UGS6xztN6fDHxAh39K6Kudma0V1ag6b697EX/7DDfkU84rpmKSqOqyi3aspal+2lcvQo9g9C09otyYGzk5fLgcPMkjjK4xd9+qZwOh2MzrgNK7eG2T9hs7Vvb6LgzvV4+5O9esVeV6awXYC+KjeQJHgsgv6GEWURhqCn0JW8vk70VKQnOg5yFwgeTgQ1NQHgNSC36IYYoPndOIC9mio7N6yGmm0JeX5+XyTG6CFVPi5Pwvn/VvnOMGC3iUG3UVy3htAmd61JZ2qEA44gTK6/nKZKfcDK65fldP0=;r/CEyDqEbv19mKGhpspuSQ=="
 ---
 

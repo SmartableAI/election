@@ -451,7 +451,7 @@ related:
         isCached: true
   - title: "Biden to face test over access to sensitive information as he inherits Trump's secret server"
     excerpt: "President-elect Joe Biden and his team will soon have to decide whether to share transcripts of presidential calls with foreign leaders to a broad, security clearance-holding audience, or maintain a lockdown on official transcripts of the calls and other highly sensitive information imposed by the Trump"
-    publishedDateTime: 2020-11-26T16:28:09Z
+    publishedDateTime: 2020-11-26T19:38:29Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IhL3ziXaQIQ/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/26/politics/biden-trump-sensitive-information/index.html"

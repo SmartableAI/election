@@ -228,17 +228,17 @@
     {
       "path": "_news/2020-11-26-progressive-groups-want-squad-member-rashida-tlaib-in-biden-cabinet.md",
       "title": "Progressive groups want 'squad member' Rashida Tlaib in Biden cabinet",
-      "excerpt": "Biden said this week he already has ‘significant’ progressive representation in his administration.",
+      "excerpt": "Progressive groups are pushing President-elect Joe Biden to include more candidates who lean further to the left than him in his cabinet, including a member of the “Squad,” as they seek influence over policymaking.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXfZl5XHjvo/progressive-groups-squad-rashida-tlaib-biden-cabinet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXfZl5XHjvo/progressive-groups-squad-rashida-tlaib-biden-cabinet",
+      "webUrl": "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet",
+      "originalUrl": "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -254,7 +254,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp",
-      "publishedDateTime": "2020-11-25T18:18:24-08:00",
+      "publishedDateTime": "2020-11-25T18:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -278,6 +278,7 @@
       ],
       "topics": [
         "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -407,7 +408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {

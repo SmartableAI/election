@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Progressive groups want 'squad member' Rashida Tlaib in Biden cabinet"
-excerpt: "Biden said this week he already has ‘significant’ progressive representation in his administration."
-publishedDateTime: 2020-11-26T02:18:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXfZl5XHjvo/progressive-groups-squad-rashida-tlaib-biden-cabinet"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xXfZl5XHjvo/progressive-groups-squad-rashida-tlaib-biden-cabinet"
+excerpt: "Progressive groups are pushing President-elect Joe Biden to include more candidates who lean further to the left than him in his cabinet, including a member of the “Squad,” as they seek influence over policymaking."
+publishedDateTime: 2020-11-26T02:36:00Z
+originalUrl: "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet"
+webUrl: "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet"
 ampWebUrl: "https://www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-groups-squad-rashida-tlaib-biden-cabinet.amp"
 type: article
-quality: 175
-heat: 175
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YHOPjaXtfsx8oFQzauK9502rq0AIxLQQcyKBz+5H6CJewvInbnuqoAYKKHRIk0dph2BeD3ZCpbh/xRWRGIz7JVa2eI4z9fU6pcrxo513nXQMUxCIvWxe6F29PflY9mQcre9U33ofG3niOKnsdLa7+eC0tI/mgC7pplmvCgTAkBk2K7Ug4GOzQtPmo4B94uq0//y8z+bmV8e+fvCEulH8nlpu6esbGzSbk7rN7cL4k4B+Rk9j1nD7e15RPjUnyudBRrd4CHD7xDOizWCyHOLWqzFSJX5q2LljirOFjqxmbWV0oE2EFmINcU3eqMtCIeA5cJyKqum5uEa2ezKYV/Lm0FZcxfsoB7EnL8LOSqC7mSI=;8i0d4abFUSnNGNjZT4kVVw=="
+secured: "jcal+v3rHhmU7Muyjm9JUO5IccEOUW7zGe12bDPESkbcyeLMhwx4mmtMmlUIGHQNfFegRDtAdbls/1hVLX/frWcg2YHxwq74Go3JLxZCsZ+VK8ZzFL6jNc3fEgI0/t02uvY7YeZ5KNU4rxdCsxDauHskI+kBSzMURwmpTXRaSwaMwvQddzRQQ3PtRH616s6a2kQ5oH24xFqDTjXybR4l80NLm8+m8p//hRbGnEOSOzPfnSe15RMxc2GJkxM4TwVmNsNLsnoby2XeW6rxhrsh6KhzlRTeqAUsUZlji2WxVQaJNbJD0HJpk6+5yOWfEpefwGmF26kCS/Fh/UD9X4hHN7wkPI1M7PukMAsFw4Dy9+g=;UvFbTYgRDVvI8KnAqj5scw=="
 ---
 

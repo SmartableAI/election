@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump pardons former national security adviser Michael Flynn – live"
 excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
 publishedDateTime: 2020-11-26T00:10:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef2348f0872410b29eb02"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef2348f0872410b29eb02"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbee4158f08850ef86c6ca3"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbee4158f08850ef86c6ca3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 type: article
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "I1jC2rBAcWI17LR4qq5SH4E3pscNMDdo43F4PVoGjc7jydYq5xLCeP5cWMnoOnTK2pnE2hqArVXZoHF+vygnjuDw7wic9yJccl+0QXCb3zvcKYHZw5HRNoIZ3LP5IJfXFE3e6lWtHqE2+aYwJ2pBo02Sc45WXAht8cf3MlPXYf+Esiv38OMzK5rJjVx0V1hVyoux0J8LHIbMBCIXb3+yzWHZf83KXAAX5xokcfM8HJrwMtOYKorkAkBmWIMP+wQeYEbPnRBbPffEcNe3Mzg4sEnSZA11HIiI//0XEjVJLLgwgaroi3vk1TWNhGqUCZLkYPvnSPCkCD2tKnagHGtj+8Mw/FSFKz+QeoT10Om9RI4=;iEK3mH0yU866Rmz7hGtJgQ=="
+secured: "f6SQ11mnPqJjZjj06DlYA7VsCOXxBxy/23w7c7PzX2/bByu4qbvMX/P7VPNhIPjtIMlR1Q16oCObhMQH3VXlYbYdasGREAXYvFwYjP1fKtWSHa/hloksnNZqaqwS00B8hZM4lP7BDGFvD7X4U+EMeu0dAz2yD4/xPS2lr+yoTGKqEiP3004E+TAAMsTL3U21aXG9R6qEqc4/iLcjFOvrJa5Rcd/2hK6lVrNAfbVcY5U0lAHpenzmFnTtTNsozZ8M5vTNZIu2BRIUhUwHg8j03Roefxt4zJUXTmL8+P4aTxJzzTvPrNh3CFv7ufXne4k08tCOYowe2obk7ZSKZ/ht0MFoz2le9jnKIyvxGOGN1gg=;68J9mdBKRnXel+OsYt8jug=="
 ---
 

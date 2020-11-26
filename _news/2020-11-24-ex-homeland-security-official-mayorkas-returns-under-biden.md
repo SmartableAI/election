@@ -861,14 +861,14 @@ related:
   - title: "Biden continues to work on transition"
     excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-11-26T17:48:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201126180341-president-elect-joe-biden-continues-to-work-on-transition/"
+    webUrl: "https://www.cbsnews.com/live/video/20201126190310-president-elect-joe-biden-continues-to-work-on-transition/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07869365_1606414204.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07870338_1606417804.jpg"
         width: 1280
         height: 720
         isCached: true

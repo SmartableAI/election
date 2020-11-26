@@ -159,6 +159,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Foreign Policy Vision Takes Shape as He Selects His Team"
+    excerpt: "President-elect Joe Biden has started selecting core members of his foreign policy and national security team, revealing a slate of experienced — if not all that surprising — Cabinet picks with the goal of returning some stability and credibility to America’s relationship with the rest of the world."
+    publishedDateTime: 2020-11-26T17:49:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528196_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "How Biden Can Restore U.S. as Leader Against Global Warming"
     excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. One of the most convincing things about Ms Powell's presentation was the reaction of the fake news outlets."
     publishedDateTime: 2020-11-26T14:57:00Z

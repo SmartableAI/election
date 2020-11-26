@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Attorney Sidney Powell files lawsuit seeking Georgia election results be decertified, awarded to Trump"
+    excerpt: "Attorney Sidney Powell filed a lawsuit in Georgia on Wednesday evening alleging “massive election fraud” that changed the state’s results in the 2020 election.  "
+    publishedDateTime: 2020-11-26T19:19:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JulVZ221GMs/sidney-powell-lawsuit-georgia-election-results-decertified-awarded-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/sidney-powell-lawsuit-georgia-election-results-decertified-awarded-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sidney-powell-lawsuit-georgia-election-results-decertified-awarded-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf407dbe-963a-40a3-8322-c1dbe39aca95/9f1f08cb-e1ac-41ed-9f4d-a7479075a40c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Perdue, Loeffler back Trump call for Georgia recount, more signature matching"
     excerpt: "As President Trump's campaign officially requested another recount of ballots in Georgia over the weekend, Sens. Kelly Loeffler and David Perdue, the Republicans in the critical Jan. 5 Senate runoff races in the state, backed the recount effort as they continue to slam the handling of Georgia's vote"
     publishedDateTime: 2020-11-23T14:21:58Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden continues to work on transition"
 excerpt: "Watch \"President-elect Joe Biden continues to work on transition\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-11-26T17:48:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201126180341-president-elect-joe-biden-continues-to-work-on-transition/"
-webUrl: "https://www.cbsnews.com/live/video/20201126180341-president-elect-joe-biden-continues-to-work-on-transition/"
+originalUrl: "https://www.cbsnews.com/live/video/20201126190310-president-elect-joe-biden-continues-to-work-on-transition/"
+webUrl: "https://www.cbsnews.com/live/video/20201126190310-president-elect-joe-biden-continues-to-work-on-transition/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07869365_1606414204.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/11/26/story_07870338_1606417804.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -1022,6 +1022,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Enmei7tuEnRyjDBX4kbFbd1r9iDrmfUFbKFV7+GhoywuUCzmvqisuedAzZ1fcLOqEJok9Jil/og4okZ6Y4AXVY9B7Y7qxr8nUgTbeLifkoASXx9Aotc+sPdygwyjzZCTeQAqwTJ8txFxSKjwWAKosRGP/mwv03D5yryGQzOBvwJmon8es9OTj8WclodyG9Mtq45xmT3rrrOc5HFg3jqXY28ik7cHQt4ivtbR+C7c1fI/kuqxC8XPsKpnSkOqbT+gge5HxDZegazozIIoyrQUD04572sdA68Qfy66l5I0i255wf+MskMZTU67NOHZge3cUAFzUGmC1SAXNfupkxIPtbm2c+wXJmvVrJvmMGAFsGM=;pBLwtBHTfDUmOtZyM9f7hg=="
+secured: "VOybMt0SHWZb8ECmH9nWqvRSavxoG9UwxrBLK5JlZSujxP2csxMsOdeyss/oYMgUmN+Na+sJNqIb59xxH5v3t7Q7dIpbCa4Ayht9kQS3D/0N+HXGT+T41c2HAvEo0djulr16GYO1vMOkyZgRXVdBVXDuV9zfM1Pqpks9do/9Oj4nLvLjDz/Uw0kcz30hyUBKrqvXhmLmQzzq/HGDbnuRukkR7nJlAaopbVm3LNAZ7dmouWpskC/FYRWvJvGUeksOSr4k9l+mE+1lZ+NdZGOaytlgG8S4+w9xLhGMa/Y/KpDNurk2RTxZcl16fwdyHpCf96rd8kK1lLrvLHAIXSvPaUe/mt0qW4PaBa9CHgJYj+w=;jZ8pb+5gl7uYfUrm0VjaRA=="
 ---
 
