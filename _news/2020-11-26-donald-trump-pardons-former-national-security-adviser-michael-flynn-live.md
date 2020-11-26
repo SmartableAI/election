@@ -2,9 +2,9 @@
 category: news
 title: "Donald Trump pardons former national security adviser Michael Flynn – live"
 excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
-publishedDateTime: 2020-11-25T23:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeec7e8f08850ef86c6d06"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbeec7e8f08850ef86c6d06"
+publishedDateTime: 2020-11-26T00:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbef9cf8f0872410b29eb47"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
 type: article
@@ -411,6 +411,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump pardons former national security adviser Michael Flynn – as it happened"
+    excerpt: "Flynn had pleaded guilty to lying about contacts with Russian operatives – follow live"
+    publishedDateTime: 2020-11-26T01:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates?page=with:block-5fbefa9d8f080d5c1f5d6930"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/25/us-election-donald-trump-joe-biden-coronavirus-covid-19-thanksgiving-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/24f99c0d55da1b4d269627546f6fde1b348710d6/0_162_4928_2956/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3362e2ec893a9005aef414c6b8f5edc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
     excerpt: "Trump fires top security official who vouched for 2020 election as he pushes unsubstantiated claims of fraud after loss"
     publishedDateTime: 2020-11-18T10:54:00Z
@@ -543,6 +559,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump pardons former national security adviser Michael Flynn"
+    excerpt: "President Trump on Nov. 25 granted a full pardon to former national security adviser Michael Flynn, who pleaded guilty to lying to the FBI back in 2017."
+    publishedDateTime: 2020-11-26T02:48:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-pardons-former-national-security-adviser-michael-flynn/2020/11/25/55ceea45-2347-4ba4-b70c-105f66a1a46b_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-26-2020/t_b599333769cf43668e66033a69e70a56_name_Manuel_Balce_Ceneta_AP_scaled.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Trump's decision to withdraw troops from Afghanistan prompts security concerns"
     excerpt: "The Trump administration this week announced plans to withdraw 2,000 troops from Afghanistan by mid-January. Critics say the withdrawal could lead to more violence in the already war-torn country. Imtiaz Tyab reports."
     publishedDateTime: 2020-11-22T22:39:00Z
@@ -574,6 +604,6 @@ related:
         height: 563
         isCached: true
 
-secured: "tgbyGLEmfC38FIKh+8RltfLvjUHCeWGsM7dqyX0lTj5nE1Dc3GYZ4yyYvicZWhuE+IIhsL4UTsIkzylgNSnChZ2zCFMpo5R7n0ZlNe5G6H2J7nO9PHi68GUQ5mP9+1/efhvkWIzZx/ngZ3zOcx47dTVbhvF1t5q6zS4604lRS3lM8s+jHFT4x6yA6AR1JCDC4qplmNru9VEq3nMxLzaOqSCF2ZeyjntcMyb17jHtH6msxiLo8OAr6VEOnyR/7TZ7gIRFXlDtwu0MEqoLPeyOje8b7sw1PwzXTdZxmxClnl9FMjoFvejWIGGCHAwm+f9H3hpdjF01c7N/bvGAK10KK1+snmwIgtcL+Fqo9H39Mf8=;G1rUmu0gal4jgEJYW9z5Hg=="
+secured: "TSLXYY27lp2CaAsDfyh/3QbLwQmOreBchloyxHce95Rf4DExshSQcIT3JLXmWldDQduQPL+hC8l0wr4tvnSA7p6xH6l/zZ0fMRag5QfXKalgaAYy3NFjsv2QQ8kdg4EDTQSbSwNXRYSav1wCknrwR//w8BZcDW0JbdPcr7/xPAcebQ/nqtfYw88Xj9jdITyDkGhogoOLabLUMoihl/vslOM/U5D2DlBPIoEx2QXKeBOpSDeWwI3Hy5J6vgbuUUCMkm7GWgvgyjDeR6cY6MaxGw03xwB5V36yvBpZ85S/ictKM0R8NyvNNcM5Ezhm8be+e/u3KsxyXswYbVyU8zb2U3RytPUDOBa7uxNuVcmQOR4=;HXI+3jNc3N/2WAxXvsKjnw=="
 ---
 

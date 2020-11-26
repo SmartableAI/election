@@ -319,6 +319,22 @@ related:
         width: 775
         height: 545
         isCached: true
+  - title: "President Trump pardons Michael Flynn, who pleaded guilty to lying to FBI"
+    excerpt: "President Donald Trump announced on Twitter he has pardoned former n Michael Flynn. \"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" he wrote. \"Congratulations to @GenFlynn and his wonderful family,"
+    publishedDateTime: 2020-11-26T02:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/michael-flynn-gty-jt-201125_1606339144975_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit asks judge to sanction Trump campaign for spreading 'disinformation'"
     excerpt: "Lawyers for the city of Detroit have asked a judge to reprimand President Donald Trump's campaign for spreading \"disinformation\" in a court filing about the certification of a Michigan county's election results."
     publishedDateTime: 2020-11-20T20:25:00Z

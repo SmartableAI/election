@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's national security team still has significant gaps"
+    excerpt: "When President-elect Joe Biden formally introduced members of his national security team on Tuesday, there were significant gaps on stage: proposed leaders for the Pentagon and the CIA.\n    \n"
+    publishedDateTime: 2020-11-26T00:01:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSAjji1zlow/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/25/politics/biden-natsec-vacancies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/25/politics/biden-natsec-vacancies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124132329-03-biden-admin-announcement-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden poised to make first Cabinet announcements next week, eager to respond to Trump's sabotage attempts"
     excerpt: "President-elect Joe Biden has expedited the selection of his Cabinet and is planning to make the first of several key announcements next week, an official said, as part of a concerted effort to show that he is moving forward despite President Donald Trump's increasingly brazen attempts to sabotage the"
     publishedDateTime: 2020-11-20T00:37:52Z

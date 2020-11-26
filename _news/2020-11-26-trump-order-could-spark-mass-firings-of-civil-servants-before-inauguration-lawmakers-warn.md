@@ -2,9 +2,9 @@
 category: news
 title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
 excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
-publishedDateTime: 2020-11-25T22:15:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-transition-civilservants/trump-order-could-spark-mass-firings-of-civil-servants-before-inauguration-lawmakers-warn-idUSL1N2IB01Y"
-webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants/trump-order-could-spark-mass-firings-of-civil-servants-before-inauguration-lawmakers-warn-idUSL1N2IB01Y"
+publishedDateTime: 2020-11-26T02:56:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
+webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28538O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28538O"
 type: article
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542482633&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1PZ"
-    width: 787
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542487310&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP00M"
+    width: 817
     height: 545
     isCached: true
 
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "yi4SpodJLXQHJUOSwiuelbUpgz6fZ+YX+xLAcIddByW4kXiS3D1s01ZaJSj17DYiQiuiQ4ICBQc/RNtjBqPWvUnZ+G8z5MHidrYjmzPEQuQkQDyrtLRRTpwccy1lvKqBURGglUAdgG/UGrgbzYV7IzXIqFC3H3aH5JoT7DQVHtqR6iwf1TklbAaSC4/bvlOvFCLyGRtYHOMNbPakLe0Rd2gLcm/kK9ySJmmNh+g0GEWaDIq7qve/YANrv25esoYNIwsu8towoVi5/aE+FmRCS9ZrxSdSM7XIWwnulEGcmVkHyBbgGSj3OIuDH0PgHtn98BauNEYXToa3+8u3slWf2hE3pUbFZLQ0PWv/cVzELR8=;KQBC7FDb47Vf7xQc8cWcMg=="
+secured: "1g4nljIg2SzRYO1Bc7xeJaLlFa4gQ2Fwqq2mKulDrtmokMMjip9PyfuQl8cnusVN6tb8+HjLN996KjemQuSXPkOLd8szda8ybodwWcncF/xK7SgJAGDATcK4Mz/mbDW4Ru2LSQcbLwgMepdWOeTy1Lr4NwFbQr7QQJMhuElZ1yXvayhLjGEdYX2soivCgs+lo5fzCw9DJsENZndlEIAw3pjLoje/3Qhf5wRxcx3TRyInumaxY1TtdXJASJcnvYR/7QPZO2ttYS9779wRP6JL5nDUBbLsnIBYmXuNXpWBfjllf2AZdMSgXXmptIXyZrkYKUJINPmdbXx8UpdnVdgr9PPp1qal5GWZ4l8asJczQKI=;w9x2BfJ7FcSRabSxUKYcEQ=="
 ---
 

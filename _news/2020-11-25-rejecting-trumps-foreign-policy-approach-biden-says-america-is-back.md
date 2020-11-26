@@ -2,11 +2,11 @@
 category: news
 title: "Rejecting Trump's foreign policy approach, Biden says 'America is back'"
 excerpt: "President-elect Joe Biden said on Tuesday the United States will be \"ready to lead\" again on the global stage, turning the page on Republican President Donald Trump's \"America First\" policies as he pledged to work together with the nation's allies."
-publishedDateTime: 2020-11-25T06:15:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2841C8"
-webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN2841C8"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN2841C8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN2841C8"
+publishedDateTime: 2020-11-25T14:24:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
+webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN2841BI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2841BI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2841BI"
 type: article
 quality: 140
 heat: -1
@@ -22,11 +22,11 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201124&t=2&i=1542321930&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAN1GU"
-    width: 801
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542491639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO0PM"
+    width: 817
     height: 545
     isCached: true
 
@@ -1852,6 +1852,6 @@ related:
         height: 563
         isCached: true
 
-secured: "WoZOWGD5jZD6fNmWr9fpa0YFV7Y/lqchfM5JmIuXlbvyylsk12zp5q9cnUsYs/N/OHrwmB+nWc5eMVODJyXck6yEmDwDoRtAotGylHDjfm0WSThLWg2Hhbol9grm/giN1ZaqNHmY9brEO4THL+MvU1ubPWihIpB9GStI55wH57DX6hpoZell+sGbpeTF6kl8S6BhARyYAC4/M3Cz2642cQxfH6eajgqfNWOE+3TqRGY9Zqch/uyBJrrHtyclgOfgHCiKXj3UYXahsMfDcIZJSloHyUyZM3lGB/2Qndnql9BkJ6KWSZtjsKwylRdrHWP/penuuSnu5Dg9yzqGT0DbNJ+mJlwHcGjygaL+rtOS4pTdm3DseaAh0K3siTVAD46M/qpmDb/nB19sMZaBQQvXw05+d2STjb7KfNbrxOWte2uNZtDPZcpHFZue5tB+UZUHteUM6WqU50UG6PUVdsDYiusZiHDub+w6Zb4YGycoVC/eVI6Nf9gTZb5XkvQvMtOZOk3KwB4CMFYUbd57b1x27Q==;MS3AMLa44ZOLwFu6a5BS0A=="
+secured: "V8pwxkHF2ZMr8D2LWBOT3zWWEn1Kej7ON4447R0pAiaWO0QJ+2kdnEAapEBkDGymEuIuNJUJ6o3CroRWKWL1W4CBgwEEsJB+o7N9Mm9uNuj6Ia1pqkTXNVRn118+7VBUk7AshY02OHTC0uHI4Fcye6IScYs0hI4Va5HW6XKWj0Q23rUzYGhZSwWkjFGwxCd+sAAqPJcXg02vAGJOzhemk9sBW1noVtTA0icIXOocT2gCAXvLDLq1xZEuTpacYh8AYmZCnEO949O5gIAClUWyQUiofHcy16dd+xhdQP/dRbMLt2lrAHC4Bb+n5PhXk2VgqvHFYfgemJXxUJ1LNJcDHYPNEv0//arTJxJdIY+of7U=;/amqBXG6ZOFSDuWeql/M7Q=="
 ---
 

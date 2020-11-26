@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-drops-lawsuit-challe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-drops-lawsuit-challenging-michigan-voting-results.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/302a6c03-2397-4711-b51e-017975e01310/a4ae4050-9975-4bf0-a30c-4e40959ae5a4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Says He Has Pardoned Former National Security Adviser Michael Flynn"
+    excerpt: "President Trump said he has pardoned former national security adviser Michael Flynn, using his lame-duck executive power to protect an ally who pleaded guilty to lying to the FBI."
+    publishedDateTime: 2020-11-26T02:25:00Z
+    webUrl: "https://www.wsj.com/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532?mod=breakingnews"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-says-he-has-pardoned-former-national-security-adviser-michael-flynn-11606339532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 134
+    images:
+      - url: "https://images.wsj.net/im-264930/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "2IYdztLPHFu/JM1OkmRSq6ijKb+TM3fhhLC/zah258wOu2pgxQ5DZNQcUnpC85kRkTUcSBMBC5KhFh52RhRLhB3cDXxVhlcYzZKL273pu3w0lmDhpmJaA5Rm86UpgT3+wkxyxDhD+zaKi9vYOL8a066Dr360gTGsWIFR3CE09S2JPYiC2oWw3+/tbwtWksaZtTXy1S509GR9gNm3cJpW2PLE/BxV7Px6EVKU74m6N+klQQUufOShP6wmwl4Qyb5hiCq4FTSgV3KXBaNLmP8RZcMFdArqsjYGuH98tXQuQJswsMMv4TCiz0GqaHfqOCRFSCP8UcaOQ8+fwUg/ckfnY40lwv3rj+0ktUO6srnV/Mw=;kIXisIRLhH72UKMChtk51Q=="

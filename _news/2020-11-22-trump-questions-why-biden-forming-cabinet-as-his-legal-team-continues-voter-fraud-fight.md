@@ -1104,6 +1104,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Policy Proposals Would Harm Economy"
+    excerpt: "As President-elect Joe Biden and Vice President-elect Kamala Harris prepare their agenda, dealing with the pandemic and working to rebound the economy are certain to be key priorities. However, the Democratic Party still has a tough battle ahead in Georgia to flip control of the Senate,"
+    publishedDateTime: 2020-11-25T20:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/11/25/bidens_policy_proposals_would_harm_economy_530092.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528080_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "NlxknazMYjuaUG5fE6lWVo+s3SvbN45+3CVpcCzY1px8RMzcIwTyix2YJDIg/DCUGWrQFiV816U+1M0/povJV9hB3gg4rfX7lV6vtzKn6/41omc/VBl1VF/VlUkDVbbiA1VqXA/e1fTwn/oFmF+tgzIWDXRMBPhu0bmr9ZqeJfnLc/wahI6vPtGpvFUlgTwNv/BfAftoc2V/75UXEVs1CAn4SinklNcsvUij5q2EwJ2U5ioMf+WAq5qHjqoaSlCFEBfWGD+wlWqonNtGfY1zPviw5wYNqW6A7y9Jbzestnm/g5fFzRtofILJTgvZ9xYT4xXe+18apnI3hQFAcCM+fidgSdZtS+wozD+U2C/qIwg=;ZJHVfFk0a3jmfb2nhTJGgA=="
 ---

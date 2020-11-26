@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27Z36O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27Z36O"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5fbbba6050e71a0011556c19?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump administration denies permit for controversial Alaska mine"
+    excerpt: "The Trump administration has denied a permit to build a gold and copper mine near the headwaters of the world’s largest sockeye salmon fishery in southwest Alaska."
+    publishedDateTime: 2020-11-26T02:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-25/trump-administration-denies-permit-for-divisive-alaska-mine"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-25/trump-administration-denies-permit-for-divisive-alaska-mine?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-25/trump-administration-denies-permit-for-divisive-alaska-mine?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/85542cc/2147483647/strip/true/crop/4739x3095+31+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2Fb3%2Fcb8179a14a158c3a35d43cfacb54%2Fla-photos-1staff-460440-alaska-environmental-stories-010-ls.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Outgoing Trump administration bans investments in Chinese companies it says support China’s military"
     excerpt: "The White House continued to push an economic decoupling with China by banning certain U.S. investments in companies linked to Chinese military"

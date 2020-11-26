@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542367249&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO05R"
         width: 775
         height: 545
+        isCached: true
+  - title: "President Trump pardons Michael Flynn, who pleaded guilty to lying to FBI"
+    excerpt: "President Donald Trump announced on Twitter he has pardoned former n Michael Flynn. \"It is my Great Honor to announce that General Michael T. Flynn has been granted a Full Pardon,\" he wrote. \"Congratulations to @GenFlynn and his wonderful family,"
+    publishedDateTime: 2020-11-26T02:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/president-trump-pardons-michael-flynn-pleaded-guilty-lying/story?id=74405950"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/michael-flynn-gty-jt-201125_1606339144975_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Election 2020 live updates: Michigan GOP legislators to meet with Trump; Trump withdraws Michigan lawsuit"
     excerpt: "The Republican leaders of the Michigan House and Senate are expected to meet with President Donald Trump at the White House."
