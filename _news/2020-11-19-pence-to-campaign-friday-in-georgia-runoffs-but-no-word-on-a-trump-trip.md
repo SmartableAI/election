@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-campaign-friday-georgia-runof
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-campaign-friday-georgia-runoffs-trump-trip.amp"
 type: article
 quality: 199
-heat: 479
+heat: 499
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765555451.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Live Updates: Georgia secretary of state accuses Trump of throwing him 'under the bus' amid legal fight"
+    excerpt: "Georgia Secretary of State Brad Raffensperger accused President Trump of throwing him \"under the bus\" in a column published Wednesday."
+    publishedDateTime: 2020-11-26T06:01:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lzqMaoMuv9M/live-updates-legal-11-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cdbdf44-98b4-4728-a5da-51d5adc6ae5c/c368e48a-b662-40f7-b3d6-af288b995f5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "‘He Won,’ Trump Tweets in a Post About the Election"
     excerpt: "President Trump said Sunday morning that Democrat Joe Biden “won because the election was rigged,” his first comments suggesting he believed he had lost the presidential election. Mr. Trump later tweeted that he wasn’t conceding and said,"

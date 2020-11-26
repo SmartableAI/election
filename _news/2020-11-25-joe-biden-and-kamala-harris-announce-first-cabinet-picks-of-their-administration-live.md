@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
 excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
 publishedDateTime: 2020-11-24T19:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd52be8f0872410b29d564"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd52be8f0872410b29d564"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -730,6 +730,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "ilS8Kc1GjDUKI5ARhiFEALIHEjMJFO28YffpH7UzrLJCkPtimPMUGogJnIqPjCJ2ZmfsIqP3mIwDyHisvVTdOQyx0HqZMkZgVyKqAKRMLnfHCqsZs4EiDqwYgSk6Ndwb1hzHHsPJP9YzGC1zhJyQOYmHvcU8/eOn4nQrWVJJvuQUyWtvo+FsAhK9Z5oJPIqSmYcu+S8A7XING1PuCbPw/XFu2zUTUxGVtV3rq6O+SlkAsJIQR9C5S3FRTiO2IRlPOvM57r5De7MeHjXJxCXkR8n5xO9G1vRycw3DeVyF+Cv/Z078D4q0venDKdAPUSl+XDwhFDPzGMvxKTy8fXY7nxXHDQ1Ay/zJFLrfAnRiw7q1aOpFYjsCO5Px11+mlrSHJk7XaCTHSgUXN9EYavzYy6zR1PaL+48jVTcSmFF/MdkvLbfuAEQxqroKZJPapbWMZSTf+wjxVzHVG8dFqwiO5g8cuBo2IV5Ay17JH4ONBxdK4cEr14jXQpUr0ukkPLujKk0AkjlbEGYuldcyN2i96w==;cWJUNf5Uf6gsV4CqmQSLOA=="
+secured: "KwZxFTc7F1b07PpoSCAByAnmrcJB6TEk5VDe2oRM8I4p6eqbS+h47C8xwtNTwIJBS9Pm5XeQlO51zuAoC5uv9lyHIbbVIsws/itX9CF+fL/l2nCZOEo0LWcpeZ08hq2l4r3dr3JSzvRTgOitcImqqNRoKPH+lBU63XqnLZilsdQHWbf+NaPZpFaWkV6ZYJzPVZS5EpzBVfscDc5VpSJWpVjIsH3Orp1FW+bF/k8Zr+mw1PAR2GtK8XhhQU4PafYjlwnOztbbNPf7QVF95QYgUkki7ewo7coHmegsEepFpNzrCDTHDiLjZ1pV+tkVmBceh2BCKejmH14LhKMu/2Ofaghq+BsbQgydKjG/veb/gm/llYKDfIBN3JyrZ3EeTkqvoZNffLFkdV2xysQ4DsLTEVIh4MVPDi4KVJQefcBtSHcgiquXTobzR7M8nkAcpLHLBb+BUzB5GAaqsnbWVqrY1kG9TcT5cL/x+4TSgu9xlzRBxCFSFKBxAJgnv0f9NR6ZYiOEQmtWeG+/eDXjNAZ8ZA==;aFJET+FSUIWArCcVvCwFBw=="
 ---
 

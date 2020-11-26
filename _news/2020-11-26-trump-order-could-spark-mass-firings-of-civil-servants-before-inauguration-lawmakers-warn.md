@@ -2,9 +2,9 @@
 category: news
 title: "Trump order could spark mass firings of civil servants before inauguration, lawmakers warn"
 excerpt: "U.S. government civil servants could face mass firings under an executive order before President Donald Trump leaves office, and Democratic lawmakers, watchdog groups and unions are scrambling to block it."
-publishedDateTime: 2020-11-26T02:50:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-transition-civilservants/trump-order-could-spark-mass-firings-of-civil-servants-before-inauguration-lawmakers-warn-idUSL1N2IB01Y"
-webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants/trump-order-could-spark-mass-firings-of-civil-servants-before-inauguration-lawmakers-warn-idUSL1N2IB01Y"
+publishedDateTime: 2020-11-26T02:56:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
+webUrl: "https://www.reuters.com/article/usa-election-transition-civilservants-idUSKBN28538O"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28538O"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28538O"
 type: article
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DdFc7beuKk0vZWhbbShHqfJOQ1GaorAmnodbivLJkKj8iDekaLx9xWut8syAThm57b28/MnxZw+4dhMfi0XExUuJkNbIJ5RDfX/bH4N3Rq8YohfbeMaOwgCezmuHL+FaUTPJV+Tz/zzcZ6VIB1I6tvfOy1SuoByzBKGNRU88a/7m7/a/O9MhUhVKXBXxv/RAGItCNWSnPhOtbmOSI0Fs9dbtKwa8R9geiK1wl487ksuKQwFRCQjopegXZCbV2N1+MlrnYmDFX5EkTieTrRA3+7dywx68L/S3jJrnaWml+XLVHCXuFB0ky8aU7zp1EeO2HgBKwGwzQ+l8InIheGCBLzhquSsNLGqpbIX5y/YqUiU=;ZAeJaSih8qFx/Xjpp9HRNg=="
+secured: "ebCEY+G++EKa563ybaCiGqIjZkVTTP6JKUkDgGogb2hqcaShUhLcTu2el1r07ZKwNbzSJ8CQCDJyJRFcoQZg5ew1lksTQ4IB8vfirx6ZlI1GtUejZiAivS5Czbldbyj+NSd2bMu+Y2KSHNV4JUWsseCYh+pOjHgW57j6wJsv/rBiWn8yI2uUKzXBoqbZKDVYiad2olUFap8e4oYLcF+foKh1fImJ//6Yb13gKAC6sE7aORPWOrDcOCY9P7+rg6NTNDfwZBhieL8LOTAJBId3r56JCqvy/HTsnyOFLGNqUs2+I+srrKo5fob+lBqERsE5/AfnvrtwA3RPmQO8Abxjps3aoG/THBrXPddrf5txBvU=;5WZi1OpbCvmSEqaNUf2n+Q=="
 ---
 

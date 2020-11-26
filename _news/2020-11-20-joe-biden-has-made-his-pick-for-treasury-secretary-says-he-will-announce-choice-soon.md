@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden promises some student loan forgiveness. Student borrowers hope he delivers."
+    excerpt: "While President-elect Joe Biden has said he would implement his student loan forgiveness plan \"immediately,\" he has not committed to widespread student debt cancellation."
+    publishedDateTime: 2020-11-26T01:27:00Z
+    webUrl: "https://www.nbcnews.com/news/education/biden-promises-some-student-loan-forgiveness-student-borrowers-hope-he-n1249055"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249055"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249055"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_46/3428447/201114-boston-university-students-ac-1239p_e100831e857b7675d19a912904fd60c1.jpg"
+        width: 2500
+        height: 1646
+        isCached: true
   - title: "Transition Highlights: Biden Plans to Name Blinken, Sullivan and Thomas-Greenfield to Cabinet"
     excerpt: "More cabinet picks are set to be announced Tuesday. President Trump’s lawyers disavowed Sidney Powell, a member of his legal team, over spurious fraud accusations."
     publishedDateTime: 2020-11-24T00:17:00Z

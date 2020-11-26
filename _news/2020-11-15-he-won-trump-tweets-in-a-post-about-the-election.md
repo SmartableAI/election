@@ -128,6 +128,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Live Updates: Georgia secretary of state accuses Trump of throwing him 'under the bus' amid legal fight"
+    excerpt: "Georgia Secretary of State Brad Raffensperger accused President Trump of throwing him \"under the bus\" in a column published Wednesday."
+    publishedDateTime: 2020-11-26T06:01:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lzqMaoMuv9M/live-updates-legal-11-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-legal-11-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-legal-11-26-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cdbdf44-98b4-4728-a5da-51d5adc6ae5c/c368e48a-b662-40f7-b3d6-af288b995f5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Frustrated Trump Voters in Rural Georgia Look to Runoff Elections"
     excerpt: "In the small city of Nashville, Ga., many Trump supporters are angered and emboldened by the president’s apparent loss in their state. Engaging rural voters is critical for Republicans, and conservative political groups have ramped up their efforts to turn out these rural voters."
     publishedDateTime: 2020-11-17T20:17:00Z

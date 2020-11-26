@@ -1,0 +1,35 @@
+---
+category: news
+title: "Representatives for 'Tiger King's' Joe Exotic are said to be chasing Trump down for a pardon and spending thousands of dollars to get it"
+excerpt: "Representatives for the former zookeeper ran up a $10,000 tab at one of Trump's hotels in an effort to get his attention."
+publishedDateTime: 2020-11-26T06:56:00Z
+originalUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+webUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11"
+ampWebUrl: "https://www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reps-tiger-king-joe-exotic-wants-pardon-trump-fox-news-2020-11?amp"
+type: article
+quality: 92
+heat: 92
+published: true
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://i.insider.com/5fbefa81037cbd0018612744?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "YldGB4IAALlEC++vg9fj2978Zcwq/Bdq66dIfFChviTBOv1ju9+TMnNFg1adBzjMiOaMHjNBSM+Ew1rjzxrp+O0YfARsGLC5ffwZiuQ1kIJzL6VKmBSTExJx7nJ0+khpIIAvHRRdkqKoXYpcDzt3eE36kvVVDEuG5mBp4jqpg2m8PZ3ziReuF7FlibddSQxNlOGcIuSpWnE3Qo2M8FFHk7nw74WZJCNBqNLCAZmWinWBtPrGyaFSo3djrPbNE7m+6dS21m4MQwGhGR+rWi4qqLY39CreEH32+IKLeRqnAXLIzrp625Pot+/IhkMjpa6XYHDWW/0b3IRAwrnd5gR2STlBCqWVMcYqo874AK8F3rM=;6eY0Lwb+xhCjnPqzYaI1NA=="
+---
+

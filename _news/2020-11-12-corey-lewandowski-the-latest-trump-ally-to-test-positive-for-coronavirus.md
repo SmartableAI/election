@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/corey-lewandowski-tests-positive-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/corey-lewandowski-tests-positive-coronavirus.amp"
 type: article
 quality: 174
-heat: 234
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump touts coronavirus vaccine announcements 'on my watch': 'Great discoveries'"
-    excerpt: "President Trump praised the coronavirus vaccine from Massachusetts-based biotech company Moderna as one of two recent \"great discoveries\" after it announced Monday the vaccine is 94.5% effective according to interim analysis from a late-stage clinical trial."
-    publishedDateTime: 2020-11-16T14:59:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/814C5hrpuMw/trump-coronavirus-vaccine-moderna-operation-warp-speed"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp"
+  - title: "Trump campaign adviser Boris Epshteyn tests positive for coronavirus"
+    excerpt: "Boris Epshteyn, a campaign adviser to President Trump, announced Wednesday that he has tested positive for the novel coronavirus."
+    publishedDateTime: 2020-11-26T05:14:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cvdkgp7J360/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-adviser-boris-epshteyn-tests-positive-for-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1228062636.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/epsh.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -62,20 +62,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/aoc-2.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "David Bossie, Head of Trump Post-Election Legal Effort, Tests Positive for Covid-19"
-    excerpt: "David Bossie, a longtime confidant of President Trump whom the campaign tapped last week to lead its post-election legal efforts, tested positive for Covid-19 on Sunday, according to a person familiar with the matter."
-    publishedDateTime: 2020-11-09T22:42:00Z
-    webUrl: "https://www.wsj.com/livecoverage/trump-biden-election-day-2020/card/21mW1Po8Ra84Lc7dNmy5"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 124
-    images:
-      - url: "https://images.wsj.net/im-256456?size=1.5"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "tQp1rM3210/K30xCBzqugfkcy8wIhJnt4sQi4Pb6jvjFNb238SysFpxOG7BkxtLZHqkMW27SNAfnjn6LUZto2e/iH2pNUtBRbjbnDXwj5FxcXinywnuFbM/k2SV9MFzIUvW336sHArhZ+5U5loIA6E+TBGdBuXhFiCwoTtbqSCGlO9STx8fks3Pm+xt3NCQXWLx1CCfdqs7druIUnT0Yekbq0hpsgPrzCEYrK+ieK8/oUVJSwSFjO5SrMfSWb8hVyWFl/z8KNx6qiGsoX9NMkpDVUAGHZ0EPwGMTo49Xw39NN+Vr8ude73tWHzA8H1Z+XmahbjF0EzSoNyLSchuKg+a517ax3AMI9txA8lR1HS0=;VMZSitvdQGSwUI7RInL1ew=="
