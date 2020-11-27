@@ -2975,21 +2975,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump says he'll leave if Electoral College seats Biden"
+  - title: "Trump says he’ll leave if Electoral College seats Biden"
     excerpt: "President Donald Trump said Thursday that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden’s victory even as he insisted such a decision would be a “mistake."
-    publishedDateTime: 2020-11-27T07:19:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+    publishedDateTime: 2020-11-27T01:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_795d53de3deb47c9b07ca054c3a96104_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump says he’ll leave if the electoral college seats Biden"
+    excerpt: "President Trump spent his Thanksgiving renewing baseless claims that “massive fraud” and crooked officials in battleground states caused his election defeat."
+    publishedDateTime: 2020-11-27T10:28:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-11-26/angry-trump-promises-rally-in-battleground-state-of-georgia"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-11-26/angry-trump-promises-rally-in-battleground-state-of-georgia?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-11-26/angry-trump-promises-rally-in-battleground-state-of-georgia?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4a40f6b/2147483647/strip/true/crop/3999x2612+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F42%2F51%2F76e7ddce4ceabad1ee81dc235198%2Ftrump-65275.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"

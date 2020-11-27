@@ -1075,6 +1075,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Renewable Energy Industry Readies Wish Lists for Joe Biden"
+    excerpt: "Solar and wind associations gear up for a Joe Biden presidency much friendlier to their industry than the Trump administration."
+    publishedDateTime: 2020-11-27T10:55:00Z
+    webUrl: "https://www.wsj.com/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264851/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pennsylvania’s High Court Rejects Trump Campaign Bid to Throw Out Ballots"
     excerpt: "Pennsylvania’s highest court declines to invalidate thousands of mail-in and absentee ballots with minor errors, likely bringing an end to the issue, which has been the subject of substantial post-election litigation in the state."
     publishedDateTime: 2020-11-23T22:07:00Z

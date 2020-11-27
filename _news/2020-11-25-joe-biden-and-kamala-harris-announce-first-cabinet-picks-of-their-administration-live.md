@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris announce first cabinet picks of their administration – live"
 excerpt: "Biden confirms in person that Anthony Blinken will become secretary of state, and Alejandro Mayorkas will be secretary of homeland security"
-publishedDateTime: 2020-11-24T19:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
-webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd587c8f08850ef86c57ac"
+publishedDateTime: 2020-11-24T19:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
+webUrl: "https://www.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates?page=with:block-5fbd50558f080d5c1f5d530c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/nov/24/us-election-donald-trump-joe-biden-coronavirus-covid-19-live-updates"
 type: article
@@ -730,6 +730,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "DeoI3BkRMaLpo+7OyRHBuAjGYMqsoyuN1H+Yoc9+uDuMYGEz1S7eUga8Lr6RByTHQpXMxcDVWktxZ8IL7m2Avac00g7itJOnN+p79KRO38HuQkwecNzt5ABXJ/Q8DmWQNDStKBz1nXz5XzcFvfi6+4UpqfwqWqb6QMkrr6VjmiKIPjTk/QGja2UOot344bYrtU37YS/FgD0jG/x3bPr6024YQ3fp+zrXdUe7KeYMevgyCkmh7K61n8COTExBfhC2cr66VwFRv4j6Eu6bu5hvQpqKD53bjEH7gZ7c2EG7Cc94VQEwZZN56FzjzcPB4On7sRCf8eQfWl+T6wN1qKFMWzzcMqqK8Xwhu66Y2aYGKwAiALd3lLss1obA/vJEUaPNtaUQldvAwtOcT+KW5FYk/9JohQsT/P082JngMLVJGL3IoLirKxrZV3hVUiztMGV9pWRKhDvbLtjK9qjR+REnQSXA/7Rqx70Y8QDaM1pEXDLwcqkvDmUXgsVQyl6m9UEfzdbT/ocXtj0PKzZNgyXDmA==;+Om2SUfrWMcQZAxOUZ/33w=="
+secured: "5eaUwBdncNO+HBoiVW/+aYals1ZEeCpsR5JlBnu1YTPsOyVVQ7cLBhdkANxWoYkbU23jP0bt+8PhO3uWYo7KF/PyzuvOHsv0EnHw/juuyoELOEnnoiSDqwbE/QTQOO+kJ7otbOrQ85gwu5/DvpuyyLZUlEdZwTO+QLmat692UfkQnk1EqewY/dPQtQz+g42q1BltfjnYfq4OcRXV5qp7AiYGz6ZMVCgngZI54lW2s7QE3nTW6Q5V247VvVv52rgzq1FoXi/Qu+w6X0hKpTMylDhXFeq2lgDMDQudsmltXwj+H0pf6XkzDpwd2S21r9rEGB1ittoqnscblyFPreBsE9GQNF7gMgpC1ss5sWNu+P8xp3efAK1G3CyG+gw2imIFG5eP1+CCXMV+FogviAR4iG0nAPzsqp2cdDu+9qx+6eaaOfwQrM9L/YSRW0i7yD/WA2M21kiDeDDIsFqOOa1DlHhccZWiz79GsoE9h+uICwrEzVEAA3v1nxOJA7tNYcf7tNEMoIT4fc9x9pa9bRd8QQ==;FTYhRxEbQM04j3FF0144dw=="
 ---
 

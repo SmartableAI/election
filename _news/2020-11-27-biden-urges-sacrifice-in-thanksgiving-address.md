@@ -109,6 +109,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Florida State Representative Says He's Thankful Joe Biden Lost the Election"
+    excerpt: "Florida state Representative Anthony Sabatini expressed thanks on Thursday that Joe Biden \"lost\" the 2020 presidential election. Sabatini, a Republican who represents Florida's 32nd district, tweeted the eye-catching comment on Thanksgiving,"
+    publishedDateTime: 2020-11-27T09:38:00Z
+    webUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700"
+    ampWebUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1677818/president-elect-joe-biden-delivers-thanksgiving-address.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
@@ -1076,6 +1092,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President-elect Joe Biden calls for unity during Thanksgiving address"
+    excerpt: "President-elect Joe Biden called for unity and encouraged Americans to stay vigilant against the COVID-19 virus during a Thanksgiving address Wednesday afternoon."
+    publishedDateTime: 2020-11-25T17:50:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/9541606323109/2020/upi/464e54565895c15a13cfc84f4e20cd51/v1.5/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address.jpg?lg=2"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
     excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
     publishedDateTime: 2020-11-21T02:50:00Z
@@ -1100,6 +1132,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YWwhv/WcRdDUgVbCdei27DjydyNL4mctBRw0Gnssi+002aaLUFnEHNH+mDFrDAcWqYl7bOZEQS9SgNJz2YqIRZ+om0nagfHQPiK700FTIox7jqsvhU0akQe5ptH8sH2gZFkD+oyYZUGd2KDViSysAbHCCncoAqlq4aqxeqpqCCEUjoTswTY6ncJyHnafiz6oTT4GKKg2sn3SNxCY5jLqQc8Yhr/p4pZnzZhjVIRq+JSGAc13gkND7GfRl0nlLk3/jhOR/8UYsIKtYpCOPD+F5Kaj8PsDth3i7wbc+9ndxqHO1q+S/5c9ytiNjUxDcXvIyAp4Bba267rWXLww2D0HkaWWW1tnEhXi1OFS7w2wpUI=;TfmsGojlOaYjcovq2Anqfg=="
+secured: "wkER6yZfeUPjO2A9qKznKBrwO5O05NuKnYlOv9fxZW3fB3uyhE8mIWxq1CVToSm9OY+GPrnVAA3hgqyEGp8c1EEC94PxZzG/epto3gSkh+Lxbhndmb/0nM/wDWjJf4p2Tlv/yoX3dqgR/tZiSyUBxv6UvmpziJ47wj+/Mw9UabT3dde2r8pA3vJADOilIaUX7Nb8WX/O9fgdqqxse4t3eLjIOfQVlGx6FJXg/W39kPcjaaf+2H7M1BKArusBfRTUq1m5WZaw+fim63XmoAm00NdRYlahNMu696sewVs/X3/Vkg9Ke9JwLGUxLTSCyCaHCxmHuenSCl8QAqYvAwnCrwuNTsYpv73rPMEoR29pWT8osjazmnVkRd3GA5AbPjZXRbbCo3DtX2mpJdzkW2FRZAE4oSIjQ8VK7SM99nLOFOxVz+Jsy19mpv0szvx2Fjgn1U/4dnzDeB4+BApxOmYVRsHRvhM3//V9xG028cnVWpfAVqjl/xUnSU0ycG63r+Nrdlb1DX5ZCNrqzspNRbNPkg==;2STIwtXEzPrfWffX7AdxDg=="
 ---
 

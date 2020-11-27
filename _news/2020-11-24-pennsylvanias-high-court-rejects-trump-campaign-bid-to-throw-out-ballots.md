@@ -1095,6 +1095,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Renewable Energy Industry Readies Wish Lists for Joe Biden"
+    excerpt: "Solar and wind associations gear up for a Joe Biden presidency much friendlier to their industry than the Trump administration."
+    publishedDateTime: 2020-11-27T10:55:00Z
+    webUrl: "https://www.wsj.com/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    ampWebUrl: "https://www.wsj.com/amp/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/renewable-energy-industry-readies-wish-lists-for-joe-biden-11606473001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-264851/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "GSA chief informs President-elect Biden that formal transition process can begin"
     excerpt: "U.S. General Services Administration chief Emily Murphy informed President-elect Joe Biden on Monday that her agency has formally ascertained him as the apparent winner of the 2020 presidential election and would move ahead with transition proceedings."
     publishedDateTime: 2020-11-24T08:20:00Z

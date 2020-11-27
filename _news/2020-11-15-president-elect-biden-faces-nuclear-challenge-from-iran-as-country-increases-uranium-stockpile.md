@@ -109,6 +109,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Florida State Representative Says He's Thankful Joe Biden Lost the Election"
+    excerpt: "Florida state Representative Anthony Sabatini expressed thanks on Thursday that Joe Biden \"lost\" the 2020 presidential election. Sabatini, a Republican who represents Florida's 32nd district, tweeted the eye-catching comment on Thanksgiving,"
+    publishedDateTime: 2020-11-27T09:38:00Z
+    webUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700"
+    ampWebUrl: "https://www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-state-representative-thankful-joe-biden-lost-election-1550700?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 138
+    images:
+      - url: "https://d.newsweek.com/en/full/1677818/president-elect-joe-biden-delivers-thanksgiving-address.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Is Joe Biden's win a turning point in a hard year of bad news?"
     excerpt: "I usually expect the worst, but this US election feels like a light at the end of the tunnel"
     publishedDateTime: 2020-11-14T08:00:00Z
@@ -1075,6 +1091,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/24/884090df-4181-4096-9eb3-ba4fc7bd2e11/thumbnail/1200x630/1a9d983a707ca1add7c8eb2f0aa3d13c/bidencabinet-594889-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President-elect Joe Biden calls for unity during Thanksgiving address"
+    excerpt: "President-elect Joe Biden called for unity and encouraged Americans to stay vigilant against the COVID-19 virus during a Thanksgiving address Wednesday afternoon."
+    publishedDateTime: 2020-11-25T17:50:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/25/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address/9541606323109/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/9541606323109/2020/upi/464e54565895c15a13cfc84f4e20cd51/v1.5/President-elect-Joe-Biden-calls-for-unity-during-Thanksgiving-address.jpg?lg=2"
+        width: 800
+        height: 533
         isCached: true
   - title: "Mike Pence tells Georgia crowd presidential election isn’t over"
     excerpt: "U.S. Vice President Mike Pence traveled to Georgia to rally for Senate candidates Friday with two events. But he made it clear there’s unfinished business regarding the November vote. “As our election contest continues here in Georgia and in courts throughout the country,"
