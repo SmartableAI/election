@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-21-mike-pence-holding-campaign-rally-in-oakland-county.md",
+      "title": "Mike Pence holding campaign rally in Oakland County",
+      "excerpt": "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html",
+      "originalUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg",
+          "width": 698,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html",
+      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html",
+      "publishedDateTime": "2020-10-21T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oakland Press",
+        "domain": "theoaklandpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-lindsey-graham-says-joe-biden-is-in-his-basement-because-he-cant-carry-a-message.md",
       "title": "Lindsey Graham Says Joe Biden Is 'In His Basement' Because He 'Can't Carry a Message'",
       "excerpt": "\"President Trump is ... going all over the country with a lot of energy. He has really accomplished a lot in his first time,\" said the Republican senator.",
@@ -1256,54 +1299,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
-      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
-      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "publishedDateTime": "2020-10-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

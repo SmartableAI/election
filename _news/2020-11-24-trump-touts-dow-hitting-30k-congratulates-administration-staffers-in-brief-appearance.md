@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump says 2020 election results still 'have a long way to go'"
+    excerpt: "President Trump is continuing his legal battles in several states to contest the results of the 2020 elections, saying Thursday there's still a \"long way to go.\" "
+    publishedDateTime: 2020-11-27T12:17:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpTHR07HUQ8/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-says-2020-election-results-still-have-a-long-way-to-go.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd783d84-429d-4224-ae28-ab962ec0b926/432ddf66-7179-47a9-9b61-f0f6ca58146a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump’s conspiracy claims will have long hangover"
     excerpt: "What we're trying to illustrate is that not all conspiracy theories are alike."
     publishedDateTime: 2020-11-18T22:23:04Z

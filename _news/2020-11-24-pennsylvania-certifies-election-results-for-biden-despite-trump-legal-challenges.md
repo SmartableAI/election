@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-certifies-election-res
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-certifies-election-results-biden-trump-legal-challenges.amp"
 type: article
 quality: 200
-heat: 1660
+heat: 1680
 published: true
 
 provider:
@@ -1123,6 +1123,20 @@ related:
     quality: 130
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9296518-0638-4026-ab46-7281db8578f7/70ab4285-1557-4909-8c07-e99220b6d3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
+    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
+    publishedDateTime: 2020-11-27T12:17:00Z
+    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
         width: 1280
         height: 720
         isCached: true

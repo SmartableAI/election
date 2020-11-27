@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Top California air, climate regulator hopes to run Biden EPA"
-excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
-publishedDateTime: 2020-11-27T05:52:00Z
-originalUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+excerpt: "Over four decades, Mary Nichols has been the regulator behind some of the nation’s most ambitious climate policies and, in recent years, she’s been their staunchest defender against President Donald Trump's effort to dismantle them."
+publishedDateTime: 2020-11-27T10:34:00Z
+originalUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
+webUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
+ampWebUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Georgia certifies election results, making Biden victory official"
@@ -1132,6 +1126,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "f5pV03Mmzmxw5O5k9ZWKi6UYwEaTTU3/BwMoCohmNd/dW6UAcxaYNOiNpkBVwYgfgofy4ssEUOUHIErkoryuxx4MSkphmCY7Z6e0o5B1q1FqGD2TgL17hYAzsebP0+Ii17ktcN2SKRJIsYAHL9dgfcpbpMHNd+LBuEm8tJmiA5f4tkYOB6DRhUUAyblDqnqFLByUsWbaVQ+Hjd4q+Mn+/iS5PyNtd4CpGAxxRIfUJeovqmR2ym1V4EcG+1eCnOZaVmBJ4d6KBiBCmDGHjoLxkdBnclkKYX8hoE6EcriKlBUhzmBB+4yuSpaIXlI3E3V/pU4bgvapg9ou+tR+Y09iVTRN6gJ8krJ9SI9ZO1HsSH0=;TyDS96UIlGX3B/kcG/TELQ=="
+secured: "+h3eGfAnlyNc/uMZ+dfhCffRIqqvmZ4iUguRgTk0FXjQO4KkJ0y9OjiqaHNgdRFUEkyFSVghOQ173WhneGsiujk1h4D3JT8S/JhkrE2nwtHccrcwXa53iwp0gKuoBRLetMnSTaPAHbwQIFv7a/7eSt+7iwtLMRtfdtRAxAZCkDVjaj4ChG7M38Mki8C/zbKUBncSKLaPCBuYucuGHAxy9O8cQXSpFKY909iQNL/y65JakABug+2faqRn281NDGA5Uqo5wf0cwCwY82clgxd06vaqSXhJ6HEE0PLenoTOu6oJ9xdfZCPtEnmlaIBQGvAMX/VvlvRDOHBpTj2rHR/vk13v2DeqVIMlih3LmR71rJM=;KKlScyAi3syXEa6metG/FQ=="
 ---
 

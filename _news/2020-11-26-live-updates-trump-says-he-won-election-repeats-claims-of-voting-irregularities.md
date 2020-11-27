@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-election-11-26-2020.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-11-26-2020.amp"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f055062c-e8a5-4647-89bb-d129b30f2cb3/8a55bd0b-ea6c-410d-95b5-28ff9a70808a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump to campaign in Georgia for GOP senators ahead of January runoff"
+    excerpt: "President Trump said Thursday that he plans to visit Georgia to campaign for incumbent Republican Sens. Kelly Loeffler and David Perdue ahead of their Jan. 5 runoff elections. "
+    publishedDateTime: 2020-11-27T12:15:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVYQur-2_hY/live-updates-georgia-senate-runoff-november-27"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-georgia-senate-runoff-november-27.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd7fefb9-d30f-4b07-b566-01eaa53e3755/8d5fa08e-5e27-4a9c-a15b-c6985dcf9a95/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

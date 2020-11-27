@@ -3,8 +3,8 @@ category: news
 title: "Biden's Foreign Policy Vision Takes Shape as He Selects His Team"
 excerpt: "President-elect Joe Biden has started selecting core members of his foreign policy and national security team, revealing a slate of experienced — if not all that surprising — Cabinet picks with the goal of returning some stability and credibility to America’s relationship with the rest of the world."
 publishedDateTime: 2020-11-26T17:49:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
-webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
+originalUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
 type: article
 quality: 65
 heat: -1
@@ -173,13 +173,13 @@ related:
   - title: "How Biden Can Restore U.S. as Leader Against Global Warming"
     excerpt: "President-elect Joe Biden recognizes the dangers of global warming and vows to confront the problem head on. Good, because we just wasted four years. One of the most convincing things about Ms Powell's presentation was the reaction of the fake news outlets."
     publishedDateTime: 2020-11-26T14:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/26/how_biden_can_restore_us_as_leader_against_global_warming_530147.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/11/26/how_biden_can_restore_us_as_leader_against_global_warming_530147.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
 
-secured: "zlQcXu3Dx6Yj1fSlCWWqKKhaT7WUKcFtK0rR6ycJedi++eccxxKIjVIWDg8N3tRHfyIJP2ohI82WSIqfKHi0oUQloEz0b9RlExVkncNkeQ5zk5xObjD6+36NvNxBtw+x4gkQUG2dRRUWbFIilhZxLJUMr2C8IGqetgLWEdHQ496I4CZUvobfznmKt0oFe3WEH+pJUycTCOGpZKWqeOE0ID7RpQelamQ67ySzHWE8XS5xUvuccVhYNA9g7BtXFiYNcbyPvDJ/XK2qfW1Q4rSTG0HL2wDmQRDBZOWpz+c+xXGE30prJ0eZ3KcnJhU4zZ4QqY54qxhtPCuJjoK991hIj4hUPW3kCk42bMXdcd0Xs10=;DWhW57lHlautH2+gbzN+1A=="
+secured: "2X2GIEMFiQJhXGB5qOd1AF+y3tVBaPnu88mAABgO+qtiTv5hdxhJzFsRV8pRX2MUBlaCrLL6JbU3IM40DTuIiwZXWKZZQR8JjPxCQEkWtAUxEO+HR9LAxg20GZQOrF4VLTxmG/W5Sklc75fRVETIsQhRmQLq80H1ot3RWJwFgcm+h5Irsbxbxab2tNC4O7y3q3RcEYtlmGpDtzSTqU28ANeDoF/GtRGXbjoYNgy5vj7j+USD/1A4hLWLkHXLxQsH8TjxhDQO7beNEhhHAA6UfamRqZQnaVRNE9ImG+HOxUBcJE/V9Qlx3Z0mkiNztUTaHr+jObl9p2nNk6Xp1flStAEsUn4W5bqClR8vlNRxQLI=;kPA8LlHFeOt9ho+81OL+1g=="
 ---
 

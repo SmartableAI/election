@@ -1141,6 +1141,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
+    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
+    publishedDateTime: 2020-11-27T12:17:00Z
+    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pennsylvania High Court Rules Against Trump Campaign in Philadelphia Election Observer Case"
     excerpt: "The Pennsylvania Supreme Court on Tuesday overturned an appeals court ruling that required close-up access for election observers, a win for Philadelphia officials who had argued for pandemic accommodations and voter privacy."
     publishedDateTime: 2020-11-17T22:32:00Z

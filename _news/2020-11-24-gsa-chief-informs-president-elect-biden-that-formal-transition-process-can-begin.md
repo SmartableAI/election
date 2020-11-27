@@ -1127,6 +1127,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Trump Says He Will Leave White House if Electoral College Votes Biden"
+    excerpt: "President Trump said he will leave the White House in January if the Electoral College backs Joe Biden, as he took questions from reporters for the first time since the election. Photo: Erin Schaff/Bl"
+    publishedDateTime: 2020-11-27T12:17:00Z
+    webUrl: "https://www.wsj.com/video/trump-says-he-will-leave-white-house-if-electoral-college-votes-biden/07F1D78F-7C94-448E-8279-19326EBE99C9.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "http://m.wsj.net/video/20201127/112720trumpleavev9/112720trumpleavev9_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Campaign Asks Federal Judge to Block Pennsylvania From Certifying Election Results"
     excerpt: "President Trump’s presidential campaign on Monday asked a federal judge to block Pennsylvania election officials from certifying the results of the election. Matthew Morgan, a Trump campaign lawyer, a"
     publishedDateTime: 2020-11-10T14:28:00Z

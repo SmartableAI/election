@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump says he'll go if he loses Electoral College"
+    excerpt: "President Donald Trump said that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden's victory - even as he insisted such a decision would be a “mistake.” (Nov."
+    publishedDateTime: 2020-11-27T07:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/11/27/trump-says-hell-go-if-he-loses-electoral-college/6435291002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2a720054-e759-4b07-b5a2-733b3ebe319a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "AELqo49uBq0pZmx6GHX1o5sTial3PNUPZVzDa3DuGE+EezSwYZGI2Uhjlnh6Jc3641tkmKqs7ffmXy97vrk33hFIdjC9RW5kOR/GFXmPHvGk3MVhIX86kxQKh3LPGytJGB3mP3XAL/6HHRM85yNnDel4O8vx8IXkrjSX60RXYkNvZ8xd7tvpOjO3Vq8STaixAwPZvwaZtHzk66bF7hT8o4+G7at4DoCCGdBN21BA86u+2OOdZvrZxmKFUG26GWfPHQ4qyobSk9TO4AUAEQHPk2RvI2MpQmRDBesI9pS2H7+j0g4zW7V5mpZOIplvxSyvruosShA1e90gLSNkCSl7p0PLyIpXwwo11ohMyVuGGxA=;XeKsRSDRWvQwfteBwzFVnQ=="
 ---

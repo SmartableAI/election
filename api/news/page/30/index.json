@@ -2,6 +2,54 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-20-what-joe-biden-can-learn-from-jacinda-ardern.md",
+      "title": "What Joe Biden Can Learn from Jacinda Ardern",
+      "excerpt": "The reelection of New Zealand’s prime minister was “one for the history books.” Her formula for success was simple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
+      "originalUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2020/10/jacinda-ardern-labour-victory-gty-img.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-jacinda-ardern/tnamp/",
+      "publishedDateTime": "2020-10-19T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-trumps-poor-covid-messaging-was-disservice-to-my-brother-other-young-people-who-have-died.md",
       "title": "Trump's poor COVID messaging was disservice to my brother, other young people who have died",
       "excerpt": "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight.",

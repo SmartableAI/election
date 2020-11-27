@@ -479,22 +479,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Top California air, climate regulator hopes to run Biden EPA"
-    excerpt: "Mary Nichols will soon leave her job as California’s top air regulator after more than four decades of advocating for ambitious climate policies in the nation’s most populous state"
-    publishedDateTime: 2020-11-27T05:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/top-california-air-climate-regulator-hopes-to-run-biden-epa/2020/11/27/c3239da8-3074-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Progressives worry about lobbying, corporate ties in Biden administration"
     excerpt: "When President-elect Joe Biden unveiled his national security team on Tuesday, there were several noticeable absences, including a nominee to lead the Department of Defense. Michele Flournoy, a leading candidate for the role who served in senior posts at the Pentagon during the Clinton and Obama administrations,"
     publishedDateTime: 2020-11-26T19:26:00Z
@@ -983,6 +967,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Top California air, climate regulator hopes to run Biden EPA"
+    excerpt: "Over four decades, Mary Nichols has been the regulator behind some of the nation’s most ambitious climate policies and, in recent years, she’s been their staunchest defender against President Donald Trump's effort to dismantle them."
+    publishedDateTime: 2020-11-27T10:34:00Z
+    webUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-california-air-climate-regulator-hopes-to-run-biden-epa-2020-11?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "President-elect Joe Biden to announce first picks for Cabinet on Tuesday"
     excerpt: "President-elect Joe Biden will announce several Cabinet picks on Tuesday, according to incoming White House chief of staff Ron Klain. CBS News correspondent Nikole Killion joins CBSN's Lana Zak to discuss how delays to Mr."
     publishedDateTime: 2020-11-23T02:19:00Z

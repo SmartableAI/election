@@ -3,10 +3,10 @@ category: news
 title: "Inching toward exit, Trump says he'll leave if Biden wins Electoral College vote"
 excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for President-elect Joe Biden, the closest he has come to conceding the Nov. 3 election, even as he repeated unfounded claims of massive voter fraud."
 publishedDateTime: 2020-11-27T02:39:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN28615T"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN28615T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28615T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28615T"
+originalUrl: "https://www.reuters.com/article/usa-biden-idUSKBN2861KU"
+webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN2861KU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2861KU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2861KU"
 type: article
 quality: 135
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542606184&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP0U3"
-    width: 817
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1FC"
+    width: 819
     height: 545
     isCached: true
 
@@ -12336,6 +12336,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "DgMWSI6rsrccGjKRbKIL4enNilaOGKDFm6U0/2OuxdyTfQ1Yz0pTXwFW2ByLTbWgmvwkuKtUD5Vcq8woExsUZehtDM80RLyPGPxXZwUi7PY7c2EgbijYOEvYwLViQhPQ8mfgm63AmNcvUapkYYG11SaH7hwOuYCr8X5n7tVMh2g6bJs6Q8RY5NA7ZzYB5baznBoVDlIoUHiEZB9YW4CxX7jPsY3sq3RWpu15vrkvCYktMQMt9yiDGwRIHp8Zt4ejQFWgwLCVkQCPBUpettdY8t/8ww7jWFUreqJEVNrwedXAjDC4znux7jhT/rtghXeFCRHZoj8Lx5FTcsD9xonWj8ulljsSVkuJSIqSgOdJVpvpAXd5l3y7VwSVsi4/AaMm1dZVMU02GClufwuN8rYxHls6NSc5NSdP2EfaWucQ/e1ErmnjfvycpaxXxwIkyV/G1gEkIaJOsj8KQsokvJY+Vo1nFF/Ere0VGlCZ9ydFubB3YK9OeS5wpeZkexW1EdKO44q2vCmjJ9u3J1aEd0IPvA==;IZVFUPg7Q4b9LhewyS+VDA=="
+secured: "Y69hiAPdeyUp/67ndER6hHPXjHF0IqRdgs44a8YnxoIR0f3A6n3e7h1GCWzXkNckaoHYVKaArBg/yJKJNcUj0+DNOGpqcvckIzfiQeRZyXTT7RUrCfwYV8UitJm3lDqcoVgyEt7yrLPi5Val5gmBc1feQ9WTLbBVPgvwYeKZD3u//678zSHVut+dM7AbpMYo8iedJcJc9EXzAZ97XDsh0YbDqCzeJ3f3E5/bhgpF2n//6RKN0zFCbNuon3Lx2pz51xA8ZpJ6PSjdc57Ha4NEp9EhU/7CdwYo3JTxmhI2iEqN5t9JR7qAtgx3kHFSxah7x2TabO8qQX3pwc61QvSCMZfL5kvHDz/UFMrf2eLq7UU=;xZn1+9XOBXsAkYvT9ILwVg=="
 ---
 
