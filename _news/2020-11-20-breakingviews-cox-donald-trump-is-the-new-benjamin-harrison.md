@@ -79,6 +79,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump: ‘It’s going to be a very hard thing to concede’"
+    excerpt: "President Trump on Nov. 26 said that he would leave the White House if the electoral college voted for President-elect Joe Biden next month."
+    publishedDateTime: 2020-11-27T00:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-its-going-to-be-a-very-hard-thing-to-concede/2020/11/26/ed3b2845-0e12-41dd-9483-f97e0fea7d5a_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-26-2020/t_bbfdd35035ff4803938b222a5fabc9d6_name_Screen_Shot_2020_11_26_at_6_46_14_PM.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 907
+        isCached: true
 
 secured: "atcekd6owyK4VbeGCKcjWwEzNvoN7HR/XhrwnVwEv786z8POrvP2ZXhCPtaBuPun60AXnSzVcNRpxFimLSrdRskJfUv6HytbiudAc2vziDh+yEWt90xoSJS9fuHsPTXaljM3B5rPmY9yOnVWen1sekXaO+TVNLu59cDPxxA55RF1nYZbveH2FDJhsQ6uBO9Zm+vSyRMQzXEwA01Emz6hbc0yoD2Jsjwf9SpgIvufOZplOJ3x0hE1Z9fo9U4tsYBuAyL7/zFqbs2NXQfJPtsYgTUe/AgsP+q7xmHDGxIpFZakA7rraD3yG1GvE5TTxDnH7vG0iKJbvm3Bq+yOAdVg+k93V8iVmTBmU4MF95/SRxlKaw0MWobxqWWpMD/rLGT3GB4LdHnd9sCbkxXdu5RZnjDjx/bqiavpYaAZFM47bCx+whI06Y/5eYzcNYeATzScBVAwzIrFtcr0TzqlTBji89puQvjyO2Z6ffX3zSuHATMBsqhSnji3m03PwcTOGlK5fd9GiPhnfNGNWwGvAtGhiA==;xBpFKVfJqaX27UELZMaZ9g=="
 ---

@@ -1,31 +1,35 @@
 ---
 category: news
-title: "Joe Biden Considers Roger Ferguson to Lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
-excerpt: "President-elect Joe Biden is considering TIAA CEO Roger Ferguson to be his National Economic Council director and former Commodity Futures Trading Commission chairman Gary Gensler as Deputy Treasury Secretary,"
-publishedDateTime: 2020-11-25T22:32:00Z
-originalUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-webUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary/2746684/?amp"
+title: "Joe Biden considers Roger Ferguson to lead National Economic Council, Gary Gensler for Deputy Treasury Secretary"
+excerpt: "Joe Biden is considering Roger Ferguson to lead the National Economic Council and Gary Gensler as Deputy Treasury secretary."
+publishedDateTime: 2020-11-26T03:54:00Z
+originalUrl: "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html"
+webUrl: "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html"
+ampWebUrl: "https://www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/11/106802622-1606341920317-roger.jpg?fit=990%2C660"
+  - url: "https://image.cnbcfm.com/api/v1/image/106802622-1606341920317-roger.jpg?v=1606341992"
     width: 990
     height: 660
     isCached: true
 
-secured: "Ei9WCkAdpPA9H/U1milTA3ke7xuz66ohFkyX/E86QbHvz1I7ne+Q9iwvgeeb2/j/ZPNaqRUy3Ll+WRasGDVGyIklbsNbjJegxlJytVLMNEZvHlLh0dp25ra3A7oznGEL30+K3MQuXm41KSfiz/KY/lWKXLEt0cJ6rOHrETfoFw8xwtMqsv51Kax8o/stO5UjbmF38mZsmK1A3T3RMDX7q4bTeC2Du35KPJ5tktKvItVPUT2P63WHsn8ef5UzEbqFyDV4pRlcfMS9TIMwyymPTx7vrF67YWihiUR1PUh0EOICJlLwq6uC98+kFbEgKnExmaeCDr485Yesgsr4trI1xBn39XhCZXx7Mg+9alTCWyM=;+r1ZS7xYM8l0uzGiyUUxHQ=="
+secured: "P2pl1cu1zEFhqNkqm5A17N8KJSJ+7Wk3YfyVIpj/dkttEey6taQcoodmiBO6lD4O9TQuKKxglV8dqXSvIX0IZjpORUptvUvJZAqcOx1QGKIrdWV+v3gO5pA8hnE6gdoGt8zJJO2Dhg9NHtpXGFLYNQr6xZI8Hv/Qg3KcCOlUiZAUigzOH+A4dDTXj44XlD8pf3gJ9uheyQ7VZabtBqBGzVOq0YMziqpqqfXiVGbNc/hx4Lak2RWVD3YDBKeUlQZKRGSDK7Q/SOxVwHAKTj1NBlvnOf+P3tSpw6DwEyr2LZfC5/SkzhMWnBoSS84cYUcMaFNRiWUJh8CkYxcgiqA2fU9zdPTIfoGstK+IE74BWZI=;nes15uCps+SMItlBcWJiZQ=="
 ---
 

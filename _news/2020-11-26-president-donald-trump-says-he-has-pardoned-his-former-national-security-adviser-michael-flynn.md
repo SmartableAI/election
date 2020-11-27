@@ -1,22 +1,22 @@
 ---
 category: news
 title: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn"
-excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-publishedDateTime: 2020-11-25T21:14:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn."
+publishedDateTime: 2020-11-26T02:11:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
+webUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
 type: article
 quality: 113
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -620,6 +620,6 @@ related:
         height: 563
         isCached: true
 
-secured: "swidVr3dY0LNfFNg9zbsBgbDLSLVQLvfODzevzPQ4ALnc9zmYz185LY7kZzxKJ/ZHgER0/INHKPxwb7PhrqOIiCuAA1X2KaUjzEf0lw6sph+RPhBYoMYlxgA0offt323uCZtRq2fmDkZKIdOLwA22JjAnEjJx4nLqq39AQ6BYA3bp1W730fdLtih/aDj23uf0aIeIhAPTGlr1Qw8YIGdDo+941qa5hOGNx0VeYScpcAACjBF0Kubm5blM2Ejr23oJ2XPw5VEJaMl9nUsagWJcFA3amSDIN2rgvq6LI79cKASfAbqSG8tOB5U+TVmFEIo9/0Y6ctxUiknOhVtH+mNnpg4w5DhasoIU0fTBoUhw2c=;4/XYtjqgmbijBJLQcR+Tjg=="
+secured: "8cXXbo7EFPHKFiHHHuFBM+aqcPCFPTe51JemjvuJw4kJ68iHykUTTFQWzHK7UFjWstmz6B0IWwAx+XKsuzZvsLczitQq7DsiJ4yq/iYNYrfocr38frYg1U1lTQZQchOOXojOFgTjhTgH/h8vLgNId3mdqgi0GXaLL7X8+S5afEbnmNh4SyoR/TG0gbxApcOr2ayQnHaw/IXfDQjHj3vQ0OneHT2FQrZ9l/+U+DUNzqH7/keW8K9B7Mj4W9y6BY4pdbAP7scFZp9V9mC5Ad0n/icXvQdVG4EN8NFLLAhudBQdm32fYUXuWTFJ4GmSdW/nusn39DfD66VR03wI12Jc3mND8a2ZUVVobrJPFJf3w9Y=;yB3VMqTZmDO4XVW3yyavKg=="
 ---
 

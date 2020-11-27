@@ -476,20 +476,20 @@ related:
         height: 675
         isCached: true
   - title: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn"
-    excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-    publishedDateTime: 2020-11-25T21:14:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/president-donald-trump-says-he-has-pardoned-his-former-national-security-adviser-michael-flynn/2020/11/25/27ca01ba-2f63-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    excerpt: "President Donald Trump says he has pardoned his former national security adviser Michael Flynn."
+    publishedDateTime: 2020-11-26T02:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-donald-trump-pardoned-national-security-adviser-michael-74405783"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 113
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "'Honored to serve. We did it right': Top cybersecurity official fired by Trump via Twitter responds"
     excerpt: "Christopher Krebs defended CISA's work on election security. Lawmakers praised the director's work after Trump ousted him on Tuesday."

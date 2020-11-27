@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/senior-trump-campaign-advisor-trump-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senior-trump-campaign-advisor-trump-basically-just-conceded-wapo-2020-11?amp"
 type: article
 quality: 128
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542458526&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAO1KP"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump: ‘It’s going to be a very hard thing to concede’"
+    excerpt: "President Trump on Nov. 26 said that he would leave the White House if the electoral college voted for President-elect Joe Biden next month."
+    publishedDateTime: 2020-11-27T00:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-its-going-to-be-a-very-hard-thing-to-concede/2020/11/26/ed3b2845-0e12-41dd-9483-f97e0fea7d5a_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/11-26-2020/t_bbfdd35035ff4803938b222a5fabc9d6_name_Screen_Shot_2020_11_26_at_6_46_14_PM.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 907
         isCached: true
 
 secured: "lkYXZvKu9d9d6b3sQlk1GUF/XU6H2qUx4XLGqDwLJqL4hWscyuUd6Zulli0UzV8m24wjRftpjxZOQ60eHFqYVDCur5ky4bhWk6BEQRzOOAI6njHQUd2bezfVUe+ZfqH9yNxu4nP/+VNGfDbmCBKSqmyNFWcbzZ35ofN3/PLX5zVCzH0Mcv/nXAowntqcEUeKU2wvIgTZ4ptWqvvsYlsYSC062vfhTmwyBAgYIK8V8l2TAYF0TQ5bUWJsc6E7bC7e2CQsf+me/Xqpayj3q8Mum7OkmxXN60ByZCfsRD1oPLvOEfTlNCZBTmUp+e6/aRP7Q/8yRF1X/K1OyL2n6uJgJkytH0I6rkggw5WJa+VF1/1MwnT+lYAvX/nATBKWCZBcQ0HeVOBnIG+maYWnNSeP6IjX1tHyzGDNsDmmb64of3gWPaQ58rU7gdn0qF+NoZYITshXpPg8kzySm9jBjQ1h94s0XvrXXlRHMLbJOKu6zjxz4WcsnY2m7ao732MBSSjtWF5UIFryb0aw9S7nfdOnDg==;ZA8/sTEmoslixbhSte5zvQ=="

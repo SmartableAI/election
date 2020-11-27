@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-angry-trump-promises-rally-in-battleground-state-of-georgia.md",
+      "title": "Angry Trump promises rally in battleground state of Georgia",
+      "excerpt": "President Donald Trump on Thursday renewed baseless claims that “massive fraud” and crooked local officials in battleground states led to his election defeat, and said he’ll go to Georgia for a rally",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/angry-trump-promises-rally-in-battleground-state-of-georgia/2020/11/26/ad27cf48-303c-11eb-9dd6-2d0179981719_story.html?outputType=amp",
+      "publishedDateTime": "2020-11-26T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-defund-police-supporters-tell-biden-theyre-not-going-away.md",
       "title": "Defund-police supporters tell Biden they're 'not going away'",
       "excerpt": "Far-left advocates of defunding the police say they are \"not going away\" just because Joe Biden won the presidency.",
@@ -55,58 +107,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-kamala-harris-shares-how-to-brine-a-turkey-in-viral-video.md",
-      "title": "Kamala Harris shares how to brine a turkey in viral video",
-      "excerpt": "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php",
-      "originalUrl": "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -215,6 +215,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat.md",
+      "title": "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat",
+      "excerpt": "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/",
+      "originalUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/",
+      "publishedDateTime": "2020-11-26T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -543,6 +586,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary.md",
+      "title": "Joe Biden considers Roger Ferguson to lead National Economic Council, Gary Gensler for Deputy Treasury Secretary",
+      "excerpt": "Joe Biden is considering Roger Ferguson to lead the National Economic Council and Gary Gensler as Deputy Treasury secretary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106802622-1606341920317-roger.jpg?v=1606341992",
+          "width": 990,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
+      "publishedDateTime": "2020-11-25T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -937,6 +1032,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-26-willie-brown-demands-gavin-newsom-replace-kamala-harris-with-a-black-woman.md",
+      "title": "Willie Brown demands Gavin Newsom replace Kamala Harris with a Black woman",
+      "excerpt": "Willie Brown does not want Kamala Harris' Senate seat to go a Latino, stating, \"Racial minorities should know they should not try to fill each other's vacancies.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Willie-Brown-Gavin-Newsom-Kamala-Harris-Senate-20-15753719.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/70/31/06/14782875/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-matt-schlapp-nevada-allowing-trump-team-to-present-election-fraud-case-a-great-step.md",
       "title": "Matt Schlapp: Nevada allowing Trump team to present election fraud case 'a great step'",
       "excerpt": "Nevada is ready to hear the Trump campaign's case regarding illegal balloting allegations in Clark County, American Conservative Union chairman Matt Schlapp told “Hannity” Tuesday night.",
@@ -1207,170 +1354,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-the-trump-administration-is-considering-shortening-the-recommended-quarantine-time-for-covid-19.md",
-      "title": "The Trump administration is considering shortening the recommended quarantine time for Covid-19",
-      "excerpt": "President Donald Trump's coronavirus task force is reviewing evidence about how long people need to quarantine to be safe and slow the spread of Covid-19, according to Assistant Secretary for Health Adm. Brett Giroir.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kG7dcpjim5o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200731101534-03-coronavirus-hearing-0731-brett-giroir-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/24/politics/quarantine-time-recommendation-trump-administration/index.html",
-      "publishedDateTime": "2020-11-24T14:39:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-corn-vs-cob-trump-pardons-lucky-thanksgiving-turkey-but-avoids-political-jokes.md",
-      "title": "Corn vs. Cob: Trump pardons 'lucky' Thanksgiving turkey but avoids political jokes",
-      "excerpt": "President Donald Trump partook in an annual holiday tradition – the pardoning of the National Thanksgiving Turkey, a turkey named Corn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/24/president-donald-trump-pardons-thanksgiving-turkey-skips-political-jokes/6406179002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/446ebf97-c3da-4737-a944-cc6c6e2b5dfb-turkey-pic.jpg?auto=webp&crop=3382,1902,x1,y161&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6406179002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6406179002",
-      "publishedDateTime": "2020-11-24T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-chalian-on-bidens-agenda-america-first-is-gone.md",
-      "title": "Chalian on Biden's agenda: 'America First' is gone",
-      "excerpt": "CNN's David Chalian explains how President-elect Joe Biden's approach to selecting his cabinet differs from President Trump's.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smtbZ2jSf7o/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124140636-david-chalian-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/11/24/president-elect-joe-biden-first-cabinet-selection-compared-to-trump-administration-chalian-nr-vpx.cnn",
-      "publishedDateTime": "2020-11-24T12:33:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

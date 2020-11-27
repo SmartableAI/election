@@ -167,6 +167,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T00:06:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
+        width: 604
+        height: 344
+        isCached: true
   - title: "Biden’s Electoral College victory projected to be same as Trump’s in 2016"
     excerpt: "After the secretary of state Brad Raffensberger certified Joe Biden winning Georgia after the state’s recount, the president-elect’s electoral victory margin is equal to that of President Trump in 2016. "
     publishedDateTime: 2020-11-20T23:50:37Z

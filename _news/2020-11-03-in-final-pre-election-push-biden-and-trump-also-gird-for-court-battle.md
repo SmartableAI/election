@@ -3807,6 +3807,22 @@ related:
         width: 825
         height: 545
         isCached: true
+  - title: "Trump says he will leave the White House if Electoral College votes for Biden"
+    excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for Democratic President-elect Joe Biden."
+    publishedDateTime: 2020-11-26T23:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2862HC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2862HC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2862HC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542596789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1EE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Trump takes a break from calling Joe Biden old to reference Bob Hope"
     excerpt: "Trump tweeted Monday that Anthony Fauci had received more airtime than anyone since Bob Hope, the vaudevillian who died in 2003 at age 100."
     publishedDateTime: 2020-10-19T20:50:00Z
@@ -4443,6 +4459,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-wilmington-01-gty-jc-201112_1605219129611_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
+    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
+    publishedDateTime: 2020-11-26T23:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/beca7043845d25d8f4378605e63cee35ad66be4e/0_58_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7f730dff44be223d6da9e85131e176d0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
@@ -5150,6 +5182,22 @@ related:
       - url: "https://i.insider.com/5fb19c28402d49001924f078?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Donald Trump says he will leave White House if Electoral College votes for Joe Biden"
+    excerpt: "But Trump said it would be hard for him to concede under the current circumstances and declined to say whether he would attend Biden's inauguration."
+    publishedDateTime: 2020-11-26T23:46:00Z
+    webUrl: "https://www.cnbc.com/2020/11/27/trump-says-he-will-leave-white-house-if-electoral-college-votes-for-biden.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/11/27/trump-says-he-will-leave-white-house-if-electoral-college-votes-for-biden.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/27/trump-says-he-will-leave-white-house-if-electoral-college-votes-for-biden.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 128
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106802811-1606433451334-gettyimages-1229807522-AFP_8VY6W9.jpeg?v=1606433143"
+        width: 6048
+        height: 4024
         isCached: true
   - title: "Biden and Trump disagree on nearly everything — but here are three things they actually agree on"
     excerpt: "On Section 230, the promise of a large stimulus package, and a certain approach for lowering drug prices, Trump and Biden (mostly) see eye-to-eye."

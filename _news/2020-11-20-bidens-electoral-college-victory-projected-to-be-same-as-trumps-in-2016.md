@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will leave office if Electoral College votes for Biden"
+    excerpt: "President Trump said Thursday that he would leave office if the Electoral College votes for President-elect Joe Biden, and also alleged “massive fraud” in the vote count and promised to keep up with his legal fight."
+    publishedDateTime: 2020-11-27T00:06:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GE1uDdh9e-c/trump-says-he-will-leave-office-electoral-college-votes-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-will-leave-office-electoral-college-votes-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/1Trump.jpg"
+        width: 604
+        height: 344
+        isCached: true
   - title: "Biden says Trump administration outreach on transition has been 'sincere'"
     excerpt: "President-elect Joe Biden said outreach from the Trump administration has been “sincere,” since the General Services Administration ascertained his win on Tuesday. "
     publishedDateTime: 2020-11-25T01:44:08Z

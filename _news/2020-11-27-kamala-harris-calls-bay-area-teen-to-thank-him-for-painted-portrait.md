@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris shares how to brine a turkey in viral video"
-    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
-    publishedDateTime: 2020-11-26T19:18:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 105
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Willie Brown demands Gavin Newsom replace Kamala Harris with a Black woman"
     excerpt: "Willie Brown does not want Kamala Harris' Senate seat to go a Latino, stating, \"Racial minorities should know they should not try to fill each other's vacancies.\""
     publishedDateTime: 2020-11-25T17:25:00Z
@@ -55,37 +41,19 @@ related:
         width: 2048
         height: 1430
         isCached: true
-  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
-    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
-    publishedDateTime: 2020-11-26T14:03:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 70
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings - but global elite boys club remains"
-    excerpt: "Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal R"
-    publishedDateTime: 2020-11-25T18:05:00Z
-    webUrl: "https://www.chron.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
+  - title: "Kamala Harris shares how to brine a turkey in viral video"
+    excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
+    publishedDateTime: 2020-11-26T19:18:00Z
+    webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 61
+    quality: 55
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.hdnux.com/photos/01/15/35/05/20304200/33/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "//LMP1ZK1oGHI3qiIGfTb6Wgq8NX20qIWi5l3Q9DQuvVbb3t/OmxKd5+75bkOrKOIK6PlGwlT9YJBkwHgDeEPR5D5syGm3COEOJPH5uyl8QfoaNJmW1snwOQOyq9vgMD1WOWSHRRyF8zVRQFmsY7F9nedIVHuxupjv3vWtjRr2P8mOEQI5Kqb8xawJT+SaQxiamZJzG/5vChAxbwiC/Qstx+NjH4k2JXGquNRnfqU0i17NZhi+10J7Xn/l5pD4HSehfMn/pC2W9d1WB0cga1G6fz5aydaN61J+/RuXJ2Bj7y9unaPoUlWyZbN+UeUnjcXLUC8WmDMwvrlLgippkrDvogN53EHdyuAREv6kI6XJ3WI7UN2TFk7PkO99okbWlN+atYH3KaE3h9JplCMXr33ixudmXbQEFs+V4DJVD3AOHuctGRKZkus7jxoC6WPtS54yoJRiY8at66NvzpBgoEmbn5DbsTkRPQx2Q07ywPjuQ3FN5px3e9yp6FYSim3se2G340hgpQvGgHytWMCSTzGw==;SZVwZGabnw87qquOM6dtCA=="

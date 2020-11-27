@@ -167,7 +167,7 @@ related:
   - title: "Biden's Foreign Policy Vision Takes Shape as He Selects His Team"
     excerpt: "President-elect Joe Biden has started selecting core members of his foreign policy and national security team, revealing a slate of experienced — if not all that surprising — Cabinet picks with the goal of returning some stability and credibility to America’s relationship with the rest of the world."
     publishedDateTime: 2020-11-26T17:49:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/11/26/bidens_foreign_policy_vision_takes_shape_as_he_selects_his_team_530114.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -3,20 +3,16 @@ category: news
 title: "Kamala Harris shares how to brine a turkey in viral video"
 excerpt: "A 2019 video of Vice President-elect Kamala Harris offering tips on how to brine a Thanksgiving turkey is spreading across social media faster than you can pass the gravy. The video was captured and posted on Twitter by Washington Post journalist Jonathan Capehart who asked Harris for her tips on cooking a turkey as she was preparing for an appearance on MSNBC's \"PoliticsNation."
 publishedDateTime: 2020-11-26T19:18:00Z
-originalUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
-webUrl: "https://www.houstonchronicle.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
+originalUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
+webUrl: "https://www.chron.com/bayarea/article/Kamala-Harris-turkey-bring-corn-bread-recipe-15756405.php"
 type: article
-quality: 105
-heat: 185
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: chron.com
 
 topics:
   - Election
@@ -59,39 +55,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democratic fight emerges ahead of appointment to fill Kamala Harris’ Senate seat"
-    excerpt: "A cross-country lobbying campaign for Vice President-elect Kamala Harris’ Senate seat has pitted factions divided by race, gender and geography against one another and heightened internal"
-    publishedDateTime: 2020-11-26T14:03:00Z
-    webUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/"
-    ampWebUrl: "https://www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/11/26/democratic-fight-emerges-ahead-of-appointment-to-fill-kamala-harris-senate-seat/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 70
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/hypatia-h_ea094ba89905318495f9d2a79bd2c69a-h_b6055c4a4a32d16317462659e297de20.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Janet Yellen and Kamala Harris keep shattering glass ceilings - but global elite boys club remains"
-    excerpt: "Janet Yellen may soon become the first woman to lead the Treasury Department, about six years after shattering another glass ceiling at the top of the Federal R"
-    publishedDateTime: 2020-11-25T18:05:00Z
-    webUrl: "https://www.chron.com/news/article/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Janet-Yellen-and-Kamala-Harris-keep-shattering-15753253.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 61
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
-secured: "X4O2ZAhlaKm4oCNTymRjtvL7erRy+WPCYfbC9nPXjDpyObNNxyOUSSdgJpgu27hjXRGYw7e3HG0SdyyuAYD04tn526xKRua3mSjKENtgwTATF8eqj6fFDgPWH+3jJnq44u4v2RhG80sgb6RVGfwX6wwuQ8U7dRNtxoMd7DPlhGXYLsUoQehs+IIWLJakpeINJu6ncY9/CYBtEs3gODDn31B9A875oXdd8uGeM1jugd8+IuZ8uzu4Z1jpnxzPOwM012k02Ikdm5ochtQFK2h011Miv9Q3glnJvVqJQXtwV+arWf8Rw0hRW3CydJWI44yIuXp699MqC29qg/HVKHkdOwD26UrL+eOIUZVxjYNypMXt5AH3ulA/DxrooqyIEsK1UXjxZ8vLXaQViXEfNfs4Ak/6WBtCgaVxDkAtM2rPf9e7uMBeIAThHWT5Gg3cMsHTY1sSnSdqz6nEFXgsGEzrnwS1uZyXDxVIZ2G3FquRtZHUxJcUBLtoZgvarM5bF4aTKcjnQjRcKbn0IffdoHve7Q==;DMmaEZS3Xy9JenPj2i2PDA=="
+secured: "/tyUTFXgoNL4RIPmTwn2T2Gb10BdeLP1gVY5l8udataNLYvsZOBEJaOMpVhgBq8S4KieIFL3fCdP/w1BdO2WA/if2CTcOCxjKpOXxuFgZ3WWHUGCBuXH9Iix3ovDVdKb7SircSUncFm99stZo7Ran2FxUW12BFLru5J70pTdgIBAqtDK1+SImM9dhi/63ko2y25Zm2uINEXq4IF+AWZLp4jWGnmxfKSb0tNxgheiBfvrp+9fDjBrn1iurrqNOEWjiPLF2Nor2qCDinfK5RJnkRU4Lk9daXxSO2dd1/5lZAQD37/QshwB+JdyZawWT5EUTJmo86sMAKCbbX2sqjuStDM8FK6GRXeN5i9gNdJFYjg=;oHRkXmD2RAo6fNJ8g5eIEQ=="
 ---
 

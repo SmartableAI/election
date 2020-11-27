@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-02-newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski.md",
+      "title": "NEWSOM, HARRIS hit trail for final weekend — GOOGLE ballot search issues — EDD head HILLIARD departing — KHANNA backs BOBULINSKI",
+      "excerpt": "Trump conflict that spawned scores of lawsuits; after ballot initiative campaigns breaking records as they spent hu",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/california-playbook/2020/11/01/newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski-490755",
+      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2020/11/01/newsom-harris-hit-trail-for-final-weekend-google-ballot-search-issues-edd-head-hilliard-departing-khanna-backs-bobulinski-490755",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-fact-check-false-kamala-harris-claim-uses-image-from-2019-trip-to-iowa.md",
       "title": "Fact check: False Kamala Harris claim uses image from 2019 trip to Iowa",
       "excerpt": "A viral image purporting to show Kamala Harris intoxicated in Ohio is actually from a trip to Iowa in 2019, and she isn't drunk there, either.",
