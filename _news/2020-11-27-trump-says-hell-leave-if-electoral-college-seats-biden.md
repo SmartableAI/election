@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump says he’ll leave if Electoral College seats Biden"
+title: "Trump says he'll leave if Electoral College seats Biden"
 excerpt: "President Donald Trump said Thursday that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden’s victory even as he insisted such a decision would be a “mistake."
-publishedDateTime: 2020-11-27T01:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+publishedDateTime: 2020-11-27T07:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_795d53de3deb47c9b07ca054c3a96104_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -12320,6 +12320,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "PubbnIqwVrTVqF7C0773QKhvVY/L9XRTVvHyMrYUKtQosc1Joco39q8apRkK/Bx36vsUniaMimtApEkzLuklWPoDyeJVo/8gu37ooX8HNT9agk2Otz0y+valLVtopKLcXPcgxN1qD0tHrrbViAnEMBq5ko3AM2BOUgOhkVuRSaeYYDTEdwfggbRNDRAL49TrBHlqvWz0iLK+4th8c/7nKMBkHeSywmungxfFu6Ul8h4RLX1ZIeqw6nRQ3xcj1z/iQP9/1C7CJQGw7rr/DgN1FQdJm9p+x85DJIloi0d07BtSFMABF8kdUIDF4TuPtqB+UlVQSplYDDzC8w1hkmEbMAGhByMkdXKLBgKXcptlFO8=;ot9fejth++rCnTspZyw0Lw=="
+secured: "39tRIBONa1vWmp/lf2QHOmOlVYQZbvG5UfWscITTcrpN+YfgYnbw+TYyR5Mmk8ekKd5urIXnSysdOG8mBinnqYI+MRFnn+aofOZrLramySOWMHsA7goSJebzT2BwBoUrjTz+PK2okyIk70ai4/SZbsasIXCQhVnAMjpetT0QcIPxIdycSlx2K6LWNdVbnUucFNlLdqs5Gn/AJO68W6mk83ix0o/nQVKU08UcMVe3lTgXK/ZaTzLuxn0kP3hrPN4f85jteQC4TlFUJT7PYB0fUhWxEWqnBEbWki/l+jzqEJ+OFu2GB9qRa/kv1B6f+WvNWOjWOg6Xb7vg90QCgQyTV/cQ1wOu0B1Wy+ISjfW4uKw=;5TwI8L5ZPTTnLUSyPs7lIg=="
 ---
 

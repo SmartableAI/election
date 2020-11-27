@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-coronavirus-resp
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-coronavirus-response/2020/11/19/610a3fde-2a96-11eb-8fa2-06e7cbb145c0_story.html?outputType=amp"
 type: article
 quality: 161
-heat: 2601
+heat: 2641
 published: true
 
 provider:
@@ -623,6 +623,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/lDcHhKHgnZ3Xx6ewT7bF5vpCzYc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NMEF4JOTCGCGUTDKZB4KLUSWYI.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump-Biden transition live updates: Trump says he'll leave WH if Biden inaugurated"
+    excerpt: "President Donald Trump has promised a prolonged legal fight over an election he refuses to concede while President-elect Joe Biden is moving forward with his transition."
+    publishedDateTime: 2020-11-27T07:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-thanksgiving-troops-lk-reut_hpMain_20201126-191817_16x9_1600.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
     excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
@@ -1826,6 +1842,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/29f4d021-6bd0-4ce1-93aa-d6d26165be1e_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Meet Joe Biden's Cabinet picks"
+    excerpt: "Democratic President-elect Joe Biden began naming members of his Cabinet, appointing experienced foreign policy and national security experts to key posts in line with his pledge to restore the United"
+    publishedDateTime: 2020-11-25T06:23:00Z
+    webUrl: "https://www.reuters.com/news/picture/meet-joe-bidens-cabinet-picks-idUSRTX8BOLJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201125&t=2&i=1542358212&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-11-25T012310Z_37564_MRPRC2V9K9SOORC_RTRMADP_0_USA-BIDEN"
+        width: 810
+        height: 534
         isCached: true
   - title: "Trump pardons former adviser Flynn"
     excerpt: "Posted [NFA] U.S. President Donald Trump on Wednesday pardoned his former national security adviser Michael Flynn, who had pleaded"

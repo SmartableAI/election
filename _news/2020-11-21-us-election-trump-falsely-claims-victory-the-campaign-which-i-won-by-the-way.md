@@ -459,6 +459,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump pardons ex-national security adviser Michael Flynn; ends three-year legal odyssey"
+    excerpt: "Michael Flynn pleaded guilty three years ago to lying about his conversations with Russian Ambassador Sergey Kislyak."
+    publishedDateTime: 2020-11-27T07:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/11/25/michael-flynn-trump-announces-pardon-former-national-security-advisor/6419985002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6419985002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6419985002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/05/USAT/4a1f6fa3-badd-463d-8f4e-af5c2580740a-615530474.jpg?auto=webp&crop=2826,1590,x343,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Legal problems Trump could face transitioning back into private life"
     excerpt: "As President Trump continues to fight the election outcome, officials in New York have ramped up investigations into his business dealings. New York Law School professor Rebecca Roiphe joins CBSN to discuss."
     publishedDateTime: 2020-11-22T02:03:00Z

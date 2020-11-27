@@ -415,6 +415,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden to deliver a Thanksgiving address seeking US unity"
+    excerpt: "President-elect Joe Biden is slated to deliver a Thanksgiving address to the nation seeking to unify Americans in the face of the coronavirus pandemic as experts warn of a possible spike in cases resu"
+    publishedDateTime: 2020-11-25T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/america-back-biden-pushes-past-trump-era-nominees-74391208"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b3a3db32032442239d6be4cc5e7f43c4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden’s Start in the Stock Market Ranks With Any in History"
     excerpt: "Good or just lucky, Joe Biden’s first three weeks in the stock market have been historically solid ones when measured against newly elected presidents of the past."
     publishedDateTime: 2020-11-25T21:37:00Z
@@ -726,6 +742,22 @@ related:
     quality: 108
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRUQDRMPQI6XD5CA3T4XMKFYA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President-elect Joe Biden posed in his vintage Corvette. But he promises a big push for electric vehicles."
+    excerpt: "He has set out an ambitious agenda to get Americans into battery-powered cars as climate change shapes his administration’s transportation policy."
+    publishedDateTime: 2020-11-25T16:04:00Z
+    webUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/biden-electric-cars/2020/11/25/5076e316-2e6f-11eb-bae0-50bb17126614_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2AKP7VBOSQI6XOXAKC5ROETGCQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1068,6 +1100,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "19tZq08LXJX2fBP92/DbnhAGarXKxH0pwppLkBruaB2lpW+4kkCot32LgvHEo0T4OYFA+J4gTT6nKKnw3eJsjKQ4vaLcy/9PJ3/7FCSAJct6N7Q5b+JWucp2Sia4QCukkDJgsiSMCrOE6Ermf1WGnGN3qUl+HkfAk5jIbMD+xSs845nwQfeV1cDMvD/4YnuJnwduXfoQtjdAR3T6/ZP6ZZPSGIOI+Fe75QI/gijmk/ROwyDJfLE+QZmfUTtOrXkOxJ8WnB6nmmo4s4mzBklAmtIbEj32TUS8vwbxvdi+ZdGNrAZvlCphloU6fFIIgys3JzGO20ACYua4E5Fe+UPBPTF1fKEXESriViIIEsCrkeM=;JR9UloOnWqv6yxJoZs6Bdg=="
+secured: "r8BqHRi2Dv3WVDMgiqxoiJ4KGnEdqJ0+1RxdECi54Av4RHzhYCmuQ67zMA2X6w+eOERoByXTgJLvDB/WH6pAT/s4wJIBB9c2eNhtSQZMmuKY15yoFb0sjQYkm8jpqMTXRT9rHC+xa42k5HD9I+GQU29ql0p8NqQaSa5l9raNP9vJw2wORJbmoppdB3x3cO4iwpfAwwMvqZLR8ZiYk1pCsED1T1c8od8xnYDO0DhkYMDr9RNb2oCbSpNvVLIIPXGwJLJDaLYug+yxR9SUHwDiSEgUahRqGqrG97eb8Eo3WM/61VY1L7y46Y+b4ss4lapTrJKSRxUwUF4j/UQZZLAQbzETTq26btPnzxYBNjDkmKOzljnTaNnICDTZhQytcfgYaLDDeIKed1I/1OlKVEoXyrmIfwnJc7GqyVUttuisE4XQ8Q2BHff2V/DoBPv9yf4jBwbDxhC1tArz0rcpPpMOz8jjG2n1wna4B2A+7rWD00Bc9T4qg3TlRHkwGnpiIAuGBPFvB771EjmUsIk6vGeQkg==;HfgA+V+d2eJTtrtUys4jYQ=="
 ---
 

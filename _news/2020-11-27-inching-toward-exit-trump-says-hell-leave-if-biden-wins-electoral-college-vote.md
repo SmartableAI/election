@@ -2975,21 +2975,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump says he’ll leave if Electoral College seats Biden"
+  - title: "Trump says he'll leave if Electoral College seats Biden"
     excerpt: "President Donald Trump said Thursday that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden’s victory even as he insisted such a decision would be a “mistake."
-    publishedDateTime: 2020-11-27T01:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    publishedDateTime: 2020-11-27T07:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-hell-leave-electoral-college-seats-biden-74422187"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_795d53de3deb47c9b07ca054c3a96104_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
@@ -12320,6 +12320,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LcZORpbh0Gr+W/Pmb0bWoMEx/3Uq2m+SDiHcl2PE0/R99m6O1jUHkFhJnZgPU/jXDajMyQRXwI+jh+7jje5Uwvpak5mTMPsm4o6oPvUTdHiFkBY1YzpD+Ym/NOnPw5GbQHV1vSP+gDvFQeoGUobO5Dl0+prFQKFz8VzJzCrm1gEpCdBo76x3epE0xJ+Ci/xFvOmfxwk29gRfvgrlCU8eBAnR1oyD3ahvL4wm7UwgLkxci+kurBU/DenMzG6pEWBDbrpvw4bDrIeLCHRbUUCl/s7lP4TD7RXzqwoWnfGhkQuriS+1gjnlJQirkYvzNFMZaKQiqhGYVyv1OoZYTlJjlzV/JQpHPwl/oDKU71NtP1k=;ocz1ZAtcGgmid02uUPWR1w=="
+secured: "DgMWSI6rsrccGjKRbKIL4enNilaOGKDFm6U0/2OuxdyTfQ1Yz0pTXwFW2ByLTbWgmvwkuKtUD5Vcq8woExsUZehtDM80RLyPGPxXZwUi7PY7c2EgbijYOEvYwLViQhPQ8mfgm63AmNcvUapkYYG11SaH7hwOuYCr8X5n7tVMh2g6bJs6Q8RY5NA7ZzYB5baznBoVDlIoUHiEZB9YW4CxX7jPsY3sq3RWpu15vrkvCYktMQMt9yiDGwRIHp8Zt4ejQFWgwLCVkQCPBUpettdY8t/8ww7jWFUreqJEVNrwedXAjDC4znux7jhT/rtghXeFCRHZoj8Lx5FTcsD9xonWj8ulljsSVkuJSIqSgOdJVpvpAXd5l3y7VwSVsi4/AaMm1dZVMU02GClufwuN8rYxHls6NSc5NSdP2EfaWucQ/e1ErmnjfvycpaxXxwIkyV/G1gEkIaJOsj8KQsokvJY+Vo1nFF/Ere0VGlCZ9ydFubB3YK9OeS5wpeZkexW1EdKO44q2vCmjJ9u3J1aEd0IPvA==;IZVFUPg7Q4b9LhewyS+VDA=="
 ---
 

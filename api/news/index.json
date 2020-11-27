@@ -701,58 +701,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-joe-biden-considers-roger-ferguson-to-lead-national-economic-council-gary-gensler-for-deputy-treasury-secretary.md",
-      "title": "Joe Biden considers Roger Ferguson to lead National Economic Council, Gary Gensler for Deputy Treasury Secretary",
-      "excerpt": "Joe Biden is considering Roger Ferguson to lead the National Economic Council and Gary Gensler as Deputy Treasury secretary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106802622-1606341920317-roger.jpg?v=1606341992",
-          "width": 990,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/25/joe-biden-considers-roger-ferguson-to-lead-nec-gary-gensler-deputy-treasury-secretary.html",
-      "publishedDateTime": "2020-11-25T19:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-11-26-progressive-groups-want-squad-member-rashida-tlaib-in-biden-cabinet.md",
       "title": "Progressive groups want 'squad member' Rashida Tlaib in Biden cabinet",
       "excerpt": "Progressive groups are pushing President-elect Joe Biden to include more candidates who lean further to the left than him in his cabinet, including a member of the “Squad,” as they seek influence over policymaking.",
@@ -1354,6 +1302,62 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-aoc-ilhan-omar-try-to-block-deficit-hawk-from-biden-administration.md",
+      "title": "AOC, Ilhan Omar try to block 'deficit hawk' from Biden administration",
+      "excerpt": "Squad members Reps. Alexandria Ocasio-Cortez, D-N.Y. and Ilhan Omar, D-Minn., are mounting a petition against Biden nominating his former chief of staff Bruce Reed, who they say is a “deficit hawk,” to a role within the incoming administration. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC1EBAjpbxM/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/squad-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-ilhan-omar-block-deficit-hawk-bruce-reed-biden-administration.amp",
+      "publishedDateTime": "2020-11-24T16:27:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],
