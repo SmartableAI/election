@@ -2,6 +2,105 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-21-massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.md",
+      "title": "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden",
+      "excerpt": "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
+      "originalUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG",
+          "width": 3000,
+          "height": 2187,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp",
+      "publishedDateTime": "2020-10-20T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
+      "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
+      "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7786f99-ad7f-4cdb-bd56-8793a0d5fd0b/505220a6-fdbe-42af-9fb5-742193594d08/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/activist-group-election-protests-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/activist-group-election-protests-trump.amp",
+      "publishedDateTime": "2020-10-20T13:39:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
       "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
       "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
@@ -1228,118 +1327,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-hits-whatever-in-his-long-covid-retreat.md",
-      "title": "Trump hits ‘whatever’ in his long COVID retreat",
-      "excerpt": "Trump has the “whatever, leave us alone” voters squarely on his side, but what about other voters?",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp",
-      "publishedDateTime": "2020-10-19T15:00:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-woman-claims-facebook-took-down-her-account-after-posting-about-her-assault-at-pro-trump-rally-in-dc.md",
-      "title": "Woman claims Facebook took down her account after posting about her assault at pro-Trump rally in DC",
-      "excerpt": "A woman who marched at a pro-Trump rally in Washington, D.C., claims Facebook took down her entire account after she posted about being assaulted by Women’s March and Black Lives Matter activists.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20d0d0f3-f762-45c6-8015-044669faf65b/1549804e-c8c7-4081-9827-8306eff4d69b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp",
-      "publishedDateTime": "2020-10-19T14:48:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

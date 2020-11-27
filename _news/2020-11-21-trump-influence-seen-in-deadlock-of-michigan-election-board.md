@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201122&t=2&i=1542044618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAL038"
         width: 808
         height: 545
+        isCached: true
+  - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
+    excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
+    publishedDateTime: 2020-11-27T22:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/fred-eshelman-sues-pro-trump-true-vote-election-lawsuits/6440272002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6440272002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6440272002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Federal appeals court issues stinging rejection of Trump campaign election fraud lawsuit"
     excerpt: "The U.S. Third Circuit Court has rejected the Trump campaign’s appeal of a federal lawsuit filed in Pennsylvania that challenged the outcome of the 2020 elections."

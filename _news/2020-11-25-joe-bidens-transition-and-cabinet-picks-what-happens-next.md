@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s Transition and Cabinet Picks: What Happens Next"
 excerpt: "The president-elect’s team now has access to cybersecurity assistance, FBI background checks for prospective nominees, the ability to see classified information—and more intelligence sharing."
 publishedDateTime: 2020-11-25T03:09:00Z
-originalUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
+webUrl: "https://www.wsj.com/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
 ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-transition-and-cabinet-picks-what-happens-next-11606250123"
 type: article
@@ -241,6 +241,6 @@ related:
         height: 320
         isCached: true
 
-secured: "15Z4dEdSXqsne8vK8O17/8P8bEHp2j0stm/C9J5jewGAe0YaWjfeorTsKE655iBc8LCfA46LLSpnQsxcIz3xqu+aJVUIAjl/yAUh1G38atyTuA6TAnjL35y4i7t6kztYkBnUtbtSnZWHfSARLMqjxsxRVYKgDDAkCfm7dl4c/T89JG2k2SqgmcZNn4o4bwPmK+KZ8n6cnx9vdgSYAPvni3VQrW/iyhbSthvrVAZASFj0ATxe1U7d0PtHE87JQgrB6sspE9qWXGsbjN43txGW5XyElJ1nw4YmtPz1tIJCvtqEFUi8K0T5ikbO0Jh5L6jUjK96hyNs+QkoCHmtJdDTfo+BVwlUVOPXNEoj4HXmHrEuFIhzrLEDOaU6n0zUtKwfiS6AS4NJplkPdWwO+ArcMvX6m8VVbRV6ZnHEoSsmXvg0vhnEmjITzj+CRJKeeU/3y6URNzW/Pk/PBzXeP5GtrLu36D1jSCmfZq84mUZZAej/0ip/w858I4c091Bb28WrAhkYDOzu1x1JxMbMTZ3aMQ==;4O4eGHJJPNwEcK8odkjhhg=="
+secured: "ucewKtDgrLwdLRaqn0wuYBGyci8K1O65Kc/cNATuRMUfVRci+at0oEjPSsQZjjTDfFivF8aOf2N3oFHRozpAwxhulbxpForFJY7rLcKsA0I3wr/1ldie1/NU4tOB9mo2sofwSRMgwqeQhTM6CJGv9/xf/f31hBSkVVKSYEPEaGgPvicVsV2Um3ZKAMW76p6hFFptox7M+nSm2kfitv0jjLvLAjVWq45IJ/3NFP4l61IlI3MSA2OJRuCygrDdNbmIGwxskkf0A/WNUNJdNMFPQk1+WWz6B6EJLL3rj+sAIgJh8uJxFgBA4SxKI+r8q+FkdZYe3z8pPobUAJr5VZg2K3sZePz7+L9nFOpGQDxHw08=;MRu4GqgZNzbmHZw0GAId9A=="
 ---
 

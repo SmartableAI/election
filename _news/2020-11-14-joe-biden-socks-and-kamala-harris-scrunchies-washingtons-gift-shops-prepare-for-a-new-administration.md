@@ -424,11 +424,11 @@ related:
         height: 675
         isCached: true
   - title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-    excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
+    excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
     publishedDateTime: 2020-11-24T23:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-    ampWebUrl: "https://amp.freep.com/amp/6407257002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6407257002"
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+    ampWebUrl: "https://amp.freep.com/amp/6408670002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
     type: article
     provider:
       name: Detroit Free Press

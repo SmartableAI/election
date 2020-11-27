@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-mattis-did-not-disclose-consultant-role-in-column-denouncing-trumps-america-first-policy.md",
+      "title": "Mattis did not disclose consultant role in column denouncing Trump's 'America First' policy",
+      "excerpt": "The column did not reference the retired four-star general’s work with the Cohen Group, an international business advisory firm active in China.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SBR9hH_Zlc/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0SBR9hH_Zlc/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28aff647-2720-4821-9c6e-c0b23d95d9db/d60abd38-b851-4bb5-b68b-ae6b01fb5c1c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mattis-did-not-disclose-consultant-role-column-denouncing-trumps-america-first-policy.amp",
+      "publishedDateTime": "2020-11-27T14:00:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-trump-warns-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.md",
+      "title": "Trump warns Georgia runoff boycott would play 'right into the hands of some very sick people'",
+      "excerpt": "Trump reiterated his frequent claim that the 2020 election was a “total scam,” but urged his supporters to turn out on behalf of Georgia’s Republican Senate candidates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GQ4DyPULdB0/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GQ4DyPULdB0/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d7d32f1-3cbe-4d32-b262-11636ff1aadc/f7d0832f-1bc7-4025-a734-dddd2036d2b7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-runoff-boycott-would-play-right-into-the-hands-of-some-very-sick-people.amp",
+      "publishedDateTime": "2020-11-27T13:07:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-donor-sues-pro-trump-group-for-25m-over-empty-promises-on-voter-fraud.md",
       "title": "Donor sues pro-Trump group for $2.5M over 'empty promises' on voter fraud",
       "excerpt": "A pro-Trump group is being sued by a donor for not delivering on promises to overturn the election results in President Trump's favor. ",
@@ -1539,118 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/saudi-un-ambassador-nobody-rejoin-iran-nuclear-biden.amp",
       "publishedDateTime": "2020-11-22T14:12:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-biden-expected-to-make-trip-to-georgia-to-stump-for-ossoff-warnock.md",
-      "title": "Biden expected to make trip to Georgia to stump for Ossoff, Warnock",
-      "excerpt": "The push to win both races could see the Democrats pull a divided Senate, which would force both parties to work on passing any legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pm9xeGrBI3w/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Ronald-Klain-and-Joe-Biden.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-aide-biden-expected-to-visit-georgia-in-push-to-boost-ossoff-warnock.amp",
-      "publishedDateTime": "2020-11-22T13:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-dominion-rep-responds-to-trump-campaign-claims-in-fox-news-interview-physically-impossible-to-switch-votes.md",
-      "title": "Dominion rep responds to Trump campaign claims in Fox News interview: 'Physically impossible' to switch votes",
-      "excerpt": "Trump campaign attorney Sidney Powell claims that the 2020 election was significantly impacted by votes cast through machines from Dominion Voting Systems being altered to go to Joe Biden instead of President Trump, but according to Dominion spokesperson Michael Steel, this could not have occurred.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rQzRFFxSzGo/dominion-rep-responds-to-trump-campaign-impossible-to-switch-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rQzRFFxSzGo/dominion-rep-responds-to-trump-campaign-impossible-to-switch-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20325565789319-e1606069535796.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T13:01:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -95,6 +95,22 @@ related:
         width: 808
         height: 545
         isCached: true
+  - title: "Donor to pro-Trump group sues to get his money back after dropped election lawsuits"
+    excerpt: "Fred Eshelman, who gave $2.5 million to the group True the Vote to back President Trump's challenges to the election, is suing for his money back."
+    publishedDateTime: 2020-11-27T22:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/fred-eshelman-sues-pro-trump-true-vote-election-lawsuits/6440272002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6440272002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6440272002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/19da9295-1669-4dc4-bbfb-386ac916848f-VPC_DEBATE_TRUMP_IMMIGRATION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Romney blasts ‘undemocratic’ Trump for pressuring Republicans to overturn election results"
     excerpt: "Romney joined Sen. Ben Sasse (R-Neb.) on Thursday as the only GOP senators to publicly oppose the president, as Trump and his campaign continue lobbing baseless allegations of widespread voter fraud in Michigan and other states."
     publishedDateTime: 2020-11-20T20:57:00Z

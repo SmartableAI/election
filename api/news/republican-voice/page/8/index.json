@@ -2,6 +2,118 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-27-mcenany-joe-bidens-comments-on-oil-fracking-will-be-death-knell-of-his-campaign.md",
+      "title": "McEnany: Joe Biden’s comments on oil, fracking will be ‘death knell’ of his campaign",
+      "excerpt": "Democratic presidential hopeful Joe Biden \"lost\" Pennsylvania in the election after his comments on banning the oil and fracking industry, White House press secretary Kayleigh McEnany said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIuiVjo3EW8/mcenany-biden-oil-fracking-comments-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RIuiVjo3EW8/mcenany-biden-oil-fracking-comments-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-oil-fracking-comments-campaign.amp",
+      "publishedDateTime": "2020-10-27T11:16:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.md",
+      "title": "Trump already chose Barrett successor on appeals court, confirmation possible regardless of election outcome",
+      "excerpt": "With Justice Amy Coney Barrett now on the Supreme Court, a new vacancy has opened on the 7th U.S. Circuit Court of Appeals where she previously sat, and President Trump has already named the person he plans to have replace her on that bench. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8UekYnKR5J4/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-already-chose-barrett-successor-on-appeals-court-confirmation-possible-regardless-of-election-outcome.amp",
+      "publishedDateTime": "2020-10-27T10:26:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-ilhan-omar-mobilizing-progressives-to-push-biden-further-left.md",
       "title": "Ilhan Omar mobilizing progressives to push Biden further left",
       "excerpt": "Rep. Ilhan Omar, D-Minn., said in an interview that Democrats will have \"a cohort of progressives\" who will try to influence 2020 presidential nominee Joe Biden should he be elected.",
@@ -1572,118 +1684,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-trump-announces-peace-deal-between-sudan-and-israel-says-more-nations-will-normalize-relations.md",
-      "title": "Trump announces peace deal between Sudan and Israel, says more nations will normalize relations",
-      "excerpt": "President Donald Trump announced Friday that Sudan will start to normalize ties with Israel, making it the third Arab state to do so as part of U.S.-brokered deals in the run-up to Election Day. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIfgukHML8w/trump-sudan-to-join-uae-bahrain-in-recognizing-israel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trumpdated.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-sudan-to-join-uae-bahrain-in-recognizing-israel.amp",
-      "publishedDateTime": "2020-10-23T09:02:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.md",
-      "title": "New Jersey judge throws out Trump campaign mail-in ballot lawsuit",
-      "excerpt": "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp",
-      "publishedDateTime": "2020-10-22T21:26:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

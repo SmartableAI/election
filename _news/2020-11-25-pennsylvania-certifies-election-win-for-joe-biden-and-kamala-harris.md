@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pennsylvania certifies election win for Joe Biden and Kamala Harris"
-excerpt: "Pennsylvania has certified the results that Democratic candidates Joe Biden and Kamala Harris have won the race for president and vice president. The news came Tuesday morning that Pennsylvania Secretary of State Kathy Boockvar had certified the results."
+excerpt: "Gov. Tom Wolf signed a Certificate of Ascertainment for the Democratic slate of electors. It was submitted to the Archivist of the United States."
 publishedDateTime: 2020-11-24T23:17:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-webUrl: "https://www.freep.com/story/news/politics/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6407257002/"
-ampWebUrl: "https://amp.freep.com/amp/6407257002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6407257002"
+originalUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2020/11/24/pennsylvania-certifies-election-joe-biden-and-kamala-harris/6408670002/"
+ampWebUrl: "https://amp.freep.com/amp/6408670002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6408670002"
 type: article
 quality: 105
 heat: -1
@@ -727,6 +727,6 @@ related:
       domain: marketplace.org
     quality: 35
 
-secured: "8B8BEN5kuloWy3vWFgpvY5ZJOf2EEXdeL5PfZNuGZlky0Bge8caTPfY9KerE63lWwKmzPIhC8JUcD4bxvaG1y4ryTd6/IyDH09B3eVISvl2Ut+y5DhbE7HxazfhDtoA/iSuh9IlLb+7QucFeKJOmwaiRxgIpzuEaOCZq7dXwAzvtoBeIlF2gtyOrY7tsLLnQLrGVShBPQBceyTSCnc75O7zRwxznZqoRBUWWMaZcwMMVSYdLudfZU91wMuoTTDRG5Fg1LHslcSDvRlK/X1se9t+W5OJJAM7UmHYUZg9CMsQTOKkNkr3J9g2jVztFgSPdQCJEGYlilosyRE7SsSbxrYFIreydd0DGnBbdqw8eGXQ=;WNSSdZwtV6IgMwyOWG//oA=="
+secured: "BJudsXbO+YEvmff5H2zPqNJrdXB482pVi3kDfLEXIAl5RkEc7vkHKwNDqBHhpijfC8GGIpAxTouonOQ5eoU/rHqQCGzhJW/8wiuRu/2IDT+ZnYOR72/UtWrS6usSW1hyOJBHwvmZfVoDVsQuiQMESt9Qyr9sK1U8p89zrWutxmTtj3S9FfxklWtyMeVhl73XItVOKMhL2Q3YfP9DS4xaQfQg2JCV59G0JSR+vjjzcyO0wIpNP+athMyGLwkfvCsmiosMLMkkRO+5cjD02cZLlBegFHtt2B6A7/CebEFEej1ALYyh5734S2FtckV2REsC+rfzqIJxBTe05z9PwAZWq5zeIUx4e76G3FhQOY8Vrhs=;M9ivSa1XeslVbBRSa1xepQ=="
 ---
 
