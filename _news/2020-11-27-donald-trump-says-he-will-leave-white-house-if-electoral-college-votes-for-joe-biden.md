@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-wi
 ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
 type: article
-quality: 133
+quality: 143
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.guim.co.uk/img/media/beca7043845d25d8f4378605e63cee35ad66be4e/0_58_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7f730dff44be223d6da9e85131e176d0"
@@ -2959,6 +2960,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump says he’ll leave if Electoral College seats Biden"
+    excerpt: "President Donald Trump said Thursday that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden’s victory even as he insisted such a decision would be a “mistake."
+    publishedDateTime: 2020-11-27T01:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -4189,6 +4206,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-team-ap-rc-201124_1606241837239_hpMain_2_16x9_1600.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Inching toward exit, Trump says he'll leave if Biden wins Electoral College vote"
+    excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for President-elect Joe Biden, the closest he has come to conceding the Nov. 3 election, even as he repeated unfounded claims of massive voter fraud."
+    publishedDateTime: 2020-11-27T02:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/inching-toward-exit-trump-says-hell-leave-if-biden-wins-electoral-college-vote-idUSKBN2861KU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2861KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2861KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1FC"
+        width: 819
+        height: 545
         isCached: true
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
@@ -12288,6 +12321,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zrUxG6U5xA7OoXx8cXfphktBLIruMrvsWCMsLKddOxr/gsGfHFdOR7Ec3Y0YDjuqtTskEdrFtcksv4z9lFPMtPsRL2bDP77ehhcRRSb+xiJg8IVtrkaICc+kfsvXIEJE+iHchzHobi5/63PYqEmgOL7k2MTr9GyDhXWOQ1kxurhK+oHoGW8HmDT85gz3K7fKgBe8whyQBXasQus4QFkkApV9U8Tjz2k8FN9zVcv/MIcZ0Yg+q4GUJKBfoikqizX7GGc6o0ZVPXGWTRpmvFmZaBeV6W3GVToRgJeiY4bznySSPVTHNldrRYdPysBg1qTxrKr76Vd7iGw9AKYoLrQkNIeYupBsBCWO08f/d673Q/o=;1mMaACeyuhxe7ySSI3DbAQ=="
+secured: "7lAlMtF0dD059tJ0yzoRvadMJIxs5ACden7gGGhQBwpeWWHnvHWm6rluOp66KTA/E79lEM6cEb/l/k6Y86tCLX4/bf6oqXPiOKnIICCfm9zXG+FglZOaxFOl1wKZ9D7mQx6yD+iVLzzn4ZhtaJYIGpBlUgkePyLSYpbNFIx7WtyEzuy599peF0LRmQxAK+1BisZZ3RMV1dsejmvLGflOF/uEBYppFraI6bOGPN59mwtjqJn3vzhgrUVQzRmAO1bGXD9wheGRvD9wZCAW4LCY1PllgoDrEItGzFG1bnIWqR3ZHzbb4K3Z05szlJl6/KlKt8wNfgiGDz0PbR9ZbrvAqCNIThZHQAhSx2C6s7rUaIoK6ih/D3Y6aQ3QT4IRw4ZIL67kNPql/NNFTUOxD4+fFJd8ieJ1uEj1dzQ09ZTHYC9QDS+XW/kGql3Y57+0oKtMv7C2kSr5u2l2ocASdEBI5ndUK6jKrZARokgdpIj8iCykur1ObdlnvbmhP4BSv2PWjMepjh2b7biL3nMUK8zGFg==;3Y6fmA6lUY8wfNkH7dFPcA=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says coronavirus vaccine deliveries will start next week"
+    excerpt: "The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine."
+    publishedDateTime: 2020-11-27T01:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EpFURvqqUk/trump-says-coronavirus-vaccine-deliveries-will-start-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20331826533641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump insists US 'rounding the turn' on coronavirus pandemic at New Hampshire rally"
     excerpt: "President Trump attacked Democratic nominee Joe Biden as the \"shutdown candidate\" and claimed Biden would reverse the U.S.'s \"economic comeback\" at a rally in Manchester, N.H., on Sunday."
     publishedDateTime: 2020-10-25T19:10:40Z

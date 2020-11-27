@@ -489,6 +489,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
+    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
+    publishedDateTime: 2020-11-27T00:37:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Under Trump, New Anti-Abortion Rules Shook Fragile Health Systems Around the World"
     excerpt: "President-elect Joe Biden inherits a global health landscape changed by the Trump administration more than under any Republican president since Ronald Reagan."
     publishedDateTime: 2020-11-24T18:06:00Z

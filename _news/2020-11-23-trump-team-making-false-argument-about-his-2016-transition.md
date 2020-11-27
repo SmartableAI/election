@@ -105,6 +105,22 @@ related:
         width: 1440
         height: 1039
         isCached: true
+  - title: "Swimming through the ‘Trump Undertow’"
+    excerpt: "Hugh Hewitt declared in his Nov. 23 op-ed, “The enduring impact of the Trump Undertow,” that the much-vaunted “will of the people” is worth less to him than a Republican win. His glee that the GOP will now have more control of reapportionment following the census gives the game away. His party, he crowed, will be able to redraw congressional districts and the electoral college to give an outsize value to Republican votes. We are not interested in democracy, just in power. All’s fair — if it works. This is the attitude of his party’s current leader, and Mr. Hewitt is happy to embrace it. He functions as a good party operative. Support our journalism. Subscribe today. In a lame stab at justifying this, he attempted to minimize President-elect Joe Biden’s win, by complaining that President Trump lost by a mere stadium full of votes in key states. He did not try to deal with the actual 6 million-vote difference. This is apparently just a game to Mr. Hewitt. Forget that our lives are at stake. He wants to win, and the future of the nation takes a back seat. Is this patriotism? Only in his painfully abridged vocabulary. I seldom get a laugh out of Hugh Hewitt’s columns, but one line in his Nov. 23 op-ed made me laugh out loud: “The party Trump leads is reluctant to tilt at legal windmills.” What has President Trump been doing since Nov. 3 but tilting at legal windmills? Actually, no, he isn’t tilting at windmills, because windmills are physical realities. Mr. Trump is tilting at phantoms, ghosts. Fever dreams. Illusions. He has filed more than 30 lawsuits, and most were found by courts to be without legal merit and baseless. Not founded on facts. Great big nothingburgers. So, many thanks to whatever op-ed editor left that line in the column when it was on its way to print. It’s fantastic. (In both meanings of the word.)"
+    publishedDateTime: 2020-11-27T02:22:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/swimming-through-the-trump-undertow/2020/11/25/5d19bd9e-2da9-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
+        width: 1440
+        height: 988
+        isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
     publishedDateTime: 2020-11-21T09:53:00Z

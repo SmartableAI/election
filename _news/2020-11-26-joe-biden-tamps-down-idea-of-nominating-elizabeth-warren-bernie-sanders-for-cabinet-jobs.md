@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden tamps down idea of nominating Elizabeth Warren, Bernie Sanders for Cabinet jobs"
 excerpt: "\"We already have significant representation among progressives in our administration, but there's nothing really off the table,\" Biden said."
-publishedDateTime: 2020-11-26T01:26:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
-webUrl: "https://www.freep.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
-ampWebUrl: "https://amp.freep.com/amp/6423813002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6423813002"
+publishedDateTime: 2020-11-26T04:12:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2020/11/25/transition-biden-tamps-down-nomination-sanders-warren-cabinet/6423813002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6423813002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6423813002"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -76,6 +76,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zhAcSo46hWM4iEePo4EgZQ1CBYvodYOFpC66wiBtCg//iYFZkacW4phzwIK204Q6KizUvphYPvgAx7aY0v+WKvMQsMGp+HYNlI6NaA1P+pCWKak6BonjrPBg1QQpXMImUr+T7AmVv2V7e6XzHn5lqPAWYI/m9dmlkbWeSx1UZZXFN03MMBub17ukKK2PzLHaPWUSZptGoe/LleD16hLwYLbBPXh92TaCQoZEDzi726dqygbT/i+s/W7of/mNd/vWJ+X3NVkmemF9gEjiTseMAc/mtHVjN6UQSl19/UwYMATU9K6+yKzavBW9wZyK8v4qgAWj55qgsmqQ2scgz2DQ3pDdfvWZ9s46H7+7LEcbS2w=;M3JWVpU/7Z4LNs9zB0GuLg=="
+secured: "XcP0KWdtMBIg+mZEHdbE5g7Pn4tvw3q5Z7ua4hxooH7Otiwx6ThOmmhWfHAYeo4DcbAZn6fdnZE9QPeHuHxO3Y1ZPS7QLfJ2fQq2SC9WwsiS9QtdgwYDqf1dn2d0qGZpgQuwVa6yyhH0W9nyOxd8EHnkTnJBki39xzQvgZg/UFbfCtRtSJDCLhUO6srozJly/4A7pvquCtWaFcU6bKwdSsof5muIhYgtsx4evchHNYO0xDl3f3v4eY5TmJRxvdBUPpXPd11al8RVXs+UqUjlmGX59fX7MMjMgBiGTrdVY/O9b7pIHnudKDUFANHiQ2YXbX6SL/u6Od31uToFHl6OwOS6JleGLoo6H/GFs2clhGU=;kO1mf17vKrh9hS8kyTOIVQ=="
 ---
 

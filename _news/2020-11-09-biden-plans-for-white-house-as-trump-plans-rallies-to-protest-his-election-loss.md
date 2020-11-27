@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27M0U3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M0U3"
 type: article
 quality: 161
-heat: 16341
+heat: 16381
 published: true
 
 provider:
@@ -1199,6 +1199,22 @@ related:
       - url: "https://i.insider.com/5fa9c4b21df1d50018219bc7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
+    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
+    publishedDateTime: 2020-11-26T23:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 143
+    images:
+      - url: "https://i.guim.co.uk/img/media/beca7043845d25d8f4378605e63cee35ad66be4e/0_58_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7f730dff44be223d6da9e85131e176d0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships"
     excerpt: "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified."
@@ -2944,6 +2960,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump says he’ll leave if Electoral College seats Biden"
+    excerpt: "President Donald Trump said Thursday that he will leave the White House if the Electoral College formalizes President-Elect Joe Biden’s victory even as he insisted such a decision would be a “mistake."
+    publishedDateTime: 2020-11-27T01:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-says-hell-leave-if-electoral-college-seats-biden/2020/11/26/ac1c2b98-304c-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump expected to bring Hunter Biden's former business partner to debate"
     excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
     publishedDateTime: 2020-10-22T21:48:00Z
@@ -4175,6 +4207,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Inching toward exit, Trump says he'll leave if Biden wins Electoral College vote"
+    excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for President-elect Joe Biden, the closest he has come to conceding the Nov. 3 election, even as he repeated unfounded claims of massive voter fraud."
+    publishedDateTime: 2020-11-27T02:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden/inching-toward-exit-trump-says-hell-leave-if-biden-wins-electoral-college-vote-idUSKBN2861KU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2861KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2861KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1FC"
+        width: 819
+        height: 545
+        isCached: true
   - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
     excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
     publishedDateTime: 2020-10-20T02:00:00Z
@@ -4460,22 +4508,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/joe-biden-wilmington-01-gty-jc-201112_1605219129611_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Donald Trump says he will leave White House if electoral college votes for Joe Biden"
-    excerpt: "President’s comments are the closest he has come to admitting defeat in election and set stage for college vote on 14 December"
-    publishedDateTime: 2020-11-26T23:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/nov/27/donald-trump-says-he-will-leave-white-house-if-electoral-college-votes-for-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 133
-    images:
-      - url: "https://i.guim.co.uk/img/media/beca7043845d25d8f4378605e63cee35ad66be4e/0_58_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7f730dff44be223d6da9e85131e176d0"
-        width: 600
-        height: 360
         isCached: true
   - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
     excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"

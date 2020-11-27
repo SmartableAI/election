@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/politics/biden-harris-classified-intelligence-gap/index.html"
 type: article
 quality: 201
-heat: 1781
+heat: 1801
 published: true
 
 provider:
@@ -863,6 +863,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/11/23/us/politics/23transition-briefing-certification/23transition-briefing-certification-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump says it will be 'a very hard thing' to concede to Biden"
+    excerpt: "President Donald Trump said Thursday that it’s going to be difficult for him to concede the 2020 presidential election to Joe Biden even when the Electoral College is expected to soon formally certify Biden’s victory."
+    publishedDateTime: 2020-11-26T23:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-says-it-will-be-very-hard-thing-concede-biden-n1249114"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249114"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249114"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_48/3431339/201126-trump-thanksgiving-axc-555p_b052bc564714c23a6d8e1b64858a9eb8.JPG"
+        width: 6048
+        height: 4024
         isCached: true
   - title: "G.M. Drops Its Support for Trump Climate Rollbacks and Aligns With Biden"
     excerpt: "General Motors said it would no longer back President Trump’s lawsuit seeking to strip California of the power to set fuel economy standards."

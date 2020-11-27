@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-dr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-canvassers-drop-meeting-counties-certify-vote-74277726"
 type: article
 quality: 140
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -472,6 +472,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/22/b0c187f2-d5ba-4f9a-8dfd-9539e2bfb8f5/thumbnail/1200x630/025ce1ee61943a240beca27eeb6e5940/cbsn-fusion-the-legal-problems-trump-could-face-transitioning-back-into-private-life-thumbnail-593356-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
+    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
+    publishedDateTime: 2020-11-27T00:37:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
     excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."

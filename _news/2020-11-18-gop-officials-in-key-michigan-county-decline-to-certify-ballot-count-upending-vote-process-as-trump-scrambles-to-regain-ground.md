@@ -489,6 +489,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Is In No Mood To Concede, But Says Will Leave White House"
+    excerpt: "President Trump took questions from reporters for the first time since he lost the election to Joe Biden. He said he'll leave the White House on Jan. 20, but made clear he won't concede."
+    publishedDateTime: 2020-11-27T00:37:00Z
+    webUrl: "https://www.npr.org/sections/biden-transition-updates/2020/11/26/939386434/trump-is-in-no-mood-to-concede-but-says-will-leave-white-house"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/11/26/gettyimages-1229807318_wide-dc29074408bab292f4fe2832d0280d50e2312ab2.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Republican leaders in Arizona, Michigan, Pennsylvania and Wisconsin throw cold water on ploy to flip electors to Trump"
     excerpt: "Republican leaders in Michigan and other key states won by Joe Biden say they won't participate in a scheme to flip electors to vote for Donald Trump."
     publishedDateTime: 2020-11-14T23:52:00Z

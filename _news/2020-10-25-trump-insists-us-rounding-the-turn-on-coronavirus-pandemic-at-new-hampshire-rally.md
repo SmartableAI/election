@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says coronavirus vaccine deliveries will start next week"
+    excerpt: "The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine."
+    publishedDateTime: 2020-11-27T01:52:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EpFURvqqUk/trump-says-coronavirus-vaccine-deliveries-will-start-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20331826533641.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Blackburn: Voters leaning toward Trump in hope of return to 'normalcy' amid coronavirus pandemic"
     excerpt: "Voters have faith that President Trump will ensure recovery amid the coronavirus pandemic, as the election sees mail-in balloting numbers reaching historic highs, Sen. Marsha Blackburn, R-Tenn., told “Fox & Friends Weekend.”"
     publishedDateTime: 2020-10-25T16:47:10Z

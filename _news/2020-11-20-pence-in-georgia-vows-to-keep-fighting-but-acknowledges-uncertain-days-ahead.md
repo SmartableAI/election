@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump plans trip to Georgia amid his election battle"
+    excerpt: "President Trump said he would travel to Georgia on Saturday to campaign for Sens. Kelly Loeffler and David Perdue ahead of their runoff elections."
+    publishedDateTime: 2020-11-27T01:48:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NT8zHMyuScM/trump-plans-trip-to-georgia-amid-his-election-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-trip-to-georgia-amid-his-election-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-trip-to-georgia-amid-his-election-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64f1a210-dff4-48db-a6f3-62bfd4d76b8c/4152f4df-3684-437a-a048-a5ab0f84ad09/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign files vote-counting lawsuit in Georgia as margin narrows"
     excerpt: "The Trump 2020 Campaign and the Republican Party of Georgia filed a lawsuit in the state Wednesday, alleging that officials in a Democrat-leaning county were counting ballots for the presidential race that were received after polls closed Tuesday. "
     publishedDateTime: 2020-11-05T10:04:28Z
