@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-03-after-fire-fauci-chants-trump-tells-crowd-let-me-wait-till-a-little-bit-after-the-election.md",
+      "title": "After \"Fire Fauci\" chants, Trump tells crowd: \"Let me wait till a little bit after the election\"",
+      "excerpt": "Speaking at a big campaign rally in Opa-locka, Florida, Mr. Trump voiced frustration that the pandemic which has killed more than 231,000 Americans continues to dominate the news, sparking chants of \"Fire Fauci\" from the crowd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-rally-fire-fauci-chants-after-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/02/8180f174-a565-4c3d-b9d2-788be32f5164/thumbnail/1200x630/4cf0bb67e8323ce21d5569410f9a527d/gettyimages-1229411509.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-fire-fauci-chants-after-election/",
+      "publishedDateTime": "2020-11-02T08:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-inside-the-evolution-of-tiffany-trump-12-insiders-chart-her-life-from-upenn-to-rich-kids-of-instagram-to-the-white-house-era.md",
+      "title": "Inside the evolution of Tiffany Trump: 12 insiders chart her life from UPenn to 'Rich Kids of Instagram' to the White House era",
+      "excerpt": "While Tiffany kept a low profile in college, she fell into the public eye after she hit the NYC socialite scene and her father became president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "originalUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f45be7942f43f001ddff0b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiffany-trump-profile-relationship-president-donald-trump-2020-11?amp",
+      "publishedDateTime": "2020-11-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-obama-heads-to-georgia-as-democrats-seek-breakthrough-that-has-eluded-them-in-trump-era.md",
       "title": "Obama heads to Georgia as Democrats seek breakthrough that has eluded them in Trump era ",
       "excerpt": "Joe Biden's campaign is dispatching former President Barack Obama to Atlanta on Monday in a bid to finish Democrats' four-year project of turning Georgia blue.\n    \n",
@@ -1244,114 +1348,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vote-california-pastor-christian-election-2020-bill-johnson.amp",
       "publishedDateTime": "2020-10-31T12:04:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-01-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween.md",
-      "title": "Lizzo dresses as fly in Mike Pence's hair for Halloween",
-      "excerpt": "Lizzo used Halloween to troll Vice President Pence, dressing up as the highly buzzed-about fly that landed on his head during the vice presidential debate while encouraging her fans to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
-      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/lizzo_instagram_10312020.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/523769-lizzo-dresses-as-fly-in-mike-pences-hair-for-halloween?amp",
-      "publishedDateTime": "2020-10-31T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-trump-tells-supporters-in-pennsylvania-they-can-save-the-american-dream-from-corrupt-forces.md",
-      "title": "Trump tells supporters in Pennsylvania they can 'save the American Dream' from 'corrupt forces'",
-      "excerpt": "President Trump on Saturday told supporters in Pennsylvania that they have the chance to “save the American dream” by reelecting him to office on Tuesday -- while warning of “corrupt forces” who are seeking to replace him with Democratic nominee Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fE41akD_eaw/trump-pennsylvania-american-dream",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fE41akD_eaw/trump-pennsylvania-american-dream",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1c28aa3-8f61-431d-b3c4-c43a2bf5827d/ce54a741-f833-4cf7-8887-2ace3de5a30b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pennsylvania-american-dream.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pennsylvania-american-dream.amp",
-      "publishedDateTime": "2020-10-31T09:30:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

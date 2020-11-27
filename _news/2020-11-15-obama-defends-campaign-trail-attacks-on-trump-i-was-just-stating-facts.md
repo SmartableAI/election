@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump slams reporter who asks if he would concede election: 'Don't ever talk to the president that way!'"
+    excerpt: "President Trump took offense during a Thursday news conference when a reporter balked at his claim of voter fraud during the Nov. 3 election."
+    publishedDateTime: 2020-11-27T16:30:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IxY_2Ujrz4M/trump-election-fraud-claims-news-conference-reporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-election-fraud-claims-news-conference-reporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-fraud-claims-news-conference-reporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20326568916358.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Dems urge Trump administration to avoid last-minute rollback of rules, regulations"
     excerpt: "House Democrats are urging the Trump administration to refrain from a spate of last-minute rules rolling back health, safety and environmental protections, warning it could complicate the transition process for President-elect Joe Biden and the incoming Congress."
     publishedDateTime: 2020-11-17T13:26:41Z

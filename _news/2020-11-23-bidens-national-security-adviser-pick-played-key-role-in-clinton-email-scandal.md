@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democrats feuding over who Biden will pick as agriculture secretary"
+    excerpt: "A fight is breaking out among Democrats over who President-elect Joe Biden should choose for agriculture secretary, with one of his key allies advocating for an African American lawmaker to head the department and refocus it on hunger rather than rural America."
+    publishedDateTime: 2020-11-27T15:47:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qAKUA6sLsXo/democrats-feuding-biden-pick-agriculture-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-feuding-biden-pick-agriculture-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ee1e249-8ac5-463e-aa31-19bbadd0e5b0/33c22b54-330a-4095-9eeb-7439bfeb5523/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US should encourage China's rise, Biden national security pick Jake Sullivan says"
     excerpt: "Sullivan served as an adviser to Biden during his vice presidency."
     publishedDateTime: 2020-11-24T03:06:32Z

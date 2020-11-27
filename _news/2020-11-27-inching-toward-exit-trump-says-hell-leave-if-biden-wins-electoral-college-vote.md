@@ -2,11 +2,11 @@
 category: news
 title: "Inching toward exit, Trump says he'll leave if Biden wins Electoral College vote"
 excerpt: "U.S. President Donald Trump said on Thursday he will leave the White House if the Electoral College votes for President-elect Joe Biden, the closest he has come to conceding the Nov. 3 election, even as he repeated unfounded claims of massive voter fraud."
-publishedDateTime: 2020-11-27T07:31:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN28615T"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-idUKKBN28615T"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28615T"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28615T"
+publishedDateTime: 2020-11-27T15:15:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-idUSKBN2861KU"
+webUrl: "https://www.reuters.com/article/usa-biden-idUSKBN2861KU"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2861KU"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2861KU"
 type: article
 quality: 135
 heat: -1
@@ -12336,6 +12336,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "iYM9n7i/ndZF76Ju+c19UCsAcIBIxYWrV97xR2vh1AyWGTvT+s/uEPfAzoKcd8yZ05N/uwXAw+Fr3KtjNZdUZT9fhLQ7Clm3gYIt+D3CsJdMzXm8iK1WPTZdgNe9Xh+JFhwTKwx2k/fRBSJ+JXU4Sd1Ed38tchJpCTyUgLF/d4nqCj1uiThkI6HXixeDImVoZcAwfXcz11Vt87seRm0IvP//yntP+Aw45OWmC8hjg49aYDLkJDp8RvdoOZt6hH7SrG53ZXPs94Tg/KX6aHyR6M9WFvy8YRiESU9MtLoyN2WLr6D9Jkru3U4JD0dEPF/7zROLEYY1+36stAjvJZ6lJcA8VvbkwmFkubiBNw6IRms=;aOrNT4A+GBzCi3LH4x0BTg=="
+secured: "4YReqJprEzujPMX8b3NaIw0MxPONlWeuSLgnfJeECOT7lYtTsvfoNRv6oHNmGCbEwOXmRm8Aheh7yn24tjWJ8Av2Cxw/ufUXRWIGuEoEgVbOUJg8ERHtvfkDt9H0IAyti5WZBe/6mQm58Fz11F+Q6PyiS16hbj/WvJlJU8VHxSXRsu5esA+p/redfrMPNr3dJ/sk1PnRJkKLg9V6Deu/5xM/PcLM0qmloh8cR8o/nHuJVH7DETdWvGrIalk1AFiJp80ABdrbtiL24+4+R6Rg9L+SIvzsQmo6O+i/KARR0JKMsa6PA2tBHhcX8/xphvo5dPGxLkkTN2bTAJrxIctYp+Q3jz/RWgSGrDXg6H7rVww=;w0rkUcCcdTseZ/16BCdqjA=="
 ---
 

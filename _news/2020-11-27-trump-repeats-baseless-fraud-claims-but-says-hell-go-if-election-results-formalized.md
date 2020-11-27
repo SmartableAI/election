@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'Don't talk to me that way': Trump lashes out at White House reporter over election question"
+    excerpt: "Trump angrily admonished Reuters reporter Jeff Mason after he asked if he would concede the election after the Electoral College voted for Biden."
+    publishedDateTime: 2020-11-27T16:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/11/27/president-donald-trump-snaps-reuters-reporter-jeff-mason/6436651002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6436651002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6436651002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/USAT/536f926b-b9a6-40f9-a967-1a3409fc583c-AFP_AFP_8VY78B.jpg?auto=webp&crop=5759,3240,x0,y332&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Map showing Trump landslide based on false report of seized election servers in Germany"
     excerpt: "A map that shows Trump at 410 votes was displayed during a segment on the conspiracy theory about an Army raid to seize servers in Germany."
     publishedDateTime: 2020-11-19T10:11:00Z
@@ -126,6 +142,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROPITHRON4I6XBQN66MZLGOLYI.jpg&w=1440"
         width: 1440
         height: 988
+        isCached: true
+  - title: "Trump officials move to relax rules on killing birds"
+    excerpt: "The Trump administration published an environmental analysis Friday finding that its proposal not to hold companies responsible for killing birds “incidentally” would not cause undue harm, clearly the way for it to finalize the rollback before the president’s term ends on Jan."
+    publishedDateTime: 2020-11-27T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/2020/11/27/migratory-bird-treaty-act/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOKXIAFSLII6TLGIDWCHXLGKOM.jpg&w=1440"
+        width: 1440
+        height: 972
+        isCached: true
+  - title: "Trump may be coming to terms with loss he won’t acknowledge"
+    excerpt: "President Donald Trump still won’t bring himself to concede the election he decisively lost to President-elect Joe Biden"
+    publishedDateTime: 2020-11-27T16:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-may-be-coming-to-terms-with-loss-he-wont-acknowledge/2020/11/27/5f5d43f8-30d0-11eb-9dd6-2d0179981719_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Barack Obama: ‘Donald Trump and I tell very different stories about America’"
     excerpt: "Four years after leaving office, he’s officially the world’s most admired man.But what is Obama’s legacy? The former president talks Trump, Biden and America’s new dawn"
@@ -279,6 +327,6 @@ related:
         height: 834
         isCached: true
 
-secured: "KW1ZBEwZkANqCPDz2zo3/Mi3yTEBPvegqR0HR4GpbpEHH+bR7ozA+y35pg0pXmzX4dUyPx1taB58eKoPYVpuPNF9c98huvDRDHuf3XDaCF1cCXjvsaT6JU/QwdzW4xKLpcN5IRn8Fzn0g6f7mp2IwzFoqNS97SspzRwT//fGnm/GP+FAZhZiSfnT4cTqWtbpKYQ4zMwtXdX8CrbJsal4kwsALPebglDjTywBIMRtDqFoBFBr/49fyjtGfLRUzw454B4fH8dMSsiuNMse81H57OOhFC0bfCDf4RAcnUCss+F8l/UU9P+PU3W7fJf8cpMyunYbn24LADJDDrW16FP4G6R64RdChWKbM/yTWAZRUgo=;W1SJWfhtlnn4VHlzrKvSRw=="
+secured: "1pw5jJEiXyfuf/I3AKi6gbiet/EH9IHCrQJ7eYWnwUQZdRl5ArK4OfAGEQQqMJ0QVTAYki9kVRozwiyo/L3lsEP7tGKjy8zWmemGc4RJW4MS+6md3dJuzCIGeWleSCuSBQfqcMT9fHIBdFGxyxAeS/YhLgfNPz+Ty1Rpl0rGuZGYUPYvdpGJwudzCV0FDwmyY8RR0g9ax72PcP1yeYI7fobfKD/EzpVxQqzJieapR0kbTILPzmlcw1H7VcYNLoHUmcS+IzwYktUWy9Z52IalbXVRZ35P+GmYA8msGlBrqbgjmD8V/1TVwIe0qftj4uODCee+IFL0fFq9mm4Xapq8ADtrR/k3vc/oJjtqYaxhaZogPwAWLBszitvAUGUZIhC0YOmYfU5mXX2CkDxwYKQN0vUObkg/KIzyFUd0CbHNUoeFvKc4tD7Au6K9mQ5t4PychW+uzklKlo+71P5xw2OABddoKfpbgW8USLVTPku5FF+/wkttRSRu+FsQhPUWqhA6qh6lhtoXLMqZEgilvHuZsA==;WiyzilxNaA4qlAgdcjVzxA=="
 ---
 
